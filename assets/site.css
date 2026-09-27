@@ -163,3 +163,15 @@
   .crumb-current{margin-left:0!important}
   .crumb-current:before{content:" / "!important;white-space:pre!important}
 }
+
+
+/* zh-article-desktop-width-2026-09-27 */
+@media(min-width:901px){
+  /* Pages without a TOC should use the full reading width instead of reserving an empty sidebar. */
+  .article-layout:not(:has(.toc)){display:block!important}
+  .article-layout:not(:has(.toc))>.prose{width:100%!important;max-width:none!important}
+  /* When a TOC exists, give the article more room and keep the TOC compact. */
+  .article-layout:has(.toc){grid-template-columns:minmax(0,1fr) 220px!important;gap:30px!important}
+  .article-layout:has(.toc)>.prose{width:100%!important;max-width:none!important}
+  .article-layout:has(.toc)>.toc{width:220px!important;max-width:220px!important}
+}
