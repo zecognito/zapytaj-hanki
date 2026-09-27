@@ -21,6 +21,7 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 | LIVE | /samochod/uzywany-samochod-vin-inspekcja/ | OBD-II scanner | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4hzjiZZ | zapytajhanki-20 | Po sekcji „Pre-purchase inspection” | 2026-09-27 | Pierwszy link afiliacyjny na stronie; skaner jako dodatkowe narzędzie, nie zamiennik niezależnej inspekcji mechanicznej |
 | LIVE | /dom/wynajem-mieszkania/ | moisture meter for walls/drywall | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4hqmybn | zapytajhanki-20 | Sekcja „Zrób dokumentację mieszkania” — podsekcja o wilgoci | 2026-09-27 | Pierwszy link afiliacyjny na stronie; miernik jako dodatkowa wskazówka, nie wykrywacz pleśni ani zamiennik profesjonalnej oceny |
 | LIVE | /dzieci-i-rodzina/college-dorm/ | waterproof dorm mattress protector | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4z0efJ1 | zapytajhanki-20 | Sekcja „11. Co zabrać?” — po sprawdzeniu rozmiaru materaca | 2026-09-27 | Pierwszy link afiliacyjny na stronie; czytelnik ma najpierw sprawdzić housing checklist i rozmiar materaca |
+| LIVE | /dzieci-i-rodzina/college-dorm/ | under-bed storage | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/47muSmo | zapytajhanki-20 | Sekcja „11. Co zabrać?” — przechowywanie pod łóżkiem | 2026-09-27 | Drugi produkt na stronie; przed zakupem czytelnik ma sprawdzić wysokość/konstrukcję łóżka i zasady residence hall |
 
 ## Statusy
 - PLAN — kandydat do monetyzacji
