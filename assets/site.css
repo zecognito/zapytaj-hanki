@@ -175,3 +175,15 @@
   .article-layout:has(.toc)>.prose{width:100%!important;max-width:none!important}
   .article-layout:has(.toc)>.toc{width:220px!important;max-width:220px!important}
 }
+
+
+/* zh-article-desktop-container-balance-2026-09-27 */
+@media(min-width:901px){
+  /* Balance article pages on wide screens: more usable content width, less empty right rail. */
+  main.article>.wrap{width:min(1320px,calc(100% - 48px))!important;max-width:1320px!important}
+  main.article .article-layout{grid-template-columns:minmax(0,1fr) 210px!important;gap:26px!important}
+  main.article .article-layout>.prose{max-width:none!important;width:auto!important}
+  main.article .article-layout>.toc{width:210px!important;max-width:210px!important}
+  main.article .article-layout:not(:has(> .toc)){display:block!important}
+  main.article .article-layout:not(:has(> .toc))>.prose{width:100%!important;max-width:none!important}
+}
