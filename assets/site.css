@@ -166,13 +166,20 @@
 
 /* zh-article-desktop-reading-layout-2026-09-27 */
 @media(min-width:901px){
-  /* One consistent desktop reading column. The former TOC rail compressed articles and created uneven right-side whitespace. */
-  main.article>.wrap{width:min(1320px,calc(100% - 48px))!important;max-width:1320px!important}
-  main.article .article-layout{display:block!important;grid-template-columns:none!important}
-  main.article .article-layout>.prose{width:100%!important;max-width:none!important;min-width:0!important}
+  /* Keep the article at the normal desktop reading width and place the TOC in-flow instead of reserving a sidebar rail. */
+  main.article>.wrap{max-width:1180px!important}
+  main.article .article-layout{display:flex!important;flex-direction:column!important;gap:0!important}
+  main.article .article-layout>.prose{order:2;width:100%!important;max-width:none!important;min-width:0!important}
   main.article .article-layout>.toc,
-  main.article aside.toc{display:none!important}
-  main.article .article-head{width:100%!important;max-width:none!important}
-  main.article .article-head h1{max-width:none!important}
-  main.article .article-deck{max-width:none!important}
+  main.article aside.toc{
+    order:1!important;display:flex!important;flex-wrap:wrap!important;align-items:center!important;
+    gap:7px 9px!important;width:100%!important;margin:0 0 28px!important;padding:16px 18px!important;
+    position:static!important;top:auto!important;border:1px solid var(--line)!important;border-radius:16px!important;
+    background:#fff!important;box-shadow:0 8px 24px rgba(16,42,76,.05)!important
+  }
+  main.article .toc strong{flex:0 0 100%!important;margin:0 0 3px!important;font-size:14px!important}
+  main.article .toc a{
+    display:inline-flex!important;padding:6px 9px!important;border:1px solid var(--line)!important;border-radius:999px!important;
+    background:var(--soft)!important;font-size:13px!important;line-height:1.25!important
+  }
 }
