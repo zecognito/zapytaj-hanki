@@ -23,6 +23,7 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 | LIVE | /dzieci-i-rodzina/college-dorm/ | waterproof dorm mattress protector | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4z0efJ1 | zapytajhanki-20 | Sekcja „11. Co zabrać?” — po sprawdzeniu rozmiaru materaca | 2026-09-27 | Pierwszy link afiliacyjny na stronie; czytelnik ma najpierw sprawdzić housing checklist i rozmiar materaca |
 | LIVE | /dzieci-i-rodzina/college-dorm/ | under-bed storage | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/47muSmo | zapytajhanki-20 | Sekcja „11. Co zabrać?” — przechowywanie pod łóżkiem | 2026-09-27 | Drugi produkt na stronie; przed zakupem czytelnik ma sprawdzić wysokość/konstrukcję łóżka i zasady residence hall |
 | LIVE | /dzieci-i-rodzina/college-dorm/ | portable dorm shower caddy | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4hj3ICY | zapytajhanki-20 | Sekcja „11. Co zabrać?” — przy community bathroom | 2026-09-27 | Trzeci i ostatni planowany produkt na stronie; tylko jeśli dorm ma wspólną łazienkę |
+| LIVE | /dzieci-i-rodzina/summer-camp/ | insulated kids water bottle | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4ryKLiZ | zapytajhanki-20 | Sekcja „12. Upalne dni” — hydration | 2026-09-27 | Pierwszy link afiliacyjny na stronie; czytelnik ma sprawdzić zasady campu dotyczące własnych butelek i uzupełniania wody |
 
 ## Statusy
 - PLAN — kandydat do monetyzacji
