@@ -26,6 +26,7 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 | LIVE | /dzieci-i-rodzina/summer-camp/ | insulated kids water bottle | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4ryKLiZ | zapytajhanki-20 | Sekcja „12. Upalne dni” — hydration | 2026-09-27 | Pierwszy link afiliacyjny na stronie; czytelnik ma sprawdzić zasady campu dotyczące własnych butelek i uzupełniania wody |
 | LIVE | /dzieci-i-rodzina/summer-camp/ | lightweight kids daypack / backpack | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4Aw6D2J | zapytajhanki-20 | Sekcja „12. Upalne dni” — po hydration, przed severe weather | 2026-09-27 | Drugi produkt na stronie; packing list campu ma pierwszeństwo, plecak tylko na rzeczy faktycznie wymagane |
 | LIVE | /dzieci-i-rodzina/harcerstwo-polskie-usa/ | kids camping sleeping bag | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4AC232O | zapytajhanki-20 | Sekcja „11. Biwaki i overnight events” | 2026-09-27 | Pierwszy link afiliacyjny na stronie; przed zakupem rodzic ma sprawdzić oficjalną packing listę i warunki noclegu |
+| LIVE | /dzieci-i-rodzina/harcerstwo-polskie-usa/ | rechargeable camping headlamp | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4hj4GiA | zapytajhanki-20 | Sekcja „11. Biwaki i overnight events” — po śpiworze | 2026-09-27 | Drugi produkt na stronie; przed zakupem rodzic ma sprawdzić packing listę i wymagania drużyny |
 
 ## Statusy
 - PLAN — kandydat do monetyzacji
