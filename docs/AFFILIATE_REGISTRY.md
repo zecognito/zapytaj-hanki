@@ -41,6 +41,8 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 
 | LIVE | /przeprowadzka/pierwsze-mieszkanie-co-kupic/ | under-bed storage organizer | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/3Tw53Nw | zapytajhanki-20 | Sekcja „9. Organizacja: kupuj dopiero po pomiarach” | 2026-09-27 | Trzeci i ostatni planowany produkt na stronie; czytelnik ma najpierw zmierzyć przestrzeń pod łóżkiem |
 
+| LIVE | /przeprowadzka/jak-spakowac-mieszkanie/ | moving boxes / moving box kit | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4hhVnzn | zapytajhanki-20 | Sekcja „3. Jakie kartony do czego?” | 2026-09-27 | Pierwszy link afiliacyjny na stronie; naturalna opcja dla osoby zaczynającej bez zapasu pudeł; bez cen, ocen i recenzji Amazon |
+
 ## Statusy
 - PLAN — kandydat do monetyzacji
 - LIVE — link opublikowany i sprawdzony
