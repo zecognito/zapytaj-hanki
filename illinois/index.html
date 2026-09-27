@@ -556,6 +556,19 @@ html,body{width:100%;max-width:100%;overflow-x:hidden}
  .more-list{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 </style>
+<style>/* zh-desktop-shell-center-fix-2026-09-27 */
+@media(min-width:821px){
+ .state-hero>.shell,.state-main>.shell,.state-footer>.shell{
+   width:calc(100% - 44px)!important;
+   max-width:1180px!important;
+   margin-left:auto!important;
+   margin-right:auto!important;
+   padding-left:22px!important;
+   padding-right:22px!important;
+   box-sizing:border-box!important;
+ }
+}
+</style>
 </head><body>
 <header class="topbar">
   <div class="shell nav">
