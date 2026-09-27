@@ -39,6 +39,8 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 
 | LIVE | /przeprowadzka/pierwsze-mieszkanie-co-kupic/ | kitchen starter set | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4yC3PzL | zapytajhanki-20 | Sekcja „4. Kuchnia” | 2026-09-27 | Drugi link afiliacyjny na stronie; opcja dla osoby zaczynającej praktycznie od zera; bez cen, ocen i recenzji Amazon |
 
+| LIVE | /przeprowadzka/pierwsze-mieszkanie-co-kupic/ | under-bed storage organizer | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/3Tw53Nw | zapytajhanki-20 | Sekcja „9. Organizacja: kupuj dopiero po pomiarach” | 2026-09-27 | Trzeci i ostatni planowany produkt na stronie; czytelnik ma najpierw zmierzyć przestrzeń pod łóżkiem |
+
 ## Statusy
 - PLAN — kandydat do monetyzacji
 - LIVE — link opublikowany i sprawdzony
