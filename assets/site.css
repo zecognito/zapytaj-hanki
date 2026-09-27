@@ -187,3 +187,15 @@
   main.article .article-layout:not(:has(> .toc)){display:block!important}
   main.article .article-layout:not(:has(> .toc))>.prose{width:100%!important;max-width:none!important}
 }
+
+
+/* zh-article-desktop-remove-toc-2026-09-27 */
+@media(min-width:901px){
+  /* The TOC sidebar was compressing otherwise normal article pages. Keep one consistent reading width. */
+  main.article .article-layout{display:block!important}
+  main.article .article-layout>.prose{width:100%!important;max-width:none!important}
+  main.article .article-layout>.toc{display:none!important}
+  main.article .article-head{width:100%!important;max-width:none!important}
+  main.article .article-head h1{max-width:none!important}
+  main.article .article-deck{max-width:none!important}
+}
