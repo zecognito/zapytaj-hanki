@@ -29,6 +29,7 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 | LIVE | /dzieci-i-rodzina/harcerstwo-polskie-usa/ | rechargeable camping headlamp | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4hj4GiA | zapytajhanki-20 | Sekcja „11. Biwaki i overnight events” — po śpiworze | 2026-09-27 | Drugi produkt na stronie; przed zakupem rodzic ma sprawdzić packing listę i wymagania drużyny |
 | LIVE | /dzieci-i-rodzina/harcerstwo-polskie-usa/ | lightweight camping sleeping pad | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4huxPGf | zapytajhanki-20 | Sekcja „11. Biwaki i overnight events” — po śpiworze i latarce | 2026-09-27 | Trzeci i ostatni planowany produkt na stronie; zakup dopiero po sprawdzeniu packing listy i sleeping arrangements |
 | LIVE | /halloween/jak-przygotowac-dom/ | battery-operated LED pumpkin lights / flameless lights | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4rE6K8m | zapytajhanki-20 | Sekcja „10. Świeca w dyni czy LED?” | 2026-09-27 | Naturalne uzupełnienie istniejącej rekomendacji battery-operated lights zamiast otwartego płomienia |
+| LIVE | /halloween/sugar-cookies/ | Halloween cookie cutters set | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4z4z2vd | zapytajhanki-20 | Sekcja „8. Wycinanie foremkami” | 2026-09-27 | Naturalne narzędzie potrzebne do cut-out sugar cookies; bez cen i ocen Amazon |
 
 ## Statusy
 - PLAN — kandydat do monetyzacji
