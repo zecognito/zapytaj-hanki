@@ -19,6 +19,7 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 | LIVE | /samochod/roadside-assistance/ | portable tire inflator | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4xSak06 | zapytajhanki-20 | Sekcja „Flat tire” | 2026-09-27 | Drugi produkt na stronie; afiliacja oznaczona przy linku |
 | LIVE | /samochod/roadside-assistance/ | car emergency roadside kit | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4dB2796 | zapytajhanki-20 | Sekcja „Co warto wozić w samochodzie?” | 2026-09-27 | Trzeci i ostatni planowany produkt na tej stronie |
 | LIVE | /samochod/uzywany-samochod-vin-inspekcja/ | OBD-II scanner | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4hzjiZZ | zapytajhanki-20 | Po sekcji „Pre-purchase inspection” | 2026-09-27 | Pierwszy link afiliacyjny na stronie; skaner jako dodatkowe narzędzie, nie zamiennik niezależnej inspekcji mechanicznej |
+| LIVE | /dom/wynajem-mieszkania/ | moisture meter for walls/drywall | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4hqmybn | zapytajhanki-20 | Sekcja „Zrób dokumentację mieszkania” — podsekcja o wilgoci | 2026-09-27 | Pierwszy link afiliacyjny na stronie; miernik jako dodatkowa wskazówka, nie wykrywacz pleśni ani zamiennik profesjonalnej oceny |
 
 ## Statusy
 - PLAN — kandydat do monetyzacji
