@@ -128,3 +128,20 @@
   .site-header .links.is-open .nav-cta{grid-column:1/-1!important;justify-content:center!important;background:#2f694c!important;color:#fff!important;border-color:#2f694c!important}
   .site-header .menu{border-radius:14px!important;min-width:82px}
 }
+
+/* zh-desktop-nav-fix-2026-09-27 */
+@media(min-width:821px){
+  .topbar .shell{max-width:1280px!important;padding-left:18px!important;padding-right:18px!important}
+  .topbar .nav{height:68px!important;min-height:68px!important;gap:18px!important}
+  .topbar .hanka-state-brand{width:170px!important;height:46px!important;flex:0 0 170px!important}
+  .topbar .zh-unified-nav{margin-left:auto!important;display:flex!important;align-items:center!important;justify-content:flex-end!important;gap:0!important;min-width:0!important;flex:1 1 auto!important}
+  .topbar .zh-unified-nav>a{display:flex!important;align-items:center!important;justify-content:center!important;min-height:38px!important;padding:7px 9px!important;border-radius:10px!important;white-space:nowrap!important;color:#315d43!important;font-size:12px!important;font-weight:800!important;line-height:1!important;text-align:center!important}
+  .topbar .zh-unified-nav>a:hover{background:#fff0f5!important}
+  .topbar .zh-unified-nav>a.zh-all-topics{margin-left:4px!important;background:#f2f8f3!important}
+  .topbar .menu{display:none!important}
+}
+@media(min-width:821px) and (max-width:1080px){
+  .topbar .nav{gap:10px!important}
+  .topbar .hanka-state-brand{width:145px!important;flex-basis:145px!important}
+  .topbar .zh-unified-nav>a{padding-left:6px!important;padding-right:6px!important;font-size:10.5px!important}
+}
