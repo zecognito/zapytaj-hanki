@@ -35,6 +35,8 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 | LIVE | /halloween/kostium-na-halloween/ | reflective tape / stickers for visibility | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4iMXUTh | zapytajhanki-20 | Sekcja „5. Widoczność po zmroku” | 2026-09-27 | Evergreen visibility accessory; natural fit with existing CPSC/NHTSA safety guidance |
 | LIVE | /halloween/trick-or-treating/ | trick-or-treat candy bag / bucket | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/46IYYAm | zapytajhanki-20 | Przy „Najkrócej” — torba lub wiaderko na słodycze | 2026-09-27 | Naturalny element podstawowego setupu trick-or-treating; bez cen i ocen Amazon |
 
+| LIVE | /przeprowadzka/pierwsze-mieszkanie-co-kupic/ | basic tool kit | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/46MdLuc | zapytajhanki-20 | Sekcja „6. Podstawowe narzędzia” | 2026-09-27 | Pierwszy link afiliacyjny na stronie; naturalny starter kit do prostych prac i składania mebli; lease i zasady property management mają pierwszeństwo |
+
 ## Statusy
 - PLAN — kandydat do monetyzacji
 - LIVE — link opublikowany i sprawdzony
