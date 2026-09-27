@@ -32,6 +32,7 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 | LIVE | /halloween/sugar-cookies/ | Halloween cookie cutters set | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4z4z2vd | zapytajhanki-20 | Sekcja „8. Wycinanie foremkami” | 2026-09-27 | Naturalne narzędzie potrzebne do cut-out sugar cookies; bez cen i ocen Amazon |
 | LIVE | /halloween/caramel-apples/ | candy thermometer | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/46OTyUt | zapytajhanki-20 | Sekcja „7. Candy thermometer naprawdę pomaga” | 2026-09-27 | Naturalne narzędzie do kontroli temperatury karmelu; bez cen i ocen Amazon |
 | LIVE | /halloween/halloween-punch/ | punch bowl with ladle | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4hNyVOC | zapytajhanki-20 | Sekcja „4. Wybierz dużą miskę” | 2026-09-27 | Naturalne naczynie do przepisu; artykuł już zaleca punch bowl lub dużą stabilną misę z chochlą |
+| LIVE | /halloween/kostium-na-halloween/ | reflective tape / stickers for visibility | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4iMXUTh | zapytajhanki-20 | Sekcja „5. Widoczność po zmroku” | 2026-09-27 | Evergreen visibility accessory; natural fit with existing CPSC/NHTSA safety guidance |
 
 ## Statusy
 - PLAN — kandydat do monetyzacji
