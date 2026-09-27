@@ -178,11 +178,10 @@
 }
 
 
-/* zh-article-desktop-hero-spacing-2026-09-27 */
+/* zh-article-desktop-card-top-padding-2026-09-27 */
 @media(min-width:901px){
-  main.article .article-head{
-    margin-top:12px!important;
-    margin-bottom:24px!important;
-    padding:28px 32px 30px!important;
-  }
+  main.article .article-head{padding-top:18px!important}
+  main.article .answer,
+  main.article .summary,
+  main.article .warning{padding-top:14px!important}
 }
