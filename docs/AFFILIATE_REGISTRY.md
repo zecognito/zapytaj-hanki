@@ -33,6 +33,7 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 | LIVE | /halloween/caramel-apples/ | candy thermometer | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/46OTyUt | zapytajhanki-20 | Sekcja „7. Candy thermometer naprawdę pomaga” | 2026-09-27 | Naturalne narzędzie do kontroli temperatury karmelu; bez cen i ocen Amazon |
 | LIVE | /halloween/halloween-punch/ | punch bowl with ladle | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4hNyVOC | zapytajhanki-20 | Sekcja „4. Wybierz dużą miskę” | 2026-09-27 | Naturalne naczynie do przepisu; artykuł już zaleca punch bowl lub dużą stabilną misę z chochlą |
 | LIVE | /halloween/kostium-na-halloween/ | reflective tape / stickers for visibility | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4iMXUTh | zapytajhanki-20 | Sekcja „5. Widoczność po zmroku” | 2026-09-27 | Evergreen visibility accessory; natural fit with existing CPSC/NHTSA safety guidance |
+| LIVE | /halloween/trick-or-treating/ | trick-or-treat candy bag / bucket | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/46IYYAm | zapytajhanki-20 | Przy „Najkrócej” — torba lub wiaderko na słodycze | 2026-09-27 | Naturalny element podstawowego setupu trick-or-treating; bez cen i ocen Amazon |
 
 ## Statusy
 - PLAN — kandydat do monetyzacji
