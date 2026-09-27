@@ -25,6 +25,7 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 | LIVE | /dzieci-i-rodzina/college-dorm/ | portable dorm shower caddy | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4hj3ICY | zapytajhanki-20 | Sekcja „11. Co zabrać?” — przy community bathroom | 2026-09-27 | Trzeci i ostatni planowany produkt na stronie; tylko jeśli dorm ma wspólną łazienkę |
 | LIVE | /dzieci-i-rodzina/summer-camp/ | insulated kids water bottle | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4ryKLiZ | zapytajhanki-20 | Sekcja „12. Upalne dni” — hydration | 2026-09-27 | Pierwszy link afiliacyjny na stronie; czytelnik ma sprawdzić zasady campu dotyczące własnych butelek i uzupełniania wody |
 | LIVE | /dzieci-i-rodzina/summer-camp/ | lightweight kids daypack / backpack | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4Aw6D2J | zapytajhanki-20 | Sekcja „12. Upalne dni” — po hydration, przed severe weather | 2026-09-27 | Drugi produkt na stronie; packing list campu ma pierwszeństwo, plecak tylko na rzeczy faktycznie wymagane |
+| LIVE | /dzieci-i-rodzina/harcerstwo-polskie-usa/ | kids camping sleeping bag | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4AC232O | zapytajhanki-20 | Sekcja „11. Biwaki i overnight events” | 2026-09-27 | Pierwszy link afiliacyjny na stronie; przed zakupem rodzic ma sprawdzić oficjalną packing listę i warunki noclegu |
 
 ## Statusy
 - PLAN — kandydat do monetyzacji
