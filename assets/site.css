@@ -145,3 +145,21 @@
   .topbar .hanka-state-brand{width:145px!important;flex-basis:145px!important}
   .topbar .zh-unified-nav>a{padding-left:6px!important;padding-right:6px!important;font-size:10.5px!important}
 }
+
+/* zh-article-desktop-normalization-2026-09-27 */
+@media(min-width:901px){
+  .article>.wrap{max-width:1180px!important}
+  .article-layout{grid-template-columns:minmax(0,1fr) 250px!important;gap:38px!important;align-items:start!important}
+  .article-layout>.prose{min-width:0!important}
+  .toc{position:static!important;top:auto!important;align-self:start!important;padding:18px 20px!important}
+  .related{margin:18px 0 30px!important;gap:12px!important}
+  .related a{min-width:0!important}
+  .sources{display:block!important;clear:both!important;margin:30px 0 26px!important;padding:22px 24px!important;overflow:hidden!important}
+  .sources h2{margin-top:0!important}
+  .sources p{margin:0 0 14px!important;padding:0!important;overflow-wrap:anywhere!important}
+  .sources p:last-child{margin-bottom:0!important}
+  .sources a{display:inline!important;margin:0!important;padding:0!important}
+  .crumb{display:flex!important;align-items:center!important;flex-wrap:wrap!important;gap:0!important}
+  .crumb-current{margin-left:0!important}
+  .crumb-current:before{content:" / "!important;white-space:pre!important}
+}
