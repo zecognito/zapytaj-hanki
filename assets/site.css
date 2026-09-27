@@ -176,3 +176,13 @@
   main.article .article-head h1{max-width:none!important}
   main.article .article-deck{max-width:none!important}
 }
+
+
+/* zh-article-desktop-hero-spacing-2026-09-27 */
+@media(min-width:901px){
+  main.article .article-head{
+    margin-top:12px!important;
+    margin-bottom:24px!important;
+    padding:28px 32px 30px!important;
+  }
+}
