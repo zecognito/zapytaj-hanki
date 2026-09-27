@@ -180,11 +180,11 @@
 
 /* zh-article-desktop-card-top-padding-2026-09-27 */
 @media(min-width:901px){
-  main.article .article-head{padding-top:10px!important}
+  main.article .article-head{padding-top:16px!important}
   main.article .article-head .eyebrow{margin-top:0!important}
   main.article .answer,
   main.article .summary,
-  main.article .warning{padding-top:6px!important}
+  main.article .warning{padding-top:12px!important}
   main.article .answer>h2,
   main.article .summary>h2,
   main.article .warning>h2{margin-top:0!important}
