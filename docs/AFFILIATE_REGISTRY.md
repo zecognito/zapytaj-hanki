@@ -47,6 +47,8 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 
 | LIVE | /przeprowadzka/jak-spakowac-mieszkanie/ | moving labels / colored labels | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4xKCKZB | zapytajhanki-20 | Sekcja „6. System oznaczania kartonów” | 2026-09-27 | Trzeci i ostatni planowany produkt na stronie; kolorowe etykiety jako opcjonalne ułatwienie organizacji kartonów; bez cen, ocen i recenzji Amazon |
 
+| LIVE | /przeprowadzka/jak-pakowac-talerze-szklo/ | dish / glass packing protection kit | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4AGmyvm | zapytajhanki-20 | Sekcja „3. Jak pakować talerze?” | 2026-09-27 | Pierwszy i jedyny planowany link afiliacyjny na stronie; opcjonalne ochraniacze/przekładki przy większym komplecie zastawy; bez cen, ocen i recenzji Amazon |
+
 ## Statusy
 - PLAN — kandydat do monetyzacji
 - LIVE — link opublikowany i sprawdzony
