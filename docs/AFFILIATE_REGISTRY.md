@@ -15,6 +15,7 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 | Status | Strona | Cel produktu | Produkt / ASIN | Docelowy URL Amazon | Tag | Umiejscowienie | Data sprawdzenia | Uwagi |
 |---|---|---|---|---|---|---|---|---|
 | LIVE | /halloween/pumpkin-carving/ | pumpkin carving kit | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4e0qqgN | zapytajhanki-20 | Sekcja 3: „Co przygotować przed rozpoczęciem?” | 2026-09-27 | Pierwszy link afiliacyjny Hanki; wygenerowany przez Amazon Mobile GetLink |
+| LIVE | /samochod/roadside-assistance/ | portable jump starter | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4iRVaUO | zapytajhanki-20 | Po sekcji „Plan może obejmować” | 2026-09-27 | Link wygenerowany przez Amazon Mobile GetLink |
 
 ## Statusy
 - PLAN — kandydat do monetyzacji
