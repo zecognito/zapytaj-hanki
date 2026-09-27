@@ -167,7 +167,7 @@
 /* zh-article-desktop-reading-layout-2026-09-27 */
 @media(min-width:901px){
   /* One consistent desktop reading column. The former TOC rail compressed articles and created uneven right-side whitespace. */
-  main.article>.wrap{width:min(1320px,calc(100% - 48px))!important;max-width:1320px!important}
+  main.article>.wrap{width:min(1180px,calc(100% - 48px))!important;max-width:1180px!important}
   main.article .article-layout{display:block!important;grid-template-columns:none!important}
   main.article .article-layout>.prose{width:100%!important;max-width:none!important;min-width:0!important}
   main.article .article-layout>.toc,
