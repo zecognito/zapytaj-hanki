@@ -14,7 +14,7 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 ## Rejestr
 | Status | Strona | Cel produktu | Produkt / ASIN | Docelowy URL Amazon | Tag | Umiejscowienie | Data sprawdzenia | Uwagi |
 |---|---|---|---|---|---|---|---|---|
-| — | — | — | — | — | zapytajhanki-20 | — | — | Pierwsze linki jeszcze nieopublikowane |
+| LIVE | /halloween/pumpkin-carving/ | pumpkin carving kit | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4e0qqgN | zapytajhanki-20 | Sekcja 3: „Co przygotować przed rozpoczęciem?” | 2026-09-27 | Pierwszy link afiliacyjny Hanki; wygenerowany przez Amazon Mobile GetLink |
 
 ## Statusy
 - PLAN — kandydat do monetyzacji
