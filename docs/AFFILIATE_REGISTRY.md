@@ -18,6 +18,7 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 | LIVE | /samochod/roadside-assistance/ | portable jump starter | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4iRVaUO | zapytajhanki-20 | Po sekcji „Plan może obejmować” | 2026-09-27 | Link wygenerowany przez Amazon Mobile GetLink |
 | LIVE | /samochod/roadside-assistance/ | portable tire inflator | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4xSak06 | zapytajhanki-20 | Sekcja „Flat tire” | 2026-09-27 | Drugi produkt na stronie; afiliacja oznaczona przy linku |
 | LIVE | /samochod/roadside-assistance/ | car emergency roadside kit | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4dB2796 | zapytajhanki-20 | Sekcja „Co warto wozić w samochodzie?” | 2026-09-27 | Trzeci i ostatni planowany produkt na tej stronie |
+| LIVE | /samochod/uzywany-samochod-vin-inspekcja/ | OBD-II scanner | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4hzjiZZ | zapytajhanki-20 | Po sekcji „Pre-purchase inspection” | 2026-09-27 | Pierwszy link afiliacyjny na stronie; skaner jako dodatkowe narzędzie, nie zamiennik niezależnej inspekcji mechanicznej |
 
 ## Statusy
 - PLAN — kandydat do monetyzacji
