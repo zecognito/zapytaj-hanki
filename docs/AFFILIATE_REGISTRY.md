@@ -49,6 +49,8 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 
 | LIVE | /przeprowadzka/jak-pakowac-talerze-szklo/ | dish / glass packing protection kit | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4AGmyvm | zapytajhanki-20 | Sekcja „3. Jak pakować talerze?” | 2026-09-27 | Pierwszy i jedyny planowany link afiliacyjny na stronie; opcjonalne ochraniacze/przekładki przy większym komplecie zastawy; bez cen, ocen i recenzji Amazon |
 
+| LIVE | /przeprowadzka/jak-zabezpieczyc-materac/ | mattress moving bag / cover | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4rAMRyH | zapytajhanki-20 | Sekcja „4. Worek lub pokrowiec chroni przed brudem” | 2026-09-27 | Pierwszy i jedyny planowany link afiliacyjny na stronie; czytelnik ma najpierw sprawdzić rozmiar materaca; bez cen, ocen i recenzji Amazon |
+
 ## Statusy
 - PLAN — kandydat do monetyzacji
 - LIVE — link opublikowany i sprawdzony
