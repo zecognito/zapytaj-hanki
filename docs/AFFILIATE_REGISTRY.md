@@ -45,6 +45,8 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 
 | LIVE | /przeprowadzka/jak-spakowac-mieszkanie/ | packing tape + dispenser | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4e0wNRf | zapytajhanki-20 | Sekcja „2. Przygotuj stację pakowania” | 2026-09-27 | Drugi link afiliacyjny na stronie; praktyczne narzędzie przy większej liczbie kartonów; bez cen, ocen i recenzji Amazon |
 
+| LIVE | /przeprowadzka/jak-spakowac-mieszkanie/ | moving labels / colored labels | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4xKCKZB | zapytajhanki-20 | Sekcja „6. System oznaczania kartonów” | 2026-09-27 | Trzeci i ostatni planowany produkt na stronie; kolorowe etykiety jako opcjonalne ułatwienie organizacji kartonów; bez cen, ocen i recenzji Amazon |
+
 ## Statusy
 - PLAN — kandydat do monetyzacji
 - LIVE — link opublikowany i sprawdzony
