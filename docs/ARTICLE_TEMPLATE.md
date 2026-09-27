@@ -38,3 +38,14 @@ Preferowane źródła pierwotne: agencje federalne, stanowe, regulatorzy i oficj
 - Używamy amerykańskich terminów (np. credit score, mortgage, 401(k)) tam, gdzie naturalnie funkcjonują w życiu Polaków w USA.
 - UI i zwykłe pojęcia tłumaczymy poprawnie: „kredyt”, nie „credit”.
 - Czytelność mobilna i dla starszych odbiorców: komfortowy rozmiar tekstu, krótkie akapity, wyraźne nagłówki.
+
+
+## Desktop spacing standard — 2026-09-27
+
+For article pages at desktop widths (901px+), use the shared `assets/site.css` rules as the source of truth:
+- article hero top padding: 24px
+- `.answer`, `.summary`, `.warning` top padding: 20px
+- article eyebrow top margin: 0
+- callout heading top margin: 0
+
+Do not reintroduce page-level desktop top-margin overrides such as `style="margin-top:34px"` for article eyebrows. Mobile spacing remains controlled by the existing mobile rules.
