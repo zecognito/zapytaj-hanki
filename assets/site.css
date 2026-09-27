@@ -164,37 +164,14 @@
   .crumb-current:before{content:" / "!important;white-space:pre!important}
 }
 
-
-/* zh-article-desktop-width-2026-09-27 */
+/* zh-article-desktop-reading-layout-2026-09-27 */
 @media(min-width:901px){
-  /* Pages without a TOC should use the full reading width instead of reserving an empty sidebar. */
-  .article-layout:not(:has(.toc)){display:block!important}
-  .article-layout:not(:has(.toc))>.prose{width:100%!important;max-width:none!important}
-  /* When a TOC exists, give the article more room and keep the TOC compact. */
-  .article-layout:has(.toc){grid-template-columns:minmax(0,1fr) 220px!important;gap:30px!important}
-  .article-layout:has(.toc)>.prose{width:100%!important;max-width:none!important}
-  .article-layout:has(.toc)>.toc{width:220px!important;max-width:220px!important}
-}
-
-
-/* zh-article-desktop-container-balance-2026-09-27 */
-@media(min-width:901px){
-  /* Balance article pages on wide screens: more usable content width, less empty right rail. */
+  /* One consistent desktop reading column. The former TOC rail compressed articles and created uneven right-side whitespace. */
   main.article>.wrap{width:min(1320px,calc(100% - 48px))!important;max-width:1320px!important}
-  main.article .article-layout{grid-template-columns:minmax(0,1fr) 210px!important;gap:26px!important}
-  main.article .article-layout>.prose{max-width:none!important;width:auto!important}
-  main.article .article-layout>.toc{width:210px!important;max-width:210px!important}
-  main.article .article-layout:not(:has(> .toc)){display:block!important}
-  main.article .article-layout:not(:has(> .toc))>.prose{width:100%!important;max-width:none!important}
-}
-
-
-/* zh-article-desktop-remove-toc-2026-09-27 */
-@media(min-width:901px){
-  /* The TOC sidebar was compressing otherwise normal article pages. Keep one consistent reading width. */
-  main.article .article-layout{display:block!important}
-  main.article .article-layout>.prose{width:100%!important;max-width:none!important}
-  main.article .article-layout>.toc{display:none!important}
+  main.article .article-layout{display:block!important;grid-template-columns:none!important}
+  main.article .article-layout>.prose{width:100%!important;max-width:none!important;min-width:0!important}
+  main.article .article-layout>.toc,
+  main.article aside.toc{display:none!important}
   main.article .article-head{width:100%!important;max-width:none!important}
   main.article .article-head h1{max-width:none!important}
   main.article .article-deck{max-width:none!important}
