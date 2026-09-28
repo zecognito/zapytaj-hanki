@@ -53,6 +53,8 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 
 | LIVE | /przeprowadzka/ubrania-na-wieszakach/ | wardrobe box / hanging clothes moving solution | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/46OWUXz | zapytajhanki-20 | Sekcja „3. Wardrobe box — najwygodniejsza metoda” | 2026-09-27 | Pierwszy i jedyny planowany link afiliacyjny na stronie; rozwiązanie do przewożenia ubrań bez zdejmowania z wieszaków; bez cen, ocen i recenzji Amazon |
 
+| LIVE | /thanksgiving/indyk-turkey/ | food thermometer | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4xSnESa | zapytajhanki-20 | Sekcja „6. Co przygotować przed pieczeniem?” | 2026-09-27 | Pierwszy link afiliacyjny na stronie; termometr jako praktyczne narzędzie do sprawdzenia bezpiecznej temperatury indyka; bez cen, ocen i recenzji Amazon |
+
 ## Statusy
 - PLAN — kandydat do monetyzacji
 - LIVE — link opublikowany i sprawdzony
