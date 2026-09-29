@@ -58,5 +58,10 @@ export function describeResult(result) {
   const choiceKeys = choice && typeof choice === "object" ? Object.keys(choice).slice(0, 12) : [];
   const message = choice?.message;
   const messageKeys = message && typeof message === "object" ? Object.keys(message).slice(0, 12) : [];
-  return { resultType, resultKeys, choiceKeys, messageKeys };
+  const content = message?.content;
+  const contentType = Array.isArray(content) ? "array" : typeof content;
+  const finishReason = typeof choice?.finish_reason === "string" ? choice.finish_reason : "";
+  const contentLength = typeof content === "string" ? content.length : Array.isArray(content) ? content.length : 0;
+  const reasoningLength = typeof message?.reasoning_content === "string" ? message.reasoning_content.length : 0;
+  return { resultType, resultKeys, choiceKeys, messageKeys, contentType, contentLength, reasoningLength, finishReason };
 }
