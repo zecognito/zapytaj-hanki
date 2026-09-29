@@ -128,7 +128,7 @@ function authorized(request, env) {
 }
 
 function adminPage() {
-  return `<!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Hanka Brain — seed</title><style>body{font:16px/1.45 system-ui;margin:0;background:#f7f7f3;color:#173f32}.w{max-width:620px;margin:auto;padding:28px 18px}input,button{width:100%;box-sizing:border-box;font:inherit;border-radius:14px;padding:14px}input{border:1px solid #ccd5d0;background:#fff}button{margin-top:12px;border:0;background:#173f32;color:#fff;font-weight:800}pre{white-space:pre-wrap;background:#fff;padding:14px;border-radius:14px;border:1px solid #e1e5e2}</style></head><body><main class="w"><h1>Hanka Brain</h1><p>Pierwszy korpus Hanka Brain: 27 przewodników. Sekret zostaje wysłany wyłącznie do tego Workera przez HTTPS i nie jest zapisywany przez stronę.</p><input id="s" type="password" autocomplete="off" placeholder="HANKA_INGEST_SECRET"><button id="b">Załaduj 27 przewodników</button><pre id="o">Gotowe do testu.</pre></main><script>b.onclick=async()=>{const secret=s.value.trim();if(!secret){o.textContent="Wpisz sekret.";return}b.disabled=true;o.textContent="Ładowanie…";try{const r=await fetch("/admin/seed",{method:"POST",headers:{Authorization:"Bearer "+secret}});const d=await r.json();o.textContent=JSON.stringify(d,null,2)}catch(e){o.textContent="Błąd: "+e.message}finally{b.disabled=false;s.value=""}}</script></body></html>`;
+  return `<!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Hanka Brain — seed</title><style>body{font:16px/1.45 system-ui;margin:0;background:#f7f7f3;color:#173f32}.w{max-width:620px;margin:auto;padding:28px 18px}input,button{width:100%;box-sizing:border-box;font:inherit;border-radius:14px;padding:14px}input{border:1px solid #ccd5d0;background:#fff}button{margin-top:12px;border:0;background:#173f32;color:#fff;font-weight:800}pre{white-space:pre-wrap;background:#fff;padding:14px;border-radius:14px;border:1px solid #e1e5e2}</style></head><body><main class="w"><h1>Hanka Brain</h1><p>Pierwszy korpus Hanka Brain: 27 przewodników. Sekret zostaje wysłany wyłącznie do tego Workera przez HTTPS i nie jest zapisywany przez stronę.</p><input id="s" type="password" autocomplete="off" placeholder="HANKA_INGEST_SECRET"><button id="b">Załaduj 27 przewodników</button><pre id="o">Gotowe do testu.</pre></main><script>b.onclick=async()=>{const secret=s.value.trim();if(!secret){o.textContent="Wpisz sekret.";return}b.disabled=true;o.textContent="Ładowanie partii 1/5…";try{let docs=0,vectors=0,pages=[];for(let batch=0;batch<5;batch++){o.textContent="Ładowanie partii "+(batch+1)+"/5…";const r=await fetch("/admin/seed?batch="+batch,{method:"POST",headers:{Authorization:"Bearer "+secret}});const d=await r.json();if(!r.ok||!d.ok)throw new Error(d.detail||d.error||("HTTP "+r.status));docs+=d.documents||0;vectors+=d.vectors||0;pages=pages.concat(d.pages||[])}o.textContent=JSON.stringify({ok:true,documents:docs,vectors,pages},null,2)}catch(e){o.textContent=JSON.stringify({error:"Seed failed",detail:e.message},null,2)}finally{b.disabled=false;s.value=""}}</script></body></html>`;
 }
 
 function testerPage() {
@@ -157,10 +157,24 @@ export default {
     if (url.pathname === "/admin/seed" && request.method === "POST") {
       if (!authorized(request, env)) return json({ error: "Unauthorized" }, 401, request);
       try {
+        const batchSize = 6;
+        const requestedBatch = Number(url.searchParams.get("batch") || "0");
+        const totalBatches = Math.ceil(SEED_URLS.length / batchSize);
+        if (!Number.isInteger(requestedBatch) || requestedBatch < 0 || requestedBatch >= totalBatches) {
+          return json({ error: "Invalid seed batch", totalBatches }, 400, request);
+        }
+        const batchUrls = SEED_URLS.slice(requestedBatch * batchSize, (requestedBatch + 1) * batchSize);
         const documents = [];
-        for (const seedUrl of SEED_URLS) documents.push(await fetchSeedDocument(seedUrl));
+        for (const seedUrl of batchUrls) documents.push(await fetchSeedDocument(seedUrl));
         const result = await upsertDocuments(env, documents);
-        return json({ ok: true, documents: documents.length, vectors: result.vectors, pages: documents.map((d) => ({ title: d.title, url: d.url })) }, 200, request);
+        return json({
+          ok: true,
+          batch: requestedBatch + 1,
+          totalBatches,
+          documents: documents.length,
+          vectors: result.vectors,
+          pages: documents.map((d) => ({ title: d.title, url: d.url }))
+        }, 200, request);
       } catch (error) {
         console.error("Hanka seed failed", error);
         return json({ error: "Seed failed", detail: String(error?.message || error) }, 502, request);
