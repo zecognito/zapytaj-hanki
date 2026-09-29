@@ -1,6 +1,6 @@
 const EMBEDDING_MODEL = "@cf/baai/bge-m3";
 const TOP_K = 6;
-const MIN_SCORE = 0.55;
+const MIN_SCORE = 0.45;
 
 function normalizeText(text) {
   return String(text || "").replace(/\s+/g, " ").trim();
@@ -61,7 +61,7 @@ export async function retrieveContext(env, query) {
     return `[Fragment ${i + 1}]\nTytuł: ${meta.title || "Zapytaj Hanki"}\nURL: ${meta.url || ""}\n${meta.text}`;
   });
 
-  return { context: blocks.join("\n\n"), sources };
+  return { context: blocks.join("\n\n"), sources, matches: matches.map((m) => ({ score: m.score ?? null, title: m.metadata?.title || "", url: m.metadata?.url || "", chunk: m.metadata?.chunk ?? null })) };
 }
 
 export async function upsertDocuments(env, documents) {
