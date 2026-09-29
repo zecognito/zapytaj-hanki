@@ -51,15 +51,14 @@ const SEED_URLS = [
 
 function decodeHtml(text) {
   return String(text || "")
-    .replace(/&nbsp;/g, " ")
-    .replace(/&amp;/g, "&")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;|&apos;/g, "'")
-    .replace(/&#(\\d+);/g, (_, n) => String.fromCodePoint(Number(n)));
+    .split("&nbsp;").join(" ")
+    .split("&amp;").join("&")
+    .split("&lt;").join("<")
+    .split("&gt;").join(">")
+    .split("&quot;").join(String.fromCharCode(34))
+    .split("&#39;").join("'")
+    .split("&apos;").join("'");
 }
-
 function htmlToText(html) {
   let text = String(html || "");
   text = text.replace(new RegExp("<script[^>]*>[\\s\\S]*?</script>", "gi"), " ");
@@ -81,13 +80,18 @@ async function fetchSeedDocument(url) {
   });
   if (!response.ok) throw new Error(`Could not fetch ${url}: HTTP ${response.status}`);
   const html = await response.text();
-  const titleMatch = html.match(/<title[^>]*>([\\s\\S]*?)<\\/title>/i);
-  const articleMatch = html.match(/<article\\b[^>]*class=["'][^"']*\\bprose\\b[^"']*["'][^>]*>([\\s\\S]*?)<\\/article>/i);
-  if (!articleMatch) throw new Error(`Article body not found: ${url}`);
-  const text = htmlToText(articleMatch[1]);
+  const titleStart = html.toLowerCase().indexOf("<title");
+  const titleOpen = titleStart >= 0 ? html.indexOf(">", titleStart) : -1;
+  const titleClose = titleOpen >= 0 ? html.toLowerCase().indexOf("</title>", titleOpen) : -1;
+  const titleRaw = titleOpen >= 0 && titleClose > titleOpen ? html.slice(titleOpen + 1, titleClose) : url;
+  const articleStart = html.search(new RegExp("<article[^>]*class=[^>]*prose", "i"));
+  const articleOpen = articleStart >= 0 ? html.indexOf(">", articleStart) : -1;
+  const articleClose = articleOpen >= 0 ? html.toLowerCase().indexOf("</article>", articleOpen) : -1;
+  if (articleOpen < 0 || articleClose < 0) throw new Error(`Article body not found: ${url}`);
+  const text = htmlToText(html.slice(articleOpen + 1, articleClose));
   if (text.length < 300) throw new Error(`Article body too short: ${url}`);
   return {
-    title: htmlToText(titleMatch?.[1] || url).replace(/\\s*\\|\\s*Zapytaj Hanki\\s*$/i, ""),
+    title: htmlToText(titleRaw).split(" | Zapytaj Hanki")[0].trim(),
     url,
     text
   };
