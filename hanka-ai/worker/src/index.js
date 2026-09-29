@@ -52,7 +52,11 @@ export default {
       return new Response(null, { status: 204, headers: corsHeaders(request) });
     }
 
-    const url = new URL(request.url);\n    if (url.pathname === "/" && request.method === "GET") {\n      return new Response(testerPage(), { headers: { "Content-Type": "text/html; charset=utf-8", "Cache-Control": "no-store" } });\n    }\n
+    const url = new URL(request.url);
+    if (url.pathname === "/" && request.method === "GET") {
+      return new Response(testerPage(), { headers: { "Content-Type": "text/html; charset=utf-8", "Cache-Control": "no-store" } });
+    }
+
     if (url.pathname === "/health" && request.method === "GET") {
       return json({ ok: true, service: "hanka-ai-beta" }, 200, request);
     }
