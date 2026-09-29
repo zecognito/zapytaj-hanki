@@ -240,7 +240,7 @@ Odpowiedz wyłącznie na podstawie fragmentów poniżej. Parafrazuj i skracaj, a
 Przed wysłaniem usuń wszystko, czego nie potwierdzają fragmenty.
 
 ${rag.context}`
-        : "HANKA BRAIN: brak trafnego kontekstu. Odpowiedz ostrożnie z wiedzy modelowej; nie twierdź, że Brain potwierdza odpowiedź.";
+        : "HANKA BRAIN: brak wystarczającego źródła. Jeśli pytanie wymaga faktów, liczb, aktualnych zasad lub konkretnej porady, nie odpowiadaj z wiedzy modelowej i nie zgaduj. Powiedz krótko po polsku, że nie masz teraz wystarczająco pewnych informacji w Hanka Brain. Możesz normalnie odpowiadać na luźną rozmowę, humor i wypowiedzi niefaktograficzne.";
 
       const result = await askModel(env, [
         { role: "system", content: HANKA_SYSTEM_PROMPT },
