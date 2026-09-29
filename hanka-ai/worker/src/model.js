@@ -7,6 +7,42 @@ export async function askModel(env, messages) {
   });
 }
 
+export async function verifyGroundedAnswer(env, question, context, draft) {
+  const model = env.HANKA_MODEL || "@cf/zai-org/glm-4.7-flash";
+  const result = await env.AI.run(model, {
+    messages: [
+      {
+        role: "system",
+        content: `Jesteś rygorystycznym redaktorem factual-grounding. Dostajesz pytanie, zamknięty kontekst źródłowy i szkic odpowiedzi. Zwróć wyłącznie poprawioną odpowiedź po polsku.
+
+ZASADY:
+- Zachowaj tylko twierdzenia faktograficzne bezpośrednio poparte kontekstem.
+- Usuń każdą niepopartą liczbę, kwotę, procent, termin, limit, nazwę instytucji, wymóg lub konkretny przykład.
+- Nie dodawaj żadnych nowych faktów.
+- Nie zmieniaj sugestii w wymóg ani możliwości w pewnik.
+- Usuń niepoparte rankingi i superlatywy, np. „najlepszy”, „najważniejszy”, „najpierw”.
+- Możesz zachować naturalny, ciepły styl, o ile nie dodaje faktów.
+- Jeśli zdanie miesza fakt poparty i niepoparty, przepisz je tak, by został tylko fakt poparty.
+- Nie komentuj procesu weryfikacji i nie dodawaj nagłówka typu „poprawiona odpowiedź”.`
+      },
+      {
+        role: "user",
+        content: `PYTANIE:
+${question}
+
+KONTEKST:
+${context}
+
+SZKIC:
+${draft}`
+      }
+    ],
+    max_completion_tokens: 4096,
+    temperature: 0
+  });
+  return extractText(result);
+}
+
 function textFromContent(content) {
   if (typeof content === "string") return content.trim();
 
