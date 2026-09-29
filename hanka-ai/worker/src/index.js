@@ -230,32 +230,16 @@ export default {
       }
 
       const ragInstruction = rag.context
-        ? `KONTEKST Z HANKA BRAIN
-Poniższe fragmenty pochodzą z treści Zapytaj Hanki i są zamkniętym zbiorem faktów dla tej odpowiedzi. Jeśli dotyczą pytania użytkownika, odpowiedz na ich podstawie. Możesz je skracać, porządkować i parafrazować, ale nie wolno Ci wzbogacać ich wiedzą modelową.
-
-TWARDY TRYB GROUNDING:
-- Każde twierdzenie faktograficzne w odpowiedzi musi być bezpośrednio poparte treścią fragmentów poniżej.
-- Używaj WYŁĄCZNIE faktów, przykładów, produktów, instytucji, liczb i zaleceń obecnych w trafnych fragmentach. Nie dodawaj własnych przykładów ani wiedzy modelowej, nawet jeśli wydają się poprawne.
-- Nie wprowadzaj żadnej liczby, kwoty, procentu, terminu, limitu ani przykładowej wartości, jeśli ta konkretna wartość nie występuje w trafnym fragmencie.
-- Nie twórz rankingów ani superlatywów typu „najlepszy”, „najważniejszy”, „najpierw”, chyba że fragment wprost tak mówi.
-- Nie zmieniaj możliwości lub sugestii w wymóg: „może”, „warto”, „pomaga”, „zobacz też” nie znaczy „musisz”.
-- Nie zmieniaj warunku w regułę ogólną i nie pomijaj wyjątków.
-- Jeśli fragment mówi, że popularna reguła jest uproszczeniem lub nie jest magicznym progiem, nie przedstawiaj jej potem jako zalecanej granicy.
-- Gdy fragmenty nie wystarczają do odpowiedzi na szczegół, pomiń ten szczegół albo powiedz krótko, że Hanka Brain go nie potwierdza.
-- Nie udawaj, że sprawdziłaś internet na żywo.
-
-FORMAT ODPOWIEDZI:
-- Odpowiadaj jak w rozmowie, nie jak w artykule.
-- Dla zwykłego pytania daj maksymalnie 3–4 krótkie punkty lub krótkie akapity.
-- Celuj w około 120–180 słów. Jeśli pełna odpowiedź wymaga mniej, zakończ wcześniej.
-- Nie powtarzaj tej samej informacji innymi słowami.
-- Nie dodawaj sekcji „dodatkowe wskazówki”, przykładów ani pobocznych porad, jeśli użytkownik o nie nie pytał.
-- Nie umieszczaj własnych linków w treści odpowiedzi; linki „Przeczytaj też” są dodawane osobno przez aplikację.
-
-Przed wysłaniem odpowiedzi wykonaj wewnętrznie kontrolę: usuń każde zdanie lub szczegół, którego nie potrafisz wskazać w poniższym kontekście.
+        ? `HANKA BRAIN — JEDYNE ŹRÓDŁO FAKTÓW TEJ ODPOWIEDZI
+Odpowiedz wyłącznie na podstawie fragmentów poniżej. Parafrazuj i skracaj, ale nie dodawaj wiedzy modelowej.
+- Każdy fakt, przykład, produkt, instytucja, liczba, kwota, termin i zalecenie musi występować w trafnym fragmencie.
+- Zachowaj warunki i siłę twierdzeń. Nie twórz superlatywów, wymogów ani kolejności, których źródło nie podaje.
+- Brakujący szczegół pomiń; nie zgaduj.
+- Zwykła odpowiedź: 120–180 słów, maks. 3–4 krótkie punkty/akapity. Bez powtórzeń, pobocznych porad i własnych linków.
+Przed wysłaniem usuń wszystko, czego nie potwierdzają fragmenty.
 
 ${rag.context}`
-        : "HANKA BRAIN: Nie znaleziono wystarczająco trafnego kontekstu. Odpowiedz ostrożnie z wiedzy modelowej i nie twierdź, że baza Hanki potwierdza odpowiedź.";
+        : "HANKA BRAIN: brak trafnego kontekstu. Odpowiedz ostrożnie z wiedzy modelowej; nie twierdź, że Brain potwierdza odpowiedź.";
 
       const result = await askModel(env, [
         { role: "system", content: HANKA_SYSTEM_PROMPT },
