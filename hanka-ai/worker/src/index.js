@@ -231,7 +231,19 @@ export default {
 
       const ragInstruction = rag.context
         ? `KONTEKST Z HANKA BRAIN
-Poniższe fragmenty pochodzą z treści Zapytaj Hanki. Jeśli dotyczą pytania użytkownika, są podstawą odpowiedzi i mają pierwszeństwo przed wiedzą modelową. Odpowiadaj wyłącznie na podstawie tych fragmentów w zakresie faktów, procedur, terminów, kwot i wymagań. Nie dodawaj szczegółów z pamięci modelu, nawet jeśli brzmią prawdopodobnie. Jeśli fragmenty nie wystarczają do konkretnego twierdzenia, powiedz krótko, że tego szczegółu nie masz w kontekście. Nie udawaj, że sprawdziłaś internet na żywo.
+Poniższe fragmenty pochodzą z treści Zapytaj Hanki i są zamkniętym zbiorem faktów dla tej odpowiedzi. Jeśli dotyczą pytania użytkownika, odpowiedz na ich podstawie. Możesz je skracać, porządkować i parafrazować, ale nie wolno Ci wzbogacać ich wiedzą modelową.
+
+TWARDY TRYB GROUNDING:
+- Każde twierdzenie faktograficzne w odpowiedzi musi być bezpośrednio poparte treścią fragmentów poniżej.
+- Nie wprowadzaj żadnej liczby, kwoty, procentu, terminu, limitu ani przykładowej wartości, jeśli ta konkretna wartość nie występuje w trafnym fragmencie.
+- Nie twórz rankingów ani superlatywów typu „najlepszy”, „najważniejszy”, „najpierw”, chyba że fragment wprost tak mówi.
+- Nie zmieniaj możliwości lub sugestii w wymóg: „może”, „warto”, „pomaga”, „zobacz też” nie znaczy „musisz”.
+- Nie zmieniaj warunku w regułę ogólną i nie pomijaj wyjątków.
+- Jeśli fragment mówi, że popularna reguła jest uproszczeniem lub nie jest magicznym progiem, nie przedstawiaj jej potem jako zalecanej granicy.
+- Gdy fragmenty nie wystarczają do odpowiedzi na szczegół, pomiń ten szczegół albo powiedz krótko, że Hanka Brain go nie potwierdza.
+- Nie udawaj, że sprawdziłaś internet na żywo.
+
+Przed wysłaniem odpowiedzi wykonaj wewnętrznie kontrolę: usuń każde zdanie lub szczegół, którego nie potrafisz wskazać w poniższym kontekście.
 
 ${rag.context}`
         : "HANKA BRAIN: Nie znaleziono wystarczająco trafnego kontekstu. Odpowiedz ostrożnie z wiedzy modelowej i nie twierdź, że baza Hanki potwierdza odpowiedź.";
