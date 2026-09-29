@@ -1,5 +1,5 @@
 import { HANKA_SYSTEM_PROMPT } from "./prompt.js";
-import { askModel, cleanAnswer, describeResult, extractText, guardGroundedAnswer } from "./model.js";
+import { askModel, cleanAnswer, describeResult, extractText, guardGroundedAnswer, validateEvidenceTags } from "./model.js";
 import { retrieveContext, upsertDocuments } from "./rag.js";
 
 const MAX_MESSAGES = 12;
@@ -232,8 +232,8 @@ export default {
       const ragInstruction = rag.context
         ? `HANKA BRAIN — JEDYNE ŹRÓDŁO FAKTÓW TEJ ODPOWIEDZI
 Odpowiedz wyłącznie na podstawie fragmentów poniżej. Parafrazuj i skracaj, ale nie dodawaj wiedzy modelowej.
-- Każdy fakt, przykład, produkt, instytucja, liczba, kwota, termin i zalecenie musi występować w trafnym fragmencie.
-- Zachowaj siłę twierdzeń: „kluczowy”, „najważniejszy”, „najlepszy”, wymogi i kolejność tylko gdy źródło mówi to wprost.
+- Każdy fakt, przykład, produkt, instytucja, liczba, kwota, termin i zalecenie musi występować w trafnym fragmencie. Każdy punkt faktograficzny zakończ ID dowodu, np. [F1] lub [F1][F2].
+- Cytuj tylko F1–F4, które rzeczywiście potwierdzają dany punkt. Zachowaj siłę twierdzeń: „kluczowy”, „najważniejszy”, „najlepszy”, wymogi i kolejność tylko gdy źródło mówi to wprost.
 - Brakujący szczegół pomiń; nie zgaduj.
 - Pisz wyłącznie po polsku, poza naturalnymi terminami USA (np. credit score, secured card).
 - Zwykła odpowiedź: 120–180 słów, maks. 3–4 krótkie punkty/akapity. Bez powtórzeń, pobocznych porad i własnych linków.
@@ -249,7 +249,8 @@ ${rag.context}`
       ]);
       const draftAnswer = extractText(result);
       const groundedAnswer = rag.context ? guardGroundedAnswer(draftAnswer, rag.context) : draftAnswer;
-      const answer = cleanAnswer(groundedAnswer);
+      const evidencedAnswer = rag.context ? validateEvidenceTags(groundedAnswer, rag.matches?.length || 0) : groundedAnswer;
+      const answer = cleanAnswer(evidencedAnswer);
 
       if (!answer) {
         const diagnostic = describeResult(result);
