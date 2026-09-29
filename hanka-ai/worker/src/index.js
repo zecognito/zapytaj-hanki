@@ -91,7 +91,13 @@ export default {
 
       if (!answer) {
         const diagnostic = describeResult(result);
-        const code = "AI_NO_TEXT_" + diagnostic.resultKeys.join("_").slice(0, 48).toUpperCase().replace(/[^A-Z0-9_]/g, "") || "AI_NO_TEXT_EMPTY";
+        const codeParts = [
+          "AI_NO_TEXT",
+          diagnostic.finishReason || "NO_FINISH",
+          "C" + diagnostic.contentLength,
+          "R" + diagnostic.reasoningLength
+        ];
+        const code = codeParts.join("_").toUpperCase().replace(/[^A-Z0-9_]/g, "");
         console.warn("Hanka empty model response", { code, diagnostic });
         return json({ error: "Model returned no text", code, diagnostic }, 502, request);
       }
