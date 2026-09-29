@@ -6,6 +6,12 @@
   "ai": {
     "binding": "AI"
   },
+  "vectorize": [
+    {
+      "binding": "VECTORIZE",
+      "index_name": "hanka-brain-v1"
+    }
+  ],
   "vars": {
     "HANKA_MODEL": "@cf/zai-org/glm-4.7-flash"
   }
