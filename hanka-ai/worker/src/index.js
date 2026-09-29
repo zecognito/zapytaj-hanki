@@ -90,7 +90,19 @@ export default {
       const answer = extractText(result);
 
       if (!answer) {
-        return json({ error: "Model returned no text" }, 502, request);
+        const resultType = Array.isArray(result) ? "array" : typeof result;
+        const resultKeys = result && typeof result === "object" ? Object.keys(result).slice(0, 12) : [];
+        const choiceKeys = result?.choices?.[0] && typeof result.choices[0] === "object"
+          ? Object.keys(result.choices[0]).slice(0, 12)
+          : [];
+        const messageKeys = result?.choices?.[0]?.message && typeof result.choices[0].message === "object"
+          ? Object.keys(result.choices[0].message).slice(0, 12)
+          : [];
+
+        return json({
+          error: "Model returned no text",
+          diagnostic: { resultType, resultKeys, choiceKeys, messageKeys }
+        }, 502, request);
       }
 
       return json({ answer }, 200, request);
