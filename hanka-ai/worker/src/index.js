@@ -43,6 +43,63 @@ function cleanMessages(input) {
   return cleaned;
 }
 
+const SEED_URLS = [
+  "https://zapytajhanki.com/pierwsze-30-dni-w-usa/",
+  "https://zapytajhanki.com/dokumenty/real-id/",
+  "https://zapytajhanki.com/dokumenty/zmiana-adresu/"
+];
+
+function decodeHtml(text) {
+  return String(text || "")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;/g, "'")
+    .replace(/&#(\\d+);/g, (_, n) => String.fromCodePoint(Number(n)));
+}
+
+function htmlToText(html) {
+  return decodeHtml(String(html || "")
+    .replace(/<script\\b[^>]*>[\\s\\S]*?<\\/script>/gi, " ")
+    .replace(/<style\\b[^>]*>[\\s\\S]*?<\\/style>/gi, " ")
+    .replace(/<br\\s*\\/?\\s*>/gi, "\\n")
+    .replace(/<\\/(p|li|h1|h2|h3|section|div|ol|ul)>/gi, "\\n")
+    .replace(/<[^>]+>/g, " "))
+    .replace(/[ \\t]+/g, " ")
+    .replace(/\\n\\s*\\n+/g, "\\n")
+    .trim();
+}
+
+async function fetchSeedDocument(url) {
+  const response = await fetch(url, {
+    headers: { "User-Agent": "HankaBrainIndexer/1.0 (+https://zapytajhanki.com/)" }
+  });
+  if (!response.ok) throw new Error(`Could not fetch ${url}: HTTP ${response.status}`);
+  const html = await response.text();
+  const titleMatch = html.match(/<title[^>]*>([\\s\\S]*?)<\\/title>/i);
+  const articleMatch = html.match(/<article\\b[^>]*class=["'][^"']*\\bprose\\b[^"']*["'][^>]*>([\\s\\S]*?)<\\/article>/i);
+  if (!articleMatch) throw new Error(`Article body not found: ${url}`);
+  const text = htmlToText(articleMatch[1]);
+  if (text.length < 300) throw new Error(`Article body too short: ${url}`);
+  return {
+    title: htmlToText(titleMatch?.[1] || url).replace(/\\s*\\|\\s*Zapytaj Hanki\\s*$/i, ""),
+    url,
+    text
+  };
+}
+
+function authorized(request, env) {
+  const expected = env.HANKA_INGEST_SECRET;
+  const auth = request.headers.get("Authorization") || "";
+  return Boolean(expected && auth === `Bearer ${expected}`);
+}
+
+function adminPage() {
+  return `<!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Hanka Brain — seed</title><style>body{font:16px/1.45 system-ui;margin:0;background:#f7f7f3;color:#173f32}.w{max-width:620px;margin:auto;padding:28px 18px}input,button{width:100%;box-sizing:border-box;font:inherit;border-radius:14px;padding:14px}input{border:1px solid #ccd5d0;background:#fff}button{margin-top:12px;border:0;background:#173f32;color:#fff;font-weight:800}pre{white-space:pre-wrap;background:#fff;padding:14px;border-radius:14px;border:1px solid #e1e5e2}</style></head><body><main class="w"><h1>Hanka Brain</h1><p>Pierwszy test: 3 przewodniki. Sekret zostaje wysłany wyłącznie do tego Workera przez HTTPS i nie jest zapisywany przez stronę.</p><input id="s" type="password" autocomplete="off" placeholder="HANKA_INGEST_SECRET"><button id="b">Załaduj 3 przewodniki</button><pre id="o">Gotowe do testu.</pre></main><script>b.onclick=async()=>{const secret=s.value.trim();if(!secret){o.textContent="Wpisz sekret.";return}b.disabled=true;o.textContent="Ładowanie…";try{const r=await fetch("/admin/seed",{method:"POST",headers:{Authorization:"Bearer "+secret}});const d=await r.json();o.textContent=JSON.stringify(d,null,2)}catch(e){o.textContent="Błąd: "+e.message}finally{b.disabled=false;s.value=""}}</script></body></html>`;
+}
+
 function testerPage() {
   return `<!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex,nofollow"><title>Hanka AI Beta</title><style>*{box-sizing:border-box}body{margin:0;background:#f7f7f3;color:#17231d;font:16px/1.45 system-ui,-apple-system,sans-serif}.wrap{max-width:720px;margin:auto;min-height:100vh;padding:24px 16px 120px}h1{margin:8px 0 2px;font-size:30px}.beta{color:#68736d;font-size:14px}.chat{margin-top:24px;display:grid;gap:12px}.msg{padding:13px 15px;border-radius:18px;max-width:88%;white-space:pre-wrap}.user{justify-self:end;background:#173f32;color:#fff}.hanka{justify-self:start;background:#fff;border:1px solid #dfe4df}.composer{position:fixed;left:0;right:0;bottom:0;background:#f7f7f3;border-top:1px solid #e1e4e1;padding:12px 16px calc(12px + env(safe-area-inset-bottom))}.row{max-width:720px;margin:auto;display:flex;gap:8px}textarea{flex:1;resize:none;min-height:48px;max-height:120px;border:1px solid #cbd3ce;border-radius:16px;padding:12px 14px;font:inherit}button{border:0;border-radius:16px;padding:0 18px;background:#173f32;color:#fff;font-weight:700}button:disabled{opacity:.5}</style></head><body><main class="wrap"><h1>Hanka</h1><div class="beta">prywatny tester AI · beta</div><div id="chat" class="chat"><div class="msg hanka">Cześć! Jestem Hanka. O co chodzi?</div></div></main><div class="composer"><form id="form" class="row"><textarea id="input" rows="1" maxlength="4000" placeholder="Zapytaj Hankę…" required></textarea><button id="send">Wyślij</button></form></div><script>const form=document.getElementById("form"),input=document.getElementById("input"),chat=document.getElementById("chat"),send=document.getElementById("send"),messages=[];function add(t,w){const d=document.createElement("div");d.className="msg "+w;d.textContent=t;chat.appendChild(d);scrollTo(0,document.body.scrollHeight)}form.addEventListener("submit",async e=>{e.preventDefault();const q=input.value.trim();if(!q)return;messages.push({role:"user",content:q});add(q,"user");input.value="";send.disabled=true;send.textContent="…";try{const r=await fetch("/chat",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({messages})}),data=await r.json();if(!r.ok){messages.pop();throw new Error(data.error+(data.code?" ["+data.code+"]":""))}messages.push({role:"assistant",content:data.answer});add(data.answer,"hanka")}catch(err){if(messages[messages.length-1]?.role==="user"&&messages[messages.length-1]?.content===q)messages.pop();add("Ups. "+err.message,"hanka")}finally{send.disabled=false;send.textContent="Wyślij";input.focus()}});</script></body></html>`;
 }
@@ -60,6 +117,41 @@ export default {
 
     if (url.pathname === "/health" && request.method === "GET") {
       return json({ ok: true, service: "hanka-ai-beta" }, 200, request);
+    }
+
+    if (url.pathname === "/admin" && request.method === "GET") {
+      return new Response(adminPage(), { headers: { "Content-Type": "text/html; charset=utf-8", "Cache-Control": "no-store", "X-Robots-Tag": "noindex, nofollow" } });
+    }
+
+    if (url.pathname === "/admin/seed" && request.method === "POST") {
+      if (!authorized(request, env)) return json({ error: "Unauthorized" }, 401, request);
+      try {
+        const documents = [];
+        for (const seedUrl of SEED_URLS) documents.push(await fetchSeedDocument(seedUrl));
+        const result = await upsertDocuments(env, documents);
+        return json({ ok: true, documents: documents.length, vectors: result.vectors, pages: documents.map((d) => ({ title: d.title, url: d.url })) }, 200, request);
+      } catch (error) {
+        console.error("Hanka seed failed", error);
+        return json({ error: "Seed failed", detail: String(error?.message || error) }, 502, request);
+      }
+    }
+
+    if (url.pathname === "/admin/ingest" && request.method === "POST") {
+      if (!authorized(request, env)) return json({ error: "Unauthorized" }, 401, request);
+      const type = request.headers.get("Content-Type") || "";
+      if (!type.includes("application/json")) return json({ error: "Content-Type must be application/json" }, 415, request);
+      let body;
+      try { body = await request.json(); } catch { return json({ error: "Invalid JSON" }, 400, request); }
+      if (!Array.isArray(body?.documents) || !body.documents.length || body.documents.length > 30) {
+        return json({ error: "documents must contain 1 to 30 items" }, 400, request);
+      }
+      try {
+        const result = await upsertDocuments(env, body.documents);
+        return json({ ok: true, documents: body.documents.length, vectors: result.vectors }, 200, request);
+      } catch (error) {
+        console.error("Hanka ingest failed", error);
+        return json({ error: "Ingest failed" }, 502, request);
+      }
     }
 
     if (url.pathname !== "/chat" || request.method !== "POST") {
