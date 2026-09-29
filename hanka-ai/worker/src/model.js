@@ -3,7 +3,7 @@ export async function askModel(env, messages) {
   return env.AI.run(model, {
     messages,
     max_completion_tokens: 4096,
-    temperature: 0.65
+    temperature: 0.25
   });
 }
 
