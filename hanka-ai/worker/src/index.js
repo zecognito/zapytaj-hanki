@@ -1,5 +1,6 @@
 import { HANKA_SYSTEM_PROMPT } from "./prompt.js";
-import { askModel, describeResult, extractText } from "./model.js";\nimport { retrieveContext, upsertDocuments } from "./rag.js";
+import { askModel, describeResult, extractText } from "./model.js";
+import { retrieveContext, upsertDocuments } from "./rag.js";
 
 const MAX_MESSAGES = 12;
 const MAX_MESSAGE_CHARS = 4000;
