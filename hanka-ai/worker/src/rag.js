@@ -1,5 +1,5 @@
 const EMBEDDING_MODEL = "@cf/baai/bge-m3";
-const TOP_K = 6;
+const TOP_K = 4;
 const MIN_SCORE = 0.55;
 const MAX_SCORE_DROP = 0.10;
 
