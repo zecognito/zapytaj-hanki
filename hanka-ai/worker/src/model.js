@@ -8,6 +8,23 @@ export async function askModel(env, messages) {
 }
 
 
+
+export function validateEvidenceTags(answer, evidenceCount) {
+  if (!answer || !evidenceCount) return answer;
+
+  const max = Math.max(1, Math.min(9, Number(evidenceCount) || 0));
+  // Drop only citations to evidence that was not supplied. Valid tags are stripped
+  // after validation so the public answer stays conversational.
+  return String(answer)
+    .replace(/\[F(\d+)\]/gi, (tag, raw) => {
+      const id = Number(raw);
+      return id >= 1 && id <= max ? tag.toUpperCase() : "";
+    })
+    .replace(/\[F\d+\]/gi, "")
+    .replace(/[ \t]{2,}/g, " ")
+    .trim();
+}
+
 export function cleanAnswer(answer) {
   if (!answer) return answer;
 
