@@ -1,4 +1,4 @@
-const EMBEDDING_MODEL = "@cf/google/embeddinggemma-300m";
+const EMBEDDING_MODEL = "@cf/baai/bge-m3";
 const TOP_K = 6;
 const MIN_SCORE = 0.55;
 
