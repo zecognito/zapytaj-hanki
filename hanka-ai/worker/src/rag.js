@@ -52,10 +52,16 @@ export async function retrieveContext(env, query) {
   const bestScore = candidates[0]?.score ?? 0;
   const dynamicFloor = Math.max(MIN_SCORE, bestScore - MAX_SCORE_DROP);
   const matches = candidates.filter((m) => (m.score ?? 0) >= dynamicFloor);
-  if (!matches.length) return { context: "", sources: [] };
 
   const sources = [];
   const seen = new Set();
+  const sourceMatches = matches.length ? matches : candidates.slice(0, 3);
+  for (const m of sourceMatches) {
+    const meta = m.metadata || {};
+  }
+  if (!matches.length) return { context: "", sources, matches: [] };
+
+
   const blocks = matches.map((m, i) => {
     const meta = m.metadata || {};
     if (meta.url && !seen.has(meta.url)) {
