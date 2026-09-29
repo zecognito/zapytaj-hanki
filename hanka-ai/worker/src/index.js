@@ -27,6 +27,12 @@ function json(data, status, request) {
   });
 }
 
+function isClearlyCasual(text) {
+  const value = String(text || "").trim().toLowerCase();
+  if (!value || value.length > 220) return false;
+  return /^(cześć|czesc|hej|hejka|siema|dzień dobry|dzien dobry|dobry wieczór|dobry wieczor|dzięki|dzieki|dziękuję|dziekuje|co tam|jak się masz|jak sie masz|kim jesteś|kim jestes|opowiedz żart|opowiedz zart|powiedz żart|powiedz zart)[!?.\s]*$/i.test(value);
+}
+
 function cleanMessages(input) {
   if (!Array.isArray(input)) return null;
   const recent = input.slice(-MAX_MESSAGES);
@@ -227,6 +233,14 @@ export default {
         rag = await retrieveContext(env, latestQuestion);
       } catch (error) {
         console.warn("Hanka retrieval unavailable", error);
+      }
+
+      if (!rag.context && !isClearlyCasual(latestQuestion)) {
+        return json({
+          answer: "Nie mam teraz wystarczająco pewnych informacji w Hanka Brain, żeby odpowiedzieć bez zgadywania.",
+          sources: rag.sources,
+          debug: { brain: false, matches: rag.matches || [] }
+        }, 200, request);
       }
 
       const ragInstruction = rag.context
