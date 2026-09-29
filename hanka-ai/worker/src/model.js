@@ -7,40 +7,42 @@ export async function askModel(env, messages) {
   });
 }
 
-export async function verifyGroundedAnswer(env, question, context, draft) {
-  const model = env.HANKA_MODEL || "@cf/zai-org/glm-4.7-flash";
-  const result = await env.AI.run(model, {
-    messages: [
-      {
-        role: "system",
-        content: `Jesteś rygorystycznym redaktorem factual-grounding. Dostajesz pytanie, zamknięty kontekst źródłowy i szkic odpowiedzi. Zwróć wyłącznie poprawioną odpowiedź po polsku.
+export function guardGroundedAnswer(answer, context) {
+  if (!answer || !context) return answer;
 
-ZASADY:
-- Zachowaj tylko twierdzenia faktograficzne bezpośrednio poparte kontekstem.
-- Usuń każdą niepopartą liczbę, kwotę, procent, termin, limit, nazwę instytucji, wymóg lub konkretny przykład.
-- Nie dodawaj żadnych nowych faktów.
-- Nie zmieniaj sugestii w wymóg ani możliwości w pewnik.
-- Usuń niepoparte rankingi i superlatywy, np. „najlepszy”, „najważniejszy”, „najpierw”.
-- Możesz zachować naturalny, ciepły styl, o ile nie dodaje faktów.
-- Jeśli zdanie miesza fakt poparty i niepoparty, przepisz je tak, by został tylko fakt poparty.
-- Nie komentuj procesu weryfikacji i nie dodawaj nagłówka typu „poprawiona odpowiedź”.`
-      },
-      {
-        role: "user",
-        content: `PYTANIE:
-${question}
+  const normalize = (value) => String(value || "")
+    .toLowerCase()
+    .replace(/[–—−]/g, "-")
+    .replace(/\s+/g, " ")
+    .trim();
 
-KONTEKST:
-${context}
+  const source = normalize(context);
+  const numericToken = /(?:[$€£]\s*)?\d[\d\s.,]*(?:\s*%|\s*(?:dolar(?:a|ów|y)?|usd|dni(?:a|ach|ami)?|dzień|tygodni(?:e|a)?|miesięcy|miesiąc(?:e|a)?|lat(?:a)?|rok(?:u|i)?))?/giu;
 
-SZKIC:
-${draft}`
-      }
-    ],
-    max_completion_tokens: 4096,
-    temperature: 0
+  const unsupported = new Set();
+  for (const match of answer.matchAll(numericToken)) {
+    const raw = match[0].trim();
+    if (!raw) continue;
+    const token = normalize(raw);
+    const digits = token.replace(/\D/g, "");
+    if (!digits) continue;
+
+    const variants = new Set([token, digits]);
+    if (token.startsWith("$")) variants.add(token.slice(1).trim());
+    const supported = [...variants].some((variant) => variant && source.includes(variant));
+    if (!supported) unsupported.add(raw);
+  }
+
+  if (!unsupported.size) return answer;
+
+  const sentences = answer.split(/(?<=[.!?])\s+|\n+/);
+  const kept = sentences.filter((sentence) => {
+    const normalizedSentence = normalize(sentence);
+    return ![...unsupported].some((token) => normalizedSentence.includes(normalize(token)));
   });
-  return extractText(result);
+
+  const cleaned = kept.join("\n\n").replace(/\n{3,}/g, "\n\n").trim();
+  return cleaned || answer;
 }
 
 function textFromContent(content) {
