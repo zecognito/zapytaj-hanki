@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Hanka AI — prywatna beta</title>
+  <meta name="description" content="Prywatny prototyp Hanka AI.">
+  <link rel="icon" href="/hanka-favicon.png">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <main class="app">
+    <header class="topbar">
+      <a class="brand" href="/" aria-label="Zapytaj Hanki">
+        <img src="/assets/a_clean_high_resolution_vector_cartoon_style_logo.png" alt="" width="48" height="48">
+        <span><strong>Hanka AI</strong><small>prywatna beta</small></span>
+      </a>
+      <span class="status"><i></i> eksperyment</span>
+    </header>
+
+    <section class="intro">
+      <p class="eyebrow">HANKA KOLEŻANKA</p>
+      <h1>No dobra. O co chodzi?</h1>
+      <p>Pytaj normalnie — po polsku, po angielsku albo tak jak naprawdę się mówi w Ameryce.</p>
+    </section>
+
+    <section class="chat" aria-live="polite" aria-label="Rozmowa z Hanką">
+      <div id="messages" class="messages">
+        <article class="message hanka">
+          <div class="avatar">H</div>
+          <div class="bubble">
+            <strong>Hanka</strong>
+            <p>Cześć! Jestem testową Hanką. Jeszcze nie mam podłączonego całego mózgu Hanki, ale możemy sprawdzić, czy umiem normalnie gadać. 😄</p>
+          </div>
+        </article>
+      </div>
+
+      <form id="chatForm" class="composer">
+        <label class="sr-only" for="messageInput">Napisz do Hanki</label>
+        <textarea id="messageInput" rows="1" maxlength="4000" placeholder="Np. Hanka, co to kurde jest escrow?" required></textarea>
+        <button id="sendButton" type="submit" aria-label="Wyślij">Wyślij</button>
+      </form>
+      <p class="fineprint">Beta AI może się mylić. W ważnych sprawach sprawdzaj oficjalne źródła.</p>
+    </section>
+  </main>
+  <script src="./app.js"></script>
+</body>
+</html>
