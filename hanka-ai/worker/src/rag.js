@@ -58,8 +58,22 @@ export async function retrieveContext(env, query) {
   const sourceMatches = matches.length ? matches : candidates.slice(0, 3);
   for (const m of sourceMatches) {
     const meta = m.metadata || {};
+    if (meta.url && !seen.has(meta.url)) {
+      seen.add(meta.url);
+      sources.push({ title: meta.title || meta.url, url: meta.url });
+    }
   }
-  if (!matches.length) return { context: "", sources, matches: [] };
+  if (!matches.length) return {
+    context: "",
+    sources,
+    matches: candidates.slice(0, TOP_K).map((m) => ({
+      score: m.score ?? null,
+      title: m.metadata?.title || "",
+      url: m.metadata?.url || "",
+      chunk: m.metadata?.chunk ?? null,
+      text: m.metadata?.text || ""
+    }))
+  };
 
 
   const blocks = matches.map((m, i) => {
