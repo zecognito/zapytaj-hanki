@@ -1,4 +1,4 @@
-const API_URL = window.HANKA_API_URL || "https://REPLACE-WITH-HANKA-WORKER.workers.dev/chat";
+const API_URL = window.HANKA_API_URL || "https://hanka-ai-beta.dawid-turos.workers.dev/chat";
 const form = document.getElementById("chatForm");
 const input = document.getElementById("messageInput");
 const sendButton = document.getElementById("sendButton");
