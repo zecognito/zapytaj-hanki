@@ -237,7 +237,7 @@ export default {
 
       if (!rag.context && !isClearlyCasual(latestQuestion)) {
         return json({
-          answer: "Nie mam teraz wystarczająco pewnych informacji w Hanka Brain, żeby odpowiedzieć bez zgadywania.",
+          answer: "Nie mam teraz wystarczająco pewnych informacji, żeby odpowiedzieć bez zgadywania.",
           sources: rag.sources,
           debug: { brain: false, matches: rag.matches || [] }
         }, 200, request);
