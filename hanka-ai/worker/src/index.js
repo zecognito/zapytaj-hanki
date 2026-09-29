@@ -62,8 +62,8 @@ function decodeHtml(text) {
 
 function htmlToText(html) {
   return decodeHtml(String(html || "")
-    .replace(/<script\\b[^>]*>[\\s\\S]*?<\\/script>/gi, " ")
-    .replace(/<style\\b[^>]*>[\\s\\S]*?<\\/style>/gi, " ")
+    .replace(new RegExp("<script\\\\b[^>]*>[\\\\s\\\\S]*?<\\\\/script>", "gi"), " ")
+    .replace(new RegExp("<style\\\\b[^>]*>[\\\\s\\\\S]*?<\\\\/style>", "gi"), " ")
     .replace(/<br\\s*\\/?\\s*>/gi, "\\n")
     .replace(/<\\/(p|li|h1|h2|h3|section|div|ol|ul)>/gi, "\\n")
     .replace(/<[^>]+>/g, " "))
