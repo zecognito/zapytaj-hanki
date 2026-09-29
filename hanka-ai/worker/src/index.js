@@ -61,14 +61,17 @@ function decodeHtml(text) {
 }
 
 function htmlToText(html) {
-  return decodeHtml(String(html || "")
-    .replace(new RegExp("<script\\\\b[^>]*>[\\\\s\\\\S]*?<\\\\/script>", "gi"), " ")
-    .replace(new RegExp("<style\\\\b[^>]*>[\\\\s\\\\S]*?<\\\\/style>", "gi"), " ")
-    .replace(/<br\\s*\\/?\\s*>/gi, "\\n")
-    .replace(/<\\/(p|li|h1|h2|h3|section|div|ol|ul)>/gi, "\\n")
-    .replace(/<[^>]+>/g, " "))
-    .replace(/[ \\t]+/g, " ")
-    .replace(/\\n\\s*\\n+/g, "\\n")
+  let text = String(html || "");
+  text = text.replace(new RegExp("<script[^>]*>[\\s\\S]*?</script>", "gi"), " ");
+  text = text.replace(new RegExp("<style[^>]*>[\\s\\S]*?</style>", "gi"), " ");
+  text = text.replace(new RegExp("<br[^>]*>", "gi"), "\n");
+  text = text.replace(new RegExp("</(p|li|h1|h2|h3|section|div|ol|ul)>", "gi"), "\n");
+  text = text.replace(new RegExp("<[^>]+>", "g"), " ");
+  return decodeHtml(text)
+    .split("\n")
+    .map((line) => line.trim().replace(/ +/g, " "))
+    .filter(Boolean)
+    .join("\n")
     .trim();
 }
 
