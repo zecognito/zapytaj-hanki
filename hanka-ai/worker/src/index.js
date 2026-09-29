@@ -1,5 +1,5 @@
 import { HANKA_SYSTEM_PROMPT } from "./prompt.js";
-import { askModel, describeResult, extractText, guardGroundedAnswer } from "./model.js";
+import { askModel, cleanAnswer, describeResult, extractText, guardGroundedAnswer } from "./model.js";
 import { retrieveContext, upsertDocuments } from "./rag.js";
 
 const MAX_MESSAGES = 12;
@@ -247,7 +247,8 @@ ${rag.context}`
         ...messages
       ]);
       const draftAnswer = extractText(result);
-      const answer = rag.context ? guardGroundedAnswer(draftAnswer, rag.context) : draftAnswer;
+      const groundedAnswer = rag.context ? guardGroundedAnswer(draftAnswer, rag.context) : draftAnswer;
+      const answer = cleanAnswer(groundedAnswer);
 
       if (!answer) {
         const diagnostic = describeResult(result);
