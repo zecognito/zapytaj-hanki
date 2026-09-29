@@ -62,7 +62,7 @@ export async function retrieveContext(env, query) {
       seen.add(meta.url);
       sources.push({ title: meta.title || meta.url, url: meta.url });
     }
-    return `[Fragment ${i + 1}]\nTytuł: ${meta.title || "Zapytaj Hanki"}\nURL: ${meta.url || ""}\n${meta.text}`;
+    return `[F${i + 1}] ${meta.text}`;
   });
 
   return { context: blocks.join("\n\n"), sources, matches: matches.map((m) => ({ score: m.score ?? null, title: m.metadata?.title || "", url: m.metadata?.url || "", chunk: m.metadata?.chunk ?? null, text: m.metadata?.text || "" })) };
