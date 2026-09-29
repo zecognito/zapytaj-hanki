@@ -46,7 +46,31 @@ function cleanMessages(input) {
 const SEED_URLS = [
   "https://zapytajhanki.com/pierwsze-30-dni-w-usa/",
   "https://zapytajhanki.com/dokumenty/real-id/",
-  "https://zapytajhanki.com/dokumenty/zmiana-adresu/"
+  "https://zapytajhanki.com/dokumenty/zgubiona-karta-social-security/",
+  "https://zapytajhanki.com/dokumenty/zmiana-adresu/",
+  "https://zapytajhanki.com/pieniadze/konto-bankowe-po-przyjezdzie/",
+  "https://zapytajhanki.com/pieniadze/credit-score-od-zera-po-przyjezdzie/",
+  "https://zapytajhanki.com/pieniadze/pierwsza-karta-kredytowa/",
+  "https://zapytajhanki.com/pieniadze/credit-report/",
+  "https://zapytajhanki.com/pieniadze/identity-theft/",
+  "https://zapytajhanki.com/pieniadze/koszty-zycia-w-usa/",
+  "https://zapytajhanki.com/praca/i-9/",
+  "https://zapytajhanki.com/praca/w4/",
+  "https://zapytajhanki.com/praca/w2-vs-1099/",
+  "https://zapytajhanki.com/praca/wyplata/",
+  "https://zapytajhanki.com/praca/utrata-pracy/",
+  "https://zapytajhanki.com/podatki/jak-dzialaja-podatki/",
+  "https://zapytajhanki.com/podatki/przeprowadzka-do-usa-podatki/",
+  "https://zapytajhanki.com/podatki/list-z-irs/",
+  "https://zapytajhanki.com/zdrowie/ubezpieczenie-zdrowotne-po-przyjezdzie/",
+  "https://zapytajhanki.com/zdrowie/marketplace-aca/",
+  "https://zapytajhanki.com/zdrowie/primary-care-doctor/",
+  "https://zapytajhanki.com/zdrowie/urgent-care-vs-er/",
+  "https://zapytajhanki.com/dom/pierwsze-mieszkanie-po-przyjezdzie/",
+  "https://zapytajhanki.com/dom/wynajem-mieszkania/",
+  "https://zapytajhanki.com/samochod/pierwszy-samochod-po-przyjezdzie/",
+  "https://zapytajhanki.com/samochod/kupno-samochodu/",
+  "https://zapytajhanki.com/samochod/ubezpieczenie/"
 ];
 
 function decodeHtml(text) {
@@ -104,7 +128,7 @@ function authorized(request, env) {
 }
 
 function adminPage() {
-  return `<!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Hanka Brain — seed</title><style>body{font:16px/1.45 system-ui;margin:0;background:#f7f7f3;color:#173f32}.w{max-width:620px;margin:auto;padding:28px 18px}input,button{width:100%;box-sizing:border-box;font:inherit;border-radius:14px;padding:14px}input{border:1px solid #ccd5d0;background:#fff}button{margin-top:12px;border:0;background:#173f32;color:#fff;font-weight:800}pre{white-space:pre-wrap;background:#fff;padding:14px;border-radius:14px;border:1px solid #e1e5e2}</style></head><body><main class="w"><h1>Hanka Brain</h1><p>Pierwszy test: 3 przewodniki. Sekret zostaje wysłany wyłącznie do tego Workera przez HTTPS i nie jest zapisywany przez stronę.</p><input id="s" type="password" autocomplete="off" placeholder="HANKA_INGEST_SECRET"><button id="b">Załaduj 3 przewodniki</button><pre id="o">Gotowe do testu.</pre></main><script>b.onclick=async()=>{const secret=s.value.trim();if(!secret){o.textContent="Wpisz sekret.";return}b.disabled=true;o.textContent="Ładowanie…";try{const r=await fetch("/admin/seed",{method:"POST",headers:{Authorization:"Bearer "+secret}});const d=await r.json();o.textContent=JSON.stringify(d,null,2)}catch(e){o.textContent="Błąd: "+e.message}finally{b.disabled=false;s.value=""}}</script></body></html>`;
+  return `<!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Hanka Brain — seed</title><style>body{font:16px/1.45 system-ui;margin:0;background:#f7f7f3;color:#173f32}.w{max-width:620px;margin:auto;padding:28px 18px}input,button{width:100%;box-sizing:border-box;font:inherit;border-radius:14px;padding:14px}input{border:1px solid #ccd5d0;background:#fff}button{margin-top:12px;border:0;background:#173f32;color:#fff;font-weight:800}pre{white-space:pre-wrap;background:#fff;padding:14px;border-radius:14px;border:1px solid #e1e5e2}</style></head><body><main class="w"><h1>Hanka Brain</h1><p>Pierwszy korpus Hanka Brain: 27 przewodników. Sekret zostaje wysłany wyłącznie do tego Workera przez HTTPS i nie jest zapisywany przez stronę.</p><input id="s" type="password" autocomplete="off" placeholder="HANKA_INGEST_SECRET"><button id="b">Załaduj 27 przewodników</button><pre id="o">Gotowe do testu.</pre></main><script>b.onclick=async()=>{const secret=s.value.trim();if(!secret){o.textContent="Wpisz sekret.";return}b.disabled=true;o.textContent="Ładowanie…";try{const r=await fetch("/admin/seed",{method:"POST",headers:{Authorization:"Bearer "+secret}});const d=await r.json();o.textContent=JSON.stringify(d,null,2)}catch(e){o.textContent="Błąd: "+e.message}finally{b.disabled=false;s.value=""}}</script></body></html>`;
 }
 
 function testerPage() {
