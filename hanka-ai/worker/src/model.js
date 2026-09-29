@@ -2,7 +2,7 @@ export async function askModel(env, messages) {
   const model = env.HANKA_MODEL || "@cf/zai-org/glm-4.7-flash";
   return env.AI.run(model, {
     messages,
-    max_completion_tokens: 4096,
+    max_completion_tokens: 700,
     temperature: 0.25
   });
 }
