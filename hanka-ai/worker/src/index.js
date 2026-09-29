@@ -1,5 +1,5 @@
 import { HANKA_SYSTEM_PROMPT } from "./prompt.js";
-import { askModel, describeResult, extractText } from "./model.js";
+import { askModel, describeResult, extractText } from "./model.js";\nimport { retrieveContext, upsertDocuments } from "./rag.js";
 
 const MAX_MESSAGES = 12;
 const MAX_MESSAGE_CHARS = 4000;
@@ -83,8 +83,24 @@ export default {
     }
 
     try {
+      const latestQuestion = messages[messages.length - 1].content;
+      let rag = { context: "", sources: [] };
+      try {
+        rag = await retrieveContext(env, latestQuestion);
+      } catch (error) {
+        console.warn("Hanka retrieval unavailable", error);
+      }
+
+      const ragInstruction = rag.context
+        ? `KONTEKST Z HANKA BRAIN
+Poniższe fragmenty pochodzą z treści Zapytaj Hanki. Użyj ich, gdy są istotne dla pytania. Nie wymyślaj informacji, których w nich nie ma. Jeśli odpowiedź opiera się na tych fragmentach, możesz naturalnie powiedzieć „według przewodnika Hanki”, ale nie udawaj, że sprawdziłaś internet na żywo.
+
+${rag.context}`
+        : "HANKA BRAIN: Nie znaleziono wystarczająco trafnego kontekstu. Odpowiedz ostrożnie z wiedzy modelowej i nie twierdź, że baza Hanki potwierdza odpowiedź.";
+
       const result = await askModel(env, [
         { role: "system", content: HANKA_SYSTEM_PROMPT },
+        { role: "system", content: ragInstruction },
         ...messages
       ]);
       const answer = extractText(result);
@@ -102,7 +118,7 @@ export default {
         return json({ error: "Model returned no text", code, diagnostic }, 502, request);
       }
 
-      return json({ answer }, 200, request);
+      return json({ answer, sources: rag.sources }, 200, request);
     } catch (error) {
       console.error("Hanka model error", error);
       return json({ error: "Hanka chwilowo nie odpowiada. Spróbuj ponownie za moment." }, 502, request);
