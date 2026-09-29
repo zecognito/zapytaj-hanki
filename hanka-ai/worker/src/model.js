@@ -8,8 +8,22 @@ export async function askModel(env, messages) {
 }
 
 export function extractText(result) {
-  if (typeof result === "string") return result;
-  if (typeof result?.response === "string") return result.response;
-  if (typeof result?.result?.response === "string") return result.result.response;
+  if (typeof result === "string") return result.trim();
+
+  const candidates = [
+    result?.response,
+    result?.result?.response,
+    result?.choices?.[0]?.message?.content,
+    result?.result?.choices?.[0]?.message?.content,
+    result?.choices?.[0]?.text,
+    result?.result?.choices?.[0]?.text
+  ];
+
+  for (const candidate of candidates) {
+    if (typeof candidate === "string" && candidate.trim()) {
+      return candidate.trim();
+    }
+  }
+
   return "";
 }
