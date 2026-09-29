@@ -48,7 +48,10 @@ export async function retrieveContext(env, query) {
     topK: TOP_K,
     returnMetadata: "all"
   });
-  const candidates = (result?.matches || []).filter((m) => m.metadata?.text);\n  const bestScore = candidates[0]?.score ?? 0;\n  const dynamicFloor = Math.max(MIN_SCORE, bestScore - MAX_SCORE_DROP);\n  const matches = candidates.filter((m) => (m.score ?? 0) >= dynamicFloor);
+  const candidates = (result?.matches || []).filter((m) => m.metadata?.text);
+  const bestScore = candidates[0]?.score ?? 0;
+  const dynamicFloor = Math.max(MIN_SCORE, bestScore - MAX_SCORE_DROP);
+  const matches = candidates.filter((m) => (m.score ?? 0) >= dynamicFloor);
   if (!matches.length) return { context: "", sources: [] };
 
   const sources = [];
