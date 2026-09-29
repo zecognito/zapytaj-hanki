@@ -233,8 +233,9 @@ export default {
         ? `HANKA BRAIN — JEDYNE ŹRÓDŁO FAKTÓW TEJ ODPOWIEDZI
 Odpowiedz wyłącznie na podstawie fragmentów poniżej. Parafrazuj i skracaj, ale nie dodawaj wiedzy modelowej.
 - Każdy fakt, przykład, produkt, instytucja, liczba, kwota, termin i zalecenie musi występować w trafnym fragmencie.
-- Zachowaj warunki i siłę twierdzeń. Nie twórz superlatywów, wymogów ani kolejności, których źródło nie podaje.
+- Zachowaj siłę twierdzeń: „kluczowy”, „najważniejszy”, „najlepszy”, wymogi i kolejność tylko gdy źródło mówi to wprost.
 - Brakujący szczegół pomiń; nie zgaduj.
+- Pisz wyłącznie po polsku, poza naturalnymi terminami USA (np. credit score, secured card).
 - Zwykła odpowiedź: 120–180 słów, maks. 3–4 krótkie punkty/akapity. Bez powtórzeń, pobocznych porad i własnych linków.
 Przed wysłaniem usuń wszystko, czego nie potwierdzają fragmenty.
 
