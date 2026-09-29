@@ -1,6 +1,7 @@
 const EMBEDDING_MODEL = "@cf/baai/bge-m3";
 const TOP_K = 6;
-const MIN_SCORE = 0.45;
+const MIN_SCORE = 0.55;
+const MAX_SCORE_DROP = 0.10;
 
 function normalizeText(text) {
   return String(text || "").replace(/\s+/g, " ").trim();
@@ -47,7 +48,7 @@ export async function retrieveContext(env, query) {
     topK: TOP_K,
     returnMetadata: "all"
   });
-  const matches = (result?.matches || []).filter((m) => (m.score ?? 0) >= MIN_SCORE && m.metadata?.text);
+  const candidates = (result?.matches || []).filter((m) => m.metadata?.text);\n  const bestScore = candidates[0]?.score ?? 0;\n  const dynamicFloor = Math.max(MIN_SCORE, bestScore - MAX_SCORE_DROP);\n  const matches = candidates.filter((m) => (m.score ?? 0) >= dynamicFloor);
   if (!matches.length) return { context: "", sources: [] };
 
   const sources = [];
