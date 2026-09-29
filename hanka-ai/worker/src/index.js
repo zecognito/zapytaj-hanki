@@ -184,7 +184,7 @@ export default {
 
     try {
       const latestQuestion = messages[messages.length - 1].content;
-      let rag = { context: "", sources: [] };
+      let rag = { context: "", sources: [], matches: [] };
       try {
         rag = await retrieveContext(env, latestQuestion);
       } catch (error) {
@@ -193,7 +193,7 @@ export default {
 
       const ragInstruction = rag.context
         ? `KONTEKST Z HANKA BRAIN
-Poniższe fragmenty pochodzą z treści Zapytaj Hanki. Użyj ich, gdy są istotne dla pytania. Nie wymyślaj informacji, których w nich nie ma. Jeśli odpowiedź opiera się na tych fragmentach, możesz naturalnie powiedzieć „według przewodnika Hanki”, ale nie udawaj, że sprawdziłaś internet na żywo.
+Poniższe fragmenty pochodzą z treści Zapytaj Hanki. Jeśli dotyczą pytania użytkownika, są podstawą odpowiedzi i mają pierwszeństwo przed wiedzą modelową. Odpowiadaj wyłącznie na podstawie tych fragmentów w zakresie faktów, procedur, terminów, kwot i wymagań. Nie dodawaj szczegółów z pamięci modelu, nawet jeśli brzmią prawdopodobnie. Jeśli fragmenty nie wystarczają do konkretnego twierdzenia, powiedz krótko, że tego szczegółu nie masz w kontekście. Nie udawaj, że sprawdziłaś internet na żywo.
 
 ${rag.context}`
         : "HANKA BRAIN: Nie znaleziono wystarczająco trafnego kontekstu. Odpowiedz ostrożnie z wiedzy modelowej i nie twierdź, że baza Hanki potwierdza odpowiedź.";
@@ -218,7 +218,7 @@ ${rag.context}`
         return json({ error: "Model returned no text", code, diagnostic }, 502, request);
       }
 
-      return json({ answer, sources: rag.sources }, 200, request);
+      return json({ answer, sources: rag.sources, debug: { brain: Boolean(rag.context), matches: rag.matches || [] } }, 200, request);
     } catch (error) {
       console.error("Hanka model error", error);
       return json({ error: "Hanka chwilowo nie odpowiada. Spróbuj ponownie za moment." }, 502, request);
