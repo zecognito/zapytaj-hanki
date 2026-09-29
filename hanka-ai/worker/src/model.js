@@ -7,6 +7,23 @@ export async function askModel(env, messages) {
   });
 }
 
+
+export function cleanAnswer(answer) {
+  if (!answer) return answer;
+
+  return String(answer)
+    // The app renders related guide links separately; keep model prose link-free.
+    .replace(/\[([^\]]+)\]\(https?:\/\/[^)]+\)/gi, "$1")
+    .replace(/https?:\/\/\S+/gi, "")
+    // Normalize model markdown and excessive whitespace without changing meaning.
+    .replace(/^\s{0,3}#{1,6}\s+/gm, "")
+    .replace(/\*\*([^*]+)\*\*/g, "$1")
+    .replace(/__([^_]+)__/g, "$1")
+    .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
 export function guardGroundedAnswer(answer, context) {
   if (!answer || !context) return answer;
 
