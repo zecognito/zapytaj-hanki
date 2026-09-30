@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-bankruptcy-filing-consequences",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "bankruptcy_debt_relief",
+  "subtopic": "filing",
+  "title": "Bankruptcy filing - federal court process",
+  "facts": [
+    "Bankruptcy cases are filed in federal bankruptcy court, not state court.",
+    "A debtor must generally provide detailed schedules and statements covering assets, debts, income, expenses, financial history and other required information.",
+    "Knowingly concealing assets or making false statements in bankruptcy can have serious civil or criminal consequences.",
+    "Bankruptcy forms, filing fees, waiver/installment rules and local court procedures should be checked against the current federal court and district requirements before filing."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/process-bankruptcy-basics"
+  ],
+  "related_public_pages": []
+}
