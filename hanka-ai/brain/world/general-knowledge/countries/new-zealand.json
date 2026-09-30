@@ -1,0 +1,21 @@
+{
+  "id": "country-new-zealand",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Nowa Zelandia",
+  "facts": [
+    "Nowa Zelandia jest państwem wyspiarskim na południowo-zachodnim Pacyfiku, którego główne wyspy to Wyspa Północna i Wyspa Południowa.",
+    "Stolicą jest Wellington, a walutą dolar nowozelandzki.",
+    "Angielski jest dominującym językiem, a te reo Māori i nowozelandzki język migowy mają szczególny status prawny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.govt.nz/browse/engaging-with-government/government-in-new-zealand/"
+  ],
+  "related_public_pages": []
+}
