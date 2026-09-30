@@ -1,0 +1,21 @@
+{
+  "id": "country-tuvalu",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Tuvalu",
+  "facts": [
+    "Tuvalu jest jednym z najmniejszych państw świata i składa się z dziewięciu nisko położonych wysp i atoli na Pacyfiku.",
+    "Stolicą jest Funafuti; tuvalu i angielski są językami urzędowymi, a używaną walutą dolar australijski.",
+    "Niewielka wysokość nad poziomem morza sprawia, że Tuvalu jest szczególnie narażone na skutki wzrostu poziomu oceanów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.tv/"
+  ],
+  "related_public_pages": []
+}
