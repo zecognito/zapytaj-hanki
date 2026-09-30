@@ -634,6 +634,27 @@
         "esta_vwp",
         "passport_validity"
       ]
+    },
+    {
+      "id": "everyday_usa",
+      "label": "Everyday USA",
+      "status": "started",
+      "subtopics": [
+        "emergency_services",
+        "mail",
+        "employment_admin",
+        "banking_payments",
+        "medical_billing",
+        "civic_admin"
+      ],
+      "completed_subtopics": [
+        "emergency_services",
+        "mail",
+        "employment_admin",
+        "banking_payments",
+        "medical_billing",
+        "civic_admin"
+      ]
     }
   ]
 }
