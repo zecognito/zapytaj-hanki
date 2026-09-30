@@ -1,0 +1,34 @@
+{
+  "id": "polonia-insurance-statefarm-gottesman-philadelphia-pa",
+  "country": "US",
+  "category": "insurance",
+  "name": "Jeffrey Gottesman - State Farm",
+  "status": "active",
+  "location": {
+    "address": "1631 E Passyunk Avenue",
+    "city": "Philadelphia",
+    "state": "PA",
+    "postal_code": "19148-1121",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "auto insurance",
+    "homeowners insurance",
+    "renters insurance",
+    "life insurance",
+    "business insurance"
+  ],
+  "phone": "215-575-5300",
+  "email": null,
+  "website": "https://www.statefarm.com/agent/us/pa/philadelphia/jeffrey-gottesman-6f7sj7x2pgf",
+  "official_source": "https://www.statefarm.com/agent/us/pa/philadelphia/jeffrey-gottesman-6f7sj7x2pgf",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official State Farm office profile explicitly lists Polish among office languages."
+  ]
+}
