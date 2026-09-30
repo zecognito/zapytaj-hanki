@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-annas-polish-restaurant-winter-park",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Anna's Polish Restaurant",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "3586 Aloma Ave",
+    "city": "Winter Park",
+    "state": "FL",
+    "postal_code": "32792",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 407-657-0020",
+  "email": null,
+  "website": "https://www.annaspolishrestaurant.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Winter Park",
+    "FL"
+  ],
+  "notes": [
+    "Polish-food relevance supported by current official business or Polonia/local source. Commercial status and details remain freshness-sensitive."
+  ],
+  "official_source": "https://www.polishfloridabiz.com/polish-deli/",
+  "last_verified": "2026-09-30"
+}
