@@ -1,0 +1,21 @@
+{
+  "id": "country-republic-congo",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Republika Konga",
+  "facts": [
+    "Republika Konga leży w Afryce Środkowej, na zachód od Demokratycznej Republiki Konga.",
+    "Stolicą jest Brazzaville, położone naprzeciw Kinszasy po drugiej stronie rzeki Kongo.",
+    "Językiem urzędowym jest francuski, walutą frank CFA Afryki Środkowej, a gospodarka jest silnie związana z wydobyciem ropy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.presidence.cg/"
+  ],
+  "related_public_pages": []
+}
