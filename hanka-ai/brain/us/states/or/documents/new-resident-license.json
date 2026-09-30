@@ -1,0 +1,21 @@
+{
+  "id": "or-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OR",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Oregon",
+  "facts": [
+    "Nowy resident powinien przenieść lub uzyskać driver license zgodnie z procedurą stanową.",
+    "Wymagane są odpowiednie dokumenty identity i residency oraz inne dokumenty zależne od rodzaju license.",
+    "Testy lub dodatkowe wymagania zależą od statusu obecnego prawa jazdy i sytuacji kierowcy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.oregon.gov/odot/dmv/pages/new2or/moving.aspx"
+  ],
+  "related_public_pages": []
+}
