@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-travel-customs-personal-exemption",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "travel_border",
+  "subtopic": "customs",
+  "title": "Returning traveler duty-free exemption",
+  "facts": [
+    "Many returning U.S. residents can qualify for a personal duty exemption on a limited value of merchandise acquired abroad, but the amount depends on destination, length of absence and other rules.",
+    "A commonly applicable exemption is up to $800 for qualifying returning residents after an absence of at least 48 hours, subject to frequency and merchandise restrictions.",
+    "Alcohol, tobacco and goods from particular destinations can have special quantitative or eligibility limits.",
+    "Travelers should verify the current CBP exemption that applies to their itinerary rather than assuming every trip receives an $800 exemption."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information"
+  ],
+  "related_public_pages": []
+}
