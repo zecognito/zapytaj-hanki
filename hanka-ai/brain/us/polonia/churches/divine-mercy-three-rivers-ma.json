@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-divine-mercy-three-rivers-ma",
+  "country": "US",
+  "category": "church",
+  "name": "Divine Mercy Parish - Sts. Peter and Paul Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Three Rivers",
+    "state": "MA",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": "https://www.churchofdivinemercy.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "MA"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish source."
+  ],
+  "official_source": "https://www.churchofdivinemercy.org/",
+  "last_verified": "2026-09-30"
+}
