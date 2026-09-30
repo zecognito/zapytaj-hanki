@@ -1,0 +1,32 @@
+{
+  "id": "polonia-prof-other-quality-subaru-wallingford-ct",
+  "country": "US",
+  "category": "other_business",
+  "name": "Quality Subaru",
+  "status": "active",
+  "location": {
+    "address": "711 N Colony Rd (Rte 5)",
+    "city": "Wallingford",
+    "state": "CT",
+    "postal_code": "06492",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Subaru vehicle sales",
+    "vehicle service",
+    "parts"
+  ],
+  "phone": "+1 203-949-1104",
+  "email": null,
+  "website": "https://www.qualitysubaru.com/",
+  "official_source": "https://www.qualitysubaru.com/we-speak-polish.htm",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official dealership site maintains a dedicated 'We Speak Polish - Mowimy Po Polsku!' page and provides the Wallingford location. Stored as other_business rather than mechanic because it is a dealership with sales, service and parts."
+  ]
+}
