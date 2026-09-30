@@ -1,0 +1,21 @@
+{
+  "id": "eagle-nests",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Jura Krakowsko-Częstochowska",
+  "facts": [
+    "Jura Krakowsko-Częstochowska jest regionem wyżynnym między okolicami Krakowa i Częstochowy, znanym z wapiennych skał, jaskiń i zamków.",
+    "Szlak Orlich Gniazd łączy wiele średniowiecznych warowni i ruin na wapiennych wzgórzach.",
+    "„Jura” w tej nazwie jest określeniem geologicznym i regionalnym, a nie jednostką administracyjną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.slaskie.travel/"
+  ],
+  "related_public_pages": []
+}
