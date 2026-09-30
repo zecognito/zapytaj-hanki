@@ -1,0 +1,21 @@
+{
+  "id": "la-child_support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "LA",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Luizjanie",
+  "facts": [
+    "Stanowy program child support pomaga ustanawiać i egzekwować obowiązek alimentacyjny.",
+    "Wysokość support zależy od stanowych guidelines i faktów konkretnej sprawy.",
+    "Zmiana istniejącego order wymaga formalnej procedury."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dcfs.louisiana.gov/page/child-support-enforcement"
+  ],
+  "related_public_pages": []
+}
