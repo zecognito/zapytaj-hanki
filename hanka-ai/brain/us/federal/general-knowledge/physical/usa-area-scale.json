@@ -1,0 +1,21 @@
+{
+  "id": "usa-area-scale",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "area",
+  "title": "Jak duże są Stany Zjednoczone?",
+  "facts": [
+    "USA należą do największych państw świata pod względem powierzchni.",
+    "Census Bureau rozróżnia land area i water area; przy porównaniach powierzchni trzeba wskazać używaną miarę.",
+    "Alaska odpowiada za bardzo dużą część całkowitej powierzchni USA, dlatego contiguous 48 states są wyraźnie mniejsze niż całe 50 stanów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/geographies/reference-files/2010/geo/state-area.html"
+  ],
+  "related_public_pages": []
+}
