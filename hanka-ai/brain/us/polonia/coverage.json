@@ -46,10 +46,10 @@
       "status": "audit_in_progress",
       "records": 168,
       "notes": [
-        "Food/retail audit remains in progress at 168 records. This pass corrected two incomplete location records: Zygma European Groceries & Deli is now pinned to Duluth GA, and Euromart to 2531 N 12th St in Grand Junction CO, using current business sources.",
-        "Chicago Market Lakewood CO and Polonia Polish Restaurant Longwood FL were upgraded from third-party/directory citations to their own current business sites.",
-        "Two metro-only placeholders were downgraded from active to unverified: Polish Cuisine Las Vegas and Polish Deli Portland. They lack sufficiently defensible current street-level location data for local recommendations.",
-        "The active set is becoming materially cleaner: records without a reliable physical location or strong Polish-business identity are no longer allowed to remain active merely because a community page mentions them. Vectorize ingestion remains blocked until audit completion."
+        "Food/retail audit remains in progress at 168 total records. Florida audit upgraded Anna's Polish Restaurant, Krakus Polish Deli, Delicja Polish Market, and Artur's Restaurant to direct official business sources.",
+        "Four Florida directory-only records were downgraded from active to unverified because current first-party evidence was insufficient: Pierogi & Sausages Polish Deli (Pinellas Park), Pierogi Inn (Sarasota), EUROPOL Polish Deli (Winter Park), and Polmart Polish Deli (Clermont).",
+        "Taste of Poland Naples and Cape Coral European Market retain active status with current first-party sites; Fort Myers European Food Market and North Port International Food & Produce remain unverified from the prior pass.",
+        "Audit policy: unverified records may remain as discovery leads, but must not be surfaced as confirmed active local recommendations. Vectorize ingestion remains blocked until status-aware retrieval and audit completion."
       ]
     },
     "media_culture": {
