@@ -1,0 +1,21 @@
+{
+  "id": "hollywood",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "entertainment",
+  "title": "Hollywood",
+  "facts": [
+    "Hollywood jest dzielnicą Los Angeles w California i historycznym centrum amerykańskiego przemysłu filmowego.",
+    "Słowo Hollywood jest również używane jako skrótowe określenie U.S. film and entertainment industry.",
+    "Nie wszystkie amerykańskie filmy i studia są fizycznie produkowane w Hollywood."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.loc.gov/collections/national-screening-room/about-this-collection/"
+  ],
+  "related_public_pages": []
+}
