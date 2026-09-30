@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-redlinski-meats-cheektowaga",
+  "country": "US",
+  "category": "store",
+  "name": "Redlinski Meats",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1585 Walden Ave",
+    "city": "Cheektowaga",
+    "state": "NY",
+    "postal_code": "14225",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 716-893-1414",
+  "email": null,
+  "website": "https://redlinskimeats.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish groceries",
+    "Polish deli/meats or specialty foods"
+  ],
+  "coverage_area": [
+    "Cheektowaga",
+    "NY"
+  ],
+  "notes": [
+    "Commercial directory record; current status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://redlinskimeats.com/",
+  "last_verified": "2026-09-30"
+}
