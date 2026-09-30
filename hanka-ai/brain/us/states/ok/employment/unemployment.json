@@ -1,0 +1,21 @@
+{
+  "id": "ok-unemployment",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OK",
+  "topic": "employment",
+  "subtopic": "unemployment",
+  "title": "Unemployment insurance w Oklahoma",
+  "facts": [
+    "Stan prowadzi unemployment insurance dla kwalifikujących się osób bez pracy.",
+    "Eligibility zależy m.in. od historii zarobków i powodu utraty pracy.",
+    "Claimant musi spełniać bieżące wymagania programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://oklahoma.gov/oesc/individuals/unemployment.html"
+  ],
+  "related_public_pages": []
+}
