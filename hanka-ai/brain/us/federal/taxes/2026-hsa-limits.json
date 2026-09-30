@@ -1,0 +1,25 @@
+{
+  "id": "us-federal-hsa-limits-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "hsa",
+  "title": "Health Savings Account (HSA) — limity 2026",
+  "facts": [
+    "Dla 2026 roczny limit wpłat do HSA wynosi $4,400 przy self-only HDHP coverage.",
+    "Dla 2026 roczny limit wpłat do HSA wynosi $8,750 przy family HDHP coverage.",
+    "Osoba mająca co najmniej 55 lat na koniec roku może zasadniczo wpłacić dodatkowe $1,000 catch-up contribution.",
+    "Dla 2026 HDHP musi mieć annual deductible co najmniej $1,700 przy self-only coverage albo $3,400 przy family coverage.",
+    "Dla 2026 limit annual out-of-pocket expenses HDHP wynosi $8,500 przy self-only coverage i $17,000 przy family coverage.",
+    "Eligibility do wpłat HSA zależy od spełnienia zasad IRS dotyczących HSA-eligible individual, nie tylko od samego posiadania konta HSA."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/pub/irs-drop/rp-25-19.pdf",
+    "https://www.irs.gov/publications/p969"
+  ],
+  "related_public_pages": []
+}
