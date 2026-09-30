@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-defined-contribution-plan-limit-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "retirement",
+  "subtopic": "contribution_limits",
+  "title": "Defined contribution plan annual additions — 2026",
+  "facts": [
+    "2026 annual additions limit wynosi mniejszą z wartości: 100% compensation albo $72,000.",
+    "Limit obejmuje m.in. elective deferrals, employer matching, employer nonelective contributions i allocations of forfeitures, ale nie catch-up contributions.",
+    "Z $8,000 catch-up suma może osiągnąć $80,000; dla kwalifikujących się age 60–63 z $11,250 catch-up do $83,250.",
+    "2026 annual compensation limit dla wielu qualified-plan purposes wynosi $360,000."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits",
+    "https://www.irs.gov/retirement-plans/cola-increases-for-dollar-limitations-on-benefits-and-contributions"
+  ],
+  "related_public_pages": []
+}
