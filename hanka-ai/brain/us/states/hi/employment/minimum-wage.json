@@ -1,0 +1,21 @@
+{
+  "id": "hi-minimum_wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "HI",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna — Hawajach",
+  "facts": [
+    "Jurysdykcja ma własne zasady dotyczące tego obszaru podatkowego lub płacowego.",
+    "Wymagania i stawki mogą zmieniać się wraz z rokiem podatkowym lub kalendarzowym.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle jurysdykcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://labor.hawaii.gov/wsd/minimum-wage/"
+  ],
+  "related_public_pages": []
+}
