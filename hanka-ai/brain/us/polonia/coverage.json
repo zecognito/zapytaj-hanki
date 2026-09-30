@@ -44,12 +44,13 @@
     },
     "businesses": {
       "status": "professionals_in_progress",
-      "records": 173,
+      "records": 185,
       "notes": [
-        "Food/retail first-pass audit closed at 167 records; machine schema validation remains mandatory before ingestion.",
-        "Professional-services expansion started with six high-confidence Polish-language records: four law practices in Chicagoland/NY and one additional Chicago law practice plus one Chicago dental practice. Every added record has explicit Polish-language evidence from its own current website; no surname inference was used.",
-        "Regulated-profession rule remains: prefer first-party practice identity plus authoritative licensing/credential verification where available; Polish language must be explicitly evidenced. Expand Chicagoland and NY/NJ first across lawyers, dentists, doctors, accountants, insurance, real estate and other useful services.",
-        "Vectorize ingestion remains blocked until the professional layer is mature and status-aware retrieval/schema validation are ready."
+        "Food/retail first-pass audit remains closed at 167 records; machine schema validation remains mandatory before ingestion.",
+        "Professional-services layer now contains 18 records after two verified batches. New coverage includes Polish-speaking law, dentistry, primary-care/medical programs, tax/accounting, insurance and real estate across Chicagoland and NY/NJ.",
+        "This batch added: Law Office of Adriana Wos-Mysliwiec (NJ); Placzek Dental; Taxes - The Financial Services Corp.; MHP Portage Park and Jefferson Park; UChicago Polish-American Transplant Center; United Insurance Brokers; Northwest Chicago Insurance Group; Richele Brainin State Farm; Sayreville Dental; Metropark Dental; Judyta Komon/Coldwell Banker.",
+        "Language evidence remains strict: Polish is stored only when the current first-party/provider profile explicitly supports it. Clinic-level language capability is stored at clinic level rather than imputed to every clinician. Continue Chicagoland + NY/NJ with doctors, dentists, accountants, insurance, real estate, mechanics, funeral homes and credit unions before national expansion.",
+        "Vectorize ingestion remains blocked until professional coverage is mature and schema/status-aware ingestion is ready."
       ]
     },
     "media_culture": {
