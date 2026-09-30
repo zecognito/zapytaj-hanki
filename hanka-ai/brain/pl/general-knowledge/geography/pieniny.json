@@ -1,0 +1,21 @@
+{
+  "id": "pieniny",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Pieniny",
+  "facts": [
+    "Pieniny są pasmem górskim Karpat na pograniczu Polski i Słowacji.",
+    "Przełom Dunajca jest jednym z najbardziej charakterystycznych elementów krajobrazu regionu.",
+    "Pieniński Park Narodowy chroni polską część najcenniejszych obszarów Pienin."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://piepn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
