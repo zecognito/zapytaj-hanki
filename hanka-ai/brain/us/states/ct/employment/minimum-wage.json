@@ -1,0 +1,21 @@
+{
+  "id": "ct-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CT",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Connecticut",
+  "facts": [
+    "Connecticut ustala stanową minimum wage i przewiduje jej coroczną indeksację zgodnie z prawem stanowym.",
+    "Aktualna stawka obowiązuje objętych pracowników, z wyjątkami i szczególnymi zasadami dla określonych kategorii.",
+    "Connecticut Department of Labor publikuje aktualną stawkę i wymagane workplace notices."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://portal.ct.gov/dol/divisions/wage-and-workplace-standards/wage-and-workplace-standards"
+  ],
+  "related_public_pages": []
+}
