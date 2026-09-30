@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-travel-state-federal-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "travel_border",
+  "subtopic": "travel_boundary",
+  "title": "Travel rules - federal, state and foreign boundaries",
+  "facts": [
+    "TSA aviation security, CBP entry and customs, U.S. passports and federal immigration are federal matters.",
+    "Driver-license validity, vehicle insurance and many road-travel requirements are governed by state law.",
+    "Entry requirements, visas, medication restrictions and passport-validity rules imposed by another country are foreign-law requirements rather than U.S. federal rules.",
+    "Hanka should identify the destination, citizenship or immigration status and mode of travel before giving a specific international-travel document answer."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://travel.state.gov/content/travel/en/international-travel.html"
+  ],
+  "related_public_pages": []
+}
