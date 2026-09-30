@@ -1,0 +1,21 @@
+{
+  "id": "thirteen-years-war",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "medieval",
+  "title": "Wojna trzynastoletnia",
+  "facts": [
+    "Wojna trzynastoletnia między Królestwem Polskim i zakonem krzyżackim trwała w latach 1454–1466.",
+    "Konflikt był związany także z wystąpieniem Związku Pruskiego przeciw władzy zakonu.",
+    "Drugi pokój toruński w 1466 r. przyznał Polsce m.in. Pomorze Gdańskie i ustanowił nowy układ polityczny w Prusach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
