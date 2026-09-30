@@ -1,0 +1,21 @@
+{
+  "id": "poland-demographic-decline-2025",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "demographics",
+  "subtopic": "population",
+  "title": "Demografia Polski — spadek liczby ludności",
+  "facts": [
+    "Polska od wielu lat doświadcza spadku liczby ludności, wynikającego przede wszystkim z przewagi liczby zgonów nad liczbą urodzeń.",
+    "Według wstępnych danych GUS na koniec 2025 roku Polska liczyła około 37,332 mln mieszkańców, około 157 tys. mniej niż rok wcześniej.",
+    "Procesowi spadku liczby ludności towarzyszy starzenie się populacji, co ma znaczenie dla rynku pracy, ochrony zdrowia i systemu emerytalnego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ssgk.stat.gov.pl/02.2026/Ludnosc.html"
+  ],
+  "related_public_pages": []
+}
