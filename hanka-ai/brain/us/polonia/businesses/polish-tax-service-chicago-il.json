@@ -1,0 +1,33 @@
+{
+  "id": "polonia-accountant-polish-tax-service-chicago-il",
+  "country": "US",
+  "category": "accountant",
+  "name": "Polish Tax Service",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "individual tax preparation",
+    "business tax preparation",
+    "tax assistance",
+    "accounting"
+  ],
+  "phone": null,
+  "email": null,
+  "website": null,
+  "official_source": "https://www.polishamericanbusiness.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Polish-community tax/accounting provider lead. Current direct first-party web presence and exact office should be refreshed before near-me recommendation."
+  ]
+}
