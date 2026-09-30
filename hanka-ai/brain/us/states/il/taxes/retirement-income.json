@@ -1,0 +1,21 @@
+{
+  "id": "il-retirement-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "taxes",
+  "subtopic": "retirement_income",
+  "title": "Illinois treatment of retirement income",
+  "facts": [
+    "Illinois generally allows a subtraction from Illinois taxable income for qualifying retirement and Social Security income included in federal adjusted gross income.",
+    "Qualifying retirement-income categories and reporting rules should be checked against the current IL-1040 instructions for the tax year.",
+    "This Illinois treatment is separate from whether the income is taxable on the federal return."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tax.illinois.gov/individuals/pension.html"
+  ],
+  "related_public_pages": []
+}
