@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polish-market-west-bloomfield",
+  "country": "US",
+  "category": "store",
+  "name": "Polish Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "7300 Orchard Lake Rd",
+    "city": "West Bloomfield",
+    "state": "MI",
+    "postal_code": "48322",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 248-737-8800",
+  "email": null,
+  "website": "https://www.polishmarket.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "West Bloomfield",
+    "MI"
+  ],
+  "notes": [
+    "Commercial directory record; current status, exact address where incomplete, hours and services require periodic reverification."
+  ],
+  "official_source": "https://www.polishmarket.com/",
+  "last_verified": "2026-09-30"
+}
