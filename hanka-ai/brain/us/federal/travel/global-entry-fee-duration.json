@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-travel-global-entry-fee",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "travel_border",
+  "subtopic": "trusted_traveler",
+  "title": "Global Entry fee and membership period",
+  "facts": [
+    "The Global Entry application fee is $120 under the current CBP fee schedule.",
+    "Global Entry membership is generally valid for five years.",
+    "The application fee is nonrefundable even if the application is denied.",
+    "Fee amounts and program rules can change and should be verified against current CBP information before applying."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cbp.gov/travel/trusted-traveler-programs/global-entry/card"
+  ],
+  "related_public_pages": []
+}
