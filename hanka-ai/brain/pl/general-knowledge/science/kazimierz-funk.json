@@ -1,0 +1,21 @@
+{
+  "id": "kazimierz-funk",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Kazimierz Funk",
+  "facts": [
+    "Kazimierz Funk był biochemikiem urodzonym w Warszawie, który prowadził karierę naukową w wielu krajach.",
+    "W 1912 r. wprowadził termin „vitamine”, rozwijając koncepcję substancji niezbędnych w małych ilościach dla zdrowia.",
+    "Jego prace były ważnym etapem rozwoju nauki o witaminach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.britannica.com/biography/Casimir-Funk"
+  ],
+  "related_public_pages": []
+}
