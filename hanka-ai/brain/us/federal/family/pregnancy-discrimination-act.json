@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-family-pregnancy-discrimination",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "family_children",
+  "subtopic": "pregnancy_work",
+  "title": "Pregnancy discrimination - federal protection",
+  "facts": [
+    "Title VII as amended by the Pregnancy Discrimination Act prohibits covered employers from discriminating because of pregnancy, childbirth or related medical conditions.",
+    "Workers affected by pregnancy, childbirth or related medical conditions must be treated the same for employment purposes as other persons similar in their ability or inability to work where the statute applies.",
+    "Pregnancy discrimination protections are separate from, and can overlap with, accommodation rights under the Pregnant Workers Fairness Act and leave rights under FMLA."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.eeoc.gov/pregnancy-discrimination"
+  ],
+  "related_public_pages": []
+}
