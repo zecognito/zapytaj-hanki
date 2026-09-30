@@ -1,0 +1,21 @@
+{
+  "id": "country-gabon",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Gabon",
+  "facts": [
+    "Gabon leży w Afryce Środkowej nad Oceanem Atlantyckim i przecina go równik.",
+    "Stolicą jest Libreville, językiem urzędowym francuski, a walutą frank CFA Afryki Środkowej.",
+    "Gabon ma niewielką liczbę ludności w stosunku do powierzchni, duże obszary lasów równikowych oraz znaczący sektor naftowy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.presidence.ga/"
+  ],
+  "related_public_pages": []
+}
