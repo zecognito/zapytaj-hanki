@@ -1,0 +1,21 @@
+{
+  "id": "zurek-easter-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Żurek i Wielkanoc",
+  "facts": [
+    "Żurek jest kwaśną zupą przygotowywaną na zakwasie z mąki żytniej.",
+    "Jest popularny przez cały rok, ale szczególnie silnie kojarzy się z polskim stołem wielkanocnym.",
+    "Składniki i sposób podania różnią się regionalnie; często występują jajko i biała kiełbasa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101"
+  ],
+  "related_public_pages": []
+}
