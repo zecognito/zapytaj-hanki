@@ -1,0 +1,21 @@
+{
+  "id": "kompot",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Kompot",
+  "facts": [
+    "Kompot w polskiej kuchni jest napojem przygotowywanym przez gotowanie owoców w wodzie, zwykle z dodatkiem cukru według smaku.",
+    "Może być podawany na ciepło lub zimno i ma wiele odmian sezonowych.",
+    "Kompot z suszu jest szczególnie związany z tradycyjną kolacją wigilijną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101"
+  ],
+  "related_public_pages": []
+}
