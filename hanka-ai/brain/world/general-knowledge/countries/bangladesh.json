@@ -1,0 +1,21 @@
+{
+  "id": "country-bangladesh",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Bangladesz",
+  "facts": [
+    "Bangladesz leży w Azji Południowej nad Zatoką Bengalską i jest niemal całkowicie otoczony przez Indie, z krótką granicą z Mjanmą.",
+    "Stolicą jest Dhaka, językiem państwowym bengalski, a walutą taka.",
+    "Bangladesz należy do najgęściej zaludnionych dużych państw świata i leży w rozległej delcie Gangesu, Brahmaputry i Meghny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://bangladesh.gov.bd/index.php"
+  ],
+  "related_public_pages": []
+}
