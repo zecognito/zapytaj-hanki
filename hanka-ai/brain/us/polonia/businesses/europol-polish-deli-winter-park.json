@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-europol-polish-deli-winter-park",
+  "country": "US",
+  "category": "store",
+  "name": "EUROPOL Polish Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "3090 Aloma Ave #125",
+    "city": "Winter Park",
+    "state": "FL",
+    "postal_code": "32792",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 407-678-0909",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish deli",
+    "Polish groceries"
+  ],
+  "coverage_area": [
+    "Winter Park",
+    "FL"
+  ],
+  "notes": [
+    "Current Polish-food connection supported by an official business source or recent/local Polonia source; commercial details remain freshness-sensitive."
+  ],
+  "official_source": "https://www.polishfloridabiz.net/delis.html",
+  "last_verified": "2026-09-30"
+}
