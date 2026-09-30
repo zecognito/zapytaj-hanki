@@ -1,0 +1,32 @@
+{
+  "id": "polonia-prof-dentist-bielinski-hartford-ct",
+  "country": "US",
+  "category": "dentist",
+  "name": "Dr. Piotr Bielinski Dental Practice",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Hartford area",
+    "state": "CT",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "general dentistry",
+    "family dentistry",
+    "preventive dentistry"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://www.drbielinski.com/",
+  "official_source": "https://www.drbielinski.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official practice website provides a Polish-language version and Polish-facing patient information. Exact current street location withheld pending first-party confirmation."
+  ]
+}
