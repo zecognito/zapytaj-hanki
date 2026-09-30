@@ -1,0 +1,21 @@
+{
+  "id": "kluski-slaskie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Kluski śląskie",
+  "facts": [
+    "Kluski śląskie są charakterystycznymi okrągłymi kluskami ziemniaczanymi z wgłębieniem pośrodku.",
+    "Są szczególnie związane z kuchnią Śląska.",
+    "Często podaje się je z mięsem, sosem i modrą kapustą, choć zestawy różnią się."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101"
+  ],
+  "related_public_pages": []
+}
