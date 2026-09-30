@@ -1,0 +1,37 @@
+{
+  "id": "polonia-business-wiolettas-polish-market-milwaukee",
+  "country": "US",
+  "category": "store",
+  "name": "Wioletta's Polish Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "3955 S Howell Ave",
+    "city": "Milwaukee",
+    "state": "WI",
+    "postal_code": "53207",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish deli",
+    "bakery",
+    "Polish groceries and gifts"
+  ],
+  "coverage_area": [
+    "Milwaukee",
+    "WI"
+  ],
+  "notes": [
+    "Current Polish-food connection supported by an official business source or recent/local Polonia source; commercial details remain freshness-sensitive."
+  ],
+  "official_source": "https://city.milwaukee.gov/ImageLibrary/Groups/ccCouncil/District-13/PDFs/Spiker_Newsletter_Fall_2023_web.pdf",
+  "last_verified": "2026-09-30"
+}
