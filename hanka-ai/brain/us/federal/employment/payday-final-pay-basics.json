@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-employment-payday-final-pay-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "wages",
+  "title": "Federal payday i final paycheck — podstawy",
+  "facts": [
+    "FLSA nie wymaga natychmiastowej wypłaty final paycheck w chwili termination.",
+    "Jeżeli regular payday za ostatni pay period minął, a worker nie otrzymał należnej wypłaty, może skontaktować się z DOL Wage and Hour Division lub odpowiednią state labor agency.",
+    "State law często określa bardziej szczegółowe terminy regular paydays i final paychecks, więc odpowiedź dla konkretnego stanu musi uwzględniać prawo stanowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/general/topic/wages/lastpaycheck"
+  ],
+  "related_public_pages": []
+}
