@@ -1,0 +1,21 @@
+{
+  "id": "911-emergency",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "communications",
+  "subtopic": "service_numbers",
+  "title": "Kiedy dzwonić pod 911?",
+  "facts": [
+    "911 jest podstawowym numerem alarmowym w USA do zgłaszania sytuacji wymagających natychmiastowej pomocy policji, straży pożarnej lub ratownictwa medycznego.",
+    "911 nie jest numerem do zwykłych pytań administracyjnych ani niepilnych spraw.",
+    "Systemy 911 są prowadzone przez władze stanowe i lokalne, a możliwości tekstowania do 911 zależą od lokalizacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.911.gov/calling-911/"
+  ],
+  "related_public_pages": []
+}
