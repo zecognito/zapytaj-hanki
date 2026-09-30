@@ -1,0 +1,21 @@
+{
+  "id": "ne-minimum_wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NE",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Nebraska",
+  "facts": [
+    "Obowiązująca minimum wage zależy od prawa stanowego i federalnego.",
+    "Dla niektórych pracowników obowiązują wyjątki lub szczególne zasady.",
+    "Aktualną stawkę należy sprawdzić dla konkretnego zatrudnienia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dol.nebraska.gov/LaborStandards/MinimumWage"
+  ],
+  "related_public_pages": []
+}
