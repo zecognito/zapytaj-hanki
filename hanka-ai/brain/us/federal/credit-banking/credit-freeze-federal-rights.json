@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-credit-freeze-rights",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "credit_banking",
+  "subtopic": "credit_reports",
+  "title": "Credit freeze - federal rights",
+  "facts": [
+    "Federal law allows consumers to place, lift and remove security freezes on their credit files for free.",
+    "A freeze must be managed separately with Equifax, Experian and TransUnion.",
+    "A security freeze restricts access by prospective creditors but does not stop all access to a credit report and does not prevent all identity theft.",
+    "A freeze does not affect a consumer's credit score."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/what-know-about-credit-freezes-fraud-alerts"
+  ],
+  "related_public_pages": []
+}
