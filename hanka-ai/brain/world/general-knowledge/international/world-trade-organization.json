@@ -1,0 +1,21 @@
+{
+  "id": "world-trade-organization",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "international",
+  "subtopic": "organizations",
+  "title": "Światowa Organizacja Handlu — WTO",
+  "facts": [
+    "Światowa Organizacja Handlu (WTO) zajmuje się regułami handlu między państwami.",
+    "WTO rozpoczęła działalność w 1995 roku i zastąpiła wcześniejszy system GATT jako organizacja instytucjonalna.",
+    "Jej siedziba znajduje się w Genewie, a działalność obejmuje m.in. umowy handlowe, negocjacje i system rozstrzygania sporów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.wto.org/english/thewto_e/whatis_e/what_we_do_e.htm"
+  ],
+  "related_public_pages": []
+}
