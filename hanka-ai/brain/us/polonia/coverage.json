@@ -1,0 +1,36 @@
+{
+  "id": "polonia_directory",
+  "country": "US",
+  "last_verified": "2026-09-30",
+  "status": "started",
+  "categories": {
+    "government": {
+      "status": "seeded",
+      "records": 24,
+      "notes": [
+        "Embassy, Washington consular section, four Consulates General, and official honorary-consulate listings seeded from gov.pl.",
+        "Vacancies and temporary closures are retained as explicit statuses."
+      ]
+    },
+    "polish_schools": {
+      "status": "planned",
+      "records": 0
+    },
+    "churches": {
+      "status": "planned",
+      "records": 0
+    },
+    "organizations": {
+      "status": "planned",
+      "records": 0
+    },
+    "businesses": {
+      "status": "planned",
+      "records": 0
+    },
+    "media_culture": {
+      "status": "planned",
+      "records": 0
+    }
+  }
+}
