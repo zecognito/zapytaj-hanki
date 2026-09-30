@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-polish-citizens-esta-vwp",
+  "subtopic": "travel",
+  "title": "Polscy obywatele: ESTA i Visa Waiver Program",
+  "facts": [
+    "Polska uczestniczy w U.S. Visa Waiver Program od listopada 2019 r.",
+    "Uprawnieni obywatele lub nationals Polski mogą podróżować do USA w celach turystycznych lub biznesowych na pobyt do 90 dni bez wizy B, jeśli spełniają warunki VWP i mają zatwierdzoną ESTA.",
+    "ESTA jest autoryzacją podróży w ramach VWP, a nie wizą ani gwarancją wpuszczenia do USA; o dopuszczeniu do wjazdu decyduje kontrola graniczna.",
+    "Nie każdy podróżny z polskim paszportem kwalifikuje się do VWP; ustawowe ograniczenia i indywidualna historia podróży/status mogą wymagać uzyskania wizy."
+  ],
+  "effective_from": "2019-11-11",
+  "official_sources": [
+    "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+    "https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/Poland.html"
+  ]
+}
