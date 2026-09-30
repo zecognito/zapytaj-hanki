@@ -1,0 +1,21 @@
+{
+  "id": "wi-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WI",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Wisconsin",
+  "facts": [
+    "Stanowa płaca minimalna w Wisconsin wynosi 7,25 USD za godzinę dla objętych pracowników.",
+    "Dla tipped employees może obowiązywać niższa cash wage pod warunkiem spełnienia wymagań dotyczących tip credit.",
+    "Niektóre rodzaje pracy i pracowników podlegają szczególnym zasadom lub wyjątkom."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dwd.wisconsin.gov/er/laborstandards/minimumwage.htm"
+  ],
+  "related_public_pages": []
+}
