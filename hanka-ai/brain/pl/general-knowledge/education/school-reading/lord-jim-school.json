@@ -1,0 +1,21 @@
+{
+  "id": "lord-jim-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Lord Jim — Joseph Conrad",
+  "facts": [
+    "Lord Jim; autor: Joseph Conrad; szkolny kontekst literatury: modernizm.",
+    "Powieść o młodym marynarzu Jimie, jego moralnej porażce, poczuciu winy i próbie odzyskania honoru.",
+    "Rekord wspiera rozpoznawanie tytułu, autora, epoki i typowych zagadnień omawianych na języku polskim."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
