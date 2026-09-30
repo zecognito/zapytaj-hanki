@@ -1,0 +1,21 @@
+{
+  "id": "ok-new_resident_license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OK",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Oklahoma",
+  "facts": [
+    "Prawo stanowe określa wymagania i procedurę w tym obszarze.",
+    "Szczegóły zależą od sytuacji osoby i aktualnych przepisów.",
+    "Należy sprawdzić aktualne wymagania właściwej agencji stanowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://oklahoma.gov/service/all-services/auto-vehicle/driver-license.html"
+  ],
+  "related_public_pages": []
+}
