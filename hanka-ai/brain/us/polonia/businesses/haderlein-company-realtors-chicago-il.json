@@ -1,0 +1,36 @@
+{
+  "id": "polonia-prof-real-estate-haderlein-chicago-il",
+  "country": "US",
+  "category": "real_estate",
+  "name": "Haderlein & Company Realtors",
+  "status": "active",
+  "location": {
+    "address": "3413 N Paulina St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60657",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "de",
+    "es"
+  ],
+  "services": [
+    "residential real estate",
+    "commercial real estate",
+    "investment real estate",
+    "buyer representation",
+    "seller representation"
+  ],
+  "phone": "+1 773-525-9119",
+  "email": "JerryHaderlein@Ameritech.net",
+  "website": "https://www.haderleincompany.com/",
+  "official_source": "https://www.haderleincompany.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official brokerage site explicitly states Mówimy po polsku and provides current Chicago office details."
+  ]
+}
