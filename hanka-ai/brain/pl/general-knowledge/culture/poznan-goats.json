@@ -1,0 +1,21 @@
+{
+  "id": "poznan-goats",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "legends",
+  "title": "Poznańskie koziołki",
+  "facts": [
+    "Poznańskie koziołki są jednym z najbardziej rozpoznawalnych symboli miasta.",
+    "Mechaniczne koziołki pojawiają się na wieży ratuszowej i tradycyjnie trykają się rogami w południe.",
+    "Z ich pochodzeniem wiąże się popularna legenda miejska."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.poznan.pl/mim/turystyka/poznanskie-koziolki,p,661,662,2098.html"
+  ],
+  "related_public_pages": []
+}
