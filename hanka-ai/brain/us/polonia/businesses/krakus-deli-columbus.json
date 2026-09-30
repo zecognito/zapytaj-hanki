@@ -2,35 +2,38 @@
   "id": "polonia-business-krakus-deli-columbus",
   "country": "US",
   "category": "store",
-  "name": "Krakus Deli",
+  "name": "Krakus Polish Deli & Bakery",
   "aliases": [],
   "status": "active",
   "location": {
-    "address": "Columbus area",
-    "city": "Columbus",
+    "address": "7050 Market St #108",
+    "city": "Boardman",
     "state": "OH",
-    "postal_code": null,
+    "postal_code": "44512",
     "latitude": null,
     "longitude": null
   },
-  "phone": null,
+  "phone": "+1 330-758-8333",
   "email": null,
-  "website": null,
+  "website": "https://krakuspolishdeli.com/",
   "languages": [
     "pl",
     "en"
   ],
   "services": [
-    "Polish and European groceries",
-    "deli/prepared foods"
+    "Polish deli and bakery",
+    "traditional Polish cuisine",
+    "Polish imports",
+    "kielbasa and pierogi"
   ],
   "coverage_area": [
-    "Columbus",
+    "Boardman",
+    "Youngstown",
     "OH"
   ],
   "notes": [
-    "Commercial directory record; current status, exact address where incomplete, hours and services require periodic reverification."
+    "Audited 2026-09-30: earlier placeholder incorrectly labeled this as Columbus; official business site confirms Boardman, Ohio location."
   ],
-  "official_source": "https://www.gov.pl/web/usa/relacje-dwustronne",
+  "official_source": "https://krakuspolishdeli.com/contact.html",
   "last_verified": "2026-09-30"
 }
