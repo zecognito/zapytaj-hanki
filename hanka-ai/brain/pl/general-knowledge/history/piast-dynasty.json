@@ -1,0 +1,21 @@
+{
+  "id": "piast-dynasty",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "dynasties",
+  "title": "Dynastia Piastów",
+  "facts": [
+    "Piastowie byli pierwszą historyczną dynastią rządzącą państwem polskim.",
+    "Do dynastii należeli m.in. Mieszko I, Bolesław Chrobry i Kazimierz Wielki.",
+    "Główna królewska linia Piastów wygasła w XIV wieku, choć linie książęce przetrwały dłużej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
