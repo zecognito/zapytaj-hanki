@@ -1,0 +1,21 @@
+{
+  "id": "polish-alphabet",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "Alfabet polski",
+  "facts": [
+    "Współczesny alfabet polski ma 32 litery.",
+    "Charakterystyczne polskie litery to ą, ć, ę, ł, ń, ó, ś, ź i ż.",
+    "Litery q, v i x nie należą do podstawowego alfabetu polskiego, ale występują w nazwach obcych, zapożyczeniach i innych szczególnych zapisach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/zasady/Alfabet;629693.html"
+  ],
+  "related_public_pages": []
+}
