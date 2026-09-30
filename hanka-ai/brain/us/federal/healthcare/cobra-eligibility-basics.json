@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-healthcare-cobra-eligibility",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "healthcare",
+  "subtopic": "cobra",
+  "title": "COBRA continuation coverage - basics",
+  "facts": [
+    "Federal COBRA can allow workers and family members to temporarily continue employer group health coverage after certain qualifying events that would otherwise cause loss of coverage.",
+    "COBRA generally applies to private-sector group health plans maintained by employers with at least 20 employees and to many state and local government plans; separate rules apply to federal employees and some other plans.",
+    "Termination of employment other than for gross misconduct or a reduction in hours can be a qualifying event if it causes loss of plan coverage.",
+    "COBRA beneficiaries generally receive the same coverage available to similarly situated active participants under the plan."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra"
+  ],
+  "related_public_pages": []
+}
