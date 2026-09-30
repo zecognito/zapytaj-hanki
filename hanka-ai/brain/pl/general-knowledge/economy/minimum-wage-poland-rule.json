@@ -1,0 +1,21 @@
+{
+  "id": "minimum-wage-poland-rule",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "work",
+  "title": "Płaca minimalna w Polsce — zasada",
+  "facts": [
+    "W Polsce obowiązuje ustawowo ustalane minimalne wynagrodzenie za pracę, a dla określonych umów cywilnoprawnych również minimalna stawka godzinowa.",
+    "Kwoty zmieniają się, dlatego Hanka powinna zawsze podawać rok lub okres obowiązywania.",
+    "Nie należy używać starej kwoty płacy minimalnej jako aktualnej bez weryfikacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina/minimalne-wynagrodzenie-za-prace"
+  ],
+  "related_public_pages": []
+}
