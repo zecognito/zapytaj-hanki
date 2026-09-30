@@ -1,0 +1,21 @@
+{
+  "id": "country-paraguay",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Paragwaj",
+  "facts": [
+    "Paragwaj jest śródlądowym państwem Ameryki Południowej, graniczącym z Argentyną, Brazylią i Boliwią.",
+    "Stolicą jest Asunción; hiszpański i guarani są językami urzędowymi, a walutą guarani.",
+    "Paragwaj jest republiką i członkiem Mercosur."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mre.gov.py/"
+  ],
+  "related_public_pages": []
+}
