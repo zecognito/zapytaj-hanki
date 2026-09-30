@@ -1,0 +1,21 @@
+{
+  "id": "torun-old-town-unesco",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Średniowieczny Toruń",
+  "facts": [
+    "Toruń rozwinął się jako ważny ośrodek handlowy związany z zakonem krzyżackim i Hanzeatycką siecią handlową.",
+    "Średniowieczny zespół miejski Torunia zachował liczne zabytki gotyckie.",
+    "Medieval Town of Toruń znajduje się na Liście Światowego Dziedzictwa UNESCO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://whc.unesco.org/en/list/835/"
+  ],
+  "related_public_pages": []
+}
