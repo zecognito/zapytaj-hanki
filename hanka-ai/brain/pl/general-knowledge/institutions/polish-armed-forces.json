@@ -1,0 +1,21 @@
+{
+  "id": "polish-armed-forces",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "security",
+  "title": "Siły Zbrojne Rzeczypospolitej Polskiej",
+  "facts": [
+    "Siły Zbrojne RP służą ochronie niepodległości państwa, niepodzielności jego terytorium oraz bezpieczeństwa i nienaruszalności granic.",
+    "Do rodzajów Sił Zbrojnych należą Wojska Lądowe, Siły Powietrzne, Marynarka Wojenna, Wojska Specjalne i Wojska Obrony Terytorialnej.",
+    "Siły Zbrojne wykonują zadania obronne, uczestniczą w zobowiązaniach sojuszniczych i operacjach międzynarodowych oraz mogą wspierać bezpieczeństwo wewnętrzne i społeczeństwo w sytuacjach kryzysowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/obrona-narodowa/sily-zbrojne-rp"
+  ],
+  "related_public_pages": []
+}
