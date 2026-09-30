@@ -1,0 +1,36 @@
+{
+  "id": "polonia-prof-law-agnieszka-piasecka-fl",
+  "country": "US",
+  "category": "lawyer",
+  "name": "Piasecka Law - Agnieszka 'Aga' Piasecka",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Tampa Bay area",
+    "state": "FL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "it"
+  ],
+  "services": [
+    "family law",
+    "immigration",
+    "estate planning",
+    "probate",
+    "personal injury",
+    "real estate law"
+  ],
+  "phone": "+1 727-538-4171",
+  "email": null,
+  "website": "https://www.floridapolishattorney.com/",
+  "official_source": "https://www.floridapolishattorney.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official attorney site explicitly identifies Agnieszka Piasecka as Polish-born, Polish-speaking, and licensed to practice law in Florida and Poland. Exact office street address withheld until first-party confirmation."
+  ]
+}
