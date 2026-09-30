@@ -1,0 +1,21 @@
+{
+  "id": "nc-unemployment-basics",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NC",
+  "topic": "benefits",
+  "subtopic": "unemployment",
+  "title": "Unemployment Insurance w Karolinie Północnej",
+  "facts": [
+    "North Carolina Unemployment Insurance zapewnia czasowe świadczenia kwalifikującym się osobom bez pracy.",
+    "Eligibility zależy m.in. od wcześniejszych wages, powodu utraty pracy oraz zdolności i dostępności do pracy.",
+    "Claimant musi wykonywać wymagane weekly certifications i work-search activities, jeśli mają zastosowanie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.des.nc.gov/individuals/apply-unemployment"
+  ],
+  "related_public_pages": []
+}
