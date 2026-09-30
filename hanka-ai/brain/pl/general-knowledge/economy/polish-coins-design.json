@@ -1,0 +1,21 @@
+{
+  "id": "polish-coins-design",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "currency",
+  "title": "Polskie monety obiegowe",
+  "facts": [
+    "Polskie monety obiegowe mają na awersie godło Rzeczypospolitej Polskiej oraz nazwę państwa i rok emisji.",
+    "Rewers wskazuje nominał i zawiera elementy dekoracyjne zależne od monety.",
+    "NBP jest emitentem polskich banknotów i monet obiegowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://nbp.pl/banknoty-i-monety/monety-obiegowe/"
+  ],
+  "related_public_pages": []
+}
