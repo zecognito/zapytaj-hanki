@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-credit-report-dispute",
+  "subtopic": "privacy_records",
+  "title": "Kwestionowanie błędu w credit report",
+  "facts": [
+    "FCRA pozwala konsumentowi dispute inaccurate lub incomplete information w credit report.",
+    "Credit reporting company zasadniczo musi przeprowadzić reasonable investigation, zwykle w ciągu 30 dni, z określonymi wyjątkami i możliwością wydłużenia w pewnych sytuacjach.",
+    "Konsument może również dispute information bezpośrednio z company, która przekazała dane do credit bureau.",
+    "Po zakończeniu investigation consumer reporting company powinna przekazać wyniki oraz, gdy nastąpiła zmiana, zaktualizowaną kopię report zgodnie z zasadami."
+  ],
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/",
+    "https://consumer.ftc.gov/articles/disputing-errors-your-credit-reports"
+  ]
+}
