@@ -1,0 +1,21 @@
+{
+  "id": "irena-sendler",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "people",
+  "title": "Irena Sendlerowa",
+  "facts": [
+    "Irena Sendlerowa była polską działaczką społeczną i członkinią Żegoty podczas okupacji niemieckiej.",
+    "Uczestniczyła w pomocy żydowskim dzieciom i rodzinom oraz w organizowaniu ich ratowania z getta warszawskiego.",
+    "Yad Vashem uznał ją za Sprawiedliwą wśród Narodów Świata."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://collections.yadvashem.org/en/righteous/4017388"
+  ],
+  "related_public_pages": []
+}
