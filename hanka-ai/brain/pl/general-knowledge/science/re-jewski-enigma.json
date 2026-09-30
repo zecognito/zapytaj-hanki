@@ -1,0 +1,21 @@
+{
+  "id": "re-jewski-enigma",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Marian Rejewski",
+  "facts": [
+    "Marian Rejewski był polskim matematykiem i kryptologiem pracującym dla Biura Szyfrów.",
+    "W 1932 r. odtworzył zasadę działania wojskowej maszyny szyfrującej Enigma i opracował metody jej kryptologicznego ataku.",
+    "Polskie osiągnięcia Rejewskiego, Jerzego Różyckiego i Henryka Zygalskiego zostały przekazane sojusznikom przed II wojną światową i stały się ważnym fundamentem dalszych prac alianckich."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/wielkabrytania/polish-contribution-to-breaking-enigma-code"
+  ],
+  "related_public_pages": []
+}
