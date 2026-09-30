@@ -1,0 +1,21 @@
+{
+  "id": "world-regions",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Regiony świata",
+  "facts": [
+    "Świat można dzielić na regiony geograficzne, kulturowe, gospodarcze i statystyczne, a różne instytucje stosują różne klasyfikacje.",
+    "ONZ w klasyfikacji statystycznej M49 grupuje państwa i obszary w regiony oraz subregiony geograficzne.",
+    "Nazwy takie jak Europa Wschodnia, Bliski Wschód, Azja Południowo-Wschodnia czy Ameryka Łacińska wymagają kontekstu, ponieważ ich granice mogą zależeć od przyjętej definicji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://unstats.un.org/unsd/methodology/m49/"
+  ],
+  "related_public_pages": []
+}
