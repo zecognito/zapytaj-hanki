@@ -1,0 +1,21 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-consular-signature-certification",
+  "subtopic": "legal_documents",
+  "title": "Poświadczenie podpisu w polskim konsulacie w USA",
+  "facts": [
+    "Konsul RP może poświadczyć własnoręczność podpisu pod dokumentem; osoba podpisująca musi stawić się osobiście z dokumentem i ważnym dokumentem tożsamości.",
+    "Poświadczenie podpisu nie zastępuje aktu notarialnego, jeśli polskie prawo wymaga dla danej czynności formy aktu notarialnego.",
+    "Przykładowo niektóre pełnomocnictwa dotyczące przeniesienia własności nieruchomości lub działu spadku mogą wymagać formy aktu notarialnego, więc zwykłe konsularne poświadczenie podpisu może być niewystarczające."
+  ],
+  "official_sources": [
+    "https://www.gov.pl/web/usa/poswiadczenie-wlasnorecznosci-podpisu"
+  ]
+}
