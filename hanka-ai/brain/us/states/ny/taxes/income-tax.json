@@ -1,0 +1,21 @@
+{
+  "id": "ny-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NY",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy stanu Nowy Jork",
+  "facts": [
+    "New York State ma progresywny podatek dochodowy od osób fizycznych; stawka zależy od taxable income i filing status.",
+    "New York City nakłada dodatkowy lokalny podatek dochodowy na swoich mieszkańców; nie jest to podatek obowiązujący w całym stanie.",
+    "Aktualne progi i stawki należy sprawdzać dla konkretnego roku podatkowego w New York State Department of Taxation and Finance."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.tax.ny.gov/pit/file/tax-tables/"
+  ],
+  "related_public_pages": []
+}
