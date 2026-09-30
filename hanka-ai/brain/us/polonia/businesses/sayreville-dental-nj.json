@@ -1,0 +1,34 @@
+{
+  "id": "polonia-prof-dentist-sayreville-nj",
+  "country": "US",
+  "category": "dentist",
+  "name": "Sayreville Dental",
+  "status": "active",
+  "location": {
+    "address": "161 Washington Rd",
+    "city": "Sayreville",
+    "state": "NJ",
+    "postal_code": "08872",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "general dentistry",
+    "preventive dentistry",
+    "cosmetic dentistry",
+    "restorative dentistry",
+    "emergency dental care"
+  ],
+  "phone": "+1 732-257-9300",
+  "email": null,
+  "website": "https://www.sayrevilledental.com/",
+  "official_source": "https://www.sayrevilledental.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official dental-practice site explicitly states We Speak Polish / Mówimy Po Polsku and provides the Sayreville address."
+  ]
+}
