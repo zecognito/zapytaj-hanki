@@ -1,0 +1,21 @@
+{
+  "id": "kopytka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Kopytka",
+  "facts": [
+    "Kopytka są polskimi kluskami przygotowywanymi przede wszystkim z ugotowanych ziemniaków i mąki.",
+    "Nazwa nawiązuje do charakterystycznego kształtu kawałków ciasta.",
+    "Mogą być podawane jako dodatek do sosów i mięs albo jako samodzielne danie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101"
+  ],
+  "related_public_pages": []
+}
