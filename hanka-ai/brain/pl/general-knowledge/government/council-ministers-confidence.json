@@ -1,0 +1,21 @@
+{
+  "id": "council-ministers-confidence",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "executive",
+  "title": "Rząd a wotum zaufania Sejmu",
+  "facts": [
+    "Konstytucyjna procedura tworzenia Rady Ministrów wiąże rząd z zaufaniem Sejmu.",
+    "Po powołaniu Rady Ministrów premier przedstawia Sejmowi program działania rządu i zwraca się o wotum zaufania w terminie określonym przez Konstytucję.",
+    "Sejm może również uchwalić Radzie Ministrów konstruktywne wotum nieufności, wskazując jednocześnie kandydata na nowego premiera."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sejm.gov.pl/prawo/konst/polski/kon1.htm"
+  ],
+  "related_public_pages": []
+}
