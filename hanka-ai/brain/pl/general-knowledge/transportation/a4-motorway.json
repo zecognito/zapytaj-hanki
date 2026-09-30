@@ -1,0 +1,21 @@
+{
+  "id": "a4-motorway",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Autostrada A4",
+  "facts": [
+    "A4 jest głównym korytarzem autostradowym południowej Polski biegnącym ze wschodu na zachód.",
+    "Łączy m.in. rejon Wrocławia, Górnego Śląska, Krakowa i Rzeszowa oraz kierunki graniczne.",
+    "Warunki ruchu, remonty i opłaty mogą się zmieniać."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
