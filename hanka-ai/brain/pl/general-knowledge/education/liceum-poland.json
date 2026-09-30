@@ -1,0 +1,21 @@
+{
+  "id": "liceum-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school_system",
+  "title": "Liceum ogólnokształcące",
+  "facts": [
+    "Liceum ogólnokształcące jest jednym z głównych typów szkół ponadpodstawowych w Polsce.",
+    "Kształcenie ma charakter ogólny i może prowadzić do egzaminu maturalnego.",
+    "Matura nie jest automatycznie przyznawana za samo ukończenie liceum; jest odrębnym egzaminem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/edukacja"
+  ],
+  "related_public_pages": []
+}
