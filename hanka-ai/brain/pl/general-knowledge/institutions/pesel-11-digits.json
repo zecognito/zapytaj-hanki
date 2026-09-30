@@ -1,0 +1,21 @@
+{
+  "id": "pesel-11-digits",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "documents",
+  "title": "PESEL — 11 cyfr",
+  "facts": [
+    "Numer PESEL ma 11 cyfr i służy do jednoznacznej identyfikacji osoby w polskim rejestrze PESEL.",
+    "Zakodowane są w nim m.in. informacje związane z datą urodzenia oraz cyfra kontrolna zgodnie z ustawowym systemem.",
+    "PESEL jest identyfikatorem administracyjnym i nie powinien być publicznie udostępniany bez potrzeby."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gov/czym-jest-numer-pesel"
+  ],
+  "related_public_pages": []
+}
