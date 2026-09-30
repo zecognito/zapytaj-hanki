@@ -1,0 +1,34 @@
+{
+  "id": "polonia-insurance-statefarm-jonas-crown-point-in",
+  "country": "US",
+  "category": "insurance",
+  "name": "Mark Jonas - State Farm",
+  "status": "active",
+  "location": {
+    "address": "1166 E Summit Street",
+    "city": "Crown Point",
+    "state": "IN",
+    "postal_code": "46307-2729",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "auto insurance",
+    "homeowners insurance",
+    "renters insurance",
+    "life insurance",
+    "business insurance"
+  ],
+  "phone": "219-310-8580",
+  "email": null,
+  "website": "https://www.statefarm.com/agent/us/in/crown-point/mark-jonas-0fndy8k6cak",
+  "official_source": "https://www.statefarm.com/agent/us/in/crown-point/mark-jonas-0fndy8k6cak",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official State Farm office profile explicitly lists Polish among office languages."
+  ]
+}
