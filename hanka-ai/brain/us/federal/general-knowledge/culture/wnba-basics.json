@@ -1,0 +1,21 @@
+{
+  "id": "wnba-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "sports",
+  "title": "WNBA",
+  "facts": [
+    "Women's National Basketball Association (WNBA) jest profesjonalną ligą women's basketball w USA.",
+    "Liga rozpoczęła rozgrywki w 1997 r.",
+    "WNBA jest odrębną ligą od NBA, choć obie są silnie powiązane z amerykańską kulturą basketball."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.wnba.com/about"
+  ],
+  "related_public_pages": []
+}
