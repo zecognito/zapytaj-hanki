@@ -1,0 +1,21 @@
+{
+  "id": "gdansk-airport",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "aviation",
+  "title": "Port Lotniczy Gdańsk im. Lecha Wałęsy",
+  "facts": [
+    "Port Lotniczy Gdańsk im. Lecha Wałęsy jest głównym lotniskiem obsługującym Trójmiasto i północną część Polski.",
+    "Lotnisko znajduje się w Gdańsku-Rębiechowie i obsługuje połączenia krajowe oraz międzynarodowe.",
+    "Jest jednym z najważniejszych regionalnych portów lotniczych w Polsce."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.airport.gdansk.pl/"
+  ],
+  "related_public_pages": []
+}
