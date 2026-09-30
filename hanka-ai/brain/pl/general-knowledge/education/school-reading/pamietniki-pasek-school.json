@@ -1,0 +1,21 @@
+{
+  "id": "pamietniki-pasek-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Pamiętniki — fragmenty — Jan Chryzostom Pasek",
+  "facts": [
+    "Pamiętniki — fragmenty, autor: Jan Chryzostom Pasek; szkolny kanon literatury, epoka: barok; zakres: fragmenty.",
+    "Barwna relacja szlachcica-żołnierza, ważna dla poznania mentalności, obyczajów i języka polskiego baroku.",
+    "Hanka powinna łączyć utwór z epoką, autorem, motywami, formą literacką oraz kontekstem historycznym."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
