@@ -1,0 +1,21 @@
+{
+  "id": "mo-security_deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MO",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit przy wynajmie — Missouri",
+  "facts": [
+    "Prawo stanowe określa zasady security deposit w residential tenancy.",
+    "Dozwolone potrącenia i termin zwrotu zależą od obowiązujących przepisów.",
+    "Najemca powinien zachować lease, dowody płatności i dokumentację stanu lokalu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://revisor.mo.gov/main/OneSection.aspx?section=535.300"
+  ],
+  "related_public_pages": []
+}
