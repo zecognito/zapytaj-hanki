@@ -1,0 +1,21 @@
+{
+  "id": "ny-unemployment-basics",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NY",
+  "topic": "benefits",
+  "subtopic": "unemployment",
+  "title": "Unemployment Insurance w stanie Nowy Jork",
+  "facts": [
+    "New York Unemployment Insurance zapewnia czasowe świadczenia kwalifikującym się osobom, które straciły pracę bez własnej winy i spełniają wymagania programu.",
+    "Po złożeniu claimu trzeba nadal spełniać wymagania eligibility, w tym dotyczące gotowości i zdolności do pracy oraz wymaganych działań związanych z poszukiwaniem pracy.",
+    "Claim i cotygodniowe benefits/certification obsługuje New York State Department of Labor."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dol.ny.gov/unemployment-insurance"
+  ],
+  "related_public_pages": []
+}
