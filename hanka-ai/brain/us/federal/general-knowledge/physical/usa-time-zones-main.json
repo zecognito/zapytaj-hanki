@@ -1,0 +1,21 @@
+{
+  "id": "usa-time-zones-main",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "time",
+  "subtopic": "time_zones",
+  "title": "Główne strefy czasowe USA",
+  "facts": [
+    "W contiguous United States używa się czterech głównych stref czasowych: Eastern, Central, Mountain i Pacific.",
+    "Alaska używa przede wszystkim Alaska Time, a Hawaii używa Hawaii-Aleutian Time.",
+    "Terytoria USA obejmują dodatkowe strefy czasowe, więc liczba stref zależy od tego, czy pytanie dotyczy 50 stanów, contiguous USA czy wszystkich terytoriów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.transportation.gov/regulations/time-act"
+  ],
+  "related_public_pages": []
+}
