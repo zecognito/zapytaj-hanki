@@ -1,0 +1,24 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-sale-polish-property-us-tax",
+  "subtopic": "polish_property",
+  "title": "Sprzedaż nieruchomości w Polsce przez U.S. person",
+  "facts": [
+    "U.S. citizen lub resident alien może mieć obowiązek wykazania w USA zysku ze sprzedaży nieruchomości położonej w Polsce, ponieważ federalne opodatkowanie USA zasadniczo obejmuje worldwide income.",
+    "Podstawę i zysk dla celów USA ustala się według amerykańskich reguł; wynik podatkowy w USA nie musi być taki sam jak w Polsce.",
+    "Zagraniczna nieruchomość i nieruchomość położona w USA nie są traktowane jako like-kind względem siebie dla reguł section 1031.",
+    "Podatek dochodowy zapłacony w Polsce może wymagać analizy Foreign Tax Credit oraz zasad source-of-income."
+  ],
+  "official_sources": [
+    "https://www.irs.gov/publications/p544",
+    "https://www.irs.gov/publications/p514",
+    "https://www.irs.gov/publications/p54"
+  ]
+}
