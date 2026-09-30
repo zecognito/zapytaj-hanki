@@ -1,0 +1,21 @@
+{
+  "id": "poison-control",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "healthcare",
+  "subtopic": "emergency_services",
+  "title": "Poison Control w USA",
+  "facts": [
+    "Poison Control centers zapewniają specjalistyczną pomoc przy podejrzeniu poisoning lub toxic exposure.",
+    "National Poison Help line to 1-800-222-1222 i kieruje dzwoniącego do odpowiedniego poison center.",
+    "W sytuacji bezpośredniego zagrożenia życia należy użyć 911."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://poisonhelp.hrsa.gov/"
+  ],
+  "related_public_pages": []
+}
