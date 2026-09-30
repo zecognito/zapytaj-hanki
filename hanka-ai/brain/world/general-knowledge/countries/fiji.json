@@ -1,0 +1,21 @@
+{
+  "id": "country-fiji",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Fidżi",
+  "facts": [
+    "Fidżi jest państwem archipelagowym Melanezji na południowym Pacyfiku.",
+    "Stolicą jest Suva, a walutą dolar fidżyjski; angielski, fidżyjski i hindi fidżyjskie są szeroko używane w życiu publicznym.",
+    "Fidżi jest republiką i ważnym regionalnym ośrodkiem wysp Pacyfiku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fiji.gov.fj/"
+  ],
+  "related_public_pages": []
+}
