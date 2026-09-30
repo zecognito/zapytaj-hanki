@@ -1,0 +1,21 @@
+{
+  "id": "barbecue-regional-styles",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Barbecue w USA ma regionalne style",
+  "facts": [
+    "American barbecue to metoda powolnego przygotowywania mięsa przy użyciu dymu i niskiej temperatury, a nie tylko ogólne określenie grillowania.",
+    "Znane tradycje regionalne obejmują m.in. Texas, Kansas City, Memphis oraz Carolinas, różniące się mięsem, przyprawami i sauces.",
+    "Nie istnieje jeden oficjalny „amerykański barbecue”; regionalne style są częścią lokalnej historii i kultury."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.loc.gov/item/2021689261/"
+  ],
+  "related_public_pages": []
+}
