@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-kielbasa-factory-rockville-md",
+  "country": "US",
+  "category": "store",
+  "name": "Kielbasa Factory",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1073 Rockville Pike",
+    "city": "Rockville",
+    "state": "MD",
+    "postal_code": "20852",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 240-453-9090",
+  "email": null,
+  "website": "https://kielbasafactory.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Rockville",
+    "MD"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://kielbasafactory.com/",
+  "last_verified": "2026-09-30"
+}
