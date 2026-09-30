@@ -1,0 +1,21 @@
+{
+  "id": "ca-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CA",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Kalifornii",
+  "facts": [
+    "Nowy mieszkaniec California musi zarejestrować kwalifikujący się pojazd w California DMV zgodnie z wymaganym terminem.",
+    "Proces wymaga dokumentów ownership, odpowiednich formularzy i opłat; pojazd może wymagać VIN verification i smog certification zależnie od sytuacji.",
+    "California registration jest odrębna od procesu uzyskania California driver license."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dmv.ca.gov/portal/vehicle-registration/new-registration/registering-a-vehicle-purchased-from-a-private-party/"
+  ],
+  "related_public_pages": []
+}
