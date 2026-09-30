@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-credit-debt-collector-contact-rules",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "credit_banking",
+  "subtopic": "debt_collection",
+  "title": "Debt collector communication rules",
+  "facts": [
+    "Covered debt collectors generally may not contact a consumer at unusual or inconvenient times or places; communications before 8 a.m. or after 9 p.m. local time are generally presumed inconvenient unless circumstances indicate otherwise.",
+    "A debt collector generally must stop communicating after receiving a valid written cease-communication request, subject to limited permitted notices.",
+    "Collectors may not harass, oppress, abuse, use deceptive practices or threaten actions they cannot legally take.",
+    "Special rules apply when a collector knows the consumer is represented by an attorney regarding the debt."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/when-can-a-debt-collector-contact-me-en-332/",
+    "https://www.consumerfinance.gov/rules-policy/regulations/1006/14/"
+  ],
+  "related_public_pages": []
+}
