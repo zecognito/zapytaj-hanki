@@ -1,0 +1,21 @@
+{
+  "id": "wv-security_deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WV",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit — West Virginia",
+  "facts": [
+    "Prawo stanowe określa wymagania i procedurę w tym obszarze.",
+    "Szczegóły zależą od sytuacji osoby i aktualnych przepisów.",
+    "Aktualne wymagania należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://code.wvlegislature.gov/37-6A-1/"
+  ],
+  "related_public_pages": []
+}
