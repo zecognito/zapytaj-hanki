@@ -1,0 +1,21 @@
+{
+  "id": "country-cameroon",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Kamerun",
+  "facts": [
+    "Kamerun leży w Afryce Środkowej nad Zatoką Gwinejską i obejmuje regiony o dużym zróżnicowaniu geograficznym.",
+    "Stolicą jest Jaunde; angielski i francuski są językami urzędowymi, a walutą frank CFA Afryki Środkowej.",
+    "Kamerun jest republiką i bywa określany jako „Afryka w miniaturze” ze względu na różnorodność krajobrazów i kultur."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.prc.cm/en/cameroon"
+  ],
+  "related_public_pages": []
+}
