@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-employment-overtime-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "overtime",
+  "title": "Federal overtime — podstawy FLSA",
+  "facts": [
+    "Covered nonexempt employees zasadniczo muszą otrzymać co najmniej 1.5 razy regular rate za godziny przepracowane ponad 40 w jednym workweek.",
+    "FLSA nie wymaga federalnego overtime tylko dlatego, że ktoś pracuje ponad 8 godzin jednego dnia; federalny standard zasadniczo patrzy na ponad 40 godzin w workweek.",
+    "Nie każdy salaried employee jest automatycznie exempt od overtime; zastosowanie exemption zależy od konkretnych wymagań prawa.",
+    "Stanowe prawo może dawać pracownikowi większą ochronę niż federalny standard."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/whd/overtime",
+    "https://www.dol.gov/agencies/whd/fact-sheets/23-flsa-overtime-pay"
+  ],
+  "related_public_pages": []
+}
