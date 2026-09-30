@@ -1,0 +1,21 @@
+{
+  "id": "country-marshall-islands",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Wyspy Marshalla",
+  "facts": [
+    "Wyspy Marshalla są republiką wyspiarską Mikronezji złożoną głównie z nisko położonych atoli.",
+    "Stolicą jest Majuro; marszalski i angielski są językami urzędowymi, a walutą dolar amerykański.",
+    "Państwo pozostaje w wolnym stowarzyszeniu ze Stanami Zjednoczonymi; atol Bikini i inne miejsca były w XX wieku obszarem amerykańskich prób jądrowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.rmiembassyus.org/"
+  ],
+  "related_public_pages": []
+}
