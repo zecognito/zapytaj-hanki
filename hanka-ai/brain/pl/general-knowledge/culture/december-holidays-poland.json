@@ -1,0 +1,21 @@
+{
+  "id": "december-holidays-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "calendar",
+  "title": "Boże Narodzenie — dni świąteczne",
+  "facts": [
+    "Boże Narodzenie jest jednym z najważniejszych okresów świątecznych w polskim kalendarzu kulturowym i religijnym.",
+    "25 i 26 grudnia są tradycyjnie dniami świątecznymi; aktualny katalog ustawowych dni wolnych należy sprawdzać według obowiązującego prawa.",
+    "Wigilia 24 grudnia ma w Polsce szczególne znaczenie rodzinne i kulturowe, odrębne od samych dni Bożego Narodzenia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
