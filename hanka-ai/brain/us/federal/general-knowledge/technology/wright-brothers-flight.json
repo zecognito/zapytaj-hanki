@@ -1,0 +1,21 @@
+{
+  "id": "wright-brothers-flight",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "technology",
+  "subtopic": "inventions",
+  "title": "Wright brothers i pierwszy kontrolowany lot",
+  "facts": [
+    "17 grudnia 1903 r. w Kitty Hawk area w North Carolina bracia Wright wykonali pierwsze udane loty napędzanym, cięższym od powietrza samolotem z kontrolowanym lotem.",
+    "Pierwszy lot Orville'a trwał 12 sekund i pokonał 120 feet.",
+    "Tego dnia wykonano kilka lotów, a najdłuższy pokonał 852 feet."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/wrbr/learn/historyculture/thefirstflight.htm"
+  ],
+  "related_public_pages": []
+}
