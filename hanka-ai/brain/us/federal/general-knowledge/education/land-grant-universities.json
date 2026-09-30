@@ -1,0 +1,21 @@
+{
+  "id": "land-grant-universities",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "education",
+  "subtopic": "higher_education",
+  "title": "Land-grant universities",
+  "facts": [
+    "Land-grant institutions rozwinęły się dzięki federalnym ustawom, szczególnie Morrill Act z 1862 r., które wspierały praktyczną edukację m.in. w agriculture i mechanic arts.",
+    "System obejmuje uczelnie w każdym stanie i terytoriach, a późniejsze ustawodawstwo rozszerzyło jego strukturę.",
+    "Land-grant oznacza historyczny/federalny status i misję, a nie jeden poziom jakości lub typ własności uczelni."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nifa.usda.gov/about-nifa/how-we-work/partnerships/land-grant-university-system"
+  ],
+  "related_public_pages": []
+}
