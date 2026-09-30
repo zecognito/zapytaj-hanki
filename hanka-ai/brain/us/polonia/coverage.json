@@ -13,8 +13,13 @@
       ]
     },
     "polish_schools": {
-      "status": "planned",
-      "records": 0
+      "status": "started",
+      "records": 44,
+      "notes": [
+        "Seeded from current ORPEG/gov.pl and Polish Supplementary School Council of America listings.",
+        "Includes the three ORPEG-operated U.S. schools plus verified community supplementary schools; nationwide expansion continues.",
+        "School enrollment, class offerings and contact details are freshness-sensitive and should be periodically reverified."
+      ]
     },
     "churches": {
       "status": "planned",
