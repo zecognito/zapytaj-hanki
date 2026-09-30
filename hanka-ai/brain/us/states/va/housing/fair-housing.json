@@ -1,0 +1,21 @@
+{
+  "id": "va-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VA",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową w Wirginii",
+  "facts": [
+    "Virginia Fair Housing Law zabrania określonych form housing discrimination ze względu na protected classes objęte prawem.",
+    "Federalny Fair Housing Act może zapewniać równoległą ochronę.",
+    "Virginia Fair Housing Office przyjmuje i bada kwalifikujące się complaints zgodnie z procedurą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dpor.virginia.gov/FairHousing"
+  ],
+  "related_public_pages": []
+}
