@@ -1,0 +1,21 @@
+{
+  "id": "gliwice",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Gliwice",
+  "facts": [
+    "Gliwice są miastem na prawach powiatu w województwie śląskim i częścią konurbacji górnośląskiej.",
+    "Miasto ma silne tradycje przemysłowe, naukowe i techniczne; znajduje się tu główna siedziba Politechniki Śląskiej.",
+    "Do rozpoznawalnych obiektów należy Radiostacja Gliwicka, związana z niemiecką prowokacją z 31 sierpnia 1939 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://gliwice.eu/"
+  ],
+  "related_public_pages": []
+}
