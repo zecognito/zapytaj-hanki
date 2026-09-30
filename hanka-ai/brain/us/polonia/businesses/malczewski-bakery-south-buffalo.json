@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-malczewski-bakery-south-buffalo",
+  "country": "US",
+  "category": "bakery",
+  "name": "E.M. Chrusciki / Malczewski's Butter Lambs",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "80 W Drullard Ave",
+    "city": "Lancaster",
+    "state": "NY",
+    "postal_code": "14086",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 716-681-9866",
+  "email": null,
+  "website": "https://chruscikibakery.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish bakery",
+    "Polish baked goods"
+  ],
+  "coverage_area": [
+    "Lancaster",
+    "NY"
+  ],
+  "notes": [
+    "Commercial directory record; current status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://chruscikibakery.com/",
+  "last_verified": "2026-09-30"
+}
