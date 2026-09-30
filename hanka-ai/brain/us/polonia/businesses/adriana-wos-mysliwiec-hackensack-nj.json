@@ -1,0 +1,37 @@
+{
+  "id": "polonia-prof-law-wos-mysliwiec-hackensack-nj",
+  "country": "US",
+  "category": "lawyer",
+  "name": "Law Office of Adriana Wos-Mysliwiec, LLC",
+  "status": "active",
+  "location": {
+    "address": "45 Essex St, Suite 202",
+    "city": "Hackensack",
+    "state": "NJ",
+    "postal_code": "07601",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "family law",
+    "bankruptcy",
+    "foreclosure",
+    "estate planning",
+    "immigration",
+    "deportation",
+    "traffic and DUI",
+    "expungements"
+  ],
+  "phone": "+1 201-343-0031",
+  "email": null,
+  "website": "https://www.awmesq.com/",
+  "official_source": "https://www.awmesq.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official firm site explicitly identifies the practice as a Polish-speaking law firm and states Adriana Wos-Mysliwiec is fluent in Polish."
+  ]
+}
