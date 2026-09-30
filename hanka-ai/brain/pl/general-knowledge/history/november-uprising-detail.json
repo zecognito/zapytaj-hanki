@@ -1,0 +1,21 @@
+{
+  "id": "november-uprising-detail",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "uprisings",
+  "title": "Powstanie Listopadowe — 1830–1831",
+  "facts": [
+    "Powstanie Listopadowe rozpoczęło się w Warszawie w nocy z 29 na 30 listopada 1830 r.",
+    "Było skierowane przeciw rosyjskiemu panowaniu nad Królestwem Polskim.",
+    "Po klęsce powstania Imperium Rosyjskie ograniczyło autonomię Królestwa Polskiego, a wielu Polaków udało się na emigrację."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
