@@ -1,0 +1,22 @@
+{
+  "id": "1921-march-constitution",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1921 — Konstytucja marcowa",
+  "facts": [
+    "17 marca 1921 r. Sejm Ustawodawczy uchwalił Konstytucję marcową.",
+    "Ustanawiała republikę parlamentarną z silną pozycją Sejmu i ograniczonymi kompetencjami prezydenta.",
+    "Była podstawą ustroju II Rzeczypospolitej w pierwszej części okresu międzywojennego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
