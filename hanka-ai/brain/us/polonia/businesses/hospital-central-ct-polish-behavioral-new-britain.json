@@ -1,0 +1,34 @@
+{
+  "id": "polonia-prof-doctor-hocc-behavioral-new-britain-ct",
+  "country": "US",
+  "category": "doctor",
+  "name": "Hospital of Central Connecticut - Outpatient Psychiatry & Behavioral Health",
+  "status": "active",
+  "location": {
+    "address": "73 Cedar Street",
+    "city": "New Britain",
+    "state": "CT",
+    "postal_code": "06051",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es"
+  ],
+  "services": [
+    "outpatient psychiatry",
+    "behavioral health",
+    "mental health counseling",
+    "substance-use treatment"
+  ],
+  "phone": "+1 860-224-5267",
+  "email": null,
+  "website": "https://www.hospitalofcentralct.org/services/behavioral-mental-health/conditions-treatments",
+  "official_source": "https://www.hospitalofcentralct.org/services/behavioral-mental-health/conditions-treatments",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Hospital's official page explicitly states counseling is available to Polish-speaking clients (Mowimy Po Polsku). Category doctor is schema-limited; this is a hospital outpatient behavioral-health service."
+  ]
+}
