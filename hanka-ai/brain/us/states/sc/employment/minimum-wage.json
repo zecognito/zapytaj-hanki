@@ -1,0 +1,21 @@
+{
+  "id": "sc-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "SC",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Karolinie Południowej",
+  "facts": [
+    "South Carolina nie ustanawia ogólnej statewide minimum wage wyższej od federalnej dla wszystkich pracowników.",
+    "Pracownicy objęci federalnym Fair Labor Standards Act podlegają federalnej minimum wage.",
+    "Przy ocenie wynagrodzenia trzeba uwzględnić federalne zasady i ewentualne wyjątki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://llr.sc.gov/wage/"
+  ],
+  "related_public_pages": []
+}
