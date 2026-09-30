@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-family-child-support-framework",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "family_children",
+  "subtopic": "child_support",
+  "title": "Child support - federal/state framework",
+  "facts": [
+    "Child support orders and the amount owed are primarily determined under state or tribal law, while the federal child-support program supports establishment and enforcement across jurisdictions.",
+    "State child-support agencies can assist with locating parents, establishing parentage, establishing or modifying support orders, and enforcing support.",
+    "Federal law supports tools including income withholding, tax-refund offset and interstate enforcement, subject to program requirements.",
+    "Hanka should not quote a child-support amount or state formula without the relevant state and case facts."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.acf.hhs.gov/css"
+  ],
+  "related_public_pages": []
+}
