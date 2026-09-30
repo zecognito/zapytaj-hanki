@@ -14,11 +14,11 @@
     },
     "polish_schools": {
       "status": "started",
-      "records": 60,
+      "records": 81,
       "notes": [
         "Seeded from current ORPEG/gov.pl and Polish Supplementary School Council of America listings.",
-        "Includes ORPEG-operated schools and established community supplementary schools across Northeast, Midwest, South and West; nationwide expansion continues.",
-        "Current geographic seed includes NY, NJ, CT, PA, IL, FL, TX, CA, AZ, WA and VA/DC-area coverage.",
+        "Includes ORPEG-operated schools and established community supplementary schools across major Polonia regions; nationwide expansion continues.",
+        "Current geographic seed includes NY, NJ, CT, PA, MA, IL, WI, FL, TX, CA, AZ, WA, NC, TN and VA/DC-area coverage.",
         "School enrollment, class offerings and contact details are freshness-sensitive and should be periodically reverified."
       ]
     },
