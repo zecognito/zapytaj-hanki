@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-us-brokerage-after-moving-poland",
+  "subtopic": "cross_border_investing",
+  "title": "Amerykański rachunek maklerski po przeprowadzce do Polski",
+  "facts": [
+    "Zmiana miejsca zamieszkania z USA do Polski może wpływać na to, jakie usługi i produkty amerykański broker może oferować klientowi mieszkającemu za granicą; jest to także kwestia polityki konkretnej instytucji.",
+    "U.S. citizen pozostaje objęty amerykańskimi zasadami podatkowymi dotyczącymi inwestycji, a polski rezydent podatkowy może mieć równoległe obowiązki w Polsce.",
+    "Formularze podatkowe, withholding i treaty claims zależą od statusu podatnika i rodzaju dochodu; nie należy zakładać, że sam zagraniczny adres zmienia obywatela USA w nonresident alien.",
+    "Przed przeprowadzką warto ustalić z brokerem zasady obsługi zagranicznego adresu zamiast podawać nieaktualny adres w USA."
+  ],
+  "official_sources": [
+    "https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-resident-aliens-abroad",
+    "https://www.irs.gov/businesses/international-businesses/poland-tax-treaty-documents"
+  ]
+}
