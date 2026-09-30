@@ -1,0 +1,21 @@
+{
+  "id": "rsvp",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "social_conventions",
+  "title": "Co oznacza RSVP?",
+  "facts": [
+    "RSVP na zaproszeniu oznacza prośbę o potwierdzenie, czy zaproszona osoba przyjdzie.",
+    "Może być podany termin i sposób odpowiedzi, np. website, text, email albo karta odpowiedzi.",
+    "Jeśli zaproszenie wymaga RSVP, odpowiedź jest oczekiwana nawet wtedy, gdy gość nie może uczestniczyć."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://americanenglish.state.gov/resources/everyday-conversations-learning-american-english"
+  ],
+  "related_public_pages": []
+}
