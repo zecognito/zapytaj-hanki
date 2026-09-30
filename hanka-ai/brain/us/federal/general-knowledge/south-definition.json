@@ -1,0 +1,20 @@
+{
+  "id": "south-definition",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "region_south",
+  "title": "Co obejmuje South?",
+  "facts": [
+    "Census Bureau zalicza do South: Delaware, DC, Florida, Georgia, Maryland, North Carolina, South Carolina, Virginia, West Virginia, Alabama, Kentucky, Mississippi, Tennessee, Arkansas, Louisiana, Oklahoma i Texas.",
+    "South dzieli się na South Atlantic, East South Central i West South Central."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/programs-surveys/popest/guidance-geographies/terms-and-definitions.html"
+  ],
+  "related_public_pages": []
+}
