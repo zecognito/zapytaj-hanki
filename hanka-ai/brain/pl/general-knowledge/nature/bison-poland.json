@@ -1,0 +1,21 @@
+{
+  "id": "bison-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "wildlife",
+  "title": "Żubr w Polsce",
+  "facts": [
+    "Żubr europejski jest największym dziko żyjącym ssakiem lądowym Europy.",
+    "Po wyginięciu populacji żyjących na wolności gatunek został odtworzony dzięki hodowli i reintrodukcji.",
+    "Polska ma ważne populacje żubrów, w tym w Puszczy Białowieskiej, ale zwierzęta żyją również w innych częściach kraju i Europy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://bpn.com.pl/index.php?option=com_content&task=view&id=105&Itemid=178"
+  ],
+  "related_public_pages": []
+}
