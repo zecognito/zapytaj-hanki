@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-documents-replace-social-security-card",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "documents",
+  "subtopic": "social_security_number",
+  "title": "Replace a Social Security card",
+  "facts": [
+    "A replacement Social Security card is free.",
+    "Many eligible people can request a replacement card online through a personal my Social Security account; others must use SSA's document/application process.",
+    "Replacing a card does not normally change the Social Security number.",
+    "SSA limits replacement cards to 3 per calendar year and 10 during a lifetime, subject to exceptions such as legal name changes and certain other circumstances."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/number-card/replace-card",
+    "https://www.ssa.gov/OP_Home/cfr20/422/422-0103.htm"
+  ],
+  "related_public_pages": []
+}
