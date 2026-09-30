@@ -1,0 +1,21 @@
+{
+  "id": "warta-river",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "rivers",
+  "title": "Warta",
+  "facts": [
+    "Warta jest jedną z najważniejszych rzek Polski i największym dopływem Odry.",
+    "Przepływa m.in. przez Poznań.",
+    "Jej dorzecze obejmuje znaczną część zachodniej i centralnej Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://wody.gov.pl/"
+  ],
+  "related_public_pages": []
+}
