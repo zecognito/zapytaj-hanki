@@ -1,0 +1,21 @@
+{
+  "id": "takeout-to-go",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "restaurant_terms",
+  "title": "Takeout i to go",
+  "facts": [
+    "Takeout oznacza jedzenie zamówione z restauracji do zjedzenia poza lokalem.",
+    "„To go” jest bardzo powszechnym określeniem zamówienia na wynos.",
+    "Delivery oznacza dostarczenie zamówienia pod wskazany adres i jest odrębne od pickup/takeout."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/consumer"
+  ],
+  "related_public_pages": []
+}
