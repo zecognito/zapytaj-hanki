@@ -1,0 +1,21 @@
+{
+  "id": "country-burundi",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Burundi",
+  "facts": [
+    "Burundi jest śródlądowym państwem Afryki Wschodniej nad jeziorem Tanganika.",
+    "Stolicą polityczną jest Gitega, natomiast Bużumbura pozostaje głównym ośrodkiem gospodarczym.",
+    "Kirundi, francuski i angielski mają status urzędowy, a walutą jest frank burundyjski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.presidence.gov.bi/"
+  ],
+  "related_public_pages": []
+}
