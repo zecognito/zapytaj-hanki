@@ -1,0 +1,21 @@
+{
+  "id": "country-malaysia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Malezja",
+  "facts": [
+    "Malezja leży w Azji Południowo-Wschodniej i składa się z części na Półwyspie Malajskim oraz części na wyspie Borneo.",
+    "Stolicą jest Kuala Lumpur, natomiast federalne centrum administracyjne znajduje się w Putrajaya; językiem urzędowym jest malajski, a walutą ringgit.",
+    "Malezja jest federacją, monarchią konstytucyjną i członkiem ASEAN."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.malaysia.gov.my/portal/content/30120"
+  ],
+  "related_public_pages": []
+}
