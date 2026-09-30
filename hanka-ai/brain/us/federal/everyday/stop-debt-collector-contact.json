@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-stop-debt-collector-contact",
+  "subtopic": "debt_admin",
+  "title": "Żądanie zaprzestania kontaktu przez debt collectora",
+  "facts": [
+    "Konsument może pisemnie zażądać od debt collectora objętego FDCPA zaprzestania dalszej komunikacji.",
+    "Po otrzymaniu qualifying cease-communication request collector może zasadniczo kontaktować się tylko w ograniczonych celach, np. potwierdzić zakończenie kontaktu lub poinformować o określonych możliwych działaniach.",
+    "Zatrzymanie komunikacji nie usuwa samego długu i nie uniemożliwia creditor/collector podjęcia zgodnych z prawem działań, takich jak lawsuit, jeśli są dostępne.",
+    "Przed wysłaniem cease request warto rozumieć różnicę między zatrzymaniem komunikacji, disputing debt i żądaniem validation."
+  ],
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/can-i-tell-a-debt-collector-to-stop-contacting-me-en-336/"
+  ]
+}
