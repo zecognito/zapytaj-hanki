@@ -1,0 +1,21 @@
+{
+  "id": "aerospace-industry-us",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "economy",
+  "subtopic": "industry",
+  "title": "Aerospace industry w USA",
+  "facts": [
+    "U.S. aerospace sector obejmuje commercial aviation, defense aerospace, spacecraft, engines, components i related services.",
+    "Produkcja i research są rozproszone po wielu stanach i współpracują z NASA, Department of Defense, FAA oraz sektorem prywatnym w różnych rolach.",
+    "Aerospace jest szerszym pojęciem niż airline industry."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bls.gov/iag/tgs/iag336.htm"
+  ],
+  "related_public_pages": []
+}
