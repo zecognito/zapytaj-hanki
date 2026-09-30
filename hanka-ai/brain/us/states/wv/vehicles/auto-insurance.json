@@ -1,0 +1,21 @@
+{
+  "id": "wv-auto_insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WV",
+  "topic": "vehicles",
+  "subtopic": "auto_insurance",
+  "title": "auto insurance — West Virginia",
+  "facts": [
+    "Stan prowadzi lub reguluje ten program albo obowiązek.",
+    "Wymagania zależą od sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.wvinsurance.gov/consumer-services/auto"
+  ],
+  "related_public_pages": []
+}
