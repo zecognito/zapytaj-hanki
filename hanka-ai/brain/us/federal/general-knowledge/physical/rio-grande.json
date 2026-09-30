@@ -1,0 +1,21 @@
+{
+  "id": "rio-grande",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "rivers",
+  "title": "Rio Grande",
+  "facts": [
+    "Rio Grande płynie z Colorado przez New Mexico i dalej wzdłuż dużej części granicy Texas–Mexico.",
+    "Na części biegu tworzy międzynarodową granicę między USA i Meksykiem.",
+    "W Meksyku rzeka jest znana jako Río Bravo del Norte."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ibwc.gov/about-us/"
+  ],
+  "related_public_pages": []
+}
