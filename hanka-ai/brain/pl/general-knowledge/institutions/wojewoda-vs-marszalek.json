@@ -1,0 +1,21 @@
+{
+  "id": "wojewoda-vs-marszalek",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "everyday-government",
+  "title": "Wojewoda a marszałek województwa",
+  "facts": [
+    "Wojewoda jest przedstawicielem Rady Ministrów w województwie i kieruje administracją rządową na tym szczeblu.",
+    "Marszałek województwa jest częścią samorządu województwa i jest wybierany przez sejmik województwa.",
+    "Urząd wojewódzki i urząd marszałkowski reprezentują więc dwa różne piony administracji: rządowy i samorządowy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
