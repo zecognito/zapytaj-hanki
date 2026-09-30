@@ -1,0 +1,21 @@
+{
+  "id": "s17-expressway",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Droga ekspresowa S17",
+  "facts": [
+    "S17 jest głównym korytarzem drogowym łączącym Warszawę z Lublinem i dalej prowadzącym w kierunku południowo-wschodniej granicy Polski.",
+    "Trasa ma szczególne znaczenie komunikacyjne dla województwa lubelskiego.",
+    "S17 stanowi część połączenia stolicy z przejściem granicznym w Hrebennem i kierunkiem na Ukrainę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
