@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-andrew-bobola-dudley-ma",
+  "country": "US",
+  "category": "church",
+  "name": "Saint Andrew Bobola Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "54 West Main St",
+    "city": "Dudley",
+    "state": "MA",
+    "postal_code": "01571",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 508 943 5633",
+  "email": null,
+  "website": "https://standrewbobola.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "MA"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish source."
+  ],
+  "official_source": "https://worcesterdiocese.org/parishfinder",
+  "last_verified": "2026-09-30"
+}
