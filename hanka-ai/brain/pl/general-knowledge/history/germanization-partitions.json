@@ -1,0 +1,21 @@
+{
+  "id": "germanization-partitions",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions",
+  "title": "Germanizacja ziem polskich",
+  "facts": [
+    "W zaborze pruskim, a później w Cesarstwie Niemieckim, władze prowadziły politykę germanizacyjną wobec części polskiej ludności.",
+    "Dotyczyła ona m.in. języka, szkolnictwa, administracji i polityki osadniczej.",
+    "Skala i metody zmieniały się w czasie, dlatego germanizacji nie należy przedstawiać jako jednej niezmiennej polityki całego okresu rozbiorów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
