@@ -1,0 +1,21 @@
+{
+  "id": "ok-auto_insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OK",
+  "topic": "vehicles",
+  "subtopic": "auto_insurance",
+  "title": "Ubezpieczenie samochodu w Oklahoma",
+  "facts": [
+    "Właściciel lub kierowca musi spełniać stanowe wymagania auto insurance lub financial responsibility.",
+    "Wymagane coverage określa prawo stanowe.",
+    "Brak wymaganego coverage może prowadzić do konsekwencji administracyjnych lub prawnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.oid.ok.gov/consumers/insurance-basics/auto-insurance/"
+  ],
+  "related_public_pages": []
+}
