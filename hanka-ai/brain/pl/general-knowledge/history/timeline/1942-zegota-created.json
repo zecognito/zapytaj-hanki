@@ -1,0 +1,23 @@
+{
+  "id": "1942-zegota-created",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "4 grudnia 1942 — powstanie Rady Pomocy Żydom „Żegota”",
+  "facts": [
+    "4 grudnia 1942 r. utworzono Radę Pomocy Żydom przy Delegaturze Rządu RP na Kraj, znaną jako „Żegota”.",
+    "Organizacja pomagała Żydom ukrywającym się przed niemiecką Zagładą, m.in. poprzez fałszywe dokumenty, pomoc finansową i organizowanie schronienia.",
+    "Była częścią struktur Polskiego Państwa Podziemnego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://www.auschwitz.org/",
+    "https://polin.pl/"
+  ],
+  "related_public_pages": []
+}
