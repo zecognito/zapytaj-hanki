@@ -1,0 +1,21 @@
+{
+  "id": "warsaw-chopin-airport",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "airports",
+  "title": "Lotnisko Chopina w Warszawie",
+  "facts": [
+    "Lotnisko Chopina jest głównym portem lotniczym Warszawy i jednym z najważniejszych lotnisk w Polsce.",
+    "Jego kod IATA to WAW.",
+    "Warszawa jest obsługiwana również przez inne lotniska w regionie, więc nazwa „lotnisko w Warszawie” nie zawsze jednoznacznie oznacza WAW."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.lotnisko-chopina.pl/"
+  ],
+  "related_public_pages": []
+}
