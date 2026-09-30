@@ -1,0 +1,21 @@
+{
+  "id": "me-fair_housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "ME",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Fair housing — Maine",
+  "facts": [
+    "Prawo stanowe określa wymagania i procedurę w tym obszarze.",
+    "Szczegóły zależą od sytuacji osoby i aktualnych przepisów.",
+    "Aktualne wymagania należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.maine.gov/mhrc/housing"
+  ],
+  "related_public_pages": []
+}
