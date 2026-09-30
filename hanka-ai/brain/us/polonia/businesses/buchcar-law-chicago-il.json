@@ -1,0 +1,31 @@
+{
+  "id": "polonia-prof-law-buchcar-chicago-il",
+  "country": "US",
+  "category": "lawyer",
+  "name": "Buchcar Law",
+  "status": "active",
+  "location": {
+    "address": "6245 W Belmont Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60634",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "legal advice",
+    "legal representation"
+  ],
+  "phone": "+1 773-385-9010",
+  "email": "christopherbuchcarlawoffice@gmail.com",
+  "website": "https://www.buchcarlaw.com/",
+  "official_source": "https://www.buchcarlaw.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official firm site explicitly states Mówimy po Polsku and provides the Chicago office."
+  ]
+}
