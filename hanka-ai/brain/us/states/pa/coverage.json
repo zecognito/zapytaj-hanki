@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "country": "US",
+  "state": "PA",
+  "language": "pl",
+  "status": "started",
+  "last_verified": "2026-09-30",
+  "completed_seed_topics": [
+    "income_tax",
+    "real_id"
+  ],
+  "reference_state": "IL",
+  "target_v1_areas": [
+    "taxes",
+    "employment",
+    "unemployment",
+    "documents",
+    "vehicles",
+    "health_benefits",
+    "housing",
+    "family"
+  ],
+  "notes": [
+    "Canonical title and facts are Polish-first; machine identifiers remain English.",
+    "Illinois V1 is the reference architecture, but state records must reflect this state's actual laws and administration rather than mechanically copying Illinois.",
+    "Local rules remain separate when materially different from statewide rules."
+  ]
+}
