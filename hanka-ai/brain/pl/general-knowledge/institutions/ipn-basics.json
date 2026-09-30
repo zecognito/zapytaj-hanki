@@ -1,0 +1,21 @@
+{
+  "id": "ipn-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "history-institutions",
+  "title": "Instytut Pamięci Narodowej",
+  "facts": [
+    "Instytut Pamięci Narodowej jest państwową instytucją zajmującą się m.in. gromadzeniem i udostępnianiem dokumentów dotyczących najnowszej historii Polski.",
+    "Zakres jego działalności obejmuje badania naukowe, edukację, archiwistykę oraz zadania śledcze określone ustawą.",
+    "IPN zajmuje się w szczególności historią okresu II wojny światowej oraz systemu komunistycznego w Polsce."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
