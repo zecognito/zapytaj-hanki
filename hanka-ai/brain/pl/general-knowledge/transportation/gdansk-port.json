@@ -1,0 +1,21 @@
+{
+  "id": "gdansk-port",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "infrastructure",
+  "title": "Port Gdańsk",
+  "facts": [
+    "Port Gdańsk jest jednym z największych portów morskich na Bałtyku i kluczowym elementem polskiej infrastruktury transportowej.",
+    "Obsługuje m.in. kontenery, paliwa, towary masowe i ładunki drobnicowe.",
+    "Jego znaczenie wynika także z połączenia z siecią kolejową, drogową i zapleczem gospodarczym Europy Środkowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.portgdansk.pl/"
+  ],
+  "related_public_pages": []
+}
