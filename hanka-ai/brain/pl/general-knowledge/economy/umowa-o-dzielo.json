@@ -1,0 +1,21 @@
+{
+  "id": "umowa-o-dzielo",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "work",
+  "title": "Umowa o dzieło",
+  "facts": [
+    "Umowa o dzieło jest umową cywilnoprawną dotyczącą wykonania oznaczonego rezultatu.",
+    "Różni się od umowy o pracę i umowy zlecenia zarówno konstrukcją prawną, jak i zasadami dotyczącymi ubezpieczeń i podatków.",
+    "Przy konkretnych skutkach podatkowych lub składkowych należy sprawdzić aktualne przepisy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina/umowy-cywilnoprawne"
+  ],
+  "related_public_pages": []
+}
