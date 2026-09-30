@@ -1,0 +1,23 @@
+{
+  "id": "ok-state-profile",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "state_profile",
+  "title": "Oklahoma — podstawowe informacje o stanie",
+  "facts": [
+    "Oklahoma: stolica Oklahoma City; kod pocztowy USPS OK.",
+    "W podziale Census Bureau: region South, division West South Central.",
+    "Data statehood/przyjęcia do Unii: 1907-11-16.",
+    "Przy populacji należy podawać rok i Vintage Census Population Estimates."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/states-and-territories",
+    "https://www.census.gov/programs-surveys/popest/guidance-geographies/terms-and-definitions.html"
+  ],
+  "related_public_pages": []
+}
