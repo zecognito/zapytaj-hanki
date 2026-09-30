@@ -1,0 +1,21 @@
+{
+  "id": "profesor-andrews-w-warszawie-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Profesor Andrews w Warszawie — Olga Tokarczuk",
+  "facts": [
+    "Profesor Andrews w Warszawie, autor: Olga Tokarczuk; tekst szkolnego kanonu z obszaru: literatura współczesna.",
+    "Opowiadanie przedstawia zagranicznego profesora zagubionego w Warszawie w czasie stanu wojennego i pokazuje polską rzeczywistość z perspektywy outsidera.",
+    "Hanka powinna znać kontekst utworu, jego główne motywy, problematykę oraz najważniejsze szkolne tropy interpretacyjne."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
