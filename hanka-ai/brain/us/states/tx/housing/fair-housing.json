@@ -1,0 +1,21 @@
+{
+  "id": "tx-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TX",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową w Teksasie",
+  "facts": [
+    "Texas Fair Housing Act zabrania określonych form dyskryminacji mieszkaniowej.",
+    "Federalny Fair Housing Act zapewnia równoległą ochronę w objętych transakcjach mieszkaniowych.",
+    "Texas Workforce Commission Civil Rights Division przyjmuje kwalifikujące się housing discrimination complaints zgodnie z procedurą stanową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.twc.texas.gov/programs/civil-rights/housing-discrimination"
+  ],
+  "related_public_pages": []
+}
