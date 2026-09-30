@@ -1,0 +1,21 @@
+{
+  "id": "bialowieza-forest-depth",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "landscapes",
+  "title": "Puszcza Białowieska — las pierwotny",
+  "facts": [
+    "Puszcza Białowieska leży po obu stronach granicy Polski i Białorusi.",
+    "Obejmuje wyjątkowo dobrze zachowane ekosystemy leśne o cechach lasu naturalnego i jest najważniejszą ostoją żubra.",
+    "Część puszczy jest chroniona jako Białowieski Park Narodowy i obiekt światowego dziedzictwa UNESCO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://bpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
