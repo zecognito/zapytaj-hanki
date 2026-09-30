@@ -1,0 +1,21 @@
+{
+  "id": "penderecki-music",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "music",
+  "title": "Krzysztof Penderecki — muzyka",
+  "facts": [
+    "Krzysztof Penderecki był polskim kompozytorem i dyrygentem o międzynarodowym znaczeniu.",
+    "Do jego najbardziej znanych utworów należy „Tren – Ofiarom Hiroszimy”.",
+    "Jego styl zmieniał się w czasie: od awangardowych technik brzmieniowych po późniejsze odwołania do bardziej tradycyjnych form."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/krzysztof-penderecki"
+  ],
+  "related_public_pages": []
+}
