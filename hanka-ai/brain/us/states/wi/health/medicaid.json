@@ -1,0 +1,22 @@
+{
+  "id": "wi-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WI",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Medicaid i BadgerCare Plus w Wisconsin",
+  "facts": [
+    "Wisconsin prowadzi Medicaid oraz BadgerCare Plus dla kwalifikujących się mieszkańców.",
+    "BadgerCare Plus zapewnia health coverage m.in. kwalifikującym się dzieciom, kobietom w ciąży, rodzicom i dorosłym spełniającym zasady programu.",
+    "Wnioski i zarządzanie świadczeniami są dostępne m.in. przez ACCESS Wisconsin."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dhs.wisconsin.gov/badgercareplus/index.htm",
+    "https://access.wi.gov/"
+  ],
+  "related_public_pages": []
+}
