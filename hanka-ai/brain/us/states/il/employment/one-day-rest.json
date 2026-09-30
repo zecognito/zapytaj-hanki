@@ -1,0 +1,21 @@
+{
+  "id": "il-one-day-rest",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "employment",
+  "subtopic": "one_day_rest",
+  "title": "One Day Rest in Seven Act w Illinois",
+  "facts": [
+    "ODRISA zasadniczo wymaga zapewnienia pracownikowi co najmniej 24 godzin odpoczynku w każdym kolejnym okresie 7 dni.",
+    "Pracodawca może w określonych sytuacjach uzyskać permit na pracę siódmego dnia, jeśli pracownik dobrowolnie się zgodził i otrzyma należny overtime po przekroczeniu 40 godzin tygodniowo.",
+    "ODRISA obejmuje również stanowe wymagania dotyczące przerw na posiłek."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://labor.illinois.gov/laws-rules/fls/odrisa.html"
+  ],
+  "related_public_pages": []
+}
