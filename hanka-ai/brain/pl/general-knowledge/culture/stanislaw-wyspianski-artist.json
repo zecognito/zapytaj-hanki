@@ -1,0 +1,21 @@
+{
+  "id": "stanislaw-wyspianski-artist",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "art",
+  "title": "Stanisław Wyspiański — artysta wielu dziedzin",
+  "facts": [
+    "Stanisław Wyspiański był nie tylko dramatopisarzem, ale także malarzem, grafikiem, projektantem wnętrz i twórcą witraży.",
+    "Był jedną z centralnych postaci Młodej Polski.",
+    "Jego twórczość jest szczególnie związana z Krakowem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/stanislaw-wyspianski"
+  ],
+  "related_public_pages": []
+}
