@@ -1,0 +1,21 @@
+{
+  "id": "country-libya",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Libia",
+  "facts": [
+    "Libia leży w Afryce Północnej nad Morzem Śródziemnym, a większość jej terytorium zajmuje Sahara.",
+    "Stolicą jest Trypolis, językiem urzędowym arabski, a walutą dinar libijski.",
+    "Libia posiada duże zasoby ropy naftowej; od obalenia Muammara Kaddafiego w 2011 roku kraj doświadcza długotrwałej niestabilności i podziałów politycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://unsmil.unmissions.org/"
+  ],
+  "related_public_pages": []
+}
