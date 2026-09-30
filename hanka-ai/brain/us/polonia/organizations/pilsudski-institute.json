@@ -1,0 +1,35 @@
+{
+  "id": "polonia-org-pilsudski-institute",
+  "country": "US",
+  "category": "museum_library",
+  "name": "Józef Piłsudski Institute of America",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": "https://www.pilsudski.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Archives, history, research and Polish cultural heritage"
+  ],
+  "coverage_area": [
+    "NY",
+    "US"
+  ],
+  "notes": [
+    "Listed among Polish institutions operating in the United States by the Embassy of the Republic of Poland; program/contact details should be refreshed periodically."
+  ],
+  "official_source": "https://www.pilsudski.org/",
+  "last_verified": "2026-09-30"
+}
