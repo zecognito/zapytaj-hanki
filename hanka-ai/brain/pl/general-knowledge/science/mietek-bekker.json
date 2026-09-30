@@ -1,0 +1,21 @@
+{
+  "id": "mietek-bekker",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Mieczysław Bekker",
+  "facts": [
+    "Mieczysław G. Bekker był polsko-amerykańskim inżynierem specjalizującym się w mechanice pojazdów terenowych.",
+    "Po emigracji do Stanów Zjednoczonych pracował nad teorią ruchu pojazdów po miękkim podłożu.",
+    "Jego wiedza była wykorzystywana w pracach związanych z pojazdem księżycowym programu Apollo."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://airandspace.si.edu/"
+  ],
+  "related_public_pages": []
+}
