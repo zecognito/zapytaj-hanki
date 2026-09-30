@@ -1,0 +1,21 @@
+{
+  "id": "katowice-airport",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "aviation",
+  "title": "Katowice Airport",
+  "facts": [
+    "Międzynarodowy Port Lotniczy Katowice w Pyrzowicach obsługuje Górnośląsko-Zagłębiowską Metropolię i znaczną część południowej Polski.",
+    "Lotnisko jest ważnym ośrodkiem ruchu regularnego, czarterowego i cargo.",
+    "Port znajduje się w Pyrzowicach, poza ścisłym obszarem miasta Katowice."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.katowice-airport.com/"
+  ],
+  "related_public_pages": []
+}
