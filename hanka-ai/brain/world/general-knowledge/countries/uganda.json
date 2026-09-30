@@ -1,0 +1,21 @@
+{
+  "id": "country-uganda",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Uganda",
+  "facts": [
+    "Uganda jest śródlądowym państwem Afryki Wschodniej, którego część granicy przebiega przez Jezioro Wiktorii.",
+    "Stolicą jest Kampala; angielski i suahili mają status języków urzędowych, a walutą jest szyling ugandyjski.",
+    "Uganda jest republiką i leży w regionie Wielkich Jezior Afrykańskich."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gou.go.ug/"
+  ],
+  "related_public_pages": []
+}
