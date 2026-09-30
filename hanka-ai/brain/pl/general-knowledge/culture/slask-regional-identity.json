@@ -1,0 +1,21 @@
+{
+  "id": "slask-regional-identity",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "regional-identity",
+  "title": "Śląsk — tożsamość regionalna",
+  "facts": [
+    "Śląsk jest historycznym regionem Europy Środkowej, którego granice nie pokrywają się dokładnie ze współczesnymi granicami województw.",
+    "Polska część Śląska obejmuje m.in. Górny Śląsk i Dolny Śląsk, które mają odmienne historie i tradycje.",
+    "Tożsamość śląska może mieć wymiar regionalny, kulturowy i językowy, a sposób jej definiowania różni się między ludźmi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
