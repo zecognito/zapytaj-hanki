@@ -1,0 +1,21 @@
+{
+  "id": "szczecin-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Szczecin — podstawy",
+  "facts": [
+    "Szczecin jest stolicą województwa zachodniopomorskiego i leży nad Odrą w pobliżu Zalewu Szczecińskiego.",
+    "Miasto jest ważnym ośrodkiem gospodarki morskiej i portowej.",
+    "Szczecin nie leży bezpośrednio nad otwartym Morzem Bałtyckim; dostęp morski prowadzi przez system estuarium i cieśniny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.szczecin.eu/"
+  ],
+  "related_public_pages": []
+}
