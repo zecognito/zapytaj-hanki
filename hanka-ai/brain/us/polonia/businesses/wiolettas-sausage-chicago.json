@@ -6,16 +6,16 @@
   "aliases": [],
   "status": "active",
   "location": {
-    "address": "Chicago area",
-    "city": "Chicago",
-    "state": "IL",
-    "postal_code": null,
+    "address": "3955 S Howell Ave",
+    "city": "Milwaukee",
+    "state": "WI",
+    "postal_code": "53207",
     "latitude": null,
     "longitude": null
   },
   "phone": null,
   "email": null,
-  "website": null,
+  "website": "https://wiolettaspolishmarket.com/",
   "languages": [
     "pl",
     "en"
@@ -25,12 +25,12 @@
     "deli/prepared foods"
   ],
   "coverage_area": [
-    "Chicago",
-    "IL"
+    "Milwaukee",
+    "WI"
   ],
   "notes": [
-    "Commercial directory record; current status, exact address where incomplete, hours and services require periodic reverification."
+    "Audited 2026-09-30: earlier placeholder incorrectly associated Wioletta's with Chicago; City of Milwaukee licensing records confirm Wioletta's Polish Market LLC at 3955 S Howell Ave."
   ],
-  "official_source": "https://www.gov.pl/web/usa/relacje-dwustronne",
+  "official_source": "https://milwaukee.legistar.com/View.ashx?GUID=47FFB03B-AA28-491B-B39A-E7E86153216E&ID=15175956&M=F",
   "last_verified": "2026-09-30"
 }
