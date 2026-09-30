@@ -1,0 +1,21 @@
+{
+  "id": "ca-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CA",
+  "topic": "vehicles",
+  "subtopic": "insurance",
+  "title": "Obowiązkowe auto insurance w Kalifornii",
+  "facts": [
+    "California wymaga od właścicieli i kierowców wykazania financial responsibility; najczęściej spełnia się ten obowiązek poprzez liability insurance.",
+    "Stan określa minimalne wymagane limity liability coverage.",
+    "Brak wymaganej financial responsibility może powodować konsekwencje dla kierowcy i registration."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dmv.ca.gov/portal/vehicle-registration/insurance-requirements/"
+  ],
+  "related_public_pages": []
+}
