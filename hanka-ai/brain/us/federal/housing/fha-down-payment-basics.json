@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-housing-fha-down-payment",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "housing_mortgages",
+  "subtopic": "fha",
+  "title": "FHA down payment - federal basics",
+  "facts": [
+    "For standard FHA purchase financing, the minimum required investment can be as low as 3.5% for borrowers who meet applicable FHA credit requirements.",
+    "A 10% minimum investment can apply in certain lower-credit-score circumstances under FHA rules.",
+    "A lender may impose lawful underwriting requirements beyond the basic FHA program minimums.",
+    "Down-payment assistance and permitted sources of funds have separate FHA rules."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.hud.gov/sites/documents/40001HSGH.PDF"
+  ],
+  "related_public_pages": []
+}
