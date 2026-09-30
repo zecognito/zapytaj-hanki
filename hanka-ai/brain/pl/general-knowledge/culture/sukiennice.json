@@ -1,0 +1,21 @@
+{
+  "id": "sukiennice",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Sukiennice w Krakowie",
+  "facts": [
+    "Sukiennice stoją pośrodku Rynku Głównego w Krakowie i mają wielowiekową historię handlową.",
+    "Ich obecny wygląd jest rezultatem przebudów kolejnych epok.",
+    "Budynek pozostaje ważnym symbolem Krakowa i mieści m.in. część zbiorów Muzeum Narodowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mnk.pl/oddzial/mnk-sukiennice"
+  ],
+  "related_public_pages": []
+}
