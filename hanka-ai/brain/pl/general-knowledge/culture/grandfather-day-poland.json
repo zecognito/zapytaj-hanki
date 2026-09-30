@@ -1,0 +1,21 @@
+{
+  "id": "grandfather-day-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Dzień Dziadka",
+  "facts": [
+    "Dzień Dziadka w Polsce obchodzony jest 22 stycznia, dzień po Dniu Babci.",
+    "Jest zwyczajem rodzinnym, a nie ustawowym dniem wolnym od pracy.",
+    "Sposób obchodzenia zależy od rodziny i lokalnej tradycji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina"
+  ],
+  "related_public_pages": []
+}
