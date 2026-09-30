@@ -1,0 +1,21 @@
+{
+  "id": "country-sri-lanka",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Sri Lanka",
+  "facts": [
+    "Sri Lanka jest wyspiarskim państwem Oceanu Indyjskiego położonym na południowy wschód od Indii.",
+    "Sri Jayawardenepura Kotte jest stolicą ustawodawczą, a Kolombo największym miastem i głównym centrum gospodarczym.",
+    "Syngaleski i tamilski są językami urzędowymi, a walutą jest rupia lankijska."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.lk/"
+  ],
+  "related_public_pages": []
+}
