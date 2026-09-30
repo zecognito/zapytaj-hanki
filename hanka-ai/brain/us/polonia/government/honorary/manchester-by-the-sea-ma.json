@@ -1,0 +1,36 @@
+{
+  "id": "polonia-gov-honorary-manchester-by-the-sea-ma",
+  "country": "US",
+  "category": "consulate_honorary",
+  "name": "Honorary Consulate of the Republic of Poland in Manchester-by-the-Sea",
+  "aliases": [
+    "Konsulat Honorowy RP w Manchester-by-the-Sea"
+  ],
+  "status": "active",
+  "location": {
+    "address": "73 Forest Street",
+    "city": "Manchester-by-the-Sea",
+    "state": "MA",
+    "postal_code": "01944",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 978 317 6978",
+  "email": "mdphdjd@gmail.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "honorary consular representation"
+  ],
+  "coverage_area": [
+    "MA"
+  ],
+  "notes": [
+    "Honorary consul: Małgorzata Chałupowski"
+  ],
+  "official_source": "https://www.gov.pl/web/usa/konsulaty-honorowe",
+  "last_verified": "2026-09-30"
+}
