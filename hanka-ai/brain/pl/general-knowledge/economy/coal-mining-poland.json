@@ -1,0 +1,21 @@
+{
+  "id": "coal-mining-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "industries",
+  "title": "Górnictwo węgla w Polsce",
+  "facts": [
+    "Węgiel kamienny i brunatny przez dziesięciolecia odgrywały dużą rolę w polskiej energetyce i przemyśle.",
+    "Najważniejszym historycznym regionem wydobycia węgla kamiennego jest Górny Śląsk.",
+    "Znaczenie węgla w energetyce zmienia się wraz z transformacją sektora energetycznego, dlatego aktualne udziały należy sprawdzać w bieżących danych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/klimat"
+  ],
+  "related_public_pages": []
+}
