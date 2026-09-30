@@ -1,0 +1,21 @@
+{
+  "id": "country-syria",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Syria",
+  "facts": [
+    "Syria leży w Azji Zachodniej nad Morzem Śródziemnym i graniczy z Turcją, Irakiem, Jordanią, Izraelem oraz Libanem.",
+    "Stolicą jest Damaszek, językiem urzędowym jest arabski, a walutą funt syryjski.",
+    "Po wieloletniej wojnie domowej i upadku rządu Baszara al-Asada w grudniu 2024 roku Syria weszła w okres transformacji politycznej; sytuacja instytucjonalna i bezpieczeństwa pozostaje zmienna."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://syria.un.org/en"
+  ],
+  "related_public_pages": []
+}
