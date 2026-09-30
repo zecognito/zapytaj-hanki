@@ -1,0 +1,21 @@
+{
+  "id": "oh-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OH",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w Ohio",
+  "facts": [
+    "Ohio SNAP zapewnia food assistance kwalifikującym się gospodarstwom domowym.",
+    "Program jest administrowany przez Ohio Department of Job and Family Services oraz county agencies.",
+    "Eligibility i benefit amount zależą m.in. od wielkości gospodarstwa, dochodu i innych zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://jfs.ohio.gov/food-assistance"
+  ],
+  "related_public_pages": []
+}
