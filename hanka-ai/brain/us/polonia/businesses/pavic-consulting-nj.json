@@ -1,0 +1,35 @@
+{
+  "id": "polonia-prof-accountant-pavic-consulting-nj",
+  "country": "US",
+  "category": "accountant",
+  "name": "Pavic Consulting LLC",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "New Jersey / remote",
+    "state": "NJ",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "bookkeeping",
+    "accounting",
+    "fractional CFO",
+    "technical accounting",
+    "SOX compliance",
+    "back-office finance"
+  ],
+  "phone": "+1 908-442-5121",
+  "email": "info@pavicconsulting.com",
+  "website": "https://pavicconsulting.com/",
+  "official_source": "https://pavicconsulting.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official firm site states engagements are CPA-led and explicitly says Mówimy po polsku. Remote-friendly service; exact street office not asserted."
+  ]
+}
