@@ -1,0 +1,21 @@
+{
+  "id": "bielsko-biala",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Bielsko-Biała",
+  "facts": [
+    "Bielsko-Biała leży w województwie śląskim u podnóża Beskidów.",
+    "Współczesne miasto powstało w 1951 r. z połączenia Bielska i Białej.",
+    "Miasto ma tradycje przemysłowe, włókiennicze i motoryzacyjne oraz jest ważnym punktem wyjazdowym w Beskidy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://bielsko-biala.pl/"
+  ],
+  "related_public_pages": []
+}
