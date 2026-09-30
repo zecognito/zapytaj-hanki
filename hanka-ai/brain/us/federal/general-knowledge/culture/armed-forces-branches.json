@@ -1,0 +1,22 @@
+{
+  "id": "armed-forces-branches",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "military",
+  "subtopic": "structure",
+  "title": "Rodzaje U.S. Armed Forces",
+  "facts": [
+    "U.S. Armed Forces obejmują Army, Marine Corps, Navy, Air Force, Space Force i Coast Guard.",
+    "Army, Marine Corps, Navy, Air Force i Space Force znajdują się w Department of Defense; Coast Guard w czasie pokoju działa w Department of Homeland Security.",
+    "National Guard ma odrębny federalno-stanowy charakter i nie jest po prostu siódmą równorzędną gałęzią Armed Forces."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.defense.gov/About/our-forces/",
+    "https://www.uscg.mil/About/"
+  ],
+  "related_public_pages": []
+}
