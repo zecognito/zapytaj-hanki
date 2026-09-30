@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-social-security-coverage-workers",
+  "subtopic": "social_security_agreement",
+  "title": "Składki społeczne przy pracy między Polską a USA",
+  "facts": [
+    "Zasadą umowy jest podleganie ustawodawstwu państwa, na którego terytorium wykonywana jest praca.",
+    "Pracownik czasowo wysłany przez pracodawcę z jednego państwa do drugiego może pozostać wyłącznie w systemie pierwszego państwa, jeżeli przewidywany okres wysłania nie przekracza 5 lat i spełnione są warunki umowy.",
+    "Zaświadczenie o właściwym ustawodawstwie służy do wykazania zwolnienia z podwójnego oskładkowania w zakresie objętym umową."
+  ],
+  "effective_from": "2009-03-01",
+  "official_sources": [
+    "https://www.zus.pl/pl/pracujacy/pracujacy-poza-ue-eog-lub-szwajcaria/usa",
+    "https://www.ssa.gov/international/Agreement_Pamphlets/polish.html"
+  ]
+}
