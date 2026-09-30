@@ -1,0 +1,34 @@
+{
+  "id": "polonia-insurance-statefarm-rougemont-glendale-az",
+  "country": "US",
+  "category": "insurance",
+  "name": "Corine Rougemont - State Farm",
+  "status": "active",
+  "location": {
+    "address": "6685 W Beardsley Road, STE 250",
+    "city": "Glendale",
+    "state": "AZ",
+    "postal_code": "85308",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "auto insurance",
+    "homeowners insurance",
+    "renters insurance",
+    "life insurance",
+    "business insurance"
+  ],
+  "phone": "623-561-0203",
+  "email": null,
+  "website": "https://www.statefarm.com/agent/us/az/glendale/corine-rougemont-7b9pp59g0ak",
+  "official_source": "https://www.statefarm.com/agent/us/az/glendale/corine-rougemont-7b9pp59g0ak",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official State Farm office profile explicitly lists Polish among office languages."
+  ]
+}
