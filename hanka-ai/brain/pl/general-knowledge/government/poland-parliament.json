@@ -1,0 +1,21 @@
+{
+  "id": "poland-parliament",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "institutions",
+  "title": "Sejm i Senat",
+  "facts": [
+    "Władzę ustawodawczą w Rzeczypospolitej Polskiej sprawują Sejm i Senat.",
+    "Sejm składa się z 460 posłów, a Senat ze 100 senatorów.",
+    "Kadencja Sejmu i Senatu co do zasady trwa 4 lata zgodnie z Konstytucją."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sejm.gov.pl/prawo/konst/polski/4.htm"
+  ],
+  "related_public_pages": []
+}
