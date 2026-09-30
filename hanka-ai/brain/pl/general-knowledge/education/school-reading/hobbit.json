@@ -1,0 +1,21 @@
+{
+  "id": "hobbit",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Hobbit, czyli tam i z powrotem — J.R.R. Tolkien",
+  "facts": [
+    "Hobbit, czyli tam i z powrotem, autor: J.R.R. Tolkien, znajduje się w podstawie programowej języka polskiego dla szkoły podstawowej na rok szkolny 2025/2026 jako lektura obowiązkowa dla klas IV–VI.",
+    "Powieść fantasy o wyprawie Bilba Bagginsa z kompanią krasnoludów do Samotnej Góry.",
+    "Status lektury może zmieniać się wraz ze zmianą podstawy programowej; przy pytaniu o bieżący wykaz należy sprawdzić aktualną listę MEN/ZPE."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-podstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
