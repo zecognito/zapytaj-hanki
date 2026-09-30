@@ -1,0 +1,21 @@
+{
+  "id": "wa-paid-family-medical-leave",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WA",
+  "topic": "employment",
+  "subtopic": "paid_family_medical_leave",
+  "title": "Paid Family and Medical Leave w stanie Waszyngton",
+  "facts": [
+    "Washington Paid Family and Medical Leave zapewnia kwalifikującym się pracownikom płatny leave z określonych powodów rodzinnych i medycznych.",
+    "Program jest finansowany składkami pracowników i pracodawców zgodnie z obowiązującymi zasadami i wyjątkami.",
+    "Eligibility i wysokość weekly benefit zależą od historii pracy, zarobków i rodzaju leave."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://paidleave.wa.gov/"
+  ],
+  "related_public_pages": []
+}
