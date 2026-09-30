@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-immigration-replace-renew-green-card",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "immigration",
+  "subtopic": "green_card",
+  "title": "Green Card — renewal i replacement Form I-90",
+  "facts": [
+    "Form I-90 służy lawful permanent residents m.in. do renewal lub replacement 10-year Permanent Resident Card.",
+    "I-90 może być używany m.in. gdy karta wygasła, wkrótce wygaśnie, została zgubiona, skradziona, zniszczona albo zawiera dane wymagające poprawy, zależnie od sytuacji.",
+    "Conditional permanent residents z 2-year card nie używają I-90 do usunięcia conditions; zwykle potrzebny jest I-751 albo I-829.",
+    "Conditional resident, którego 2-year status zbliża się do końca, musi przestrzegać osobnych rules for removal of conditions."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscis.gov/i-90",
+    "https://www.uscis.gov/sites/default/files/document/forms/i-90instr.pdf"
+  ],
+  "related_public_pages": []
+}
