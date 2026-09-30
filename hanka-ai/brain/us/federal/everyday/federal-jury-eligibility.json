@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-federal-jury-eligibility",
+  "subtopic": "civic_admin",
+  "title": "Kto może być federalnym jurorem",
+  "facts": [
+    "Federal jury service wymaga obywatelstwa USA i wieku co najmniej 18 lat.",
+    "Osoba musi zasadniczo mieszkać głównie w danym judicial district przez co najmniej rok oraz odpowiednio znać język angielski.",
+    "Aktualne poważne felony charges lub felony conviction bez przywrócenia praw mogą dyskwalifikować zgodnie z federalnymi zasadami.",
+    "Green card lub legalny pobyt bez obywatelstwa USA nie wystarcza do federal jury service."
+  ],
+  "official_sources": [
+    "https://www.uscourts.gov/court-programs/jury-service/juror-qualifications-exemptions-and-excuses"
+  ]
+}
