@@ -1,0 +1,21 @@
+{
+  "id": "nc-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NC",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Karolinie Północnej",
+  "facts": [
+    "North Carolina stosuje flat individual income tax, którego stawka jest określana dla danego roku podatkowego.",
+    "North Carolina Department of Revenue administruje stanowym individual income tax.",
+    "Stawka i stanowe deductions/adjustments mogą zmieniać się zgodnie z harmonogramem ustawowym, dlatego należy sprawdzić właściwy rok."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ncdor.gov/taxes-forms/individual-income-tax"
+  ],
+  "related_public_pages": []
+}
