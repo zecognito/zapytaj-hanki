@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-documents-real-id-not-driving-rule",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "documents",
+  "subtopic": "real_id_federal_rules",
+  "title": "REAL ID - what it does not change",
+  "facts": [
+    "REAL ID requirements concern specified federal identification uses, not whether a person may legally drive under state law.",
+    "A non-REAL-ID state driver's license may still be valid for driving if valid under state law, even if it is not accepted for a covered federal identification purpose.",
+    "REAL ID is not required for voting, applying for or receiving federal benefits, accessing health services, participating in law-enforcement proceedings, or other activities not designated by the REAL ID Act.",
+    "State DMV documentation requirements for obtaining REAL ID vary within the federal framework."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dhs.gov/real-id/real-id-faqs"
+  ],
+  "related_public_pages": []
+}
