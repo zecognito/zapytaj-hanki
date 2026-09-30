@@ -1,0 +1,21 @@
+{
+  "id": "ut-real_id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "UT",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Utah",
+  "facts": [
+    "Stan wydaje dokumenty zgodne z federalnym REAL ID.",
+    "Wniosek wymaga wymaganych dokumentów identity i residency.",
+    "Dokument niezgodny z REAL ID nie wystarcza do objętych wymogiem zastosowań federalnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dld.utah.gov/real-id/"
+  ],
+  "related_public_pages": []
+}
