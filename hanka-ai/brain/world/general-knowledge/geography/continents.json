@@ -1,0 +1,21 @@
+{
+  "id": "world-continents",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "geography",
+  "subtopic": "continents",
+  "title": "Kontynenty świata",
+  "facts": [
+    "Najczęściej wyróżnia się siedem kontynentów: Azję, Afrykę, Amerykę Północną, Amerykę Południową, Antarktydę, Europę i Australię.",
+    "Europa i Azja tworzą jeden ląd — Eurazję — dlatego w części tradycji geograficznych stosuje się inne modele liczby kontynentów.",
+    "Azja jest największym kontynentem pod względem powierzchni i liczby ludności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.britannica.com/science/continent"
+  ],
+  "related_public_pages": []
+}
