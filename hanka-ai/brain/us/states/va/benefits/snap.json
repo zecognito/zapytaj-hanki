@@ -1,0 +1,21 @@
+{
+  "id": "va-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VA",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w Wirginii",
+  "facts": [
+    "Virginia SNAP zapewnia food assistance kwalifikującym się gospodarstwom domowym.",
+    "Program jest administrowany przez Virginia Department of Social Services i local departments of social services.",
+    "Eligibility i benefit amount zależą m.in. od wielkości gospodarstwa, dochodu i innych zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dss.virginia.gov/benefit/snap.cgi"
+  ],
+  "related_public_pages": []
+}
