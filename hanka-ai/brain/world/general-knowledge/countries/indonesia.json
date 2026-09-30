@@ -1,0 +1,21 @@
+{
+  "id": "country-indonesia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Indonezja",
+  "facts": [
+    "Indonezja jest rozległym państwem archipelagowym w Azji Południowo-Wschodniej, położonym między Oceanem Indyjskim i Spokojnym.",
+    "Językiem państwowym jest indonezyjski, a walutą rupia indonezyjska.",
+    "Indonezja jest republiką i jednym z najludniejszych państw świata; jej terytorium obejmuje tysiące wysp."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://indonesia.go.id/"
+  ],
+  "related_public_pages": []
+}
