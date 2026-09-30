@@ -1,0 +1,21 @@
+{
+  "id": "mother-day-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Dzień Matki w Polsce",
+  "facts": [
+    "Dzień Matki w Polsce obchodzony jest 26 maja.",
+    "Nie jest dniem ustawowo wolnym od pracy.",
+    "Dzieci często przygotowują życzenia, kwiaty lub drobne upominki, ale sposób obchodzenia zależy od rodziny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina"
+  ],
+  "related_public_pages": []
+}
