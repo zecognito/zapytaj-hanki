@@ -1,0 +1,21 @@
+{
+  "id": "flood-watch-warning",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "weather",
+  "subtopic": "alerts",
+  "title": "Flood watch a flood warning",
+  "facts": [
+    "Flood Watch oznacza, że powódź jest możliwa i należy być przygotowanym.",
+    "Flood Warning oznacza, że powódź występuje lub jest spodziewana i należy podjąć działania ochronne.",
+    "Flash Flood Warning dotyczy gwałtownej powodzi i wymaga szczególnie szybkiej reakcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.weather.gov/safety/flood-watch-warning"
+  ],
+  "related_public_pages": []
+}
