@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-moving-selective-service",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "moving_life_admin",
+  "subtopic": "selective_service",
+  "title": "Selective Service registration - basics",
+  "facts": [
+    "Federal law generally requires male U.S. citizens and male immigrants residing in the United States to register with Selective Service within the applicable age window, with statutory exceptions.",
+    "Registration generally applies from age 18 through age 25; a person cannot register after turning 26.",
+    "Immigration status and other circumstances can affect whether registration was required, so individual eligibility should be checked against Selective Service rules.",
+    "Registration is not the same as being drafted into the military."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sss.gov/register/who-needs-to-register/"
+  ],
+  "related_public_pages": []
+}
