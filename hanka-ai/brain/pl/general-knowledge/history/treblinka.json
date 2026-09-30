@@ -1,0 +1,21 @@
+{
+  "id": "treblinka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "holocaust",
+  "title": "Treblinka",
+  "facts": [
+    "Treblinka II była niemieckim nazistowskim ośrodkiem zagłady utworzonym w okupowanej Polsce.",
+    "Była jednym z głównych miejsc masowego mordowania Żydów w ramach Aktion Reinhardt.",
+    "Nie należy określać Treblinki jako „polskiego obozu”; była utworzona i prowadzona przez nazistowskie Niemcy na okupowanym terytorium Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ushmm.org/collections/bibliography/treblinka"
+  ],
+  "related_public_pages": []
+}
