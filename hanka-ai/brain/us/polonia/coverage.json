@@ -23,8 +23,13 @@
       ]
     },
     "churches": {
-      "status": "planned",
-      "records": 0
+      "status": "started",
+      "records": 36,
+      "notes": [
+        "First nationwide seed focuses on active parishes, missions and communities with current Polish-language pastoral function, not merely Polish historical heritage.",
+        "Polish Mass/confession schedules are intentionally not hard-coded because they change frequently; official parish sources should be consulted for current times.",
+        "Initial coverage spans IL, NY, NJ, CT, OH, WI, CO, CA, TX, FL, OR and WA; additional Northeast/Midwest/South parishes remain to be added."
+      ]
     },
     "organizations": {
       "status": "planned",
