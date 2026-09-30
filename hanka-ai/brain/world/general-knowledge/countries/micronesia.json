@@ -1,0 +1,21 @@
+{
+  "id": "country-micronesia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Sfederowane Stany Mikronezji",
+  "facts": [
+    "Sfederowane Stany Mikronezji są federacją czterech stanów wyspiarskich rozciągniętych na zachodnim Pacyfiku.",
+    "Stolicą jest Palikir na wyspie Pohnpei, językiem urzędowym na poziomie federalnym angielski, a walutą dolar amerykański.",
+    "Państwo pozostaje w wolnym stowarzyszeniu ze Stanami Zjednoczonymi na podstawie Compact of Free Association."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://gov.fm/"
+  ],
+  "related_public_pages": []
+}
