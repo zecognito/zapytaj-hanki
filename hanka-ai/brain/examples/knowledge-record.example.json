@@ -1,0 +1,19 @@
+{
+  "id": "us-federal-example-record",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "example",
+  "subtopic": "example",
+  "title": "Example only — replace with verified knowledge",
+  "facts": [
+    "This file demonstrates the canonical Hanka Brain record format and is not intended for ingestion."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/"
+  ],
+  "related_public_pages": []
+}
