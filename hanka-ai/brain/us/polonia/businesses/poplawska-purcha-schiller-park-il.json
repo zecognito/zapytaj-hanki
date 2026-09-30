@@ -1,0 +1,33 @@
+{
+  "id": "polonia-prof-law-poplawska-purcha-schiller-park-il",
+  "country": "US",
+  "category": "lawyer",
+  "name": "Poplawska Purcha & Associates LLC",
+  "status": "active",
+  "location": {
+    "address": "9950 W Lawrence Ave, Suite 207",
+    "city": "Schiller Park",
+    "state": "IL",
+    "postal_code": "60176",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "family law",
+    "divorce",
+    "estate planning",
+    "real estate law"
+  ],
+  "phone": "+1 708-232-8980",
+  "email": "dpp@purcha-law.com",
+  "website": "https://www.purcha-law.com/",
+  "official_source": "https://www.purcha-law.com/about",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Firm biography explicitly states Dominika Poplawska Purcha is a Polish-speaking Illinois-licensed attorney serving Chicagoland and suburbs."
+  ]
+}
