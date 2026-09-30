@@ -5,11 +5,11 @@
   "region": "IL",
   "topic": "taxes",
   "subtopic": "income_tax_rate",
-  "title": "Illinois individual income tax rate",
+  "title": "Stawka podatku dochodowego w Illinois",
   "facts": [
-    "Illinois individual income tax is imposed at a flat 4.95% rate.",
-    "The 2026 Illinois withholding tax rate is 4.95%.",
-    "For tax year 2025, Form IL-1040 was due April 15, 2026."
+    "Podatek dochodowy od osób fizycznych w Illinois ma stałą stawkę 4,95%.",
+    "W 2026 r. stawka potrąceń podatku stanowego Illinois z wynagrodzenia wynosi 4,95%.",
+    "Za rok podatkowy 2025 formularz IL-1040 należało złożyć do 15 kwietnia 2026 r."
   ],
   "effective_from": null,
   "effective_to": null,
