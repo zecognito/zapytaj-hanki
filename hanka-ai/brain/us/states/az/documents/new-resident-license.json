@@ -1,0 +1,21 @@
+{
+  "id": "az-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AZ",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Arizony",
+  "facts": [
+    "Osoba, która zostaje resident Arizona i prowadzi pojazd, musi uzyskać Arizona driver license zgodnie z wymaganiami MVD.",
+    "Proces wymaga odpowiednich identity/lawful presence i residency documents zależnie od credential.",
+    "Arizona driver license i vehicle registration są odrębnymi procesami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://azdot.gov/mvd/services/driver-services/driver-license-information"
+  ],
+  "related_public_pages": []
+}
