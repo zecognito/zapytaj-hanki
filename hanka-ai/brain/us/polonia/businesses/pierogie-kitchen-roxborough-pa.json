@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-pierogie-kitchen-roxborough-pa",
+  "country": "US",
+  "category": "restaurant",
+  "name": "The Pierogie Kitchen",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "648 Roxborough Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "postal_code": "19128",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 215-483-5301",
+  "email": null,
+  "website": "https://pierogiekitchen.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Philadelphia",
+    "PA"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://pierogiekitchen.com/",
+  "last_verified": "2026-09-30"
+}
