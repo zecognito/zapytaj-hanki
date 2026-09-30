@@ -1,0 +1,38 @@
+{
+  "id": "polonia-business-roly-poly-bakery-new-britain",
+  "country": "US",
+  "category": "bakery",
+  "name": "Roly Poly Bakery",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "587 Main St",
+    "city": "New Britain",
+    "state": "CT",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": "https://www.rolypolyinc.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish bakery",
+    "deli and supermarket",
+    "imported Polish groceries",
+    "hot meals"
+  ],
+  "coverage_area": [
+    "New Britain",
+    "CT"
+  ],
+  "notes": [
+    "Current Polish-food identity and location supported directly by the business website; commercial details remain freshness-sensitive."
+  ],
+  "official_source": "https://www.rolypolyinc.com/",
+  "last_verified": "2026-09-30"
+}
