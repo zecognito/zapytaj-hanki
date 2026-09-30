@@ -1,0 +1,21 @@
+{
+  "id": "wheat-production-us",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "economy",
+  "subtopic": "agriculture",
+  "title": "Produkcja pszenicy w USA",
+  "facts": [
+    "USA produkują kilka klas wheat, a znaczące obszary produkcji znajdują się m.in. na Great Plains i Pacific Northwest.",
+    "Winter wheat i spring wheat mają różne regiony oraz sezony produkcji.",
+    "USDA publikuje bieżące dane o acreage, production i yields."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ers.usda.gov/topics/crops/wheat/wheat-sector-at-a-glance"
+  ],
+  "related_public_pages": []
+}
