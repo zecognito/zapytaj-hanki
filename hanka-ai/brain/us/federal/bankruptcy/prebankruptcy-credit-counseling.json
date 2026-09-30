@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-bankruptcy-credit-counseling",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "bankruptcy_debt_relief",
+  "subtopic": "counseling",
+  "title": "Pre-bankruptcy credit counseling",
+  "facts": [
+    "An individual generally must receive credit counseling from an approved organization during the 180-day period before filing bankruptcy, subject to limited statutory exceptions.",
+    "The counseling provider must be approved for the federal judicial district where the case will be filed.",
+    "Credit counseling before filing is separate from the debtor-education course generally required after filing to receive a discharge.",
+    "The U.S. Trustee Program maintains approved provider lists for most jurisdictions, while separate arrangements apply in Alabama and North Carolina."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.justice.gov/ust/credit-counseling-debtor-education-information"
+  ],
+  "related_public_pages": []
+}
