@@ -1,0 +1,36 @@
+{
+  "id": "polonia-gov-honorary-denver-co",
+  "country": "US",
+  "category": "consulate_honorary",
+  "name": "Honorary Consulate of the Republic of Poland in Denver",
+  "aliases": [
+    "Konsulat Honorowy RP w Denver"
+  ],
+  "status": "active",
+  "location": {
+    "address": "528 Williams St",
+    "city": "Denver",
+    "state": "CO",
+    "postal_code": "80218",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 303 485 6620",
+  "email": "tskotnicki@aol.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "honorary consular representation"
+  ],
+  "coverage_area": [
+    "CO"
+  ],
+  "notes": [
+    "Honorary consul: Tomasz Skotnicki"
+  ],
+  "official_source": "https://www.gov.pl/web/usa/konsulaty-honorowe",
+  "last_verified": "2026-09-30"
+}
