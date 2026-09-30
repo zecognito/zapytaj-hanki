@@ -1,0 +1,21 @@
+{
+  "id": "nc-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NC",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Medicaid w Karolinie Północnej",
+  "facts": [
+    "North Carolina Medicaid zapewnia health coverage kwalifikującym się mieszkańcom.",
+    "North Carolina rozszerzyła Medicaid dla kwalifikujących się dorosłych zgodnie z obowiązującymi zasadami programu.",
+    "Eligibility zależy od dochodu, wieku, household i innych kategorii; wnioski są obsługiwane przez stan i local DSS."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://medicaid.ncdhhs.gov/"
+  ],
+  "related_public_pages": []
+}
