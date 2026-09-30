@@ -1,0 +1,21 @@
+{
+  "id": "andrzej-wajda-detail",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "film",
+  "title": "Andrzej Wajda — znaczenie",
+  "facts": [
+    "Andrzej Wajda był jednym z najbardziej wpływowych polskich reżyserów filmowych.",
+    "Jego filmy wielokrotnie podejmowały temat wojny, pamięci historycznej, systemu komunistycznego i polskich przemian społecznych.",
+    "W 2000 r. otrzymał honorowego Oscara za całokształt twórczości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.oscars.org/governors-awards/andrzej-wajda"
+  ],
+  "related_public_pages": []
+}
