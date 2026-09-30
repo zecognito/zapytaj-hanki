@@ -1,0 +1,21 @@
+{
+  "id": "narnia-lew-czarownica",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Opowieści z Narnii. Lew, czarownica i stara szafa — C.S. Lewis",
+  "facts": [
+    "Opowieści z Narnii. Lew, czarownica i stara szafa, autor: C.S. Lewis, znajduje się w podstawie programowej języka polskiego dla szkoły podstawowej na rok szkolny 2025/2026 jako lektura obowiązkowa dla klas IV–VI.",
+    "Fantastyczna opowieść o Narnii, rodzeństwie Pevensie, Aslanie i walce ze złem.",
+    "Status lektury może zmieniać się wraz ze zmianą podstawy programowej; przy pytaniu o bieżący wykaz należy sprawdzić aktualną listę MEN/ZPE."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-podstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
