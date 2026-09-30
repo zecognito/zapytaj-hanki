@@ -1,0 +1,21 @@
+{
+  "id": "may-3-holiday-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "calendar",
+  "title": "3 maja — święto konstytucyjne",
+  "facts": [
+    "3 maja jest Świętem Narodowym Trzeciego Maja i dniem ustawowo wolnym od pracy.",
+    "Upamiętnia uchwalenie Konstytucji 3 maja w 1791 r.",
+    "Święto zostało zniesione w okresie komunistycznym i przywrócone po przemianach demokratycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
