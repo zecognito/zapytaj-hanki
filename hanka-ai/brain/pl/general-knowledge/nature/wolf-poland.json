@@ -1,0 +1,21 @@
+{
+  "id": "wolf-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "parks_and_wildlife",
+  "title": "Wilk w Polsce",
+  "facts": [
+    "Wilk jest rodzimym drapieżnikiem występującym w różnych częściach Polski.",
+    "W Polsce podlega ochronie gatunkowej.",
+    "Liczebność i zasięg populacji zmieniają się, więc aktualne szacunki wymagają datowanego źródła."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gdos.gov.pl/"
+  ],
+  "related_public_pages": []
+}
