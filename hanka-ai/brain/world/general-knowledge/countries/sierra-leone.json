@@ -1,0 +1,21 @@
+{
+  "id": "country-sierra-leone",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Sierra Leone",
+  "facts": [
+    "Sierra Leone leży w Afryce Zachodniej nad Oceanem Atlantyckim, a jej stolicą jest Freetown.",
+    "Językiem urzędowym jest angielski, szeroko używany jest krio, a walutą leone.",
+    "Freetown zostało założone pod koniec XVIII wieku jako osada dla wyzwolonych osób pochodzenia afrykańskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.statehouse.gov.sl/"
+  ],
+  "related_public_pages": []
+}
