@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-our-lady-czestochowa-houston-tx",
+  "country": "US",
+  "category": "church",
+  "name": "Our Lady of Czestochowa Polish Catholic Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1731 Blalock Rd",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77080",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 713 973 1081",
+  "email": null,
+  "website": "https://www.parafiahouston.com",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "TX"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://www.parafiahouston.com",
+  "last_verified": "2026-09-30"
+}
