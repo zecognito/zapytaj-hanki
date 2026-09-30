@@ -1,0 +1,35 @@
+{
+  "id": "polonia-prof-law-koczwara-chicago-il",
+  "country": "US",
+  "category": "lawyer",
+  "name": "Law Office of Christopher Koczwara, P.C.",
+  "status": "active",
+  "location": {
+    "address": "5838 S Archer Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60638",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "real estate law",
+    "bankruptcy and restructuring",
+    "zoning and land use",
+    "business transactions",
+    "civil litigation",
+    "estate planning and probate"
+  ],
+  "phone": "+1 773-767-5422",
+  "email": "info@koczwaralaw.com",
+  "website": "https://koczwaralaw.com/",
+  "official_source": "https://koczwaralaw.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official law-firm site explicitly states Mowimy Po Polsku and lists Chicago office and practice areas."
+  ]
+}
