@@ -1,0 +1,21 @@
+{
+  "id": "polish-diminutives",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "Zdrobnienia w języku polskim",
+  "facts": [
+    "Polszczyzna szeroko używa zdrobnień imion i rzeczowników.",
+    "Jedno imię może mieć wiele form potocznych i zdrobniałych, np. Katarzyna — Kasia, Katarzynka; Aleksander — Olek.",
+    "Znaczenie zdrobnienia zależy od kontekstu: może wyrażać bliskość, mały rozmiar, czułość, ironię albo protekcjonalność."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/poradnia/"
+  ],
+  "related_public_pages": []
+}
