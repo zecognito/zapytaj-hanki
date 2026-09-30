@@ -1,0 +1,21 @@
+{
+  "id": "constitution-1997-referendum",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "transition",
+  "title": "Konstytucja 1997 — referendum",
+  "facts": [
+    "Obowiązująca Konstytucja Rzeczypospolitej Polskiej została uchwalona przez Zgromadzenie Narodowe 2 kwietnia 1997 r.",
+    "Została zatwierdzona w referendum konstytucyjnym 25 maja 1997 r. i weszła w życie 17 października 1997 r.",
+    "Jest podstawowym aktem prawnym określającym ustrój współczesnej Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sejm.gov.pl/prawo/konst/polski/kon1.htm"
+  ],
+  "related_public_pages": []
+}
