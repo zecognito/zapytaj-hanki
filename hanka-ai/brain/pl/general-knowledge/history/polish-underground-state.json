@@ -1,0 +1,21 @@
+{
+  "id": "polish-underground-state",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world_war_ii",
+  "title": "Polskie Państwo Podziemne",
+  "facts": [
+    "Polskie Państwo Podziemne było rozbudowanym systemem tajnych struktur państwowych działających podczas niemieckiej i sowieckiej okupacji.",
+    "Obejmowało struktury cywilne oraz siły zbrojne podlegające władzom Rzeczypospolitej na uchodźstwie.",
+    "Armia Krajowa była jego główną organizacją wojskową, ale Państwo Podziemne obejmowało znacznie więcej niż samą AK."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/pl/historia-z-ipn/"
+  ],
+  "related_public_pages": []
+}
