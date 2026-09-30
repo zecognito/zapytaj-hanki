@@ -1,0 +1,21 @@
+{
+  "id": "ga-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "GA",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową w Georgii",
+  "facts": [
+    "Georgia Fair Housing Law zabrania określonych form housing discrimination.",
+    "Federalny Fair Housing Act może zapewniać równoległą ochronę.",
+    "Georgia Commission on Equal Opportunity obsługuje kwalifikujące się fair housing complaints zgodnie z procedurą stanową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://gceo.georgia.gov/fair-housing"
+  ],
+  "related_public_pages": []
+}
