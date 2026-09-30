@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-adoption-credit-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "adoption_credit",
+  "title": "Federal adoption credit — 2026",
+  "facts": [
+    "Maksymalny adoption credit za 2026 wynosi $17,670 na kwalifikującą się adopcję.",
+    "Do $5,120 adoption credit za 2026 może być refundable.",
+    "Credit zaczyna się phase out przy modified AGI powyżej $265,080 i jest całkowicie phased out przy modified AGI $305,080 lub więcej.",
+    "Dla kwalifikującej się adopcji child with special needs szczególne zasady mogą pozwolić na pełny maksymalny credit niezależnie od faktycznych qualified adoption expenses, z zachowaniem pozostałych warunków IRS."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/irb/2025-45_IRB",
+    "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill"
+  ],
+  "related_public_pages": []
+}
