@@ -1,0 +1,21 @@
+{
+  "id": "stanislaw-ulam-depth",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Stanisław Ulam — matematyk polsko-amerykański",
+  "facts": [
+    "Stanisław Ulam urodził się we Lwowie i należał do środowiska lwowskiej szkoły matematycznej.",
+    "Po emigracji do Stanów Zjednoczonych pracował m.in. w Los Alamos przy Projekcie Manhattan.",
+    "Jest związany z metodą Monte Carlo i ważnymi pracami z matematyki oraz fizyki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.lanl.gov/"
+  ],
+  "related_public_pages": []
+}
