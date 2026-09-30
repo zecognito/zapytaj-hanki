@@ -1,0 +1,21 @@
+{
+  "id": "jan-czochralski-method-depth",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Metoda Czochralskiego",
+  "facts": [
+    "Jan Czochralski opracował metodę wzrostu monokryształów znaną dziś jako metoda Czochralskiego.",
+    "Metoda jest szeroko wykorzystywana do produkcji monokryształów krzemu używanych w elektronice.",
+    "Jest jednym z najważniejszych polskich wkładów w technologie, na których opiera się współczesny przemysł półprzewodników."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
