@@ -44,12 +44,12 @@
     },
     "businesses": {
       "status": "audit_in_progress",
-      "records": 170,
+      "records": 168,
       "notes": [
-        "Food/retail audit remains in progress at 170 total records; active-count is now lower because Polish Family Deli in Bensenville IL was verified closed and marked closed rather than deleted.",
-        "This audit pass upgraded/verified Celina's Fresh Market Chicago, Adam's Food Market Wallington, The Polish Pickle Deli Manville, Syrena Polish Deli Linden, and Krakow Deli Bakery Smokehouse Woonsocket using current business/local/tourism evidence.",
-        "A second material address error was corrected: Polonia Market in Pawtucket RI was stored at 736 Central Ave; current business/city data places it at 736 Broadway. Its Polish specialization remains flagged for stronger first-party confirmation.",
-        "Earlier corrections remain in force (Boardman OH Krakus, Milwaukee WI Wioletta's, Bremond TX Polish Food Store). Commercial layer remains audit_in_progress and must not be ingested into Vectorize yet."
+        "Food/retail audit remains in progress. Total records reduced from 170 to 168 after removing Acme Smoked Fish (Brooklyn) and Camellia Meats (Buffalo): both are legitimate businesses but insufficiently Polish-specific for the Polonia directory.",
+        "Several previously suspected duplicate/placeholder filenames were already absent on the branch, including NetCost Port Richmond, Malczewski Butter Lambs, Polish Kitchen Erie duplicate candidates, Srodek Warren, and the earlier Naples generic-market candidate; they are not inflating the current count.",
+        "Cape Coral European Market is retained with explicit community-supported Polish relevance. European Food Market Fort Myers and International Food & Produce North Port were downgraded to unverified because first-party Polish-specific evidence was insufficient.",
+        "Audit policy is now stricter: being Eastern European, selling kielbasa, or appearing in a broad directory is not by itself enough for active Polish-business status. Commercial layer remains audit_in_progress and must not be ingested into Vectorize."
       ]
     },
     "media_culture": {
