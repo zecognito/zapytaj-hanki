@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-child-passport-parent-consent",
+  "subtopic": "pesel_passports",
+  "title": "Zgoda rodziców na polski paszport dziecka w USA",
+  "facts": [
+    "Wydanie polskiego paszportu dziecku zasadniczo wymaga zgody drugiego rodzica lub innej podstawy prawnej wskazanej w przepisach.",
+    "Jeżeli drugi rodzic nie składa zgody osobiście lub elektronicznie w przewidziany sposób, zgoda na papierze może wymagać notarialnego poświadczenia podpisu.",
+    "Gdy zgody drugiego rodzica nie można uzyskać albo rodzice nie są zgodni, podstawą wydania dokumentu może być odpowiednie orzeczenie sądu rodzinnego.",
+    "Dla dziecka poniżej 12 lat z już nadanym PESEL dostępna jest w określonych warunkach internetowa procedura wniosku paszportowego."
+  ],
+  "official_sources": [
+    "https://www.gov.pl/web/usa/paszport-dla-dziecka-do-12-lat---wniosek-zlozony-przez-internet",
+    "https://www.gov.pl/web/usa/paszport-dla-osoby-maloletniej"
+  ]
+}
