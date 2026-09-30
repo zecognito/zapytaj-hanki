@@ -1,0 +1,21 @@
+{
+  "id": "ma-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MA",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Massachusetts",
+  "facts": [
+    "Nowy mieszkaniec Massachusetts musi zarejestrować kwalifikujący się pojazd przez Registry of Motor Vehicles.",
+    "Proces wymaga m.in. odpowiedniego proof of ownership i Massachusetts insurance.",
+    "Po rejestracji pojazd podlega właściwym Massachusetts inspection requirements."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mass.gov/how-to/transfer-your-registration-and-title-from-out-of-state"
+  ],
+  "related_public_pages": []
+}
