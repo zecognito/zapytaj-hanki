@@ -1,0 +1,21 @@
+{
+  "id": "country-samoa",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Samoa",
+  "facts": [
+    "Samoa jest wyspiarskim państwem Polinezji na południowym Pacyfiku.",
+    "Stolicą jest Apia, językami urzędowymi są samoański i angielski, a walutą tala.",
+    "Samoa uzyskało niepodległość od administracji Nowej Zelandii w 1962 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.samoagovt.ws/"
+  ],
+  "related_public_pages": []
+}
