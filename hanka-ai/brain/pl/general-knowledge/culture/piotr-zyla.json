@@ -1,0 +1,21 @@
+{
+  "id": "piotr-zyla",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "sports-figures",
+  "title": "Piotr Żyła",
+  "facts": [
+    "Piotr Żyła, urodzony 16 stycznia 1987 roku, jest polskim skoczkiem narciarskim.",
+    "Dwukrotnie zdobywał indywidualne mistrzostwo świata na skoczni normalnej: w Oberstdorfie w 2021 roku i Planicy w 2023 roku.",
+    "Jest także medalistą mistrzostw świata w konkursach drużynowych i jednym z najbardziej rozpoznawalnych polskich skoczków swojego pokolenia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=JP&competitorid=68347"
+  ],
+  "related_public_pages": []
+}
