@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-medicare-annual-open-enrollment",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "medicare",
+  "subtopic": "enrollment",
+  "title": "Medicare Open Enrollment — 15 października do 7 grudnia",
+  "facts": [
+    "Medicare Open Enrollment odbywa się co roku od 15 października do 7 grudnia.",
+    "W tym okresie osoby z Medicare mogą m.in. zmienić Original Medicare na Medicare Advantage, zmienić Medicare Advantage plan, wrócić z Medicare Advantage do Original Medicare oraz dołączyć, zmienić lub zrezygnować z Part D plan zgodnie z zasadami Medicare.",
+    "Zmiany dokonane podczas tego okresu zasadniczo zaczynają obowiązywać 1 stycznia następnego roku.",
+    "Ten okres różni się od Medicare Advantage Open Enrollment Period trwającego od 1 stycznia do 31 marca dla osób już zapisanych do Medicare Advantage."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicare.gov/health-drug-plans/open-enrollment"
+  ],
+  "related_public_pages": []
+}
