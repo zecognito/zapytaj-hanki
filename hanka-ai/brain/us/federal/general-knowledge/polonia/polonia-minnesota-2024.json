@@ -1,0 +1,21 @@
+{
+  "id": "polonia-minnesota-2024",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "polonia",
+  "subtopic": "state_demographics",
+  "title": "Polskie pochodzenie w Minnesota — 2024",
+  "facts": [
+    "ACS 2024 1-year C04006 oszacował 214 308 mieszkańców Minnesota deklarujących Polish ancestry.",
+    "To ancestry estimate obejmujący osoby, które mogły podać Polish jako jedno lub jedno z kilku ancestries.",
+    "Estimate ma margin of error ±8 126."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://data.census.gov/table/ACSDT1Y2024.C04006?g=040XX00US27&t=Ancestry"
+  ],
+  "related_public_pages": []
+}
