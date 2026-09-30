@@ -1,0 +1,21 @@
+{
+  "id": "fl-reemployment-assistance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "FL",
+  "topic": "benefits",
+  "subtopic": "unemployment",
+  "title": "Reemployment Assistance na Florydzie",
+  "facts": [
+    "Florida nazywa swój program unemployment benefits Reemployment Assistance.",
+    "Program zapewnia czasowe świadczenia kwalifikującym się osobom, które utraciły pracę bez własnej winy i spełniają wymagania dotyczące wages oraz bieżącej eligibility.",
+    "Claimant musi wykonywać wymagane requests for benefits i spełniać obowiązujące wymagania work search, jeśli nie jest z nich zwolniony."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.floridajobs.org/Reemployment-Assistance-Service-Center/reemployment-assistance/claimants"
+  ],
+  "related_public_pages": []
+}
