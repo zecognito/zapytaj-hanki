@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-wojciech-philadelphia-pa",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Szkoła Języka Polskiego im. Św. Wojciecha",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2645 East Allegheny Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "postal_code": "19134",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 267 251 3776",
+  "email": "danuta.eichler@gmail.com",
+  "website": "http://www.szkolasww.com",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "PA"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; enrollment and current class offerings should be confirmed directly with the school."
+  ],
+  "official_source": "https://www.centralapolskichszkol.org/index.php/pennsylvania/",
+  "last_verified": "2026-09-30"
+}
