@@ -1,0 +1,21 @@
+{
+  "id": "nc-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NC",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Karolinie Północnej",
+  "facts": [
+    "North Carolina minimum wage wynosi 7,25 USD za godzinę dla objętych pracowników.",
+    "Federalny FLSA również może mieć zastosowanie i zawiera własne zasady dotyczące minimum wage i overtime.",
+    "Dla tipped employees i określonych kategorii pracy obowiązują szczególne zasady."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.labor.nc.gov/workplace-rights/employee-rights-regarding-time-worked-and-wages-earned/minimum-wage-nc"
+  ],
+  "related_public_pages": []
+}
