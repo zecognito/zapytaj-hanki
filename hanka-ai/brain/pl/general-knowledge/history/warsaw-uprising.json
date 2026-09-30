@@ -1,0 +1,21 @@
+{
+  "id": "warsaw-uprising",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world_war_ii",
+  "title": "Powstanie Warszawskie",
+  "facts": [
+    "Powstanie Warszawskie rozpoczęło się 1 sierpnia 1944 r. jako zbrojne wystąpienie Armii Krajowej i struktur Polskiego Państwa Podziemnego przeciw okupacji niemieckiej.",
+    "Walki trwały 63 dni i zakończyły się kapitulacją 2 października 1944 r.",
+    "Powstanie Warszawskie nie jest tym samym wydarzeniem co powstanie w getcie warszawskim z 1943 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.1944.pl/artykul/powstanie-warszawskie,4516.html"
+  ],
+  "related_public_pages": []
+}
