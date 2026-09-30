@@ -1,0 +1,21 @@
+{
+  "id": "1000-congress-gniezno-date",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1000 — zjazd gnieźnieński",
+  "facts": [
+    "W 1000 r. cesarz Otton III spotkał się w Gnieźnie z Bolesławem Chrobrym.",
+    "Wydarzenie wzmocniło międzynarodową pozycję państwa Piastów.",
+    "Zjazd wiązał się z utworzeniem metropolii kościelnej w Gnieźnie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
