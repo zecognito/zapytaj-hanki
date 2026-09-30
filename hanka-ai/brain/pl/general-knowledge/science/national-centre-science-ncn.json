@@ -1,0 +1,21 @@
+{
+  "id": "national-centre-science-ncn",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "institutions",
+  "title": "Narodowe Centrum Nauki — NCN",
+  "facts": [
+    "Narodowe Centrum Nauki jest agencją wykonawczą finansującą badania podstawowe w Polsce.",
+    "NCN rozdziela środki przede wszystkim poprzez konkursy grantowe skierowane do naukowców na różnych etapach kariery.",
+    "Siedziba Narodowego Centrum Nauki znajduje się w Krakowie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ncn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
