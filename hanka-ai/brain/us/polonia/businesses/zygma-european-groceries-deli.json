@@ -1,0 +1,38 @@
+{
+  "id": "polonia-business-zygma-european-groceries-deli",
+  "country": "US",
+  "category": "store",
+  "name": "Zygma European Groceries & Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": null,
+    "state": "GA",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": "https://zygmapolishdeli.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish deli",
+    "Polish prepared foods",
+    "pierogi",
+    "Polish groceries"
+  ],
+  "coverage_area": [
+    "GA",
+    "GA"
+  ],
+  "notes": [
+    "Polish-food relevance supported by current official business or Polonia/local source. Commercial status and details remain freshness-sensitive."
+  ],
+  "official_source": "https://zygmapolishdeli.com/",
+  "last_verified": "2026-09-30"
+}
