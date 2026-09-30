@@ -1,0 +1,21 @@
+{
+  "id": "passport-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "documents",
+  "title": "Polski paszport",
+  "facts": [
+    "Polski paszport jest dokumentem potwierdzającym tożsamość i obywatelstwo polskie oraz służącym do podróży zagranicznych.",
+    "Paszport i dowód osobisty są różnymi dokumentami, a możliwość podróży na dowód zależy od kraju docelowego i aktualnych zasad.",
+    "Polskie paszporty wydają właściwe organy w kraju oraz konsulowie za granicą zgodnie z przepisami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gov/uzyskaj-paszport"
+  ],
+  "related_public_pages": []
+}
