@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-wiolettas-sausage-chicago",
+  "country": "US",
+  "category": "store",
+  "name": "Wioletta's Polish Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "Chicago area",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Chicago",
+    "IL"
+  ],
+  "notes": [
+    "Commercial directory record; current status, exact address where incomplete, hours and services require periodic reverification."
+  ],
+  "official_source": "https://www.gov.pl/web/usa/relacje-dwustronne",
+  "last_verified": "2026-09-30"
+}
