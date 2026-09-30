@@ -1,0 +1,21 @@
+{
+  "id": "county-government",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "government",
+  "subtopic": "local_government",
+  "title": "Co to jest county?",
+  "facts": [
+    "County jest podstawowym typem jednostki administracyjnej poniżej stanu w większości USA.",
+    "Zakres county government może obejmować m.in. courts, records, public health, roads, sheriff lub property administration zależnie od stanu.",
+    "Louisiana używa parishes, a Alaska ma boroughs i census areas zamiast klasycznego systemu counties."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/programs-surveys/geography/about/glossary.html"
+  ],
+  "related_public_pages": []
+}
