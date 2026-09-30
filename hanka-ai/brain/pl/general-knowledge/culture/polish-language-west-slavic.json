@@ -1,0 +1,21 @@
+{
+  "id": "polish-language-west-slavic",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "Polski jako język zachodniosłowiański",
+  "facts": [
+    "Język polski należy do zachodniosłowiańskiej gałęzi języków słowiańskich.",
+    "Jest blisko spokrewniony m.in. z czeskim i słowackim, ale języki te nie są wzajemnie identyczne ani automatycznie w pełni zrozumiałe.",
+    "Polski używa alfabetu łacińskiego z własnym zestawem znaków diakrytycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/mniejszosci-narodowe-i-etniczne/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
