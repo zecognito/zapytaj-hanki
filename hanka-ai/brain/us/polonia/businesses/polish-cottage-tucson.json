@@ -1,0 +1,37 @@
+{
+  "id": "polonia-business-polish-cottage-tucson",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Polish Cottage",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "4520 E Broadway Blvd",
+    "city": "Tucson",
+    "state": "AZ",
+    "postal_code": "85711",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 520-777-5407",
+  "email": null,
+  "website": "https://www.polishcottageaz.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "pierogi",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Tucson",
+    "AZ"
+  ],
+  "notes": [
+    "Polish-food relevance supported by current business or Polonia-community source. Incomplete location/contact fields are intentionally left null rather than inferred; reverification required."
+  ],
+  "official_source": "https://www.polishcottageaz.com/",
+  "last_verified": "2026-09-30"
+}
