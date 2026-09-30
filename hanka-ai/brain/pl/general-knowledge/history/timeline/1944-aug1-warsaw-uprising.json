@@ -1,0 +1,23 @@
+{
+  "id": "1944-aug1-warsaw-uprising",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1 sierpnia 1944 — wybuch Powstania Warszawskiego",
+  "facts": [
+    "Powstanie Warszawskie rozpoczęło się 1 sierpnia 1944 r. o godzinie 17:00, znanej jako Godzina „W”.",
+    "Główną siłą powstańczą była Armia Krajowa.",
+    "Celem było wyzwolenie stolicy spod okupacji niemieckiej przed pełnym wkroczeniem Armii Czerwonej i zamanifestowanie suwerenności władz Polskiego Państwa Podziemnego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://www.1944.pl/",
+    "https://polin.pl/"
+  ],
+  "related_public_pages": []
+}
