@@ -1,0 +1,25 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-consumer-complaint-routing",
+  "subtopic": "government_service_boundaries",
+  "title": "Gdzie zgłaszać problem konsumencki",
+  "facts": [
+    "Nie ma jednej federalnej agencji obsługującej wszystkie consumer complaints; właściwy kanał zależy od problemu.",
+    "CFPB przyjmuje complaints dotyczące wielu consumer financial products and services, FTC przyjmuje reports dotyczące fraud, scams i wielu unfair business practices, FCC obsługuje określone communications complaints, a DOT aviation consumer protection dotyczy airline issues.",
+    "Złożenie complaint do niewłaściwej agencji może opóźnić rozwiązanie; Hanka powinna najpierw sklasyfikować problem użytkownika.",
+    "State attorney general lub stanowy regulator może być właściwym lub dodatkowym kanałem dla spraw regulowanych na poziomie stanowym."
+  ],
+  "official_sources": [
+    "https://www.consumerfinance.gov/complaint/",
+    "https://reportfraud.ftc.gov/",
+    "https://consumercomplaints.fcc.gov/hc/en-us",
+    "https://www.transportation.gov/airconsumer/file-consumer-complaint"
+  ]
+}
