@@ -1,0 +1,21 @@
+{
+  "id": "ca-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CA",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Kalifornii",
+  "facts": [
+    "California ma statewide minimum wage wyższą od federalnej, a stawka może być corocznie korygowana.",
+    "Niektóre miasta i counties mają lokalną minimum wage wyższą niż stawka stanowa.",
+    "Dla części branż California ustanawia szczególne stawki lub zasady, dlatego oprócz statewide rate trzeba sprawdzić właściwą branżę i lokalizację."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dir.ca.gov/dlse/minimum_wage.htm"
+  ],
+  "related_public_pages": []
+}
