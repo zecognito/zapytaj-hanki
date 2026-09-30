@@ -1,0 +1,21 @@
+{
+  "id": "kolędy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "music",
+  "title": "Polskie kolędy",
+  "facts": [
+    "Polska ma bogatą tradycję kolęd i pastorałek wykonywanych w okresie Bożego Narodzenia.",
+    "Do najbardziej rozpoznawalnych należą m.in. „Bóg się rodzi”, „Cicha noc”, „Lulajże Jezuniu” i „Wśród nocnej ciszy”.",
+    "Kolęda może oznaczać pieśń bożonarodzeniową, a w innym kontekście również tradycyjną wizytę duszpasterską lub chodzenie kolędników."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/a-foreigners-guide-to-polish-christmas-carols"
+  ],
+  "related_public_pages": []
+}
