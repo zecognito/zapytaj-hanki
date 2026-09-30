@@ -1,0 +1,21 @@
+{
+  "id": "mazury-identity",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "regional-identity",
+  "title": "Mazury — region jezior",
+  "facts": [
+    "Mazury to historyczno-geograficzny region północno-wschodniej Polski kojarzony z jeziorami i turystyką wodną.",
+    "Kraina Wielkich Jezior Mazurskich jest jednym z najważniejszych polskich regionów żeglarskich.",
+    "Mazury i Warmia są odrębnymi regionami historycznymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
