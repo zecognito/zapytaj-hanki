@@ -1,0 +1,21 @@
+{
+  "id": "country-australia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Australia",
+  "facts": [
+    "Australia jest państwem obejmującym kontynent australijski, Tasmanię i liczne mniejsze wyspy.",
+    "Stolicą jest Canberra, największym miastem Sydney, a walutą dolar australijski.",
+    "Australia jest federacją i monarchią konstytucyjną z parlamentarnym systemem rządów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pmc.gov.au/government/australian-government"
+  ],
+  "related_public_pages": []
+}
