@@ -1,0 +1,21 @@
+{
+  "id": "henryk-magnuski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "engineering",
+  "title": "Henryk Magnuski",
+  "facts": [
+    "Henryk Magnuski był polskim inżynierem radiowym, który podczas II wojny światowej pracował w Stanach Zjednoczonych dla Motoroli.",
+    "Odegrał ważną rolę w rozwoju przenośnej radiokomunikacji wojskowej, w tym systemów z rodziny SCR-300.",
+    "Jego kariera jest przykładem wkładu polskiego inżyniera w amerykańską technologię komunikacyjną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.motorolasolutions.com/en_us/about/history.html"
+  ],
+  "related_public_pages": []
+}
