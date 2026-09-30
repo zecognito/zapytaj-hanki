@@ -1,0 +1,35 @@
+{
+  "id": "polonia-school-john-paul-ii-south-amboy-nj",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Akademia Jana Pawła II - Polish Supplementary School",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "10 Reseau Avenue",
+    "city": "South Amboy",
+    "state": "NJ",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": "jmoczulski@akademiajanapawla2.org",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish Saturday school",
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "NJ"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; verify enrollment details directly with the school."
+  ],
+  "official_source": "https://archiwum.orpeg.gov.pl/db/web/database/entry/7967",
+  "last_verified": "2026-09-30"
+}
