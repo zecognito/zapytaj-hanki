@@ -1,0 +1,21 @@
+{
+  "id": "ms-income_tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MS",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Mississippi",
+  "facts": [
+    "Stan pobiera individual income tax zgodnie z własnymi zasadami.",
+    "Stawki, deductions i credits zależą od właściwego tax year.",
+    "Residents, part-year residents i nonresidents mogą mieć różne obowiązki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dor.ms.gov/individual/individual-income-tax"
+  ],
+  "related_public_pages": []
+}
