@@ -649,7 +649,12 @@
         "phone_internet",
         "identity_admin",
         "renting_admin",
-        "health_insurance_admin"
+        "health_insurance_admin",
+        "utilities_household",
+        "moving_admin",
+        "shopping_consumer",
+        "scams_fraud",
+        "pharmacy_admin"
       ],
       "completed_subtopics": [
         "emergency_services",
@@ -661,7 +666,12 @@
         "phone_internet",
         "identity_admin",
         "renting_admin",
-        "health_insurance_admin"
+        "health_insurance_admin",
+        "utilities_household",
+        "moving_admin",
+        "shopping_consumer",
+        "scams_fraud",
+        "pharmacy_admin"
       ]
     }
   ]
