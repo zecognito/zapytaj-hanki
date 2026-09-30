@@ -1,0 +1,21 @@
+{
+  "id": "in-property-tax-deductions",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IN",
+  "topic": "housing",
+  "subtopic": "property_tax_relief",
+  "title": "Homestead i property-tax deductions w Indianie",
+  "facts": [
+    "Indiana oferuje homestead deduction i inne property-tax deductions dla kwalifikujących się właścicieli nieruchomości.",
+    "Eligibility i wysokość ulgi zależą od rodzaju deduction i sytuacji właściciela.",
+    "Wnioski są powiązane z county-level property tax administration; aktualne wymagania publikuje Indiana Department of Local Government Finance i county officials."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.in.gov/dlgf/deductions-property-tax/"
+  ],
+  "related_public_pages": []
+}
