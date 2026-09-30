@@ -1,0 +1,22 @@
+{
+  "id": "1918-greater-poland-uprising-date",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "27 grudnia 1918 — wybuch powstania wielkopolskiego",
+  "facts": [
+    "27 grudnia 1918 r. rozpoczęło się powstanie wielkopolskie przeciw władzom niemieckim.",
+    "Powstańcy opanowali znaczną część Wielkopolski.",
+    "Powstanie zakończyło się sukcesem, a większość regionu została następnie przyznana Polsce w porządku wersalskim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
