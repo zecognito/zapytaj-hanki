@@ -1,0 +1,34 @@
+{
+  "id": "polonia-insurance-statefarm-cash-detroit-mi",
+  "country": "US",
+  "category": "insurance",
+  "name": "John Cash - State Farm",
+  "status": "active",
+  "location": {
+    "address": "19203 Grand River Avenue",
+    "city": "Detroit",
+    "state": "MI",
+    "postal_code": "48223-1706",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "auto insurance",
+    "homeowners insurance",
+    "renters insurance",
+    "life insurance",
+    "business insurance"
+  ],
+  "phone": "313-537-1200",
+  "email": null,
+  "website": "https://www.statefarm.com/agent/us/mi/detroit/john-cash-082k11ys000",
+  "official_source": "https://www.statefarm.com/agent/us/mi/detroit/john-cash-082k11ys000",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official State Farm office profile explicitly lists Polish among office languages."
+  ]
+}
