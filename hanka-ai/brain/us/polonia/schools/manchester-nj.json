@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-manchester-nj",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Akademia Języka Polskiego - Manchester, NJ",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "3124 Quarry Rd",
+    "city": "Manchester",
+    "state": "NJ",
+    "postal_code": "08759",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 732 278 9026",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "NJ"
+  ],
+  "notes": [
+    "Current ORPEG Polonia-school database record; enrollment and class details should be reconfirmed with the school."
+  ],
+  "official_source": "https://archiwum.orpeg.gov.pl/db/web/database/entry/7091",
+  "last_verified": "2026-09-30"
+}
