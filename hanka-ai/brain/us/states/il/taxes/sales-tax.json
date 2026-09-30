@@ -5,11 +5,11 @@
   "region": "IL",
   "topic": "taxes",
   "subtopic": "sales_tax",
-  "title": "Illinois sales tax structure",
+  "title": "Sales tax w Illinois",
   "facts": [
-    "Illinois sales tax paid by consumers is a combination of state and, where applicable, local taxes.",
-    "The general Illinois state rate on qualifying general merchandise is 6.25%, before applicable local additions.",
-    "Actual combined rates vary by location and by the type of item or transaction."
+    "Sales tax płacony przez konsumenta w Illinois składa się z podatku stanowego oraz — tam, gdzie ma to zastosowanie — podatków lokalnych.",
+    "Ogólna stanowa stawka dla kwalifikujących się general merchandise wynosi 6,25% przed doliczeniem podatków lokalnych.",
+    "Rzeczywista łączna stawka zależy od lokalizacji oraz rodzaju towaru lub transakcji."
   ],
   "effective_from": null,
   "effective_to": null,
