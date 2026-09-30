@@ -1,0 +1,21 @@
+{
+  "id": "country-angola",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Angola",
+  "facts": [
+    "Angola leży w południowo-zachodniej Afryce nad Oceanem Atlantyckim, a jej stolicą jest Luanda.",
+    "Językiem urzędowym jest portugalski, a walutą kwanza.",
+    "Angola jest republiką i znaczącym producentem ropy naftowej; eksklawa Kabinda jest oddzielona od głównej części kraju."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://governo.gov.ao/"
+  ],
+  "related_public_pages": []
+}
