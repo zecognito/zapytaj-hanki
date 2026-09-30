@@ -3,7 +3,7 @@
   "country": "US",
   "state": "MI",
   "language": "pl",
-  "status": "substantial",
+  "status": "v1_complete",
   "last_verified": "2026-09-30",
   "completed_seed_topics": [
     "income_tax",
@@ -15,7 +15,9 @@
     "snap",
     "vehicle_registration",
     "security_deposits",
-    "child_support"
+    "child_support",
+    "new_resident_license",
+    "fair_housing"
   ],
   "reference_state": "IL",
   "target_v1_areas": [
@@ -29,9 +31,10 @@
     "family"
   ],
   "notes": [
+    "State V1 is complete for the national rollout baseline. Additional records are enrichment and should be driven by state-specific user value.",
     "Canonical title and facts are Polish-first; machine identifiers remain English.",
     "Illinois V1 is the reference architecture, but state records must reflect this state's actual laws and administration rather than mechanically copying Illinois.",
     "Local rules remain separate when materially different from statewide rules."
   ],
-  "record_count": 11
+  "record_count": 13
 }
