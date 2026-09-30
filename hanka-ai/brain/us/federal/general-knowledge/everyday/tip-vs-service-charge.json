@@ -1,0 +1,21 @@
+{
+  "id": "tip-vs-service-charge",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday",
+  "subtopic": "tipping",
+  "title": "Tip a service charge",
+  "facts": [
+    "IRS rozróżnia dobrowolny tip od obowiązkowej service charge.",
+    "Aby płatność była tip, klient musi mieć zasadniczo swobodę określenia kwoty i tego, komu ją daje; obowiązkowa opłata ustalona przez firmę jest service charge.",
+    "Automatic gratuity doliczona obowiązkowo do rachunku jest dla celów federalnego podatku traktowana jako service charge, nie dobrowolny tip."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/businesses/small-businesses-self-employed/tip-recordkeeping-and-reporting"
+  ],
+  "related_public_pages": []
+}
