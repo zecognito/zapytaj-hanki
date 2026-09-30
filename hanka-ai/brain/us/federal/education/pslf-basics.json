@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-education-pslf-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "education",
+  "subtopic": "repayment",
+  "title": "Public Service Loan Forgiveness - basics",
+  "facts": [
+    "Public Service Loan Forgiveness (PSLF) can forgive the remaining balance on eligible Direct Loans after a borrower satisfies program requirements, including qualifying employment and 120 qualifying monthly payments.",
+    "PSLF eligibility is based on the employer, not the borrower's job title; qualifying employment generally includes eligible government and not-for-profit employment under program rules.",
+    "Payments do not need to be consecutive, but the borrower must satisfy the program's qualifying-payment and employment rules.",
+    "Private student loans are not eligible for PSLF."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service"
+  ],
+  "related_public_pages": []
+}
