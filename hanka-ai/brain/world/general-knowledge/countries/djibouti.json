@@ -1,0 +1,21 @@
+{
+  "id": "country-djibouti",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Dżibuti",
+  "facts": [
+    "Dżibuti jest niewielkim państwem Rogu Afryki przy cieśninie Bab al-Mandab, łączącej Morze Czerwone z Zatoką Adeńską.",
+    "Stolicą jest Dżibuti, językami urzędowymi są arabski i francuski, a walutą frank dżibutyjski.",
+    "Położenie przy jednym z najważniejszych światowych szlaków żeglugowych nadaje państwu duże znaczenie strategiczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.presidence.dj/"
+  ],
+  "related_public_pages": []
+}
