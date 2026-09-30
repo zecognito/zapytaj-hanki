@@ -1,0 +1,21 @@
+{
+  "id": "country-mali",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Mali",
+  "facts": [
+    "Mali jest rozległym śródlądowym państwem Afryki Zachodniej, którego północna część leży na Saharze.",
+    "Stolicą jest Bamako, a walutą frank CFA Afryki Zachodniej.",
+    "Historyczne miasta Timbuktu i Gao były ważnymi ośrodkami imperiów oraz handlu transsaharyjskiego; współczesne Mali doświadcza długotrwałego kryzysu bezpieczeństwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/africarenewal/magazine/february-2024/mali"
+  ],
+  "related_public_pages": []
+}
