@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-holy-family-mckeesport-pa",
+  "country": "US",
+  "category": "church",
+  "name": "Holy Family Polish National Catholic Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1921 Eden Park Blvd",
+    "city": "McKeesport",
+    "state": "PA",
+    "postal_code": "15132",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 412 678 0566",
+  "email": null,
+  "website": "https://www.hfpncc.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "PA"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish source."
+  ],
+  "official_source": "https://www.hfpncc.org/",
+  "last_verified": "2026-09-30"
+}
