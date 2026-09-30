@@ -1,0 +1,21 @@
+{
+  "id": "country-sweden",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Szwecja",
+  "facts": [
+    "Szwecja leży w Europie Północnej na Półwyspie Skandynawskim, a jej stolicą jest Sztokholm.",
+    "Szwecja jest monarchią konstytucyjną z parlamentarnym systemem rządów; głównym językiem jest szwedzki, a walutą korona szwedzka.",
+    "Szwecja należy do Unii Europejskiej i od 2024 roku do NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sweden.se/life/democracy/swedish-government"
+  ],
+  "related_public_pages": []
+}
