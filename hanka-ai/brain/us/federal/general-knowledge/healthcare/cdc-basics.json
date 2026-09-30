@@ -1,0 +1,21 @@
+{
+  "id": "cdc-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "healthcare",
+  "subtopic": "institutions",
+  "title": "Co to jest CDC?",
+  "facts": [
+    "CDC oznacza Centers for Disease Control and Prevention i jest federalną agencją zdrowia publicznego w ramach U.S. Department of Health and Human Services.",
+    "CDC zajmuje się m.in. surveillance chorób, epidemiologią, prevention, laboratory science i public-health guidance.",
+    "CDC nie jest szpitalem ani health insurance program."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cdc.gov/about/organization/index.html"
+  ],
+  "related_public_pages": []
+}
