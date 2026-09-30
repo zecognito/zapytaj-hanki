@@ -1,0 +1,21 @@
+{
+  "id": "silesia-region",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Śląsk — region historyczny a województwo",
+  "facts": [
+    "Śląsk jest historycznym regionem Europy Środkowej, którego granice nie są identyczne z dzisiejszym województwem śląskim.",
+    "Współczesne województwo śląskie obejmuje również obszary historycznie należące do innych regionów, a części historycznego Śląska znajdują się m.in. w województwach dolnośląskim i opolskim.",
+    "Przy pytaniach o Śląsk Hanka powinna rozróżniać region historyczny od jednostki administracyjnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/a/przeczytaj/D9KlXPvMu"
+  ],
+  "related_public_pages": []
+}
