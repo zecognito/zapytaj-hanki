@@ -1,0 +1,21 @@
+{
+  "id": "aleksander-wolszczan",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Aleksander Wolszczan",
+  "facts": [
+    "Aleksander Wolszczan jest polskim astronomem związanym także z nauką w Stanach Zjednoczonych.",
+    "Jego obserwacje pulsara PSR B1257+12 doprowadziły do odkrycia planet poza Układem Słonecznym.",
+    "Odkrycie było jednym z przełomowych momentów w historii badań egzoplanet."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://science.nasa.gov/universe/exoplanets/discovery-alerts/"
+  ],
+  "related_public_pages": []
+}
