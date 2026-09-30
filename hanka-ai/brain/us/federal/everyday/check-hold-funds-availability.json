@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-check-holds-funds-availability",
+  "subtopic": "banking_payments",
+  "title": "Dlaczego bank trzyma czek — funds availability",
+  "facts": [
+    "Regulation CC i Expedited Funds Availability Act określają federalne zasady dotyczące dostępności środków z wielu depozytów czekowych.",
+    "Bank może w określonych sytuacjach zastosować dłuższy hold, m.in. dla large deposits, nowych rachunków, redeposited checks, repeatedly overdrawn accounts lub gdy istnieje reasonable cause to doubt collectibility.",
+    "Bank powinien przekazywać klientowi informacje o swojej funds-availability policy, a przy niektórych exception holds także odpowiednie notice.",
+    "Widoczna kwota na koncie lub tymczasowa dostępność środków nie oznacza, że czek ostatecznie nie może zostać zwrócony jako unpaid."
+  ],
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/how-long-can-a-bank-or-credit-union-hold-funds-i-deposited-en-1023/",
+    "https://www.federalreserve.gov/supervisionreg/guide-regulation-cc-compliance.htm"
+  ]
+}
