@@ -1,0 +1,33 @@
+{
+  "id": "polonia-prof-dentist-polish-dental-center-chicago-il",
+  "country": "US",
+  "category": "dentist",
+  "name": "Polish Dental Center",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "general dentistry",
+    "family dentistry",
+    "preventive dentistry",
+    "restorative dentistry"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://polishdentalcenter.com/",
+  "official_source": "https://polishdentalcenter.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Practice explicitly presents itself as serving Polish-speaking patients. Exact street address withheld pending first-party confirmation."
+  ]
+}
