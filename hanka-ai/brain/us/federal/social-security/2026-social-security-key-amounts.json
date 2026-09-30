@@ -1,0 +1,29 @@
+{
+  "id": "us-federal-social-security-key-amounts-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "social_security",
+  "subtopic": "annual_limits",
+  "title": "Social Security — najważniejsze kwoty i limity 2026",
+  "facts": [
+    "COLA dla Social Security i SSI na 2026 wynosi 2.8%.",
+    "Maksymalna kwota zarobków podlegająca podatkowi Social Security (OASDI taxable maximum) w 2026 wynosi $184,500.",
+    "Stawka OASDI dla pracownika i pracodawcy wynosi po 6.2% do taxable maximum; dla self-employment wynosi 12.4%.",
+    "W 2026 jeden Social Security credit (quarter of coverage) wymaga $1,890 zarobków.",
+    "Dla osoby poniżej full retirement age przez cały 2026 earnings limit wynosi $24,480; świadczenie jest pomniejszane o $1 za każde $2 zarobione ponad limit.",
+    "Dla osoby osiągającej full retirement age w 2026 limit przed miesiącem osiągnięcia FRA wynosi $65,160; świadczenie jest pomniejszane o $1 za każde $3 ponad limit.",
+    "Od miesiąca osiągnięcia full retirement age earnings limit nie obowiązuje."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/cola/factsheets/2026.html",
+    "https://www.ssa.gov/oact/COLA/cbb.html"
+  ],
+  "related_public_pages": [
+    "https://zapytajhanki.com/emerytura/social-security/",
+    "https://zapytajhanki.com/emerytura/social-security-credits/"
+  ]
+}
