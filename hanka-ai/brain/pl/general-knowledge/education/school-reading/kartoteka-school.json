@@ -1,0 +1,21 @@
+{
+  "id": "kartoteka-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Kartoteka — Tadeusz Różewicz",
+  "facts": [
+    "Kartoteka, autor: Tadeusz Różewicz; tekst szkolnego kanonu z obszaru: dramat powojenny.",
+    "Dramat o bezimiennym Bohaterze, którego biografia i wspomnienia pojawiają się fragmentarycznie; utwór odchodzi od klasycznej konstrukcji dramatu.",
+    "Hanka powinna znać kontekst utworu, jego główne motywy, problematykę oraz najważniejsze szkolne tropy interpretacyjne."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
