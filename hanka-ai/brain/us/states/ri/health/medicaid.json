@@ -1,0 +1,21 @@
+{
+  "id": "ri-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "RI",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Rhode Island Medicaid",
+  "facts": [
+    "Stan prowadzi lub reguluje ten program albo obowiązek zgodnie z własnymi przepisami.",
+    "Eligibility, wymagania lub procedura zależą od konkretnej sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle stanowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://eohhs.ri.gov/consumer/health-care/medicaid"
+  ],
+  "related_public_pages": []
+}
