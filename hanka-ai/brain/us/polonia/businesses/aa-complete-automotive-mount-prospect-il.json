@@ -1,0 +1,35 @@
+{
+  "id": "polonia-prof-mechanic-aa-mount-prospect-il",
+  "country": "US",
+  "category": "mechanic",
+  "name": "A & A Complete Automotive Repair",
+  "status": "active",
+  "location": {
+    "address": "1805 S Busse Rd",
+    "city": "Mount Prospect",
+    "state": "IL",
+    "postal_code": "60056",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es",
+    "it"
+  ],
+  "services": [
+    "auto repair",
+    "computer diagnostics",
+    "scheduled maintenance",
+    "general mechanical repair"
+  ],
+  "phone": "+1 847-437-2177",
+  "email": "aacompleteautomotive@gmail.com",
+  "website": "https://aacompleteautomotive.com/",
+  "official_source": "https://aacompleteautomotive.com/contact-us/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official shop site explicitly states Mowimy Po Polsku and provides current Mount Prospect contact details."
+  ]
+}
