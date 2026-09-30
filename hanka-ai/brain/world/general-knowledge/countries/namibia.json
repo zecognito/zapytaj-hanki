@@ -1,0 +1,21 @@
+{
+  "id": "country-namibia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Namibia",
+  "facts": [
+    "Namibia leży w południowo-zachodniej Afryce nad Oceanem Atlantyckim, a jej stolicą jest Windhuk.",
+    "Językiem urzędowym jest angielski, a walutą dolar namibijski.",
+    "Namibia obejmuje pustynię Namib, jedną z najstarszych pustyń świata, oraz należy do najrzadziej zaludnionych państw."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.na/"
+  ],
+  "related_public_pages": []
+}
