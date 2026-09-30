@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-us-school-records-for-poland",
+  "subtopic": "children_return_poland",
+  "title": "Dokumenty ze szkoły w USA przy przeprowadzce dziecka do Polski",
+  "facts": [
+    "Przy przeprowadzce dziecka z USA do Polski warto uzyskać oficjalną dokumentację przebiegu nauki, ponieważ polska szkoła może wykorzystywać dokumenty wydane przez szkołę zagraniczną do ustalenia klasy i dotychczasowego kształcenia.",
+    "Wymagania dotyczące tłumaczeń lub dodatkowych dokumentów zależą od polskiej procedury i rodzaju szkoły; nie należy zakładać, że amerykański transcript ma zawsze taki sam status jak polskie świadectwo.",
+    "FERPA reguluje dostęp i ujawnianie amerykańskich education records, ale nie ustala zasad przyjęcia ucznia do szkoły w Polsce."
+  ],
+  "official_sources": [
+    "https://www.gov.pl/web/edukacja/ksztalcenie-osob-przybywajacych-z-zagranicy",
+    "https://studentprivacy.ed.gov/ferpa"
+  ]
+}
