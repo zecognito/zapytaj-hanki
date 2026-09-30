@@ -1,0 +1,21 @@
+{
+  "id": "polish-wedding-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Polskie wesele — podstawowe zwyczaje",
+  "facts": [
+    "Polskie wesela często obejmują wielogodzinne przyjęcie z jedzeniem, muzyką i tańcem, ale forma uroczystości bardzo się różni.",
+    "Do tradycyjnych elementów mogą należeć powitanie chlebem i solą, pierwszy taniec oraz oczepiny.",
+    "Żaden z tych zwyczajów nie jest obowiązkowy i współczesne pary często je modyfikują lub pomijają."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/a-foreigners-guide-to-polish-weddings"
+  ],
+  "related_public_pages": []
+}
