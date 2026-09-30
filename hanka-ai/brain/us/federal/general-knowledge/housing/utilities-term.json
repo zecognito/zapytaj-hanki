@@ -1,0 +1,21 @@
+{
+  "id": "utilities-term",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "housing",
+  "subtopic": "housing_terms",
+  "title": "Co oznacza utilities?",
+  "facts": [
+    "Utilities w kontekście mieszkania oznaczają usługi takie jak electricity, natural gas, water, sewer i czasem trash service.",
+    "Internet i cable bywają potocznie grupowane z utilities, choć są odrębnymi usługami telekomunikacyjnymi.",
+    "To, które utilities są included in rent, zależy od konkretnego lease."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/help-with-utility-bills"
+  ],
+  "related_public_pages": []
+}
