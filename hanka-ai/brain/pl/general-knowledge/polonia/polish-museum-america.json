@@ -1,0 +1,21 @@
+{
+  "id": "polish-museum-america",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL-US",
+  "topic": "polonia",
+  "subtopic": "institutions",
+  "title": "Polish Museum of America w Chicago",
+  "facts": [
+    "Polish Museum of America w Chicago gromadzi i prezentuje materiały dotyczące historii Polski i Polonii w Stanach Zjednoczonych.",
+    "Muzeum zostało utworzone w latach 1930. i należy do ważnych polonijnych instytucji historycznych w USA.",
+    "Jego zbiory obejmują archiwa, sztukę i pamiątki związane z polskim i polsko-amerykańskim dziedzictwem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.polishmuseumofamerica.org/"
+  ],
+  "related_public_pages": []
+}
