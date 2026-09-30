@@ -1,0 +1,21 @@
+{
+  "id": "henryk-sienkiewicz-depth",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "notable-people",
+  "title": "Henryk Sienkiewicz — Nobel",
+  "facts": [
+    "Henryk Sienkiewicz był polskim pisarzem i publicystą, autorem m.in. „Quo vadis”, „Trylogii” i „W pustyni i w puszczy”.",
+    "Otrzymał Literacką Nagrodę Nobla w 1905 r.",
+    "Jego powieści historyczne odegrały dużą rolę w polskiej kulturze okresu zaborów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nobelprize.org/"
+  ],
+  "related_public_pages": []
+}
