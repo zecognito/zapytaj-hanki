@@ -5,11 +5,11 @@
   "region": "IL",
   "topic": "housing",
   "subtopic": "eviction",
-  "title": "Illinois eviction basics",
+  "title": "Podstawowe zasady eviction w Illinois",
   "facts": [
-    "A landlord generally cannot lawfully remove an Illinois tenant without using the court eviction process and obtaining an enforceable eviction order.",
-    "Required notice depends on the reason for termination, such as nonpayment or another lease issue.",
-    "Only the sheriff may carry out a court-ordered residential eviction; landlords may not use self-help measures such as changing locks to bypass the court process."
+    "Landlord w Illinois zasadniczo nie może legalnie usunąć lokatora bez przeprowadzenia sądowego procesu eviction i uzyskania wykonalnego nakazu.",
+    "Wymagany notice zależy od powodu zakończenia najmu, np. braku zapłaty czynszu lub innego naruszenia lease.",
+    "Sądową eksmisję z lokalu mieszkalnego wykonuje sheriff; landlord nie może ominąć sądu poprzez działania typu samodzielna zmiana zamków."
   ],
   "effective_from": null,
   "effective_to": null,
