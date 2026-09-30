@@ -1,0 +1,35 @@
+{
+  "id": "polonia-prof-dentist-portage-park-chicago-il",
+  "country": "US",
+  "category": "dentist",
+  "name": "Portage Park Dental",
+  "status": "active",
+  "location": {
+    "address": "5613 W Irving Park Rd",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60634",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "general dentistry",
+    "cosmetic dentistry",
+    "dental implants",
+    "dentures",
+    "Invisalign",
+    "oral surgery"
+  ],
+  "phone": "+1 773-286-4030",
+  "email": null,
+  "website": "https://portageparkdental.com/",
+  "official_source": "https://portageparkdental.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official practice site explicitly states Mówimy Po Polsku and lists Polish-speaking team members."
+  ]
+}
