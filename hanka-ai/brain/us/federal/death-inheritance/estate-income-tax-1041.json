@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-death-estate-form1041",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "death_inheritance",
+  "subtopic": "estate_tax_admin",
+  "title": "Estate income tax return - Form 1041 basics",
+  "facts": [
+    "An estate can have a federal income-tax filing obligation on Form 1041 when it meets applicable filing thresholds or circumstances.",
+    "Estate income tax is different from federal estate tax: Form 1041 generally concerns income earned by the estate after death, while estate tax concerns transfers of wealth under separate rules.",
+    "Income distributed to beneficiaries can carry tax reporting consequences through Schedule K-1 under applicable rules.",
+    "The executor or fiduciary should distinguish income earned before death, estate income after death and income distributed to beneficiaries."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/forms-pubs/about-form-1041"
+  ],
+  "related_public_pages": []
+}
