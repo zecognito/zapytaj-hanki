@@ -1,0 +1,21 @@
+{
+  "id": "mile-marker",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Co to jest mile marker?",
+  "facts": [
+    "Mile marker/milepost wskazuje pozycję wzdłuż drogi według systemu milowego danej trasy.",
+    "Może pomagać w określaniu lokalizacji podczas awarii lub zgłoszenia służbom.",
+    "Sposób numerowania zależy od drogi i jurysdykcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fhwa.dot.gov/traffic/"
+  ],
+  "related_public_pages": []
+}
