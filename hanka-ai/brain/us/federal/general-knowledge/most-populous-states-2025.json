@@ -1,0 +1,22 @@
+{
+  "id": "most-populous-states-2025",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "population",
+  "subtopic": "state_population_ranking",
+  "title": "Najludniejsze stany USA — 2025",
+  "facts": [
+    "Według Vintage 2025 najludniejszym stanem była California: 39 355 309 mieszkańców.",
+    "Kolejne były Texas 31 709 821, Florida 23 462 518 i New York 20 002 427.",
+    "Illinois zajmowało 6. miejsce z 12 719 141 mieszkańcami.",
+    "Dane odnoszą się do 1 lipca 2025 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/newsroom/press-releases/2026/population-growth-slows.html"
+  ],
+  "related_public_pages": []
+}
