@@ -1,0 +1,21 @@
+{
+  "id": "wi-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WI",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Wisconsin",
+  "facts": [
+    "Nowy mieszkaniec Wisconsin powinien złożyć wniosek o Wisconsin title i registration dla kwalifikującego się pojazdu.",
+    "Wymagania obejmują odpowiednie informacje o ownership i pojeździe oraz należne fees/taxes.",
+    "Wisconsin DMV udostępnia procedury title/registration dla pojazdów wcześniej zarejestrowanych w innym stanie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/new-res-default.aspx"
+  ],
+  "related_public_pages": []
+}
