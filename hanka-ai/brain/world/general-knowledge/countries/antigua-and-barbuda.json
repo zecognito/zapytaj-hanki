@@ -1,0 +1,21 @@
+{
+  "id": "country-antigua-and-barbuda",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Antigua i Barbuda",
+  "facts": [
+    "Antigua i Barbuda jest wyspiarskim państwem Karaibów w archipelagu Małych Antyli.",
+    "Stolicą jest Saint John's, językiem urzędowym angielski, a walutą dolar wschodniokaraibski.",
+    "Państwo jest monarchią konstytucyjną oraz członkiem CARICOM i Wspólnoty Narodów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ab.gov.ag/"
+  ],
+  "related_public_pages": []
+}
