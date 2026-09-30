@@ -1,0 +1,32 @@
+{
+  "id": "polonia-prof-other-paccm-network-mi",
+  "country": "US",
+  "category": "other_business",
+  "name": "Polish-American Chamber of Commerce Michigan Business Network",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Detroit metropolitan area",
+    "state": "MI",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "business referrals",
+    "professional networking",
+    "Polish-American business connections"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://polishamericanbusiness.com/",
+  "official_source": "https://polishamericanbusiness.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Current first-party Polish-American business organization resource. Stored as a referral/network infrastructure record, not as an individual regulated professional."
+  ]
+}
