@@ -1,0 +1,21 @@
+{
+  "id": "academic-year-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "higher_education",
+  "title": "Rok akademicki w Polsce",
+  "facts": [
+    "Rok akademicki na polskich uczelniach zwykle rozpoczyna się jesienią i jest podzielony na semestry.",
+    "Organizacja zajęć, sesji egzaminacyjnych i przerw zależy od uczelni.",
+    "Przy pytaniu o konkretne terminy Hanka powinna sprawdzać kalendarz danej uczelni."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/nauka"
+  ],
+  "related_public_pages": []
+}
