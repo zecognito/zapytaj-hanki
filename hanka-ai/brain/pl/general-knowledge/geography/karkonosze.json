@@ -1,0 +1,21 @@
+{
+  "id": "karkonosze",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "mountains",
+  "title": "Karkonosze",
+  "facts": [
+    "Karkonosze są najwyższym pasmem Sudetów i leżą na pograniczu Polski i Czech.",
+    "Najwyższym szczytem jest Śnieżka.",
+    "Polska część najcenniejszego obszaru jest chroniona przez Karkonoski Park Narodowy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://kpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
