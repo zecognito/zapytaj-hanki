@@ -1,0 +1,21 @@
+{
+  "id": "polish-symbols-constitution",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "constitution",
+  "title": "Symbole Polski w Konstytucji",
+  "facts": [
+    "Konstytucja RP określa godło, barwy i hymn Rzeczypospolitej Polskiej.",
+    "Art. 28 wskazuje Orła Białego w koronie jako godło, biały i czerwony jako barwy oraz Mazurek Dąbrowskiego jako hymn.",
+    "Szczegóły dotyczące symboli państwowych określa ustawa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sejm.gov.pl/prawo/konst/polski/1.htm"
+  ],
+  "related_public_pages": []
+}
