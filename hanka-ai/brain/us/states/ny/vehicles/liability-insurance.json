@@ -1,0 +1,21 @@
+{
+  "id": "ny-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NY",
+  "topic": "vehicles",
+  "subtopic": "insurance",
+  "title": "Obowiązkowe ubezpieczenie samochodu w New York",
+  "facts": [
+    "Pojazd zarejestrowany w New York musi mieć wymagane przez stan auto liability insurance utrzymywane przez cały okres ważności rejestracji.",
+    "New York wymaga m.in. bodily injury liability, property damage liability oraz no-fault/PIP zgodnie z prawem stanowym.",
+    "Przerwa w wymaganym ubezpieczeniu może prowadzić do zawieszenia registration i driver license."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dmv.ny.gov/insurance/insurance-requirements"
+  ],
+  "related_public_pages": []
+}
