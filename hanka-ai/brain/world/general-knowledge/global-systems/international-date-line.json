@@ -1,0 +1,21 @@
+{
+  "id": "international-date-line",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "global-systems",
+  "subtopic": "time",
+  "title": "Międzynarodowa linia zmiany daty",
+  "facts": [
+    "Międzynarodowa linia zmiany daty przebiega w przybliżeniu wzdłuż południka 180° na Oceanie Spokojnym.",
+    "Przekroczenie jej w kierunku zachodnim oznacza przejście do następnego dnia kalendarzowego, a w kierunku wschodnim — do poprzedniego.",
+    "Linia nie jest idealnie prosta, ponieważ omija niektóre państwa i archipelagi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.britannica.com/science/International-Date-Line"
+  ],
+  "related_public_pages": []
+}
