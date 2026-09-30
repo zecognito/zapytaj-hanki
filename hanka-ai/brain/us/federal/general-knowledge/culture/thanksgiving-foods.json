@@ -1,0 +1,21 @@
+{
+  "id": "thanksgiving-foods",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Typowe jedzenie na Thanksgiving",
+  "facts": [
+    "Thanksgiving meal często obejmuje turkey, stuffing lub dressing, potatoes, cranberry sauce i inne regionalne side dishes.",
+    "Pumpkin pie jest silnie kojarzone z Thanksgiving, ale menu rodzinne i regionalne znacznie się różni.",
+    "Żadne konkretne menu nie jest wymagane do obchodzenia Thanksgiving."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.si.edu/spotlight/thanksgiving"
+  ],
+  "related_public_pages": []
+}
