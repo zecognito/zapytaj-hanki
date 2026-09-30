@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-benefits-snap-work-requirements",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "benefits",
+  "subtopic": "snap_federal_rules",
+  "title": "SNAP work requirements - federal basics",
+  "facts": [
+    "SNAP has general work requirements for certain participants and separate time-limit/work rules for some adults unless an exemption applies.",
+    "Federal SNAP work rules have changed through legislation and implementation updates, so age ranges and exemptions must be checked against current USDA guidance before giving a specific eligibility conclusion.",
+    "States administer compliance and may have approved waivers in qualifying areas.",
+    "A person should not be told they are ineligible solely from a generic work-rule summary without checking exemptions and current state administration."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fns.usda.gov/snap/work-requirements"
+  ],
+  "related_public_pages": []
+}
