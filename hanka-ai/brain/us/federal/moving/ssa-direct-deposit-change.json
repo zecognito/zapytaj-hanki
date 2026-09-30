@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-moving-ssa-direct-deposit",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "moving_life_admin",
+  "subtopic": "ssa_admin",
+  "title": "Changing Social Security direct deposit",
+  "facts": [
+    "Social Security beneficiaries can generally change direct-deposit information through supported SSA methods, including applicable online account services.",
+    "Changing a mailing address does not automatically change the bank account used for benefit payments.",
+    "Beneficiaries should guard bank-account information and use official SSA channels because benefit-payment changes are a target for fraud.",
+    "Timing matters when closing an old account; beneficiaries should avoid assuming the next payment will automatically reach a newly opened account."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/manage-benefits/update-direct-deposit"
+  ],
+  "related_public_pages": []
+}
