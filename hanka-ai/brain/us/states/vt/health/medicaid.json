@@ -1,0 +1,21 @@
+{
+  "id": "vt-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VT",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "medicaid — Vermont",
+  "facts": [
+    "Stan prowadzi lub reguluje ten program albo obowiązek.",
+    "Wymagania zależą od sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dvha.vermont.gov/"
+  ],
+  "related_public_pages": []
+}
