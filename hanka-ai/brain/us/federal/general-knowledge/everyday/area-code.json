@@ -1,0 +1,21 @@
+{
+  "id": "area-code",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "communications",
+  "subtopic": "phone_numbers",
+  "title": "Co to jest area code?",
+  "facts": [
+    "Area code to pierwsze trzy cyfry 10-cyfrowego numeru NANP.",
+    "Jeden obszar geograficzny może mieć kilka area codes, w tym overlay codes.",
+    "Area code nie jest niezawodnym dowodem aktualnego miejsca zamieszkania osoby, ponieważ numer telefonu można zachować po przeprowadzce."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nationalnanpa.com/area_codes/"
+  ],
+  "related_public_pages": []
+}
