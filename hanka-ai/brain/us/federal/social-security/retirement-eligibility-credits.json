@@ -1,0 +1,24 @@
+{
+  "id": "us-federal-social-security-retirement-eligibility-credits",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "social_security",
+  "subtopic": "credits",
+  "title": "Social Security retirement — credits i podstawowa kwalifikacja",
+  "facts": [
+    "Do Social Security retirement benefits zasadniczo potrzeba 40 credits.",
+    "Można zdobyć maksymalnie 4 Social Security credits w jednym roku.",
+    "Liczba earnings potrzebna do jednego credit zmienia się co roku; w 2026 wynosi $1,890.",
+    "Liczba credits nie zwiększa sama w sobie wysokości retirement benefit po uzyskaniu wymaganej kwalifikacji; benefit jest obliczany na podstawie earnings record według zasad SSA."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.ssa.gov/faqs/en/questions/KA-02459.html"
+  ],
+  "related_public_pages": [
+    "https://zapytajhanki.com/emerytura/social-security-credits/"
+  ]
+}
