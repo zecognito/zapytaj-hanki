@@ -1,0 +1,21 @@
+{
+  "id": "united-nations-basics",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "international",
+  "subtopic": "organizations",
+  "title": "Organizacja Narodów Zjednoczonych — ONZ",
+  "facts": [
+    "Organizacja Narodów Zjednoczonych powstała w 1945 roku po II wojnie światowej.",
+    "ONZ ma 193 państwa członkowskie, a jej główna siedziba znajduje się w Nowym Jorku.",
+    "Do głównych organów ONZ należą m.in. Zgromadzenie Ogólne, Rada Bezpieczeństwa, Rada Gospodarcza i Społeczna, Międzynarodowy Trybunał Sprawiedliwości i Sekretariat."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/en/about-us"
+  ],
+  "related_public_pages": []
+}
