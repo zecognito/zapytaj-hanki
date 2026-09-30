@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-benefits-tanf-time-limit",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "benefits",
+  "subtopic": "tanf_federal_framework",
+  "title": "TANF federal time-limit framework",
+  "facts": [
+    "Federal TANF rules generally prohibit using federal TANF assistance for a family that includes an adult who has received federally funded assistance for 60 cumulative months, subject to statutory exceptions and hardship provisions.",
+    "States may set shorter limits under state policy and may use certain state funds under different rules.",
+    "The 60-month federal framework is not a promise that every family can receive 60 months of cash assistance."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://acf.gov/ofa/policy-guidance/tanf-acf-pi-1997-01"
+  ],
+  "related_public_pages": []
+}
