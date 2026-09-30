@@ -1,0 +1,21 @@
+{
+  "id": "pulaski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "people",
+  "title": "Kazimierz Pułaski",
+  "facts": [
+    "Kazimierz Pułaski był polskim dowódcą wojskowym, który walczył po stronie amerykańskiej podczas Revolutionary War.",
+    "Jest silnie kojarzony z rozwojem amerykańskiej cavalry i bywa nazywany Father of the American Cavalry.",
+    "Został śmiertelnie ranny podczas działań pod Savannah w 1779 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/fopu/learn/historyculture/casimir-pulaski.htm"
+  ],
+  "related_public_pages": []
+}
