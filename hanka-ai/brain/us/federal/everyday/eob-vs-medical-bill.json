@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-eob-vs-medical-bill",
+  "subtopic": "medical_billing",
+  "title": "Explanation of Benefits a rachunek medyczny",
+  "facts": [
+    "Explanation of Benefits (EOB) jest informacją od health plan o przetworzeniu claim i nie jest tym samym co rachunek wystawiony przez provider lub facility.",
+    "Przed zapłatą warto porównać bill z EOB, aby sprawdzić usługi, kwoty zapłacone przez plan i patient responsibility.",
+    "Pacjent może otrzymać więcej niż jeden EOB lub bill, jeśli w leczeniu uczestniczyło kilka podmiotów lub usługi odbyły się w różnych terminach."
+  ],
+  "official_sources": [
+    "https://www.cms.gov/initiatives/your-patient-rights/medical-bill-rights/get-help/medical-bill-guides-resources/how-read-your-medical-bill",
+    "https://www.cms.gov/initiatives/your-patient-rights/medical-bill-rights/get-help/medical-bill-guides-resources/health-insurance-terms-you-should-know"
+  ]
+}
