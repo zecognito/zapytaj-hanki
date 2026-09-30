@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-housing-mortgage-servicing-errors",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "housing_mortgages",
+  "subtopic": "mortgage_servicing",
+  "title": "Mortgage servicing errors and information requests",
+  "facts": [
+    "Federal Regulation X provides procedures for borrowers to notify covered mortgage servicers of specified servicing errors and request certain information.",
+    "A written notice should identify the borrower and account and describe the error or information requested with enough detail for the servicer to investigate.",
+    "Servicers generally have acknowledgment and response deadlines under federal rules, with timing varying by request type and circumstances.",
+    "Borrowers should use the servicer's designated address for notices of error or information requests when one has been properly designated."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/rules-policy/regulations/1024/35/",
+    "https://www.consumerfinance.gov/rules-policy/regulations/1024/36/"
+  ],
+  "related_public_pages": []
+}
