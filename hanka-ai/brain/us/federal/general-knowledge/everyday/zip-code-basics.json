@@ -1,0 +1,21 @@
+{
+  "id": "zip-code-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "communications",
+  "subtopic": "addresses",
+  "title": "Co to jest ZIP Code?",
+  "facts": [
+    "ZIP Code jest kodem pocztowym USPS służącym kierowaniu i dostarczaniu poczty.",
+    "Podstawowy ZIP Code ma 5 cyfr; ZIP+4 dodaje cztery cyfry po myślniku dla bardziej precyzyjnego kierowania.",
+    "ZIP Code nie jest granicą miasta, county ani inną jednostką administracyjną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://about.usps.com/publications/pub32/pub32_terms.htm"
+  ],
+  "related_public_pages": []
+}
