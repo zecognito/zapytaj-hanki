@@ -1,0 +1,21 @@
+{
+  "id": "country-jordan",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Jordania",
+  "facts": [
+    "Jordania leży w Azji Zachodniej, a jej stolicą jest Amman.",
+    "Językiem urzędowym jest arabski, a walutą dinar jordański.",
+    "Jordania jest monarchią konstytucyjną; na jej terytorium znajdują się m.in. Petra i część wybrzeża Morza Martwego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.jordan.gov.jo/"
+  ],
+  "related_public_pages": []
+}
