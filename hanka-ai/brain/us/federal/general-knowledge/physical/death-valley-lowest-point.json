@@ -1,0 +1,21 @@
+{
+  "id": "death-valley-lowest-point",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "elevation",
+  "title": "Najniższy punkt USA — Badwater Basin",
+  "facts": [
+    "Badwater Basin w Death Valley National Park w California jest najniższym punktem Ameryki Północnej.",
+    "Leży około 282 stóp poniżej poziomu morza.",
+    "Death Valley jest także znane z ekstremalnych temperatur."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/deva/learn/nature/badwater.htm"
+  ],
+  "related_public_pages": []
+}
