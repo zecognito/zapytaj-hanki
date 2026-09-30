@@ -1,0 +1,21 @@
+{
+  "id": "bartosz-kurek",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "modern-sports",
+  "title": "Bartosz Kurek",
+  "facts": [
+    "Bartosz Kurek jest polskim siatkarzem i wieloletnim reprezentantem Polski.",
+    "Był ważną postacią reprezentacji, która zdobyła mistrzostwo świata w 2018 r.",
+    "Na mundialu 2018 został wybrany najbardziej wartościowym zawodnikiem turnieju."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fivb.com/"
+  ],
+  "related_public_pages": []
+}
