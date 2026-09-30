@@ -1,0 +1,225 @@
+{
+  "version": 1,
+  "country": "US",
+  "scope": "federal",
+  "description": "Coverage map for permanent Hanka Brain federal knowledge. Status tracks canonical compact records, not public website pages.",
+  "topics": [
+    {
+      "id": "taxes",
+      "label": "Podatki federalne / IRS",
+      "status": "planned",
+      "subtopics": [
+        "filing_status",
+        "standard_deduction",
+        "tax_brackets",
+        "credits",
+        "estimated_taxes",
+        "self_employment_tax",
+        "deadlines",
+        "refunds",
+        "irs_transcripts"
+      ]
+    },
+    {
+      "id": "retirement",
+      "label": "Emerytura",
+      "status": "started",
+      "subtopics": [
+        "401k",
+        "ira",
+        "roth_ira",
+        "403b",
+        "457",
+        "tsp",
+        "contribution_limits",
+        "rollovers",
+        "rmd"
+      ]
+    },
+    {
+      "id": "social_security",
+      "label": "Social Security",
+      "status": "started",
+      "subtopics": [
+        "credits",
+        "retirement_benefits",
+        "full_retirement_age",
+        "earnings_test",
+        "cola",
+        "taxable_maximum",
+        "survivor_benefits",
+        "disability",
+        "ssi"
+      ]
+    },
+    {
+      "id": "medicare",
+      "label": "Medicare",
+      "status": "started",
+      "subtopics": [
+        "eligibility",
+        "part_a",
+        "part_b",
+        "part_c",
+        "part_d",
+        "enrollment",
+        "premiums",
+        "deductibles",
+        "irmaa",
+        "penalties"
+      ]
+    },
+    {
+      "id": "employment",
+      "label": "Federalne prawo pracy",
+      "status": "planned",
+      "subtopics": [
+        "minimum_wage",
+        "overtime",
+        "flsa",
+        "fmla",
+        "eeoc",
+        "osha",
+        "independent_contractor"
+      ]
+    },
+    {
+      "id": "immigration",
+      "label": "Imigracja",
+      "status": "planned",
+      "subtopics": [
+        "green_card",
+        "citizenship",
+        "naturalization",
+        "work_authorization",
+        "travel_documents",
+        "change_of_address"
+      ]
+    },
+    {
+      "id": "documents",
+      "label": "Dokumenty federalne",
+      "status": "planned",
+      "subtopics": [
+        "social_security_number",
+        "passport",
+        "real_id_federal_rules",
+        "identity_theft"
+      ]
+    },
+    {
+      "id": "benefits",
+      "label": "Programy i świadczenia",
+      "status": "planned",
+      "subtopics": [
+        "ssi",
+        "snap_federal_rules",
+        "wic_federal_rules",
+        "tanf_federal_framework",
+        "liheap",
+        "unemployment_federal_framework"
+      ]
+    },
+    {
+      "id": "healthcare",
+      "label": "Zdrowie i ubezpieczenie",
+      "status": "planned",
+      "subtopics": [
+        "aca",
+        "marketplace",
+        "cobra",
+        "medicaid_federal_framework",
+        "chip_federal_framework",
+        "hsa"
+      ]
+    },
+    {
+      "id": "education",
+      "label": "Edukacja i pomoc studencka",
+      "status": "planned",
+      "subtopics": [
+        "fafsa",
+        "pell_grant",
+        "federal_student_loans",
+        "repayment",
+        "ferpa",
+        "title_ix"
+      ]
+    },
+    {
+      "id": "credit_banking",
+      "label": "Kredyt i bankowość",
+      "status": "planned",
+      "subtopics": [
+        "credit_reports",
+        "fcra",
+        "ecoa",
+        "fdic",
+        "ncua",
+        "bankruptcy_basics",
+        "debt_collection"
+      ]
+    },
+    {
+      "id": "housing",
+      "label": "Dom i mortgage",
+      "status": "planned",
+      "subtopics": [
+        "fha",
+        "va",
+        "usda",
+        "fair_housing",
+        "respa",
+        "tila",
+        "mortgage_disclosures"
+      ]
+    },
+    {
+      "id": "consumer",
+      "label": "Ochrona konsumenta",
+      "status": "planned",
+      "subtopics": [
+        "ftc",
+        "cfpb",
+        "scams",
+        "identity_theft",
+        "warranties"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Rodzina",
+      "status": "planned",
+      "subtopics": [
+        "child_tax_credit",
+        "dependent_care",
+        "adoption_tax_credit",
+        "federal_child_support_framework"
+      ]
+    },
+    {
+      "id": "travel",
+      "label": "Podróże i granica",
+      "status": "planned",
+      "subtopics": [
+        "tsa",
+        "customs",
+        "global_entry",
+        "passport",
+        "international_travel"
+      ]
+    },
+    {
+      "id": "poland_usa",
+      "label": "Polska ↔ USA",
+      "status": "planned",
+      "subtopics": [
+        "social_security_agreement",
+        "tax_treaty",
+        "pensions",
+        "documents",
+        "travel"
+      ]
+    }
+  ]
+}
