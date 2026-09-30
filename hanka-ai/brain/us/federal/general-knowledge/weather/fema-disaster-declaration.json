@@ -1,0 +1,21 @@
+{
+  "id": "fema-disaster-declaration",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "weather",
+  "subtopic": "disasters",
+  "title": "Co oznacza federal disaster declaration?",
+  "facts": [
+    "Presidential disaster declaration może uruchomić określone federalne programy pomocy po zdarzeniu przekraczającym możliwości stanowe/lokalne zgodnie z Stafford Act.",
+    "Nie każda burza, powódź lub tornado otrzymuje federal disaster declaration.",
+    "Rodzaje dostępnej pomocy zależą od konkretnej deklaracji i wyznaczonych counties/areas."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fema.gov/disaster/how-declared"
+  ],
+  "related_public_pages": []
+}
