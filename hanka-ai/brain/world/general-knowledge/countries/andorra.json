@@ -1,0 +1,21 @@
+{
+  "id": "country-andorra",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Andora",
+  "facts": [
+    "Andora jest małym śródlądowym państwem w Pirenejach między Francją a Hiszpanią.",
+    "Stolicą jest Andorra la Vella, językiem urzędowym kataloński, a używaną walutą euro.",
+    "Andora jest współksięstwem parlamentarnym, którego głowami państwa są współksiążęta."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.govern.ad/"
+  ],
+  "related_public_pages": []
+}
