@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-remittance-transfers",
+  "subtopic": "money_transfers",
+  "title": "Przelewy konsumenckie USA → Polska",
+  "facts": [
+    "Federal Remittance Transfer Rule chroni wiele konsumenckich transferów pieniężnych wysyłanych z USA do odbiorców za granicą, w tym do Polski.",
+    "Provider zasadniczo musi ujawnić m.in. koszty, kurs lub kwotę, która trafi do odbiorcy, oraz termin dostępności środków, zgodnie z zakresem reguły.",
+    "Przy kwalifikującym się remittance transfer nadawca ma zasadniczo do 30 minut od zapłaty na bezpłatne anulowanie, jeśli środki nie zostały jeszcze odebrane ani zdeponowane.",
+    "Na zgłoszenie kwalifikującego się błędu nadawca ma zasadniczo 180 dni od ujawnionej daty dostępności środków."
+  ],
+  "effective_from": null,
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/what-is-a-remittance-transfer-and-what-are-my-rights-en-1161/",
+    "https://www.consumerfinance.gov/rules-policy/regulations/1005/34/"
+  ]
+}
