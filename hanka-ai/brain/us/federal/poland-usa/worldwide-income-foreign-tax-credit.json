@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-worldwide-income-foreign-tax-credit",
+  "subtopic": "foreign_tax_credit",
+  "title": "Dochód z Polski i Foreign Tax Credit w USA",
+  "facts": [
+    "Obywatele USA są co do zasady opodatkowani federalnie od worldwide income niezależnie od miejsca zamieszkania; resident aliens zasadniczo podlegają podobnej regule.",
+    "Podatek dochodowy zapłacony lub naliczony w Polsce może w odpowiednich warunkach kwalifikować się do U.S. Foreign Tax Credit, ograniczając podwójne opodatkowanie tego samego dochodu.",
+    "Foreign Tax Credit i Foreign Earned Income Exclusion mają zasady koordynacyjne; nie można uzyskać credit za zagraniczny podatek przypisany do dochodu wyłączonego przez FEIE."
+  ],
+  "effective_from": null,
+  "official_sources": [
+    "https://www.irs.gov/publications/p514",
+    "https://www.irs.gov/individuals/international-taxpayers/foreign-tax-credit",
+    "https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-resident-aliens-abroad"
+  ]
+}
