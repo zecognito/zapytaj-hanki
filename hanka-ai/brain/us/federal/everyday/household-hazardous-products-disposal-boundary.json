@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-household-hazardous-waste-boundary",
+  "subtopic": "utilities_household",
+  "title": "Wyrzucanie farb, chemikaliów i household hazardous waste",
+  "facts": [
+    "EPA zaleca odpowiednie zarządzanie household hazardous waste takimi jak niektóre paints, cleaners, oils, batteries i pesticides zamiast automatycznego wyrzucania ich do zwykłych śmieci lub kanalizacji.",
+    "Programy zbiórki i dokładne zasady disposal są zwykle prowadzone przez state/local governments i mogą znacznie różnić się między miejscowościami.",
+    "Nie należy mieszać pozostałości różnych household hazardous products, ponieważ może to powodować reakcje chemiczne lub inne zagrożenia.",
+    "Etykieta produktu oraz lokalne waste authority są podstawowymi źródłami instrukcji dla konkretnego odpadu."
+  ],
+  "official_sources": [
+    "https://www.epa.gov/hw/household-hazardous-waste-hhw"
+  ]
+}
