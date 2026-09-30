@@ -46,10 +46,10 @@
       "status": "audit_in_progress",
       "records": 170,
       "notes": [
-        "Food/retail audit remains in progress at 170 records. Five early weak-source records were upgraded to direct current official business sources: Barbara's Polish Deli, MJ Polish Deli, Polski Smak, Heart of Europe Polish Deli, and Tatra Haus.",
-        "Audit found a systematic early-batch citation issue: several NJ records incorrectly referenced a Chicago Polish-food directory, while two Rhode Island records used a generic gov.pl bilateral-relations page. These remaining weak-source records are queued for individual verification/removal rather than trusted as-is.",
-        "Previous audit corrections remain: Krakus is Boardman OH, Wioletta's Polish Market is Milwaukee WI, and The Polish Food Store is Bremond TX. Two unsupported placeholder leads were removed.",
-        "Do not ingest the commercial layer into Vectorize until this source-quality audit is complete. Raw count is not a verified-count claim."
+        "Food/retail audit remains in progress at 170 total records; active-count is now lower because Polish Family Deli in Bensenville IL was verified closed and marked closed rather than deleted.",
+        "This audit pass upgraded/verified Celina's Fresh Market Chicago, Adam's Food Market Wallington, The Polish Pickle Deli Manville, Syrena Polish Deli Linden, and Krakow Deli Bakery Smokehouse Woonsocket using current business/local/tourism evidence.",
+        "A second material address error was corrected: Polonia Market in Pawtucket RI was stored at 736 Central Ave; current business/city data places it at 736 Broadway. Its Polish specialization remains flagged for stronger first-party confirmation.",
+        "Earlier corrections remain in force (Boardman OH Krakus, Milwaukee WI Wioletta's, Bremond TX Polish Food Store). Commercial layer remains audit_in_progress and must not be ingested into Vectorize yet."
       ]
     },
     "media_culture": {
