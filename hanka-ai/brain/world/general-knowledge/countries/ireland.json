@@ -1,0 +1,21 @@
+{
+  "id": "country-ireland",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Irlandia",
+  "facts": [
+    "Irlandia zajmuje większość wyspy Irlandia w północno-zachodniej Europie; Irlandia Północna jest częścią Zjednoczonego Królestwa.",
+    "Stolicą Irlandii jest Dublin, a konstytucja uznaje irlandzki za pierwszy język urzędowy i angielski za drugi.",
+    "Irlandia jest republiką, członkiem Unii Europejskiej i używa euro."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.ie/en/organisation-information/6c4a7-ireland/"
+  ],
+  "related_public_pages": []
+}
