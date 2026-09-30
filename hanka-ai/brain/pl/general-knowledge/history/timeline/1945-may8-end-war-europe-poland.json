@@ -1,0 +1,23 @@
+{
+  "id": "1945-may8-end-war-europe-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "8 maja 1945 — koniec wojny w Europie",
+  "facts": [
+    "8 maja 1945 r. zakończyła się wojna w Europie po bezwarunkowej kapitulacji Niemiec.",
+    "Dla Polski oznaczało to koniec niemieckiej okupacji, ale nie powrót do przedwojennego ustroju ani pełnej niezależności politycznej od ZSRR.",
+    "Granice państwa zostały przesunięte na zachód, a miliony ludzi znalazły się w nowych realiach terytorialnych i politycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://www.1944.pl/",
+    "https://www.auschwitz.org/"
+  ],
+  "related_public_pages": []
+}
