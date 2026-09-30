@@ -1,0 +1,21 @@
+{
+  "id": "skamander-group",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "Skamander",
+  "facts": [
+    "Skamander był ważną grupą poetycką działającą w Polsce międzywojennej.",
+    "Z grupą kojarzeni są m.in. Julian Tuwim, Jarosław Iwaszkiewicz, Antoni Słonimski, Jan Lechoń i Kazimierz Wierzyński.",
+    "Poeci Skamandra często odchodzili od obowiązku patriotycznej wzniosłości na rzecz języka codzienności i współczesnego życia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/skamander-the-poets-who-made-polish-poetry-pop"
+  ],
+  "related_public_pages": []
+}
