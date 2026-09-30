@@ -275,7 +275,7 @@
     {
       "id": "credit_banking",
       "label": "Kredyt i bankowość",
-      "status": "planned",
+      "status": "started",
       "subtopics": [
         "credit_reports",
         "fcra",
@@ -284,6 +284,13 @@
         "ncua",
         "bankruptcy_basics",
         "debt_collection"
+      ],
+      "completed_subtopics": [
+        "credit_reports",
+        "fair_credit",
+        "deposit_insurance",
+        "debt_collection",
+        "banking_consumer_protection"
       ]
     },
     {
