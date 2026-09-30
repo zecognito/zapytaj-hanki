@@ -1,0 +1,21 @@
+{
+  "id": "poland-electricity-plugs",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "everyday",
+  "title": "Prąd i gniazdka w Polsce",
+  "facts": [
+    "W Polsce sieć elektryczna wykorzystuje napięcie nominalne około 230 V i częstotliwość 50 Hz zgodnie ze standardami europejskimi.",
+    "Typowe są europejskie gniazda kompatybilne z odpowiednimi wtyczkami stosowanymi w Polsce.",
+    "Urządzenie z USA może wymagać adaptera wtyczki, a jeśli nie obsługuje napięcia około 230 V, także odpowiedniego transformatora lub przetwornicy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/ure"
+  ],
+  "related_public_pages": []
+}
