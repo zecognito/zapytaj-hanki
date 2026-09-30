@@ -1,0 +1,36 @@
+{
+  "id": "polonia-gov-honorary-baltimore-md",
+  "country": "US",
+  "category": "consulate_honorary",
+  "name": "Honorary Consulate of the Republic of Poland in Baltimore",
+  "aliases": [
+    "Konsulat Honorowy RP w Baltimore"
+  ],
+  "status": "active",
+  "location": {
+    "address": "1627 Eastern Avenue, Suite 100",
+    "city": "Baltimore",
+    "state": "MD",
+    "postal_code": "21231",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 410 204 4575",
+  "email": "rppp@polishconsulatemd.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "honorary consular representation"
+  ],
+  "coverage_area": [
+    "MD"
+  ],
+  "notes": [
+    "Honorary consul: Richard Poremski"
+  ],
+  "official_source": "https://www.gov.pl/web/usa/konsulaty-honorowe",
+  "last_verified": "2026-09-30"
+}
