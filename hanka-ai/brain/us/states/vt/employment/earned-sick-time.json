@@ -1,0 +1,21 @@
+{
+  "id": "vt-earned-sick-time",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VT",
+  "topic": "employment",
+  "subtopic": "state_specific_high_value",
+  "title": "Earned Sick Time w Vermont",
+  "facts": [
+    "To ważny program lub reguła specyficzna dla tej jurysdykcji.",
+    "Eligibility, zakres ochrony lub skutki podatkowe zależą od aktualnych zasad.",
+    "Przed podjęciem działania należy sprawdzić bieżące wymagania i daty w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://labor.vermont.gov/rights-and-wages/earned-sick-time"
+  ],
+  "related_public_pages": []
+}
