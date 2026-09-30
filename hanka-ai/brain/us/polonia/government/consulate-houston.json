@@ -1,0 +1,45 @@
+{
+  "id": "polonia-gov-consulate-houston",
+  "country": "US",
+  "category": "consulate_general",
+  "name": "Consulate General of the Republic of Poland in Houston",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "3040 Post Oak Blvd, Suite 525",
+    "city": "Houston",
+    "state": "TX",
+    "postal_code": "77056",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 713 479 6770",
+  "email": "houston.kg.sekretariat@msz.gov.pl",
+  "website": "https://www.gov.pl/web/usa-en/embassy-consulates",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "passports",
+    "visas",
+    "citizenship",
+    "legal matters",
+    "civil status",
+    "consular assistance"
+  ],
+  "coverage_area": [
+    "AL",
+    "AR",
+    "FL",
+    "KS",
+    "LA",
+    "MS",
+    "NM",
+    "OK",
+    "TX"
+  ],
+  "notes": [],
+  "official_source": "https://www.gov.pl/web/usa-en/embassy-consulates",
+  "last_verified": "2026-09-30"
+}
