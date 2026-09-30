@@ -1,0 +1,21 @@
+{
+  "id": "mn-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MN",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Medical Assistance — Medicaid w Minnesota",
+  "facts": [
+    "Medical Assistance jest stanowym programem Medicaid dla kwalifikujących się mieszkańców.",
+    "Eligibility zależy od kategorii programu, dochodu gospodarstwa domowego i innych obowiązujących kryteriów.",
+    "Wniosek i odnowienie coverage prowadzi właściwa administracja stanowa zgodnie z aktualnymi zasadami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mn.gov/dhs/people-we-serve/adults/health-care/health-care-programs/programs-and-services/medical-assistance.jsp"
+  ],
+  "related_public_pages": []
+}
