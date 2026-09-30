@@ -1,0 +1,21 @@
+{
+  "id": "country-malta",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Malta",
+  "facts": [
+    "Malta jest wyspiarskim państwem na Morzu Śródziemnym, położonym na południe od Sycylii.",
+    "Stolicą jest Valletta; językami urzędowymi są maltański i angielski, a walutą euro.",
+    "Malta jest republiką i członkiem Unii Europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.mt/en/About%20Malta/Pages/About-Malta.aspx"
+  ],
+  "related_public_pages": []
+}
