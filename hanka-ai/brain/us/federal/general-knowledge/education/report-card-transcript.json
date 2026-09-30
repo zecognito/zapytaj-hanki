@@ -1,0 +1,21 @@
+{
+  "id": "report-card-transcript",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "education",
+  "subtopic": "school_terms",
+  "title": "Report card a transcript",
+  "facts": [
+    "Report card to okresowe zestawienie ocen i postępów ucznia.",
+    "Transcript jest bardziej formalnym wykazem ukończonych courses, grades i często credits, szczególnie w high school i college.",
+    "Przy rekrutacji lub transferze szkoła może wymagać official transcript."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://studentaid.gov/help-center/answers/article/what-is-high-school-transcript"
+  ],
+  "related_public_pages": []
+}
