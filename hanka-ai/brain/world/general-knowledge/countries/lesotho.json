@@ -1,0 +1,21 @@
+{
+  "id": "country-lesotho",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Lesotho",
+  "facts": [
+    "Lesotho jest śródlądowym państwem całkowicie otoczonym przez Republikę Południowej Afryki.",
+    "Stolicą jest Maseru; sesotho i angielski są językami urzędowymi, a walutą loti, powiązane z randem południowoafrykańskim.",
+    "Lesotho jest monarchią konstytucyjną i jedynym niepodległym państwem, którego całe terytorium leży ponad 1000 metrów nad poziomem morza."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.ls/"
+  ],
+  "related_public_pages": []
+}
