@@ -1,0 +1,21 @@
+{
+  "id": "1792-war-defense-constitution",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1792 — wojna w obronie Konstytucji 3 maja",
+  "facts": [
+    "W 1792 r. wojska rosyjskie wkroczyły do Rzeczypospolitej po zawiązaniu konfederacji targowickiej przez przeciwników reform.",
+    "Wojsko polsko-litewskie walczyło w obronie ustroju ustanowionego przez Konstytucję 3 maja.",
+    "Król Stanisław August przystąpił ostatecznie do konfederacji targowickiej, co doprowadziło do zakończenia walk."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
