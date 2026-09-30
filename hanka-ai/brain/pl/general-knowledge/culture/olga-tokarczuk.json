@@ -1,0 +1,21 @@
+{
+  "id": "olga-tokarczuk",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "Olga Tokarczuk",
+  "facts": [
+    "Olga Tokarczuk jest polską pisarką i eseistką.",
+    "Otrzymała Nobel Prize in Literature za 2018 r., przyznany i ogłoszony w 2019 r.",
+    "Do jej znanych książek należą m.in. „Bieguni”, „Prowadź swój pług przez kości umarłych” i „Księgi Jakubowe”."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nobelprize.org/prizes/literature/2018/tokarczuk/biographical/"
+  ],
+  "related_public_pages": []
+}
