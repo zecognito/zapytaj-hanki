@@ -1,0 +1,21 @@
+{
+  "id": "ct-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CT",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową w Connecticut",
+  "facts": [
+    "Connecticut Fair Housing laws zabraniają określonych form dyskryminacji mieszkaniowej ze względu na protected classes.",
+    "Prawo stanowe może zapewniać ochronę szerszą niż federalny Fair Housing Act.",
+    "Connecticut Commission on Human Rights and Opportunities przyjmuje kwalifikujące się housing discrimination complaints."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://portal.ct.gov/chro/fair-housing/fair-housing"
+  ],
+  "related_public_pages": []
+}
