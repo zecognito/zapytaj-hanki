@@ -1,0 +1,21 @@
+{
+  "id": "poland-partitions",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "modern_history",
+  "title": "Rozbiory Polski",
+  "facts": [
+    "Rzeczpospolita została podzielona między Rosję, Prusy i Austrię w trzech rozbiorach: 1772, 1793 i 1795.",
+    "Po trzecim rozbiorze Polska zniknęła z mapy jako niepodległe państwo na 123 lata.",
+    "Niepodległość została odzyskana w 1918 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/o-niepodleglej/"
+  ],
+  "related_public_pages": []
+}
