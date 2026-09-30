@@ -1,0 +1,21 @@
+{
+  "id": "civil-registry-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "documents",
+  "title": "Urząd Stanu Cywilnego — USC",
+  "facts": [
+    "Urząd Stanu Cywilnego rejestruje zdarzenia stanu cywilnego, takie jak urodzenia, małżeństwa i zgony.",
+    "USC wydaje odpisy aktów stanu cywilnego i wykonuje inne zadania określone prawem.",
+    "Skrót USC może w polskim kontekście oznaczać Urząd Stanu Cywilnego i nie należy automatycznie utożsamiać go z amerykańskim USCIS."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gov/uzyskaj-odpis-aktu-stanu-cywilnego"
+  ],
+  "related_public_pages": []
+}
