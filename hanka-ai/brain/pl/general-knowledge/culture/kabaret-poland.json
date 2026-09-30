@@ -1,0 +1,21 @@
+{
+  "id": "kabaret-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "media-pop-culture",
+  "title": "Kabaret w polskiej kulturze",
+  "facts": [
+    "Kabaret ma w Polsce długą tradycję obejmującą satyrę literacką, polityczną, obyczajową i telewizyjną.",
+    "Do historycznie ważnych zjawisk należały m.in. kabarety międzywojenne oraz powojenne programy satyryczne.",
+    "Współczesny kabaret estradowy jest odrębną, popularną formą rozrywki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
