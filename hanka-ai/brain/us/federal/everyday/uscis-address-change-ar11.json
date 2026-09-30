@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-uscis-address-change",
+  "subtopic": "moving_admin",
+  "title": "Zmiana adresu w USCIS po przeprowadzce",
+  "facts": [
+    "Większość noncitizens w USA ma federalny obowiązek zgłoszenia USCIS zmiany adresu w ciągu 10 dni od przeprowadzki, z określonymi wyjątkami.",
+    "USCIS zaleca użycie online change-of-address tool, które może aktualizować address dla pending cases, jeśli użytkownik poda wymagane informacje.",
+    "USPS forwarding nie aktualizuje adresu w USCIS i USPS nie forwarduje wszystkich przesyłek USCIS.",
+    "Zmiana adresu w USCIS nie zastępuje osobnej aktualizacji adresu w innych agencjach."
+  ],
+  "official_sources": [
+    "https://www.uscis.gov/addresschange"
+  ]
+}
