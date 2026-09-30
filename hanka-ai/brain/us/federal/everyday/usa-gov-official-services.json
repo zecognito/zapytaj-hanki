@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-usa-gov-official-services",
+  "subtopic": "government_service_boundaries",
+  "title": "USA.gov jako punkt startowy do usług rządowych",
+  "facts": [
+    "USA.gov jest oficjalnym federalnym portalem pomagającym znaleźć government benefits, services, agencies i informacje kontaktowe.",
+    "Portal może kierować użytkownika do właściwego federal, state lub local agency zamiast zastępować samą agencję.",
+    "W przypadku nieznanego urzędu korzystanie z oficjalnego government directory zmniejsza ryzyko trafienia na płatną lub fałszywą stronę podszywającą się pod usługę publiczną.",
+    "Adres strony i końcówka domeny są pomocne, ale użytkownik nadal powinien sprawdzać, czy konkretny formularz lub płatność pochodzi z właściwej official agency."
+  ],
+  "official_sources": [
+    "https://www.usa.gov/",
+    "https://www.usa.gov/agency-index"
+  ]
+}
