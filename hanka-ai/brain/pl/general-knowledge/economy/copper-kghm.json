@@ -1,0 +1,21 @@
+{
+  "id": "copper-kghm",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "industries",
+  "title": "Miedź i KGHM",
+  "facts": [
+    "Polska jest znaczącym producentem miedzi i srebra dzięki złożom na Dolnym Śląsku.",
+    "KGHM Polska Miedź prowadzi wydobycie i przetwórstwo rud miedzi oraz działalność międzynarodową.",
+    "Dane o bieżącej produkcji, wynikach i strukturze własności należy sprawdzać w aktualnych źródłach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://kghm.com/"
+  ],
+  "related_public_pages": []
+}
