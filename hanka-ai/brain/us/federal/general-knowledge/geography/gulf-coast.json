@@ -1,0 +1,21 @@
+{
+  "id": "gulf-coast",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "U.S. Gulf Coast",
+  "facts": [
+    "Gulf Coast odnosi się do amerykańskiego wybrzeża Gulf of Mexico.",
+    "Texas, Louisiana, Mississippi, Alabama i Florida mają wybrzeże nad Gulf of Mexico.",
+    "Region jest ważny dla portów, energii, rybołówstwa i jest narażony na tropical cyclones oraz storm surge."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://oceanservice.noaa.gov/facts/gulf-coast.html"
+  ],
+  "related_public_pages": []
+}
