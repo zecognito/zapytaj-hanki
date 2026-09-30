@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polish-prince-wrightstown-nj",
+  "country": "US",
+  "category": "store",
+  "name": "Polish Prince Pierogi",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "5 Fort Dix St",
+    "city": "Wrightstown",
+    "state": "NJ",
+    "postal_code": "08562",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 609-723-8555",
+  "email": null,
+  "website": "https://polishprincepierogi.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Wrightstown",
+    "NJ"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://polishprincepierogi.com/",
+  "last_verified": "2026-09-30"
+}
