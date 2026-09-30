@@ -1,0 +1,21 @@
+{
+  "id": "wincenty-witos",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "people",
+  "title": "Wincenty Witos",
+  "facts": [
+    "Wincenty Witos był jednym z najważniejszych przywódców polskiego ruchu ludowego.",
+    "Trzykrotnie pełnił funkcję premiera II Rzeczypospolitej.",
+    "Podczas wojny polsko-bolszewickiej w 1920 r. kierował Rządem Obrony Narodowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://muzeum.tarnow.pl/"
+  ],
+  "related_public_pages": []
+}
