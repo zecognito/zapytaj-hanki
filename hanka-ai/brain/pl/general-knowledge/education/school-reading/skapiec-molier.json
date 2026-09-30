@@ -1,0 +1,21 @@
+{
+  "id": "skapiec-molier",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Skąpiec — Molier",
+  "facts": [
+    "„Skąpiec” Moliera jest aktualnie lekturą obowiązkową w liceum ogólnokształcącym i technikum, poznawaną w całości w zakresie podstawowym języka polskiego.",
+    "Komedia koncentruje się na Harpagonie, którego skrajne skąpstwo podporządkowuje relacje rodzinne i staje się źródłem konfliktów oraz komizmu.",
+    "Hanka powinna znać głównych bohaterów, intrygę, komizm postaci i sytuacji oraz krytykę podporządkowania życia pieniądzom; status zweryfikowano 2026-09-30 dla podstawy ZPE 2025/2026."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
