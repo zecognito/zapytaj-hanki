@@ -1,0 +1,21 @@
+{
+  "id": "country-benin",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Benin",
+  "facts": [
+    "Benin leży w Afryce Zachodniej nad Zatoką Gwinejską.",
+    "Oficjalną stolicą jest Porto-Novo, natomiast siedziba rządu i największe centrum gospodarcze znajdują się w Kotonu.",
+    "Językiem urzędowym jest francuski, walutą frank CFA Afryki Zachodniej, a Benin jest republiką."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gouv.bj/"
+  ],
+  "related_public_pages": []
+}
