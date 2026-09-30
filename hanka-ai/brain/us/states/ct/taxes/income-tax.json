@@ -1,0 +1,21 @@
+{
+  "id": "ct-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CT",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Connecticut",
+  "facts": [
+    "Connecticut ma progresywny personal income tax z kilkoma przedziałami stawek.",
+    "Podatek jest administrowany przez Connecticut Department of Revenue Services.",
+    "Progi, credits i inne parametry zależą od roku podatkowego i filing status."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://portal.ct.gov/drs/individuals/individual-tax-page"
+  ],
+  "related_public_pages": []
+}
