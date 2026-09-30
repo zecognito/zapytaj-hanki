@@ -1,0 +1,21 @@
+{
+  "id": "nj-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NJ",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "NJ SNAP w New Jersey",
+  "facts": [
+    "NJ SNAP zapewnia pomoc żywnościową kwalifikującym się gospodarstwom domowym.",
+    "Wniosek można składać przez stanowy system oraz właściwą county social service agency.",
+    "Eligibility i wysokość benefit zależą m.in. od wielkości gospodarstwa, dochodu i zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nj.gov/humanservices/njsnap/"
+  ],
+  "related_public_pages": []
+}
