@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-cooling-off-rule-door-sales",
+  "subtopic": "consumer_contracts",
+  "title": "Cooling-Off Rule przy niektórych sprzedażach poza sklepem",
+  "facts": [
+    "FTC Cooling-Off Rule daje zasadniczo 3 business days na anulowanie określonych sprzedaży o wartości co najmniej 25 USD dokonanych w domu konsumenta lub co najmniej 130 USD w określonych temporary locations.",
+    "Rule nie obejmuje każdej sprzedaży i zawiera wyjątki, m.in. dla wielu online/mail/telephone transactions, real estate i niektórych innych kategorii.",
+    "Covered seller musi przekazać informacje o prawie do anulowania i odpowiednie cancellation forms zgodnie z regułą.",
+    "Prawo stanowe może zapewniać dodatkowe cancellation rights ponad federalną regułę."
+  ],
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/buyers-remorse-ftcs-cooling-rule-may-help",
+    "https://www.ftc.gov/legal-library/browse/rules/cooling-period-sales-made-homes-or-other-locations"
+  ]
+}
