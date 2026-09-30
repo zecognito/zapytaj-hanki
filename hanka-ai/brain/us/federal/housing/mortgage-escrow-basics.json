@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-housing-mortgage-escrow",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "housing_mortgages",
+  "subtopic": "escrow",
+  "title": "Mortgage escrow account - federal basics",
+  "facts": [
+    "A mortgage escrow account holds money collected with mortgage payments to pay expenses such as property taxes and homeowners insurance when due.",
+    "Federal Regulation X limits the amounts a servicer may require in an escrow account and requires escrow analyses and statements in covered circumstances.",
+    "A permitted escrow cushion is generally limited to no more than one-sixth of estimated annual escrow disbursements, subject to applicable law and loan terms.",
+    "Not every mortgage must have an escrow account for its entire term; requirements depend on federal rules, loan type, lender terms and applicable state law."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/rules-policy/regulations/1024/17/"
+  ],
+  "related_public_pages": []
+}
