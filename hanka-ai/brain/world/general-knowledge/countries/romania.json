@@ -1,0 +1,21 @@
+{
+  "id": "country-romania",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Rumunia",
+  "facts": [
+    "Rumunia leży w Europie Południowo-Wschodniej nad Morzem Czarnym, a jej stolicą jest Bukareszt.",
+    "Językiem urzędowym jest rumuński, a walutą lej rumuński.",
+    "Rumunia jest republiką, członkiem Unii Europejskiej i NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mae.ro/en/node/2086"
+  ],
+  "related_public_pages": []
+}
