@@ -1,0 +1,21 @@
+{
+  "id": "ct-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CT",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Connecticut",
+  "facts": [
+    "Connecticut DMV wydaje credential zgodny z REAL ID po przedstawieniu wymaganych dokumentów.",
+    "Weryfikacja obejmuje wymagane proof of identity, lawful presence, Social Security number i Connecticut residency.",
+    "REAL ID nie jest konieczne do samego prowadzenia samochodu, jeśli osoba ma ważne standardowe prawo jazdy, ale ma znaczenie dla objętych zastosowań federalnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://portal.ct.gov/dmv/licenses-permits-ids/get-real-id"
+  ],
+  "related_public_pages": []
+}
