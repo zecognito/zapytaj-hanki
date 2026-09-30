@@ -1,0 +1,21 @@
+{
+  "id": "il-eviction-basics",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "housing",
+  "subtopic": "eviction",
+  "title": "Illinois eviction basics",
+  "facts": [
+    "A landlord generally cannot lawfully remove an Illinois tenant without using the court eviction process and obtaining an enforceable eviction order.",
+    "Required notice depends on the reason for termination, such as nonpayment or another lease issue.",
+    "Only the sheriff may carry out a court-ordered residential eviction; landlords may not use self-help measures such as changing locks to bypass the court process."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.illinoiscourts.gov/self-help/eviction/"
+  ],
+  "related_public_pages": []
+}
