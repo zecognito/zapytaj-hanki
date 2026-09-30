@@ -1,0 +1,21 @@
+{
+  "id": "in-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IN",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Indianie",
+  "facts": [
+    "Indiana Child Support Program pomaga m.in. ustalać paternity, support orders, medical support i egzekwować płatności.",
+    "Usługi Title IV-D są realizowane przez stan i lokalne county offices/prosecutors zgodnie z organizacją programu.",
+    "Wysokość child support opiera się na Indiana Child Support Guidelines i okolicznościach sprawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.in.gov/dcs/child-support/"
+  ],
+  "related_public_pages": []
+}
