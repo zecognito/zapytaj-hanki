@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-healthcare-aca-preexisting-conditions",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "healthcare",
+  "subtopic": "aca",
+  "title": "ACA protections - pre-existing conditions",
+  "facts": [
+    "Marketplace health plans cannot reject an applicant, charge more, or refuse essential health benefits solely because of a pre-existing health condition.",
+    "Once enrolled, Marketplace coverage cannot be denied solely because of a pre-existing condition.",
+    "Pregnancy is treated as a pre-existing condition for purposes of this protection and cannot be used to reject Marketplace coverage or charge more."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.healthcare.gov/coverage/pre-existing-conditions/"
+  ],
+  "related_public_pages": []
+}
