@@ -1,0 +1,21 @@
+{
+  "id": "mo-new_resident_license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MO",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce — Missouri",
+  "facts": [
+    "Nowy resident powinien uzyskać stanowe driver license zgodnie z obowiązującą procedurą.",
+    "Wymagane są odpowiednie dokumenty identity i residency.",
+    "Testy i uznanie out-of-state license zależą od sytuacji kierowcy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dor.mo.gov/driver-license/issuance/required-documents-checklist.html"
+  ],
+  "related_public_pages": []
+}
