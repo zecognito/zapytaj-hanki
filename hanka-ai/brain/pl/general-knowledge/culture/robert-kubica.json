@@ -1,0 +1,21 @@
+{
+  "id": "robert-kubica",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "notable-people",
+  "title": "Robert Kubica",
+  "facts": [
+    "Robert Kubica jest polskim kierowcą wyścigowym.",
+    "W 2006 r. został pierwszym Polakiem startującym w wyścigu Formuły 1.",
+    "W 2008 r. wygrał Grand Prix Kanady, stając się pierwszym polskim zwycięzcą wyścigu F1."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fia.com/"
+  ],
+  "related_public_pages": []
+}
