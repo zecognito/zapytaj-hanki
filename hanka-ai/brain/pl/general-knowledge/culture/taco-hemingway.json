@@ -1,0 +1,21 @@
+{
+  "id": "taco-hemingway",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "modern-music",
+  "title": "Taco Hemingway",
+  "facts": [
+    "Taco Hemingway, właściwie Filip Szcześniak, jest polskim raperem i autorem tekstów.",
+    "Jego twórczość często opisuje współczesne życie miejskie, relacje i przemiany społeczne, szczególnie w Warszawie.",
+    "Należy do wykonawców, którzy przyczynili się do wejścia polskiego rapu do głównego nurtu muzyki popularnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
