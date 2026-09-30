@@ -1,0 +1,21 @@
+{
+  "id": "paderewski-prime-minister",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "people",
+  "title": "Ignacy Jan Paderewski — premier i dyplomata",
+  "facts": [
+    "Ignacy Jan Paderewski był światowej sławy pianistą, kompozytorem, dyplomatą i politykiem.",
+    "W 1919 r. był premierem oraz ministrem spraw zagranicznych Polski.",
+    "Wraz z Romanem Dmowskim podpisał w imieniu Polski traktat wersalski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/"
+  ],
+  "related_public_pages": []
+}
