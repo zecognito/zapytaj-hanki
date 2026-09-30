@@ -1,0 +1,21 @@
+{
+  "id": "a6-motorway",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Autostrada A6",
+  "facts": [
+    "Autostrada A6 znajduje się w północno-zachodniej Polsce i obsługuje przede wszystkim rejon Szczecina.",
+    "Łączy polską sieć drogową z niemiecką autostradą A11 na granicy w Kołbaskowie.",
+    "A6 jest częścią ważnego korytarza międzynarodowego i pełni funkcję obwodową dla aglomeracji szczecińskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
