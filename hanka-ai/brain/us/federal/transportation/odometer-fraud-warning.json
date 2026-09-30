@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-cars-odometer-fraud",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "cars_transportation",
+  "subtopic": "odometer",
+  "title": "Odometer fraud - consumer protections",
+  "facts": [
+    "Rolling back, disconnecting or altering an odometer with intent to change the mileage indicated is prohibited by federal law.",
+    "Consumers can compare title mileage, maintenance records, inspection history and vehicle-history information when investigating possible mileage discrepancies.",
+    "Suspected odometer fraud can be reported through appropriate state enforcement channels and federal NHTSA resources.",
+    "A digital odometer does not eliminate the possibility of odometer fraud."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nhtsa.gov/vehicle-safety/odometer-fraud"
+  ],
+  "related_public_pages": []
+}
