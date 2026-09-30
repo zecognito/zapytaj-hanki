@@ -1,0 +1,21 @@
+{
+  "id": "constitution-may3-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "holidays",
+  "title": "3 maja — święto Konstytucji",
+  "facts": [
+    "3 maja jest w Polsce dniem ustawowo wolnym od pracy i świętem państwowym upamiętniającym Konstytucję 3 maja z 1791 r.",
+    "Konstytucja została uchwalona przez Sejm Czteroletni w Rzeczypospolitej Obojga Narodów.",
+    "Była ważną próbą reformy ustroju państwa w końcowym okresie istnienia dawnej Rzeczypospolitej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/kultura/swieto-narodowe-trzeciego-maja"
+  ],
+  "related_public_pages": []
+}
