@@ -1,0 +1,21 @@
+{
+  "id": "commonwealth-two-nations",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "commonwealth",
+  "title": "Rzeczpospolita Obojga Narodów",
+  "facts": [
+    "Rzeczpospolita Obojga Narodów powstała w wyniku unii lubelskiej w 1569 r. jako wspólne państwo Korony Królestwa Polskiego i Wielkiego Księstwa Litewskiego.",
+    "Miała wspólnego monarchę i sejm, przy zachowaniu części odrębnych instytucji.",
+    "Była państwem wieloetnicznym i wielowyznaniowym obejmującym rozległe obszary Europy Środkowo-Wschodniej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
