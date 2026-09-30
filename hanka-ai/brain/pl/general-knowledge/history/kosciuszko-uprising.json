@@ -1,0 +1,21 @@
+{
+  "id": "kosciuszko-uprising",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions",
+  "title": "Insurekcja kościuszkowska",
+  "facts": [
+    "Insurekcja kościuszkowska wybuchła w 1794 r. przeciw Rosji i Prusom po drugim rozbiorze Rzeczypospolitej.",
+    "Tadeusz Kościuszko ogłosił akt powstania w Krakowie i został Najwyższym Naczelnikiem Siły Zbrojnej Narodowej.",
+    "Klęska powstania poprzedziła trzeci rozbiór Polski w 1795 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
