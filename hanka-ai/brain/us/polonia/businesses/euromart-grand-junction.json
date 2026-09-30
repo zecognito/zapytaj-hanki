@@ -6,16 +6,16 @@
   "aliases": [],
   "status": "active",
   "location": {
-    "address": "Grand Junction",
+    "address": "2531 N 12th St",
     "city": "Grand Junction",
     "state": "CO",
-    "postal_code": null,
+    "postal_code": "81501",
     "latitude": null,
     "longitude": null
   },
-  "phone": null,
+  "phone": "+1 970-314-2222",
   "email": null,
-  "website": null,
+  "website": "https://www.euromartgj.com/",
   "languages": [
     "pl",
     "en"
@@ -26,8 +26,8 @@
     "CO"
   ],
   "notes": [
-    "Polish-food relevance supported by current official business or Polonia/local source. Commercial status and details remain freshness-sensitive."
+    "Audited 2026-09-30: official business site confirms Grand Junction physical location. Retained because its own product/team pages document Polish products/ownership context among broader European offerings."
   ],
-  "official_source": "https://www.euromartgj.com/",
+  "official_source": "https://www.euromartgj.com/contact-us",
   "last_verified": "2026-09-30"
 }
