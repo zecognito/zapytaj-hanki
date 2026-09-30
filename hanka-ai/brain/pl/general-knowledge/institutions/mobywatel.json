@@ -1,0 +1,21 @@
+{
+  "id": "mobywatel",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "digital-government",
+  "title": "mObywatel",
+  "facts": [
+    "mObywatel to państwowa aplikacja mobilna i serwis internetowy umożliwiające dostęp do cyfrowych dokumentów oraz usług publicznych.",
+    "Aplikacja może zawierać m.in. mDowód, cyfrowe prawo jazdy, legitymacje i informacje o pojazdach oraz pozwala korzystać z wielu usług administracyjnych.",
+    "mDowód jest pełnoprawnym cyfrowym dokumentem tożsamości na terenie Polski, ale nie zastępuje fizycznego dowodu osobistego jako dokumentu podróży za granicę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://info.mobywatel.gov.pl/"
+  ],
+  "related_public_pages": []
+}
