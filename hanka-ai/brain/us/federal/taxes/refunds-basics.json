@@ -1,0 +1,25 @@
+{
+  "id": "us-federal-irs-refunds-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "refunds",
+  "title": "IRS tax refund — terminy i sprawdzanie statusu",
+  "facts": [
+    "IRS podaje, że typowy federalny refund z e-filed return jest otrzymywany około 3 tygodnie od e-file, a przy zeznaniu papierowym około 6 tygodni lub dłużej od otrzymania go przez IRS.",
+    "Status refund dla bieżącego roku jest zwykle dostępny 24 godziny po e-file; dla prior-year e-file po 3 dniach, a dla paper return po około 4 tygodniach.",
+    "Refund można sprawdzić przez Where’s My Refund? lub Individual Online Account; potrzebne są m.in. dokładna kwota refund, SSN lub ITIN, filing status i tax year.",
+    "Refund może się opóźnić, jeśli return wymaga korekty lub dodatkowego review.",
+    "Prawo wymaga wstrzymania refundów obejmujących Earned Income Tax Credit do połowy lutego.",
+    "Na dochodzenie refundu zasadniczo są 3 lata od terminu złożenia return."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/refunds",
+    "https://www.irs.gov/refunds/about-refunds"
+  ],
+  "related_public_pages": []
+}
