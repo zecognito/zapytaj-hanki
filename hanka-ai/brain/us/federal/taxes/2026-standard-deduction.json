@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-tax-standard-deduction-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "standard_deduction",
+  "title": "Federal standard deduction — rok podatkowy 2026",
+  "facts": [
+    "Dla roku podatkowego 2026 standard deduction wynosi $16,100 dla Single i Married Filing Separately.",
+    "Dla Married Filing Jointly i Qualifying Surviving Spouse standard deduction wynosi $32,200.",
+    "Dla Head of Household standard deduction wynosi $24,150.",
+    "Kwoty dotyczą roku podatkowego 2026, czyli co do zasady zeznań składanych w 2027."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill"
+  ],
+  "related_public_pages": []
+}
