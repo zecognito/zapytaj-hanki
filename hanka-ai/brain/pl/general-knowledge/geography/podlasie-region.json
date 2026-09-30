@@ -1,0 +1,21 @@
+{
+  "id": "podlasie-region",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Podlasie",
+  "facts": [
+    "Podlasie jest historyczno-kulturowym regionem północno-wschodniej Polski o złożonych granicach historycznych.",
+    "Region jest znany z wielokulturowego dziedzictwa, obejmującego tradycje polskie, białoruskie, ukraińskie, litewskie, żydowskie i tatarskie.",
+    "Historyczne Podlasie nie jest dokładnie tym samym co współczesne województwo podlaskie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
