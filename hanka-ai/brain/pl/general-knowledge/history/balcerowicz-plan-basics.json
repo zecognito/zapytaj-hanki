@@ -1,0 +1,21 @@
+{
+  "id": "balcerowicz-plan-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "economy",
+  "title": "Plan Balcerowicza — podstawy",
+  "facts": [
+    "Pakiet reform gospodarczych wdrażanych od początku 1990 r. jest powszechnie określany jako plan Balcerowicza.",
+    "Reformy miały przeprowadzić gospodarkę od systemu centralnie planowanego w kierunku gospodarki rynkowej oraz ograniczyć bardzo wysoką inflację.",
+    "Tempo, koszty społeczne i długofalowa ocena reform pozostają przedmiotem debat ekonomicznych i historycznych; Hanka powinna oddzielać opis reform od ocen."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nbp.pl/publikacje/materialy_i_studia/242_en.pdf"
+  ],
+  "related_public_pages": []
+}
