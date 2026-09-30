@@ -1,0 +1,21 @@
+{
+  "id": "dziady-czesc-ii",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Dziady część II — Adam Mickiewicz",
+  "facts": [
+    "Dziady część II, autor: Adam Mickiewicz, jest wskazane w podstawie programowej języka polskiego dla klas VII–VIII szkoły podstawowej w roku szkolnym 2025/2026.",
+    "Dramat romantyczny przedstawiający obrzęd dziadów i spotkania żywych z duchami.",
+    "Hanka powinna rozróżniać utwory czytane w całości od fragmentów, wyborów tekstów i poezji wskazanych przez podstawę programową."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-podstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
