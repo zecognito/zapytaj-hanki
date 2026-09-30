@@ -1,0 +1,36 @@
+{
+  "id": "polonia-prof-dentist-metropark-iselin-nj",
+  "country": "US",
+  "category": "dentist",
+  "name": "Metropark Dental",
+  "status": "active",
+  "location": {
+    "address": "37 Gill Ln",
+    "city": "Iselin",
+    "state": "NJ",
+    "postal_code": "08830",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es"
+  ],
+  "services": [
+    "family dentistry",
+    "cosmetic dentistry",
+    "general dentistry",
+    "emergency dental care",
+    "Invisalign",
+    "implant restorations"
+  ],
+  "phone": "+1 732-283-0500",
+  "email": "office@metroparkdental.com",
+  "website": "https://www.metroparkdental.com/",
+  "official_source": "https://www.metroparkdental.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official practice site explicitly states Mówimy po polsku and provides current Iselin contact details."
+  ]
+}
