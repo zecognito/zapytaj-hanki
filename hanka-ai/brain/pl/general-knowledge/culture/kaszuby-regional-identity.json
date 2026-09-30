@@ -1,0 +1,21 @@
+{
+  "id": "kaszuby-regional-identity",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "regional-identity",
+  "title": "Kaszuby i Kaszubi",
+  "facts": [
+    "Kaszubi są społecznością regionalną historycznie związaną z Pomorzem.",
+    "Język kaszubski ma w Polsce status języka regionalnego.",
+    "Kaszubska kultura obejmuje własne tradycje, muzykę, haft, kuchnię i silne poczucie regionalnej tożsamości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
