@@ -1,0 +1,21 @@
+{
+  "id": "election-administration",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "civics",
+  "subtopic": "elections",
+  "title": "Kto prowadzi wybory w USA?",
+  "facts": [
+    "Wybory w USA są silnie zdecentralizowane i są administrowane przede wszystkim przez władze stanowe i lokalne w ramach prawa federalnego i stanowego.",
+    "Zasady rejestracji, metody głosowania i terminy proceduralne mogą różnić się między stanami.",
+    "Do praktycznych informacji o głosowaniu należy używać oficjalnego state/local election office dla właściwej jurysdykcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/state-election-office"
+  ],
+  "related_public_pages": []
+}
