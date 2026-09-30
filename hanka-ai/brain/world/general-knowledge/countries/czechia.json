@@ -1,0 +1,21 @@
+{
+  "id": "country-czechia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Czechy",
+  "facts": [
+    "Czechy są śródlądowym państwem Europy Środkowej graniczącym m.in. z Polską.",
+    "Stolicą jest Praga, językiem urzędowym czeski, a walutą korona czeska.",
+    "Czechy są republiką parlamentarną, członkiem UE i NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mzv.gov.cz/jnp/en/foreign_relations/facts_and_figures/index.html"
+  ],
+  "related_public_pages": []
+}
