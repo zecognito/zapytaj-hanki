@@ -1,0 +1,21 @@
+{
+  "id": "poznan-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Poznań — podstawy",
+  "facts": [
+    "Poznań jest stolicą województwa wielkopolskiego i leży nad Wartą.",
+    "Wielkopolska i Poznań są silnie związane z początkami państwa polskiego.",
+    "Poznań jest ważnym ośrodkiem gospodarczym, akademickim i targowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.poznan.pl/mim/main/"
+  ],
+  "related_public_pages": []
+}
