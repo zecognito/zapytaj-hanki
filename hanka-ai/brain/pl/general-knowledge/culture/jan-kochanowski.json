@@ -1,0 +1,21 @@
+{
+  "id": "jan-kochanowski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "Jan Kochanowski",
+  "facts": [
+    "Jan Kochanowski był jednym z najważniejszych poetów polskiego renesansu.",
+    "Tworzył po polsku i po łacinie; do jego najbardziej znanych dzieł należą „Treny”, „Fraszki” i „Pieśni”.",
+    "Jego twórczość odegrała kluczową rolę w rozwoju literackiej polszczyzny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/jan-kochanowski"
+  ],
+  "related_public_pages": []
+}
