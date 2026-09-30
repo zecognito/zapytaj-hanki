@@ -1,0 +1,23 @@
+{
+  "id": "1940-auschwitz-first-transport",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "14 czerwca 1940 — pierwszy masowy transport Polaków do Auschwitz",
+  "facts": [
+    "14 czerwca 1940 r. do niemieckiego obozu Auschwitz przywieziono z Tarnowa transport 728 polskich więźniów politycznych.",
+    "Data jest ważnym punktem w historii funkcjonowania Auschwitz jako niemieckiego nazistowskiego obozu koncentracyjnego.",
+    "W kolejnych latach kompleks Auschwitz-Birkenau stał się również największym ośrodkiem masowej zagłady europejskich Żydów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://www.auschwitz.org/",
+    "https://polin.pl/"
+  ],
+  "related_public_pages": []
+}
