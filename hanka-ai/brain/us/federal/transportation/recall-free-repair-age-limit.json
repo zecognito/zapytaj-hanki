@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-cars-recall-free-repair-limit",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "cars_transportation",
+  "subtopic": "vehicle_safety",
+  "title": "Recall repairs and vehicle age",
+  "facts": [
+    "Federal law generally requires manufacturers to provide a free recall remedy for covered motor vehicles that are not more than 15 years old when the defect or noncompliance is determined, calculated from the date the vehicle was first sold to the first purchaser.",
+    "Manufacturers may voluntarily provide free remedies beyond the federal minimum obligation.",
+    "Special rules and practical remedies can vary, so an older open recall should still be checked with the manufacturer or dealer rather than assumed to be unavailable."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nhtsa.gov/recalls"
+  ],
+  "related_public_pages": []
+}
