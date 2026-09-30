@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-immaculate-conception-indian-orchard-ma",
+  "country": "US",
+  "category": "church",
+  "name": "Immaculate Conception Catholic Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "25 Parker St",
+    "city": "Indian Orchard",
+    "state": "MA",
+    "postal_code": "01151",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 413 543 3627",
+  "email": null,
+  "website": "https://indian-orchard-immaculate-conception.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "MA"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish source."
+  ],
+  "official_source": "https://indian-orchard-immaculate-conception.org/",
+  "last_verified": "2026-09-30"
+}
