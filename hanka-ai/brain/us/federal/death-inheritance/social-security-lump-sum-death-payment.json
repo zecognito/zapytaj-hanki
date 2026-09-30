@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-death-ssa-lump-sum",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "death_inheritance",
+  "subtopic": "social_security_death",
+  "title": "Social Security lump-sum death payment",
+  "facts": [
+    "Social Security can pay a one-time lump-sum death payment of $255 to an eligible surviving spouse or, in specified circumstances, an eligible child.",
+    "The payment is not a general funeral reimbursement available to every estate or family.",
+    "Eligibility depends on Social Security relationship and insured-status rules, and an application may be required."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/personal-record/when-someone-dies"
+  ],
+  "related_public_pages": []
+}
