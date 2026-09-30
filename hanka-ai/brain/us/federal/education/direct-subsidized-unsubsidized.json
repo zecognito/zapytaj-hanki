@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-education-direct-loans-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "education",
+  "subtopic": "federal_student_loans",
+  "title": "Direct Subsidized and Unsubsidized Loans - basics",
+  "facts": [
+    "Direct Subsidized Loans are available to eligible undergraduate students with financial need; the federal government pays interest during certain qualifying periods under program rules.",
+    "Direct Unsubsidized Loans are available to eligible undergraduate, graduate and professional students without a financial-need requirement, but the borrower is generally responsible for interest during all periods.",
+    "Annual and aggregate borrowing limits depend on factors including year in school, dependency status and loan type.",
+    "Federal student loans must be repaid with interest unless a discharge, forgiveness or other applicable relief provision applies."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://studentaid.gov/understand-aid/types/loans/subsidized-unsubsidized"
+  ],
+  "related_public_pages": []
+}
