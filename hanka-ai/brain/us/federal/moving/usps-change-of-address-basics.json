@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-moving-usps-change-address",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "moving_life_admin",
+  "subtopic": "usps",
+  "title": "USPS Change of Address - basics",
+  "facts": [
+    "USPS offers Change of Address service to forward eligible mail from an old address to a new address.",
+    "Submitting a USPS Change of Address does not automatically update an address with the IRS, Social Security, DMV, banks, insurers or other organizations.",
+    "Mail forwarding is temporary and different classes of mail have different forwarding periods and treatment.",
+    "Consumers should use official USPS channels and separately update important senders directly."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usps.com/manage/forward.htm"
+  ],
+  "related_public_pages": []
+}
