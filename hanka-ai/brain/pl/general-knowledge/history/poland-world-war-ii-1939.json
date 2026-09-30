@@ -1,0 +1,21 @@
+{
+  "id": "poland-world-war-ii-1939",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world_war_ii",
+  "title": "Polska i początek II wojny światowej",
+  "facts": [
+    "Niemcy zaatakowały Polskę 1 września 1939 r., rozpoczynając wojnę w Europie.",
+    "17 września 1939 r. Związek Sowiecki zaatakował Polskę od wschodu.",
+    "Polska znalazła się pod okupacją niemiecką i sowiecką, a polskie władze i siły zbrojne kontynuowały działalność poza okupowanym krajem i w podziemiu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/pl/historia-z-ipn/78892,1-wrzesnia-1939-roku-Niemcy-napadaja-na-Polske.html"
+  ],
+  "related_public_pages": []
+}
