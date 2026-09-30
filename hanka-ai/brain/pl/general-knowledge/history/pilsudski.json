@@ -1,0 +1,21 @@
+{
+  "id": "pilsudski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "people",
+  "title": "Józef Piłsudski",
+  "facts": [
+    "Józef Piłsudski był jednym z najważniejszych przywódców związanych z odzyskaniem przez Polskę niepodległości w 1918 r.",
+    "Był Naczelnikiem Państwa, dowódcą wojskowym i później marszałkiem Polski.",
+    "Po przewrocie majowym w 1926 r. jego obóz polityczny dominował w życiu politycznym II Rzeczypospolitej; oceny jego rządów i systemu sanacyjnego są przedmiotem debat historycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://muzeumpilsudski.pl/jozef-pilsudski/"
+  ],
+  "related_public_pages": []
+}
