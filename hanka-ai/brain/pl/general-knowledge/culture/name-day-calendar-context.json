@@ -1,0 +1,21 @@
+{
+  "id": "name-day-calendar-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Kalendarz imienin",
+  "facts": [
+    "Polskie kalendarze często podają imiona przypisane do poszczególnych dni roku.",
+    "Jedno imię może występować w kalendarzu w kilku datach, a osoba zwykle obchodzi jedną z nich zgodnie z rodzinnym lub lokalnym zwyczajem.",
+    "Kalendarz imienin jest tradycją kulturową i religijną, a nie rejestrem urzędowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/"
+  ],
+  "related_public_pages": []
+}
