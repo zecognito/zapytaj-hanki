@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-mazureks-bakery-buffalo",
+  "country": "US",
+  "category": "bakery",
+  "name": "Mazurek's Bakery",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "543 South Park Ave",
+    "city": "Buffalo",
+    "state": "NY",
+    "postal_code": "14204",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 716-853-7833",
+  "email": null,
+  "website": "https://mazureksbakery.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Bakery",
+    "Polish/European baked goods"
+  ],
+  "coverage_area": [
+    "Buffalo",
+    "NY"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://mazureksbakery.com/",
+  "last_verified": "2026-09-30"
+}
