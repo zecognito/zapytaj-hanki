@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-documents-fraud-alert",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "documents",
+  "subtopic": "identity_theft",
+  "title": "Fraud alert - basics",
+  "facts": [
+    "A fraud alert tells businesses checking a credit report to take steps to verify identity before opening new credit.",
+    "An initial fraud alert generally lasts one year and is free.",
+    "Contacting one of the three nationwide credit bureaus to place a fraud alert requires that bureau to notify the other two.",
+    "An extended fraud alert may be available to identity-theft victims who meet documentation requirements and generally lasts seven years."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/what-know-about-credit-freezes-fraud-alerts"
+  ],
+  "related_public_pages": []
+}
