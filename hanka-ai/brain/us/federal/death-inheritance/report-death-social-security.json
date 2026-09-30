@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-death-report-ssa",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "death_inheritance",
+  "subtopic": "social_security_death",
+  "title": "Reporting a death to Social Security",
+  "facts": [
+    "Funeral homes generally report a death to Social Security when they have the deceased person's Social Security number and the family authorizes the report.",
+    "If the death has not been reported, survivors can contact Social Security to report it and discuss possible benefits.",
+    "Social Security benefits paid for the month of death or later can require return depending on the benefit and payment timing; survivors should not assume a payment deposited after death belongs to the estate.",
+    "Banks and SSA have procedures for reclaiming certain post-death electronic benefit payments."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/personal-record/when-someone-dies"
+  ],
+  "related_public_pages": []
+}
