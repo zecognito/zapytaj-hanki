@@ -1,0 +1,21 @@
+{
+  "id": "fl-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "FL",
+  "topic": "vehicles",
+  "subtopic": "insurance",
+  "title": "Wymagane ubezpieczenie samochodu na Florydzie",
+  "facts": [
+    "Florida wymaga od właścicieli określonych zarejestrowanych pojazdów utrzymywania Personal Injury Protection (PIP) oraz Property Damage Liability (PDL) w wymaganych kwotach.",
+    "Wymagane coverage musi być utrzymywane przez cały okres registration, nawet jeśli pojazd nie jest aktualnie używany, chyba że rejestracja/tablice zostaną prawidłowo rozwiązane zgodnie z zasadami FLHSMV.",
+    "Przerwa w wymaganym insurance może prowadzić do zawieszenia driver license i registration."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.flhsmv.gov/insurance/"
+  ],
+  "related_public_pages": []
+}
