@@ -1,0 +1,34 @@
+{
+  "id": "polonia-insurance-statefarm-englebreth-southampton-pa",
+  "country": "US",
+  "category": "insurance",
+  "name": "Gregg Englebreth - State Farm",
+  "status": "active",
+  "location": {
+    "address": "525 Street Road",
+    "city": "Southampton",
+    "state": "PA",
+    "postal_code": "18966-3786",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "auto insurance",
+    "homeowners insurance",
+    "renters insurance",
+    "life insurance",
+    "business insurance"
+  ],
+  "phone": "215-526-6400",
+  "email": null,
+  "website": "https://www.statefarm.com/agent/us/pa/southampton/gregg-englebreth-xqj2j7t0wgf",
+  "official_source": "https://www.statefarm.com/agent/us/pa/southampton/gregg-englebreth-xqj2j7t0wgf",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official State Farm office profile explicitly lists Polish among office languages."
+  ]
+}
