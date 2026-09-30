@@ -1,0 +1,34 @@
+{
+  "id": "polonia-bank-apple-massapequa-ny",
+  "country": "US",
+  "category": "bank",
+  "name": "Apple Bank - Massapequa",
+  "status": "active",
+  "location": {
+    "address": "943 Carmans Road",
+    "city": "Massapequa",
+    "state": "NY",
+    "postal_code": "11758",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "personal accounts",
+    "business accounts",
+    "deposit accounts",
+    "ATM",
+    "drive-up banking"
+  ],
+  "phone": "+1 516-795-4000",
+  "email": null,
+  "website": "https://www.applebank.com/contact/locations/943-camans-road",
+  "official_source": "https://www.applebank.com/contact/locations/943-camans-road",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official Apple Bank branch page explicitly lists Polish among lobby languages."
+  ]
+}
