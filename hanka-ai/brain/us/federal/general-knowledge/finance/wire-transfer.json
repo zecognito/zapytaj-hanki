@@ -1,0 +1,21 @@
+{
+  "id": "wire-transfer",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "finance",
+  "subtopic": "payment_terms",
+  "title": "Co to jest wire transfer?",
+  "facts": [
+    "Wire transfer to elektroniczny transfer środków używany często do szybkiego przesyłania większych kwot lub płatności wymagających określonego rozliczenia.",
+    "Wire różni się od ACH pod względem sieci, szybkości, kosztów i zasad.",
+    "Przed wysłaniem wire należy dokładnie zweryfikować odbiorcę, ponieważ oszustwa z wykorzystaniem wire transfers mogą być trudne do odwrócenia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/what-know-about-wire-transfers"
+  ],
+  "related_public_pages": []
+}
