@@ -1,0 +1,21 @@
+{
+  "id": "poland-czechia-border",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "borders",
+  "title": "Granica Polski z Czechami",
+  "facts": [
+    "Polska graniczy z Czechami na południu i południowym zachodzie.",
+    "Granica przebiega przez obszary Sudetów i innych regionów pogranicza.",
+    "Polska i Czechy należą do Unii Europejskiej i strefy Schengen."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/"
+  ],
+  "related_public_pages": []
+}
