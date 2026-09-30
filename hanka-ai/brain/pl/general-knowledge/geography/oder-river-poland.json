@@ -1,0 +1,21 @@
+{
+  "id": "oder-river-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Odra",
+  "facts": [
+    "Odra jest jedną z głównych rzek Polski i część jej biegu tworzy granicę polsko-niemiecką.",
+    "Rzeka przepływa m.in. przez Wrocław i dalej w kierunku Szczecina oraz Zalewu Szczecińskiego.",
+    "Dorzecze Odry obejmuje znaczną część zachodniej Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/infrastruktura/drogi-wodne"
+  ],
+  "related_public_pages": []
+}
