@@ -1,0 +1,21 @@
+{
+  "id": "il-child-care-assistance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "family",
+  "subtopic": "child_care_assistance",
+  "title": "Illinois Child Care Assistance Program",
+  "facts": [
+    "Illinois CCAP helps eligible low-income families pay for child care so parents or guardians can work, attend training, or participate in qualifying education activities.",
+    "Eligibility depends on family circumstances, income and approved activity requirements.",
+    "Illinois Department of Human Services administers CCAP through the child-care resource and referral system."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dhs.state.il.us/page.aspx?item=30355"
+  ],
+  "related_public_pages": []
+}
