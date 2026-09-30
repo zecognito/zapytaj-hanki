@@ -1,0 +1,21 @@
+{
+  "id": "agricultural-social-insurance-krus",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "social-insurance",
+  "title": "KRUS — ubezpieczenie społeczne rolników",
+  "facts": [
+    "Kasa Rolniczego Ubezpieczenia Społecznego (KRUS) realizuje zadania związane z odrębnym systemem ubezpieczenia społecznego rolników.",
+    "System KRUS jest odrębny od powszechnego systemu obsługiwanego przez ZUS i obejmuje osoby spełniające ustawowe warunki ubezpieczenia rolniczego.",
+    "KRUS realizuje również działania związane z prewencją wypadkową i rehabilitacją leczniczą w zakresie określonym przepisami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/krus"
+  ],
+  "related_public_pages": []
+}
