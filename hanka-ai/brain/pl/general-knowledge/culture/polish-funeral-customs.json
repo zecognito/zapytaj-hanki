@@ -1,0 +1,21 @@
+{
+  "id": "polish-funeral-customs",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "everyday-life",
+  "title": "Polskie zwyczaje pogrzebowe",
+  "facts": [
+    "Pogrzeby w Polsce mogą mieć charakter religijny lub świecki.",
+    "W tradycji katolickiej często obejmują mszę lub nabożeństwo, procesję na cmentarzu i złożenie trumny albo urny do grobu.",
+    "Po pogrzebie rodzina może organizować spotkanie nazywane stypą; zwyczaje różnią się między rodzinami i regionami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
