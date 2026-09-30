@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-medicare-advantage-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "medicare",
+  "subtopic": "part_c",
+  "title": "Medicare Advantage (Part C) — podstawy",
+  "facts": [
+    "Medicare Advantage to Medicare-approved private plan będący alternatywą dla Original Medicare w otrzymywaniu Part A i Part B benefits.",
+    "Aby dołączyć do Medicare Advantage, osoba musi mieć Part A i Part B oraz mieszkać w service area planu.",
+    "Większość Medicare Advantage plans obejmuje Part D prescription drug coverage; wiele oferuje dodatkowe benefits, których Original Medicare zwykle nie obejmuje.",
+    "Osoba w Medicare Advantage nadal płaci Part B premium oraz ewentualną dodatkową premium planu.",
+    "Medicare Advantage plans mają roczny limit out-of-pocket dla covered Part A i Part B services; limity i network/cost-sharing zależą od planu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicare.gov/health-drug-plans/health-plans/your-coverage-options/compare-original-medicare-medicare-advantage"
+  ],
+  "related_public_pages": []
+}
