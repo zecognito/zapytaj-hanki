@@ -1,0 +1,21 @@
+{
+  "id": "1807-duchy-warsaw-date",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1807 — utworzenie Księstwa Warszawskiego",
+  "facts": [
+    "W 1807 r. Napoleon utworzył Księstwo Warszawskie z części ziem zabranych wcześniej przez Prusy.",
+    "Księstwo było związane politycznie z Francją i otrzymało konstytucję oraz nowoczesne reformy prawne.",
+    "Nie było pełnym odtworzeniem dawnej Rzeczypospolitej i przestało istnieć po klęsce Napoleona."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
