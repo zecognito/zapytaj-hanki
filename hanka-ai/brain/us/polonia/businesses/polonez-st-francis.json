@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polonez-st-francis",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Polonez Restaurant",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "4016 S Packard Ave",
+    "city": "St. Francis",
+    "state": "WI",
+    "postal_code": "53235",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 414-482-0080",
+  "email": null,
+  "website": "https://polonezrestaurant.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "St. Francis",
+    "WI"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://polonezrestaurant.com/",
+  "last_verified": "2026-09-30"
+}
