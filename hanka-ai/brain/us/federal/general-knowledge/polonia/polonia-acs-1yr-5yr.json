@@ -1,0 +1,21 @@
+{
+  "id": "polonia-acs-1yr-5yr",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "polonia",
+  "subtopic": "demographics",
+  "title": "ACS 1-year a 5-year dla Polonii",
+  "facts": [
+    "ACS 1-year daje aktualniejsze estimates dla większych geographies, a ACS 5-year umożliwia dane dla mniejszych obszarów i opiera się na danych z pięciu lat.",
+    "1-year i 5-year nie powinny być bezmyślnie mieszane w jednym rankingu.",
+    "Przy małych miejscowościach lub neighborhoods Hanka powinna preferować odpowiednią dostępność ACS 5-year i podać okres danych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/programs-surveys/acs/guidance/estimates.html"
+  ],
+  "related_public_pages": []
+}
