@@ -29,23 +29,28 @@ function json(data, status, request) {
 
 function isClearlyCasual(text) {
   const value = String(text || "").trim().toLowerCase();
-  if (!value || value.length > 220) return false;
-  return /^(cześć|czesc|hej|hejka|siema|elo|dzień dobry|dzien dobry|dobry wieczór|dobry wieczor|dzięki|dzieki|dziękuję|dziekuje|co tam|co u ciebie|co słychać|co slychac|jak tam|jak leci|jak się masz|jak sie masz|kim jesteś|kim jestes|opowiedz żart|opowiedz zart|powiedz żart|powiedz zart)[!?.\s]*$/i.test(value);
+  if (!value || value.length > 260) return false;
+  if (/^(cześć|czesc|hej|hejka|siema|elo|dzień dobry|dzien dobry|dobry wieczór|dobry wieczor|dzięki|dzieki|dziękuję|dziekuje|co tam|co u ciebie|co słychać|co slychac|jak tam|jak leci|jak się masz|jak sie masz|kim jesteś|kim jestes|opowiedz żart|opowiedz zart|powiedz żart|powiedz zart)[!?.\s]*$/i.test(value)) return true;
+  if (/^(pokaż|pokaz|powiedz|napisz|zaśpiewaj|zaspiewaj)\b/i.test(value) && !/\b(ile|limit|podatek|prawo|ubezpieczenie|kredyt|401\(?k\)?|ira|social security|medicare|medicaid)\b/i.test(value)) return true;
+  if (/\b(czemu|dlaczego)\b.*\b(mówisz|mowisz|piszesz|odpowiadasz|zaczynasz|powtarzasz)\b/i.test(value)) return true;
+  return false;
 }
 
 function isLikelyFollowUp(messages) {
   if (!Array.isArray(messages) || messages.length < 3) return false;
   const value = String(messages[messages.length - 1]?.content || "").trim().toLowerCase();
-  if (!value || value.length > 180) return false;
-  return /^(a\s|ale\s|i\s|to\s|no\s|czyli\s|więc\s|wiec\s|co z\s|co jeśli\s|co jesli\s|jak z\s|a na\s|a co\s|a jak\s|a jeśli\s|a jesli\s)/i.test(value);
+  if (!value || value.length > 220) return false;
+  return /^(a\s|ale\s|i\s|to\s|no\s|czyli\s|więc\s|wiec\s|co z\s|co jeśli\s|co jesli\s|jak z\s|a na\s|a co\s|a jak\s|a jeśli\s|a jesli\s|masz\s|możesz\s|mozesz\s|jeszcze\s)/i.test(value);
 }
 
 function retrievalQuery(messages) {
   const latest = messages[messages.length - 1]?.content || "";
   if (!isLikelyFollowUp(messages)) return latest;
-  const priorUser = [...messages.slice(0, -1)].reverse().find((m) => m.role === "user")?.content || "";
-  const priorAssistant = [...messages.slice(0, -1)].reverse().find((m) => m.role === "assistant")?.content || "";
-  return [priorUser, priorAssistant, latest].filter(Boolean).join("\n");
+  const history = messages.slice(0, -1);
+  const priorUser = [...history].reverse().find((m) => m.role === "user")?.content || "";
+  const priorAssistant = [...history].reverse().find((m) => m.role === "assistant")?.content || "";
+  const earlierUser = [...history].reverse().filter((m) => m.role === "user")[1]?.content || "";
+  return [earlierUser, priorUser, priorAssistant, latest].filter(Boolean).join("\n");
 }
 
 function cleanMessages(input) {
@@ -828,7 +833,7 @@ Odpowiedz wyłącznie na podstawie fragmentów poniżej. Parafrazuj i skracaj, a
 Przed wysłaniem usuń wszystko, czego nie potwierdzają fragmenty.
 
 ${rag.context}`
-        : "HANKA BRAIN: brak wystarczającego źródła. Jeśli pytanie wymaga faktów, liczb, aktualnych zasad lub konkretnej porady, nie odpowiadaj z wiedzy modelowej i nie zgaduj. Powiedz krótko po polsku, że nie masz teraz wystarczająco pewnych informacji w Hanka Brain. Możesz normalnie odpowiadać na luźną rozmowę, humor i wypowiedzi niefaktograficzne.";
+        : "Brak materiału źródłowego. Jeśli bieżąca wiadomość jest luźną rozmową, komentarzem, żartem, prośbą niefaktograficzną albo odnosi się do samej rozmowy, odpowiedz normalnie w charakterze Hanki. Jeśli jest to kontekstowy follow-up, korzystaj z wcześniejszych wiadomości, ale nie wymyślaj nowych faktów. Gdy pytanie wymaga konkretnych faktów, liczb, aktualnych zasad lub porady, których nie ma w rozmowie, powiedz krótko, że nie masz wystarczająco pewnych informacji.";
 
       const result = await askModel(env, [
         { role: "system", content: HANKA_SYSTEM_PROMPT },
