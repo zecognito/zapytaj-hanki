@@ -1,0 +1,21 @@
+{
+  "id": "ga-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "GA",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Georgii",
+  "facts": [
+    "Georgia ma stanową minimum wage, ale dla wielu pracowników objętych federalnym FLSA praktycznie obowiązuje wyższa federalna minimum wage.",
+    "To, która stawka ma zastosowanie, zależy od coverage pracownika i pracodawcy oraz właściwych przepisów.",
+    "Georgia Department of Labor publikuje informacje o stanowych wage laws, a federalny Department of Labor o FLSA."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dol.georgia.gov/laws-and-rules/gdol-rules"
+  ],
+  "related_public_pages": []
+}
