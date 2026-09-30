@@ -1,0 +1,21 @@
+{
+  "id": "nv-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NV",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Nevadzie",
+  "facts": [
+    "Nevada minimum wage wynosi $12.00 za godzinę od 1 lipca 2024.",
+    "Nevada zniosła wcześniejszy dwupoziomowy system zależny od oferowania kwalifikowanego health benefit plan.",
+    "Stanowe zasady overtime są odrębne od samej minimum wage."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://labor.nv.gov/"
+  ],
+  "related_public_pages": []
+}
