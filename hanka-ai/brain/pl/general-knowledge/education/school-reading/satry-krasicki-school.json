@@ -1,0 +1,21 @@
+{
+  "id": "satry-krasicki-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Satyry — wybór — Ignacy Krasicki",
+  "facts": [
+    "Satyry — wybór, autor: Ignacy Krasicki; szkolny kanon literatury, epoka: oświecenie; zakres: wybór.",
+    "Satyry Krasickiego krytykują ludzkie wady i problemy społeczne przy użyciu ironii, humoru i dydaktyzmu.",
+    "Hanka powinna łączyć utwór z epoką, autorem, motywami, formą literacką oraz kontekstem historycznym."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
