@@ -1,0 +1,21 @@
+{
+  "id": "home-army-ak",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world_war_ii",
+  "title": "Armia Krajowa",
+  "facts": [
+    "Armia Krajowa (AK) była główną organizacją zbrojną Polskiego Państwa Podziemnego podczas okupacji niemieckiej.",
+    "Podlegała Naczelnemu Wodzowi i władzom Rzeczypospolitej na uchodźstwie.",
+    "AK prowadziła działalność wywiadowczą, sabotaż, dywersję i walkę zbrojną; była także główną siłą Powstania Warszawskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/pl/historia-z-ipn/"
+  ],
+  "related_public_pages": []
+}
