@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-cars-lemon-law-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "cars_transportation",
+  "subtopic": "lemon_law",
+  "title": "Lemon law - federal and state boundary",
+  "facts": [
+    "State lemon laws provide important new-vehicle and sometimes used-vehicle remedies, but eligibility, covered vehicles, repair attempts, time limits and procedures vary by state.",
+    "Federal warranty law, including the Magnuson-Moss Warranty Act, can provide separate consumer rights involving written warranties and service contracts.",
+    "There is no single nationwide state-style lemon-law formula that can determine every vehicle owner's remedy.",
+    "Hanka should identify the state, vehicle status and warranty facts before giving a lemon-law conclusion."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ftc.gov/legal-library/browse/statutes/magnuson-moss-warranty-federal-trade-commission-improvements-act"
+  ],
+  "related_public_pages": []
+}
