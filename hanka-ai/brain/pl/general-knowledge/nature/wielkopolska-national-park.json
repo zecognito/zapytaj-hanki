@@ -1,0 +1,21 @@
+{
+  "id": "wielkopolska-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national-parks",
+  "title": "Wielkopolski Park Narodowy",
+  "facts": [
+    "Wielkopolski Park Narodowy znajduje się na południe od Poznania.",
+    "Chroni krajobraz polodowcowy z jeziorami, wzgórzami morenowymi, głazami narzutowymi i lasami.",
+    "Bliskość dużej aglomeracji sprawia, że park jest jednym z ważnych terenów ochrony przyrody i rekreacji w sąsiedztwie Poznania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://wpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
