@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polish-deli-hollywood-fl",
+  "country": "US",
+  "category": "store",
+  "name": "Polish Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "Hollywood area",
+    "city": "Hollywood",
+    "state": "FL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Hollywood",
+    "FL"
+  ],
+  "notes": [
+    "Commercial directory record; current status, exact address where incomplete, hours and services require periodic reverification."
+  ],
+  "official_source": "https://www.gov.pl/web/usa/relacje-dwustronne",
+  "last_verified": "2026-09-30"
+}
