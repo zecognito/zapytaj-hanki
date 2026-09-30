@@ -30,7 +30,22 @@ function json(data, status, request) {
 function isClearlyCasual(text) {
   const value = String(text || "").trim().toLowerCase();
   if (!value || value.length > 220) return false;
-  return /^(cześć|czesc|hej|hejka|siema|dzień dobry|dzien dobry|dobry wieczór|dobry wieczor|dzięki|dzieki|dziękuję|dziekuje|co tam|jak się masz|jak sie masz|kim jesteś|kim jestes|opowiedz żart|opowiedz zart|powiedz żart|powiedz zart)[!?.\s]*$/i.test(value);
+  return /^(cześć|czesc|hej|hejka|siema|elo|dzień dobry|dzien dobry|dobry wieczór|dobry wieczor|dzięki|dzieki|dziękuję|dziekuje|co tam|co u ciebie|co słychać|co slychac|jak tam|jak leci|jak się masz|jak sie masz|kim jesteś|kim jestes|opowiedz żart|opowiedz zart|powiedz żart|powiedz zart)[!?.\s]*$/i.test(value);
+}
+
+function isLikelyFollowUp(messages) {
+  if (!Array.isArray(messages) || messages.length < 3) return false;
+  const value = String(messages[messages.length - 1]?.content || "").trim().toLowerCase();
+  if (!value || value.length > 180) return false;
+  return /^(a\s|ale\s|i\s|to\s|no\s|czyli\s|więc\s|wiec\s|co z\s|co jeśli\s|co jesli\s|jak z\s|a na\s|a co\s|a jak\s|a jeśli\s|a jesli\s)/i.test(value);
+}
+
+function retrievalQuery(messages) {
+  const latest = messages[messages.length - 1]?.content || "";
+  if (!isLikelyFollowUp(messages)) return latest;
+  const priorUser = [...messages.slice(0, -1)].reverse().find((m) => m.role === "user")?.content || "";
+  const priorAssistant = [...messages.slice(0, -1)].reverse().find((m) => m.role === "assistant")?.content || "";
+  return [priorUser, priorAssistant, latest].filter(Boolean).join("\n");
 }
 
 function cleanMessages(input) {
@@ -782,14 +797,19 @@ export default {
 
     try {
       const latestQuestion = messages[messages.length - 1].content;
+      const casual = isClearlyCasual(latestQuestion);
+      const followUp = isLikelyFollowUp(messages);
       let rag = { context: "", sources: [], matches: [] };
-      try {
-        rag = await retrieveContext(env, latestQuestion);
-      } catch (error) {
-        console.warn("Hanka retrieval unavailable", error);
+
+      if (!casual) {
+        try {
+          rag = await retrieveContext(env, retrievalQuery(messages));
+        } catch (error) {
+          console.warn("Hanka retrieval unavailable", error);
+        }
       }
 
-      if (!rag.context && !isClearlyCasual(latestQuestion)) {
+      if (!rag.context && !casual && !followUp) {
         return json({
           answer: "Nie mam teraz wystarczająco pewnych informacji, żeby odpowiedzieć bez zgadywania.",
           sources: rag.sources,
@@ -833,7 +853,11 @@ ${rag.context}`
         return json({ error: "Model returned no text", code, diagnostic }, 502, request);
       }
 
-      return json({ answer, sources: rag.sources, debug: { brain: Boolean(rag.context), matches: rag.matches || [] } }, 200, request);
+      return json({
+        answer,
+        sources: casual ? [] : rag.sources,
+        debug: casual ? { brain: false, matches: [] } : { brain: Boolean(rag.context), matches: rag.matches || [] }
+      }, 200, request);
     } catch (error) {
       console.error("Hanka model error", error);
       return json({ error: "Hanka chwilowo nie odpowiada. Spróbuj ponownie za moment." }, 502, request);
