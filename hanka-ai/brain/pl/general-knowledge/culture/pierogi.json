@@ -1,0 +1,21 @@
+{
+  "id": "pierogi",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Pierogi",
+  "facts": [
+    "Pierogi są jednym z najbardziej rozpoznawalnych dań kuchni polskiej: kawałki ciasta wypełnia się farszem, składa i najczęściej gotuje.",
+    "Popularne farsze obejmują m.in. ziemniaki i twaróg, kapustę i grzyby, mięso oraz owoce.",
+    "Pierogi występują w wielu regionalnych i rodzinnych odmianach; nie istnieje jeden farsz definiujący wszystkie polskie pierogi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101-pierogi"
+  ],
+  "related_public_pages": []
+}
