@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-stephen-reading-pa",
+  "country": "US",
+  "category": "church",
+  "name": "St. Stephen the Martyr Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "20 St Stephen's Church Ln",
+    "city": "Reading",
+    "state": "PA",
+    "postal_code": "19607",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 610 775 4559",
+  "email": null,
+  "website": "https://www.ststephenpncc.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "PA"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish source."
+  ],
+  "official_source": "https://www.ststephenpncc.org/",
+  "last_verified": "2026-09-30"
+}
