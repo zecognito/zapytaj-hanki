@@ -1,0 +1,21 @@
+{
+  "id": "nc-fns",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NC",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "Food and Nutrition Services / SNAP w Karolinie Północnej",
+  "facts": [
+    "North Carolina nazywa swój program SNAP Food and Nutrition Services (FNS).",
+    "FNS zapewnia food benefits kwalifikującym się gospodarstwom domowym.",
+    "Eligibility i benefit amount zależą od wielkości gospodarstwa, dochodu i innych zasad programu; local DSS uczestniczy w administracji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ncdhhs.gov/divisions/child-and-family-well-being/food-and-nutrition-services-food-stamps"
+  ],
+  "related_public_pages": []
+}
