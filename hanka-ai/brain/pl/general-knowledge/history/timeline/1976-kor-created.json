@@ -1,0 +1,22 @@
+{
+  "id": "1976-kor-created",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "wrzesień 1976 — powstanie KOR",
+  "facts": [
+    "We wrześniu 1976 r. powstał Komitet Obrony Robotników.",
+    "Jego członkowie organizowali pomoc prawną, finansową i informacyjną dla osób represjonowanych po protestach czerwcowych.",
+    "KOR stał się jednym z najważniejszych środowisk opozycji demokratycznej poprzedzających Solidarność."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
