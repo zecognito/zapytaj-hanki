@@ -1,0 +1,37 @@
+{
+  "id": "polonia-business-seakor-polish-deli-san-francisco",
+  "country": "US",
+  "category": "store",
+  "name": "Seakor Polish Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "5957 Geary Blvd",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94121",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 415-387-8660",
+  "email": null,
+  "website": "https://www.seakorpolishdelis.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Imported Polish foods",
+    "homemade pierogi",
+    "Polish sausages and deli meats"
+  ],
+  "coverage_area": [
+    "San Francisco",
+    "CA"
+  ],
+  "notes": [
+    "Current Polish-food connection supported by an official business source or recent/local Polonia source; commercial details remain freshness-sensitive."
+  ],
+  "official_source": "https://www.seakorpolishdelis.com/",
+  "last_verified": "2026-09-30"
+}
