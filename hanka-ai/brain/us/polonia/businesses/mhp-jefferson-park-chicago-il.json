@@ -1,0 +1,33 @@
+{
+  "id": "polonia-prof-doctor-mhp-jefferson-park-chicago-il",
+  "country": "US",
+  "category": "doctor",
+  "name": "Metropolitan Healthcare Partners - Jefferson Park",
+  "status": "active",
+  "location": {
+    "address": "5605 W Gunnison St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "primary care",
+    "internal medicine",
+    "family care",
+    "diagnostic and screening services"
+  ],
+  "phone": "+1 773-647-2009",
+  "email": null,
+  "website": "https://mhp.healthcare/",
+  "official_source": "https://mhp.healthcare/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official health-system site marks the Jefferson Park clinic as a location where Polish is spoken. Stored at clinic level to avoid unsupported language claims about individual clinicians."
+  ]
+}
