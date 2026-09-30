@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-death-probate-state-law-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "death_inheritance",
+  "subtopic": "probate_boundary",
+  "title": "Wills, probate and intestacy - state-law boundary",
+  "facts": [
+    "Wills, probate procedure, intestate succession, executor or personal-representative powers and most creditor-claim deadlines are primarily matters of state law.",
+    "There is no single federal rule stating who inherits an estate when a U.S. resident dies without a will.",
+    "Federal tax, Social Security, retirement-plan and benefit rules can affect an estate without replacing state probate law.",
+    "Hanka should identify the decedent's state of domicile and, for real estate, the property's location before giving a specific probate or intestacy answer."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/wills-estates"
+  ],
+  "related_public_pages": []
+}
