@@ -1,0 +1,23 @@
+{
+  "id": "il-auto-liability-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "vehicles",
+  "subtopic": "insurance",
+  "title": "Illinois mandatory auto liability insurance",
+  "facts": [
+    "Illinois minimum auto liability limits are $25,000 for injury or death of one person, $50,000 for injury or death of more than one person, and $20,000 for property damage.",
+    "Liability insurance is required for motor vehicles that must display license plates and are driven in Illinois; trailers are not subject to this requirement.",
+    "Illinois electronically verifies insurance coverage for registered vehicles at least twice each year.",
+    "A first registration suspension for failure to maintain required liability insurance requires obtaining coverage and paying a $100 reinstatement fee."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ilsos.gov/departments/vehicles/mandatory-insurance.html",
+    "https://www.ilsos.gov/departments/vehicles/faq.html"
+  ],
+  "related_public_pages": []
+}
