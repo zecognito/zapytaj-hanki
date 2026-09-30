@@ -1,0 +1,21 @@
+{
+  "id": "occupation-poland-two-powers",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world_war_ii",
+  "title": "Okupacja Polski przez Niemcy i ZSRR",
+  "facts": [
+    "Po agresjach we wrześniu 1939 r. terytorium II Rzeczypospolitej zostało podzielone między okupantów niemieckiego i sowieckiego.",
+    "Oba systemy okupacyjne prowadziły represje, choć miały różne struktury, ideologie i polityki.",
+    "Historia okupowanej Polski obejmuje Zagładę Żydów, terror wobec ludności cywilnej, deportacje, pracę przymusową, podziemie i opór."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://muzeum1939.pl/"
+  ],
+  "related_public_pages": []
+}
