@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-moving-ssa-address",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "moving_life_admin",
+  "subtopic": "ssa_admin",
+  "title": "Changing address with Social Security",
+  "facts": [
+    "People receiving Social Security benefits or enrolled in Medicare can generally update their mailing address through applicable Social Security online services or by contacting SSA.",
+    "Not every person with a Social Security number needs to report an ordinary residential move to SSA when they are not receiving benefits or services that require a current address.",
+    "Address changes do not automatically change direct-deposit bank information; payment information is managed separately.",
+    "Some people outside the United States or with certain benefit types may need to use different SSA procedures."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/manage-benefits/update-contact-information"
+  ],
+  "related_public_pages": []
+}
