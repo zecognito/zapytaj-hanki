@@ -1,0 +1,21 @@
+{
+  "id": "telewizja-polska",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "media-pop-culture",
+  "title": "Telewizja Polska — TVP",
+  "facts": [
+    "Telewizja Polska, TVP, jest polskim nadawcą publicznym telewizji.",
+    "Do jej głównych anten należą m.in. TVP1 i TVP2, a działalność obejmuje także kanały tematyczne i regionalne.",
+    "Bieżące kwestie zarządzania, władz i statusu instytucjonalnego TVP mogą być politycznie i prawnie sporne, dlatego wymagają aktualnych źródeł."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.tvp.pl/"
+  ],
+  "related_public_pages": []
+}
