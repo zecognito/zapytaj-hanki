@@ -1,0 +1,21 @@
+{
+  "id": "country-saint-marin",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "San Marino",
+  "facts": [
+    "San Marino jest małym śródlądowym państwem całkowicie otoczonym przez Włochy.",
+    "Stolicą jest San Marino, językiem urzędowym włoski, a używaną walutą euro.",
+    "San Marino jest republiką i wywodzi swoją tradycję państwowości ze średniowiecza, należąc do najstarszych istniejących republik świata."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.sm/"
+  ],
+  "related_public_pages": []
+}
