@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-dmv-voter-registration-nvra",
+  "subtopic": "government_service_boundaries",
+  "title": "DMV a voter registration — federalna zasada Motor Voter",
+  "facts": [
+    "National Voter Registration Act wymaga od covered states oferowania voter-registration opportunities przy określonych driver's-license transactions oraz w wyznaczonych public-assistance offices.",
+    "DMV może więc uczestniczyć w voter registration, ale eligibility to vote i prowadzenie voter rolls pozostają sprawami regulowanymi przez federalne i stanowe prawo wyborcze.",
+    "Złożenie DMV transaction nie oznacza automatycznie, że każda osoba jest eligible to register; applicant musi spełniać właściwe wymagania.",
+    "North Dakota nie prowadzi voter registration i jest wyjątkiem od typowego systemu rejestracji wyborców."
+  ],
+  "official_sources": [
+    "https://www.justice.gov/crt/national-voter-registration-act-1993-nvra",
+    "https://www.eac.gov/voters/national-mail-voter-registration-form"
+  ]
+}
