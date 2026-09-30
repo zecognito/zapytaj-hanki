@@ -1,0 +1,21 @@
+{
+  "id": "biebrza-river",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "rivers",
+  "title": "Biebrza",
+  "facts": [
+    "Biebrza jest rzeką północno-wschodniej Polski i dopływem Narwi.",
+    "Jej rozległa dolina bagienna jest jednym z najważniejszych obszarów mokradłowych w kraju.",
+    "Znaczna część doliny jest chroniona przez Biebrzański Park Narodowy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://bbpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
