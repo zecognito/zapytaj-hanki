@@ -1,0 +1,21 @@
+{
+  "id": "grzybobranie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "everyday-life",
+  "title": "Grzybobranie",
+  "facts": [
+    "Zbieranie grzybów w lasach jest popularną polską tradycją rekreacyjną.",
+    "W wielu lasach państwowych można zbierać grzyby na własne potrzeby bez opłaty, z wyjątkami wynikającymi m.in. z ochrony przyrody i zakazów wstępu.",
+    "Nieznanych grzybów nie należy spożywać; rozpoznawanie gatunków ma znaczenie dla bezpieczeństwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.lasy.gov.pl/"
+  ],
+  "related_public_pages": []
+}
