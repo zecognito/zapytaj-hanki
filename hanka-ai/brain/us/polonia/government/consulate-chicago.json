@@ -1,0 +1,48 @@
+{
+  "id": "polonia-gov-consulate-chicago",
+  "country": "US",
+  "category": "consulate_general",
+  "name": "Consulate General of the Republic of Poland in Chicago",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1530 North Lake Shore Drive",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60610",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 312 337 8166",
+  "email": "chicago.consul@msz.gov.pl",
+  "website": "https://www.gov.pl/web/usa-en/consulate-chicago",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "passports",
+    "visas",
+    "citizenship",
+    "legal matters",
+    "civil status",
+    "Karta Polaka",
+    "consular assistance"
+  ],
+  "coverage_area": [
+    "IL",
+    "IN",
+    "IA",
+    "MI",
+    "MN",
+    "MO",
+    "NE",
+    "ND",
+    "OH",
+    "SD",
+    "WI"
+  ],
+  "notes": [],
+  "official_source": "https://www.gov.pl/web/usa-en/consulate-chicago",
+  "last_verified": "2026-09-30"
+}
