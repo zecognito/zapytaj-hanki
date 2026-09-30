@@ -1,0 +1,22 @@
+{
+  "id": "polonia-acs-ancestry-method",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "demographics",
+  "subtopic": "polonia_methodology",
+  "title": "Jak Census liczy Polish ancestry?",
+  "facts": [
+    "ACS B04006 liczy osoby zgłaszające dane ancestry niezależnie od tego, czy wskazały jedno czy wiele pochodzeń.",
+    "Dla mniejszych geografii dostępna jest skrócona tabela C04006 obejmująca Polish.",
+    "Ancestry jest deklarowanym pochodzeniem i nie oznacza automatycznie miejsca urodzenia ani obywatelstwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/data/academy/resources/one-pagers/ancestry.html",
+    "https://api.census.gov/data/2024/acs/acs5/groups/B04006.html"
+  ],
+  "related_public_pages": []
+}
