@@ -1,0 +1,21 @@
+{
+  "id": "country-japan",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Japonia",
+  "facts": [
+    "Japonia jest państwem wyspiarskim w Azji Wschodniej, położonym na zachodnim Pacyfiku.",
+    "Stolicą jest Tokio, głównym językiem japoński, a walutą jen.",
+    "Japonia jest monarchią konstytucyjną z parlamentarnym systemem rządów i należy do G7."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.japan.go.jp/japan/index.html"
+  ],
+  "related_public_pages": []
+}
