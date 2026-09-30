@@ -1,0 +1,21 @@
+{
+  "id": "chlopcy-z-placu-broni",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Chłopcy z Placu Broni — Ferenc Molnár",
+  "facts": [
+    "Chłopcy z Placu Broni, autor: Ferenc Molnár, znajduje się w podstawie programowej języka polskiego dla szkoły podstawowej na rok szkolny 2025/2026 jako lektura obowiązkowa dla klas IV–VI.",
+    "Powieść o przyjaźni, lojalności i poświęceniu grupy chłopców broniących swojego placu w Budapeszcie.",
+    "Status lektury może zmieniać się wraz ze zmianą podstawy programowej; przy pytaniu o bieżący wykaz należy sprawdzić aktualną listę MEN/ZPE."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-podstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
