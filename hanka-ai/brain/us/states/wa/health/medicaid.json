@@ -1,0 +1,21 @@
+{
+  "id": "wa-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WA",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Apple Health — Medicaid w Washington",
+  "facts": [
+    "Apple Health jest stanowym programem Medicaid dla kwalifikujących się mieszkańców.",
+    "Eligibility zależy od kategorii programu, dochodu gospodarstwa domowego i innych obowiązujących kryteriów.",
+    "Wniosek i odnowienie coverage prowadzi właściwa administracja stanowa zgodnie z aktualnymi zasadami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.hca.wa.gov/free-or-low-cost-health-care/apple-health-medicaid-coverage"
+  ],
+  "related_public_pages": []
+}
