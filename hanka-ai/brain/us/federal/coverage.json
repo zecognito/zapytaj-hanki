@@ -359,7 +359,12 @@
         "gifts_inheritance",
         "documents",
         "dual_citizenship",
-        "travel"
+        "travel",
+        "tax_reporting",
+        "civil_status",
+        "pesel_passports",
+        "legal_documents",
+        "consular_services"
       ],
       "completed_subtopics": [
         "social_security_agreement",
@@ -374,7 +379,12 @@
         "gifts_inheritance",
         "documents",
         "dual_citizenship",
-        "travel"
+        "travel",
+        "tax_reporting",
+        "civil_status",
+        "pesel_passports",
+        "legal_documents",
+        "consular_services"
       ]
     },
     {
