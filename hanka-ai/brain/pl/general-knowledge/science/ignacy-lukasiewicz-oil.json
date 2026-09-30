@@ -1,0 +1,21 @@
+{
+  "id": "ignacy-lukasiewicz-oil",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Ignacy Łukasiewicz i przemysł naftowy",
+  "facts": [
+    "Ignacy Łukasiewicz był polskim farmaceutą, przedsiębiorcą i pionierem przemysłu naftowego w XIX wieku.",
+    "Jest związany z udoskonaleniem lampy naftowej i wykorzystaniem destylowanej ropy jako paliwa oświetleniowego.",
+    "Rozwijał także wydobycie i przetwórstwo ropy na terenach Galicji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://muzeumprzemyslunaftowego.pl/"
+  ],
+  "related_public_pages": []
+}
