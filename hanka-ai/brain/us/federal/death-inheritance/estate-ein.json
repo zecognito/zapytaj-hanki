@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-death-estate-ein",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "death_inheritance",
+  "subtopic": "estate_tax_admin",
+  "title": "Estate EIN - federal basics",
+  "facts": [
+    "A decedent's estate is generally a separate tax entity from the deceased individual and may need its own Employer Identification Number.",
+    "An estate should not simply continue using the deceased person's Social Security number as the estate's taxpayer identification number.",
+    "The responsible fiduciary can apply for an EIN through IRS procedures.",
+    "Whether the estate must file a federal income tax return is a separate question from whether an EIN is obtained."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/businesses/small-businesses-self-employed/estate-administrator"
+  ],
+  "related_public_pages": []
+}
