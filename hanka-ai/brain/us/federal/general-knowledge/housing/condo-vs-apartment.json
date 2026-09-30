@@ -1,0 +1,21 @@
+{
+  "id": "condo-vs-apartment",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "housing",
+  "subtopic": "housing_terms",
+  "title": "Condo a apartment",
+  "facts": [
+    "Condominium opisuje formę własności, w której właściciel posiada indywidualną unit oraz udział w common elements zgodnie z prawem właściwej jurysdykcji.",
+    "Apartment opisuje przede wszystkim jednostkę mieszkalną i często kojarzy się z wynajmem, ale sam układ budynku może wyglądać podobnie do condo.",
+    "Condo może być wynajmowane przez właściciela, dlatego condo nie zawsze oznacza, że mieszkaniec jest właścicielem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.hud.gov/hud-partners/single-family-condominiums"
+  ],
+  "related_public_pages": []
+}
