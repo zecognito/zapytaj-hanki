@@ -1,0 +1,21 @@
+{
+  "id": "fl-homestead-exemption",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "FL",
+  "topic": "housing",
+  "subtopic": "property_tax_relief",
+  "title": "Homestead Exemption na Florydzie",
+  "facts": [
+    "Kwalifikujący się właściciel Florida homestead może otrzymać exemption od części assessed value używanej do property tax.",
+    "Florida homestead ma również mechanizm Save Our Homes ograniczający wzrost assessed value kwalifikującej się homestead property zgodnie z prawem.",
+    "Wniosek i administracja odbywają się przez county property appraiser, a terminy i dokumenty należy sprawdzić lokalnie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://floridarevenue.com/property/Pages/Taxpayers_Exemptions.aspx"
+  ],
+  "related_public_pages": []
+}
