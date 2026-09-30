@@ -1,0 +1,21 @@
+{
+  "id": "jozef-rotblat",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Józef Rotblat",
+  "facts": [
+    "Józef Rotblat był urodzonym w Warszawie fizykiem, który później działał w Wielkiej Brytanii.",
+    "Brał udział w Projekcie Manhattan, lecz odszedł z projektu przed zakończeniem wojny.",
+    "W 1995 r. otrzymał Pokojową Nagrodę Nobla wspólnie z ruchem Pugwash za działalność na rzecz ograniczenia roli broni jądrowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nobelprize.org/prizes/peace/1995/rotblat/facts/"
+  ],
+  "related_public_pages": []
+}
