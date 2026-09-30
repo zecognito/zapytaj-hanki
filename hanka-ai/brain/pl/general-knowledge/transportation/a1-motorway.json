@@ -1,0 +1,21 @@
+{
+  "id": "a1-motorway",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Autostrada A1",
+  "facts": [
+    "A1 jest główną autostradą biegnącą w osi północ–południe Polski.",
+    "Łączy rejon Trójmiasta z centralną i południową Polską oraz kierunkiem granicy z Czechami.",
+    "Stan konkretnych odcinków, remonty i opłaty należy sprawdzać w aktualnych źródłach drogowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
