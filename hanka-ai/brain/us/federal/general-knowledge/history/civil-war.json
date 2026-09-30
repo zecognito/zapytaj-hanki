@@ -1,0 +1,22 @@
+{
+  "id": "civil-war",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "history",
+  "subtopic": "milestones",
+  "title": "American Civil War",
+  "facts": [
+    "American Civil War trwała od 1861 do 1865 r.",
+    "Wojna była konfliktem między United States (Union) a 11 południowymi stanami, które dokonały secesji i utworzyły Confederacy.",
+    "Niewolnictwo było centralną przyczyną secesji i wojny; zwycięstwo Union zachowało USA jako jedno państwo, a 13th Amendment zniosła niewolnictwo z wyjątkiem kary za przestępstwo."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/civilwar/facts.htm",
+    "https://www.archives.gov/milestone-documents/13th-amendment"
+  ],
+  "related_public_pages": []
+}
