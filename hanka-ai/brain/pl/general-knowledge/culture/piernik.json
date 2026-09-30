@@ -1,0 +1,21 @@
+{
+  "id": "piernik",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Piernik",
+  "facts": [
+    "Piernik to rodzina polskich wypieków korzennych przygotowywanych w różnych formach, od miękkich ciast po twardsze pierniczki.",
+    "Toruń jest szczególnie znany z wielowiekowej tradycji piernikarskiej.",
+    "Pierniki są silnie związane z okresem Bożego Narodzenia, ale nie są wyłącznie potrawą świąteczną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://muzeum.torun.pl/dom-mikolaja-kopernika/muzeum-torunskiego-piernika/"
+  ],
+  "related_public_pages": []
+}
