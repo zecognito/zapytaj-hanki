@@ -1,0 +1,21 @@
+{
+  "id": "world-oceans",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "geography",
+  "subtopic": "oceans",
+  "title": "Oceany świata",
+  "facts": [
+    "Współcześnie powszechnie wyróżnia się pięć oceanów: Spokojny, Atlantycki, Indyjski, Południowy i Arktyczny.",
+    "Ocean Spokojny jest największym i najgłębszym oceanem Ziemi.",
+    "Oceany tworzą połączony globalny system wodny i pokrywają większość powierzchni Ziemi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://oceanservice.noaa.gov/facts/howmanyoceans.html"
+  ],
+  "related_public_pages": []
+}
