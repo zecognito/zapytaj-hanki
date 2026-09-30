@@ -1,0 +1,21 @@
+{
+  "id": "e-prescription-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "healthcare",
+  "subtopic": "digital",
+  "title": "E-recepta",
+  "facts": [
+    "E-recepta jest standardową elektroniczną formą recepty w Polsce.",
+    "Pacjent może otrzymać informacje potrzebne do realizacji recepty m.in. przez Internetowe Konto Pacjenta, aplikację lub inne dopuszczone kanały.",
+    "Okres ważności i zasady realizacji zależą od rodzaju leku i recepty, więc konkretny przypadek wymaga aktualnej weryfikacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://pacjent.gov.pl/internetowe-konto-pacjenta/erecepta"
+  ],
+  "related_public_pages": []
+}
