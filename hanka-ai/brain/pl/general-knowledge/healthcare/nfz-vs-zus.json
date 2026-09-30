@@ -1,0 +1,22 @@
+{
+  "id": "nfz-vs-zus",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "healthcare",
+  "subtopic": "institutions",
+  "title": "NFZ a ZUS — różnica",
+  "facts": [
+    "NFZ i ZUS są różnymi instytucjami pełniącymi inne funkcje.",
+    "NFZ finansuje świadczenia opieki zdrowotnej w publicznym systemie, natomiast ZUS realizuje zadania dotyczące ubezpieczeń społecznych, składek i wielu świadczeń pieniężnych.",
+    "W praktyce składki i uprawnienia mogą być ze sobą powiązane, ale nazw NFZ i ZUS nie należy używać zamiennie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nfz.gov.pl/",
+    "https://www.zus.pl/"
+  ],
+  "related_public_pages": []
+}
