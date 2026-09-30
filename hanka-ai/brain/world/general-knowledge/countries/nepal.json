@@ -1,0 +1,21 @@
+{
+  "id": "country-nepal",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Nepal",
+  "facts": [
+    "Nepal jest śródlądowym państwem Azji Południowej między Indiami a Chinami.",
+    "Stolicą jest Katmandu, językiem urzędowym nepalski, a walutą rupia nepalska.",
+    "Nepal jest federalną republiką; na jego granicy z Chinami znajduje się Mount Everest, najwyższy szczyt Ziemi nad poziomem morza."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mofa.gov.np/about-nepal/"
+  ],
+  "related_public_pages": []
+}
