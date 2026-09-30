@@ -1,0 +1,32 @@
+{
+  "id": "polonia-prof-doctor-florida-cosmetic-center-palm-harbor-fl",
+  "country": "US",
+  "category": "doctor",
+  "name": "Florida Cosmetic Center - Palm Harbor",
+  "status": "active",
+  "location": {
+    "address": "35112 US Highway 19 N",
+    "city": "Palm Harbor",
+    "state": "FL",
+    "postal_code": "34684",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "cosmetic medicine",
+    "aesthetic treatments",
+    "medical aesthetics"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://www.floridacosmeticcenter.com/",
+  "official_source": "https://www.floridacosmeticcenter.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official practice website provides Polish-language content/service. Category doctor is schema-limited and represents the medical practice rather than asserting Polish fluency for every clinician."
+  ]
+}
