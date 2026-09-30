@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-benefits-snap-income-standards-fy2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "benefits",
+  "subtopic": "snap_federal_rules",
+  "title": "SNAP federal income standards - FY 2026",
+  "facts": [
+    "For SNAP fiscal year October 1, 2025 through September 30, 2026, the federal gross monthly income standard for a 1-person household in the 48 contiguous states and D.C. is $1,696, and the net monthly income standard is $1,305.",
+    "For a 4-person household in the 48 contiguous states and D.C., the FY 2026 gross monthly standard is $3,483 and the net monthly standard is $2,680.",
+    "The standard gross-income test is generally 130% of the federal poverty level and the net-income test 100%, but categorical eligibility, household composition, age/disability rules and state options can change how tests apply.",
+    "Alaska and Hawaii use different federal standards."
+  ],
+  "effective_from": "2025-10-01",
+  "effective_to": "2026-09-30",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fns.usda.gov/snap/fy-2026-cola"
+  ],
+  "related_public_pages": []
+}
