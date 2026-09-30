@@ -1,0 +1,21 @@
+{
+  "id": "autostrada-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Autostrady w Polsce",
+  "facts": [
+    "Polskie autostrady są oznaczane literą A i numerem, np. A1, A2 lub A4.",
+    "Są drogami o ograniczonym dostępie przeznaczonymi do szybkiego ruchu samochodowego.",
+    "Zasady opłat zależą od odcinka, kategorii pojazdu i aktualnego systemu poboru opłat."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
