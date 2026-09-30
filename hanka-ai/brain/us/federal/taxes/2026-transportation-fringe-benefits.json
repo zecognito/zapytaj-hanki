@@ -1,0 +1,20 @@
+{
+  "id": "us-federal-transportation-fringe-benefits-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "transportation_fringe_benefits",
+  "title": "Qualified transportation fringe benefits — 2026",
+  "facts": [
+    "W 2026 miesięczny exclusion limit dla qualified parking wynosi $340.",
+    "W 2026 miesięczny exclusion limit dla commuter highway vehicle transportation oraz transit passes wynosi $340."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/publications/p15b"
+  ],
+  "related_public_pages": []
+}
