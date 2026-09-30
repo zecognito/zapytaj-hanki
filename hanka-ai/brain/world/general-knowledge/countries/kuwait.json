@@ -1,0 +1,21 @@
+{
+  "id": "country-kuwait",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Kuwejt",
+  "facts": [
+    "Kuwejt jest niewielkim państwem nad Zatoką Perską, położonym między Irakiem a Arabią Saudyjską.",
+    "Stolicą jest Kuwejt, językiem urzędowym arabski, a walutą dinar kuwejcki.",
+    "Kuwejt jest monarchią konstytucyjną i znaczącym producentem ropy naftowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.e.gov.kw/sites/kgoenglish/Pages/HomePage.aspx"
+  ],
+  "related_public_pages": []
+}
