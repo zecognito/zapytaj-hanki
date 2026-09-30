@@ -1,0 +1,33 @@
+{
+  "id": "polonia-prof-real-estate-virtual-key-chicago-il",
+  "country": "US",
+  "category": "real_estate",
+  "name": "Virtual Key Realty",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "buyer representation",
+    "seller representation",
+    "investment real estate",
+    "residential real estate"
+  ],
+  "phone": "+1 773-837-4815",
+  "email": "sale@virtualkeyrealestate.com",
+  "website": "https://virtualkeyrealestate.com/",
+  "official_source": "https://virtualkeyrealestate.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official brokerage site explicitly states clients can receive complete real-estate guidance in English or Polish. Street office omitted pending first-party confirmation."
+  ]
+}
