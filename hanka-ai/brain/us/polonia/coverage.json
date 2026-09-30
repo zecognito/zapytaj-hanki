@@ -43,14 +43,14 @@
       ]
     },
     "businesses": {
-      "status": "professionals_national_expansion",
-      "records": 298,
+      "status": "professionals_quality_gated_expansion",
+      "records": 295,
       "notes": [
         "Food/retail first-pass audit closed at 167 records; machine schema validation remains mandatory before ingestion.",
-        "Latest direct-provider sweep exposed weaker search evidence outside structured first-party sources. Expansion is now explicitly quality-gated: do not convert Polish-community directory leads into active professionals without current first-party provider evidence.",
-        "This pass added five discovery records, including two deliberately unverified candidates. Unverified candidates are quarantine/discovery data only and must never be recommended or outrank active verified providers.",
-        "The State Farm-style standard remains preferred: current provider-controlled page, explicit Polish capability, current location/contact. Future healthcare, accounting/tax, real-estate and bank expansion should prioritize sources that can meet that standard rather than raw volume.",
-        "Bank evidence tiers remain locked. Vectorize remains blocked until coverage and schema/status-aware ingestion are mature."
+        "Professional expansion is now hard quality-gated. Weak unverified placeholders are removed rather than accumulated. Three prior weak candidate records were deleted in this pass; one newly-created dental lead was also deleted immediately after failing first-party review.",
+        "Northwest Dental Group Park Ridge was retained as an active provider because its official practice presence explicitly supports Polish-language service. Address remains null until first-party location confirmation.",
+        "Current count intentionally decreased from 298 to 295 after cleanup plus one retained quality-gated addition. Count is not an optimization target; verified usefulness is.",
+        "Future healthcare, accounting/tax, real-estate and bank records require provider-controlled current evidence, explicit Polish capability, and current location/contact where available. Vectorize remains blocked until coverage and schema/status-aware ingestion are mature."
       ]
     },
     "media_culture": {
