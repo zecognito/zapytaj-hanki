@@ -1,0 +1,21 @@
+{
+  "id": "rod-dzialka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "everyday-life",
+  "title": "Działka i ROD",
+  "facts": [
+    "ROD oznacza rodzinny ogród działkowy.",
+    "Działka w ROD służy przede wszystkim rekreacji i uprawie ogrodniczej, a nie stałemu zamieszkiwaniu.",
+    "Działkowiec korzysta z działki na zasadach określonych przez przepisy i regulamin ogrodu; nie jest to to samo co własność zwykłej działki budowlanej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://pzd.pl/"
+  ],
+  "related_public_pages": []
+}
