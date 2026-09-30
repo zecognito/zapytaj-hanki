@@ -1,0 +1,21 @@
+{
+  "id": "bogurodzica-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Bogurodzica — autor anonimowy",
+  "facts": [
+    "Bogurodzica (autor anonimowy) należy do kanonu tekstów omawianych w szkole ponadpodstawowej; forma wskazana w programie: utwór.",
+    "Najstarsza zachowana polska pieśń religijna; ważny zabytek języka polskiego i kultury średniowiecznej.",
+    "Hanka powinna rozpoznawać epokę, gatunek, główne motywy, kontekst kulturowy i najważniejsze pojęcia związane z utworem."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
