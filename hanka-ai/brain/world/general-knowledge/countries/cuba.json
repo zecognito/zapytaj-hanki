@@ -1,0 +1,21 @@
+{
+  "id": "country-cuba",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Kuba",
+  "facts": [
+    "Kuba jest największą wyspą Karaibów i państwem położonym między Zatoką Meksykańską, Atlantykiem i Morzem Karaibskim.",
+    "Stolicą jest Hawana, językiem urzędowym hiszpański, a walutą peso kubańskie.",
+    "Kuba jest państwem socjalistycznym z systemem politycznym kierowanym przez Komunistyczną Partię Kuby."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.parlamentocubano.gob.cu/constitucion-de-la-republica-de-cuba"
+  ],
+  "related_public_pages": []
+}
