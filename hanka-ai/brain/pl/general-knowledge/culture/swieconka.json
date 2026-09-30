@@ -1,0 +1,21 @@
+{
+  "id": "swieconka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Święconka",
+  "facts": [
+    "Święconka to popularna polska tradycja błogosławienia pokarmów w Wielką Sobotę.",
+    "Koszyczek często zawiera symboliczne produkty, np. jajka, chleb, sól, wędlinę i ciasto, ale zestaw różni się regionalnie i rodzinnie.",
+    "Tradycja ma charakter religijny i kulturowy i jest szczególnie związana z katolicyzmem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-easter-traditions"
+  ],
+  "related_public_pages": []
+}
