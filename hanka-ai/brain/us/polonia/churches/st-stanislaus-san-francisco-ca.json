@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-stanislaus-san-francisco-ca",
+  "country": "US",
+  "category": "church",
+  "name": "St. Stanislaus Polish Catholic Mission",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2460 Bush St",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal_code": "94115",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 415 292 9215",
+  "email": null,
+  "website": "https://www.polishchurchsf.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "CA"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://www.polishchurchsf.org",
+  "last_verified": "2026-09-30"
+}
