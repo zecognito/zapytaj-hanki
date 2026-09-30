@@ -1,0 +1,21 @@
+{
+  "id": "pkp-intercity",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "transportation",
+  "title": "PKP Intercity",
+  "facts": [
+    "PKP Intercity jest przewoźnikiem pasażerskim obsługującym dalekobieżne połączenia kolejowe w Polsce oraz część połączeń międzynarodowych.",
+    "Nie obsługuje całego ruchu kolejowego w Polsce; istnieją także przewoźnicy regionalni i samorządowi.",
+    "Kategorie pociągów, ceny i rozkłady są zmienne i należy je sprawdzać przed podróżą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.intercity.pl/"
+  ],
+  "related_public_pages": []
+}
