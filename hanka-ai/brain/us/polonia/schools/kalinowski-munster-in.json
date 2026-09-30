@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-kalinowski-munster-in",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła im. św. Rafała Kalinowskiego",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1628 Ridge Rd",
+    "city": "Munster",
+    "state": "IN",
+    "postal_code": "46321",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 219 301 2726",
+  "email": "swkalinowski@gmail.com",
+  "website": "https://www.polskaszkolakalinowskiego.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "IN"
+  ],
+  "notes": [
+    "Current ORPEG Polonia-school database record; enrollment and class details should be reconfirmed with the school."
+  ],
+  "official_source": "https://archiwum.orpeg.gov.pl/db/web/database/entry/8137",
+  "last_verified": "2026-09-30"
+}
