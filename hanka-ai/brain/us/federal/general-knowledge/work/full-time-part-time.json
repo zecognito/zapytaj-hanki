@@ -1,0 +1,21 @@
+{
+  "id": "full-time-part-time",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "employment",
+  "subtopic": "work_terms",
+  "title": "Full-time a part-time",
+  "facts": [
+    "Full-time i part-time opisują wymiar pracy, ale nie istnieje jedna uniwersalna federalna definicja godzin obowiązująca do wszystkich celów.",
+    "Fair Labor Standards Act nie definiuje full-time ani part-time; pracodawca zwykle ustala tę klasyfikację, z zastrzeżeniem innych przepisów używających własnych progów.",
+    "Próg używany np. dla określonych benefitów może wynikać z innej ustawy lub planu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/general/topic/workhours/full-time"
+  ],
+  "related_public_pages": []
+}
