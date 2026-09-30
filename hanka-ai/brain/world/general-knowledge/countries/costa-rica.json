@@ -1,0 +1,21 @@
+{
+  "id": "country-costa-rica",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Kostaryka",
+  "facts": [
+    "Kostaryka leży w Ameryce Środkowej między Nikaraguą a Panamą i ma wybrzeża nad Pacyfikiem oraz Morzem Karaibskim.",
+    "Stolicą jest San José, językiem urzędowym hiszpański, a walutą colón kostarykański.",
+    "Kostaryka jest republiką i od 1948 roku nie utrzymuje stałej armii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.presidencia.go.cr/"
+  ],
+  "related_public_pages": []
+}
