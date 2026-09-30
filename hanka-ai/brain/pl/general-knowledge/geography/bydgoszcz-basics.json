@@ -1,0 +1,21 @@
+{
+  "id": "bydgoszcz-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Bydgoszcz — podstawy",
+  "facts": [
+    "Bydgoszcz jest jednym z dwóch głównych ośrodków administracyjnych województwa kujawsko-pomorskiego wraz z Toruniem.",
+    "Miasto leży nad Brdą i Wisłą oraz ma historię związaną z transportem wodnym i przemysłem.",
+    "Wojewoda kujawsko-pomorski ma siedzibę w Bydgoszczy, a organy samorządu województwa mają siedzibę w Toruniu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/uw-kujawsko-pomorski"
+  ],
+  "related_public_pages": []
+}
