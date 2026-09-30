@@ -1,0 +1,21 @@
+{
+  "id": "country-egypt",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Egipt",
+  "facts": [
+    "Egipt leży głównie w północno-wschodniej Afryce, a Półwysep Synaj znajduje się w Azji.",
+    "Stolicą jest Kair, językiem urzędowym arabski, a walutą funt egipski.",
+    "Kanał Sueski łączy Morze Śródziemne z Morzem Czerwonym i czyni Egipt kluczowym państwem na jednej z najważniejszych tras światowego handlu morskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sis.gov.eg/"
+  ],
+  "related_public_pages": []
+}
