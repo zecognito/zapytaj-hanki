@@ -1,0 +1,21 @@
+{
+  "id": "urgent-care",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "healthcare",
+  "subtopic": "health_terms",
+  "title": "Co to jest urgent care?",
+  "facts": [
+    "Urgent care zapewnia opiekę przy problemach wymagających szybkiej pomocy, ale zwykle niebędących bezpośrednim zagrożeniem życia.",
+    "Urgent care nie zastępuje emergency room w sytuacji nagłego zagrożenia życia lub zdrowia.",
+    "Godziny, zakres usług i koszty zależą od placówki i insurance plan."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.healthcare.gov/using-marketplace-coverage/getting-emergency-care/"
+  ],
+  "related_public_pages": []
+}
