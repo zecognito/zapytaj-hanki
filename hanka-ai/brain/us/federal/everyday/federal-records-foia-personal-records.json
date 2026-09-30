@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-foia-personal-records-boundary",
+  "subtopic": "privacy_records",
+  "title": "FOIA nie jest ogólnym sposobem na każdy własny dokument",
+  "facts": [
+    "Freedom of Information Act daje prawo żądania existing federal agency records, z ustawowymi exemptions i exclusions.",
+    "FOIA dotyczy federal executive-branch agency records; nie jest ogólnym prawem dostępu do state/local records ani records Congress lub federal courts.",
+    "Własne records o sobie przechowywane przez federal agency mogą również podlegać Privacy Act procedures, zależnie od systemu i rekordu.",
+    "FOIA nie wymaga od agencji tworzenia nowego dokumentu lub odpowiadania na pytanie, jeśli nie istnieje responsive agency record."
+  ],
+  "official_sources": [
+    "https://www.foia.gov/about.html",
+    "https://www.justice.gov/opcl/privacy-act-1974"
+  ]
+}
