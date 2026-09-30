@@ -1,0 +1,21 @@
+{
+  "id": "greater-poland-uprising",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "independence",
+  "title": "Powstanie wielkopolskie",
+  "facts": [
+    "Powstanie wielkopolskie rozpoczęło się w grudniu 1918 r. przeciw władzy niemieckiej w Wielkopolsce.",
+    "Powstańcy przejęli kontrolę nad znaczną częścią regionu, a rezultaty walk zostały uwzględnione w powojennym układzie granic.",
+    "Powstanie jest zaliczane do najważniejszych udanych polskich zrywów niepodległościowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/"
+  ],
+  "related_public_pages": []
+}
