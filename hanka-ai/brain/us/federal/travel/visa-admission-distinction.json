@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-travel-visa-admission",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "travel_border",
+  "subtopic": "border_entry",
+  "title": "Visa versus admission to the United States",
+  "facts": [
+    "A U.S. visa generally allows a foreign traveler to travel to a U.S. port of entry and request admission; it does not guarantee entry.",
+    "CBP makes the admission decision at the port of entry and determines the authorized status and period of stay when applicable.",
+    "The visa expiration date is not necessarily the same as the date through which a traveler is authorized to remain in the United States.",
+    "Travelers should use their admission record, including Form I-94 when applicable, to understand the authorized period of stay."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/frequently-asked-questions/what-is-us-visa.html",
+    "https://i94.cbp.dhs.gov/"
+  ],
+  "related_public_pages": []
+}
