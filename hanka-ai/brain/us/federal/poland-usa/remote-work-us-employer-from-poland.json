@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-remote-work-us-employer-from-poland",
+  "subtopic": "work_social_insurance",
+  "title": "Praca z Polski dla amerykańskiego pracodawcy",
+  "facts": [
+    "Fizyczne wykonywanie pracy z Polski może powodować polskie konsekwencje podatkowe i ubezpieczeniowe nawet wtedy, gdy pracodawca znajduje się w USA i wynagrodzenie wpływa na amerykańskie konto.",
+    "Dla polskiej rezydencji podatkowej i opodatkowania pracy istotne są miejsce zamieszkania oraz miejsce wykonywania pracy, z uwzględnieniem umowy podatkowej.",
+    "Umowa o zabezpieczeniu społecznym może określać właściwy system składkowy, w tym szczególne zasady dla czasowo delegowanych pracowników; zwykła praca zdalna po trwałej przeprowadzce nie powinna być automatycznie traktowana jak delegowanie.",
+    "Obowiązki pracodawcy i pracownika wymagają analizy konkretnego modelu zatrudnienia."
+  ],
+  "official_sources": [
+    "https://www.podatki.gov.pl/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-pracy-wykonywanej-za-granica",
+    "https://www.zus.pl/pl/pracujacy/pracujacy-poza-ue-eog-lub-szwajcaria/usa"
+  ]
+}
