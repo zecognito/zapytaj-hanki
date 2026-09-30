@@ -1,0 +1,21 @@
+{
+  "id": "disco-polo",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "media-pop-culture",
+  "title": "Disco polo",
+  "facts": [
+    "Disco polo to gatunek polskiej muzyki tanecznej, który rozwinął masową popularność szczególnie w latach 90. XX wieku.",
+    "Charakteryzuje się prostymi melodiami, tanecznym rytmem i łatwo zapamiętywanymi tekstami.",
+    "Gatunek bywa oceniany skrajnie, ale jest ważnym elementem polskiej kultury popularnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
