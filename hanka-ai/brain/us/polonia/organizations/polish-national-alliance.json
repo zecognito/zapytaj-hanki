@@ -1,0 +1,35 @@
+{
+  "id": "polonia-org-polish-national-alliance",
+  "country": "US",
+  "category": "organization",
+  "name": "Polish National Alliance",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": "https://pna-znp.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-American fraternal and community organization"
+  ],
+  "coverage_area": [
+    "IL",
+    "US"
+  ],
+  "notes": [
+    "Listed among Polish institutions operating in the United States by the Embassy of the Republic of Poland; program/contact details should be refreshed periodically."
+  ],
+  "official_source": "https://pna-znp.org/",
+  "last_verified": "2026-09-30"
+}
