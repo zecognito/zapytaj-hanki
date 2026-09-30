@@ -1,0 +1,21 @@
+{
+  "id": "country-kiribati",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Kiribati",
+  "facts": [
+    "Kiribati jest wyspiarską republiką Pacyfiku złożoną z 33 atoli i wysp rozrzuconych na ogromnym obszarze oceanu.",
+    "Stoliczne funkcje skupiają się na Tarawie Południowej; językami urzędowymi są gilbertański i angielski, a używaną walutą dolar australijski.",
+    "Wyspy Kiribati leżą po obu stronach równika i w pobliżu międzynarodowej linii zmiany daty; niska wysokość atoli zwiększa ich podatność na wzrost poziomu morza."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.president.gov.ki/"
+  ],
+  "related_public_pages": []
+}
