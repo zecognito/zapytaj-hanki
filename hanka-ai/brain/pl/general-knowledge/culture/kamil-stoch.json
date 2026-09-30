@@ -1,0 +1,21 @@
+{
+  "id": "kamil-stoch",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "modern-sports",
+  "title": "Kamil Stoch",
+  "facts": [
+    "Kamil Stoch jest polskim skoczkiem narciarskim i wielokrotnym medalistą najważniejszych imprez międzynarodowych.",
+    "Zdobył trzy indywidualne złote medale olimpijskie: dwa w Soczi w 2014 r. i jeden w Pjongczangu w 2018 r.",
+    "Dwukrotnie wygrał Turniej Czterech Skoczni."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fis-ski.com/"
+  ],
+  "related_public_pages": []
+}
