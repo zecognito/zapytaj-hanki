@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-srodek-hamtramck",
+  "country": "US",
+  "category": "store",
+  "name": "Srodek's Campau Quality Sausage",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "9601 Joseph Campau St",
+    "city": "Hamtramck",
+    "state": "MI",
+    "postal_code": "48212",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 313-871-8080",
+  "email": null,
+  "website": "https://srodek.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Hamtramck",
+    "MI"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://srodek.com/",
+  "last_verified": "2026-09-30"
+}
