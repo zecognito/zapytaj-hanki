@@ -1,0 +1,21 @@
+{
+  "id": "poland-independence-1918",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "modern_history",
+  "title": "Odzyskanie niepodległości w 1918 roku",
+  "facts": [
+    "W 1918 r., po zakończeniu I wojny światowej i upadku mocarstw zaborczych, odrodziło się niepodległe państwo polskie.",
+    "11 listopada jest obchodzony w Polsce jako Narodowe Święto Niepodległości.",
+    "Proces odbudowy państwa i ustalania granic trwał również po listopadzie 1918 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/o-niepodleglej/"
+  ],
+  "related_public_pages": []
+}
