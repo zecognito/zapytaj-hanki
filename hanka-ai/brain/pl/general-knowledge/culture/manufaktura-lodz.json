@@ -1,0 +1,21 @@
+{
+  "id": "manufaktura-lodz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Manufaktura w Łodzi",
+  "facts": [
+    "Manufaktura w Łodzi powstała w zrewitalizowanym kompleksie dawnej fabryki Izraela Poznańskiego.",
+    "Kompleks przypomina o przemysłowej historii Łodzi jako wielkiego ośrodka włókienniczego XIX wieku.",
+    "Obecnie łączy funkcje handlowe, kulturalne, rozrywkowe i muzealne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://uml.lodz.pl/"
+  ],
+  "related_public_pages": []
+}
