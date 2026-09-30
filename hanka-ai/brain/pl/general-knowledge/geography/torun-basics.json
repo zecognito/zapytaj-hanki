@@ -1,0 +1,21 @@
+{
+  "id": "torun-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Toruń — podstawy",
+  "facts": [
+    "Toruń leży nad Wisłą w województwie kujawsko-pomorskim i jest jednym z dwóch miast pełniących główne funkcje administracyjne województwa wraz z Bydgoszczą.",
+    "Historyczne centrum Torunia jest wpisane na Listę Światowego Dziedzictwa UNESCO.",
+    "Toruń jest miejscem urodzenia Mikołaja Kopernika."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://whc.unesco.org/en/list/835/"
+  ],
+  "related_public_pages": []
+}
