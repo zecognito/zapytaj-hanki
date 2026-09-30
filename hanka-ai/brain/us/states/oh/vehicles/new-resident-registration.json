@@ -1,0 +1,21 @@
+{
+  "id": "oh-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OH",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Ohio",
+  "facts": [
+    "Nowy mieszkaniec Ohio musi uzyskać Ohio title i registration dla kwalifikującego się pojazdu.",
+    "Proces wymaga odpowiednich ownership documents i może wymagać out-of-state vehicle inspection przed wydaniem Ohio title.",
+    "Registration i driver license są odrębnymi procesami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bmv.ohio.gov/new-to-ohio.aspx"
+  ],
+  "related_public_pages": []
+}
