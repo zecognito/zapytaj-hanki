@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-education-pell-grant-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "education",
+  "subtopic": "pell_grant",
+  "title": "Federal Pell Grant - basics",
+  "facts": [
+    "Federal Pell Grants generally provide need-based aid to eligible undergraduate students who have not earned a bachelor's, graduate or professional degree, with limited exceptions for certain postbaccalaureate teacher-certification programs.",
+    "A Pell Grant normally does not have to be repaid, except in specified circumstances such as certain enrollment changes or withdrawal situations.",
+    "Eligibility and award amount depend on federal student-aid rules including the Student Aid Index, enrollment intensity, cost of attendance and annual statutory parameters.",
+    "Lifetime Pell Grant eligibility is generally limited to the equivalent of 12 full-time semesters, expressed as 600% Lifetime Eligibility Used."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://studentaid.gov/understand-aid/types/grants/pell",
+    "https://studentaid.gov/understand-aid/eligibility/staying-eligible"
+  ],
+  "related_public_pages": []
+}
