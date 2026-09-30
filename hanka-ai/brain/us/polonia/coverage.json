@@ -44,13 +44,13 @@
     },
     "businesses": {
       "status": "professionals_national_expansion",
-      "records": 238,
+      "records": 246,
       "notes": [
         "Food/retail first-pass audit closed at 167 records; machine schema validation remains mandatory before ingestion.",
-        "The full current 25-branch Polish & Slavic Federal Credit Union network is now represented as separate physical records: 7 NY, 7 NJ, 8 IL, 1 CT, 1 PA and 1 FL. Official PSFCU sources were checked on 2026-09-30; Port Charlotte is the first Florida branch and opened May 16, 2026.",
-        "Professional layer has begun national expansion beyond Chicagoland/NY/NJ. Latest additions include Polish-speaking attorney Agnieszka Piasecka in Florida, Hospital of Central Connecticut Polish-speaking outpatient behavioral health in New Britain, and a Polish-speaking dental practice in Providence RI.",
-        "Language evidence remains strict for ordinary professionals; institutional Polish-community relevance is directly documented for PSFCU. Clinic-level language claims are not imputed to every clinician.",
-        "Continue national professional expansion across major Polonia regions, prioritizing strong first-party or authoritative evidence. Vectorize remains blocked until professional coverage and schema/status-aware ingestion are mature."
+        "Banking is now a first-class Polonia directory category. Schema enum was extended with bank before records were created.",
+        "Initial bank layer contains six high-confidence records: Byline Bank Skokie-Touhy, Norridge and Burbank branches; Apple Bank Greenpoint and 111 4th Avenue branches; and Community Savings Bank Chicago. Every bank record has explicit first-party Polish-language evidence; neighborhood location alone is never sufficient.",
+        "Community Savings Bank's Polish evidence is specifically Polish-speaking mortgage loan officers, so the record does not imply all branch staff/services are Polish-speaking. Byline and Apple records have branch-level language evidence.",
+        "Latest expansion also added Williams Farmer & Olechno family law and Maverick Auto Parts Fullerton with explicit Polish-language service. Continue bank discovery plus national professional expansion. Vectorize remains blocked until coverage and schema/status-aware ingestion are mature."
       ]
     },
     "media_culture": {
