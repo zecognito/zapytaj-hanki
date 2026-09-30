@@ -1,0 +1,21 @@
+{
+  "id": "solidarity-movement",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "communism",
+  "title": "Solidarność",
+  "facts": [
+    "NSZZ „Solidarność” powstał w 1980 r. jako niezależny związek zawodowy i szeroki ruch społeczny.",
+    "Ruch odegrał kluczową rolę w pokojowych przemianach politycznych końca lat 1980. w Polsce.",
+    "Historia Solidarności jest silnie związana ze strajkami w Stoczni Gdańskiej i postacią Lecha Wałęsy, ale obejmowała miliony członków i liczne środowiska."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/pl/historia-z-ipn/101446,Narodziny-Solidarnosci.html"
+  ],
+  "related_public_pages": []
+}
