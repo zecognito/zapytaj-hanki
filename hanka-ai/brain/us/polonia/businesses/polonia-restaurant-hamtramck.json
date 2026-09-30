@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polonia-restaurant-hamtramck",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Polonia Restaurant",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2934 Yemans St",
+    "city": "Hamtramck",
+    "state": "MI",
+    "postal_code": "48212",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 313-873-8432",
+  "email": null,
+  "website": "https://www.polonia-restaurant.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Hamtramck",
+    "MI"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://www.polonia-restaurant.com/",
+  "last_verified": "2026-09-30"
+}
