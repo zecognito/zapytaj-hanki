@@ -1,0 +1,21 @@
+{
+  "id": "pendolino-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "infrastructure",
+  "title": "Pendolino w Polsce",
+  "facts": [
+    "Pociągi ED250 Pendolino są wykorzystywane przez PKP Intercity w kategorii Express InterCity Premium.",
+    "Obsługują szybkie połączenia między największymi polskimi miastami.",
+    "Polskie Pendolino może osiągać wysokie prędkości techniczne, ale rzeczywista prędkość na trasie zależy od parametrów infrastruktury i rozkładu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.intercity.pl/"
+  ],
+  "related_public_pages": []
+}
