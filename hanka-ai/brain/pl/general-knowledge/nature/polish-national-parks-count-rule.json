@@ -1,0 +1,21 @@
+{
+  "id": "polish-national-parks-count-rule",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "parks_and_wildlife",
+  "title": "Polskie parki narodowe — zasada aktualności",
+  "facts": [
+    "Park narodowy jest w Polsce jedną z najwyższych form ochrony przyrody.",
+    "Liczba parków narodowych i ich granice są danymi, które mogą zmienić się decyzją ustawodawcy, dlatego odpowiedź o aktualnej liczbie powinna być sprawdzana w oficjalnym wykazie.",
+    "Każdy park ma własne zasady udostępniania obszaru odwiedzającym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/klimat/parki-narodowe"
+  ],
+  "related_public_pages": []
+}
