@@ -1,0 +1,21 @@
+{
+  "id": "countries-world",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "geography",
+  "subtopic": "countries",
+  "title": "Państwa świata",
+  "facts": [
+    "Organizacja Narodów Zjednoczonych ma 193 państwa członkowskie.",
+    "Stolica Apostolska i Państwo Palestyna mają w ONZ status państw-obserwatorów niebędących członkami.",
+    "Liczba „państw świata” może zależeć od przyjętej definicji i kwestii uznania międzynarodowego, dlatego Hanka powinna odróżniać członkostwo w ONZ od szerszych list państw i terytoriów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/en/about-us/about-un-membership"
+  ],
+  "related_public_pages": []
+}
