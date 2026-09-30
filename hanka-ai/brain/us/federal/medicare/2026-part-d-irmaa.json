@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-medicare-part-d-irmaa-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "medicare",
+  "subtopic": "irmaa",
+  "title": "Medicare Part D IRMAA — 2026",
+  "facts": [
+    "Osoby z wyższym income płacą Part D IRMAA oprócz premium pobieranej przez Part D lub Medicare Advantage drug plan.",
+    "Dla 2026 Part D IRMAA zaczyna się powyżej $109,000 MAGI dla individual return i powyżej $218,000 dla joint return.",
+    "Social Security zasadniczo ustala IRMAA na podstawie federal tax return z dwóch lat wcześniej; qualifying life-changing event może pozwolić na wniosek o nowe ustalenie.",
+    "Part D IRMAA jest płacone federalnie, a nie jako część zwykłej premium planu."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/medicare/medicare-prescription-drug-coverage",
+    "https://www.ssa.gov/medicare/medicare-premiums"
+  ],
+  "related_public_pages": []
+}
