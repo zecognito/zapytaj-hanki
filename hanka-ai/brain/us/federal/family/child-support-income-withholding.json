@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-family-child-support-withholding",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "family_children",
+  "subtopic": "child_support",
+  "title": "Child support income withholding - federal framework",
+  "facts": [
+    "Income withholding is a central enforcement mechanism for child support and is generally required for support orders under applicable federal and state rules.",
+    "The Consumer Credit Protection Act sets federal maximum limits on how much disposable earnings may be garnished for support obligations.",
+    "For child support or alimony, the federal CCPA maximum can range from 50% to 65% of disposable earnings depending on whether the worker supports another spouse or child and whether payments are more than 12 weeks in arrears.",
+    "State law can provide lower garnishment limits."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/whd/fact-sheets/30-cppa"
+  ],
+  "related_public_pages": []
+}
