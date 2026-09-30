@@ -1,0 +1,21 @@
+{
+  "id": "country-saudi-arabia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Arabia Saudyjska",
+  "facts": [
+    "Arabia Saudyjska zajmuje większość Półwyspu Arabskiego, a jej stolicą jest Rijad.",
+    "Językiem urzędowym jest arabski, a walutą rial saudyjski.",
+    "Państwo jest monarchią i należy do największych producentów oraz eksporterów ropy naftowej na świecie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.my.gov.sa/wps/portal/snp/aboutksa"
+  ],
+  "related_public_pages": []
+}
