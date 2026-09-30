@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-travel-tsa-medications",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "travel_border",
+  "subtopic": "tsa",
+  "title": "Medications through TSA screening",
+  "facts": [
+    "Medication is allowed through TSA screening, and medically necessary liquids can exceed the ordinary 3.4-ounce liquid limit when screened under applicable procedures.",
+    "Travelers should tell the TSA officer about medically necessary liquids or related supplies at the start of screening when required.",
+    "TSA screening rules do not determine whether a medication is lawful to bring into another country; destination-country drug rules are separate.",
+    "Prescription labeling requirements can also depend on state law, airline procedures or international destination rules."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.tsa.gov/travel/security-screening/whatcanibring/medical"
+  ],
+  "related_public_pages": []
+}
