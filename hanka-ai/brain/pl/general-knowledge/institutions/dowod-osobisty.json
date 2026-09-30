@@ -1,0 +1,21 @@
+{
+  "id": "dowod-osobisty",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "documents",
+  "title": "Dowód osobisty w Polsce",
+  "facts": [
+    "Dowód osobisty jest dokumentem potwierdzającym tożsamość i polskie obywatelstwo posiadacza.",
+    "Pełnoletni obywatel Polski mieszkający w Polsce ma obowiązek posiadać dowód osobisty zgodnie z obowiązującymi zasadami.",
+    "Dowód osobisty może służyć do podróży do części państw bez paszportu zgodnie z aktualnymi przepisami dotyczącymi przekraczania granic."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gov/dowod-osobisty-informacje"
+  ],
+  "related_public_pages": []
+}
