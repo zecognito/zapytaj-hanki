@@ -1,0 +1,21 @@
+{
+  "id": "poland-usa-relations-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "international",
+  "subtopic": "usa_relations",
+  "title": "Polska i USA — podstawy relacji",
+  "facts": [
+    "Polska i Stany Zjednoczone utrzymują stosunki dyplomatyczne i współpracują m.in. w ramach NATO.",
+    "Duża społeczność osób polskiego pochodzenia w USA jest ważnym elementem historycznych i społecznych więzi między krajami.",
+    "Relacje państwowe, migracja Polaków do USA i historia Polonii są odrębnymi tematami i powinny być opisywane z odpowiednimi źródłami i datami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.state.gov/countries-areas/poland/"
+  ],
+  "related_public_pages": []
+}
