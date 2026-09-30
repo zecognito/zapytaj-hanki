@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-bankruptcy-chapter13-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "bankruptcy_debt_relief",
+  "subtopic": "chapter_13",
+  "title": "Chapter 13 bankruptcy - basics",
+  "facts": [
+    "Chapter 13 allows an eligible individual with regular income to propose a court-supervised repayment plan while generally keeping property.",
+    "A Chapter 13 plan generally runs three to five years depending on applicable rules and circumstances.",
+    "Chapter 13 can allow a debtor to cure certain arrears over time and may provide protections not available in the same way under Chapter 7.",
+    "A Chapter 13 discharge generally comes after completion of required plan payments and other statutory requirements."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-13-bankruptcy-basics"
+  ],
+  "related_public_pages": []
+}
