@@ -1,0 +1,33 @@
+{
+  "id": "polonia-prof-insurance-choice-wallington-nj",
+  "country": "US",
+  "category": "insurance",
+  "name": "Choice International Agency",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Wallington",
+    "state": "NJ",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "personal insurance",
+    "business insurance",
+    "health insurance",
+    "recreational insurance"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://www.choiceagencyins.com/",
+  "official_source": "https://www.choiceagencyins.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official agency site explicitly states MÓWIMY PO POLSKU / WE SPEAK POLISH. Street address withheld pending first-party confirmation."
+  ]
+}
