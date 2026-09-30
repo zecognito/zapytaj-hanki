@@ -1,0 +1,21 @@
+{
+  "id": "country-moldova",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Mołdawia",
+  "facts": [
+    "Mołdawia jest śródlądowym państwem Europy Wschodniej między Rumunią a Ukrainą, a jej stolicą jest Kiszyniów.",
+    "Językiem państwowym jest rumuński, a walutą lej mołdawski.",
+    "Mołdawia jest republiką i państwem kandydującym do Unii Europejskiej; Naddniestrze pozostaje separatystycznym regionem poza pełną kontrolą władz centralnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mfa.gov.md/en/content/about-republic-moldova"
+  ],
+  "related_public_pages": []
+}
