@@ -1,0 +1,32 @@
+{
+  "id": "polonia-prof-other-polish-american-business-fl",
+  "country": "US",
+  "category": "other_business",
+  "name": "Polish-American Business Club of South Florida",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "South Florida",
+    "state": "FL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "business networking",
+    "professional referrals",
+    "Polish-American business community"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://www.polishamericanbusinessclub.com/",
+  "official_source": "https://www.polishamericanbusinessclub.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "First-party Polish-American professional/business network useful for local referrals. Not treated as proof that every member speaks Polish."
+  ]
+}
