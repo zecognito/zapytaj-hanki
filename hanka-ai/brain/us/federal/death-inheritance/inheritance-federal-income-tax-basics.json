@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-death-inheritance-income-tax",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "death_inheritance",
+  "subtopic": "inheritance_tax",
+  "title": "Inheritance and federal income tax - basics",
+  "facts": [
+    "Receiving an inheritance is generally not itself included in the beneficiary's federal gross income merely because property was inherited.",
+    "Income produced by inherited property after inheritance, such as interest, dividends or rent, can be taxable.",
+    "Certain inherited items such as traditional retirement-account distributions or income in respect of a decedent can carry federal income-tax consequences.",
+    "State inheritance or estate taxes are separate and vary by state."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/faqs/interest-dividends-other-types-of-income/gifts-inheritances/gifts-inheritances"
+  ],
+  "related_public_pages": []
+}
