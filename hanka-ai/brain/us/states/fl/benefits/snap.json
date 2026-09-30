@@ -1,0 +1,21 @@
+{
+  "id": "fl-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "FL",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP na Florydzie",
+  "facts": [
+    "Florida SNAP zapewnia food assistance kwalifikującym się gospodarstwom domowym.",
+    "Program jest administrowany przez Florida Department of Children and Families.",
+    "Eligibility i benefit amount zależą m.in. od wielkości gospodarstwa, dochodu i innych zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.myflfamilies.com/services/public-assistance/supplemental-nutrition-assistance-program-snap"
+  ],
+  "related_public_pages": []
+}
