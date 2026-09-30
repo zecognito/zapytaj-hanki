@@ -1,0 +1,21 @@
+{
+  "id": "battle-warsaw-1920",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "battles",
+  "title": "Bitwa Warszawska 1920",
+  "facts": [
+    "Bitwa Warszawska rozegrała się w sierpniu 1920 r. podczas wojny polsko-bolszewickiej.",
+    "Zwycięstwo wojsk polskich zatrzymało ofensywę Armii Czerwonej na Warszawę i było punktem zwrotnym wojny.",
+    "Określenie „Cud nad Wisłą” jest popularną nazwą historyczną, a nie formalną nazwą wojskową bitwy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/o-niepodleglej/wojna-polsko-bolszewicka/"
+  ],
+  "related_public_pages": []
+}
