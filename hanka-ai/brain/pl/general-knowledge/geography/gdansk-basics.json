@@ -1,0 +1,22 @@
+{
+  "id": "gdansk-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Gdańsk — podstawy",
+  "facts": [
+    "Gdańsk leży nad Zatoką Gdańską w województwie pomorskim i jest jednym z głównych polskich miast portowych.",
+    "Miasto ma długą historię związaną z handlem bałtyckim.",
+    "Stocznia Gdańska i wydarzenia 1980 r. są silnie związane z narodzinami Solidarności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/infrastruktura/gospodarka-morska",
+    "https://ipn.gov.pl/pl/historia-z-ipn/101446,Narodziny-Solidarnosci.html"
+  ],
+  "related_public_pages": []
+}
