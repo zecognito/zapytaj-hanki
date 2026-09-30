@@ -1,0 +1,21 @@
+{
+  "id": "olsztyn-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Olsztyn — podstawy",
+  "facts": [
+    "Olsztyn jest stolicą województwa warmińsko-mazurskiego.",
+    "Leży na Warmii, a nie na historycznych Mazurach, mimo że jest stolicą województwa obejmującego oba regiony.",
+    "Miasto jest ważnym ośrodkiem administracyjnym i akademickim północno-wschodniej Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://olsztyn.eu/"
+  ],
+  "related_public_pages": []
+}
