@@ -1,0 +1,21 @@
+{
+  "id": "blood-donation-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "healthcare",
+  "subtopic": "public-health",
+  "title": "Honorowe krwiodawstwo w Polsce",
+  "facts": [
+    "Krew i jej składniki są w Polsce pobierane od dobrowolnych dawców w systemie publicznej służby krwi.",
+    "Regionalne centra krwiodawstwa i krwiolecznictwa odpowiadają m.in. za pobieranie, badanie, preparatykę i dystrybucję krwi oraz jej składników.",
+    "Dawca musi spełniać kryteria zdrowotne i formalne; kwalifikację do oddania krwi przeprowadza personel medyczny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/nck/krew-i-jej-skladniki"
+  ],
+  "related_public_pages": []
+}
