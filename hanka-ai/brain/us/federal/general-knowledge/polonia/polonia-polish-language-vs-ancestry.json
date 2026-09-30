@@ -1,0 +1,21 @@
+{
+  "id": "polonia-polish-language-vs-ancestry",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "polonia",
+  "subtopic": "demographics",
+  "title": "Język polski w domu a polskie pochodzenie",
+  "facts": [
+    "ACS mierzy language spoken at home osobno od ancestry.",
+    "Osoba polskiego pochodzenia może nie mówić po polsku w domu, a sama znajomość lub używanie polskiego nie jest definicją Polish ancestry.",
+    "Przy pytaniu „ile osób mówi po polsku” Hanka powinna używać tabel językowych, a nie ancestry."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/newsroom/stories/polish-american-heritage-month.html"
+  ],
+  "related_public_pages": []
+}
