@@ -1,0 +1,21 @@
+{
+  "id": "nv-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NV",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit przy wynajmie w Nevada",
+  "facts": [
+    "Prawo stanowe reguluje security deposits przy residential tenancy.",
+    "Potrącenia i zwrot depozytu muszą odpowiadać dozwolonym podstawom oraz obowiązującym procedurom i terminom.",
+    "Dokumentacja stanu lokalu i płatności może być istotna przy sporze."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.leg.state.nv.us/nrs/nrs-118a.html"
+  ],
+  "related_public_pages": []
+}
