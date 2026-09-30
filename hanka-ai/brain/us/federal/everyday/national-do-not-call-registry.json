@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-do-not-call-registry",
+  "subtopic": "communications_privacy",
+  "title": "National Do Not Call Registry",
+  "facts": [
+    "National Do Not Call Registry pozwala zarejestrować osobisty numer telefonu w celu ograniczenia wielu telemarketing sales calls.",
+    "Rejestracja nie blokuje wszystkich calls; wyjątki obejmują m.in. określone political calls, charitable calls, debt collection i surveys, a scammers mogą ignorować prawo.",
+    "Legal telemarketers objęci regułą powinni respektować registry zgodnie z federalnymi wymaganiami.",
+    "Do Not Call Registry nie jest technicznym call blockerem i nie gwarantuje, że telefon przestanie dzwonić."
+  ],
+  "official_sources": [
+    "https://www.donotcall.gov/",
+    "https://consumer.ftc.gov/articles/national-do-not-call-registry-faqs"
+  ]
+}
