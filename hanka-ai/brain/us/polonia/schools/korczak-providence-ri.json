@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-korczak-providence-ri",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Szkoła Języka Polskiego im. Janusza Korczaka w Providence",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "866 Atwells Ave",
+    "city": "Providence",
+    "state": "RI",
+    "postal_code": "02909",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 401 919 9835",
+  "email": "korczakps@gmail.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "RI"
+  ],
+  "notes": [
+    "Current ORPEG Polonia-school database record; enrollment and class details should be reconfirmed with the school."
+  ],
+  "official_source": "https://archiwum.orpeg.gov.pl/db/web/database/entry/8022",
+  "last_verified": "2026-09-30"
+}
