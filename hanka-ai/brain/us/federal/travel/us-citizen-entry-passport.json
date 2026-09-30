@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-travel-citizen-return-us",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "travel_border",
+  "subtopic": "international_travel",
+  "title": "U.S. citizen returning to the United States",
+  "facts": [
+    "U.S. citizens traveling internationally generally should use a valid U.S. passport or other document specifically authorized for the mode and route of travel when entering the United States.",
+    "U.S. citizens, including dual nationals, are generally expected under federal law to use a U.S. passport to enter and leave the United States, subject to statutory and regulatory exceptions.",
+    "Airline boarding-document requirements can prevent travel even where citizenship itself is not in doubt.",
+    "Land and sea travel can have document options that differ from international air travel."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/us-citizenship-laws-policies.html"
+  ],
+  "related_public_pages": []
+}
