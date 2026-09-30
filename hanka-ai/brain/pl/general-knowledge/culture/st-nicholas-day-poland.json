@@ -1,0 +1,21 @@
+{
+  "id": "st-nicholas-day-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Mikołajki — 6 grudnia",
+  "facts": [
+    "Mikołajki obchodzone są w Polsce 6 grudnia, w dzień św. Mikołaja.",
+    "Dzieci często otrzymują wtedy drobne prezenty, niezależnie od prezentów bożonarodzeniowych.",
+    "Mikołajki nie są ogólnym dniem ustawowo wolnym od pracy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-christmas-traditions"
+  ],
+  "related_public_pages": []
+}
