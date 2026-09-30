@@ -1,0 +1,21 @@
+{
+  "id": "medical-emergency-system",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "healthcare",
+  "subtopic": "emergency-care",
+  "title": "Państwowe Ratownictwo Medyczne",
+  "facts": [
+    "System Państwowe Ratownictwo Medyczne zapewnia pomoc osobom w stanie nagłego zagrożenia zdrowotnego.",
+    "Do podstawowych elementów systemu należą zespoły ratownictwa medycznego oraz szpitalne oddziały ratunkowe, współpracujące z innymi jednostkami ochrony zdrowia i służbami ratowniczymi.",
+    "W sytuacji nagłego zagrożenia zdrowia lub życia można wezwać pomoc pod numerem alarmowym 112 albo medycznym numerem alarmowym 999."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/zdrowie/panstwowe-ratownictwo-medyczne"
+  ],
+  "related_public_pages": []
+}
