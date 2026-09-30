@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-medicare-part-a-premium-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "medicare",
+  "subtopic": "premiums",
+  "title": "Medicare Part A premium — 2026",
+  "facts": [
+    "Jeśli osoba nie kwalifikuje się do premium-free Part A, może w określonych warunkach kupić Part A.",
+    "W 2026 Part A premium wynosi $311 miesięcznie dla osób z co najmniej 30 quarters of coverage albo kwalifikujących się przez spouse z taką historią.",
+    "W 2026 pełna Part A premium dla osób z mniej niż 30 quarters of coverage wynosi $565 miesięcznie."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicare.gov/basics/costs/medicare-costs"
+  ],
+  "related_public_pages": []
+}
