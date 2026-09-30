@@ -1,0 +1,21 @@
+{
+  "id": "ks-new_resident_license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "KS",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Kansas",
+  "facts": [
+    "Prawo stanowe określa wymagania i procedurę w tym obszarze.",
+    "Szczegóły zależą od sytuacji osoby i aktualnych przepisów.",
+    "Należy sprawdzić aktualne wymagania właściwej agencji stanowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ksrevenue.gov/dovobtainingdl.html"
+  ],
+  "related_public_pages": []
+}
