@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-credit-fdcpa-covered-debt",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "credit_banking",
+  "subtopic": "debt_collection",
+  "title": "FDCPA - covered debt and collectors",
+  "facts": [
+    "The federal Fair Debt Collection Practices Act primarily regulates debt collectors collecting consumer debts incurred for personal, family or household purposes.",
+    "The FDCPA generally does not cover business debts.",
+    "Original creditors collecting their own debts are often outside the FDCPA definition of debt collector, though other federal or state laws may still apply.",
+    "Mortgage, medical, credit-card and other consumer debts can fall within the FDCPA when collection is performed by a covered debt collector."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/what-laws-limit-what-debt-collectors-can-say-or-do-en-329/"
+  ],
+  "related_public_pages": []
+}
