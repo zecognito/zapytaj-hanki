@@ -1,0 +1,21 @@
+{
+  "id": "wroclaw-airport",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "aviation",
+  "title": "Port Lotniczy Wrocław",
+  "facts": [
+    "Port Lotniczy Wrocław im. Mikołaja Kopernika jest głównym lotniskiem Dolnego Śląska.",
+    "Lotnisko znajduje się w zachodniej części Wrocławia i obsługuje ruch krajowy oraz międzynarodowy.",
+    "Port jest ważnym elementem infrastruktury transportowej aglomeracji wrocławskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://airport.wroclaw.pl/"
+  ],
+  "related_public_pages": []
+}
