@@ -1,0 +1,21 @@
+{
+  "id": "country-chad",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Czad",
+  "facts": [
+    "Czad jest śródlądowym państwem Afryki Środkowej rozciągającym się od Sahary po strefę Sahelu.",
+    "Stolicą jest Ndżamena, językami urzędowymi są arabski i francuski, a walutą frank CFA Afryki Środkowej.",
+    "Jezioro Czad leży na zachodniej granicy państwa i jest ważnym zasobem wodnym regionu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.presidence.td/"
+  ],
+  "related_public_pages": []
+}
