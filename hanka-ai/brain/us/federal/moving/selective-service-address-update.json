@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-moving-selective-service-address",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "moving_life_admin",
+  "subtopic": "selective_service",
+  "title": "Selective Service address updates",
+  "facts": [
+    "A registrant must keep Selective Service informed of address changes while subject to the registration requirement under applicable federal rules.",
+    "Selective Service provides online and other methods to update registration information.",
+    "Updating USPS, DMV or another agency should not be assumed to update the Selective Service record."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sss.gov/verify/update-info/"
+  ],
+  "related_public_pages": []
+}
