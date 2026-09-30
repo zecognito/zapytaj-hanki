@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-benefits-unemployment-taxable-income",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "benefits",
+  "subtopic": "unemployment_federal_framework",
+  "title": "Unemployment compensation - federal income tax",
+  "facts": [
+    "Unemployment compensation is generally taxable income for federal income tax purposes.",
+    "Recipients generally receive Form 1099-G showing unemployment compensation paid during the year.",
+    "A recipient can generally choose federal income-tax withholding from unemployment compensation using the applicable process, or may need estimated tax payments depending on circumstances.",
+    "State income-tax treatment of unemployment benefits can differ from federal treatment."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/taxtopics/tc418"
+  ],
+  "related_public_pages": []
+}
