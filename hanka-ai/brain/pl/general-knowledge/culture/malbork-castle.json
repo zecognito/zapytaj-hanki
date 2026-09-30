@@ -1,0 +1,21 @@
+{
+  "id": "malbork-castle",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Zamek w Malborku",
+  "facts": [
+    "Zamek w Malborku został zbudowany przez zakon krzyżacki i był siedzibą wielkich mistrzów zakonu.",
+    "Rozległy kompleks ceglany należy do najważniejszych zabytków średniowiecznej architektury obronnej w Europie.",
+    "Castle of the Teutonic Order in Malbork jest wpisany na Listę Światowego Dziedzictwa UNESCO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://whc.unesco.org/en/list/847/"
+  ],
+  "related_public_pages": []
+}
