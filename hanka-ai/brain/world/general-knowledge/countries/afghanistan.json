@@ -1,0 +1,21 @@
+{
+  "id": "country-afghanistan",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Afganistan",
+  "facts": [
+    "Afganistan jest śródlądowym państwem na styku Azji Południowej i Centralnej, a jego stolicą jest Kabul.",
+    "Głównymi językami urzędowymi są dari i paszto, a walutą afghani.",
+    "Od 2021 roku władzę de facto sprawują talibowie; kwestia międzynarodowego uznania władz pozostaje odrębna od ich faktycznej kontroli nad państwem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://unama.unmissions.org/"
+  ],
+  "related_public_pages": []
+}
