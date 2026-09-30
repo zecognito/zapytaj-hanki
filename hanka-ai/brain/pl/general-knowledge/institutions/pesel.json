@@ -1,0 +1,21 @@
+{
+  "id": "pesel",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "identity",
+  "title": "PESEL",
+  "facts": [
+    "PESEL to jedenastocyfrowy numer identyfikacyjny używany w Polsce do jednoznacznej identyfikacji osób w rejestrach publicznych.",
+    "Numer zawiera zakodowaną datę urodzenia, numer porządkowy pozwalający odczytać oznaczenie płci oraz cyfrę kontrolną.",
+    "Rejestr PESEL obejmuje obywateli Polski oraz określone grupy cudzoziemców, którym nadano numer PESEL."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gov/czym-jest-numer-pesel"
+  ],
+  "related_public_pages": []
+}
