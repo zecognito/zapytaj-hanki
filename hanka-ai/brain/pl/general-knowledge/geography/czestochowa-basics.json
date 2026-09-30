@@ -1,0 +1,21 @@
+{
+  "id": "czestochowa-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Częstochowa — podstawy",
+  "facts": [
+    "Częstochowa leży w województwie śląskim.",
+    "Miasto jest szczególnie znane z klasztoru na Jasnej Górze i obrazu Matki Bożej Częstochowskiej.",
+    "Jest jednym z najważniejszych ośrodków pielgrzymkowych polskiego katolicyzmu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.czestochowa.pl/"
+  ],
+  "related_public_pages": []
+}
