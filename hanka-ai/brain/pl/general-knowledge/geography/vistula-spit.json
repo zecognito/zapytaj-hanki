@@ -1,0 +1,21 @@
+{
+  "id": "vistula-spit",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "coast",
+  "title": "Mierzeja Wiślana",
+  "facts": [
+    "Mierzeja Wiślana jest wąskim pasem lądu oddzielającym Zalew Wiślany od otwartego Bałtyku.",
+    "Jej zachodnia i centralna część znajduje się w Polsce, a część wschodnia należy do Rosji.",
+    "Na mierzei leżą polskie miejscowości turystyczne, w tym Krynica Morska."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/infrastruktura"
+  ],
+  "related_public_pages": []
+}
