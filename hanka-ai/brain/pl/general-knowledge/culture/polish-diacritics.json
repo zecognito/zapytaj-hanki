@@ -1,0 +1,21 @@
+{
+  "id": "polish-diacritics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "Polskie znaki diakrytyczne",
+  "facts": [
+    "Polskie znaki diakrytyczne zmieniają wartość liter i są częścią poprawnej pisowni, a nie dekoracyjnymi wariantami znaków.",
+    "Do liter z polskimi znakami należą ą, ć, ę, ł, ń, ó, ś, ź i ż.",
+    "W wyszukiwaniu internetowym użytkownicy często pomijają diakrytykę, ale w poprawnym tekście Hanka powinna ją zachowywać."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/zasady/Alfabet;629693.html"
+  ],
+  "related_public_pages": []
+}
