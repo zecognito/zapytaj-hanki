@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-florian-hamtramck-mi",
+  "country": "US",
+  "category": "church",
+  "name": "Saint Florian Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Hamtramck",
+    "state": "MI",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 313 871 2778",
+  "email": null,
+  "website": "https://www.stflorianparish.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "MI"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish source."
+  ],
+  "official_source": "https://www.stflorianparish.org/",
+  "last_verified": "2026-09-30"
+}
