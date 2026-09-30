@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-mj-polish-deli-hammond",
+  "country": "US",
+  "category": "store",
+  "name": "MJ Polish Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "7112 Calumet Ave",
+    "city": "Hammond",
+    "state": "IN",
+    "postal_code": "46324",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 219-937-6007",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Hammond",
+    "IN"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://polish-eats.com/chicago-delis/",
+  "last_verified": "2026-09-30"
+}
