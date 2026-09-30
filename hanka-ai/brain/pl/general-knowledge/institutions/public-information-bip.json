@@ -1,0 +1,21 @@
+{
+  "id": "public-information-bip",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "public-administration",
+  "title": "Biuletyn Informacji Publicznej — BIP",
+  "facts": [
+    "Biuletyn Informacji Publicznej jest urzędowym systemem stron internetowych służącym powszechnemu udostępnianiu informacji publicznej.",
+    "Organy władzy publicznej i inne zobowiązane podmioty publikują w BIP informacje wymagane przepisami prawa.",
+    "BIP jest ważnym narzędziem przejrzystości administracji: można w nim znaleźć m.in. informacje o strukturze urzędu, kompetencjach, dokumentach i naborach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/bip"
+  ],
+  "related_public_pages": []
+}
