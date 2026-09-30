@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-documents-passport-validity",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "documents",
+  "subtopic": "passport",
+  "title": "U.S. passport validity - basics",
+  "facts": [
+    "A regular U.S. passport issued to an applicant age 16 or older is generally valid for 10 years.",
+    "A regular U.S. passport issued to a child under age 16 is generally valid for 5 years.",
+    "Some destination countries require a passport to remain valid for a specified period beyond the planned travel dates, so an unexpired passport is not always sufficient for entry.",
+    "Passport validity and destination entry requirements are separate issues."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://travel.state.gov/content/travel/en/passports/passport-help/faqs.html"
+  ],
+  "related_public_pages": []
+}
