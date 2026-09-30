@@ -1,0 +1,21 @@
+{
+  "id": "gulf-gdansk",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "coast",
+  "title": "Zatoka Gdańska",
+  "facts": [
+    "Zatoka Gdańska jest częścią południowego Morza Bałtyckiego przy wybrzeżach Polski i rosyjskiego obwodu kaliningradzkiego.",
+    "Nad jej polską częścią leżą m.in. Gdańsk, Gdynia i Sopot.",
+    "Zatoka ma duże znaczenie dla portów, żeglugi, turystyki i ekosystemów wybrzeża."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.umgdy.gov.pl/"
+  ],
+  "related_public_pages": []
+}
