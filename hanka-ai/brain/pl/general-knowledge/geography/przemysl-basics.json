@@ -1,0 +1,21 @@
+{
+  "id": "przemysl-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Przemyśl",
+  "facts": [
+    "Przemyśl jest historycznym miastem w południowo-wschodniej Polsce, blisko granicy z Ukrainą.",
+    "Leży nad Sanem i przez stulecia był ważnym ośrodkiem pogranicza.",
+    "Miasto jest znane m.in. z zespołu Twierdzy Przemyśl oraz wielokulturowego dziedzictwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://przemysl.pl/"
+  ],
+  "related_public_pages": []
+}
