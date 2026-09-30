@@ -1,0 +1,21 @@
+{
+  "id": "beaver-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "parks_and_wildlife",
+  "title": "Bóbr europejski w Polsce",
+  "facts": [
+    "Bóbr europejski występuje szeroko w Polsce i jest związany z rzekami, strumieniami, jeziorami oraz terenami podmokłymi.",
+    "Budując tamy i zmieniając stosunki wodne, bobry mogą silnie przekształcać lokalne ekosystemy.",
+    "Status ochronny i zasady postępowania przy konfliktach z bobrami określają przepisy ochrony przyrody."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gdos.gov.pl/"
+  ],
+  "related_public_pages": []
+}
