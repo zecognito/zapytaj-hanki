@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-travel-tsa-liquids",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "travel_border",
+  "subtopic": "tsa",
+  "title": "TSA carry-on liquids 3-1-1 rule",
+  "facts": [
+    "For ordinary carry-on screening, liquids, aerosols, gels, creams and pastes are generally limited to containers of 3.4 ounces or 100 milliliters or less, placed in one quart-size bag, subject to TSA rules.",
+    "Medically necessary liquids and certain infant or child nourishment can qualify for exceptions and should be declared for screening.",
+    "Larger liquids generally belong in checked baggage unless an exception applies.",
+    "TSA officers make the final checkpoint decision about whether an item is permitted."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.tsa.gov/travel/security-screening/liquids-rule"
+  ],
+  "related_public_pages": []
+}
