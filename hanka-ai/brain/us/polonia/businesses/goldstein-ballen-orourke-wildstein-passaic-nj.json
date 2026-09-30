@@ -1,0 +1,35 @@
+{
+  "id": "polonia-prof-law-gbow-passaic-nj",
+  "country": "US",
+  "category": "lawyer",
+  "name": "Goldstein, Ballen, O'Rourke & Wildstein",
+  "status": "active",
+  "location": {
+    "address": "1 Howe Ave, 2nd Floor",
+    "city": "Passaic",
+    "state": "NJ",
+    "postal_code": "07055",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es"
+  ],
+  "services": [
+    "personal injury",
+    "workers compensation",
+    "motor vehicle accidents",
+    "premises liability",
+    "products liability"
+  ],
+  "phone": "+1 888-868-1830",
+  "email": null,
+  "website": "https://www.gbowlaw.com/",
+  "official_source": "https://www.gbowlaw.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official firm site explicitly states Mówimy po polsku and says the majority of staff is bilingual."
+  ]
+}
