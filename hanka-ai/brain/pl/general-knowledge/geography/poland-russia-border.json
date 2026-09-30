@@ -1,0 +1,21 @@
+{
+  "id": "poland-russia-border",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "borders",
+  "title": "Granica Polski z Rosją",
+  "facts": [
+    "Polska graniczy z Federacją Rosyjską poprzez rosyjski obwód kaliningradzki.",
+    "Jest to zewnętrzna granica UE i NATO.",
+    "Warunki przekraczania tej granicy są kwestią bieżącą i powinny być sprawdzane w aktualnych komunikatach Straży Granicznej i MSZ."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/"
+  ],
+  "related_public_pages": []
+}
