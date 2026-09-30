@@ -1,0 +1,20 @@
+{
+  "id": "il-unemployment-payment-methods-2026",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "benefits",
+  "subtopic": "unemployment_payments",
+  "title": "Illinois unemployment payment methods from July 2026",
+  "facts": [
+    "As of July 8, 2026, IDES no longer sends unemployment benefit payments by paper check.",
+    "Claimants may receive benefits by direct deposit or debit card; former paper-check recipients are switched to debit card unless they enroll in direct deposit."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ides.illinois.gov/unemployment"
+  ],
+  "related_public_pages": []
+}
