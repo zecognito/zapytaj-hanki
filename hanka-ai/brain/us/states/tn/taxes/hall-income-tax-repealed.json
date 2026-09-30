@@ -1,0 +1,21 @@
+{
+  "id": "tn-hall-income-tax-repealed",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TN",
+  "topic": "taxes",
+  "subtopic": "state_specific_high_value",
+  "title": "Tennessee nie pobiera już Hall Income Tax",
+  "facts": [
+    "Tennessee Hall Income Tax, który wcześniej obejmował określone interest i dividend income, został całkowicie zniesiony dla tax periods rozpoczynających się 1 stycznia 2021 lub później.",
+    "Tennessee nie ma obecnie ogólnego individual income tax od wages ani dawnego Hall tax od interest i dividends.",
+    "Inne podatki stanowe i federalny income tax nadal mogą mieć zastosowanie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.tn.gov/revenue/taxes/hall-income-tax.html"
+  ],
+  "related_public_pages": []
+}
