@@ -1,0 +1,21 @@
+{
+  "id": "il-senior-property-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "housing",
+  "subtopic": "senior_property_tax",
+  "title": "Illinois senior property-tax relief",
+  "facts": [
+    "Illinois provides property-tax relief programs for qualifying senior homeowners, including the Senior Citizens Homestead Exemption.",
+    "The Senior Citizens Assessment Freeze Homestead Exemption can freeze the equalized assessed value used for tax calculation for qualifying seniors, but it does not freeze the tax bill itself.",
+    "County assessor rules and applications should be checked for the property location."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tax.illinois.gov/localgovernments/property/taxrelief.html"
+  ],
+  "related_public_pages": []
+}
