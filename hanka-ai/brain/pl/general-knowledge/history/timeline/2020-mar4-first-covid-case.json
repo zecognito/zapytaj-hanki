@@ -1,0 +1,23 @@
+{
+  "id": "2020-mar4-first-covid-case",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "4 marca 2020 — pierwszy potwierdzony przypadek COVID-19 w Polsce",
+  "facts": [
+    "4 marca 2020 r. Ministerstwo Zdrowia poinformowało o pierwszym potwierdzonym przypadku zakażenia SARS-CoV-2 w Polsce.",
+    "W kolejnych tygodniach wprowadzano ograniczenia sanitarne, zmiany w funkcjonowaniu szkół, granic, gospodarki i życia publicznego.",
+    "Pandemia COVID-19 miała wieloletnie skutki zdrowotne, społeczne i gospodarcze."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/",
+    "https://european-union.europa.eu/",
+    "https://www.senat.gov.pl/"
+  ],
+  "related_public_pages": []
+}
