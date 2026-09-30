@@ -1,0 +1,21 @@
+{
+  "id": "country-argentina",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Argentyna",
+  "facts": [
+    "Argentyna leży w południowej części Ameryki Południowej, a jej stolicą jest Buenos Aires.",
+    "Językiem dominującym i językiem administracji państwowej jest hiszpański, a walutą peso argentyńskie.",
+    "Argentyna jest republiką federalną i należy do państw G20."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.argentina.gob.ar/"
+  ],
+  "related_public_pages": []
+}
