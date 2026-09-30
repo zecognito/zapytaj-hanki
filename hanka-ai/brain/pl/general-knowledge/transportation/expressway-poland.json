@@ -1,0 +1,21 @@
+{
+  "id": "expressway-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Drogi ekspresowe w Polsce",
+  "facts": [
+    "Drogi ekspresowe są oznaczane literą S i numerem, np. S7 lub S8.",
+    "Mogą mieć jedną albo dwie jezdnie zależnie od odcinka i projektu.",
+    "Droga ekspresowa i autostrada są odrębnymi kategoriami dróg i mogą mieć różne parametry oraz limity prędkości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
