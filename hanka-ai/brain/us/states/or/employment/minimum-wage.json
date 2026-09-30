@@ -1,0 +1,21 @@
+{
+  "id": "or-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OR",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Oregonie",
+  "facts": [
+    "Oregon stosuje trzy poziomy minimum wage zależnie od miejsca pracy: Portland Metro, Standard i Nonurban.",
+    "Od 1 lipca 2026 do 30 czerwca 2027 stawki wynoszą odpowiednio $16.80, $15.55 i $14.55 za godzinę.",
+    "Oregon nie pozwala używać tip credit do obniżenia wymaganej minimum wage."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.oregon.gov/boli/workers/Pages/minimum-wage.aspx"
+  ],
+  "related_public_pages": []
+}
