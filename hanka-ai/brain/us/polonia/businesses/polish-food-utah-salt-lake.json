@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polish-food-utah-salt-lake",
+  "country": "US",
+  "category": "store",
+  "name": "Polish Food Utah",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "Salt Lake City area",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish foods",
+    "Polish specialty groceries"
+  ],
+  "coverage_area": [
+    "Salt Lake City",
+    "UT"
+  ],
+  "notes": [
+    "Polish-food relevance supported by current business or Polonia-community source. Incomplete location/contact fields are intentionally left null rather than inferred; reverification required."
+  ],
+  "official_source": "https://polishfoodutah.com/",
+  "last_verified": "2026-09-30"
+}
