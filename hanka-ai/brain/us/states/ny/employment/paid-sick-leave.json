@@ -1,0 +1,21 @@
+{
+  "id": "ny-paid-sick-leave",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NY",
+  "topic": "employment",
+  "subtopic": "paid_sick_leave",
+  "title": "Sick leave w stanie Nowy Jork",
+  "facts": [
+    "New York wymaga od objętych pracodawców zapewnienia sick leave; wymiar i to, czy urlop jest płatny, zależą m.in. od liczby pracowników i dochodu netto pracodawcy.",
+    "Pracownicy zasadniczo naliczają co najmniej 1 godzinę sick leave za każde 30 przepracowanych godzin, z ustawowymi limitami wykorzystania zależnymi od wielkości pracodawcy.",
+    "New York City ma dodatkowe lokalne wymagania, które należy sprawdzać oddzielnie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ny.gov/new-york-paid-sick-leave/new-york-paid-sick-leave"
+  ],
+  "related_public_pages": []
+}
