@@ -1,0 +1,22 @@
+{
+  "id": "1989-aug24-mazowiecki",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "24 sierpnia 1989 — Tadeusz Mazowiecki premierem",
+  "facts": [
+    "24 sierpnia 1989 r. Sejm powołał Tadeusza Mazowieckiego na stanowisko prezesa Rady Ministrów.",
+    "Był pierwszym od dziesięcioleci premierem Polski niepochodzącym z kierownictwa partii komunistycznej.",
+    "Jego rząd rozpoczął zasadnicze reformy ustrojowe i gospodarcze okresu transformacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.senat.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
