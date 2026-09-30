@@ -1,0 +1,21 @@
+{
+  "id": "de-real_id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "DE",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Delaware",
+  "facts": [
+    "Stan prowadzi lub reguluje ten program albo obowiązek zgodnie z własnymi przepisami.",
+    "Eligibility, wymagania lub procedura zależą od konkretnej sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle stanowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_realid"
+  ],
+  "related_public_pages": []
+}
