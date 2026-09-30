@@ -1,0 +1,21 @@
+{
+  "id": "country-russia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Rosja",
+  "facts": [
+    "Rosja rozciąga się przez Europę Wschodnią i północną Azję i jest największym państwem świata pod względem powierzchni.",
+    "Stolicą jest Moskwa, językiem państwowym rosyjski, a walutą rubel rosyjski.",
+    "Rosja jest stałym członkiem Rady Bezpieczeństwa ONZ i państwem posiadającym broń jądrową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/securitycouncil/content/current-members"
+  ],
+  "related_public_pages": []
+}
