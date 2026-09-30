@@ -1,0 +1,21 @@
+{
+  "id": "biebrza-marshes",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "landscapes",
+  "title": "Bagna Biebrzańskie",
+  "facts": [
+    "Dolina Biebrzy tworzy jeden z największych kompleksów bagien i torfowisk w Europie Środkowej.",
+    "Biebrzański Park Narodowy jest największym parkiem narodowym w Polsce pod względem powierzchni.",
+    "Region jest szczególnie ważny dla ptaków wodno-błotnych oraz ochrony siedlisk bagiennych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://bbpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
