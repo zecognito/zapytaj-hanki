@@ -1,0 +1,21 @@
+{
+  "id": "lubelszczyzna-region",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Lubelszczyzna",
+  "facts": [
+    "Lubelszczyzna to potoczne i historyczno-regionalne określenie obszaru związanego z Lublinem i wschodnią Polską.",
+    "Nie jest formalną jednostką administracyjną równą województwu w każdym historycznym znaczeniu.",
+    "Region obejmuje ważne obszary rolnicze, miasta historyczne i zróżnicowane dziedzictwo kulturowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
