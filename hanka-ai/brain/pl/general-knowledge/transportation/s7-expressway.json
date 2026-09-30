@@ -1,0 +1,21 @@
+{
+  "id": "s7-expressway",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Droga ekspresowa S7",
+  "facts": [
+    "S7 jest jedną z najważniejszych tras drogowych Polski, prowadzącą w osi północ–południe.",
+    "Korytarz S7 łączy rejon Trójmiasta z Warszawą, a dalej prowadzi przez centralną i południową Polskę w kierunku Krakowa.",
+    "Trasa przejmuje znaczną część ruchu dawnej drogi krajowej nr 7 i jest kluczowa dla połączeń między północą, centrum i południem kraju."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
