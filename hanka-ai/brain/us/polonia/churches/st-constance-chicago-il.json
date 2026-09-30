@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-constance-chicago-il",
+  "country": "US",
+  "category": "church",
+  "name": "St. Constance Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "5843 W Strong St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60630",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 773 545 8581",
+  "email": null,
+  "website": "https://www.stconstance.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "IL"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; Hanka should direct users to the parish website for current Mass/confession times."
+  ],
+  "official_source": "https://www.stconstance.org",
+  "last_verified": "2026-09-30"
+}
