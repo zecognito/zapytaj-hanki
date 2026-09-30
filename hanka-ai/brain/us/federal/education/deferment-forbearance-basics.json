@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-education-deferment-forbearance",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "education",
+  "subtopic": "repayment",
+  "title": "Federal student loan deferment and forbearance",
+  "facts": [
+    "Deferment and forbearance can temporarily postpone or reduce federal student loan payments when eligibility requirements are met.",
+    "Interest consequences differ by loan type and relief type; borrowers should not assume interest stops during every deferment or forbearance.",
+    "These options do not erase the debt and can affect total repayment cost and progress toward some forgiveness programs.",
+    "Borrowers should use their federal loan servicer and StudentAid.gov to determine eligibility and alternatives."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://studentaid.gov/manage-loans/lower-payments/get-temporary-relief"
+  ],
+  "related_public_pages": []
+}
