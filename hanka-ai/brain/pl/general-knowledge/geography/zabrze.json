@@ -1,0 +1,21 @@
+{
+  "id": "zabrze",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Zabrze",
+  "facts": [
+    "Zabrze jest miastem na prawach powiatu w województwie śląskim, historycznie silnie związanym z górnictwem i przemysłem ciężkim.",
+    "Dziedzictwo górnicze miasta prezentują m.in. podziemne obiekty turystyczne.",
+    "Zabrze należy do dużego zespołu miejskiego Górnego Śląska i Zagłębia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://miastozabrze.pl/"
+  ],
+  "related_public_pages": []
+}
