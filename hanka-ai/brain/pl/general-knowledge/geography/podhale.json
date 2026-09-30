@@ -1,0 +1,21 @@
+{
+  "id": "podhale",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Podhale",
+  "facts": [
+    "Podhale jest regionem kulturowym u północnego podnóża Tatr.",
+    "Region jest silnie kojarzony z kulturą góralską, pasterstwem, muzyką, strojem, gwarą i charakterystyczną architekturą.",
+    "Podhale nie jest jednostką administracyjną i nie należy utożsamiać go z całym województwem małopolskim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://etnomuzeum.eu/zbiory/podhale"
+  ],
+  "related_public_pages": []
+}
