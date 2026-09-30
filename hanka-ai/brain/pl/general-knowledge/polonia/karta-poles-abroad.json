@@ -1,0 +1,21 @@
+{
+  "id": "karta-poles-abroad",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "polonia",
+  "subtopic": "documents",
+  "title": "Karta Polaka — czym jest",
+  "facts": [
+    "Karta Polaka jest dokumentem potwierdzającym przynależność do Narodu Polskiego na zasadach określonych ustawą.",
+    "Karta Polaka nie jest polskim obywatelstwem ani dokumentem podróży.",
+    "Może dawać określone uprawnienia w Polsce, ale aktualne warunki uzyskania i zakres praw należy sprawdzać w oficjalnych źródłach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/dyplomacja/karta-polaka-informacje-ogolne"
+  ],
+  "related_public_pages": []
+}
