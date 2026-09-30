@@ -1,0 +1,21 @@
+{
+  "id": "kurpie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Kurpie",
+  "facts": [
+    "Kurpie są historyczno-etnograficznym regionem północnego Mazowsza i sąsiednich terenów.",
+    "Kultura kurpiowska jest znana m.in. z wycinanek, palm wielkanocnych, stroju, muzyki i tradycji związanych z dawną gospodarką leśną.",
+    "Kurpie nie są współczesną jednostką administracyjną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ethnomuseum.pl/zbiory/"
+  ],
+  "related_public_pages": []
+}
