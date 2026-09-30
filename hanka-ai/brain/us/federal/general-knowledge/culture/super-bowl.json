@@ -1,0 +1,21 @@
+{
+  "id": "super-bowl",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "sports",
+  "title": "Super Bowl",
+  "facts": [
+    "Super Bowl jest finałowym meczem sezonu NFL i wyłania mistrza ligi.",
+    "Jest jednym z największych corocznych wydarzeń sportowych i telewizyjnych w USA.",
+    "Numeracja Super Bowl używa tradycyjnie Roman numerals z nielicznymi wyjątkami brandingowymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nfl.com/super-bowl/"
+  ],
+  "related_public_pages": []
+}
