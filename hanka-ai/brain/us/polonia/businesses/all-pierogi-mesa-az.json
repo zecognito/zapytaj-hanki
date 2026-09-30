@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-all-pierogi-mesa-az",
+  "country": "US",
+  "category": "restaurant",
+  "name": "All Pierogi Kitchen & Euro Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1245 W Baseline Rd Ste 101-103",
+    "city": "Mesa",
+    "state": "AZ",
+    "postal_code": "85202",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 480-262-3349",
+  "email": null,
+  "website": "https://allpierogi.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Mesa",
+    "AZ"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://allpierogi.com/",
+  "last_verified": "2026-09-30"
+}
