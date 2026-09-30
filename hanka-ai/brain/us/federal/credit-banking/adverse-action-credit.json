@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-credit-adverse-action",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "credit_banking",
+  "subtopic": "fair_credit",
+  "title": "Credit adverse action notice - basics",
+  "facts": [
+    "When a creditor takes adverse action on a credit application, federal law generally requires notice explaining the action and applicable rights.",
+    "If adverse action is based in whole or in part on information from a consumer report, the notice must identify the consumer reporting company and explain the consumer's right to obtain a free report and dispute accuracy.",
+    "The credit reporting company does not make the lender's decision and generally cannot explain why the creditor denied the application.",
+    "Different federal statutes can impose overlapping adverse-action notice requirements."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/what-is-an-adverse-action-notice-en-79/"
+  ],
+  "related_public_pages": []
+}
