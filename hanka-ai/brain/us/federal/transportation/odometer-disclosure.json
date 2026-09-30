@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-cars-odometer-disclosure",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "cars_transportation",
+  "subtopic": "odometer",
+  "title": "Federal odometer disclosure - basics",
+  "facts": [
+    "Federal law prohibits odometer tampering and requires mileage disclosures in many vehicle ownership transfers.",
+    "For model year 2011 and newer vehicles, federal odometer disclosure requirements generally continue for the first 20 years of the vehicle's life.",
+    "For model year 2010 and older vehicles, the prior federal exemption generally begins after 10 years.",
+    "State title documents and transfer procedures implement these requirements and can contain additional rules."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nhtsa.gov/vehicle-safety/odometer-fraud"
+  ],
+  "related_public_pages": []
+}
