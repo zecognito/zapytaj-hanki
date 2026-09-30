@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-pulaski-brooklyn-ny",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła Dokształcająca im. gen. Kazimierza Pułaskiego",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1273 58th Street",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11219",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 347 415 4645",
+  "email": "bogusiab1963@yahoo.com",
+  "website": "http://www.psdpulaski.naszaszkola.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary school"
+  ],
+  "coverage_area": [
+    "NY"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; verify enrollment details directly with the school."
+  ],
+  "official_source": "https://www.centralapolskichszkol.org/index.php/new-york/",
+  "last_verified": "2026-09-30"
+}
