@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-jp2-new-britain-ct",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Szkoła Języka Polskiego im. Jana Pawła II",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "110 Mill Street",
+    "city": "New Britain",
+    "state": "CT",
+    "postal_code": "06053",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 860 348 5689",
+  "email": "biuro.szkolajp@gmail.com",
+  "website": "http://www.szkolajp.com",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "CT"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; enrollment and current class offerings should be confirmed directly with the school."
+  ],
+  "official_source": "https://www.centralapolskichszkol.org/index.php/connecticut/",
+  "last_verified": "2026-09-30"
+}
