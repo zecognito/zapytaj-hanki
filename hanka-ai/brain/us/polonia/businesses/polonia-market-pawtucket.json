@@ -6,10 +6,10 @@
   "aliases": [],
   "status": "active",
   "location": {
-    "address": "736 Central Ave",
+    "address": "736 Broadway",
     "city": "Pawtucket",
     "state": "RI",
-    "postal_code": "02861",
+    "postal_code": null,
     "latitude": null,
     "longitude": null
   },
@@ -29,8 +29,8 @@
     "RI"
   ],
   "notes": [
-    "Commercial directory record; current status, address, hours and services are freshness-sensitive and should be periodically reverified."
+    "Audited 2026-09-30: earlier record had wrong street (Central Ave); current city/business dataset lists Polonia Market as a grocery store at 736 Broadway. Polish specialization still needs stronger first-party confirmation."
   ],
-  "official_source": "https://www.gov.pl/web/usa/relacje-dwustronne",
+  "official_source": "https://urbfact.com/city/pawtucket-ri",
   "last_verified": "2026-09-30"
 }
