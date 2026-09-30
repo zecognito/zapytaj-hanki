@@ -1,0 +1,21 @@
+{
+  "id": "az-unemployment-basics",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AZ",
+  "topic": "benefits",
+  "subtopic": "unemployment",
+  "title": "Unemployment Insurance w Arizonie",
+  "facts": [
+    "Arizona Unemployment Insurance zapewnia czasowe świadczenia kwalifikującym się osobom bez pracy.",
+    "Eligibility zależy od wcześniejszych wages, powodu utraty pracy oraz bieżącej zdolności i dostępności do pracy.",
+    "Claimant musi wykonywać wymagane weekly certifications i spełniać work-search requirements, jeśli mają zastosowanie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://des.az.gov/services/employment/unemployment-individual"
+  ],
+  "related_public_pages": []
+}
