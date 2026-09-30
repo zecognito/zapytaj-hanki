@@ -1,0 +1,21 @@
+{
+  "id": "biala-kielbasa",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Biała kiełbasa",
+  "facts": [
+    "Biała kiełbasa jest tradycyjnym polskim wyrobem mięsnym, zwykle sprzedawanym jako kiełbasa surowa lub parzona o jasnym kolorze.",
+    "Jest mocno kojarzona z Wielkanocą i żurkiem.",
+    "Receptury różnią się między producentami i regionami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101"
+  ],
+  "related_public_pages": []
+}
