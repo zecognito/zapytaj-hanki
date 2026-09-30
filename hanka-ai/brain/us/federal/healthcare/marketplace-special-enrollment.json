@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-healthcare-marketplace-special-enrollment",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "healthcare",
+  "subtopic": "marketplace",
+  "title": "Marketplace Special Enrollment Period - basics",
+  "facts": [
+    "Outside Open Enrollment, a person may enroll in or change Marketplace coverage if they qualify for a Special Enrollment Period.",
+    "Qualifying circumstances can include certain life events such as losing qualifying health coverage, marriage, having or adopting a child, or certain moves.",
+    "The exact enrollment window and documentation depend on the qualifying event.",
+    "Losing Marketplace coverage for nonpayment of premiums does not by itself create a Special Enrollment Period."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.healthcare.gov/coverage-outside-open-enrollment/",
+    "https://www.healthcare.gov/apply-and-enroll/health-insurance-grace-period/"
+  ],
+  "related_public_pages": []
+}
