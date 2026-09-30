@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-kopernik-sarasota-fl",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Sobotnia Szkoła im. Mikołaja Kopernika",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2911 Bee Ridge Rd",
+    "city": "Sarasota",
+    "state": "FL",
+    "postal_code": "34239",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "FL"
+  ],
+  "notes": [
+    "Listed in the ORPEG Polonia-school database; current enrollment/contact details should be reconfirmed directly with the school."
+  ],
+  "official_source": "https://archiwum.orpeg.gov.pl/db/web/database/115?page=17&queryString=",
+  "last_verified": "2026-09-30"
+}
