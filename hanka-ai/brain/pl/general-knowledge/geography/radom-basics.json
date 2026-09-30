@@ -1,0 +1,21 @@
+{
+  "id": "radom-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Radom — podstawy",
+  "facts": [
+    "Radom jest dużym miastem w województwie mazowieckim, położonym na południe od Warszawy.",
+    "Historycznie i kulturowo Radom ma własną tożsamość regionalną i nie jest częścią miasta Warszawy.",
+    "W czerwcu 1976 r. Radom był jednym z głównych miejsc protestów robotniczych przeciw władzom PRL."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.radom.pl/"
+  ],
+  "related_public_pages": []
+}
