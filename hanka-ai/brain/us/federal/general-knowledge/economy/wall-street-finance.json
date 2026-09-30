@@ -1,0 +1,21 @@
+{
+  "id": "wall-street-finance",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "economy",
+  "subtopic": "industry",
+  "title": "Wall Street i finanse",
+  "facts": [
+    "Wall Street jest ulicą w Lower Manhattan i symbolicznym określeniem amerykańskiego financial sector oraz securities markets.",
+    "New York Stock Exchange znajduje się przy Wall Street.",
+    "Termin „Wall Street” może oznaczać sektor finansowy szerzej, a nie wyłącznie jedną giełdę lub ulicę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sec.gov/about.shtml"
+  ],
+  "related_public_pages": []
+}
