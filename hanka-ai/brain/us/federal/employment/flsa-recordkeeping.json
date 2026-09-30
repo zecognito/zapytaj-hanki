@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-employment-flsa-recordkeeping",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "flsa",
+  "title": "FLSA employer recordkeeping — podstawy",
+  "facts": [
+    "Covered employers muszą prowadzić określone records dotyczące pracowników objętych FLSA, w tym podstawowe dane identyfikacyjne oraz wage/hour information.",
+    "Dla nonexempt workers records obejmują m.in. hours worked each day, total hours each workweek, regular hourly pay rate, straight-time earnings, overtime earnings, deductions/additions i total wages per pay period.",
+    "Payroll records, collective bargaining agreements oraz sales/purchase records zasadniczo muszą być zachowane co najmniej 3 lata; records używane do wage computations zasadniczo 2 lata.",
+    "FLSA nie narzuca jednego konkretnego formularza records, ale wymaga zachowania wymaganych informacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/whd/fact-sheets/21-flsa-recordkeeping"
+  ],
+  "related_public_pages": []
+}
