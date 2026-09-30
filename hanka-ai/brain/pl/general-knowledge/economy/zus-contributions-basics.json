@@ -1,0 +1,21 @@
+{
+  "id": "zus-contributions-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "work",
+  "title": "Składki ZUS — podstawy",
+  "facts": [
+    "System ubezpieczeń społecznych w Polsce obejmuje m.in. ubezpieczenia emerytalne, rentowe, chorobowe i wypadkowe na zasadach określonych prawem.",
+    "ZUS realizuje wiele zadań związanych z poborem składek i wypłatą świadczeń.",
+    "To, jakie składki są obowiązkowe, zależy od tytułu ubezpieczenia i sytuacji osoby."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.zus.pl/ubezpieczenia"
+  ],
+  "related_public_pages": []
+}
