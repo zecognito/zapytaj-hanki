@@ -1,0 +1,21 @@
+{
+  "id": "country-lithuania",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Litwa",
+  "facts": [
+    "Litwa leży nad Morzem Bałtyckim i graniczy m.in. z Polską, Łotwą i Białorusią.",
+    "Stolicą jest Wilno, językiem państwowym litewski, a walutą euro.",
+    "Litwa jest republiką oraz członkiem Unii Europejskiej i NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://lithuania.lt/"
+  ],
+  "related_public_pages": []
+}
