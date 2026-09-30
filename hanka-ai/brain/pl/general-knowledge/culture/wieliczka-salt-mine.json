@@ -1,0 +1,21 @@
+{
+  "id": "wieliczka-salt-mine",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Kopalnia Soli Wieliczka",
+  "facts": [
+    "Kopalnia soli w Wieliczce działała przez stulecia i jest jednym z najbardziej znanych zabytków przemysłowych Polski.",
+    "Podziemny kompleks obejmuje komory, chodniki, kaplice i elementy wykonane w soli.",
+    "Wieliczka wraz z Bochnią znajduje się na Liście Światowego Dziedzictwa UNESCO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://whc.unesco.org/en/list/32/"
+  ],
+  "related_public_pages": []
+}
