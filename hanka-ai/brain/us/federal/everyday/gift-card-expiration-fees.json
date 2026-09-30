@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-gift-card-expiration-fees",
+  "subtopic": "shopping_consumer",
+  "title": "Daty ważności i opłaty na gift cards",
+  "facts": [
+    "Federalne przepisy zasadniczo zabraniają wygaśnięcia środków na covered gift card przed upływem co najmniej 5 lat od wydania karty lub ostatniego doładowania, zależnie od rodzaju karty.",
+    "Dormancy, inactivity i service fees są federalnie ograniczone i mogą być pobierane tylko przy spełnieniu określonych warunków, w tym dotyczących okresu bezczynności i disclosure.",
+    "Nie wszystkie karty i instrumenty są objęte identycznie; np. niektóre reloadable cards nieprzeznaczone do prezentów oraz promotional cards mogą podlegać innym zasadom.",
+    "Prawo stanowe może zapewniać dodatkowe protections ponad federalne minimum."
+  ],
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/what-are-the-rules-regarding-expiration-dates-on-gift-cards-en-971/",
+    "https://www.consumerfinance.gov/rules-policy/regulations/1005/20/"
+  ]
+}
