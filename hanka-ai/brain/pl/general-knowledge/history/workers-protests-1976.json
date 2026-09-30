@@ -1,0 +1,21 @@
+{
+  "id": "workers-protests-1976",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "communism",
+  "title": "Protesty robotnicze 1976",
+  "facts": [
+    "W czerwcu 1976 r. po ogłoszeniu dużych podwyżek cen wybuchły protesty robotnicze m.in. w Radomiu, Ursusie i Płocku.",
+    "Władze wycofały podwyżki, ale uczestnicy protestów byli represjonowani.",
+    "Pomoc represjonowanym przyczyniła się do powstania Komitetu Obrony Robotników (KOR)."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/pl/historia-z-ipn/"
+  ],
+  "related_public_pages": []
+}
