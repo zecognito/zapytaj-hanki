@@ -1,0 +1,21 @@
+{
+  "id": "mlb-baseball-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "sports",
+  "title": "MLB i baseball",
+  "facts": [
+    "Major League Baseball (MLB) jest najwyższym poziomem profesjonalnego baseballu w USA i Canada.",
+    "Baseball rozgrywa się między dwiema drużynami naprzemiennie grającymi offense i defense; podstawową jednostką meczu jest inning.",
+    "World Series jest championship series MLB."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mlb.com/official-information"
+  ],
+  "related_public_pages": []
+}
