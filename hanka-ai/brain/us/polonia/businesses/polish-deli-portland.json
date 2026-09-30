@@ -4,7 +4,7 @@
   "category": "store",
   "name": "Polish Deli",
   "aliases": [],
-  "status": "active",
+  "status": "unverified",
   "location": {
     "address": "Portland area",
     "city": "Portland",
@@ -29,7 +29,7 @@
     "OR"
   ],
   "notes": [
-    "Polish-food relevance supported by current business or Polonia-community source. Incomplete location/contact fields are intentionally left null rather than inferred; reverification required."
+    "Audited 2026-09-30: community source supports Polish food activity in Portland, but the record lacks a specific current business identity/address sufficient for local recommendations. Downgraded to unverified."
   ],
   "official_source": "https://www.polishportland.com/",
   "last_verified": "2026-09-30"
