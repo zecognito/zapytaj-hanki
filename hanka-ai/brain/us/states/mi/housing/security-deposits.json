@@ -1,0 +1,21 @@
+{
+  "id": "mi-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MI",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w Michigan",
+  "facts": [
+    "Michigan ogranicza security deposit zasadniczo do 1,5 miesiąca rent.",
+    "Landlord musi spełnić ustawowe wymagania dotyczące przechowywania deposit oraz informacji przekazywanych tenant.",
+    "Po wyprowadzce obowiązują ustawowe terminy i procedury dotyczące itemized damages oraz zwrotu pozostałej części deposit."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-602"
+  ],
+  "related_public_pages": []
+}
