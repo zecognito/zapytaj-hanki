@@ -1,0 +1,21 @@
+{
+  "id": "tx-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TX",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w Teksasie",
+  "facts": [
+    "Texas SNAP zapewnia food benefits kwalifikującym się gospodarstwom domowym.",
+    "Program jest administrowany przez Texas Health and Human Services.",
+    "Eligibility i wysokość świadczenia zależą m.in. od wielkości gospodarstwa, dochodu i innych zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.hhs.texas.gov/services/food/snap-food-benefits"
+  ],
+  "related_public_pages": []
+}
