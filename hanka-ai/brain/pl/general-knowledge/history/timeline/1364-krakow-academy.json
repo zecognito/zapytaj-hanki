@@ -1,0 +1,21 @@
+{
+  "id": "1364-krakow-academy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1364 — założenie Akademii Krakowskiej",
+  "facts": [
+    "W 1364 r. Kazimierz Wielki założył Akademię Krakowską.",
+    "Była to pierwsza uczelnia wyższa w Polsce.",
+    "Po odnowieniu w 1400 r. uczelnia rozwijała się jako dzisiejszy Uniwersytet Jagielloński."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
