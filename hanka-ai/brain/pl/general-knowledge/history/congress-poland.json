@@ -1,0 +1,21 @@
+{
+  "id": "congress-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions",
+  "title": "Królestwo Polskie po kongresie wiedeńskim",
+  "facts": [
+    "Po kongresie wiedeńskim w 1815 r. utworzono Królestwo Polskie, często nazywane Królestwem Kongresowym.",
+    "Było ono połączone unią personalną z Imperium Rosyjskim, którego car był królem Polski.",
+    "Zakres jego autonomii był z czasem ograniczany, szczególnie po polskich powstaniach przeciw władzy rosyjskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
