@@ -1,0 +1,21 @@
+{
+  "id": "poland-wto",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "international",
+  "subtopic": "organizations",
+  "title": "Polska w Światowej Organizacji Handlu",
+  "facts": [
+    "Polska jest członkiem Światowej Organizacji Handlu (WTO) od 1 lipca 1995 roku.",
+    "Wcześniej Polska należała do GATT od 18 października 1967 roku.",
+    "Od wejścia Polski do Unii Europejskiej w 2004 roku polityka handlowa jest prowadzona w ramach wspólnej polityki handlowej UE; zarówno UE, jak i jej państwa członkowskie należą do WTO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.wto.org/english/thewto_e/countries_e/poland_e.htm"
+  ],
+  "related_public_pages": []
+}
