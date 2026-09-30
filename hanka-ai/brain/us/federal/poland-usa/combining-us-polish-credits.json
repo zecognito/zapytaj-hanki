@@ -1,0 +1,21 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-combining-work-credits",
+  "subtopic": "social_security_agreement",
+  "title": "Łączenie okresów pracy USA i Polska",
+  "facts": [
+    "Jeśli okresy ubezpieczenia w jednym państwie są za krótkie do nabycia prawa do świadczenia, umowa może pozwolić uwzględnić okresy z drugiego państwa.",
+    "Aby SSA mogła uwzględnić polskie okresy przy ustalaniu prawa do częściowego świadczenia USA, osoba musi mieć co najmniej 6 amerykańskich Social Security credits.",
+    "Jeżeli osoba ma już wystarczającą liczbę amerykańskich credits do zwykłego świadczenia USA, SSA nie dolicza polskich okresów do kwalifikacji."
+  ],
+  "effective_from": "2009-03-01",
+  "official_sources": [
+    "https://www.ssa.gov/international/Agreement_Pamphlets/polish.html"
+  ]
+}
