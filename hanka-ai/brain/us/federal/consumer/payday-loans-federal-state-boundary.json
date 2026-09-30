@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-consumer-payday-loans-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "consumer_protection",
+  "subtopic": "payday_loans",
+  "title": "Payday loans - federal and state boundary",
+  "facts": [
+    "Payday lending is heavily affected by state law; states differ on whether payday loans are permitted and on rate, fee, amount, rollover and licensing restrictions.",
+    "Federal consumer-finance laws can apply to disclosures, electronic payments, military borrowers and unfair or deceptive practices without creating one nationwide payday-loan price cap for all consumers.",
+    "A specific payday-loan legality or maximum-cost answer requires the borrower's state and the lender or product type."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/consumer-tools/payday-loans/"
+  ],
+  "related_public_pages": []
+}
