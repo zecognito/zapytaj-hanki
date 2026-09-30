@@ -1,0 +1,21 @@
+{
+  "id": "routing-number",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "finance",
+  "subtopic": "banking_terms",
+  "title": "Co to jest routing number?",
+  "facts": [
+    "Routing number identyfikuje instytucję finansową w określonych amerykańskich systemach płatniczych.",
+    "Wraz z account number może być używany m.in. do direct deposit i ACH payments.",
+    "Jedna instytucja może używać różnych routing numbers zależnie od regionu lub typu transakcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.frbservices.org/resources/routing-number-directory"
+  ],
+  "related_public_pages": []
+}
