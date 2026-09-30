@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-benefits-snap-framework",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "benefits",
+  "subtopic": "snap_federal_rules",
+  "title": "SNAP - federal framework",
+  "facts": [
+    "SNAP is a federal nutrition assistance program administered through state agencies under federal USDA rules.",
+    "Applicants generally apply through the SNAP agency in the state where they live; application methods and state procedures vary.",
+    "Federal SNAP eligibility uses household, income, resource and other rules, but states have options that can materially affect eligibility and administration.",
+    "A specific SNAP eligibility answer should therefore combine current federal rules with the applicant's state rules."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fns.usda.gov/snap/recipient/eligibility",
+    "https://www.fns.usda.gov/snap/state-directory"
+  ],
+  "related_public_pages": []
+}
