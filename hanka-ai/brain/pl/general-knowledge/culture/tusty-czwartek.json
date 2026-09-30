@@ -1,0 +1,21 @@
+{
+  "id": "tusty-czwartek",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Tłusty Czwartek",
+  "facts": [
+    "Tłusty Czwartek przypada w ostatni czwartek przed Wielkim Postem i jest w Polsce silnie kojarzony z jedzeniem pączków i faworków.",
+    "Data jest ruchoma, ponieważ zależy od kalendarza wielkanocnego.",
+    "Jest tradycją kulturową i religijnie uwarunkowanym zwyczajem, ale nie jest ogólnym dniem ustawowo wolnym od pracy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/fat-thursday-polands-tastiest-tradition"
+  ],
+  "related_public_pages": []
+}
