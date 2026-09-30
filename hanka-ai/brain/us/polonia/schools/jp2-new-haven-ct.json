@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-jp2-new-haven-ct",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła im. Jana Pawła II",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "9 Eld St",
+    "city": "New Haven",
+    "state": "CT",
+    "postal_code": "06511",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 203 675 1858",
+  "email": "mmborowski@comcast.net",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "CT"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; enrollment and current class offerings should be confirmed directly with the school."
+  ],
+  "official_source": "https://www.centralapolskichszkol.org/index.php/connecticut/",
+  "last_verified": "2026-09-30"
+}
