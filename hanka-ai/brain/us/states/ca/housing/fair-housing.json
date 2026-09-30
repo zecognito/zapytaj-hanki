@@ -1,0 +1,21 @@
+{
+  "id": "ca-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CA",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową w Kalifornii",
+  "facts": [
+    "California Fair Employment and Housing Act oraz Unruh Civil Rights Act zapewniają szeroką ochronę przed housing discrimination.",
+    "California chroni liczne kategorie poza federalnym minimum; dokładny zakres zależy od właściwego prawa i sytuacji.",
+    "California Civil Rights Department przyjmuje kwalifikujące się complaints dotyczące housing discrimination."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://calcivilrights.ca.gov/housing/"
+  ],
+  "related_public_pages": []
+}
