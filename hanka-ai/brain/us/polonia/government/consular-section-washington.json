@@ -1,0 +1,51 @@
+{
+  "id": "polonia-gov-consular-washington",
+  "country": "US",
+  "category": "consulate_general",
+  "name": "Consular Section of the Embassy of the Republic of Poland in Washington",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2224 Wyoming Avenue NW",
+    "city": "Washington",
+    "state": "DC",
+    "postal_code": "20008",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 202 499 1930",
+  "email": "washington.consul@msz.gov.pl",
+  "website": "https://www.gov.pl/web/usa-en/embassy-washington",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "passports",
+    "visas",
+    "legal matters",
+    "citizenship",
+    "civil status",
+    "consular assistance"
+  ],
+  "coverage_area": [
+    "DE",
+    "DC",
+    "GA",
+    "KY",
+    "MD",
+    "NC",
+    "PA",
+    "SC",
+    "TN",
+    "VA",
+    "WV",
+    "US Virgin Islands",
+    "Puerto Rico",
+    "other US overseas territories",
+    "Bahamas"
+  ],
+  "notes": [],
+  "official_source": "https://www.gov.pl/web/usa-en/embassy-washington",
+  "last_verified": "2026-09-30"
+}
