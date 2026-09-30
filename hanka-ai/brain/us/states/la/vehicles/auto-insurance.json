@@ -1,0 +1,21 @@
+{
+  "id": "la-auto_insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "LA",
+  "topic": "vehicles",
+  "subtopic": "auto_insurance",
+  "title": "Ubezpieczenie samochodu w Louisiana",
+  "facts": [
+    "Właściciel lub kierowca musi spełniać stanowe wymagania dotyczące auto insurance lub financial responsibility.",
+    "Wymagane coverage określa prawo stanowe.",
+    "Brak wymaganego coverage może prowadzić do kar lub problemów z rejestracją albo prawem jazdy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ldi.la.gov/consumers/insurance-type/auto"
+  ],
+  "related_public_pages": []
+}
