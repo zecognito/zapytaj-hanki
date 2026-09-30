@@ -1,0 +1,21 @@
+{
+  "id": "ca-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CA",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Kalifornii",
+  "facts": [
+    "California ma progresywny personal income tax; stawka zależy od taxable income i filing status.",
+    "California Franchise Tax Board administruje stanowym podatkiem dochodowym od osób fizycznych.",
+    "Progi, standard deduction i credits mogą zmieniać się według roku podatkowego, dlatego należy używać tabel FTB dla właściwego roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ftb.ca.gov/file/personal/tax-calculator-tables-rates.asp"
+  ],
+  "related_public_pages": []
+}
