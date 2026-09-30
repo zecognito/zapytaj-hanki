@@ -1,0 +1,21 @@
+{
+  "id": "country-ivory-coast",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Wybrzeże Kości Słoniowej",
+  "facts": [
+    "Wybrzeże Kości Słoniowej leży w Afryce Zachodniej nad Zatoką Gwinejską.",
+    "Polityczną stolicą jest Jamusukro, natomiast Abidżan jest największym miastem i głównym centrum gospodarczym; językiem urzędowym jest francuski.",
+    "Walutą jest frank CFA Afryki Zachodniej, a kraj należy do największych producentów kakao na świecie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gouv.ci/"
+  ],
+  "related_public_pages": []
+}
