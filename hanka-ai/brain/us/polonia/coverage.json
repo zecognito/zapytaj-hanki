@@ -44,13 +44,13 @@
     },
     "businesses": {
       "status": "professionals_national_expansion",
-      "records": 246,
+      "records": 253,
       "notes": [
         "Food/retail first-pass audit closed at 167 records; machine schema validation remains mandatory before ingestion.",
-        "Banking is now a first-class Polonia directory category. Schema enum was extended with bank before records were created.",
-        "Initial bank layer contains six high-confidence records: Byline Bank Skokie-Touhy, Norridge and Burbank branches; Apple Bank Greenpoint and 111 4th Avenue branches; and Community Savings Bank Chicago. Every bank record has explicit first-party Polish-language evidence; neighborhood location alone is never sufficient.",
-        "Community Savings Bank's Polish evidence is specifically Polish-speaking mortgage loan officers, so the record does not imply all branch staff/services are Polish-speaking. Byline and Apple records have branch-level language evidence.",
-        "Latest expansion also added Williams Farmer & Olechno family law and Maverick Auto Parts Fullerton with explicit Polish-language service. Continue bank discovery plus national professional expansion. Vectorize remains blocked until coverage and schema/status-aware ingestion are mature."
+        "Bank layer now contains nine verified Polish-language records. Latest bank additions are Apple Bank Lakewood NJ, 1575 50th St Brooklyn, and Massapequa; each current official branch page explicitly lists Polish among lobby languages.",
+        "Bank audit is branch-specific: nearby branches whose current official language lists omit Polish are not included. Polish support is never inferred chain-wide.",
+        "Latest professional additions: Bodyziak Law (Rockaway NJ), Teper Law (Hamilton Township NJ), Buchcar Law (Chicago IL), and Jolanta A. Zinevich LLC (Crystal Lake IL), all with explicit current first-party Polish-language evidence.",
+        "Continue bank discovery and national professional expansion across major Polonia regions. Vectorize remains blocked until coverage and schema/status-aware ingestion are mature."
       ]
     },
     "media_culture": {
