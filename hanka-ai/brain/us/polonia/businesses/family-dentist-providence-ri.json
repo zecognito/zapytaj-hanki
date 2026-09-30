@@ -1,0 +1,34 @@
+{
+  "id": "polonia-prof-dentist-family-dentist-providence-ri",
+  "country": "US",
+  "category": "dentist",
+  "name": "The Family Dentist / Capitol Hill Dental",
+  "status": "active",
+  "location": {
+    "address": "276 Smith St",
+    "city": "Providence",
+    "state": "RI",
+    "postal_code": "02908",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "pt"
+  ],
+  "services": [
+    "general dentistry",
+    "cosmetic dentistry",
+    "preventive dentistry",
+    "restorative dentistry"
+  ],
+  "phone": "+1 401-331-1116",
+  "email": null,
+  "website": "https://www.familydentistpawtucket.com/",
+  "official_source": "https://www.familydentistpawtucket.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official practice site states team members speak English, Polish and Portuguese and gives the current Providence location."
+  ]
+}
