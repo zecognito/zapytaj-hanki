@@ -1,0 +1,21 @@
+{
+  "id": "kurpie-culture",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "regional-identity",
+  "title": "Kurpie — region i kultura",
+  "facts": [
+    "Kurpie to region etnograficzny związany głównie z obszarami Puszczy Zielonej i Puszczy Białej na północnym Mazowszu.",
+    "Kultura kurpiowska jest znana m.in. z wycinanek, bursztyniarstwa, tradycyjnych strojów, muzyki i zwyczajów.",
+    "Kurpie są regionem kulturowym, a nie współczesną jednostką administracyjną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
