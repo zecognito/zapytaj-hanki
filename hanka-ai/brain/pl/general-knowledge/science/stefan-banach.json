@@ -1,0 +1,21 @@
+{
+  "id": "stefan-banach",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Stefan Banach",
+  "facts": [
+    "Stefan Banach był polskim matematykiem i jednym z twórców nowoczesnej analizy funkcjonalnej.",
+    "Jego nazwisko noszą przestrzenie Banacha, fundamentalne pojęcie matematyki.",
+    "Był związany ze Lwowem i słynną lwowską szkołą matematyczną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/stefan-banach"
+  ],
+  "related_public_pages": []
+}
