@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-immigration-naturalization-five-year-rule",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "immigration",
+  "subtopic": "naturalization",
+  "title": "Naturalization - standard 5-year rule",
+  "facts": [
+    "The standard naturalization path for a lawful permanent resident generally requires 5 years of permanent residence.",
+    "The applicant generally must be at least 18 and satisfy continuous residence, physical presence, local residence, and other statutory requirements.",
+    "The standard 5-year path generally requires at least 30 months of physical presence in the United States during the 5 years before filing.",
+    "Eligible applicants may file Form N-400 up to 90 calendar days before completing the continuous-residence period."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscis.gov/n-400"
+  ],
+  "related_public_pages": []
+}
