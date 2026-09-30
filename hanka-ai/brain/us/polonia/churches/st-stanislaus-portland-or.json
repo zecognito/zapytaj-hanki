@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-stanislaus-portland-or",
+  "country": "US",
+  "category": "church",
+  "name": "St. Stanislaus Polish Catholic Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "3916 N Interstate Ave",
+    "city": "Portland",
+    "state": "OR",
+    "postal_code": "97227",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 503 281 1132",
+  "email": null,
+  "website": "https://www.ststanislausparish.com",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "OR"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://www.ststanislausparish.com",
+  "last_verified": "2026-09-30"
+}
