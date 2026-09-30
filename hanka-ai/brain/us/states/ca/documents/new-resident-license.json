@@ -1,0 +1,21 @@
+{
+  "id": "ca-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CA",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Kalifornii",
+  "facts": [
+    "Osoba, która zostaje mieszkańcem California i zamierza prowadzić pojazd, musi uzyskać California driver license zgodnie z terminem określonym przez DMV.",
+    "Proces wymaga application, wymaganych dokumentów oraz spełnienia właściwych test/identity requirements.",
+    "Uzyskanie driver license jest odrębne od California vehicle registration."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/new-to-california/"
+  ],
+  "related_public_pages": []
+}
