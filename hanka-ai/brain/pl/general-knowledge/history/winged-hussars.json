@@ -1,0 +1,21 @@
+{
+  "id": "winged-hussars",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "military",
+  "title": "Husaria",
+  "facts": [
+    "Husaria była elitarną formacją ciężkiej jazdy Rzeczypospolitej szczególnie ważną w XVI i XVII wieku.",
+    "Jest kojarzona z charakterystycznym uzbrojeniem i skrzydłami używanymi w różnych formach.",
+    "Husaria uczestniczyła w wielu bitwach, w tym pod Kircholmem i Wiedniem, ale popularne przedstawienia jej wyposażenia bywają uproszczone."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://muzeumwp.pl/"
+  ],
+  "related_public_pages": []
+}
