@@ -1,0 +1,21 @@
+{
+  "id": "poland-city-rural-population-2025",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "demographics",
+  "subtopic": "population",
+  "title": "Ludność miejska i wiejska w Polsce",
+  "facts": [
+    "Według wstępnych danych GUS na koniec 2025 roku w miastach mieszkało około 22,150 mln osób, a na wsi około 15,182 mln.",
+    "Oznacza to, że większość ludności Polski nadal mieszka w miastach, choć udział ludności miejskiej zmieniał się w czasie.",
+    "Statystyki GUS dotyczące podziału miasto–wieś opierają się na administracyjnym statusie miejscowości, dlatego nie są tym samym co potoczne rozumienie obszaru zurbanizowanego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ssgk.stat.gov.pl/02.2026/Ludnosc.html"
+  ],
+  "related_public_pages": []
+}
