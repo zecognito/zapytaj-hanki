@@ -1,0 +1,21 @@
+{
+  "id": "country-saint-lucia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Saint Lucia",
+  "facts": [
+    "Saint Lucia jest wyspiarskim państwem Małych Antyli na Karaibach.",
+    "Stolicą jest Castries, językiem urzędowym angielski, a szeroko używany jest także kreolski kweyol; walutą jest dolar wschodniokaraibski.",
+    "Saint Lucia jest monarchią konstytucyjną i członkiem CARICOM oraz Wspólnoty Narodów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.govt.lc/"
+  ],
+  "related_public_pages": []
+}
