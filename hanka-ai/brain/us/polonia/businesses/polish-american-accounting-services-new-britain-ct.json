@@ -1,0 +1,34 @@
+{
+  "id": "polonia-prof-accountant-new-britain-ct",
+  "country": "US",
+  "category": "accountant",
+  "name": "Polish-American Tax & Accounting Services - New Britain area",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "New Britain area",
+    "state": "CT",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "tax preparation",
+    "accounting",
+    "bookkeeping",
+    "Polish-language tax assistance"
+  ],
+  "phone": null,
+  "email": null,
+  "website": null,
+  "official_source": "https://www.polishamericanbusiness.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Polish-community professional lead retained with conservative location data. Polish-community source supports relevance; exact office/contact should be refreshed before near-me recommendation.",
+    "Do not rank above providers with direct first-party website evidence."
+  ]
+}
