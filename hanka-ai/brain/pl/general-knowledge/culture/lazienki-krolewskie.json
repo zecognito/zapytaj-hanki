@@ -1,0 +1,21 @@
+{
+  "id": "lazienki-krolewskie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Łazienki Królewskie",
+  "facts": [
+    "Łazienki Królewskie w Warszawie są zespołem pałacowo-ogrodowym silnie związanym z królem Stanisławem Augustem Poniatowskim.",
+    "Do najbardziej rozpoznawalnych obiektów należą Pałac na Wyspie i pomnik Fryderyka Chopina.",
+    "Park i zabytki tworzą jedno z najważniejszych historycznych założeń rezydencjonalnych Warszawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.lazienki-krolewskie.pl/"
+  ],
+  "related_public_pages": []
+}
