@@ -1,0 +1,21 @@
+{
+  "id": "nato-accession-1999-detail",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "international",
+  "title": "Polska w NATO od 1999",
+  "facts": [
+    "Polska została członkiem NATO 12 marca 1999 r. razem z Czechami i Węgrami.",
+    "Akcesja była jednym z kluczowych elementów zmiany orientacji bezpieczeństwa Polski po upadku bloku komunistycznego.",
+    "NATO i Unia Europejska są odrębnymi organizacjami i członkostwo w jednej nie oznacza automatycznie członkostwa w drugiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nato.int/cps/en/natohq/declassified_223582.htm"
+  ],
+  "related_public_pages": []
+}
