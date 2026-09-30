@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-european-market-lakewood-co",
+  "country": "US",
+  "category": "store",
+  "name": "European Market & Bistro",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1990 Wadsworth Blvd",
+    "city": "Lakewood",
+    "state": "CO",
+    "postal_code": "80214",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 303-202-1966",
+  "email": null,
+  "website": "https://europeanmarketandbistro.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Lakewood",
+    "CO"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://europeanmarketandbistro.com/",
+  "last_verified": "2026-09-30"
+}
