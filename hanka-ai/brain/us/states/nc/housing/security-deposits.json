@@ -1,0 +1,21 @@
+{
+  "id": "nc-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NC",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w Karolinie Północnej",
+  "facts": [
+    "North Carolina Tenant Security Deposit Act ogranicza maksymalny deposit zależnie od długości tenancy; dla month-to-month zasadniczo do 1,5 miesiąca rent, a dla dłuższych tenancy zasadniczo do dwóch miesięcy rent.",
+    "Landlord musi przechowywać deposit zgodnie z ustawą lub zapewnić odpowiednią bond.",
+    "Po zakończeniu tenancy obowiązują terminy i wymagania dotyczące itemized accounting oraz zwrotu należnej części deposit."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_42/Article_6.html"
+  ],
+  "related_public_pages": []
+}
