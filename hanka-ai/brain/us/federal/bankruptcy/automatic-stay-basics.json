@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-bankruptcy-automatic-stay",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "bankruptcy_debt_relief",
+  "subtopic": "automatic_stay",
+  "title": "Bankruptcy automatic stay - basics",
+  "facts": [
+    "Filing a bankruptcy petition generally triggers an automatic stay that stops many collection actions against the debtor or the debtor's property.",
+    "The automatic stay can stop or pause many lawsuits, garnishments, collection calls and certain foreclosure actions, but statutory exceptions apply.",
+    "Prior bankruptcy filings, motions for relief from stay, certain domestic-support matters, criminal proceedings and other circumstances can change the stay's scope or duration.",
+    "The automatic stay is not the same as a discharge; the stay is generally temporary protection while the case proceeds."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/process-bankruptcy-basics"
+  ],
+  "related_public_pages": []
+}
