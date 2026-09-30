@@ -1,0 +1,23 @@
+{
+  "id": "2003-eu-referendum",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "7–8 czerwca 2003 — referendum w sprawie członkostwa w UE",
+  "facts": [
+    "7 i 8 czerwca 2003 r. przeprowadzono referendum ogólnokrajowe dotyczące zgody na przystąpienie Polski do Unii Europejskiej.",
+    "Większość głosujących opowiedziała się za członkostwem.",
+    "Referendum poprzedziło wejście Polski do Unii Europejskiej 1 maja 2004 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nato.int/",
+    "https://european-union.europa.eu/",
+    "https://www.sejm.gov.pl/"
+  ],
+  "related_public_pages": []
+}
