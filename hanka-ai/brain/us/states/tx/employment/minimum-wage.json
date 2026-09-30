@@ -1,0 +1,21 @@
+{
+  "id": "tx-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TX",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Teksasie",
+  "facts": [
+    "Texas Minimum Wage Act przyjmuje federalną stawkę minimum wage; dla objętych pracowników jest to obecnie 7,25 USD za godzinę.",
+    "Federalny FLSA może również bezpośrednio obejmować pracownika i pracodawcę.",
+    "Dla tipped employees i niektórych kategorii pracy obowiązują szczególne zasady."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.twc.texas.gov/programs/wage-and-hour/texas-minimum-wage-law"
+  ],
+  "related_public_pages": []
+}
