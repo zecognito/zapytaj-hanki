@@ -1,0 +1,21 @@
+{
+  "id": "latarnik",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Latarnik — Henryk Sienkiewicz",
+  "facts": [
+    "Latarnik, autor: Henryk Sienkiewicz, jest wskazane w podstawie programowej języka polskiego dla klas VII–VIII szkoły podstawowej w roku szkolnym 2025/2026.",
+    "Nowela o Skawińskim, polskim emigrancie, którego lektura „Pana Tadeusza” budzi silną tęsknotę za ojczyzną.",
+    "Hanka powinna rozróżniać utwory czytane w całości od fragmentów, wyborów tekstów i poezji wskazanych przez podstawę programową."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-podstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
