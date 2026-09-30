@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-immigration-naturalization-continuous-residence-travel",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "immigration",
+  "subtopic": "naturalization",
+  "title": "Naturalization - travel and continuous residence",
+  "facts": [
+    "Trips outside the United States can affect continuous residence and physical presence for naturalization.",
+    "An absence of more than 6 months but less than 1 year may create a presumption that continuous residence was disrupted.",
+    "An absence of 1 year or more generally breaks continuous residence, subject to statutory exceptions and preservation rules.",
+    "A reentry permit by itself does not preserve continuous residence for naturalization."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscis.gov/policy-manual/volume-12-part-d-chapter-3"
+  ],
+  "related_public_pages": []
+}
