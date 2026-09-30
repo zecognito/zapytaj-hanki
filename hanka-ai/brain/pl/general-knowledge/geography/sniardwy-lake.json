@@ -1,0 +1,21 @@
+{
+  "id": "sniardwy-lake",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Śniardwy",
+  "facts": [
+    "Śniardwy są największym jeziorem w Polsce pod względem powierzchni.",
+    "Leżą na Mazurach w województwie warmińsko-mazurskim.",
+    "Są częścią systemu Wielkich Jezior Mazurskich."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://stat.gov.pl/"
+  ],
+  "related_public_pages": []
+}
