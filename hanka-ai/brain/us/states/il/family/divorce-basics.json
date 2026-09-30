@@ -1,0 +1,21 @@
+{
+  "id": "il-divorce-basics",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "family",
+  "subtopic": "divorce_basics",
+  "title": "Podstawy rozwodu w Illinois",
+  "facts": [
+    "Rozwód w Illinois jest prowadzony w Circuit Court jako dissolution of marriage lub civil union.",
+    "Illinois Courts udostępnia zatwierdzone statewide forms dla rozwodów bez dzieci poniżej 18 lat oraz dla spraw rodzinnych i support.",
+    "W sprawie mogą wystąpić dodatkowe kwestie, takie jak podział majątku i długów, maintenance, child support oraz parental responsibilities; wymagania zależą od sytuacji rodziny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-standardized-forms-suites/divorce-child-support-maintenance/"
+  ],
+  "related_public_pages": []
+}
