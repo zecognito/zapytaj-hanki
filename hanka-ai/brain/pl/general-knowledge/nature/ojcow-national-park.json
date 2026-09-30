@@ -1,0 +1,21 @@
+{
+  "id": "ojcow-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national_parks",
+  "title": "Ojcowski Park Narodowy",
+  "facts": [
+    "Ojcowski Park Narodowy znajduje się na Wyżynie Krakowsko-Częstochowskiej niedaleko Krakowa.",
+    "Jest najmniejszym polskim parkiem narodowym.",
+    "Znany jest z wapiennych form skalnych, jaskiń oraz zabytków Doliny Prądnika."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://opn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
