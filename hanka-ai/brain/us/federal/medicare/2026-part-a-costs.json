@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-medicare-part-a-costs-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "medicare",
+  "subtopic": "part_a",
+  "title": "Medicare Part A — koszty 2026",
+  "facts": [
+    "Większość osób nie płaci miesięcznej premium za Part A, jeśli one lub spouse mają wystarczającą historię Medicare-taxed work.",
+    "W 2026 inpatient hospital deductible Part A wynosi $1,736 za każdy benefit period.",
+    "Hospital coinsurance w 2026 wynosi $0 za dni 1–60, $434 dziennie za dni 61–90 oraz $868 dziennie za każdy lifetime reserve day po dniu 90.",
+    "Skilled nursing facility coinsurance w 2026 wynosi $0 za dni 1–20 i $217 dziennie za dni 21–100, jeśli spełnione są zasady Medicare."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicare.gov/basics/costs/medicare-costs"
+  ],
+  "related_public_pages": []
+}
