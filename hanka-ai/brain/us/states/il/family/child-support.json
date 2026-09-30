@@ -1,0 +1,21 @@
+{
+  "id": "il-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Illinois child support administration",
+  "facts": [
+    "Illinois child-support services are administered by the Department of Healthcare and Family Services Division of Child Support Services.",
+    "Services can include locating parents, establishing parentage, establishing or modifying support orders, and collecting/distributing support.",
+    "Parents can apply for child-support services through Illinois HFS."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://hfs.illinois.gov/childsupport.html"
+  ],
+  "related_public_pages": []
+}
