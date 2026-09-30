@@ -1,0 +1,21 @@
+{
+  "id": "ct-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CT",
+  "topic": "vehicles",
+  "subtopic": "insurance",
+  "title": "Obowiązkowe auto insurance w Connecticut",
+  "facts": [
+    "Connecticut wymaga od właścicieli zarejestrowanych pojazdów utrzymywania wymaganej liability insurance.",
+    "Stan określa minimalne wymagania liability oraz uninsured/underinsured motorist coverage.",
+    "Przerwa w wymaganym coverage może prowadzić do działań DMV dotyczących registration."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://portal.ct.gov/dmv/vehicle-services/get-insurance"
+  ],
+  "related_public_pages": []
+}
