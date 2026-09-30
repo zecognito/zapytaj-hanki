@@ -1,0 +1,21 @@
+{
+  "id": "kaszuby",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Kaszuby",
+  "facts": [
+    "Kaszuby są regionem kulturowym Pomorza związanym z Kaszubami i językiem kaszubskim.",
+    "Język kaszubski ma w polskim prawie status języka regionalnego.",
+    "Kaszubska tożsamość, język i kultura są odrębne, ale Kaszubi są częścią złożonej historii i społeczeństwa Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/mniejszosci-narodowe-i-etniczne/jezyk-regionalny"
+  ],
+  "related_public_pages": []
+}
