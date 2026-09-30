@@ -1,0 +1,24 @@
+{
+  "id": "id-state-profile",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "state_profile",
+  "title": "Idaho — podstawowe informacje o stanie",
+  "facts": [
+    "Idaho: stolica Boise; oficjalny kod pocztowy USPS ID.",
+    "W podziale Census Bureau stan należy do regionu West i division Mountain.",
+    "Data przyjęcia do Unii/statehood: 1890-07-03.",
+    "Dane o populacji należy łączyć z najnowszym spójnym Vintage Census Population Estimates, a nie mieszać różnych vintages."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/states-and-territories",
+    "https://www.census.gov/programs-surveys/popest/guidance-geographies/terms-and-definitions.html",
+    "https://www.archives.gov/founding-docs/constitution"
+  ],
+  "related_public_pages": []
+}
