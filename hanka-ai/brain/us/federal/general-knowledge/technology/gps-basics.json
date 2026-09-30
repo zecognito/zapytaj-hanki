@@ -1,0 +1,21 @@
+{
+  "id": "gps-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "technology",
+  "subtopic": "infrastructure",
+  "title": "GPS",
+  "facts": [
+    "Global Positioning System (GPS) jest amerykańskim systemem satelitarnym zapewniającym positioning, navigation i timing.",
+    "System jest zarządzany przez U.S. Space Force, a cywilny sygnał GPS jest dostępny globalnie.",
+    "GPS jest używany nie tylko w mapach, ale również w telekomunikacji, finansach, transporcie i infrastrukturze wymagającej precyzyjnego czasu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gps.gov/systems/gps/"
+  ],
+  "related_public_pages": []
+}
