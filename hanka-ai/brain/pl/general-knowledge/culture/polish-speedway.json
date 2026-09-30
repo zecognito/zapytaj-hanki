@@ -1,0 +1,21 @@
+{
+  "id": "polish-speedway",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "sports",
+  "title": "Żużel w Polsce",
+  "facts": [
+    "Sport żużlowy ma w Polsce wyjątkowo silną pozycję i rozbudowane rozgrywki klubowe.",
+    "Polscy zawodnicy odnosili liczne sukcesy w indywidualnych i drużynowych mistrzostwach świata.",
+    "Aktualni mistrzowie, składy lig i wyniki są informacjami zmiennymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pzm.pl/zuzel"
+  ],
+  "related_public_pages": []
+}
