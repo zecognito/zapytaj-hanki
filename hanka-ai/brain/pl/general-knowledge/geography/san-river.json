@@ -1,0 +1,21 @@
+{
+  "id": "san-river",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "rivers",
+  "title": "San",
+  "facts": [
+    "San jest rzeką południowo-wschodniej Polski i dopływem Wisły.",
+    "Jego górny bieg jest związany z Bieszczadami i obszarem pogranicza polsko-ukraińskiego.",
+    "Rzeka przepływa m.in. przez Przemyśl i Sanok."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://wody.gov.pl/"
+  ],
+  "related_public_pages": []
+}
