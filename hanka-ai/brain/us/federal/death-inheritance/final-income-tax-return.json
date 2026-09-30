@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-death-final-income-tax-return",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "death_inheritance",
+  "subtopic": "final_tax_return",
+  "title": "Federal final income tax return after death",
+  "facts": [
+    "A deceased person's final federal individual income tax return generally reports income and deductions through the date of death.",
+    "The final Form 1040 or 1040-SR is generally due on the same filing schedule that would have applied if the person had lived.",
+    "A surviving spouse or personal representative may sign and file the return under applicable IRS procedures.",
+    "Income received after death may belong on an estate, beneficiary or other taxpayer return rather than the decedent's final individual return."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/individuals/file-the-final-income-tax-returns-of-a-deceased-person"
+  ],
+  "related_public_pages": []
+}
