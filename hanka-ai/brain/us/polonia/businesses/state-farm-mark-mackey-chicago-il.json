@@ -1,0 +1,34 @@
+{
+  "id": "polonia-insurance-statefarm-mackey-chicago-il",
+  "country": "US",
+  "category": "insurance",
+  "name": "Mark Mackey - State Farm",
+  "status": "active",
+  "location": {
+    "address": "3338 W Foster Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60625-4830",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "auto insurance",
+    "homeowners insurance",
+    "renters insurance",
+    "life insurance",
+    "business insurance"
+  ],
+  "phone": "773-604-4334",
+  "email": null,
+  "website": "https://www.statefarm.com/agent/us/il/chicago/mark-mackey-sdmh91ys000",
+  "official_source": "https://www.statefarm.com/agent/us/il/chicago/mark-mackey-sdmh91ys000",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official State Farm office profile explicitly lists Polish among office languages."
+  ]
+}
