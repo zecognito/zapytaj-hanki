@@ -1,0 +1,21 @@
+{
+  "id": "me-auto_insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "ME",
+  "topic": "vehicles",
+  "subtopic": "auto_insurance",
+  "title": "Auto insurance — Maine",
+  "facts": [
+    "Stan prowadzi lub reguluje ten program albo obowiązek.",
+    "Eligibility, dokumenty lub procedura zależą od sytuacji.",
+    "Aktualne wymagania należy sprawdzić w oficjalnym źródle stanowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.maine.gov/pfr/insurance/consumer/auto-insurance"
+  ],
+  "related_public_pages": []
+}
