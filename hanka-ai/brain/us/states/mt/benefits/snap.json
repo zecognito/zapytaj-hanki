@@ -1,0 +1,21 @@
+{
+  "id": "mt-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MT",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w Montana",
+  "facts": [
+    "Stan prowadzi lub reguluje ten program albo obowiązek zgodnie z własnymi przepisami.",
+    "Eligibility, wymagania lub procedura zależą od konkretnej sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle stanowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dphhs.mt.gov/hcsd/SNAP"
+  ],
+  "related_public_pages": []
+}
