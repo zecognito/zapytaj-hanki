@@ -1,0 +1,21 @@
+{
+  "id": "poland-ukraine-border",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "borders",
+  "title": "Granica Polski z Ukrainą",
+  "facts": [
+    "Polska graniczy z Ukrainą na południowym wschodzie.",
+    "Jest to zewnętrzna granica Unii Europejskiej i strefy Schengen.",
+    "Zasady przekraczania granicy zależą od obywatelstwa, dokumentów i aktualnych regulacji, więc pytania praktyczne wymagają bieżącej weryfikacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/"
+  ],
+  "related_public_pages": []
+}
