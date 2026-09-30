@@ -1,0 +1,21 @@
+{
+  "id": "imieniny-vs-birthday",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Imieniny a urodziny",
+  "facts": [
+    "Urodziny upamiętniają datę urodzenia, a imieniny są związane z dniem patrona lub datą przypisaną danemu imieniu w kalendarzu.",
+    "Znaczenie imienin różni się między rodzinami i pokoleniami; nie każdy Polak je obchodzi.",
+    "W niektórych środowiskach imieniny tradycyjnie miały znaczenie podobne do urodzin."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-name-days"
+  ],
+  "related_public_pages": []
+}
