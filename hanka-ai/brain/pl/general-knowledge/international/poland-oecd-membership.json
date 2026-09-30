@@ -1,0 +1,21 @@
+{
+  "id": "poland-oecd-membership",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "international",
+  "subtopic": "organizations",
+  "title": "Polska w OECD",
+  "facts": [
+    "Polska została członkiem OECD w 1996 r.",
+    "OECD jest międzynarodową organizacją współpracy gospodarczej i polityk publicznych.",
+    "Członkostwo w OECD jest odrębne od członkostwa Polski w Unii Europejskiej i NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.oecd.org/poland/"
+  ],
+  "related_public_pages": []
+}
