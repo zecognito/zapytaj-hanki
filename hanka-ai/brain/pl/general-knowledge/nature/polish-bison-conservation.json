@@ -1,0 +1,21 @@
+{
+  "id": "polish-bison-conservation",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "parks_and_wildlife",
+  "title": "Żubr w Polsce — ochrona",
+  "facts": [
+    "Żubr europejski jest jednym z najbardziej rozpoznawalnych gatunków związanych z polską ochroną przyrody.",
+    "Po wyginięciu populacji żyjącej na wolności gatunek został odtworzony dzięki hodowli i programom reintrodukcji.",
+    "Współczesne stada żyją m.in. w Puszczy Białowieskiej i innych regionach Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://bpn.com.pl/"
+  ],
+  "related_public_pages": []
+}
