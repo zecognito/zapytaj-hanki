@@ -1,0 +1,21 @@
+{
+  "id": "studniowka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Studniówka",
+  "facts": [
+    "Studniówka jest tradycyjnym balem uczniów ostatnich klas szkół średnich organizowanym mniej więcej sto dni przed maturą.",
+    "Jednym z najbardziej rozpoznawalnych elementów jest uroczyste rozpoczęcie polonezem.",
+    "Dokładny termin, strój i zwyczaje zależą od szkoły i lokalnej tradycji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-prom-studniowka"
+  ],
+  "related_public_pages": []
+}
