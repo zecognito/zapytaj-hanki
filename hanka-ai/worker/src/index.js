@@ -30,7 +30,8 @@ function json(data, status, request) {
 function isClearlyCasual(text) {
   const value = String(text || "").trim().toLowerCase();
   if (!value || value.length > 260) return false;
-  if (/^(cześć|czesc|hej|hejka|siema|elo|dzień dobry|dzien dobry|dobry wieczór|dobry wieczor|dzięki|dzieki|dziękuję|dziekuje|co tam|co u ciebie|co słychać|co slychac|jak tam|jak leci|jak się masz|jak sie masz|kim jesteś|kim jestes|opowiedz żart|opowiedz zart|powiedz żart|powiedz zart)[!?.\s]*$/i.test(value)) return true;
+  if (/^(cześć|czesc|hej|hejka|siema|elo|dzień dobry|dzien dobry|dobry wieczór|dobry wieczor)(?:[,!?.\s]+[\p{L}-]+)?[!?.\s]*$/iu.test(value)) return true;
+  if (/^(dzięki|dzieki|dziękuję|dziekuje|co tam|co u ciebie|co słychać|co slychac|jak tam|jak leci|jak się masz|jak sie masz|kim jesteś|kim jestes|opowiedz żart|opowiedz zart|powiedz żart|powiedz zart)[!?.\s]*$/i.test(value)) return true;
   if (/^(pokaż|pokaz|powiedz|napisz|zaśpiewaj|zaspiewaj)\b/i.test(value) && !/\b(ile|limit|podatek|prawo|ubezpieczenie|kredyt|401\(?k\)?|ira|social security|medicare|medicaid)\b/i.test(value)) return true;
   if (/^(co robisz|co porabiasz|jak masz na imię|jak masz na imie|jak się nazywasz|jak sie nazywasz|skąd jesteś|skad jestes|lubisz mnie|znasz mnie|pamiętasz mnie|pamietasz mnie)[!?.\s]*$/i.test(value)) return true;
   if (/\b(czemu|dlaczego)\b.*\b(mówisz|mowisz|piszesz|odpowiadasz|zaczynasz|powtarzasz)\b/i.test(value)) return true;
@@ -47,11 +48,15 @@ function isLikelyFollowUp(messages) {
 function retrievalQuery(messages) {
   const latest = messages[messages.length - 1]?.content || "";
   if (!isLikelyFollowUp(messages)) return latest;
+
+  const normalized = latest.trim().toLowerCase();
+  const contextDependent = /^(a|ale|i|to|no|czyli|więc|wiec)?\s*(co z tym|co wtedy|co dalej|dlaczego|czemu|jak to|ile wtedy|a wtedy|i co|co jeśli|co jesli|a jeśli|a jesli)[!?.\s]*$/i.test(normalized);
+  if (!contextDependent) return latest;
+
   const history = messages.slice(0, -1);
   const priorUser = [...history].reverse().find((m) => m.role === "user")?.content || "";
   const priorAssistant = [...history].reverse().find((m) => m.role === "assistant")?.content || "";
-  const earlierUser = [...history].reverse().filter((m) => m.role === "user")[1]?.content || "";
-  return [earlierUser, priorUser, priorAssistant, latest].filter(Boolean).join("\n");
+  return [priorUser, priorAssistant, latest].filter(Boolean).join("\n");
 }
 
 function cleanMessages(input) {
