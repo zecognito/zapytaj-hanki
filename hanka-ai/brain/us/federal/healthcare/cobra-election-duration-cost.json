@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-healthcare-cobra-election-duration-cost",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "healthcare",
+  "subtopic": "cobra",
+  "title": "COBRA election period, duration and cost",
+  "facts": [
+    "A qualified beneficiary generally has at least 60 days to elect COBRA, measured from the later of loss of coverage or provision of the COBRA election notice.",
+    "COBRA following termination or reduction in hours generally lasts up to 18 months; certain other qualifying events can permit up to 36 months, and special extension rules can apply.",
+    "The beneficiary may generally be required to pay the full group-plan premium plus up to a 2% administrative charge.",
+    "After electing COBRA, the initial premium payment is generally due within 45 days under federal rules."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers",
+    "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/workers-guide-health-benefits-cobra"
+  ],
+  "related_public_pages": []
+}
