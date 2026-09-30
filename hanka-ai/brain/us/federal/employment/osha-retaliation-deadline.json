@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-employment-osha-retaliation-deadline",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "osha",
+  "title": "OSHA retaliation complaint — Section 11(c)",
+  "facts": [
+    "Dla retaliation complaint pod federalnym OSH Act Section 11(c) worker zasadniczo musi złożyć complaint w ciągu 30 calendar days od adverse action.",
+    "Protected activity może obejmować m.in. zgłaszanie safety concerns, filing OSHA complaint albo udział w inspection.",
+    "OSHA administers także whistleblower protections pod wieloma innymi federal statutes, a ich filing deadlines mogą być inne niż 30 dni."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.osha.gov/whistleblower/WBComplaint",
+    "https://www.osha.gov/sites/default/files/publications/OSHA3812.pdf"
+  ],
+  "related_public_pages": []
+}
