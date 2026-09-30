@@ -1,0 +1,21 @@
+{
+  "id": "country-gambia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Gambia",
+  "facts": [
+    "Gambia jest niewielkim państwem Afryki Zachodniej rozciągającym się wzdłuż rzeki Gambia i niemal całkowicie otoczonym przez Senegal.",
+    "Stolicą jest Bandżul, językiem urzędowym angielski, a walutą dalasi.",
+    "Gambia jest republiką i najmniejszym państwem kontynentalnej Afryki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gambia.gov.gm/"
+  ],
+  "related_public_pages": []
+}
