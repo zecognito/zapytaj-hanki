@@ -1,0 +1,33 @@
+{
+  "id": "polonia-prof-law-zinevich-crystal-lake-il",
+  "country": "US",
+  "category": "lawyer",
+  "name": "Jolanta A. Zinevich, LLC",
+  "status": "active",
+  "location": {
+    "address": "8600 US Route 14",
+    "city": "Crystal Lake",
+    "state": "IL",
+    "postal_code": "60012",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "family law",
+    "real estate law",
+    "divorce",
+    "legal representation"
+  ],
+  "phone": "+1 847-461-9373",
+  "email": null,
+  "website": "https://zinevichlaw.com/",
+  "official_source": "https://zinevichlaw.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official firm site explicitly states Mówimy po Polsku and provides the Crystal Lake office."
+  ]
+}
