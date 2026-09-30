@@ -1,0 +1,21 @@
+{
+  "id": "polish-dance-polonez",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Polonez",
+  "facts": [
+    "Polonez jest polskim tańcem o uroczystym, procesyjnym charakterze, historycznie związanym z kulturą szlachecką.",
+    "Stał się ważnym elementem polskiej muzyki artystycznej, m.in. w twórczości Fryderyka Chopina.",
+    "We współczesnej Polsce polonez jest silnie kojarzony ze studniówką."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-dances-polonez"
+  ],
+  "related_public_pages": []
+}
