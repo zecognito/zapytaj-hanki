@@ -1,0 +1,21 @@
+{
+  "id": "gloria-victis-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Gloria victis — Eliza Orzeszkowa",
+  "facts": [
+    "Gloria victis, autor: Eliza Orzeszkowa; szkolny kanon literatury, epoka: pozytywizm.",
+    "Nowela związana z powstaniem styczniowym, pamięcią o poległych i romantycznym dziedzictwem walki o niepodległość.",
+    "Hanka powinna znać autora, epokę, problematykę, główne motywy oraz najważniejsze postacie i fabułę, jeśli utwór ma charakter narracyjny."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
