@@ -1,0 +1,21 @@
+{
+  "id": "tn-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TN",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w Tennessee",
+  "facts": [
+    "SNAP pomaga kwalifikującym się gospodarstwom domowym kupować żywność.",
+    "Eligibility i wysokość świadczenia zależą od wielkości gospodarstwa, dochodu i obowiązujących zasad.",
+    "Wniosek prowadzi właściwa agencja stanowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.tn.gov/humanservices/for-families/supplemental-nutrition-assistance-program-snap.html"
+  ],
+  "related_public_pages": []
+}
