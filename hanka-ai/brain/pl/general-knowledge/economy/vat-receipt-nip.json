@@ -1,0 +1,21 @@
+{
+  "id": "vat-receipt-nip",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "everyday",
+  "title": "NIP na paragonie",
+  "facts": [
+    "NIP nabywcy może mieć znaczenie przy dokumentowaniu zakupu firmowego i wystawianiu faktury do paragonu.",
+    "Polskie przepisy przewidują szczególne zasady dotyczące faktur wystawianych do paragonów dla podatników.",
+    "Praktyczne pytania o możliwość otrzymania faktury po zakupie należy sprawdzać według aktualnych przepisów podatkowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.podatki.gov.pl/vat/kasy-rejestrujace/"
+  ],
+  "related_public_pages": []
+}
