@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-airline-24-hour-cancellation",
+  "subtopic": "travel_day_admin",
+  "title": "24-godzinna zasada rezerwacji lotniczej",
+  "facts": [
+    "Dla airline tickets kupowanych co najmniej 7 dni przed scheduled departure, U.S. DOT wymaga od covered airlines oferowania jednej z dwóch protections: możliwość anulowania w ciągu 24 godzin z pełnym refund albo możliwość bezpłatnego hold reservation przez 24 godziny.",
+    "Airline nie musi oferować jednocześnie obu opcji; może wybrać refund-after-purchase albo hold-before-payment zgodnie z zasadą.",
+    "Federalna 24-hour reservation rule dotyczy covered reservations bezpośrednio objętych DOT rule; zakupy przez third-party travel agents mogą wymagać sprawdzenia, kto jest merchant/seller i jakie zasady mają zastosowanie.",
+    "Reguła nie oznacza ogólnego prawa do bezpłatnego anulowania każdego biletu po upływie 24 godzin."
+  ],
+  "official_sources": [
+    "https://www.transportation.gov/individuals/aviation-consumer-protection/refunds"
+  ]
+}
