@@ -43,13 +43,13 @@
       ]
     },
     "businesses": {
-      "status": "audit_in_progress",
+      "status": "food_retail_audited_first_pass",
       "records": 167,
       "notes": [
-        "Food/retail audit remains in progress. Total records reduced from 168 to 167 after removing Sebastiano's Portland: current first-party identity is not sufficiently Polish-specific for the Polonia directory.",
-        "Western/Southwestern audit reaffirmed Seakor Polish Deli (San Francisco), Polka Delicatessen (Garden Grove), Polish Cottage (Tucson), and Pierogi Factory (Lakewood CO) with direct official business sources.",
-        "Euromart Grand Junction remains because its current site supports Polish products within a broader European market, but a malformed Brain field was discovered and fixed: services had incorrectly contained a URL string instead of the schema-required array.",
-        "Polish Cuisine Las Vegas and the generic Portland Polish Deli lead remain unverified, not active. Commercial layer remains audit_in_progress; Vectorize ingestion remains blocked."
+        "Food/retail first-pass audit closed at 167 records. Weak/non-Polish entries were removed, inaccurate locations corrected, directory-only leads downgraded to unverified, and many strong entries upgraded to direct first-party sources.",
+        "Known unverified and closed records are intentionally retained as non-recommendable leads/history; retrieval must be status-aware before Vectorize ingestion.",
+        "A full machine schema-validation sweep should still run before ingestion. The manual audit discovered and fixed at least one malformed services field, demonstrating why validation remains a mandatory ingestion gate.",
+        "Professional-services expansion begins next with Chicagoland and NY/NJ. For regulated professions, Polish-language capability must be explicitly evidenced; surname inference is prohibited. Licensing/credential evidence should be captured from authoritative or first-party sources."
       ]
     },
     "media_culture": {
