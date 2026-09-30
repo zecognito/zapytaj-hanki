@@ -1,0 +1,21 @@
+{
+  "id": "bug-river",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Bug",
+  "facts": [
+    "Bug jest jedną z głównych rzek wschodniej Polski i dopływem Narwi.",
+    "Na części biegu tworzy granicę Polski z Ukrainą i Białorusią.",
+    "Nie należy mylić rzeki Bug z nazwą błędu komputerowego „bug” w języku angielskim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/infrastruktura/drogi-wodne"
+  ],
+  "related_public_pages": []
+}
