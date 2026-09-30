@@ -1,0 +1,21 @@
+{
+  "id": "co-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CO",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Kolorado",
+  "facts": [
+    "Colorado ma statewide minimum wage, która jest okresowo korygowana.",
+    "Niektóre lokalne jurysdykcje mogą ustanawiać wyższą minimum wage niż stawka stanowa.",
+    "Pracownik powinien sprawdzić bieżącą stawkę dla miejsca wykonywania pracy oraz ewentualne zasady dotyczące tipped employees."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://cdle.colorado.gov/dlss-home-page/wage-and-hour-law/minimum-wage"
+  ],
+  "related_public_pages": []
+}
