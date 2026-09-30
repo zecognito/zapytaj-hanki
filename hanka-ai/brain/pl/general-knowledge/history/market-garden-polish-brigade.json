@@ -1,0 +1,21 @@
+{
+  "id": "market-garden-polish-brigade",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world_war_ii",
+  "title": "Polacy w operacji Market Garden",
+  "facts": [
+    "1 Samodzielna Brygada Spadochronowa gen. Stanisława Sosabowskiego uczestniczyła w alianckiej operacji Market Garden we wrześniu 1944 r.",
+    "Polscy spadochroniarze walczyli w rejonie Driel w Holandii.",
+    "Operacja zakończyła się niepowodzeniem w osiągnięciu wszystkich głównych celów strategicznych, a późniejsze oceny decyzji dowódczych były przedmiotem sporów historycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/holandia/operacja-market-garden"
+  ],
+  "related_public_pages": []
+}
