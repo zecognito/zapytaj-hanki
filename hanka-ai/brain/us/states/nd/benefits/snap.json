@@ -1,0 +1,21 @@
+{
+  "id": "nd-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "ND",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "snap — North Dakota",
+  "facts": [
+    "Stan prowadzi lub reguluje ten program albo obowiązek.",
+    "Wymagania zależą od sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.hhs.nd.gov/applyforhelp/snap"
+  ],
+  "related_public_pages": []
+}
