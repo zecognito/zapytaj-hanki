@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-credit-unauthorized-electronic-transfers",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "credit_banking",
+  "subtopic": "banking_consumer_protection",
+  "title": "Unauthorized electronic transfers - timing matters",
+  "facts": [
+    "Federal Regulation E provides protections for consumers involving unauthorized electronic fund transfers from covered consumer accounts.",
+    "Consumer liability can depend heavily on how quickly the loss or unauthorized transfer is reported.",
+    "For a lost or stolen access device, reporting within two business days after learning of the loss can limit liability under federal rules; longer delays can increase potential liability.",
+    "For unauthorized transfers appearing on a periodic statement, failure to report within 60 days after the institution sends the statement can expose the consumer to additional losses occurring after that period, subject to applicable rules and exceptions."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/rules-policy/regulations/1005/6/"
+  ],
+  "related_public_pages": []
+}
