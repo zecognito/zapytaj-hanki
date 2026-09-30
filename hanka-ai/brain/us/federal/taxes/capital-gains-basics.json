@@ -1,0 +1,25 @@
+{
+  "id": "us-federal-capital-gains-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "capital_gains",
+  "title": "Federal capital gains tax — podstawowe zasady",
+  "facts": [
+    "Capital gain lub loss powstaje przy sprzedaży capital asset, gdy amount realized różni się od adjusted basis.",
+    "Gain lub loss jest zasadniczo long-term, jeśli asset był posiadany dłużej niż rok; przy okresie jednego roku lub krótszym jest short-term.",
+    "Net short-term capital gains są opodatkowane według zwykłych stawek federalnego income tax.",
+    "Net long-term capital gains mogą podlegać niższym stawkom niż ordinary income; dokładna stawka zależy m.in. od taxable income i filing status.",
+    "Jeżeli net capital loss przekracza capital gains, osoba fizyczna może zasadniczo odliczyć od innych dochodów do $3,000 rocznie albo $1,500 przy Married Filing Separately, a niewykorzystaną stratę przenieść na kolejne lata.",
+    "Sprzedaż capital assets jest zasadniczo raportowana na Form 8949 i Schedule D, z wyjątkami opisanymi przez IRS."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/taxtopics/tc409",
+    "https://www.irs.gov/publications/p550"
+  ],
+  "related_public_pages": []
+}
