@@ -1,0 +1,21 @@
+{
+  "id": "country-thailand",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Tajlandia",
+  "facts": [
+    "Tajlandia leży w Azji Południowo-Wschodniej, a jej stolicą jest Bangkok.",
+    "Językiem urzędowym jest tajski, a walutą baht.",
+    "Tajlandia jest monarchią konstytucyjną i członkiem ASEAN."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.thailand.go.th/"
+  ],
+  "related_public_pages": []
+}
