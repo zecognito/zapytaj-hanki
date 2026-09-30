@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-medicare-initial-enrollment-period",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "medicare",
+  "subtopic": "enrollment",
+  "title": "Medicare Initial Enrollment Period",
+  "facts": [
+    "Dla większości osób kwalifikujących się z powodu wieku Initial Enrollment Period trwa 7 miesięcy: 3 miesiące przed miesiącem 65. urodzin, miesiąc 65. urodzin i 3 miesiące po nim.",
+    "Osoby już pobierające Social Security benefits przed 65 rokiem życia są zazwyczaj automatycznie zapisane do Part A i Part B, ale szczegóły zależą od sytuacji.",
+    "Opóźnienie Part B może nie powodować penalty, jeśli osoba ma kwalifikujące się current-employment group health coverage i później korzysta z Special Enrollment Period."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-can-i-sign-up-for-medicare",
+    "https://www.ssa.gov/medicare/sign-up"
+  ],
+  "related_public_pages": []
+}
