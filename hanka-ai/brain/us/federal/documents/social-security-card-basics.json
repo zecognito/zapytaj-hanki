@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-documents-social-security-card-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "documents",
+  "subtopic": "social_security_number",
+  "title": "Social Security number and card - basics",
+  "facts": [
+    "A Social Security number is a unique identifier issued by the Social Security Administration for authorized purposes including reporting wages.",
+    "The physical Social Security card is not intended to be carried routinely when it is not needed; SSA advises keeping it in a safe place.",
+    "A Social Security number generally remains the same for life, even when a replacement card is issued.",
+    "Different card legends can reflect work-authorization restrictions for some noncitizens."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/number-card"
+  ],
+  "related_public_pages": []
+}
