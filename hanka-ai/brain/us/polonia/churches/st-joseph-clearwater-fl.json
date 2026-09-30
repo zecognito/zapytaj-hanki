@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-joseph-clearwater-fl",
+  "country": "US",
+  "category": "church",
+  "name": "St. Joseph Polish Catholic Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1521 N Saturn Ave",
+    "city": "Clearwater",
+    "state": "FL",
+    "postal_code": "33755",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 727 799 0007",
+  "email": null,
+  "website": "https://stjosephclearwater.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "FL"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://stjosephclearwater.org",
+  "last_verified": "2026-09-30"
+}
