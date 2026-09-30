@@ -1,0 +1,21 @@
+{
+  "id": "nip-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "business",
+  "title": "NIP",
+  "facts": [
+    "NIP oznacza Numer Identyfikacji Podatkowej i służy identyfikacji podatkowej zgodnie z polskimi przepisami.",
+    "Zakres używania NIP zależy od statusu osoby lub podmiotu; osoby fizyczne nieprowadzące działalności często są identyfikowane podatkowo numerem PESEL zgodnie z obowiązującymi zasadami.",
+    "NIP nie jest tym samym co REGON ani numer KRS."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.podatki.gov.pl/nip/"
+  ],
+  "related_public_pages": []
+}
