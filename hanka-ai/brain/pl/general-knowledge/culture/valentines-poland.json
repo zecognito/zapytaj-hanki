@@ -1,0 +1,21 @@
+{
+  "id": "valentines-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Walentynki w Polsce",
+  "facts": [
+    "Walentynki obchodzone są 14 lutego i stały się w Polsce popularnym świętem związanym z romantycznymi relacjami.",
+    "Nie są tradycyjnym polskim świętem państwowym ani dniem wolnym od pracy.",
+    "Ich współczesna popularność szczególnie wzrosła po 1989 r. wraz z globalizacją kultury konsumenckiej i medialnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
