@@ -1,0 +1,21 @@
+{
+  "id": "wi-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WI",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Wisconsin",
+  "facts": [
+    "Wisconsin DMV wydaje driver license i ID zgodne z REAL ID po przedstawieniu wymaganych dokumentów.",
+    "REAL ID jest opcjonalne do prowadzenia samochodu, ale jest potrzebne do określonych federalnych zastosowań, jeśli osoba nie używa innego akceptowanego dokumentu, np. paszportu.",
+    "Wymagane dokumenty obejmują odpowiednie potwierdzenia identity, lawful status, Social Security number i Wisconsin residency."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to-apply/realid.aspx"
+  ],
+  "related_public_pages": []
+}
