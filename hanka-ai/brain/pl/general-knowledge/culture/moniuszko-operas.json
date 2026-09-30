@@ -1,0 +1,21 @@
+{
+  "id": "moniuszko-operas",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "music",
+  "title": "Stanisław Moniuszko — polska opera",
+  "facts": [
+    "Stanisław Moniuszko był XIX-wiecznym polskim kompozytorem szczególnie związanym z rozwojem polskiej opery narodowej.",
+    "Do jego najbardziej znanych oper należą „Halka” i „Straszny dwór”.",
+    "Tworzył również pieśni, muzykę religijną i inne utwory sceniczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://teatrwielki.pl/"
+  ],
+  "related_public_pages": []
+}
