@@ -1,0 +1,21 @@
+{
+  "id": "gdynia-port",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "infrastructure",
+  "title": "Port Gdynia",
+  "facts": [
+    "Port Gdynia jest jednym z głównych polskich portów morskich.",
+    "Powstał wraz z budową Gdyni w okresie II Rzeczypospolitej jako strategiczna inwestycja zapewniająca Polsce nowoczesny dostęp do morza.",
+    "Obsługuje różne typy ładunków oraz ruch promowy i specjalistyczny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.port.gdynia.pl/"
+  ],
+  "related_public_pages": []
+}
