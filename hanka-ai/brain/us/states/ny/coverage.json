@@ -3,12 +3,15 @@
   "country": "US",
   "state": "NY",
   "language": "pl",
-  "status": "started",
+  "status": "expanding",
   "last_verified": "2026-09-30",
   "completed_seed_topics": [
     "income_tax",
     "minimum_wage",
-    "real_id"
+    "real_id",
+    "paid_sick_leave",
+    "auto_insurance",
+    "medicaid"
   ],
   "reference_state": "IL",
   "target_v1_areas": [
@@ -25,5 +28,6 @@
     "Canonical title and facts are Polish-first; machine identifiers remain English.",
     "Illinois V1 is the reference architecture, but state records must reflect this state's actual laws and administration rather than mechanically copying Illinois.",
     "Local rules remain separate when materially different from statewide rules."
-  ]
+  ],
+  "record_count": 6
 }
