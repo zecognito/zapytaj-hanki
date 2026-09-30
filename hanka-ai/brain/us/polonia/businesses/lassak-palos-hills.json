@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-lassak-palos-hills",
+  "country": "US",
+  "category": "store",
+  "name": "Lassak Delicatessen",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "8017 W 103rd St",
+    "city": "Palos Hills",
+    "state": "IL",
+    "postal_code": "60465",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 708-598-8577",
+  "email": null,
+  "website": "https://lassakmarket.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Palos Hills",
+    "IL"
+  ],
+  "notes": [
+    "Commercial directory record. Business status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://lassakmarket.com/",
+  "last_verified": "2026-09-30"
+}
