@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-belweder-kearny-nj",
+  "country": "US",
+  "category": "store",
+  "name": "Belweder Polish Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "154 Midland Ave",
+    "city": "Kearny",
+    "state": "NJ",
+    "postal_code": "07032",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 201-998-0205",
+  "email": null,
+  "website": "https://belwederdelinj.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Kearny",
+    "NJ"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://belwederdelinj.com/",
+  "last_verified": "2026-09-30"
+}
