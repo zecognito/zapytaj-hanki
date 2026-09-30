@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polish-market-troy-mi",
+  "country": "US",
+  "category": "store",
+  "name": "Polish Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2938 E Maple Rd",
+    "city": "Troy",
+    "state": "MI",
+    "postal_code": "48083",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 248-577-5334",
+  "email": null,
+  "website": "https://www.polishmarket.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Troy",
+    "MI"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://www.polishmarket.com/",
+  "last_verified": "2026-09-30"
+}
