@@ -1,0 +1,21 @@
+{
+  "id": "poland-baltic-sea",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Polska i Morze Bałtyckie",
+  "facts": [
+    "Północna granica Polski obejmuje wybrzeże Morza Bałtyckiego.",
+    "Gdańsk, Gdynia i Szczecin należą do ważnych polskich ośrodków portowych, choć Szczecin leży w głębi lądu nad Odrą i systemem estuarium.",
+    "Bałtyk łączy Polskę morskimi szlakami handlowymi z innymi państwami regionu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/infrastruktura/gospodarka-morska"
+  ],
+  "related_public_pages": []
+}
