@@ -1,0 +1,21 @@
+{
+  "id": "rzeszow-airport",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "aviation",
+  "title": "Port Lotniczy Rzeszów-Jasionka",
+  "facts": [
+    "Port Lotniczy Rzeszów-Jasionka im. Rodziny Ulmów obsługuje Podkarpacie i południowo-wschodnią Polskę.",
+    "Lotnisko znajduje się w Jasionce w pobliżu Rzeszowa.",
+    "Po 2022 roku port zyskał szczególne znaczenie logistyczne w związku z międzynarodowym wsparciem kierowanym do Ukrainy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.rzeszowairport.pl/"
+  ],
+  "related_public_pages": []
+}
