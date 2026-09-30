@@ -1,0 +1,22 @@
+{
+  "id": "il-new-resident-vehicle-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Illinois vehicle title and registration for new residents",
+  "facts": [
+    "A standard Illinois vehicle title fee is $165.",
+    "Passenger vehicle registration/renewal is $151 under the current Secretary of State fee table.",
+    "All motor vehicles registered and operated in Illinois must maintain required liability insurance.",
+    "Vehicle registrations expire at the end of the assigned expiration month; owners remain responsible for renewing even if a notice is not received."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ilsos.gov/services/newresidents/vehicle-titles-and-license-plates-for-new-illinois-residents.html"
+  ],
+  "related_public_pages": []
+}
