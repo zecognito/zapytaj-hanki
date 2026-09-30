@@ -1,0 +1,21 @@
+{
+  "id": "fl-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "FL",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID na Florydzie",
+  "facts": [
+    "Florida driver licenses i ID cards wydawane zgodnie z wymaganiami REAL ID są oznaczone gwiazdką.",
+    "Przy pierwszym uzyskaniu dokumentu zgodnego z REAL ID wymagane są odpowiednie dokumenty potwierdzające identity, Social Security number i residential address.",
+    "Florida Highway Safety and Motor Vehicles publikuje listę akceptowanych dokumentów dla obywateli USA i osób o innych statusach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.flhsmv.gov/driver-licenses-id-cards/what-to-bring/"
+  ],
+  "related_public_pages": []
+}
