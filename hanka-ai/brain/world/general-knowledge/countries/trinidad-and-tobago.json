@@ -1,0 +1,21 @@
+{
+  "id": "country-trinidad-and-tobago",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Trynidad i Tobago",
+  "facts": [
+    "Trynidad i Tobago jest republiką wyspiarską na południowym krańcu Karaibów, niedaleko wybrzeża Wenezueli.",
+    "Stolicą jest Port of Spain, językiem urzędowym angielski, a walutą dolar Trynidadu i Tobago.",
+    "Gospodarka kraju wyróżnia się w regionie znaczącym sektorem ropy, gazu ziemnego i petrochemii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ttconnect.gov.tt/"
+  ],
+  "related_public_pages": []
+}
