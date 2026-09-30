@@ -1,0 +1,21 @@
+{
+  "id": "bieszczady",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Bieszczady",
+  "facts": [
+    "Bieszczady są pasmem Karpat położonym na południowo-wschodnim krańcu Polski i dalej na terytorium Ukrainy oraz Słowacji w szerszym ujęciu geograficznym.",
+    "Polska część jest znana z połonin oraz rozległych obszarów leśnych.",
+    "Bieszczadzki Park Narodowy chroni najcenniejsze obszary polskich Bieszczadów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://bdpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
