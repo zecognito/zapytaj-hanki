@@ -1,0 +1,21 @@
+{
+  "id": "third-republic-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "transition",
+  "title": "III Rzeczpospolita",
+  "facts": [
+    "Określenie „III Rzeczpospolita” jest powszechnie używane wobec demokratycznego państwa polskiego ukształtowanego po upadku systemu komunistycznego.",
+    "Nie istnieje jeden całkowicie bezsporny dzień początku III RP; wskazuje się różne wydarzenia przełomu 1989–1990.",
+    "W odpowiedzi historycznej Hanka powinna podawać konkretne wydarzenia zamiast sugerować jedną ustawową datę narodzin III RP."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
