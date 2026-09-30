@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-bratek-garfield-nj",
+  "country": "US",
+  "category": "store",
+  "name": "Bratek Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "75 River Dr",
+    "city": "Garfield",
+    "state": "NJ",
+    "postal_code": "07026",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 973-478-0777",
+  "email": null,
+  "website": "https://bratekdeli.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Garfield",
+    "NJ"
+  ],
+  "notes": [
+    "Commercial directory record. Business status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://bratekdeli.com/",
+  "last_verified": "2026-09-30"
+}
