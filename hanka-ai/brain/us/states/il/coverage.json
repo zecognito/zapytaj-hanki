@@ -127,9 +127,11 @@
   },
   "record_count": 30,
   "notes": [
+    "Canonical language: Polish. Human-facing title and facts are stored in natural Polish; stable machine IDs/topic/subtopic remain English; common U.S. program/legal terms stay in English where useful.",
     "Illinois is the reference implementation for the 50-state + DC layer.",
     "Canonical state records capture material state deltas and practical state administration; federal baseline remains in the federal Brain.",
     "Local rules such as Chicago/Cook County paid leave, landlord-tenant rules and municipal taxes should remain separate local records when materially necessary.",
     "Next Illinois pass should close remaining high-value gaps before using this structure as the national state template."
-  ]
+  ],
+  "language": "pl"
 }
