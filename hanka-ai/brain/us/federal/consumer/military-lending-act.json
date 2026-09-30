@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-consumer-military-lending-act",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "consumer_protection",
+  "subtopic": "payday_loans",
+  "title": "Military Lending Act - covered borrowers",
+  "facts": [
+    "The Military Lending Act provides special federal credit protections to covered active-duty servicemembers and certain dependents for covered consumer-credit products.",
+    "For covered transactions, the Military Annual Percentage Rate is generally capped at 36%.",
+    "The MLA also restricts certain contract terms and mandatory arbitration provisions in covered credit.",
+    "Whether a borrower and loan are covered requires applying the statutory and regulatory definitions."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/what-is-the-military-lending-act-and-what-are-my-rights-en-1783/"
+  ],
+  "related_public_pages": []
+}
