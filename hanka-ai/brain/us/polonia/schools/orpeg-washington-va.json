@@ -1,0 +1,38 @@
+{
+  "id": "polonia-school-orpeg-washington-va",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Szkoła Polska im. Heleny Modrzejewskiej przy Ambasadzie RP w Waszyngtonie",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2000 Westmoreland Street",
+    "city": "Falls Church",
+    "state": "VA",
+    "postal_code": "22043",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 202 468 9479",
+  "email": "waszyngton@orpeg.gov.pl",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish language",
+    "Polish history",
+    "Polish geography",
+    "Polish culture",
+    "supplementary education"
+  ],
+  "coverage_area": [
+    "VA"
+  ],
+  "notes": [
+    "School operated by ORPEG within the Polish diplomatic-school system."
+  ],
+  "official_source": "https://www.gov.pl/web/usa/wykaz-szkol-polskich",
+  "last_verified": "2026-09-30"
+}
