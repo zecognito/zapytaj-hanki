@@ -1,0 +1,35 @@
+{
+  "id": "polonia-prof-insurance-thomas-kindt-chicago-il",
+  "country": "US",
+  "category": "insurance",
+  "name": "Thomas Kindt State Farm Insurance Agency",
+  "status": "active",
+  "location": {
+    "address": "7106 W Belmont Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60634",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es"
+  ],
+  "services": [
+    "auto insurance",
+    "home insurance",
+    "renters insurance",
+    "life insurance",
+    "business insurance"
+  ],
+  "phone": "+1 773-777-1800",
+  "email": null,
+  "website": "https://www.tomkindtagency.com/",
+  "official_source": "https://www.statefarm.com/agent/us/il/chicago/tom-kindt-cmjgk1ys000",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official State Farm agent profile explicitly lists Polish as a language and states Mowimy Po Polsku."
+  ]
+}
