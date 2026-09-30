@@ -1,0 +1,21 @@
+{
+  "id": "wolin-island",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "coast",
+  "title": "Wyspa Wolin",
+  "facts": [
+    "Wolin jest wyspą w północno-zachodniej Polsce między Zalewem Szczecińskim a Morzem Bałtyckim.",
+    "Na wyspie znajduje się część Wolińskiego Parku Narodowego oraz miasto Międzyzdroje.",
+    "Wyspa jest oddzielona od wyspy Uznam cieśniną Świną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://wolinpn.pl/"
+  ],
+  "related_public_pages": []
+}
