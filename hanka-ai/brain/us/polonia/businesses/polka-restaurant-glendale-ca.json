@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polka-restaurant-glendale-ca",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Polka Polish Restaurant",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "4112 Verdugo Rd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "postal_code": "90065",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 323-255-7887",
+  "email": null,
+  "website": "https://polkarestaurant.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Los Angeles",
+    "CA"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://polkarestaurant.com/",
+  "last_verified": "2026-09-30"
+}
