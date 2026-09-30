@@ -1,0 +1,21 @@
+{
+  "id": "interstate-system-scale",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "transportation",
+  "subtopic": "highways",
+  "title": "Interstate Highway System",
+  "facts": [
+    "Dwight D. Eisenhower National System of Interstate and Defense Highways tworzy ogólnokrajową sieć głównych autostrad.",
+    "Federal-aid system jest finansowany i regulowany we współpracy federalno-stanowej, ale poszczególne Interstate highways są zasadniczo własnością i są utrzymywane przez stany.",
+    "Sieć Interstate łączy główne obszary metropolitalne, regiony i korytarze transportowe kraju."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fhwa.dot.gov/interstate/"
+  ],
+  "related_public_pages": []
+}
