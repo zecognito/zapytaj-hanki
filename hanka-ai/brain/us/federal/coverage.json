@@ -654,7 +654,13 @@
         "moving_admin",
         "shopping_consumer",
         "scams_fraud",
-        "pharmacy_admin"
+        "pharmacy_admin",
+        "food_product_safety",
+        "warranties_repairs",
+        "debt_admin",
+        "privacy_records",
+        "travel_day_admin",
+        "government_service_boundaries"
       ],
       "completed_subtopics": [
         "emergency_services",
@@ -671,7 +677,13 @@
         "moving_admin",
         "shopping_consumer",
         "scams_fraud",
-        "pharmacy_admin"
+        "pharmacy_admin",
+        "food_product_safety",
+        "warranties_repairs",
+        "debt_admin",
+        "privacy_records",
+        "travel_day_admin",
+        "government_service_boundaries"
       ]
     }
   ]
