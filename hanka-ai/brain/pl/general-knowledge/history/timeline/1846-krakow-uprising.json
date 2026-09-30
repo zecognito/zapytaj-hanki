@@ -1,0 +1,21 @@
+{
+  "id": "1846-krakow-uprising",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1846 — powstanie krakowskie",
+  "facts": [
+    "W lutym 1846 r. w Wolnym Mieście Krakowie wybuchło powstanie przeciw zaborcom.",
+    "Powstańcy ogłosili program niepodległościowy i reformy społeczne.",
+    "Powstanie szybko upadło, a Austria zlikwidowała Wolne Miasto Kraków i włączyła je do swojego państwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
