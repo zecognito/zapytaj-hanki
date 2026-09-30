@@ -1,0 +1,21 @@
+{
+  "id": "giewont",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "mountains",
+  "title": "Giewont",
+  "facts": [
+    "Giewont jest charakterystycznym masywem Tatr Zachodnich wznoszącym się nad Zakopanem.",
+    "Na Wielkim Giewoncie znajduje się duży metalowy krzyż.",
+    "Szlak na Giewont jest popularny, ale ekspozycja i zagrożenie burzowe wymagają ostrożności; aktualne warunki należy sprawdzać w Tatrzańskim Parku Narodowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
