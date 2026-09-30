@@ -1,0 +1,21 @@
+{
+  "id": "american-bison",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "nature",
+  "subtopic": "wildlife",
+  "title": "American bison",
+  "facts": [
+    "American bison jest największym lądowym ssakiem Ameryki Północnej.",
+    "Historycznie ogromne stada żyły na Great Plains, ale w XIX wieku populacja została dramatycznie zredukowana.",
+    "Bison ma duże znaczenie ekologiczne i kulturowe, szczególnie dla wielu Native nations."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/subjects/bison/index.htm"
+  ],
+  "related_public_pages": []
+}
