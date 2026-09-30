@@ -1,0 +1,21 @@
+{
+  "id": "mi-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MI",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Michigan",
+  "facts": [
+    "Michigan Secretary of State oferuje driver's license i state ID zgodne z REAL ID.",
+    "Aby uzyskać REAL ID, trzeba przedstawić wymagane dokumenty potwierdzające m.in. legal presence, Social Security number i Michigan residency.",
+    "Standardowy dokument nadal może być używany do prowadzenia pojazdu, ale nie spełnia federalnego wymogu REAL ID do określonych zastosowań."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.michigan.gov/sos/license-id/real-id"
+  ],
+  "related_public_pages": []
+}
