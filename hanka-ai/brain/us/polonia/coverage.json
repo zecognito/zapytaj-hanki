@@ -44,12 +44,12 @@
     },
     "businesses": {
       "status": "started",
-      "records": 32,
+      "records": 56,
       "notes": [
-        "Commercial/professional directory started with 32 current Polish-focused food businesses and physical locations in Chicagoland and NY/NJ.",
-        "Chains are stored per physical location to support future geographic retrieval and near-me answers.",
+        "Commercial/professional directory now contains 56 Polish-focused food/retail physical locations across major Polonia markets including IL, NY/NJ, CT, OH, MI, WI, FL, TX, CO, AZ, CA, OR and WA.",
+        "Chains are stored per physical location to support future geographic and near-me retrieval.",
         "Commercial status, addresses, hours and services are high-churn data and require periodic refresh; official business sources are preferred.",
-        "Professional categories such as doctors, dentists, lawyers, accountants, insurance and real estate require tighter identity/licensing verification and will be expanded separately."
+        "Professional categories such as doctors, dentists, lawyers, accountants, insurance and real estate remain a separate tighter-verification expansion track."
       ]
     },
     "media_culture": {
