@@ -1,0 +1,22 @@
+{
+  "id": "wi-foodshare",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WI",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "FoodShare Wisconsin",
+  "facts": [
+    "Wisconsin nazywa swój program SNAP FoodShare.",
+    "FoodShare pomaga kwalifikującym się gospodarstwom domowym kupować żywność.",
+    "Wniosek i zarządzanie benefits są dostępne m.in. przez ACCESS Wisconsin; eligibility zależy od sytuacji gospodarstwa i zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dhs.wisconsin.gov/foodshare/index.htm",
+    "https://access.wi.gov/"
+  ],
+  "related_public_pages": []
+}
