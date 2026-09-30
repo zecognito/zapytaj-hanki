@@ -1,0 +1,38 @@
+{
+  "id": "polonia-business-chicago-market-lakewood-co",
+  "country": "US",
+  "category": "store",
+  "name": "Chicago Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1477 Carr St",
+    "city": "Lakewood",
+    "state": "CO",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish market",
+    "homemade pierogi",
+    "house-smoked sausages",
+    "Polish groceries"
+  ],
+  "coverage_area": [
+    "Lakewood",
+    "CO"
+  ],
+  "notes": [
+    "Polish-food relevance supported by current official business or Polonia/local source. Commercial status and details remain freshness-sensitive."
+  ],
+  "official_source": "https://unearththevoyage.com/regulars-keep-coming-back-to-this-colorado-polish-deli-for-homemade-pierogi-and-house-smoked-sausages-32f0c42a/",
+  "last_verified": "2026-09-30"
+}
