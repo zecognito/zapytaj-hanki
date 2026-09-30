@@ -1,0 +1,21 @@
+{
+  "id": "oplatek",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Opłatek",
+  "facts": [
+    "Dzielenie się opłatkiem przed kolacją wigilijną jest szeroko rozpowszechnioną polską tradycją bożonarodzeniową.",
+    "Zwyczaj jest silnie związany z tradycją katolicką i składaniem sobie życzeń.",
+    "Nie każda polska rodzina praktykuje go w identyczny sposób."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-christmas-traditions"
+  ],
+  "related_public_pages": []
+}
