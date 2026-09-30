@@ -1,0 +1,36 @@
+{
+  "id": "polonia-gov-honorary-las-vegas-nv",
+  "country": "US",
+  "category": "consulate_honorary",
+  "name": "Honorary Consulate of the Republic of Poland in Las Vegas",
+  "aliases": [
+    "Konsulat Honorowy RP w Las Vegas"
+  ],
+  "status": "temporarily_closed",
+  "location": {
+    "address": null,
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "honorary consular representation"
+  ],
+  "coverage_area": [
+    "NV"
+  ],
+  "notes": [
+    "Official gov.pl listing currently shows a vacancy or closure."
+  ],
+  "official_source": "https://www.gov.pl/web/usa/konsulaty-honorowe",
+  "last_verified": "2026-09-30"
+}
