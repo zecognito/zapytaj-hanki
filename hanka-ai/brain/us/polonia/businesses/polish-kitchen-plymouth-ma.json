@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polish-kitchen-plymouth-ma",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Polish Kitchen",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "6 Home Depot Dr",
+    "city": "Plymouth",
+    "state": "MA",
+    "postal_code": "02360",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 508-927-4046",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Plymouth",
+    "MA"
+  ],
+  "notes": [
+    "Commercial directory record; current status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://www.gov.pl/web/usa/relacje-dwustronne",
+  "last_verified": "2026-09-30"
+}
