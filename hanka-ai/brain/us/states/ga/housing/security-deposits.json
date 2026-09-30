@@ -1,0 +1,21 @@
+{
+  "id": "ga-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "GA",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w Georgii",
+  "facts": [
+    "Georgia law nakłada określone obowiązki dotyczące przechowywania i rozliczania residential security deposits na objętych landlordów.",
+    "Przed pobraniem deposit i przy zakończeniu tenancy mogą obowiązywać wymagania dotyczące inspection/listy szkód.",
+    "Landlord musi zwrócić należną część deposit lub przekazać rozliczenie potrąceń w terminie przewidzianym przez Georgia law."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://consumer.georgia.gov/consumer-topics/landlord-tenant-issues-and-handbook"
+  ],
+  "related_public_pages": []
+}
