@@ -1,0 +1,21 @@
+{
+  "id": "country-iran",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Iran",
+  "facts": [
+    "Iran leży w Azji Zachodniej między Zatoką Perską, Zatoką Omańską i Morzem Kaspijskim.",
+    "Stolicą jest Teheran, językiem urzędowym perski, a walutą rial irański.",
+    "Iran jest republiką islamską; jest ważnym producentem ropy i gazu oraz znaczącym państwem geopolitycznym Bliskiego Wschodu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://en.mfa.gov.ir/"
+  ],
+  "related_public_pages": []
+}
