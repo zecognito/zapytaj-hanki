@@ -1,0 +1,21 @@
+{
+  "id": "country-turkmenistan",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Turkmenistan",
+  "facts": [
+    "Turkmenistan is a landlocked country in Central Asia bordering the Caspian Sea, and its capital is Ashgabat.",
+    "The state language is Turkmen and the currency is the manat.",
+    "Much of the country is covered by the Karakum Desert, and Turkmenistan has large natural gas reserves."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mfa.gov.tm/en"
+  ],
+  "related_public_pages": []
+}
