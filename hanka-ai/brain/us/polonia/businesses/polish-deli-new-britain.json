@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polish-deli-new-britain",
+  "country": "US",
+  "category": "store",
+  "name": "Polish Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "153 Broad St",
+    "city": "New Britain",
+    "state": "CT",
+    "postal_code": "06053",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 860-223-7055",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "New Britain",
+    "CT"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://www.polishamericanbusiness.com/",
+  "last_verified": "2026-09-30"
+}
