@@ -1,0 +1,22 @@
+{
+  "id": "pkp-vs-pkp-intercity",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "rail",
+  "title": "PKP a PKP Intercity",
+  "facts": [
+    "PKP jest nazwą historycznie i organizacyjnie związaną z grupą spółek kolejowych, a nie nazwą każdego przewoźnika kolejowego w Polsce.",
+    "PKP Intercity jest konkretnym przewoźnikiem obsługującym dalekobieżne pociągi pasażerskie.",
+    "W Polsce działają także inni przewoźnicy krajowi i regionalni, dlatego „PKP” nie powinno być automatycznie używane jako synonim całej kolei."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pkp.pl/",
+    "https://www.intercity.pl/"
+  ],
+  "related_public_pages": []
+}
