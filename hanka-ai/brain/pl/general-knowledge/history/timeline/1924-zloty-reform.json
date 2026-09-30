@@ -1,0 +1,22 @@
+{
+  "id": "1924-zloty-reform",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1924 — reforma walutowa i złoty",
+  "facts": [
+    "W 1924 r. rząd Władysława Grabskiego przeprowadził reformę walutową w celu opanowania hiperinflacji.",
+    "Markę polską zastąpił złoty.",
+    "Utworzono Bank Polski jako centralną instytucję emisyjną ówczesnego systemu walutowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
