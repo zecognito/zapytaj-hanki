@@ -1,0 +1,21 @@
+{
+  "id": "pa-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "PA",
+  "topic": "vehicles",
+  "subtopic": "insurance",
+  "title": "Obowiązkowe ubezpieczenie samochodu w Pensylwanii",
+  "facts": [
+    "Pennsylvania wymaga financial responsibility dla zarejestrowanych pojazdów, zazwyczaj poprzez auto insurance.",
+    "Minimalne wymagania obejmują bodily injury liability, property damage liability oraz medical benefits zgodnie z prawem stanowym.",
+    "Przerwa w wymaganym ubezpieczeniu może skutkować konsekwencjami dla registration privilege."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pa.gov/agencies/dmv/vehicle-services/insurance.html"
+  ],
+  "related_public_pages": []
+}
