@@ -1,0 +1,21 @@
+{
+  "id": "oh-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OH",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Ohio",
+  "facts": [
+    "Ohio nakłada individual income tax według zasad i progów ustalanych przez stan.",
+    "W Ohio wiele municipalities nakłada dodatkowy municipal income tax, a niektóre school districts mają własny school district income tax.",
+    "Przy ocenie obciążeń podatkowych mieszkańca trzeba więc sprawdzić nie tylko Ohio income tax, ale także właściwą lokalizację."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tax.ohio.gov/individual"
+  ],
+  "related_public_pages": []
+}
