@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-credit-fdic-deposit-insurance",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "credit_banking",
+  "subtopic": "deposit_insurance",
+  "title": "FDIC deposit insurance - standard coverage",
+  "facts": [
+    "The standard FDIC deposit insurance amount is $250,000 per depositor, per insured bank, for each account ownership category.",
+    "FDIC insurance covers eligible deposit products at FDIC-insured banks, such as checking accounts, savings accounts, money market deposit accounts and certificates of deposit.",
+    "FDIC insurance does not cover investment products such as stocks, bonds, mutual funds, crypto assets or life insurance merely because they were purchased through an insured bank.",
+    "Coverage can exceed $250,000 at one bank when funds are held in different qualifying ownership categories and requirements are satisfied."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fdic.gov/resources/deposit-insurance/"
+  ],
+  "related_public_pages": []
+}
