@@ -1,0 +1,21 @@
+{
+  "id": "krzywy-domek-sopot",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Krzywy Domek w Sopocie",
+  "facts": [
+    "Krzywy Domek to charakterystyczny współczesny budynek przy sopockim deptaku Bohaterów Monte Cassino.",
+    "Jego falująca fasada sprawia wrażenie zdeformowanej, baśniowej architektury.",
+    "Obiekt jest popularnym współczesnym punktem turystycznym Sopotu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sopot.pl/"
+  ],
+  "related_public_pages": []
+}
