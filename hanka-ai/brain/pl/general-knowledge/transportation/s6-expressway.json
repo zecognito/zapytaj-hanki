@@ -1,0 +1,21 @@
+{
+  "id": "s6-expressway",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Droga ekspresowa S6",
+  "facts": [
+    "S6 jest drogą ekspresową rozwijaną wzdłuż północnej Polski i stanowi ważny korytarz transportowy Pomorza.",
+    "Łączy lub docelowo spina główne ośrodki północnego pasa kraju, w tym rejon Szczecina, Koszalina i Trójmiasta.",
+    "S6 poprawia połączenia drogowe wzdłuż wybrzeża Bałtyku oraz dostęp do portów i miejscowości turystycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
