@@ -1,0 +1,24 @@
+{
+  "id": "us-federal-amended-return-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "amended_returns",
+  "title": "Amended federal tax return — Form 1040-X",
+  "facts": [
+    "Form 1040-X służy do poprawiania złożonego federalnego individual income tax return, gdy trzeba zmienić m.in. filing status, income, deductions, credits, dependents, other taxes lub withholding.",
+    "Wiele błędów matematycznych IRS poprawia podczas processing i nie zawsze wymagają Form 1040-X.",
+    "Aby dochodzić credit lub refund, amended return trzeba zasadniczo złożyć w ciągu 3 lat od złożenia original return albo 2 lat od zapłaty podatku — obowiązuje późniejszy z tych terminów.",
+    "IRS zaleca złożenie 1040-X dopiero po złożeniu original return.",
+    "IRS podaje, aby przewidzieć do 16 tygodni na processing amended return; status można sprawdzać przez Where’s My Amended Return?."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/faqs/irs-procedures/amended-returns-form-1040x",
+    "https://www.irs.gov/newsroom/when-and-how-to-amend-a-tax-return"
+  ],
+  "related_public_pages": []
+}
