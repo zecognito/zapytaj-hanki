@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-health-plan-provider-directory",
+  "subtopic": "health_insurance_admin",
+  "title": "Sprawdzanie czy lekarz jest in-network",
+  "facts": [
+    "Health plan provider directory jest ważnym źródłem informacji o network status, ale przed planowaną usługą warto potwierdzić status zarówno z planem, jak i providerem.",
+    "Federalne No Surprises Act rules nakładają na plany i issuers określone obowiązki aktualizacji provider-directory information i reagowania na zapytania o network status.",
+    "W określonych sytuacjach, gdy osoba polegała na nieprawidłowej informacji z provider directory, federalne zasady mogą ograniczać cost-sharing do poziomu in-network.",
+    "Network status może zależeć od konkretnego planu, lokalizacji i rodzaju provider, a nie tylko od nazwy systemu szpitalnego."
+  ],
+  "official_sources": [
+    "https://www.cms.gov/cciio/resources/regulations-and-guidance/downloads/faq-part-49.pdf",
+    "https://www.cms.gov/marketplace/about/health-insurance-network"
+  ]
+}
