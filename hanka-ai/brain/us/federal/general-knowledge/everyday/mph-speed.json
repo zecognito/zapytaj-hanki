@@ -1,0 +1,21 @@
+{
+  "id": "mph-speed",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "mph i ograniczenia prędkości",
+  "facts": [
+    "mph oznacza miles per hour.",
+    "Limity prędkości na drogach USA są zwykle podawane w mph.",
+    "Konkretne limity ustalają odpowiednie władze stanowe lub lokalne; nie ma jednego krajowego limitu prędkości dla wszystkich dróg."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://highways.dot.gov/safety/speed-management"
+  ],
+  "related_public_pages": []
+}
