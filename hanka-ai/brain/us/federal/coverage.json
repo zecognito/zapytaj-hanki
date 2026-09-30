@@ -23,7 +23,10 @@
         "standard_deduction",
         "tax_brackets",
         "child_tax_credit",
-        "self_employment_tax"
+        "self_employment_tax",
+        "filing_status",
+        "estimated_taxes",
+        "irs_transcripts"
       ]
     },
     {
