@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-roth-catch-up-rule-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "retirement",
+  "subtopic": "catch_up_contributions",
+  "title": "Roth catch-up requirement — 2026",
+  "facts": [
+    "Od 2026 uczestnik planu z Roth feature, którego prior-year wages od plan sponsor przekroczyły $150,000 dla tego progu, musi zasadniczo wykonywać catch-up contributions na Roth basis.",
+    "Ogólny catch-up limit w większości odpowiednich planów dla age 50+ wynosi $8,000 w 2026.",
+    "Dla kwalifikujących się uczestników age 60–63 wyższy catch-up limit w 2026 wynosi $11,250."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-catch-up-contributions"
+  ],
+  "related_public_pages": []
+}
