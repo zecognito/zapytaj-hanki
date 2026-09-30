@@ -44,13 +44,13 @@
     },
     "businesses": {
       "status": "professionals_national_expansion",
-      "records": 267,
+      "records": 271,
       "notes": [
         "Food/retail first-pass audit closed at 167 records; machine schema validation remains mandatory before ingestion.",
-        "Bank layer now distinguishes national Polish-language support from branch-level Polish capability. PNC Bank has a national record based on its official Polish language-support program; this does not assert Polish-speaking staff at every branch.",
-        "Branch-level bank records remain location-specific and require explicit branch evidence. Existing verified branch layer includes Byline and Apple Bank locations. National bank-support records may have state US and coverage_area United States.",
-        "Future bank discovery must check both dimensions: bank-wide Polish language programs and separately verified Polish-capable physical branches. Retrieval should prefer a verified local branch for near-me queries, while national-support records answer general questions about Polish banking assistance.",
-        "Continue healthcare, accounting/tax, insurance, real estate and bank discovery nationally. Vectorize remains blocked until coverage and schema/status-aware ingestion are mature."
+        "Bank retrieval now has three evidence tiers: (1) explicit national Polish-language program, e.g. PNC; (2) explicit branch-level Polish capability, e.g. verified Byline/Apple branches; (3) generic national language/interpreter assistance, e.g. cautious Bank of America/Chase records. Tier 3 must never be described as a dedicated Polish program without separate evidence.",
+        "Bank of America and Chase national records intentionally omit pl from languages because current evidence supports general language/interpreter assistance, not a verified dedicated Polish program. They should rank below PNC and explicit Polish-capable branches for Polish banking queries.",
+        "Referral-layer professional records may be active only where evidence supports a current provider; weak/placeholder leads are marked unverified and must never outrank verified active providers.",
+        "Continue direct first-party professional discovery and bank-specific Polish support research. Vectorize remains blocked until coverage and schema/status-aware ingestion are mature."
       ]
     },
     "media_culture": {
