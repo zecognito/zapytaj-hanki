@@ -1,0 +1,24 @@
+{
+  "id": "us-federal-standard-mileage-rates-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "mileage_rates",
+  "title": "IRS standard mileage rates — 2026",
+  "facts": [
+    "Od 1 stycznia do 30 czerwca 2026 business standard mileage rate wynosi 72.5 centa za milę.",
+    "Od 1 lipca 2026 IRS podniósł business standard mileage rate do 76 centów za milę.",
+    "Medical i kwalifikujące się moving mileage wynosiły 20.5 centa za milę w pierwszej połowie 2026 i 23.5 centa od 1 lipca 2026.",
+    "Charitable mileage rate pozostaje 14 centów za milę przez cały 2026.",
+    "Standard mileage method jest opcjonalny; uprawniony podatnik może zamiast niego rozliczać dopuszczalne actual expenses zgodnie z zasadami IRS."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/irb/2026-04_IRB",
+    "https://www.irs.gov/irb/2026-29_irb"
+  ],
+  "related_public_pages": []
+}
