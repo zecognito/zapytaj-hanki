@@ -1,0 +1,23 @@
+{
+  "id": "mn-state-profile",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "state_profile",
+  "title": "Minnesota — podstawowe informacje o stanie",
+  "facts": [
+    "Minnesota: stolica Saint Paul; kod pocztowy USPS MN.",
+    "W podziale Census Bureau: region Midwest, division West North Central.",
+    "Data statehood/przyjęcia do Unii: 1858-05-11.",
+    "Przy populacji należy podawać rok i Vintage Census Population Estimates."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/states-and-territories",
+    "https://www.census.gov/programs-surveys/popest/guidance-geographies/terms-and-definitions.html"
+  ],
+  "related_public_pages": []
+}
