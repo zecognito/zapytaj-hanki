@@ -1,0 +1,21 @@
+{
+  "id": "country-cabo-verde",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Republika Zielonego Przylądka",
+  "facts": [
+    "Republika Zielonego Przylądka, znana międzynarodowo jako Cabo Verde, jest archipelagowym państwem Atlantyku u zachodnich wybrzeży Afryki.",
+    "Stolicą jest Praia, językiem urzędowym portugalski, a szeroko używany jest kreolski kabowerdeński; walutą jest escudo.",
+    "Cabo Verde jest republiką składającą się z dziesięciu głównych wysp pochodzenia wulkanicznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.governo.cv/"
+  ],
+  "related_public_pages": []
+}
