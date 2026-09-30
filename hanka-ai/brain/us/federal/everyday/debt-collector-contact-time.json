@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-debt-collector-contact-time",
+  "subtopic": "debt_admin",
+  "title": "Godziny kontaktu debt collectora",
+  "facts": [
+    "FDCPA/Regulation F zasadniczo uznaje kontakt z konsumentem za inconvenient, jeśli collector komunikuje się przed 8:00 rano lub po 9:00 wieczorem czasu lokalnego konsumenta, chyba że okoliczności wskazują inaczej lub konsument wyrazi zgodę.",
+    "Konsument może poinformować collector o konkretnych inconvenient times lub places, a collector musi respektować obowiązujące ograniczenia.",
+    "Reguły dotyczą debt collectors objętych federalnym prawem i nie oznaczają, że każdy original creditor jest FDCPA debt collector.",
+    "State law może zapewniać dodatkowe protections."
+  ],
+  "official_sources": [
+    "https://www.consumerfinance.gov/rules-policy/regulations/1006/6/",
+    "https://www.consumerfinance.gov/ask-cfpb/when-can-a-debt-collector-contact-me-en-332/"
+  ]
+}
