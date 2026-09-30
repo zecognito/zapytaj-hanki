@@ -1,0 +1,21 @@
+{
+  "id": "regon-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "business",
+  "title": "REGON",
+  "facts": [
+    "REGON jest krajowym rejestrem urzędowym podmiotów gospodarki narodowej prowadzonym przez Prezesa GUS.",
+    "Podmiotom wpisanym do rejestru nadawany jest numer identyfikacyjny REGON.",
+    "REGON, NIP i KRS są różnymi identyfikatorami/rejestrami i nie należy używać tych nazw zamiennie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://stat.gov.pl/regon/"
+  ],
+  "related_public_pages": []
+}
