@@ -1,0 +1,21 @@
+{
+  "id": "country-uruguay",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Urugwaj",
+  "facts": [
+    "Urugwaj leży w południowo-wschodniej części Ameryki Południowej między Brazylią a Argentyną.",
+    "Stolicą jest Montevideo, językiem dominującym hiszpański, a walutą peso urugwajskie.",
+    "Urugwaj jest republiką i członkiem Mercosur."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gub.uy/"
+  ],
+  "related_public_pages": []
+}
