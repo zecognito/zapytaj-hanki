@@ -1,0 +1,23 @@
+{
+  "id": "2023-oct15-parliament-election",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "15 października 2023 — wybory parlamentarne",
+  "facts": [
+    "15 października 2023 r. odbyły się wybory do Sejmu i Senatu oraz referendum ogólnokrajowe.",
+    "Frekwencja w wyborach parlamentarnych była rekordowo wysoka w historii III Rzeczypospolitej.",
+    "Wyniki doprowadziły do zmiany większości parlamentarnej i utworzenia nowego rządu w grudniu 2023 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/",
+    "https://www.nato.int/",
+    "https://european-union.europa.eu/"
+  ],
+  "related_public_pages": []
+}
