@@ -1,0 +1,21 @@
+{
+  "id": "az-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AZ",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "Arizona Travel ID / REAL ID",
+  "facts": [
+    "Arizona Travel ID jest credential zgodnym z federalnym REAL ID.",
+    "Arizona MVD wymaga odpowiednich dokumentów potwierdzających identity, Social Security number i Arizona residency.",
+    "Standardowy Arizona driver license może służyć do prowadzenia pojazdu, ale do objętych zastosowań federalnych potrzebny jest Travel ID lub inny akceptowany dokument."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://azdot.gov/mvd/services/driver-services/arizona-travel-id"
+  ],
+  "related_public_pages": []
+}
