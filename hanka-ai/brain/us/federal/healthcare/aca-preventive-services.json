@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-healthcare-preventive-services",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "healthcare",
+  "subtopic": "aca",
+  "title": "ACA preventive services - basics",
+  "facts": [
+    "Most health plans subject to ACA preventive-service requirements must cover specified preventive services without charging a copayment or coinsurance when applicable requirements are met.",
+    "Coverage without cost sharing often depends on receiving the service from an in-network provider and on whether the service meets the applicable preventive recommendation or guideline.",
+    "Not every test, treatment or diagnostic service is automatically a no-cost preventive service; billing can depend on the reason and circumstances of the service."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.healthcare.gov/coverage/preventive-care-benefits/"
+  ],
+  "related_public_pages": []
+}
