@@ -1,0 +1,21 @@
+{
+  "id": "moon-landing-1969",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "history",
+  "subtopic": "milestones",
+  "title": "Lądowanie Apollo 11 na Księżycu",
+  "facts": [
+    "Apollo 11 było pierwszą misją, podczas której ludzie wylądowali na Księżycu.",
+    "Neil Armstrong i Edwin “Buzz” Aldrin wylądowali na powierzchni 20 lipca 1969 r.; Michael Collins pozostał na orbicie księżycowej.",
+    "Misję prowadziła NASA."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nasa.gov/mission/apollo-11/"
+  ],
+  "related_public_pages": []
+}
