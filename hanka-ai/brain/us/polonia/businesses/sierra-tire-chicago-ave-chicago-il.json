@@ -1,0 +1,37 @@
+{
+  "id": "polonia-prof-mechanic-sierra-chicago-ave-il",
+  "country": "US",
+  "category": "mechanic",
+  "name": "Sierra Tire Shop & Auto Repair - Chicago Ave",
+  "status": "active",
+  "location": {
+    "address": "4110 W Chicago Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60651",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es"
+  ],
+  "services": [
+    "auto repair",
+    "tires",
+    "wheel repair",
+    "brakes",
+    "suspension",
+    "engine repair",
+    "maintenance"
+  ],
+  "phone": "+1 773-276-8010",
+  "email": null,
+  "website": "https://www.sierratireshops.com/",
+  "official_source": "https://www.sierratireshops.com/contact-us.html",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official shop site explicitly states Mówimy Po Polsku and provides this Chicago location."
+  ]
+}
