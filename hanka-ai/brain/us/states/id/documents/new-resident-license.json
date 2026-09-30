@@ -1,0 +1,21 @@
+{
+  "id": "id-new_resident_license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "ID",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Idaho",
+  "facts": [
+    "Prawo stanowe określa wymagania i procedurę w tym obszarze.",
+    "Szczegóły zależą od sytuacji osoby i aktualnych przepisów.",
+    "Aktualne wymagania należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://itd.idaho.gov/itddmv/"
+  ],
+  "related_public_pages": []
+}
