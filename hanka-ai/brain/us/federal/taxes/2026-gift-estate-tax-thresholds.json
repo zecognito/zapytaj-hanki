@@ -1,0 +1,24 @@
+{
+  "id": "us-federal-gift-estate-tax-thresholds-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "gift_estate_tax",
+  "title": "Federal gift i estate tax — kluczowe limity 2026",
+  "facts": [
+    "W 2026 annual gift tax exclusion wynosi $19,000 na jednego donee dla jednego darczyńcy.",
+    "Każdy małżonek ma własny annual exclusion; przy spełnieniu odpowiednich zasad dwoje małżonków może w 2026 zastosować łącznie $38,000 annual exclusion na jednego donee.",
+    "Basic exclusion amount dla federal estate and gift tax w 2026 wynosi $15,000,000.",
+    "Przekroczenie annual gift tax exclusion nie oznacza automatycznie, że darczyńca od razu zapłaci gift tax; może jednak powstać obowiązek raportowania i wykorzystania części lifetime/basic exclusion, zależnie od okoliczności.",
+    "Annual exclusion dotyczy każdego donee osobno."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes",
+    "https://www.irs.gov/businesses/small-businesses-self-employed/whats-new-estate-and-gift-tax"
+  ],
+  "related_public_pages": []
+}
