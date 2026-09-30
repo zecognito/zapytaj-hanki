@@ -1,0 +1,34 @@
+{
+  "id": "polonia-prof-other-disability-management-livonia-mi",
+  "country": "US",
+  "category": "other_business",
+  "name": "Disability Management and Consulting LLC",
+  "status": "active",
+  "location": {
+    "address": "37637 5 Mile Rd, #329",
+    "city": "Livonia",
+    "state": "MI",
+    "postal_code": "48154",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Social Security disability representation",
+    "SSDI claims",
+    "SSI claims",
+    "disability appeals",
+    "hearing representation"
+  ],
+  "phone": "+1 734-961-8334",
+  "email": "disabilitymc@comcast.net",
+  "website": "https://www.disabilitymc.com/",
+  "official_source": "https://www.disabilitymc.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official service site explicitly states Mowimy po Polsku / Speak Polish and provides the Livonia mailing address. Stored as other_business because the schema has no disability-representative category."
+  ]
+}
