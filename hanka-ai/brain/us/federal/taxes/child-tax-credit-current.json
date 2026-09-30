@@ -1,0 +1,25 @@
+{
+  "id": "us-federal-child-tax-credit-current",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "child_tax_credit",
+  "title": "Child Tax Credit — aktualne podstawowe kwoty i zasady",
+  "facts": [
+    "Child Tax Credit może wynosić do $2,200 na qualifying child.",
+    "Additional Child Tax Credit może wynosić do $1,700 na qualifying child, zależnie od dochodu.",
+    "Do ACTC wymagany jest earned income co najmniej $2,500.",
+    "Pełna kwota CTC jest dostępna przy spełnieniu pozostałych warunków, jeśli roczny dochód nie przekracza $200,000 albo $400,000 przy Married Filing Jointly.",
+    "Qualifying child dla CTC musi mieć mniej niż 17 lat na koniec roku podatkowego i spełniać pozostałe testy IRS dotyczące m.in. pokrewieństwa, utrzymania, zamieszkania i statusu dependent."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/credits-deductions/individuals/child-tax-credit"
+  ],
+  "related_public_pages": [
+    "https://zapytajhanki.com/dzieci-i-rodzina/child-dependent-care-credit/"
+  ]
+}
