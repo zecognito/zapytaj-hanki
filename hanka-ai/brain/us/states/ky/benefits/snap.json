@@ -1,0 +1,21 @@
+{
+  "id": "ky-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "KY",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w Kentucky",
+  "facts": [
+    "SNAP pomaga kwalifikującym się gospodarstwom kupować żywność.",
+    "Eligibility i benefit zależą m.in. od dochodu i wielkości gospodarstwa.",
+    "Wnioski prowadzi właściwa agencja stanowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.chfs.ky.gov/agencies/dcbs/dfs/nab/Pages/snap.aspx"
+  ],
+  "related_public_pages": []
+}
