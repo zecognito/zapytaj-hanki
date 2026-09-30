@@ -1,0 +1,21 @@
+{
+  "id": "va-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VA",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Wirginii",
+  "facts": [
+    "Virginia Division of Child Support Enforcement pomaga m.in. ustalać paternity, support orders i egzekwować płatności.",
+    "Virginia ma statutory child support guidelines używane przy ustalaniu support.",
+    "Konkretna obligation zależy od dochodów, parenting arrangements i innych informacji wymaganych przez prawo."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dss.virginia.gov/family/dcse/"
+  ],
+  "related_public_pages": []
+}
