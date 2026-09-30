@@ -1,0 +1,21 @@
+{
+  "id": "poland-neighboring-countries",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "borders",
+  "title": "Państwa graniczące z Polską",
+  "facts": [
+    "Polska ma lądowe granice z siedmioma państwami: Niemcami, Czechami, Słowacją, Ukrainą, Białorusią, Litwą i Rosją.",
+    "Granica z Rosją dotyczy obwodu kaliningradzkiego.",
+    "Polska ma także wybrzeże Morza Bałtyckiego, które nie jest granicą lądową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/"
+  ],
+  "related_public_pages": []
+}
