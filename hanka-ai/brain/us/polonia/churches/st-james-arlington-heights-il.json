@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-james-arlington-heights-il",
+  "country": "US",
+  "category": "church",
+  "name": "St. James Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "820 N Arlington Heights Rd",
+    "city": "Arlington Heights",
+    "state": "IL",
+    "postal_code": "60004",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 224 345 7200",
+  "email": null,
+  "website": "https://www.stjamesah.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "IL"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; Hanka should direct users to the parish website for current Mass/confession times."
+  ],
+  "official_source": "https://www.stjamesah.org",
+  "last_verified": "2026-09-30"
+}
