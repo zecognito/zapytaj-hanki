@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-housing-conventional-mortgage-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "housing_mortgages",
+  "subtopic": "conventional",
+  "title": "Conventional mortgage - basics",
+  "facts": [
+    "A conventional mortgage is generally a home loan that is not insured or guaranteed by a federal government program such as FHA, VA or USDA.",
+    "Conventional loans can be conforming to Fannie Mae/Freddie Mac standards or nonconforming, depending on loan characteristics and limits.",
+    "Down payment, credit, debt-to-income and reserve requirements vary by lender and loan program; there is no single federal minimum down payment for every conventional mortgage.",
+    "Private mortgage insurance can apply to certain conventional loans with lower borrower equity."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/what-is-a-conventional-loan-en-117/"
+  ],
+  "related_public_pages": []
+}
