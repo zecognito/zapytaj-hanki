@@ -1,0 +1,35 @@
+{
+  "id": "polonia-credit-union-psfcu-staten-island-ny",
+  "country": "US",
+  "category": "credit_union",
+  "name": "Polish & Slavic Federal Credit Union - Staten Island",
+  "status": "active",
+  "location": {
+    "address": "1919 Hylan Boulevard",
+    "city": "Staten Island",
+    "state": "NY",
+    "postal_code": "10305",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "checking and savings",
+    "consumer loans",
+    "mortgages",
+    "credit and debit cards",
+    "online banking",
+    "member financial services"
+  ],
+  "phone": "+1 718-668-2787",
+  "email": null,
+  "website": "https://www.psfcu.com/",
+  "official_source": "https://www.psfcu.com/our_branches",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official PSFCU branch list confirms this physical branch. PSFCU directly documents its mission/history serving Polish and Slavic immigrant communities."
+  ]
+}
