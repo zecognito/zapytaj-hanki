@@ -1,0 +1,21 @@
+{
+  "id": "md-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MD",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Maryland",
+  "facts": [
+    "Większość pracowników w Maryland musi otrzymywać co najmniej statewide minimum wage.",
+    "Niektóre counties mogą mieć wyższe lokalne stawki niż minimum stanowe.",
+    "Dla tipped employees obowiązują szczególne zasady dotyczące cash wage i tips."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.labor.maryland.gov/labor/wages/wagehrfacts.shtml"
+  ],
+  "related_public_pages": []
+}
