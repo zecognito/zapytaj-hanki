@@ -1,0 +1,21 @@
+{
+  "id": "westerplatte-landmark",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Westerplatte",
+  "facts": [
+    "Westerplatte w Gdańsku jest miejscem związanym z pierwszymi walkami niemieckiej inwazji na Polskę we wrześniu 1939 r.",
+    "Polska Wojskowa Składnica Tranzytowa broniła się tam przez siedem dni.",
+    "Dziś teren jest ważnym miejscem pamięci o początku II wojny światowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://muzeum1939.pl/"
+  ],
+  "related_public_pages": []
+}
