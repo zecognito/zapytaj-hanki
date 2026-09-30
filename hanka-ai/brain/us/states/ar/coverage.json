@@ -4,9 +4,18 @@
   "state": "AR",
   "language": "pl",
   "status": "expanding",
-  "record_count": 0,
+  "record_count": 8,
   "last_verified": "2026-09-30",
-  "completed_seed_topics": [],
+  "completed_seed_topics": [
+    "income_tax",
+    "minimum_wage",
+    "real_id",
+    "medicaid",
+    "unemployment",
+    "snap",
+    "auto_insurance",
+    "vehicle_registration"
+  ],
   "reference_state": "IL",
   "target_v1_areas": [
     "taxes",
