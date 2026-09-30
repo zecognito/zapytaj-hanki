@@ -1,0 +1,38 @@
+{
+  "id": "polonia-school-orpeg-chicago-il",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Szkoła Polska im. 7. Eskadry Kościuszkowskiej przy Konsulacie Generalnym RP w Chicago",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "3535 N Panama Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60634",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": "chicago@orpeg.gov.pl",
+  "website": "https://chicago.orpeg.gov.pl",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish language",
+    "Polish history",
+    "Polish geography",
+    "Polish culture",
+    "supplementary education"
+  ],
+  "coverage_area": [
+    "IL"
+  ],
+  "notes": [
+    "School operated by ORPEG within the Polish diplomatic-school system."
+  ],
+  "official_source": "https://www.gov.pl/web/orpeg/szkoly-polskie",
+  "last_verified": "2026-09-30"
+}
