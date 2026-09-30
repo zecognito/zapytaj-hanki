@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-family-adoption-assistance",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "family_children",
+  "subtopic": "adoption",
+  "title": "Federal adoption assistance - framework",
+  "facts": [
+    "Federal Title IV-E adoption assistance can provide support for certain eligible children with special needs who are adopted from foster care, administered through state or tribal child-welfare systems.",
+    "Benefits and eligibility depend on federal requirements and the applicable state or tribal adoption-assistance agreement.",
+    "Adoption assistance can include recurring payments and Medicaid eligibility in qualifying cases, with program details varying.",
+    "Private domestic and international adoptions follow different legal and financial frameworks and should not be treated as Title IV-E adoption-assistance cases."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.childwelfare.gov/resources/adoption-assistance-united-states/"
+  ],
+  "related_public_pages": []
+}
