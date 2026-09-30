@@ -1,0 +1,34 @@
+{
+  "id": "polonia-prof-funeral-bacon-willimantic-ct",
+  "country": "US",
+  "category": "funeral_home",
+  "name": "Bacon Funeral Home",
+  "status": "active",
+  "location": {
+    "address": "71 Prospect St",
+    "city": "Willimantic",
+    "state": "CT",
+    "postal_code": "06226",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es"
+  ],
+  "services": [
+    "funeral services",
+    "cremation",
+    "preparation and planning",
+    "grief support"
+  ],
+  "phone": "+1 860-423-1234",
+  "email": null,
+  "website": "https://www.baconfh.com/",
+  "official_source": "https://www.baconfh.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official funeral-home site explicitly states Mówimy po polsku. Added as a strong New England Polish-language service even though current priority is IL/NY/NJ."
+  ]
+}
