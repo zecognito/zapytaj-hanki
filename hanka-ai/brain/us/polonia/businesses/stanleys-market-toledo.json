@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-stanleys-market-toledo",
+  "country": "US",
+  "category": "store",
+  "name": "Stanley's Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "3302 Stickney Ave",
+    "city": "Toledo",
+    "state": "OH",
+    "postal_code": "43608",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 419-726-4347",
+  "email": null,
+  "website": "https://stanleysmarket.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Toledo",
+    "OH"
+  ],
+  "notes": [
+    "Commercial directory record; current status, exact address where incomplete, hours and services require periodic reverification."
+  ],
+  "official_source": "https://stanleysmarket.com/",
+  "last_verified": "2026-09-30"
+}
