@@ -1,0 +1,21 @@
+{
+  "id": "az-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AZ",
+  "topic": "vehicles",
+  "subtopic": "insurance",
+  "title": "Obowiązkowe auto insurance w Arizonie",
+  "facts": [
+    "Arizona wymaga od właścicieli pojazdów utrzymywania wymaganej liability insurance.",
+    "Stan określa minimalne bodily injury i property damage liability limits.",
+    "Insurance companies raportują coverage do MVD; brak wymaganej insurance może wpływać na registration i driving privileges."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://azdot.gov/mvd/services/vehicle-services/insurance-information"
+  ],
+  "related_public_pages": []
+}
