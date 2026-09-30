@@ -1,0 +1,21 @@
+{
+  "id": "student-grades-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school_system",
+  "title": "Oceny szkolne w Polsce",
+  "facts": [
+    "W polskich szkołach powszechnie stosuje się skalę ocen od 1 do 6, gdzie 1 oznacza ocenę niedostateczną, a 6 celującą.",
+    "Nazwy i kryteria ocen określają przepisy oraz zasady oceniania stosowane w szkołach.",
+    "Polskiej skali 1–6 nie należy mechanicznie przeliczać na amerykańskie litery A–F bez kontekstu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/edukacja"
+  ],
+  "related_public_pages": []
+}
