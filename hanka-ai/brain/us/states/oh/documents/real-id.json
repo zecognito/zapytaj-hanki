@@ -1,0 +1,21 @@
+{
+  "id": "oh-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OH",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Ohio",
+  "facts": [
+    "Ohio BMV wydaje compliant driver license i identification card spełniające wymagania REAL ID.",
+    "Do compliant credential potrzebne są wymagane dokumenty potwierdzające identity, Social Security number, legal presence i Ohio residency.",
+    "Standardowy credential nadal może być używany do prowadzenia pojazdu, ale nie spełnia federalnego wymogu REAL ID do objętych zastosowań."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bmv.ohio.gov/dl-real-id.aspx"
+  ],
+  "related_public_pages": []
+}
