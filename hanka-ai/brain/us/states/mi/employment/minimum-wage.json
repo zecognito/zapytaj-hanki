@@ -1,0 +1,21 @@
+{
+  "id": "mi-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MI",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Michigan",
+  "facts": [
+    "Michigan ma stanową płacę minimalną ustalaną zgodnie z Improved Workforce Opportunity Wage Act i aktualizowaną przez stan.",
+    "Dla tipped employees obowiązuje odrębna stawka i zasady dotyczące tips, które mogą zmieniać się wraz z harmonogramem ustawowym.",
+    "Aktualną stawkę dla konkretnej daty należy sprawdzić w Michigan Department of Labor and Economic Opportunity."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.michigan.gov/leo/bureaus-agencies/ber/wage-and-hour/minimum-wage"
+  ],
+  "related_public_pages": []
+}
