@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-credit-card-unauthorized-use-liability",
+  "subtopic": "banking_payments",
+  "title": "Nieautoryzowane użycie karty kredytowej",
+  "facts": [
+    "Federal law ogranicza odpowiedzialność konsumenta za unauthorized use credit card zasadniczo do maksymalnie 50 USD, gdy spełnione są ustawowe warunki.",
+    "Jeżeli konsument zgłosi utratę karty przed jej nieautoryzowanym użyciem, nie odpowiada za późniejsze unauthorized charges.",
+    "Jeżeli skradziony został sam numer konta, a nie fizyczna karta, federalne zasady mogą zapewniać brak odpowiedzialności za unauthorized use.",
+    "Credit-card protections różnią się od zasad Regulation E dotyczących debit cards i electronic fund transfers."
+  ],
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/lost-or-stolen-credit-atm-debit-cards",
+    "https://www.consumerfinance.gov/ask-cfpb/am-i-responsible-for-unauthorized-charges-if-my-credit-cards-are-lost-or-stolen-en-29/"
+  ]
+}
