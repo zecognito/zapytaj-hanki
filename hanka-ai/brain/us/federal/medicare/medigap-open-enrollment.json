@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-medicare-medigap-open-enrollment",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "medicare",
+  "subtopic": "medigap",
+  "title": "Medigap Open Enrollment Period",
+  "facts": [
+    "Federal Medigap Open Enrollment Period trwa 6 miesięcy i zaczyna się pierwszego miesiąca, w którym osoba ma Part B i ma 65 lat lub więcej.",
+    "W tym federalnym open enrollment insurer zasadniczo nie może użyć medical underwriting, aby odmówić Medigap policy lub podnieść ceny z powodu health problems.",
+    "Po zakończeniu tego okresu federalne prawo nie gwarantuje możliwości kupienia dowolnej Medigap policy; mogą jednak istnieć guaranteed issue rights albo dodatkowe prawa stanowe.",
+    "Medigap uzupełnia Original Medicare; nie jest używany do pokrywania cost-sharing w Medicare Advantage."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicare.gov/health-drug-plans/medigap/ready-to-buy/how-to-buy"
+  ],
+  "related_public_pages": []
+}
