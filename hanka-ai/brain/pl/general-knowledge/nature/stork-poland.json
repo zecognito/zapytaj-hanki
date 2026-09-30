@@ -1,0 +1,21 @@
+{
+  "id": "stork-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "parks_and_wildlife",
+  "title": "Bocian biały w Polsce",
+  "facts": [
+    "Bocian biały jest silnie obecny w polskim krajobrazie wiejskim i kulturze popularnej.",
+    "Ptaki migrują na zimę do cieplejszych regionów, a wiosną wracają do europejskich lęgowisk.",
+    "Liczebność populacji zmienia się, dlatego bieżących danych nie należy podawać bez roku i źródła."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gdos.gov.pl/"
+  ],
+  "related_public_pages": []
+}
