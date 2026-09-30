@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-northside-bakery-brooklyn",
+  "country": "US",
+  "category": "bakery",
+  "name": "Northside Bakery",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "149 N 8th St",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11249",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 718-387-2220",
+  "email": null,
+  "website": "https://northsidebakery.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Bakery",
+    "Polish/European baked goods"
+  ],
+  "coverage_area": [
+    "Brooklyn",
+    "NY"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://northsidebakery.com/",
+  "last_verified": "2026-09-30"
+}
