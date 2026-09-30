@@ -1,0 +1,21 @@
+{
+  "id": "va-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VA",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Wirginii",
+  "facts": [
+    "Virginia DMV wydaje driver license i ID zgodne z REAL ID.",
+    "Do uzyskania REAL ID wymagane są odpowiednie dokumenty potwierdzające identity, legal presence, Social Security number i Virginia residency.",
+    "Standardowy Virginia credential może służyć do prowadzenia pojazdu, ale nie zastępuje REAL ID lub innego akceptowanego dokumentu do objętych zastosowań federalnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dmv.virginia.gov/licenses-ids/real-id"
+  ],
+  "related_public_pages": []
+}
