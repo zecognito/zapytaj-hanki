@@ -1,0 +1,21 @@
+{
+  "id": "ok-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OK",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "SoonerCare",
+  "facts": [
+    "SoonerCare jest stanowym programem Medicaid dla kwalifikujących się mieszkańców.",
+    "Eligibility zależy od kategorii programu, dochodu i innych kryteriów.",
+    "Wnioski i odnowienia prowadzi właściwa administracja stanowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://oklahoma.gov/ohca/individuals/mysoonercare.html"
+  ],
+  "related_public_pages": []
+}
