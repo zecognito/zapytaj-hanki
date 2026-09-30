@@ -1,0 +1,21 @@
+{
+  "id": "nic-dwa-razy-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Nic dwa razy — Wisława Szymborska",
+  "facts": [
+    "Nic dwa razy, autor: Wisława Szymborska; szkolny tekst z obszaru: poezja XX wieku.",
+    "Wiersz o niepowtarzalności doświadczeń, przemijaniu i wyjątkowości każdej chwili oraz relacji międzyludzkich.",
+    "Hanka powinna znać podstawowy sens utworu, jego kontekst, główne motywy oraz sposób, w jaki łączy się z doświadczeniem XX wieku i szkolną analizą literatury."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
