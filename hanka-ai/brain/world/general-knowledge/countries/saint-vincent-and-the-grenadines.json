@@ -1,0 +1,21 @@
+{
+  "id": "country-saint-vincent-and-the-grenadines",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Saint Vincent i Grenadyny",
+  "facts": [
+    "Saint Vincent i Grenadyny są wyspiarskim państwem Małych Antyli na Karaibach.",
+    "Stolicą jest Kingstown, językiem urzędowym angielski, a walutą dolar wschodniokaraibski.",
+    "Państwo jest monarchią konstytucyjną i obejmuje główną wyspę Saint Vincent oraz północną część archipelagu Grenadyn."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.vc/"
+  ],
+  "related_public_pages": []
+}
