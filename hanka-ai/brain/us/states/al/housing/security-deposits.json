@@ -1,0 +1,21 @@
+{
+  "id": "al-security_deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AL",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w Alabamie",
+  "facts": [
+    "Prawo stanowe reguluje security deposits przy najmie mieszkań.",
+    "Dozwolone potrącenia i termin zwrotu zależą od obowiązujących przepisów.",
+    "Warto zachować lease, potwierdzenia płatności i dokumentację stanu lokalu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://alisondb.legislature.state.al.us/alison/codeofalabama/1975/35-9A-201.htm"
+  ],
+  "related_public_pages": []
+}
