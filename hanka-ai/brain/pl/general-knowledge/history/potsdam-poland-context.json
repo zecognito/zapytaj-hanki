@@ -1,0 +1,21 @@
+{
+  "id": "potsdam-poland-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "postwar",
+  "title": "Poczdam a powojenna Polska",
+  "facts": [
+    "Konferencja poczdamska odbyła się latem 1945 r. po kapitulacji Niemiec.",
+    "Dotyczyła m.in. administracji niemieckich terenów na wschód od Odry i Nysy Łużyckiej pod polską administracją do ostatecznego uregulowania pokojowego.",
+    "Powojenne zmiany granic wiązały się z masowymi przemieszczeniami Polaków, Niemców i innych społeczności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://history.state.gov/milestones/1937-1945/potsdam-conf"
+  ],
+  "related_public_pages": []
+}
