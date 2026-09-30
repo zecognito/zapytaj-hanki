@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-notary-public-state-boundary",
+  "subtopic": "notary_records",
+  "title": "Notary Public w USA — uprawnienia są stanowe",
+  "facts": [
+    "Notaries public w USA są zasadniczo commissioned lub regulated przez stany, a dokładne uprawnienia, wymagania i dopuszczalne notarial acts zależą od prawa stanowego.",
+    "Notary zasadniczo potwierdza określone elementy wykonania dokumentu, takie jak identity/signature acknowledgment lub oath, ale nie oznacza to federalnego zatwierdzenia treści dokumentu.",
+    "U.S. notary public nie jest automatycznie odpowiednikiem polskiego notariusza i zwykle nie ma takich samych kompetencji do sporządzania aktów prawnych.",
+    "Dla dokumentu używanego za granicą może być dodatkowo potrzebna apostille lub authentication zależnie od dokumentu i kraju przeznaczenia."
+  ],
+  "official_sources": [
+    "https://travel.state.gov/content/travel/en/replace-certify-docs/authenticate-your-document.html"
+  ]
+}
