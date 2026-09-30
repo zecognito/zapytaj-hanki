@@ -1,0 +1,21 @@
+{
+  "id": "country-eritrea",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Erytrea",
+  "facts": [
+    "Erytrea leży w Rogu Afryki nad Morzem Czerwonym, a jej stolicą jest Asmara.",
+    "W kraju szeroko używane są m.in. tigrinia, arabski i angielski, a nakfa jest walutą państwową.",
+    "Erytrea uzyskała niepodległość od Etiopii w 1993 roku po wieloletniej wojnie o niepodległość."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/en/about-us/member-states/eritrea"
+  ],
+  "related_public_pages": []
+}
