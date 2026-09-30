@@ -1,0 +1,21 @@
+{
+  "id": "az-nutrition-assistance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AZ",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "Nutrition Assistance / SNAP w Arizonie",
+  "facts": [
+    "Arizona nazywa swój program SNAP Nutrition Assistance.",
+    "Program zapewnia food benefits kwalifikującym się gospodarstwom domowym.",
+    "Eligibility i benefit amount zależą m.in. od wielkości gospodarstwa, dochodu i innych zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://des.az.gov/na"
+  ],
+  "related_public_pages": []
+}
