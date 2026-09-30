@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-documents-social-security-name-change",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "documents",
+  "subtopic": "social_security_number",
+  "title": "Change a name on Social Security record",
+  "facts": [
+    "After a legal name change, a person can request a corrected Social Security card from SSA.",
+    "SSA requires evidence of identity and the legal name change under its document rules; additional citizenship or immigration evidence may be required in some cases.",
+    "The corrected card keeps the same Social Security number.",
+    "Updating a name with SSA is separate from updating a driver's license, passport, employer records, banks, and other institutions."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/personal-record/change-name"
+  ],
+  "related_public_pages": []
+}
