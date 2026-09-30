@@ -1,0 +1,21 @@
+{
+  "id": "ogorki-kiszone",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Ogórki kiszone",
+  "facts": [
+    "Ogórki kiszone powstają w wyniku fermentacji mlekowej ogórków w solance.",
+    "Są częstym elementem polskiej kuchni jako dodatek, przekąska i składnik zup lub sałatek.",
+    "Ogórek kiszony nie jest tym samym co ogórek konserwowy w occie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101"
+  ],
+  "related_public_pages": []
+}
