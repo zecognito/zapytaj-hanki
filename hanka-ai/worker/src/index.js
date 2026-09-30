@@ -1,6 +1,6 @@
 import { HANKA_SYSTEM_PROMPT } from "./prompt.js";
 import { askModel, cleanAnswer, describeResult, extractText, guardGroundedAnswer, validateEvidenceTags } from "./model.js";
-import { retrieveContext, upsertDocuments } from "./rag.js";
+import { retrieveContext, upsertDocuments, upsertKnowledgeRecords, validateKnowledgeRecord } from "./rag.js";
 
 const MAX_MESSAGES = 12;
 const MAX_MESSAGE_CHARS = 4000;
@@ -764,6 +764,37 @@ export default {
       } catch (error) {
         console.error("Hanka seed failed", error);
         return json({ error: "Seed failed", detail: String(error?.message || error) }, 502, request);
+      }
+    }
+
+    if (url.pathname === "/admin/brain/validate" && request.method === "POST") {
+      if (!authorized(request, env)) return json({ error: "Unauthorized" }, 401, request);
+      const type = request.headers.get("Content-Type") || "";
+      if (!type.includes("application/json")) return json({ error: "Content-Type must be application/json" }, 415, request);
+      let body;
+      try { body = await request.json(); } catch { return json({ error: "Invalid JSON" }, 400, request); }
+      if (!Array.isArray(body?.records) || !body.records.length || body.records.length > 100) {
+        return json({ error: "records must contain 1 to 100 items" }, 400, request);
+      }
+      const results = body.records.map((record) => ({ id: record?.id || null, errors: validateKnowledgeRecord(record) }));
+      return json({ ok: results.every((item) => !item.errors.length), results }, 200, request);
+    }
+
+    if (url.pathname === "/admin/brain/ingest" && request.method === "POST") {
+      if (!authorized(request, env)) return json({ error: "Unauthorized" }, 401, request);
+      const type = request.headers.get("Content-Type") || "";
+      if (!type.includes("application/json")) return json({ error: "Content-Type must be application/json" }, 415, request);
+      let body;
+      try { body = await request.json(); } catch { return json({ error: "Invalid JSON" }, 400, request); }
+      if (!Array.isArray(body?.records) || !body.records.length || body.records.length > 100) {
+        return json({ error: "records must contain 1 to 100 items" }, 400, request);
+      }
+      try {
+        const result = await upsertKnowledgeRecords(env, body.records);
+        return json({ ok: true, ...result }, 200, request);
+      } catch (error) {
+        console.error("Hanka Brain ingest failed", error);
+        return json({ error: "Brain ingest failed", detail: String(error?.message || error) }, 400, request);
       }
     }
 
