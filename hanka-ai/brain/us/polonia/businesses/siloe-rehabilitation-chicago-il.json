@@ -1,0 +1,36 @@
+{
+  "id": "polonia-prof-doctor-siloe-rehab-chicago-il",
+  "country": "US",
+  "category": "doctor",
+  "name": "Siloe Rehabilitation",
+  "status": "active",
+  "location": {
+    "address": "7047 W Belmont Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "outpatient physical therapy",
+    "orthopedic rehabilitation",
+    "neurologic rehabilitation",
+    "cardiac rehabilitation",
+    "post-surgical rehabilitation",
+    "sports injury rehabilitation",
+    "geriatric rehabilitation"
+  ],
+  "phone": "+1 773-930-4850",
+  "email": null,
+  "website": "https://www.siloerehab.com/",
+  "official_source": "https://www.siloerehab.com/services",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official clinic site explicitly states We speak English & Polish / Mowimy po Polsku i Angielsku and provides Chicago location. Category doctor is schema-limited; entity is an outpatient rehabilitation clinic."
+  ]
+}
