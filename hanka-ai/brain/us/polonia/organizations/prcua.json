@@ -1,0 +1,35 @@
+{
+  "id": "polonia-org-prcua",
+  "country": "US",
+  "category": "organization",
+  "name": "Polish Roman Catholic Union of America",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": "https://www.prcua.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-American fraternal, cultural and educational organization"
+  ],
+  "coverage_area": [
+    "IL",
+    "US"
+  ],
+  "notes": [
+    "Listed among Polish institutions operating in the United States by the Embassy of the Republic of Poland; program/contact details should be refreshed periodically."
+  ],
+  "official_source": "https://www.prcua.org/",
+  "last_verified": "2026-09-30"
+}
