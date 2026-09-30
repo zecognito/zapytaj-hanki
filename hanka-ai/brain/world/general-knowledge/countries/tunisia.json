@@ -1,0 +1,21 @@
+{
+  "id": "country-tunisia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Tunezja",
+  "facts": [
+    "Tunezja leży w Afryce Północnej nad Morzem Śródziemnym, a jej stolicą jest Tunis.",
+    "Językiem urzędowym jest arabski, a walutą dinar tunezyjski.",
+    "Tunezja jest republiką; w starożytności obszar dzisiejszego kraju obejmował centrum cywilizacji kartagińskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.diplomatie.gov.tn/"
+  ],
+  "related_public_pages": []
+}
