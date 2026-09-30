@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-employment-paid-sick-leave-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "leave",
+  "title": "Federal paid sick leave — ogólna zasada",
+  "facts": [
+    "FLSA nie wymaga ogólnie od private-sector employers płatności za czas nieprzepracowany z powodu vacation, sick leave lub holidays.",
+    "FMLA zapewnia kwalifikującym się pracownikom job-protected leave, ale federalne FMLA leave samo w sobie może być unpaid.",
+    "Inne federal laws, federal contractor requirements, employer policies oraz state/local laws mogą tworzyć dodatkowe paid-leave rights."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/general/topic/benefits-leave/sickleave",
+    "https://www.dol.gov/agencies/whd/fmla"
+  ],
+  "related_public_pages": []
+}
