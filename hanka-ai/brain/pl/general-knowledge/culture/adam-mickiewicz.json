@@ -1,0 +1,21 @@
+{
+  "id": "adam-mickiewicz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "Adam Mickiewicz",
+  "facts": [
+    "Adam Mickiewicz był jednym z najważniejszych poetów polskiego romantyzmu.",
+    "Jest autorem m.in. epopei „Pan Tadeusz” oraz „Dziadów”.",
+    "Jego twórczość powstawała w epoce rozbiorów i emigracji, dlatego silnie łączy literaturę z tematami narodu, pamięci i niepodległości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/adam-mickiewicz"
+  ],
+  "related_public_pages": []
+}
