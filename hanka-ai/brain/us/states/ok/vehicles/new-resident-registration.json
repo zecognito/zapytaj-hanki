@@ -1,0 +1,21 @@
+{
+  "id": "ok-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OK",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Oklahoma",
+  "facts": [
+    "Nowy mieszkaniec powinien zarejestrować pojazd zgodnie z procedurą i terminem stanowym.",
+    "Proces może wymagać ownership documents, ubezpieczenia, identyfikacji i opłat.",
+    "Dodatkowe wymagania zależą od pojazdu i sytuacji właściciela."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://oklahoma.gov/service/all-services/auto-vehicle/vehicle-titles.html"
+  ],
+  "related_public_pages": []
+}
