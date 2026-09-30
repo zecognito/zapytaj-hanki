@@ -1,0 +1,21 @@
+{
+  "id": "kazimierz-proszynski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Kazimierz Prószyński",
+  "facts": [
+    "Kazimierz Prószyński był polskim wynalazcą i pionierem techniki filmowej.",
+    "Pracował nad kamerami, projektorami i rozwiązaniami zmniejszającymi migotanie obrazu.",
+    "Jego konstrukcje należą do wczesnej historii kinematografii, choć rozwój kina był wynikiem prac wielu wynalazców w różnych krajach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
