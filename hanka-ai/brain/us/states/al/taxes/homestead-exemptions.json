@@ -1,0 +1,21 @@
+{
+  "id": "al-homestead-exemptions",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AL",
+  "topic": "taxes",
+  "subtopic": "state_specific_high_value",
+  "title": "Homestead exemptions w Alabamie",
+  "facts": [
+    "Stan oferuje ulgę lub zwolnienie dotyczące kwalifikującej się nieruchomości mieszkalnej albo podatku od nieruchomości.",
+    "Eligibility, sposób złożenia wniosku i wartość ulgi zależą od programu oraz sytuacji właściciela.",
+    "Aktualne limity i procedury należy sprawdzać dla właściwego roku podatkowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.revenue.alabama.gov/property-tax/homestead-exemptions/"
+  ],
+  "related_public_pages": []
+}
