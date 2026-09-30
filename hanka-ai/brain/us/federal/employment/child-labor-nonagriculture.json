@@ -1,0 +1,24 @@
+{
+  "id": "us-federal-employment-child-labor-nonagriculture",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "child_labor",
+  "title": "Federal child labor — nonagricultural jobs",
+  "facts": [
+    "W nonagricultural jobs objętych FLSA podstawowy federalny minimum age to zwykle 14 lat, z wyjątkami.",
+    "Osoby age 14–15 mogą pracować tylko poza school hours, do 3 godzin w school day, 18 godzin w school week, 8 godzin w nonschool day i 40 godzin w nonschool week.",
+    "Age 14–15 mogą zasadniczo pracować między 7:00 a 19:00, a od 1 czerwca do Labor Day do 21:00.",
+    "Age 16–17 nie mają federalnego limitu godzin pod tymi youth-employment rules, ale nie mogą wykonywać occupations uznanych przez DOL za hazardous.",
+    "Od age 18 federal youth employment provisions już nie obowiązują."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/whd/child-labor/short-guide-to-child-labor-non-ag",
+    "https://www.dol.gov/agencies/whd/fact-sheets/43-child-labor-non-agriculture"
+  ],
+  "related_public_pages": []
+}
