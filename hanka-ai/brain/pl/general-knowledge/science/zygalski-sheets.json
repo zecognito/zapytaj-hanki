@@ -1,0 +1,21 @@
+{
+  "id": "zygalski-sheets",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Henryk Zygalski i płachty Zygalskiego",
+  "facts": [
+    "Henryk Zygalski był polskim matematykiem i kryptologiem związanym z łamaniem szyfru Enigmy.",
+    "Opracował perforowane arkusze, znane jako płachty Zygalskiego, pomagające ustalać ustawienia maszyny.",
+    "Był częścią trzyosobowego zespołu polskich matematyków obejmującego także Mariana Rejewskiego i Jerzego Różyckiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/wielkabrytania/polish-contribution-to-breaking-enigma-code"
+  ],
+  "related_public_pages": []
+}
