@@ -1,0 +1,21 @@
+{
+  "id": "wa-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WA",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Washington",
+  "facts": [
+    "Stan wydaje dokumenty spełniające federalne wymagania REAL ID lub stanowy odpowiednik akceptowany do tych celów.",
+    "Do uzyskania dokumentu zgodnego z REAL ID wymagane jest potwierdzenie tożsamości oraz wymagane dokumenty pobytowe i adresowe.",
+    "Po wejściu federalnego wymogu w życie standardowy dokument niezgodny z REAL ID nie wystarcza do objętych nim zastosowań federalnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dol.wa.gov/driver-licenses-and-permits/enhanced-driver-license-edl"
+  ],
+  "related_public_pages": []
+}
