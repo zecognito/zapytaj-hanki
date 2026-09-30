@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-death-survivor-benefits-application",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "death_inheritance",
+  "subtopic": "social_security_death",
+  "title": "Applying for Social Security survivor benefits",
+  "facts": [
+    "Social Security survivor benefits are not automatically converted in every situation simply because SSA learns of a death.",
+    "Eligible spouses, divorced spouses, children and certain dependent parents may qualify under different rules.",
+    "A person already receiving Social Security may need SSA to determine whether a survivor benefit changes the amount payable rather than receiving two full benefits added together.",
+    "Potential survivors should contact SSA promptly because application timing can affect benefits."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/survivor"
+  ],
+  "related_public_pages": []
+}
