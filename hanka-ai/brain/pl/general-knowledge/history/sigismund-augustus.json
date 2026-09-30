@@ -1,0 +1,21 @@
+{
+  "id": "sigismund-augustus",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "rulers",
+  "title": "Zygmunt II August",
+  "facts": [
+    "Zygmunt II August był ostatnim królem Polski z dynastii Jagiellonów.",
+    "Za jego panowania zawarto unię lubelską w 1569 r., tworząc Rzeczpospolitą Obojga Narodów.",
+    "Zmarł bez potomka w 1572 r., po czym utrwalił się system wolnej elekcji króla."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/a/unia-lubelska/Df1L9VtAB"
+  ],
+  "related_public_pages": []
+}
