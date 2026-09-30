@@ -1,0 +1,21 @@
+{
+  "id": "country-niger",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Niger",
+  "facts": [
+    "Niger jest śródlądowym państwem Afryki Zachodniej, którego znaczną część zajmuje Sahara.",
+    "Stolicą jest Niamey, a walutą frank CFA Afryki Zachodniej.",
+    "Przez południowo-zachodnią część kraju przepływa rzeka Niger; państwo znajduje się w regionie Sahelu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/africarenewal/magazine/february-2024/niger"
+  ],
+  "related_public_pages": []
+}
