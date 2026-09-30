@@ -1,0 +1,21 @@
+{
+  "id": "poland-united-nations",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "international",
+  "subtopic": "organizations",
+  "title": "Polska w Organizacji Narodów Zjednoczonych",
+  "facts": [
+    "Polska należy do grona pierwotnych państw członkowskich Organizacji Narodów Zjednoczonych.",
+    "Polska nie uczestniczyła w konferencji założycielskiej w San Francisco, lecz później podpisała Kartę Narodów Zjednoczonych; data członkostwa Polski w ONZ to 24 października 1945 roku.",
+    "ONZ jest jednym z podstawowych forów wielostronnej polityki zagranicznej Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/about-us/member-states"
+  ],
+  "related_public_pages": []
+}
