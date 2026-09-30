@@ -2,20 +2,20 @@
   "id": "polonia-business-polish-food-austin",
   "country": "US",
   "category": "store",
-  "name": "Polish Food Store",
+  "name": "The Polish Food Store",
   "aliases": [],
   "status": "active",
   "location": {
-    "address": "Austin area",
-    "city": "Austin",
+    "address": "304 S Main St",
+    "city": "Bremond",
     "state": "TX",
-    "postal_code": null,
+    "postal_code": "76629",
     "latitude": null,
     "longitude": null
   },
   "phone": null,
   "email": null,
-  "website": null,
+  "website": "http://bremondpolishfoodstore.com/",
   "languages": [
     "pl",
     "en"
@@ -25,12 +25,12 @@
     "Polish community food retail"
   ],
   "coverage_area": [
-    "Austin",
+    "Bremond",
     "TX"
   ],
   "notes": [
-    "Polish-food relevance supported by current business or Polonia-community source. Incomplete location/contact fields are intentionally left null rather than inferred; reverification required."
+    "Audited 2026-09-30: earlier discovery lead incorrectly used Austin as the location; Austin Polish Society confirms the store is in Bremond, Texas."
   ],
-  "official_source": "https://www.austinpolishsociety.org/",
+  "official_source": "https://austinpolishsociety.org/members/bremond-polish-food-store/",
   "last_verified": "2026-09-30"
 }
