@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-savers-credit-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "retirement",
+  "subtopic": "savers_credit",
+  "title": "Saver's Credit — limity 2026",
+  "facts": [
+    "Górny AGI limit w 2026: $80,500 Married Filing Jointly, $60,375 Head of Household oraz $40,250 dla Single i Married Filing Separately.",
+    "Credit rate może wynosić 50%, 20% albo 10% kwalifikujących się contributions zależnie od AGI i filing status.",
+    "Maksymalnie $2,000 kwalifikujących się contributions na osobę może być podstawą credit; do $4,000 przy joint return."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/irb/2025-49_IRB",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-savings-contributions-credit-savers-credit"
+  ],
+  "related_public_pages": []
+}
