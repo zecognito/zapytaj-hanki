@@ -1,0 +1,21 @@
+{
+  "id": "country-haiti",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Haiti",
+  "facts": [
+    "Haiti zajmuje zachodnią część wyspy Hispaniola na Karaibach; wschodnią część zajmuje Dominikana.",
+    "Stolicą jest Port-au-Prince; językami urzędowymi są kreolski haitański i francuski, a walutą gourde.",
+    "Haiti ogłosiło niepodległość w 1804 roku po rewolucji haitańskiej i stało się pierwszą niepodległą republiką powstałą w wyniku udanego powstania zniewolonych ludzi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mae.gouv.ht/"
+  ],
+  "related_public_pages": []
+}
