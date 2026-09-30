@@ -1,0 +1,21 @@
+{
+  "id": "ny-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NY",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w stanie Nowy Jork",
+  "facts": [
+    "New York child support services pomagają m.in. ustalić parentage, uzyskać lub zmienić support order oraz pobierać płatności.",
+    "Program jest administrowany przez New York State Office of Temporary and Disability Assistance we współpracy z lokalnymi child support agencies.",
+    "Wysokość support zależy od obowiązujących zasad i konkretnej sytuacji rodziny; sąd lub właściwy organ stosuje stanowe wytyczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://childsupport.ny.gov/"
+  ],
+  "related_public_pages": []
+}
