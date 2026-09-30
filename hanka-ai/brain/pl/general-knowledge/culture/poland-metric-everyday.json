@@ -1,0 +1,21 @@
+{
+  "id": "poland-metric-everyday",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "everyday",
+  "title": "Jednostki miar w Polsce",
+  "facts": [
+    "Polska używa systemu metrycznego.",
+    "Odległości drogowe podaje się w kilometrach, temperaturę zwykle w stopniach Celsjusza, a masę produktów w gramach i kilogramach.",
+    "Dla osoby przyzwyczajonej do USA ważną różnicą są m.in. kilometry zamiast mil i litry zamiast galonów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gum.gov.pl/"
+  ],
+  "related_public_pages": []
+}
