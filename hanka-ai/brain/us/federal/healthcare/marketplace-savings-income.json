@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-healthcare-marketplace-savings-income",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "healthcare",
+  "subtopic": "marketplace",
+  "title": "Marketplace premium tax credits - income basics",
+  "facts": [
+    "Marketplace premium tax credit eligibility and amount depend on household information, expected annual income and other eligibility rules.",
+    "Marketplace savings are based on expected household income for the coverage year, not simply last year's income.",
+    "People receiving advance premium tax credits should update Marketplace applications when expected income or household circumstances change to reduce the risk of receiving the wrong amount of advance credit.",
+    "The federal income-tax reconciliation process uses Form 1095-A and Form 8962 under applicable IRS rules."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.healthcare.gov/lower-costs/",
+    "https://www.healthcare.gov/keep-or-change-plan/choices/"
+  ],
+  "related_public_pages": []
+}
