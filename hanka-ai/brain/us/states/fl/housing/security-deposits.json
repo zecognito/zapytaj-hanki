@@ -1,0 +1,21 @@
+{
+  "id": "fl-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "FL",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit na Florydzie",
+  "facts": [
+    "Florida law określa sposób przechowywania security deposit oraz obowiązki landlord dotyczące informacji o deposit.",
+    "Jeśli landlord nie zamierza dokonywać claim na deposit, zasadniczo musi zwrócić go w terminie określonym przez statute po zakończeniu tenancy.",
+    "Jeśli landlord zamierza potrącić środki, musi wysłać wymagany notice w ustawowym terminie i zgodnie z procedurą Florida law."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.49.html"
+  ],
+  "related_public_pages": []
+}
