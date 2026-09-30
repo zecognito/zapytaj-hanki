@@ -1,0 +1,21 @@
+{
+  "id": "interstate-vs-us-route",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Interstate a U.S. Route",
+  "facts": [
+    "Interstate Highway i U.S. Numbered Highway to dwa różne systemy numerowanych dróg.",
+    "Interstates są częścią Interstate Highway System; U.S. Routes tworzą starszą sieć tras, która nadal funkcjonuje.",
+    "Droga oznaczona jako U.S. Route nie musi być freeway, a Interstate ma standardy kontrolowanego dostępu z ograniczonymi wyjątkami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fhwa.dot.gov/programadmin/interstate.cfm"
+  ],
+  "related_public_pages": []
+}
