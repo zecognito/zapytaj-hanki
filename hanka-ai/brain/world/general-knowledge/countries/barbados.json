@@ -1,0 +1,21 @@
+{
+  "id": "country-barbados",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Barbados",
+  "facts": [
+    "Barbados jest wyspiarskim państwem Karaibów położonym na wschód od głównego łuku Małych Antyli.",
+    "Stolicą jest Bridgetown, językiem urzędowym angielski, a walutą dolar barbadoski.",
+    "Barbados stał się republiką w 2021 roku, pozostając członkiem Wspólnoty Narodów i CARICOM."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.bb/"
+  ],
+  "related_public_pages": []
+}
