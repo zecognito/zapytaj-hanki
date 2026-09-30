@@ -1,0 +1,21 @@
+{
+  "id": "personal-income-definition",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "economy",
+  "subtopic": "income",
+  "title": "Co oznacza personal income?",
+  "facts": [
+    "BEA personal income obejmuje dochody otrzymywane przez osoby z wielu źródeł, w tym earnings, income from property oraz transfer receipts.",
+    "Personal income jest makroekonomiczną miarą i nie jest tym samym co household income z Census ACS.",
+    "Przy pytaniu o typowy dochód rodziny należy używać właściwej miary Census, a nie BEA personal income."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bea.gov/data/income-saving/personal-income"
+  ],
+  "related_public_pages": []
+}
