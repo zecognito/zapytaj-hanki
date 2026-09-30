@@ -1,0 +1,21 @@
+{
+  "id": "kosciuszko-foundation",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL-US",
+  "topic": "polonia",
+  "subtopic": "organizations",
+  "title": "Fundacja Kościuszkowska",
+  "facts": [
+    "The Kosciuszko Foundation została założona w Nowym Jorku w 1925 r.",
+    "Jej misja koncentruje się na wymianie edukacyjnej i kulturalnej między Polską a Stanami Zjednoczonymi.",
+    "Fundacja prowadzi programy stypendialne, naukowe i kulturalne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://thekf.org/"
+  ],
+  "related_public_pages": []
+}
