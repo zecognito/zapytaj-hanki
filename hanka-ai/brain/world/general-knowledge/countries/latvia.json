@@ -1,0 +1,21 @@
+{
+  "id": "country-latvia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Łotwa",
+  "facts": [
+    "Łotwa leży nad Morzem Bałtyckim, a jej stolicą jest Ryga.",
+    "Językiem urzędowym jest łotewski, a walutą euro.",
+    "Łotwa jest republiką oraz członkiem Unii Europejskiej i NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.latvia.eu/"
+  ],
+  "related_public_pages": []
+}
