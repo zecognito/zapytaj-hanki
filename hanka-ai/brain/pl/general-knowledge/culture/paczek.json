@@ -1,0 +1,21 @@
+{
+  "id": "paczek",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Pączki",
+  "facts": [
+    "Pączek jest tradycyjnym polskim smażonym ciastkiem drożdżowym, zwykle nadziewanym i lukrowanym albo posypywanym cukrem.",
+    "W Polsce pączki są szczególnie kojarzone z Tłustym Czwartkiem przed Wielkim Postem.",
+    "W społecznościach Polish American tradycja pączków może być obchodzona także w dniach bezpośrednio przed Ash Wednesday, zależnie od lokalnej tradycji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101-paczki"
+  ],
+  "related_public_pages": []
+}
