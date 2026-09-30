@@ -1,0 +1,21 @@
+{
+  "id": "nc-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NC",
+  "topic": "vehicles",
+  "subtopic": "insurance",
+  "title": "Obowiązkowe auto insurance w Karolinie Północnej",
+  "facts": [
+    "North Carolina wymaga od właścicieli zarejestrowanych pojazdów utrzymywania wymaganej liability insurance wystawionej przez uprawnionego insurer.",
+    "Stan określa wymagane liability coverages i limity.",
+    "Lapse w required insurance może skutkować konsekwencjami dla vehicle registration."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ncdot.gov/dmv/title-registration/insurance-requirements/Pages/default.aspx"
+  ],
+  "related_public_pages": []
+}
