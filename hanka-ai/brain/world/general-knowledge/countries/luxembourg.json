@@ -1,0 +1,21 @@
+{
+  "id": "country-luxembourg",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Luksemburg",
+  "facts": [
+    "Luksemburg jest niewielkim śródlądowym państwem Europy Zachodniej, graniczącym z Belgią, Niemcami i Francją.",
+    "Stolicą jest Luksemburg; państwo jest wielkim księstwem i monarchią konstytucyjną.",
+    "Luksemburg należy do Unii Europejskiej, NATO i strefy euro; jest także siedzibą części instytucji UE."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://luxembourg.public.lu/en/society-and-culture/political-system.html"
+  ],
+  "related_public_pages": []
+}
