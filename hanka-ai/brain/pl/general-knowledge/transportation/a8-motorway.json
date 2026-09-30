@@ -1,0 +1,21 @@
+{
+  "id": "a8-motorway",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Autostrada A8 — Autostradowa Obwodnica Wrocławia",
+  "facts": [
+    "A8 tworzy Autostradową Obwodnicę Wrocławia i odciąża miejski układ drogowy od części ruchu tranzytowego.",
+    "Łączy ważne trasy w rejonie Wrocławia, w tym powiązania z A4 oraz drogami ekspresowymi.",
+    "A8 jest nietypową polską autostradą, ponieważ ma stosunkowo krótki przebieg i przede wszystkim funkcję obwodnicy aglomeracji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
