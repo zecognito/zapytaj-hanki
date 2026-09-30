@@ -1,0 +1,21 @@
+{
+  "id": "12-hour-clock",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday",
+  "subtopic": "date_time",
+  "title": "AM i PM — zegar 12-godzinny",
+  "facts": [
+    "W codziennym użyciu w USA bardzo popularny jest zegar 12-godzinny z oznaczeniami AM i PM.",
+    "12:00 AM oznacza północ, a 12:00 PM południe; dla jasności można używać słów noon i midnight.",
+    "Rozkłady i systemy techniczne mogą używać zegara 24-godzinnego, ale jest on mniej typowy w codziennym języku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nist.gov/pml/time-and-frequency-division/times-day-faqs"
+  ],
+  "related_public_pages": []
+}
