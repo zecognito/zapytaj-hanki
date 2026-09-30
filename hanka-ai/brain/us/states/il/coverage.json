@@ -5,7 +5,7 @@
   "region": "IL",
   "state": "Illinois",
   "last_verified": "2026-09-30",
-  "status": "substantial",
+  "status": "v1_complete",
   "description": "Reference coverage map for canonical Illinois state-level Hanka Brain knowledge. State records capture material Illinois deltas from federal rules and practical state administration.",
   "topics": {
     "taxes": {
@@ -32,15 +32,14 @@
         "sick_leave",
         "nicu_leave",
         "wage_payment",
-        "final_paycheck"
+        "final_paycheck",
+        "overtime_state_rules",
+        "one_day_rest",
+        "pay_transparency",
+        "child_labor"
       ],
       "planned": [
-        "overtime_state_rules",
-        "wage_payment",
-        "final_paycheck",
-        "child_labor",
-        "equal_pay",
-        "one_day_rest"
+        "equal_pay"
       ]
     },
     "unemployment": {
@@ -77,14 +76,11 @@
         "new_resident_registration",
         "emissions",
         "title_transfer",
-        "teen_drivers"
+        "teen_drivers",
+        "sales_tax"
       ],
       "planned": [
-        "emissions",
-        "title_transfer",
-        "sales_tax",
-        "license_plates",
-        "teen_drivers"
+        "license_plates"
       ]
     },
     "health_benefits": {
@@ -105,28 +101,29 @@
         "security_deposits",
         "eviction",
         "property_tax_relief",
-        "senior_property_tax_relief"
+        "senior_property_tax_relief",
+        "fair_housing"
       ],
       "planned": [
-        "renters_rights",
-        "fair_housing"
+        "renters_rights"
       ]
     },
     "family": {
       "status": "started",
       "completed": [
         "child_support",
-        "child_care_assistance"
+        "child_care_assistance",
+        "divorce_basics",
+        "domestic_violence"
       ],
       "planned": [
-        "divorce_basics",
-        "parental_rights",
-        "domestic_violence"
+        "parental_rights"
       ]
     }
   },
-  "record_count": 30,
+  "record_count": 38,
   "notes": [
+    "Illinois V1 is complete enough to serve as the reference architecture for national state expansion. Remaining planned items are enrichment, not blockers.",
     "Canonical language: Polish. Human-facing title and facts are stored in natural Polish; stable machine IDs/topic/subtopic remain English; common U.S. program/legal terms stay in English where useful.",
     "Illinois is the reference implementation for the 50-state + DC layer.",
     "Canonical state records capture material state deltas and practical state administration; federal baseline remains in the federal Brain.",
