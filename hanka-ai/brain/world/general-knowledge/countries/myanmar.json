@@ -1,0 +1,21 @@
+{
+  "id": "country-myanmar",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Mjanma",
+  "facts": [
+    "Mjanma leży w Azji Południowo-Wschodniej między m.in. Indiami, Chinami i Tajlandią.",
+    "Stolicą jest Naypyidaw, językiem urzędowym birmański, a walutą kyat.",
+    "Wojsko przejęło władzę w zamachu stanu w 2021 roku; kraj pozostaje objęty konfliktem zbrojnym i poważnym kryzysem politycznym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://myanmar.un.org/en"
+  ],
+  "related_public_pages": []
+}
