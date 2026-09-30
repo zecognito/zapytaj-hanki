@@ -1,0 +1,21 @@
+{
+  "id": "polish-surnames-diacritics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "Polskie nazwiska i znaki diakrytyczne",
+  "facts": [
+    "Polskie nazwiska mogą zawierać litery z polskimi znakami diakrytycznymi, takie jak ł, ń, ó, ś, ź i ż.",
+    "W systemach zagranicznych znaki te bywają upraszczane lub transliterowane, ale zapis bez znaków może nie być identyczny z oficjalną polską pisownią.",
+    "W sprawach dokumentowych należy używać formy wymaganej przez konkretny dokument lub urząd."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/"
+  ],
+  "related_public_pages": []
+}
