@@ -1,0 +1,21 @@
+{
+  "id": "co-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CO",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Colorado",
+  "facts": [
+    "Nowy mieszkaniec powinien przenieść title lub registration pojazdu zgodnie z terminem i procedurą obowiązującą w stanie.",
+    "Proces może wymagać dokumentu ownership, potwierdzenia ubezpieczenia, identyfikacji, opłat i dodatkowych kontroli zależnie od pojazdu.",
+    "Stanowe wymagania dla nowych mieszkańców należy sprawdzić przed wizytą lub złożeniem wniosku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dmv.colorado.gov/new-to-colorado"
+  ],
+  "related_public_pages": []
+}
