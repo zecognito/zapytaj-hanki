@@ -1,0 +1,21 @@
+{
+  "id": "krs-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "business",
+  "title": "KRS",
+  "facts": [
+    "Krajowy Rejestr Sądowy (KRS) jest publicznym rejestrem prowadzonym w systemie sądowym.",
+    "Obejmuje m.in. rejestr przedsiębiorców oraz rejestr stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji i samodzielnych publicznych zakładów opieki zdrowotnej.",
+    "Nie każda jednoosobowa działalność gospodarcza jest wpisana do KRS; wiele takich działalności znajduje się w CEIDG."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/sprawiedliwosc/krajowy-rejestr-sadowy"
+  ],
+  "related_public_pages": []
+}
