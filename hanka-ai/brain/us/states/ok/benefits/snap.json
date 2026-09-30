@@ -1,0 +1,21 @@
+{
+  "id": "ok-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OK",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w Oklahoma",
+  "facts": [
+    "SNAP pomaga kwalifikującym się gospodarstwom kupować żywność.",
+    "Eligibility i benefit zależą m.in. od dochodu i wielkości gospodarstwa.",
+    "Wnioski prowadzi właściwa agencja stanowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://oklahoma.gov/okdhs/services/snap.html"
+  ],
+  "related_public_pages": []
+}
