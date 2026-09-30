@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-family-pump-at-work",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "family_children",
+  "subtopic": "lactation_work",
+  "title": "Federal pump-at-work rights",
+  "facts": [
+    "The FLSA as amended by the PUMP Act generally requires covered employers to provide reasonable break time for an employee to express breast milk for a nursing child for one year after the child's birth.",
+    "Employers generally must provide a place to pump that is shielded from view, free from intrusion and not a bathroom.",
+    "Whether pumping time must be paid depends on circumstances, including whether the employee is completely relieved from duty and whether other paid-break rules apply.",
+    "An employer with fewer than 50 employees may invoke a statutory undue-hardship exemption only when the legal requirements for that exemption are met."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/whd/pump-at-work"
+  ],
+  "related_public_pages": []
+}
