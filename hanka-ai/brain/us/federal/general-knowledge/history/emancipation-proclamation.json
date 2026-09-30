@@ -1,0 +1,21 @@
+{
+  "id": "emancipation-proclamation",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "history",
+  "subtopic": "milestones",
+  "title": "Emancipation Proclamation",
+  "facts": [
+    "Emancipation Proclamation weszła w życie 1 stycznia 1863 r.",
+    "Ogłaszała wolność zniewolonych osób na obszarach pozostających w rebelii przeciw USA, z ograniczeniami wynikającymi z jej wojennego zakresu.",
+    "Nie zniosła sama niewolnictwa w całych USA; ogólnokrajowe zniesienie nastąpiło przez 13th Amendment w 1865 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation"
+  ],
+  "related_public_pages": []
+}
