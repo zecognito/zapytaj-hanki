@@ -1,0 +1,21 @@
+{
+  "id": "territorial-defence-forces",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "security",
+  "title": "Wojska Obrony Terytorialnej",
+  "facts": [
+    "Wojska Obrony Terytorialnej są jednym z pięciu rodzajów Sił Zbrojnych RP.",
+    "WOT zostały utworzone jako odrębny rodzaj sił zbrojnych od 1 stycznia 2017 roku.",
+    "Do ich zadań należą działania obronne oraz wsparcie lokalnych społeczności i administracji m.in. podczas klęsk żywiołowych i innych sytuacji kryzysowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/obrona-narodowa/wojska-obrony-terytorialnej-"
+  ],
+  "related_public_pages": []
+}
