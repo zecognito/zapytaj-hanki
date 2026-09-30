@@ -1,0 +1,21 @@
+{
+  "id": "country-yemen",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Jemen",
+  "facts": [
+    "Jemen leży na południowym krańcu Półwyspu Arabskiego nad Morzem Czerwonym i Zatoką Adeńską.",
+    "Konstytucyjną stolicą jest Sana, językiem urzędowym arabski, a walutą rial jemeński.",
+    "Od 2014 roku kraj pozostaje głęboko podzielony wskutek wojny i rywalizacji różnych władz oraz ugrupowań; konflikt spowodował jeden z najpoważniejszych kryzysów humanitarnych świata."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://yemen.un.org/en"
+  ],
+  "related_public_pages": []
+}
