@@ -1,0 +1,21 @@
+{
+  "id": "polish-migration-us-19th-century",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL-US",
+  "topic": "polonia",
+  "subtopic": "migration_history",
+  "title": "Polska emigracja do USA w XIX wieku",
+  "facts": [
+    "Duże fale emigracji z ziem polskich do USA nasiliły się w XIX wieku i na początku XX wieku.",
+    "Migranci przybywali z ziem znajdujących się wówczas pod zaborem rosyjskim, pruskim/niemieckim i austriackim, dlatego amerykańskie dokumenty historyczne mogą zapisywać ich birthplace lub nationality inaczej niż współczesne określenie „Poland”.",
+    "Motywacje obejmowały m.in. warunki ekonomiczne, dostęp do ziemi, industrializację, presję polityczną i sieci rodzinne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.loc.gov/classroom-materials/immigration/polish-russian/"
+  ],
+  "related_public_pages": []
+}
