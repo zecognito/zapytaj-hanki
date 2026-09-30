@@ -1,0 +1,21 @@
+{
+  "id": "polish-hiphop",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "media-pop-culture",
+  "title": "Polski hip-hop",
+  "facts": [
+    "Polski hip-hop rozwinął się jako znacząca scena muzyczna szczególnie od lat 90.",
+    "Obejmuje rap, DJ-ing, produkcję muzyczną i powiązane elementy kultury hip-hopowej.",
+    "Z czasem rap stał się jednym z głównych nurtów polskiej muzyki popularnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
