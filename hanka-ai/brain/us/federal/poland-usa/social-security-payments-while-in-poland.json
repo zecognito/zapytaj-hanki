@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-social-security-payments-in-poland",
+  "subtopic": "pensions",
+  "title": "Social Security podczas mieszkania w Polsce",
+  "facts": [
+    "SSA może wypłacać wiele świadczeń Title II osobom przebywającym poza USA, ale możliwość dalszej wypłaty zależy m.in. od obywatelstwa, rodzaju świadczenia i indywidualnych wyjątków.",
+    "Polska jest państwem objętym umową o zabezpieczeniu społecznym z USA i jest uwzględniona w zasadach SSA dotyczących płatności zagranicznych.",
+    "SSI jest innym programem niż Social Security Title II i Payments Abroad Screening Tool SSA nie służy do ustalania prawa do SSI za granicą."
+  ],
+  "effective_from": null,
+  "official_sources": [
+    "https://www.ssa.gov/international/payments_outsideUS.html",
+    "https://www.ssa.gov/international/Agreement_Pamphlets/polish.html"
+  ]
+}
