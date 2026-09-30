@@ -1,0 +1,21 @@
+{
+  "id": "dziekuje",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "„Dziękuję”",
+  "facts": [
+    "„Dziękuję” jest podstawową polską formą podziękowania.",
+    "Nieformalnie często używa się również „dzięki”.",
+    "Odpowiedzią może być m.in. „proszę”, „nie ma za co” lub inna forma zależna od sytuacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/"
+  ],
+  "related_public_pages": []
+}
