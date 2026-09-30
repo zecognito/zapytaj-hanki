@@ -1,0 +1,21 @@
+{
+  "id": "gallon-liter",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "measurements",
+  "subtopic": "volume",
+  "title": "Ile litrów ma amerykański gallon?",
+  "facts": [
+    "1 U.S. liquid gallon ma dokładnie 231 cubic inches i około 3,78541 litra.",
+    "U.S. gallon różni się od imperial gallon używanego historycznie w Wielkiej Brytanii.",
+    "Ceny paliwa w USA są zwykle podawane za U.S. gallon."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nist.gov/pml/owm/si-units-volume"
+  ],
+  "related_public_pages": []
+}
