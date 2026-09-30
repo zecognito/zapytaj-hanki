@@ -1,0 +1,21 @@
+{
+  "id": "corpus-christi-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "holidays",
+  "title": "Boże Ciało",
+  "facts": [
+    "Boże Ciało jest katolickim świętem ruchomym obchodzonym w czwartek i jest w Polsce dniem ustawowo wolnym od pracy.",
+    "W wielu miejscowościach odbywają się procesje religijne.",
+    "Data zmienia się każdego roku, ponieważ jest związana z kalendarzem wielkanocnym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina/dni-wolne-od-pracy"
+  ],
+  "related_public_pages": []
+}
