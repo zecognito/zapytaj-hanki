@@ -1,0 +1,21 @@
+{
+  "id": "morskie-oko",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Morskie Oko",
+  "facts": [
+    "Morskie Oko jest największym pod względem powierzchni jeziorem w polskich Tatrach.",
+    "Leży w Tatrzańskim Parku Narodowym u podnóża wysokich szczytów Tatr.",
+    "Jest jednym z najczęściej odwiedzanych miejsc w polskich górach, dlatego zasady dostępu i ochrony należy sprawdzać w TPN."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
