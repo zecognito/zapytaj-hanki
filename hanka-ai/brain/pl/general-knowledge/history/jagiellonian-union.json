@@ -1,0 +1,21 @@
+{
+  "id": "jagiellonian-union",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early_modern",
+  "title": "Unia Polski i Litwy",
+  "facts": [
+    "Polska i Litwa tworzyły unię dynastyczną od końca XIV wieku, a ich relacja zmieniała się w kolejnych stuleciach.",
+    "Unia lubelska z 1569 r. utworzyła Rzeczpospolitą Obojga Narodów, wspólne państwo Korony Królestwa Polskiego i Wielkiego Księstwa Litewskiego.",
+    "Rzeczpospolita była państwem wieloetnicznym i wieloreligijnym, którego historycznych granic nie należy utożsamiać z granicami współczesnej Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/a/unia-lubelska/Df1L9VtAB"
+  ],
+  "related_public_pages": []
+}
