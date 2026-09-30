@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-healthcare-medicaid-chip-year-round-enrollment",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "healthcare",
+  "subtopic": "medicaid_federal_framework",
+  "title": "Medicaid and CHIP - year-round applications",
+  "facts": [
+    "People can apply for Medicaid and CHIP at any time of year; these programs are not restricted to the annual Marketplace Open Enrollment period.",
+    "A Marketplace application can screen household members for potential Medicaid or CHIP eligibility and transfer information to the appropriate state agency.",
+    "Final Medicaid or CHIP eligibility is determined under the applicable program and state rules."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.healthcare.gov/medicaid-chip/",
+    "https://www.healthcare.gov/quick-guide/dates-and-deadlines/"
+  ],
+  "related_public_pages": []
+}
