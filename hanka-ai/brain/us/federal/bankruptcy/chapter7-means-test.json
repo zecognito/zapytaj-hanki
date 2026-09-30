@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-bankruptcy-means-test",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "bankruptcy_debt_relief",
+  "subtopic": "means_test",
+  "title": "Chapter 7 means test - framework",
+  "facts": [
+    "The bankruptcy means test is used in certain individual Chapter 7 cases primarily involving consumer debts to assess whether granting Chapter 7 relief would be presumptively abusive.",
+    "The calculation uses statutory formulas, current monthly income and permitted expense deductions; it is not simply a comparison of annual salary to one national income number.",
+    "Median-family-income figures and some expense standards vary by state, household size and effective period and are updated periodically.",
+    "Being above the applicable state median does not automatically mean Chapter 7 is impossible; the remaining statutory calculation and circumstances matter."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.justice.gov/ust/means-testing"
+  ],
+  "related_public_pages": []
+}
