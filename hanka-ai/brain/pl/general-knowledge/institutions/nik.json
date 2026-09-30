@@ -1,0 +1,21 @@
+{
+  "id": "nik",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "national-institutions",
+  "title": "Najwyższa Izba Kontroli — NIK",
+  "facts": [
+    "Najwyższa Izba Kontroli jest naczelnym organem kontroli państwowej.",
+    "Kontroluje m.in. wykonanie budżetu państwa i działalność wielu organów oraz jednostek publicznych w zakresie określonym prawem.",
+    "NIK podlega Sejmowi na zasadach określonych w Konstytucji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nik.gov.pl/"
+  ],
+  "related_public_pages": []
+}
