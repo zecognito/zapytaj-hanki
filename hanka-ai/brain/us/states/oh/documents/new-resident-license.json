@@ -1,0 +1,21 @@
+{
+  "id": "oh-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OH",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Ohio",
+  "facts": [
+    "Nowy mieszkaniec Ohio posiadający out-of-state driver license powinien uzyskać Ohio driver license zgodnie z wymaganiami BMV.",
+    "Proces obejmuje wymagane identity/legal presence, Social Security i Ohio residency documents oraz właściwe procedury BMV.",
+    "Driver license i Ohio vehicle title/registration są odrębnymi procesami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bmv.ohio.gov/new-to-ohio.aspx"
+  ],
+  "related_public_pages": []
+}
