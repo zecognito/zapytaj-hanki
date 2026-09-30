@@ -1,0 +1,21 @@
+{
+  "id": "warmia-identity",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "regional-identity",
+  "title": "Warmia — region historyczny",
+  "facts": [
+    "Warmia jest historycznym regionem w północno-wschodniej Polsce.",
+    "Nie jest tym samym co Mazury, mimo że oba regiony są często łączone w nazwie województwa warmińsko-mazurskiego.",
+    "Historyczna Warmia przez stulecia miała własną specyfikę polityczną, religijną i kulturową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
