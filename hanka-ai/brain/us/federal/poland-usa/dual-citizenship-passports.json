@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-dual-citizenship-passports",
+  "subtopic": "dual_citizenship",
+  "title": "Podwójne obywatelstwo polsko-amerykańskie i paszporty",
+  "facts": [
+    "USA uznają, że osoba może posiadać więcej niż jedno obywatelstwo; dual national ma prawa i obowiązki wynikające z prawa każdego państwa.",
+    "Prawo USA wymaga, aby obywatel USA wjeżdżał do Stanów Zjednoczonych i wyjeżdżał ze Stanów Zjednoczonych na paszporcie USA.",
+    "Obywatel USA posiadający również inne obywatelstwo nie kwalifikuje się do amerykańskiej wizy i nie może użyć zagranicznego paszportu do uzyskania ESTA.",
+    "Ważny polski paszport potwierdza polskie obywatelstwo i tożsamość oraz uprawnia do przekraczania granicy zgodnie z polskimi przepisami."
+  ],
+  "effective_from": null,
+  "official_sources": [
+    "https://travel.state.gov/en/international-travel/planning/personal-needs/dual-nationality.html",
+    "https://www.gov.pl/web/usa/sprawy-paszportowe-informacje-ogolne"
+  ]
+}
