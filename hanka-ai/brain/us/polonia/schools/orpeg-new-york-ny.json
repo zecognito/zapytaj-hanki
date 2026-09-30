@@ -1,0 +1,38 @@
+{
+  "id": "polonia-school-orpeg-new-york-ny",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Szkoła Polska przy Konsulacie Generalnym RP w Nowym Jorku",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "129 North 1st Street",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11249",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": "nowyjork@orpeg.gov.pl",
+  "website": "https://nowyjork.orpeg.gov.pl",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish language",
+    "Polish history",
+    "Polish geography",
+    "Polish culture",
+    "supplementary education"
+  ],
+  "coverage_area": [
+    "NY"
+  ],
+  "notes": [
+    "School operated by ORPEG within the Polish diplomatic-school system."
+  ],
+  "official_source": "https://www.gov.pl/web/orpeg/szkoly-polskie",
+  "last_verified": "2026-09-30"
+}
