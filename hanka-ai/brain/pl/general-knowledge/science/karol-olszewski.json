@@ -1,0 +1,21 @@
+{
+  "id": "karol-olszewski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Karol Olszewski",
+  "facts": [
+    "Karol Olszewski był polskim fizykiem i chemikiem związanym z Uniwersytetem Jagiellońskim.",
+    "Wspólnie z Zygmuntem Wróblewskim dokonał w 1883 r. skroplenia tlenu i azotu w stanie statycznym.",
+    "Ich prace były ważnym etapem rozwoju fizyki niskich temperatur."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uj.edu.pl/"
+  ],
+  "related_public_pages": []
+}
