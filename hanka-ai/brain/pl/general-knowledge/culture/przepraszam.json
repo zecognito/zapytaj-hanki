@@ -1,0 +1,21 @@
+{
+  "id": "przepraszam",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "„Przepraszam”",
+  "facts": [
+    "„Przepraszam” może służyć do przeprosin, zwrócenia czyjejś uwagi lub grzecznego rozpoczęcia pytania.",
+    "Znaczenie zależy od kontekstu i intonacji.",
+    "Jest podstawową formą grzecznościową w polszczyźnie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/"
+  ],
+  "related_public_pages": []
+}
