@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polish-food-austin",
+  "country": "US",
+  "category": "store",
+  "name": "Polish Food Store",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "Austin area",
+    "city": "Austin",
+    "state": "TX",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish specialty foods",
+    "Polish community food retail"
+  ],
+  "coverage_area": [
+    "Austin",
+    "TX"
+  ],
+  "notes": [
+    "Polish-food relevance supported by current business or Polonia-community source. Incomplete location/contact fields are intentionally left null rather than inferred; reverification required."
+  ],
+  "official_source": "https://www.austinpolishsociety.org/",
+  "last_verified": "2026-09-30"
+}
