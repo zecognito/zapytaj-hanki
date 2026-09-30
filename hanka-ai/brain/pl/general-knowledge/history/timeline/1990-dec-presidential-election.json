@@ -1,0 +1,22 @@
+{
+  "id": "1990-dec-presidential-election",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1990 — pierwsze powszechne wybory prezydenckie",
+  "facts": [
+    "W listopadzie i grudniu 1990 r. odbyły się pierwsze w powojennej Polsce powszechne wybory prezydenckie.",
+    "W drugiej turze zwyciężył Lech Wałęsa.",
+    "22 grudnia 1990 r. objął urząd Prezydenta Rzeczypospolitej Polskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.senat.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
