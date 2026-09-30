@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-immigration-conditional-residence-i751",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "immigration",
+  "subtopic": "green_card",
+  "title": "Conditional permanent residence — Form I-751",
+  "facts": [
+    "Marriage-based conditional permanent resident zasadniczo używa Form I-751 do removal of conditions.",
+    "Przy standardowym joint filing I-751 należy zasadniczo złożyć w 90-day period bezpośrednio przed wygaśnięciem 2-year conditional status.",
+    "W określonych sytuacjach istnieją waiver grounds pozwalające złożyć I-751 bez wspólnego filing ze spouse.",
+    "Form I-90 nie służy do usuwania marriage-based conditions."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscis.gov/i-751"
+  ],
+  "related_public_pages": []
+}
