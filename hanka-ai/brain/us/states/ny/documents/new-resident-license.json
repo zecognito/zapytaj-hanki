@@ -1,0 +1,21 @@
+{
+  "id": "ny-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NY",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do New York",
+  "facts": [
+    "Osoba, która zostaje mieszkańcem New York i ma ważne prawo jazdy z innego stanu USA, musi wymienić je na New York driver license zgodnie z terminem i wymaganiami DMV.",
+    "Wymiana wymaga wizyty w DMV oraz dokumentów spełniających wymagania dotyczące identity i residency.",
+    "New York nie pozwala jednocześnie utrzymywać ważnego driver license wydanego przez więcej niż jeden stan."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dmv.ny.gov/driver-license/exchange-out-state-driver-license"
+  ],
+  "related_public_pages": []
+}
