@@ -1,0 +1,21 @@
+{
+  "id": "ny-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NY",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w stanie Nowy Jork",
+  "facts": [
+    "New York DMV wydaje REAL ID oraz Enhanced Driver License/ID jako dokumenty zgodne z federalnymi wymaganiami dotyczącymi identyfikacji.",
+    "REAL ID wymaga przedstawienia odpowiednich dokumentów potwierdzających tożsamość, Social Security status i miejsce zamieszkania w New York.",
+    "Standardowe prawo jazdy nadal może służyć do prowadzenia pojazdu, ale nie spełnia federalnego wymogu REAL ID do określonych zastosowań."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dmv.ny.gov/driver-license/federal-real-id"
+  ],
+  "related_public_pages": []
+}
