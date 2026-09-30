@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-jp2-poconos-pa",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła im. Jana Pawła II w Poconos",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1200 PA-390",
+    "city": "Cresco",
+    "state": "PA",
+    "postal_code": "18326",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 201 214 8335",
+  "email": "szkolapolskajp2poconos@gmail.com",
+  "website": "http://szkolapolskajp2github.io/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "PA"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; enrollment and current class offerings should be confirmed directly with the school."
+  ],
+  "official_source": "https://www.centralapolskichszkol.org/index.php/pennsylvania/",
+  "last_verified": "2026-09-30"
+}
