@@ -1,0 +1,21 @@
+{
+  "id": "zip-code-not-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "zip_code_geography",
+  "title": "ZIP Code nie jest granicą administracyjną",
+  "facts": [
+    "ZIP Codes są jednostkami administracyjnymi U.S. Postal Service służącymi obsłudze poczty.",
+    "Nie są granicami politycznymi ani Census Bureau i mogą przecinać granice miejscowości lub innych jednostek.",
+    "Census Bureau tworzy ZCTAs jako statystyczne przybliżenie obszarów ZIP Code; ZIP Code i ZCTA nie są tym samym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html"
+  ],
+  "related_public_pages": []
+}
