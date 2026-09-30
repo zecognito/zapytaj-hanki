@@ -1,0 +1,21 @@
+{
+  "id": "subway-metro-terms",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "transportation",
+  "subtopic": "transit",
+  "title": "Subway, metro i rapid transit",
+  "facts": [
+    "Subway jest powszechnym amerykańskim określeniem miejskiej kolei szybkiej, szczególnie gdy znaczna część systemu biegnie pod ziemią.",
+    "Poszczególne miasta używają własnych nazw, np. subway, Metro, L, MARTA lub BART.",
+    "Nie istnieje jedna ogólnokrajowa nazwa wszystkich miejskich systemów kolejowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.transit.dot.gov/regulations-and-guidance/research-innovation/transit-modes"
+  ],
+  "related_public_pages": []
+}
