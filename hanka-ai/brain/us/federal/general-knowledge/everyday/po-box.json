@@ -1,0 +1,21 @@
+{
+  "id": "po-box",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday",
+  "subtopic": "addresses",
+  "title": "Co to jest P.O. Box?",
+  "facts": [
+    "P.O. Box to zamykana skrytka pocztowa wynajmowana w placówce USPS.",
+    "Adres P.O. Box nie jest tym samym co fizyczny residential street address.",
+    "Nie każda usługa lub formularz akceptuje P.O. Box jako zamiennik physical address."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usps.com/manage/po-boxes.htm"
+  ],
+  "related_public_pages": []
+}
