@@ -1,0 +1,21 @@
+{
+  "id": "poland-physical-extremes",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Rysy, Wisła i Śniardwy",
+  "facts": [
+    "Rysy są najwyżej położonym punktem Polski; polski wierzchołek ma 2499 m n.p.m.",
+    "Wisła jest najdłuższą rzeką Polski i ma około 1022 km długości.",
+    "Śniardwy są największym jeziorem Polski pod względem powierzchni, a Hańcza jest najgłębszym jeziorem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5501/14/17/1/polska_w_liczbach_2024_pl_pi.pdf"
+  ],
+  "related_public_pages": []
+}
