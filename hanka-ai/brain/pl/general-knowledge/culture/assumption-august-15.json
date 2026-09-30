@@ -1,0 +1,22 @@
+{
+  "id": "assumption-august-15",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "holidays",
+  "title": "15 sierpnia w Polsce",
+  "facts": [
+    "15 sierpnia jest w Polsce dniem ustawowo wolnym od pracy jako święto Wniebowzięcia Najświętszej Maryi Panny.",
+    "Tego samego dnia obchodzone jest Święto Wojska Polskiego, związane historycznie z Bitwą Warszawską 1920 r.",
+    "Religijne i państwowe znaczenie tej samej daty należy rozróżniać."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina/dni-wolne-od-pracy",
+    "https://www.gov.pl/web/obrona-narodowa/swieto-wojska-polskiego"
+  ],
+  "related_public_pages": []
+}
