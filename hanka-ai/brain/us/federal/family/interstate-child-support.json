@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-family-interstate-child-support",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "family_children",
+  "subtopic": "child_support",
+  "title": "Interstate child support enforcement",
+  "facts": [
+    "Federal and uniform state-law systems support enforcement of child-support orders when parents live in different states.",
+    "A parent generally does not need a new support obligation merely because the other parent moves to another state; jurisdiction and modification rules determine which tribunal controls the order.",
+    "State child-support agencies can work across state lines to locate parents, establish obligations and enforce qualifying orders.",
+    "International child-support enforcement can involve separate treaty or reciprocal-country procedures."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.acf.hhs.gov/css/parents/how-does-child-support-work"
+  ],
+  "related_public_pages": []
+}
