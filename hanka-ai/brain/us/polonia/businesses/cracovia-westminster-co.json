@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-cracovia-westminster-co",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Cracovia Polish-American Restaurant & Bar",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "8121 W 94th Ave",
+    "city": "Westminster",
+    "state": "CO",
+    "postal_code": "80021",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 303-484-9388",
+  "email": null,
+  "website": "https://cracoviarestaurant.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Westminster",
+    "CO"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://cracoviarestaurant.com/",
+  "last_verified": "2026-09-30"
+}
