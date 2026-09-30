@@ -1,0 +1,21 @@
+{
+  "id": "ut-security_deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "UT",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w Utah",
+  "facts": [
+    "Stanowe przepisy określają zasady w tym obszarze.",
+    "Szczegóły zależą od konkretnej sytuacji i aktualnych wymagań.",
+    "Należy sprawdzić aktualne informacje właściwej agencji lub tekst prawa stanowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://le.utah.gov/xcode/Title57/Chapter17/57-17.html"
+  ],
+  "related_public_pages": []
+}
