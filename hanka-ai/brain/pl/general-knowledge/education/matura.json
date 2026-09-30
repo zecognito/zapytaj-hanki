@@ -1,0 +1,21 @@
+{
+  "id": "matura",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "system",
+  "title": "Matura",
+  "facts": [
+    "Egzamin maturalny jest zewnętrznym egzaminem kończącym określone typy szkół ponadpodstawowych i jest podstawowym egzaminem wykorzystywanym przy rekrutacji na studia w Polsce.",
+    "Egzamin obejmuje przedmioty obowiązkowe oraz przedmioty dodatkowe zgodnie z aktualnymi zasadami.",
+    "Centralna Komisja Egzaminacyjna publikuje wymagania, harmonogramy i wyniki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://cke.gov.pl/egzamin-maturalny/"
+  ],
+  "related_public_pages": []
+}
