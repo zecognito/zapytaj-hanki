@@ -1,0 +1,21 @@
+{
+  "id": "poland-school-system",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "system",
+  "title": "System szkolny w Polsce — podstawy",
+  "facts": [
+    "Polski system oświaty obejmuje wychowanie przedszkolne, ośmioletnią szkołę podstawową oraz szkoły ponadpodstawowe.",
+    "Do szkół ponadpodstawowych należą m.in. liceum ogólnokształcące, technikum i branżowe szkoły I i II stopnia.",
+    "Szczegółowe zasady, egzaminy i organizacja mogą się zmieniać, dlatego aktualne informacje należy sprawdzać w Ministerstwie Edukacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/edukacja/system-oswiaty-w-polsce"
+  ],
+  "related_public_pages": []
+}
