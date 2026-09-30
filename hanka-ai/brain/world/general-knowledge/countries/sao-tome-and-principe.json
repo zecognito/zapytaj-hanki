@@ -1,0 +1,21 @@
+{
+  "id": "country-sao-tome-and-principe",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Wyspy Świętego Tomasza i Książęca",
+  "facts": [
+    "Wyspy Świętego Tomasza i Książęca są niewielkim wyspiarskim państwem w Zatoce Gwinejskiej u zachodnich wybrzeży Afryki.",
+    "Stolicą jest São Tomé, językiem urzędowym portugalski, a walutą dobra.",
+    "Państwo składa się głównie z dwóch wulkanicznych wysp: São Tomé i Príncipe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/en/about-us/member-states/sao-tome-and-principe"
+  ],
+  "related_public_pages": []
+}
