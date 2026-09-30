@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-education-ferpa-directory-information",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "education",
+  "subtopic": "ferpa",
+  "title": "FERPA directory information",
+  "facts": [
+    "A school may designate certain information as directory information under FERPA, such as a student's name or other categories selected by the institution, if federal notice requirements are followed.",
+    "A school must give parents or eligible students notice and a reasonable period to opt out of disclosure of directory information.",
+    "Information that a school has not properly designated as directory information does not become freely disclosable merely because it seems non-sensitive."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://studentprivacy.ed.gov/faq/what-directory-information"
+  ],
+  "related_public_pages": []
+}
