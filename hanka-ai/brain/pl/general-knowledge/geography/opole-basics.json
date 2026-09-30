@@ -1,0 +1,21 @@
+{
+  "id": "opole-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Opole — podstawy",
+  "facts": [
+    "Opole jest stolicą województwa opolskiego i leży nad Odrą.",
+    "Miasto jest jednym z historycznych ośrodków Śląska.",
+    "Opole jest szeroko kojarzone z Krajowym Festiwalem Polskiej Piosenki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.opole.pl/"
+  ],
+  "related_public_pages": []
+}
