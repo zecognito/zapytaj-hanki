@@ -1,0 +1,21 @@
+{
+  "id": "ellis-island",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Ellis Island",
+  "facts": [
+    "Ellis Island w New York Harbor było główną federalną stacją imigracyjną w latach 1892–1954.",
+    "Miliony imigrantów przeszły przez Ellis Island, ale nie każdy imigrant do USA był tam przetwarzany.",
+    "Wyspa jest dziś częścią Statue of Liberty National Monument i mieści National Museum of Immigration."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/elis/learn/historyculture/index.htm"
+  ],
+  "related_public_pages": []
+}
