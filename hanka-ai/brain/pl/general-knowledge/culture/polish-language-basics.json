@@ -1,0 +1,21 @@
+{
+  "id": "polish-language-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "Język polski — podstawy",
+  "facts": [
+    "Język polski należy do zachodniosłowiańskiej grupy języków indoeuropejskich.",
+    "Polski używa alfabetu łacińskiego rozszerzonego o znaki: ą, ć, ę, ł, ń, ó, ś, ź i ż.",
+    "Język polski jest językiem urzędowym Rzeczypospolitej Polskiej zgodnie z Konstytucją."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sejm.gov.pl/prawo/konst/polski/1.htm"
+  ],
+  "related_public_pages": []
+}
