@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-konopnicka-brooklyn-ny",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła Dokształcająca im. Marii Konopnickiej",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "12 Newell Street",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11222",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 718 609 0557",
+  "email": "dbronchard@msn.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary school"
+  ],
+  "coverage_area": [
+    "NY"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; verify enrollment details directly with the school."
+  ],
+  "official_source": "https://archiwum.orpeg.gov.pl/db/web/database/entry/7253",
+  "last_verified": "2026-09-30"
+}
