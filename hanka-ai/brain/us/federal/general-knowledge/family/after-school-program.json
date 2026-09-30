@@ -1,0 +1,21 @@
+{
+  "id": "after-school-program",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "family",
+  "subtopic": "childcare_terms",
+  "title": "After-school program",
+  "facts": [
+    "After-school program to opieka, zajęcia lub program edukacyjny odbywający się po zakończeniu dnia szkolnego.",
+    "Program może być prowadzony przez school district, nonprofit, park district, childcare provider lub inną organizację.",
+    "Koszty, godziny, transport i wymagania enrollment zależą od konkretnego programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://childcare.gov/consumer-education/child-care-options"
+  ],
+  "related_public_pages": []
+}
