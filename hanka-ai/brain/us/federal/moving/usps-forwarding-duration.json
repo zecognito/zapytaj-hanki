@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-moving-usps-forwarding-duration",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "moving_life_admin",
+  "subtopic": "usps",
+  "title": "USPS mail forwarding duration",
+  "facts": [
+    "USPS generally forwards First-Class Mail, USPS Ground Advantage and Priority Mail for 12 months after a permanent Change of Address, subject to postal rules.",
+    "Periodicals are generally forwarded for 60 days.",
+    "USPS Marketing Mail generally is not forwarded unless the mailer has requested an applicable forwarding service.",
+    "Temporary forwarding and premium forwarding services follow different rules."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://faq.usps.com/s/article/Change-of-Address-The-Basics"
+  ],
+  "related_public_pages": []
+}
