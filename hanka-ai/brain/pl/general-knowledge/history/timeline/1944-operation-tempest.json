@@ -1,0 +1,23 @@
+{
+  "id": "1944-operation-tempest",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1944 — Akcja „Burza”",
+  "facts": [
+    "W 1944 r. Armia Krajowa realizowała Akcję „Burza” na terenach zajmowanych przez wycofujących się Niemców i nadchodzącą Armię Czerwoną.",
+    "Celem było występowanie wobec Sowietów w roli gospodarza i reprezentanta legalnego państwa polskiego.",
+    "W wielu miejscach po wspólnej walce z Niemcami sowieckie służby rozbrajały, aresztowały lub represjonowały żołnierzy AK."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://www.1944.pl/",
+    "https://polin.pl/"
+  ],
+  "related_public_pages": []
+}
