@@ -1,0 +1,22 @@
+{
+  "id": "il-income-tax-rate",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "taxes",
+  "subtopic": "income_tax_rate",
+  "title": "Illinois individual income tax rate",
+  "facts": [
+    "Illinois individual income tax is imposed at a flat 4.95% rate.",
+    "The 2026 Illinois withholding tax rate is 4.95%.",
+    "For tax year 2025, Form IL-1040 was due April 15, 2026."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tax.illinois.gov/research/taxrates/income.html",
+    "https://tax.illinois.gov/forms/withholding/currentyear/il-700-t-withholding-guide-tables.html"
+  ],
+  "related_public_pages": []
+}
