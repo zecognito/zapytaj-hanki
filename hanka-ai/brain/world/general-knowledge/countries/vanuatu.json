@@ -1,0 +1,21 @@
+{
+  "id": "country-vanuatu",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Vanuatu",
+  "facts": [
+    "Vanuatu jest państwem archipelagowym Melanezji na południowym Pacyfiku.",
+    "Stolicą jest Port Vila; bislama, angielski i francuski są językami urzędowymi, a walutą vatu.",
+    "Vanuatu jest republiką, a jego wyspy są pochodzenia wulkanicznego i leżą w aktywnym sejsmicznie regionie Pacyfiku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.vu/"
+  ],
+  "related_public_pages": []
+}
