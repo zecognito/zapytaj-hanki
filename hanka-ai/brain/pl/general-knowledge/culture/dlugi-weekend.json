@@ -1,0 +1,21 @@
+{
+  "id": "dlugi-weekend",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language-and-everyday-concepts",
+  "title": "Długi weekend",
+  "facts": [
+    "„Długi weekend” to potoczne określenie kilku kolejnych dni wolnych powstałych przez połączenie weekendu ze świętem i ewentualnym urlopem.",
+    "W Polsce szczególnie kojarzy się z majówką, Bożym Ciałem i innymi świętami przypadającymi blisko weekendu.",
+    "Nie jest to formalna kategoria prawa pracy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
