@@ -1,0 +1,21 @@
+{
+  "id": "country-azerbaijan",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Azerbejdżan",
+  "facts": [
+    "Azerbejdżan leży na Kaukazie Południowym nad Morzem Kaspijskim, a jego stolicą jest Baku.",
+    "Językiem państwowym jest azerski, a walutą manat.",
+    "Azerbejdżan jest republiką i ważnym producentem ropy naftowej oraz gazu ziemnego regionu kaspijskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://azerbaijan.az/en"
+  ],
+  "related_public_pages": []
+}
