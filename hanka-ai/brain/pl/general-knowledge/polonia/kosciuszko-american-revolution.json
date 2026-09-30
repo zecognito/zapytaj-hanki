@@ -1,0 +1,21 @@
+{
+  "id": "kosciuszko-american-revolution",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL-US",
+  "topic": "polonia",
+  "subtopic": "polish_american_history",
+  "title": "Kościuszko w rewolucji amerykańskiej",
+  "facts": [
+    "Tadeusz Kościuszko służył po stronie amerykańskiej podczas wojny o niepodległość Stanów Zjednoczonych.",
+    "Jako inżynier wojskowy pracował m.in. przy fortyfikacjach West Point.",
+    "Po powrocie do Europy został później przywódcą insurekcji kościuszkowskiej w 1794 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/articles/000/thaddeus-kosciuszko.htm"
+  ],
+  "related_public_pages": []
+}
