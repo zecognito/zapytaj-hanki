@@ -1,0 +1,34 @@
+{
+  "id": "polonia-org-paderewski-symphony",
+  "country": "US",
+  "category": "cultural_center",
+  "name": "Paderewski Symphony Orchestra",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish music, concerts and cultural education"
+  ],
+  "coverage_area": [
+    "US"
+  ],
+  "notes": [
+    "Listed by the Embassy of the Republic of Poland among Polish institutions operating in the United States; current programs and contacts should be periodically refreshed."
+  ],
+  "official_source": "https://www.gov.pl/web/usa/relacje-dwustronne",
+  "last_verified": "2026-09-30"
+}
