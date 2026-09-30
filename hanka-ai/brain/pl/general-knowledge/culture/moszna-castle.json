@@ -1,0 +1,21 @@
+{
+  "id": "moszna-castle",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Pałac w Mosznej",
+  "facts": [
+    "Pałac w Mosznej w województwie opolskim jest znany z eklektycznej architektury i licznych wież oraz wieżyczek.",
+    "Dzisiejszy wygląd kompleksu ukształtował się głównie na przełomie XIX i XX wieku.",
+    "Obiekt jest popularną atrakcją turystyczną regionu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.opolskie.pl/"
+  ],
+  "related_public_pages": []
+}
