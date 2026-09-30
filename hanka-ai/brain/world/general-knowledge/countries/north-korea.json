@@ -1,0 +1,21 @@
+{
+  "id": "country-north-korea",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Korea Północna",
+  "facts": [
+    "Koreańska Republika Ludowo-Demokratyczna, powszechnie nazywana Koreą Północną, zajmuje północną część Półwyspu Koreańskiego.",
+    "Stolicą jest Pjongjang, głównym językiem koreański, a walutą won północnokoreański.",
+    "Korea Północna ma wysoce scentralizowany system polityczny i rozwinęła program broni jądrowej będący przedmiotem sankcji Rady Bezpieczeństwa ONZ."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/securitycouncil/sanctions/1718"
+  ],
+  "related_public_pages": []
+}
