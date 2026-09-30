@@ -1,0 +1,21 @@
+{
+  "id": "country-guyana",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Gujana",
+  "facts": [
+    "Gujana leży na północnym wybrzeżu Ameryki Południowej, a jej stolicą jest Georgetown.",
+    "Językiem urzędowym jest angielski, co wyróżnia Gujanę na tle kontynentalnej Ameryki Południowej, a walutą dolar gujański.",
+    "Gujana jest republiką i członkiem CARICOM; w XXI wieku jej gospodarka szybko zmieniła się wskutek rozwoju wydobycia ropy naftowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://parliament.gov.gy/constitution/"
+  ],
+  "related_public_pages": []
+}
