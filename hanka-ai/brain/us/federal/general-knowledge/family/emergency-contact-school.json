@@ -1,0 +1,21 @@
+{
+  "id": "emergency-contact-school",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "family",
+  "subtopic": "school_terms",
+  "title": "Emergency contact w szkole",
+  "facts": [
+    "Szkoły i childcare programs zwykle proszą rodziców lub guardians o podanie emergency contacts.",
+    "Emergency contact to osoba, z którą placówka może skontaktować się w nagłej sytuacji zgodnie z lokalnymi procedurami.",
+    "Podanie osoby jako emergency contact nie nadaje jej automatycznie praw legal guardian."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ed.gov/laws-and-policy/laws-preschool-grade-12-education/preschool-grade-12-policy-documents"
+  ],
+  "related_public_pages": []
+}
