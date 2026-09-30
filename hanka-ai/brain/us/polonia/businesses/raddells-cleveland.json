@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-raddells-cleveland",
+  "country": "US",
+  "category": "bakery",
+  "name": "Raddell's Sausage Shop",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "478 E 152nd St",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44110",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 216-481-2138",
+  "email": null,
+  "website": "https://raddellssausage.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish bakery",
+    "Polish meats and foods"
+  ],
+  "coverage_area": [
+    "Cleveland",
+    "OH"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://raddellssausage.com/",
+  "last_verified": "2026-09-30"
+}
