@@ -1,0 +1,21 @@
+{
+  "id": "country-south-africa",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Republika Południowej Afryki",
+  "facts": [
+    "Republika Południowej Afryki leży na południowym krańcu kontynentu afrykańskiego.",
+    "Państwo ma trzy stolice pełniące różne funkcje: Pretorię administracyjną, Kapsztad ustawodawczą i Bloemfontein sądowniczą.",
+    "RPA ma wiele języków urzędowych, a walutą jest rand."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.za/about-sa"
+  ],
+  "related_public_pages": []
+}
