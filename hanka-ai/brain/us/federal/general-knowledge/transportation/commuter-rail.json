@@ -1,0 +1,21 @@
+{
+  "id": "commuter-rail",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "transportation",
+  "subtopic": "transit",
+  "title": "Co to jest commuter rail?",
+  "facts": [
+    "Commuter rail przewozi pasażerów między centralnym miastem a przedmieściami lub innymi częściami regionu, często na dłuższych dystansach niż subway.",
+    "Typowy commuter rail ma mniej przystanków i inną charakterystykę usług niż urban rapid transit.",
+    "Przykłady systemów różnią się regionalnie; definicje transportowe publikuje Federal Transit Administration."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.transit.dot.gov/ntd/national-transit-database-ntd-glossary"
+  ],
+  "related_public_pages": []
+}
