@@ -1,0 +1,21 @@
+{
+  "id": "ceidg-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "business",
+  "title": "CEIDG",
+  "facts": [
+    "Centralna Ewidencja i Informacja o Działalności Gospodarczej (CEIDG) jest elektronicznym rejestrem przedsiębiorców będących osobami fizycznymi w Polsce.",
+    "CEIDG umożliwia m.in. wyszukiwanie wpisów oraz załatwianie spraw związanych z działalnością gospodarczą.",
+    "CEIDG i KRS obejmują różne kategorie podmiotów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.biznes.gov.pl/pl/portal/00115"
+  ],
+  "related_public_pages": []
+}
