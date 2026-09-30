@@ -1,0 +1,21 @@
+{
+  "id": "krrit",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "national-institutions",
+  "title": "Krajowa Rada Radiofonii i Telewizji — KRRiT",
+  "facts": [
+    "KRRiT jest konstytucyjnym organem stojącym na straży wolności słowa, prawa do informacji oraz interesu publicznego w radiofonii i telewizji.",
+    "Wykonuje zadania regulacyjne określone ustawą, m.in. związane z rynkiem nadawców.",
+    "Nie należy utożsamiać KRRiT z konkretnym nadawcą takim jak TVP czy Polskie Radio."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/krrit"
+  ],
+  "related_public_pages": []
+}
