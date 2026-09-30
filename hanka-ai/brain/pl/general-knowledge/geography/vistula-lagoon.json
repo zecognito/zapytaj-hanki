@@ -1,0 +1,21 @@
+{
+  "id": "vistula-lagoon",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "coast",
+  "title": "Zalew Wiślany",
+  "facts": [
+    "Zalew Wiślany jest płytkim akwenem przybrzeżnym oddzielonym od Morza Bałtyckiego Mierzeją Wiślaną.",
+    "Akwen jest podzielony między Polskę i Rosję.",
+    "Polska część ma połączenie z Zatoką Gdańską przez przekop Mierzei Wiślanej i system drogi wodnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/infrastruktura"
+  ],
+  "related_public_pages": []
+}
