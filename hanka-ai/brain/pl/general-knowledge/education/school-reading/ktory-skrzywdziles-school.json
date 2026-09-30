@@ -1,0 +1,21 @@
+{
+  "id": "ktory-skrzywdziles-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Który skrzywdziłeś — Czesław Miłosz",
+  "facts": [
+    "Który skrzywdziłeś, autor: Czesław Miłosz; tekst szkolnego kanonu z obszaru: poezja XX wieku.",
+    "Wiersz skierowany przeciw władcy krzywdzącemu zwykłych ludzi; podkreśla rolę poety i pamięci wobec przemocy władzy.",
+    "Hanka powinna znać kontekst utworu, jego główne motywy, problematykę oraz najważniejsze szkolne tropy interpretacyjne."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
