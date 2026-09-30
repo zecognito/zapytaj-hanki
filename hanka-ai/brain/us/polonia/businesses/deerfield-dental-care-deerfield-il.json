@@ -1,0 +1,33 @@
+{
+  "id": "polonia-prof-dentist-deerfield-il",
+  "country": "US",
+  "category": "dentist",
+  "name": "Deerfield Dental Care",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Deerfield",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es",
+    "ro"
+  ],
+  "services": [
+    "general dentistry",
+    "family dentistry"
+  ],
+  "phone": "+1 847-444-1111",
+  "email": "info@deerfielddentalcare.com",
+  "website": "https://www.deerfielddentalcare.com/",
+  "official_source": "https://www.deerfielddentalcare.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official practice site explicitly states Mowimy po Polsku. Street address withheld pending first-party confirmation."
+  ]
+}
