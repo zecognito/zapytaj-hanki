@@ -1,0 +1,21 @@
+{
+  "id": "ks-auto_insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "KS",
+  "topic": "vehicles",
+  "subtopic": "auto_insurance",
+  "title": "Ubezpieczenie samochodu w Kansas",
+  "facts": [
+    "Właściciel lub kierowca musi spełniać stanowe wymagania auto insurance lub financial responsibility.",
+    "Wymagane coverage określa prawo stanowe.",
+    "Brak wymaganego coverage może prowadzić do konsekwencji administracyjnych lub prawnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://insurance.kansas.gov/auto-insurance/"
+  ],
+  "related_public_pages": []
+}
