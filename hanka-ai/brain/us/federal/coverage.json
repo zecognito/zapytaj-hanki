@@ -7,7 +7,7 @@
     {
       "id": "taxes",
       "label": "Podatki federalne / IRS",
-      "status": "planned",
+      "status": "started",
       "subtopics": [
         "filing_status",
         "standard_deduction",
@@ -18,6 +18,12 @@
         "deadlines",
         "refunds",
         "irs_transcripts"
+      ],
+      "completed_subtopics": [
+        "standard_deduction",
+        "tax_brackets",
+        "child_tax_credit",
+        "self_employment_tax"
       ]
     },
     {
