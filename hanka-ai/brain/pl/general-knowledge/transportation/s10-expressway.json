@@ -1,0 +1,21 @@
+{
+  "id": "s10-expressway",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Droga ekspresowa S10",
+  "facts": [
+    "S10 jest rozwijaną drogą ekspresową biegnącą przez północną część Polski.",
+    "Docelowy korytarz ma łączyć Szczecin przez Piłę i Bydgoszcz z rejonem Torunia i siecią dróg centralnej Polski.",
+    "Trasa ma poprawić połączenia Pomorza Zachodniego z Kujawami i centralną częścią kraju."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
