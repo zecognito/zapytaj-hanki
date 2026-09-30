@@ -1,0 +1,21 @@
+{
+  "id": "largest-us-cities-2025",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "population",
+  "subtopic": "largest_cities",
+  "title": "Największe miasta USA — 2025",
+  "facts": [
+    "Według Vintage 2025 Population Estimates największym miastem USA był New York City z 8 584 629 mieszkańcami.",
+    "Kolejne były Los Angeles 3 869 089, Chicago 2 731 585, Houston 2 397 315 i Phoenix 1 665 481.",
+    "Ranking dotyczy ludności city/place, a nie całych obszarów metropolitalnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/newsroom/press-releases/2026/vintage-2025-city-town-pop-estimates.html"
+  ],
+  "related_public_pages": []
+}
