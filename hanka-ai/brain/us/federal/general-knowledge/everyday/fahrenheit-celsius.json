@@ -1,0 +1,21 @@
+{
+  "id": "fahrenheit-celsius",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "measurements",
+  "subtopic": "temperature",
+  "title": "Fahrenheit a Celsius",
+  "facts": [
+    "W codziennych prognozach pogody w USA temperatura jest zwykle podawana w stopniach Fahrenheit.",
+    "32°F odpowiada 0°C, a 212°F odpowiada 100°C przy standardowym ciśnieniu.",
+    "Przeliczenie: °C = (°F − 32) × 5/9; °F = °C × 9/5 + 32."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.weather.gov/epz/wxcalc_tempconvert"
+  ],
+  "related_public_pages": []
+}
