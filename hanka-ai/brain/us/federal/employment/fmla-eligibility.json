@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-employment-fmla-eligibility",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "fmla",
+  "title": "FMLA — eligibility i covered employers",
+  "facts": [
+    "Eligible employee zasadniczo musi pracować dla covered employer przez co najmniej 12 miesięcy, mieć co najmniej 1,250 hours of service w 12 miesiącach przed leave i pracować w miejscu, gdzie employer ma co najmniej 50 employees within 75 miles.",
+    "Private-sector employer jest zasadniczo covered, jeśli zatrudnia co najmniej 50 employees przez co najmniej 20 workweeks w bieżącym lub poprzednim calendar year.",
+    "Public agencies oraz public/private elementary i secondary schools podlegają specjalnym coverage rules niezależnie od standardowego progu 50 pracowników.",
+    "12 miesięcy zatrudnienia nie zawsze musi być consecutive."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/whd/fmla",
+    "https://www.dol.gov/agencies/whd/fmla/faq"
+  ],
+  "related_public_pages": []
+}
