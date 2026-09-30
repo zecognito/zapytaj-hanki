@@ -1,0 +1,36 @@
+{
+  "id": "polonia-gov-honorary-seattle-wa",
+  "country": "US",
+  "category": "consulate_honorary",
+  "name": "Honorary Consulate of the Republic of Poland in Seattle",
+  "aliases": [
+    "Konsulat Honorowy RP w Seattle"
+  ],
+  "status": "active",
+  "location": {
+    "address": "3907 47th Avenue NE",
+    "city": "Seattle",
+    "state": "WA",
+    "postal_code": "98105",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 206 948 8064",
+  "email": "polishconsulseattle@outlook.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "honorary consular representation"
+  ],
+  "coverage_area": [
+    "WA"
+  ],
+  "notes": [
+    "Honorary consul: Teresa Indelak Davis"
+  ],
+  "official_source": "https://www.gov.pl/web/usa/konsulaty-honorowe",
+  "last_verified": "2026-09-30"
+}
