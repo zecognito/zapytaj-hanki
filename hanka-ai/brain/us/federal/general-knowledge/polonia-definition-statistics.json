@@ -1,0 +1,22 @@
+{
+  "id": "polonia-definition-statistics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "demographics",
+  "subtopic": "population_definition",
+  "title": "Co znaczy „ilu Polaków mieszka” w statystykach?",
+  "facts": [
+    "Pytanie „ilu Polaków mieszka w USA” nie ma jednej uniwersalnej definicji statystycznej.",
+    "Można liczyć m.in. osoby deklarujące Polish ancestry, osoby urodzone w Polsce, obywateli Polski albo osoby mówiące po polsku w domu; wyniki tych kategorii są różne.",
+    "Hanka powinna nazwać używaną definicję i źródło zamiast przedstawiać różne miary jako tę samą populację."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://data.census.gov/table/ACSDT1Y2024.C04006?g=010XX00US&t=Ancestry",
+    "https://stat.gov.pl/obszary-tematyczne/ludnosc/migracje-zagraniczne-ludnosci/informacja-o-rozmiarach-i-kierunkach-czasowej-emigracji-z-polski-w-latach-2020-2025%2C18%2C4.html"
+  ],
+  "related_public_pages": []
+}
