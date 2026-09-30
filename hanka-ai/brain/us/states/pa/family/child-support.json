@@ -1,0 +1,21 @@
+{
+  "id": "pa-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "PA",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Pensylwanii",
+  "facts": [
+    "Pennsylvania child support system pomaga ustalać paternity/parentage, support orders i egzekwować płatności.",
+    "Sprawy są prowadzone przez county Domestic Relations Sections przy wsparciu stanowego systemu.",
+    "Wysokość support jest ustalana zgodnie z Pennsylvania support guidelines i faktami konkretnej sprawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.humanservices.dhs.pa.gov/csws/"
+  ],
+  "related_public_pages": []
+}
