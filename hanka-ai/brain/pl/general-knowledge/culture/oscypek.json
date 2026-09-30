@@ -1,0 +1,21 @@
+{
+  "id": "oscypek",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Oscypek",
+  "facts": [
+    "Oscypek jest tradycyjnym wędzonym serem związanym z Podhalem i pasterstwem owczym.",
+    "Nazwa „Oscypek” jest chroniona w Unii Europejskiej jako Protected Designation of Origin i może być używana dla produktu spełniającego określoną specyfikację.",
+    "Nie każdy wędzony ser sprzedawany w górach jest prawnie Oscypkiem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-food-and-drink_en"
+  ],
+  "related_public_pages": []
+}
