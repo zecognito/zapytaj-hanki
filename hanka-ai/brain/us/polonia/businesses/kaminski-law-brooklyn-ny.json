@@ -1,0 +1,33 @@
+{
+  "id": "polonia-prof-law-kaminski-brooklyn-ny",
+  "country": "US",
+  "category": "lawyer",
+  "name": "Kancelaria Adwokacka Andrzej Kamiński",
+  "status": "active",
+  "location": {
+    "address": "110 Greenpoint Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11222",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "workers compensation",
+    "personal injury",
+    "car accidents",
+    "9/11 Victim Compensation Fund matters"
+  ],
+  "phone": "+1 718-389-0450",
+  "email": null,
+  "website": "https://kaminskilawfirm.com/",
+  "official_source": "https://kaminskilawfirm.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official firm site explicitly advertises Polish-language service and NY/NJ representation from its Greenpoint office."
+  ]
+}
