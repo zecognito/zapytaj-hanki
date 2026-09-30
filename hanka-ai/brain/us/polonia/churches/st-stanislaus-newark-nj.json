@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-stanislaus-newark-nj",
+  "country": "US",
+  "category": "church",
+  "name": "St. Stanislaus Bishop and Martyr Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "146 Irvine Turner Blvd",
+    "city": "Newark",
+    "state": "NJ",
+    "postal_code": "07103",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 973 642 4362",
+  "email": null,
+  "website": "https://www.ststanislausnewark.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "NJ"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://www.ststanislausnewark.org",
+  "last_verified": "2026-09-30"
+}
