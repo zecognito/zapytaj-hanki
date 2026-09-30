@@ -1,0 +1,21 @@
+{
+  "id": "grade-levels",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "education",
+  "subtopic": "school_terms",
+  "title": "Grades w amerykańskiej szkole",
+  "facts": [
+    "K-12 oznacza edukację od kindergarten do 12th grade.",
+    "Numer grade opisuje poziom szkolny, a nie ocenę ucznia.",
+    "Podział na elementary, middle/junior high i high school różni się między school districts."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://nces.ed.gov/programs/digest/d20/tables/dt20_203.10.asp"
+  ],
+  "related_public_pages": []
+}
