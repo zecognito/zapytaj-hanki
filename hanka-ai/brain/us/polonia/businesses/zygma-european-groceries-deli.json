@@ -6,14 +6,14 @@
   "aliases": [],
   "status": "active",
   "location": {
-    "address": null,
-    "city": null,
+    "address": "4317 Abbotts Bridge Rd",
+    "city": "Duluth",
     "state": "GA",
-    "postal_code": null,
+    "postal_code": "30097",
     "latitude": null,
     "longitude": null
   },
-  "phone": null,
+  "phone": "+1 678-205-2167",
   "email": null,
   "website": "https://zygmapolishdeli.com/",
   "languages": [
@@ -31,7 +31,7 @@
     "GA"
   ],
   "notes": [
-    "Polish-food relevance supported by current official business or Polonia/local source. Commercial status and details remain freshness-sensitive."
+    "Audited 2026-09-30: official business site/current business evidence identifies Zygma as a Polish deli and grocery in Duluth, Georgia; prior record lacked city and street address."
   ],
   "official_source": "https://zygmapolishdeli.com/",
   "last_verified": "2026-09-30"
