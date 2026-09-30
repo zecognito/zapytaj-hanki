@@ -1,0 +1,31 @@
+{
+  "id": "polonia-prof-dentist-dentalmax-il",
+  "country": "US",
+  "category": "dentist",
+  "name": "DentalMax, P.C. - Dr. Ernest S. Opiola",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Chicago area",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "general dentistry",
+    "Invisalign"
+  ],
+  "phone": "+1 630-686-2434",
+  "email": null,
+  "website": "https://www.dentalmaxdds.com/",
+  "official_source": "https://www.dentalmaxdds.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official practice site explicitly states Mówimy po polsku. Street location withheld pending first-party confirmation."
+  ]
+}
