@@ -1,0 +1,33 @@
+{
+  "id": "polonia-prof-law-teper-hamilton-nj",
+  "country": "US",
+  "category": "lawyer",
+  "name": "Teper Law Firm LLC",
+  "status": "active",
+  "location": {
+    "address": "1544 Kuser Road, Suite C-2",
+    "city": "Hamilton Township",
+    "state": "NJ",
+    "postal_code": "08619",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es"
+  ],
+  "services": [
+    "family law",
+    "immigration law",
+    "legal representation"
+  ],
+  "phone": "+1 609-737-3030",
+  "email": "contact@teperlaw.com",
+  "website": "https://www.teperlaw.com/",
+  "official_source": "https://www.teperlaw.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official firm site explicitly states Mówimy Po Polsku and provides current Hamilton Township office details."
+  ]
+}
