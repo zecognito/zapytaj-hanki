@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-social-security-survivor-benefits-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "social_security",
+  "subtopic": "survivor_benefits",
+  "title": "Social Security survivor benefits — podstawy",
+  "facts": [
+    "Survivor benefits mogą być dostępne dla kwalifikujących się surviving spouses, divorced spouses, children i w pewnych przypadkach dependent parents.",
+    "Surviving spouse może zasadniczo rozpocząć survivor benefits od wieku 60 lat albo od 50 lat przy qualifying disability.",
+    "Surviving spouse opiekujący się child zmarłego, który ma mniej niż 16 lat lub disability i otrzymuje benefits na record zmarłego, może kwalifikować się niezależnie od wieku.",
+    "Uprawnione dziecko może zasadniczo otrzymywać survivor benefits, jeśli jest niezamężne i ma mniej niż 18 lat, do 19 lat i 2 miesięcy jako full-time K-12 student, albo ma qualifying disability rozpoczętą przed 22 rokiem życia.",
+    "Dokładna kwota survivor benefit zależy m.in. od earnings record zmarłego i wieku/statusu osoby uprawnionej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/survivor"
+  ],
+  "related_public_pages": []
+}
