@@ -1,0 +1,21 @@
+{
+  "id": "barszcz-czerwony",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Barszcz czerwony",
+  "facts": [
+    "Barszcz czerwony jest zupą na bazie buraków występującą w wielu odmianach kuchni polskiej.",
+    "Może być podawany czysty, z uszkami, ziemniakami lub innymi dodatkami zależnie od regionu i okazji.",
+    "Czysty barszcz z uszkami jest szczególnie kojarzony z kolacją wigilijną w wielu polskich rodzinach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101-barszcz"
+  ],
+  "related_public_pages": []
+}
