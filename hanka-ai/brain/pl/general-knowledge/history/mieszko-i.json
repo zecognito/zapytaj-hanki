@@ -1,0 +1,21 @@
+{
+  "id": "mieszko-i",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "rulers",
+  "title": "Mieszko I",
+  "facts": [
+    "Mieszko I był władcą państwa Piastów w X wieku i jest pierwszym historycznie poświadczonym władcą Polski.",
+    "Jego chrzest w 966 r. jest tradycyjnie traktowany jako symboliczny początek chrystianizacji państwa polskiego.",
+    "Mieszko I nie był koronowanym królem Polski; nosił władzę książęcą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/a/panowanie-mieszka-i/DnCMOhDRJ"
+  ],
+  "related_public_pages": []
+}
