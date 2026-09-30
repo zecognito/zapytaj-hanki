@@ -1,0 +1,21 @@
+{
+  "id": "s5-expressway",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Droga ekspresowa S5",
+  "facts": [
+    "S5 jest ważną drogą ekspresową zachodniej i centralnej Polski.",
+    "Łączy m.in. Wrocław, Poznań i Bydgoszcz, tworząc szybkie połączenie między Dolnym Śląskiem, Wielkopolską i Kujawami.",
+    "Trasa krzyżuje się z innymi głównymi korytarzami drogowymi, w tym A2 i A4."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
