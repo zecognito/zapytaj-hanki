@@ -1,0 +1,21 @@
+{
+  "id": "nm-fair_housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NM",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Fair housing w New Mexico",
+  "facts": [
+    "Prawo stanowe określa wymagania i procedurę w tym obszarze.",
+    "Szczegóły zależą od sytuacji osoby i aktualnych przepisów.",
+    "Aktualne wymagania należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dws.state.nm.us/Fair-Housing"
+  ],
+  "related_public_pages": []
+}
