@@ -1,0 +1,24 @@
+{
+  "id": "us-federal-employment-fmla-leave-protections",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "fmla",
+  "title": "FMLA — leave i ochrona pracy",
+  "facts": [
+    "Eligible employees mogą zasadniczo otrzymać do 12 workweeks job-protected FMLA leave w odpowiednim 12-month period z kwalifikujących family i medical reasons.",
+    "Dla opieki nad covered servicemember z qualifying serious injury or illness uprawniony pracownik może otrzymać do 26 workweeks military caregiver leave w jednym 12-month period.",
+    "Podczas FMLA employer musi zasadniczo kontynuować group health benefits na takich samych warunkach jak gdyby pracownik nadal pracował.",
+    "Po FMLA pracownik zasadniczo ma prawo wrócić na to samo lub virtually identical stanowisko, z określonymi wyjątkami.",
+    "FMLA leave może być unpaid, choć w określonych sytuacjach może działać równocześnie z employer-provided paid leave."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/whd/fact-sheets/28-fmla",
+    "https://www.dol.gov/agencies/whd/fact-sheets/28a-fmla-employee-protections"
+  ],
+  "related_public_pages": []
+}
