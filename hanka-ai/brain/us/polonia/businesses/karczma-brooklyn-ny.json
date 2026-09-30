@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-karczma-brooklyn-ny",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Karczma Polish Restaurant",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "136 Greenpoint Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11222",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 718-349-1744",
+  "email": null,
+  "website": "https://karczmabrooklyn.com/en/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Brooklyn",
+    "NY"
+  ],
+  "notes": [
+    "Commercial directory record. Business status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://karczmabrooklyn.com/en/",
+  "last_verified": "2026-09-30"
+}
