@@ -1,0 +1,21 @@
+{
+  "id": "lublin-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Lublin — podstawy",
+  "facts": [
+    "Lublin jest stolicą województwa lubelskiego i największym dużym ośrodkiem miejskim wschodniej Polski.",
+    "Miasto ma długą historię wielokulturową i było miejscem zawarcia unii lubelskiej w 1569 r.",
+    "Lublin jest ważnym ośrodkiem akademickim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://lublin.eu/"
+  ],
+  "related_public_pages": []
+}
