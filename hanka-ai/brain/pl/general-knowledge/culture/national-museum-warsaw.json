@@ -1,0 +1,21 @@
+{
+  "id": "national-museum-warsaw",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "museums",
+  "title": "Muzeum Narodowe w Warszawie",
+  "facts": [
+    "Muzeum Narodowe w Warszawie jest jednym z największych muzeów sztuki w Polsce.",
+    "Jego kolekcje obejmują m.in. sztukę starożytną, średniowieczną, polskie malarstwo i sztukę europejską.",
+    "Do najbardziej znanych dzieł w zbiorach należy „Bitwa pod Grunwaldem” Jana Matejki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mnw.art.pl/"
+  ],
+  "related_public_pages": []
+}
