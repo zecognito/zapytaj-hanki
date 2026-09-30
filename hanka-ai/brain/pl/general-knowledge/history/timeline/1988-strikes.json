@@ -1,0 +1,22 @@
+{
+  "id": "1988-strikes",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1988 — fale strajków",
+  "facts": [
+    "Wiosną i latem 1988 r. w Polsce wybuchły kolejne fale strajków w zakładach pracy.",
+    "Protestujący domagali się m.in. poprawy sytuacji ekonomicznej i ponownej legalizacji Solidarności.",
+    "Strajki przyczyniły się do rozpoczęcia rozmów między władzami a opozycją."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
