@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-jp2-shrine-salem-ma",
+  "country": "US",
+  "category": "church",
+  "name": "St. John Paul II Shrine of Divine Mercy",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "28 St. Peter St",
+    "city": "Salem",
+    "state": "MA",
+    "postal_code": "01970",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 978 744 1278",
+  "email": null,
+  "website": "https://www.jpiidivinemercyshrine.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "MA"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish source."
+  ],
+  "official_source": "https://www.jpiidivinemercyshrine.org/",
+  "last_verified": "2026-09-30"
+}
