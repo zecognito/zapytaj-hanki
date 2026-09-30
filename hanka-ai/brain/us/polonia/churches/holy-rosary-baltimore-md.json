@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-holy-rosary-baltimore-md",
+  "country": "US",
+  "category": "church",
+  "name": "Holy Rosary Parish - Archdiocesan Shrine of the Divine Mercy",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "408 S Chester St",
+    "city": "Baltimore",
+    "state": "MD",
+    "postal_code": "21231",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 410 732 3960",
+  "email": null,
+  "website": "https://holyrosarypl.com/en/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "MD"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify current times on the official parish or diocesan source."
+  ],
+  "official_source": "https://www.archbalt.org/parishes/all-parishes/holy-rosary/",
+  "last_verified": "2026-09-30"
+}
