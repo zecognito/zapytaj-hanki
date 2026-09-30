@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-pierozek-brooklyn",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Pierozek",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "592 Manhattan Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11222",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 718-576-3866",
+  "email": null,
+  "website": "https://www.pierozek.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Brooklyn",
+    "NY"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://www.pierozek.com/",
+  "last_verified": "2026-09-30"
+}
