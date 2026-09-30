@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-moving-state-tax-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "moving_life_admin",
+  "subtopic": "interstate_move",
+  "title": "Moving between states - income tax boundary",
+  "facts": [
+    "Federal income-tax filing continues under federal rules when a person moves between states, but state income-tax residency and part-year filing obligations depend on the states involved.",
+    "A move can require part-year resident returns in one or more states and nonresident returns when income continues to arise in another state.",
+    "Changing a mailing address does not by itself determine tax domicile or residency.",
+    "Hanka should identify the old state, new state, move date and relevant income sources before giving a state-tax filing conclusion."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/state-taxes"
+  ],
+  "related_public_pages": []
+}
