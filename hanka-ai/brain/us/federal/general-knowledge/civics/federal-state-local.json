@@ -1,0 +1,21 @@
+{
+  "id": "federal-state-local",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "civics",
+  "subtopic": "federalism",
+  "title": "Federal, state i local government",
+  "facts": [
+    "USA mają system federalny: istnieje rząd federalny oraz odrębne rządy stanowe.",
+    "Władze lokalne obejmują różne jednostki, np. counties, cities, towns i inne formy zależne od prawa stanowego.",
+    "Zakres kompetencji federalnych, stanowych i lokalnych różni się; dlatego DMV, szkoły, property tax i wiele usług nie są prowadzone przez jeden krajowy urząd."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/state-local-governments"
+  ],
+  "related_public_pages": []
+}
