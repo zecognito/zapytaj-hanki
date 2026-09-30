@@ -1,0 +1,21 @@
+{
+  "id": "dc-minimum_wage",
+  "country": "US",
+  "jurisdiction": "district",
+  "region": "DC",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna — Washington, DC",
+  "facts": [
+    "Jurysdykcja ma własne zasady dotyczące tego obszaru podatkowego lub płacowego.",
+    "Wymagania i stawki mogą zmieniać się wraz z rokiem podatkowym lub kalendarzowym.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle jurysdykcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://oag.dc.gov/worker-rights/wage-and-hour-laws"
+  ],
+  "related_public_pages": []
+}
