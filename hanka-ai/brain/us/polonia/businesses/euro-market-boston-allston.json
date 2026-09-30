@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-euro-market-boston-allston",
+  "country": "US",
+  "category": "store",
+  "name": "Bazaar on Cambridge",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "424 Cambridge St",
+    "city": "Allston",
+    "state": "MA",
+    "postal_code": "02134",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 617-787-1511",
+  "email": null,
+  "website": "https://bazaarboston.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Allston",
+    "MA"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://bazaarboston.com/",
+  "last_verified": "2026-09-30"
+}
