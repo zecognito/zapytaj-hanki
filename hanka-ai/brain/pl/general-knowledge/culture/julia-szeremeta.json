@@ -1,0 +1,21 @@
+{
+  "id": "julia-szeremeta",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "sports-figures",
+  "title": "Julia Szeremeta",
+  "facts": [
+    "Julia Szeremeta, urodzona 24 sierpnia 2003 roku, jest polską pięściarką.",
+    "Na igrzyskach olimpijskich w Paryżu w 2024 roku zdobyła srebrny medal w kategorii do 57 kg.",
+    "Jej medal był pierwszym olimpijskim medalem Polski w boksie od igrzysk w Barcelonie w 1992 roku i pierwszym zdobytym przez polską pięściarkę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://olimpijski.pl/olimpijczycy/julia-szeremeta/"
+  ],
+  "related_public_pages": []
+}
