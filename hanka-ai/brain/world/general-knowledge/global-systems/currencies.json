@@ -1,0 +1,21 @@
+{
+  "id": "world-currencies",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "global-systems",
+  "subtopic": "money",
+  "title": "Waluty świata",
+  "facts": [
+    "Państwa i terytoria używają wielu walut, a jedna waluta może być wspólna dla wielu krajów.",
+    "Euro jest wspólną walutą części państw Unii Europejskiej, natomiast dolar amerykański jest oficjalną walutą Stanów Zjednoczonych i jest szeroko używany w globalnym systemie finansowym.",
+    "Kody walut takie jak USD, EUR, PLN i JPY są standaryzowane w systemie ISO 4217."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.iso.org/iso-4217-currency-codes.html"
+  ],
+  "related_public_pages": []
+}
