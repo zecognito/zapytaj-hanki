@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-moving-name-change-records",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "moving_life_admin",
+  "subtopic": "name_change",
+  "title": "Name change - federal records checklist",
+  "facts": [
+    "A legal name change after marriage, divorce or court order does not automatically update every federal record.",
+    "Social Security records should generally be updated so the name associated with the Social Security number matches tax and employment records.",
+    "A U.S. passport name change follows Department of State procedures that depend on when the passport was issued and the documentation supporting the change.",
+    "USCIS records and immigration documents use separate procedures for noncitizens and should not be assumed to update from an SSA change."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/personal-record/change-name",
+    "https://travel.state.gov/content/travel/en/passports/have-passport/change-correct.html"
+  ],
+  "related_public_pages": []
+}
