@@ -1,0 +1,45 @@
+{
+  "id": "polonia-bank-pnc-national-polish-support",
+  "country": "US",
+  "category": "bank",
+  "name": "PNC Bank - Polish Language Support",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "National service",
+    "state": "US",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "checking accounts",
+    "savings accounts",
+    "certificates of deposit",
+    "credit cards",
+    "personal loans",
+    "home equity lines of credit",
+    "mortgages",
+    "business checking",
+    "business credit cards",
+    "Polish-language banking assistance",
+    "Polish-language ATM interface"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://www.pnc.com/en/customer-service/language-support.html",
+  "coverage_area": [
+    "United States"
+  ],
+  "official_source": "https://www.pnc.com/en/customer-service/language-support.html",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "PNC's official language-support page explicitly provides Polish-language banking support and states in-branch and telephone consultants can assist in Polish.",
+    "This is a national service-capability record, not evidence that every PNC branch has a Polish-speaking employee physically present.",
+    "Individual PNC branch records should be created only when branch-level Polish capability is separately verified."
+  ]
+}
