@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-holy-trinity-chicago-il",
+  "country": "US",
+  "category": "church",
+  "name": "Holy Trinity Polish Mission",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1118 N Noble St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60642",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 773 489 4140",
+  "email": null,
+  "website": "https://trojcowo.com",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "IL"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; Hanka should direct users to the parish website for current Mass/confession times."
+  ],
+  "official_source": "https://trojcowo.com",
+  "last_verified": "2026-09-30"
+}
