@@ -1,0 +1,21 @@
+{
+  "id": "g7-basics",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "international",
+  "subtopic": "forums",
+  "title": "G7",
+  "facts": [
+    "G7 jest nieformalnym forum siedmiu dużych rozwiniętych gospodarek: Kanady, Francji, Niemiec, Włoch, Japonii, Wielkiej Brytanii i Stanów Zjednoczonych.",
+    "Unia Europejska również uczestniczy w pracach G7.",
+    "G7 nie jest organizacją międzynarodową opartą na traktacie i nie ma stałego sekretariatu takiego jak ONZ."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consilium.europa.eu/en/policies/g7-summit/"
+  ],
+  "related_public_pages": []
+}
