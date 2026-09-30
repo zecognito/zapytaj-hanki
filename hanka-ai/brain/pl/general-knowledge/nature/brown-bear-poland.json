@@ -1,0 +1,21 @@
+{
+  "id": "brown-bear-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "parks_and_wildlife",
+  "title": "Niedźwiedź brunatny w Polsce",
+  "facts": [
+    "Niedźwiedzie brunatne występują w Polsce przede wszystkim w Karpatach.",
+    "Są gatunkiem chronionym.",
+    "Spotkanie z niedźwiedziem wymaga zachowania zasad bezpieczeństwa; praktyczne zalecenia powinny pochodzić z aktualnych komunikatów parków narodowych lub służb ochrony przyrody."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
