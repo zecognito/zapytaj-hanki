@@ -1,0 +1,21 @@
+{
+  "id": "fire-department",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "safety",
+  "subtopic": "emergency_services",
+  "title": "Fire department w USA",
+  "facts": [
+    "Fire department odpowiada za reagowanie na pożary i często również rescue, medical calls oraz inne emergencies zależnie od lokalnej organizacji.",
+    "Departments mogą być career, volunteer lub kombinacją obu modeli.",
+    "Nie istnieje jeden federalny fire department obsługujący wszystkie lokalne pożary w USA."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usfa.fema.gov/about/"
+  ],
+  "related_public_pages": []
+}
