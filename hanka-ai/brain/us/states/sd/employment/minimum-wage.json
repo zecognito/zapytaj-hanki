@@ -1,0 +1,21 @@
+{
+  "id": "sd-minimum_wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "SD",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna — Dakocie Południowej",
+  "facts": [
+    "Jurysdykcja ma własne zasady dotyczące tego obszaru podatkowego lub płacowego.",
+    "Wymagania i stawki mogą zmieniać się wraz z rokiem podatkowym lub kalendarzowym.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle jurysdykcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dlr.sd.gov/employment_laws/minimum_wage.aspx"
+  ],
+  "related_public_pages": []
+}
