@@ -1,0 +1,21 @@
+{
+  "id": "border-guard-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "security",
+  "title": "Straż Graniczna",
+  "facts": [
+    "Straż Graniczna jest umundurowaną i uzbrojoną formacją odpowiedzialną za ochronę granicy państwowej oraz kontrolę ruchu granicznego.",
+    "Formacja wykonuje również zadania związane z kontrolą legalności pobytu cudzoziemców oraz przeciwdziałaniem nielegalnej migracji w zakresie określonym prawem.",
+    "Po wejściu Polski do strefy Schengen charakter kontroli różni się między granicami wewnętrznymi Schengen a granicami zewnętrznymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/"
+  ],
+  "related_public_pages": []
+}
