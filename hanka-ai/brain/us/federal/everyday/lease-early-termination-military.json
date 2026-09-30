@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-scra-lease-termination",
+  "subtopic": "renting_admin",
+  "title": "Wcześniejsze rozwiązanie najmu przez servicemember — SCRA",
+  "facts": [
+    "Servicemembers Civil Relief Act pozwala kwalifikującym się servicemembers rozwiązać określone residential leases po wejściu do służby lub po otrzymaniu kwalifikujących się military orders.",
+    "Aby skorzystać z ochrony, servicemember musi przekazać landlord odpowiednie written notice i kopię orders lub inną kwalifikującą dokumentację.",
+    "Moment zakończenia zobowiązania czynszowego zależy od sposobu naliczania rent i terminu dostarczenia notice zgodnie z SCRA.",
+    "SCRA jest szczególną federalną ochroną wojskową i nie oznacza ogólnego federalnego prawa każdego najemcy do zerwania lease bez konsekwencji."
+  ],
+  "official_sources": [
+    "https://www.justice.gov/servicemembers/servicemembers-civil-relief-act-scra",
+    "https://www.militaryonesource.mil/housing-life/on-base-housing/rights-and-protections-for-military-members/"
+  ]
+}
