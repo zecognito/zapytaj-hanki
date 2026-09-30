@@ -1,0 +1,21 @@
+{
+  "id": "kampinos-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national_parks",
+  "title": "Kampinoski Park Narodowy",
+  "facts": [
+    "Kampinoski Park Narodowy leży bezpośrednio na zachód od Warszawy.",
+    "Chroni mozaikę wydm śródlądowych, bagien i lasów Puszczy Kampinoskiej.",
+    "Bliskość dużej metropolii czyni go jednym z najbardziej charakterystycznych parków narodowych Polski pod względem położenia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://kampn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
