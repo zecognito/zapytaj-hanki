@@ -1,0 +1,21 @@
+{
+  "id": "zalipie-painted-village",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Zalipie i malowane domy",
+  "facts": [
+    "Zalipie w Małopolsce jest znane z tradycji dekorowania domów i przedmiotów kolorowymi motywami kwiatowymi.",
+    "Tradycja malowania rozwijała się szczególnie od przełomu XIX i XX wieku.",
+    "Miejscowość jest jednym z najbardziej rozpoznawalnych przykładów polskiej sztuki ludowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
