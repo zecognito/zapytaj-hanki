@@ -1,0 +1,21 @@
+{
+  "id": "organic-work",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "society",
+  "title": "Praca organiczna",
+  "facts": [
+    "Praca organiczna była XIX-wieczną koncepcją wzmacniania społeczeństwa polskiego poprzez edukację, gospodarkę, samoorganizację i rozwój instytucji społecznych.",
+    "Szczególne znaczenie miała m.in. w Wielkopolsce pod zaborem pruskim.",
+    "Była alternatywną wobec kolejnych powstań strategią zachowania i rozwoju polskiej wspólnoty."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
