@@ -1,0 +1,21 @@
+{
+  "id": "nbp-institution-depth",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "national-institutions",
+  "title": "Narodowy Bank Polski — NBP",
+  "facts": [
+    "Narodowy Bank Polski jest bankiem centralnym Rzeczypospolitej Polskiej.",
+    "NBP ma wyłączne prawo emisji pieniądza w Polsce i odpowiada za politykę pieniężną w ramach kompetencji określonych prawem.",
+    "Organem NBP jest m.in. prezes NBP, a politykę pieniężną ustala Rada Polityki Pieniężnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://nbp.pl/"
+  ],
+  "related_public_pages": []
+}
