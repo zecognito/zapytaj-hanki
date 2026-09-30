@@ -1,0 +1,21 @@
+{
+  "id": "country-croatia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Chorwacja",
+  "facts": [
+    "Chorwacja leży w Europie Południowo-Wschodniej nad Morzem Adriatyckim, a jej stolicą jest Zagrzeb.",
+    "Językiem urzędowym jest chorwacki, a walutą euro.",
+    "Chorwacja jest republiką, członkiem Unii Europejskiej i NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://croatia.eu/index.php/en/home-en/"
+  ],
+  "related_public_pages": []
+}
