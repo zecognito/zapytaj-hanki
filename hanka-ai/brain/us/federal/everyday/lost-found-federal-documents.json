@@ -1,0 +1,25 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-lost-federal-document-routing",
+  "subtopic": "deadlines_documents",
+  "title": "Zgubiony federalny dokument — właściwy urząd zależy od dokumentu",
+  "facts": [
+    "Nie istnieje jeden federalny urząd wymieniający wszystkie zgubione dokumenty; procedura zależy od rodzaju dokumentu.",
+    "U.S. passport zgłasza się i wymienia przez Department of State, Social Security card przez SSA, a immigration documents przez USCIS zgodnie z właściwą procedurą.",
+    "State driver's license lub state ID nie są wymieniane przez federal government i wymagają kontaktu z właściwym state motor-vehicle agency.",
+    "Zgłoszenie identity theft może być dodatkowo potrzebne, jeśli dokument został skradziony lub dane są wykorzystywane nieautoryzowanie."
+  ],
+  "official_sources": [
+    "https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html",
+    "https://www.ssa.gov/number-card/replace-card",
+    "https://www.uscis.gov/forms/explore-my-options/replace-my-green-card",
+    "https://www.usa.gov/state-motor-vehicle-services"
+  ]
+}
