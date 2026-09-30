@@ -1,0 +1,21 @@
+{
+  "id": "il-vehicle-emissions",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "vehicles",
+  "subtopic": "emissions",
+  "title": "Illinois vehicle emissions testing",
+  "facts": [
+    "Illinois requires emissions testing for certain vehicles registered in designated areas, primarily in and around the Chicago and Metro East St. Louis regions.",
+    "Not every Illinois vehicle or county is subject to emissions testing.",
+    "The Illinois EPA vehicle emissions program provides test notices, eligibility information and testing-station information."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://epa.illinois.gov/topics/air-quality/mobile-sources/vehicle-emissions-testing.html"
+  ],
+  "related_public_pages": []
+}
