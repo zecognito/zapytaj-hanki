@@ -1,0 +1,21 @@
+{
+  "id": "pa-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "PA",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Pensylwanii",
+  "facts": [
+    "Pennsylvania nakłada stanowy Personal Income Tax według stałej stawki 3,07%.",
+    "Lokalne earned income taxes mogą obowiązywać dodatkowo zależnie od municipality i school district.",
+    "Stanowe zasady określają konkretne klasy dochodu podlegające Pennsylvania Personal Income Tax."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/personal-income-tax.html"
+  ],
+  "related_public_pages": []
+}
