@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-cars-car-seat-framework",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "cars_transportation",
+  "subtopic": "child_safety",
+  "title": "Child car seats - federal/state framework",
+  "facts": [
+    "NHTSA provides federal safety recommendations for child restraint use based on age, size and seat fit, while state law determines enforceable child-restraint requirements.",
+    "NHTSA recommends keeping children rear-facing as long as possible within the car seat manufacturer's height and weight limits, then progressing through forward-facing harness, booster and seat belt stages as appropriate.",
+    "Children should remain in the back seat through age 12 according to NHTSA safety guidance.",
+    "A specific legal requirement for a child's car seat or booster requires the current law of the state where the vehicle is being operated."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats"
+  ],
+  "related_public_pages": []
+}
