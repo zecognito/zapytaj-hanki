@@ -1,0 +1,21 @@
+{
+  "id": "ct-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CT",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w Connecticut",
+  "facts": [
+    "Connecticut SNAP zapewnia food assistance kwalifikującym się gospodarstwom domowym.",
+    "Program jest administrowany przez Connecticut Department of Social Services.",
+    "Eligibility i benefit amount zależą m.in. od wielkości gospodarstwa, dochodu i innych zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://portal.ct.gov/dss/snap/supplemental-nutrition-assistance-program---snap"
+  ],
+  "related_public_pages": []
+}
