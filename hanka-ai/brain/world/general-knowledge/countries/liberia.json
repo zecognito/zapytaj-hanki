@@ -1,0 +1,21 @@
+{
+  "id": "country-liberia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Liberia",
+  "facts": [
+    "Liberia leży w Afryce Zachodniej nad Oceanem Atlantyckim, a jej stolicą jest Monrovia.",
+    "Językiem urzędowym jest angielski, a walutą dolar liberyjski.",
+    "Liberia ogłosiła niepodległość w 1847 roku; jej powstanie było związane z osadnictwem wolnych i wyzwolonych Afroamerykanów wspieranym przez American Colonization Society."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.emansion.gov.lr/"
+  ],
+  "related_public_pages": []
+}
