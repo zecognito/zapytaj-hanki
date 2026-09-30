@@ -1,0 +1,21 @@
+{
+  "id": "paragon-vs-faktura",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language-and-everyday-concepts",
+  "title": "Paragon a faktura",
+  "facts": [
+    "Paragon fiskalny dokumentuje sprzedaż zarejestrowaną na kasie fiskalnej.",
+    "Faktura jest dokumentem sprzedaży zawierającym dane wymagane przepisami podatkowymi i może być potrzebna m.in. przedsiębiorcy do rozliczeń.",
+    "Zasady wystawiania faktury do paragonu, szczególnie dla przedsiębiorców, podlegają przepisom podatkowym i powinny być sprawdzane według aktualnego prawa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.podatki.gov.pl/"
+  ],
+  "related_public_pages": []
+}
