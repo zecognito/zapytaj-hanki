@@ -1,0 +1,21 @@
+{
+  "id": "country-algeria",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Algieria",
+  "facts": [
+    "Algieria leży w Afryce Północnej nad Morzem Śródziemnym i jest największym państwem Afryki pod względem powierzchni.",
+    "Stolicą jest Algier; arabski i tamazight są językami urzędowymi, a walutą dinar algierski.",
+    "Znaczną część terytorium Algierii zajmuje Sahara, a gospodarka jest silnie związana z ropą naftową i gazem ziemnym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mfa.gov.dz/"
+  ],
+  "related_public_pages": []
+}
