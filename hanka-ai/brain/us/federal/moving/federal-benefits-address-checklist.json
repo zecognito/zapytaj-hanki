@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-moving-benefits-address-checklist",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "moving_life_admin",
+  "subtopic": "life_admin",
+  "title": "Federal records to review after a move",
+  "facts": [
+    "A move can require separate updates with federal agencies and programs because there is no universal federal change-of-address system.",
+    "Depending on the person, relevant records can include IRS, Social Security, USCIS, U.S. passport records or applications, Selective Service and federal benefit programs.",
+    "USPS forwarding is a mail-delivery service and should not be treated as a substitute for updating agencies directly.",
+    "State-administered programs such as Medicaid, SNAP, unemployment and DMV records require separate state procedures and can be affected by an interstate move."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/change-address"
+  ],
+  "related_public_pages": []
+}
