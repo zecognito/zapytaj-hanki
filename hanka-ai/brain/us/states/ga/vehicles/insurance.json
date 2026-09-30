@@ -1,0 +1,21 @@
+{
+  "id": "ga-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "GA",
+  "topic": "vehicles",
+  "subtopic": "insurance",
+  "title": "Obowiązkowe auto insurance w Georgii",
+  "facts": [
+    "Georgia wymaga od właścicieli zarejestrowanych pojazdów utrzymywania wymaganej continuous liability insurance.",
+    "Insurance coverage jest elektronicznie raportowane do stanowego systemu.",
+    "Lapse w wymaganym coverage może prowadzić do registration suspension i innych konsekwencji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dor.georgia.gov/motor-vehicles/insurance"
+  ],
+  "related_public_pages": []
+}
