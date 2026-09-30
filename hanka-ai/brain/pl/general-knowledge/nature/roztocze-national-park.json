@@ -1,0 +1,21 @@
+{
+  "id": "roztocze-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national-parks",
+  "title": "Roztoczański Park Narodowy",
+  "facts": [
+    "Roztoczański Park Narodowy znajduje się na Roztoczu w województwie lubelskim, a jego siedziba mieści się w Zwierzyńcu.",
+    "Park chroni charakterystyczne lasy Roztocza, krajobraz wyżynny oraz cenne ekosystemy leśne i wodne.",
+    "Symbolem parku jest konik polski, którego hodowla zachowawcza jest silnie kojarzona z Roztoczańskim Parkiem Narodowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://rpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
