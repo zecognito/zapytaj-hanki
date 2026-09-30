@@ -1,0 +1,21 @@
+{
+  "id": "krakow-old-town-unesco",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Historyczne centrum Krakowa",
+  "facts": [
+    "Historic Centre of Kraków było jednym z pierwszych obiektów wpisanych na Listę Światowego Dziedzictwa UNESCO w 1978 r.",
+    "Wpis obejmuje średniowieczne miasto, Wawel oraz historyczny Kazimierz.",
+    "Kraków był dawną stolicą i ważnym centrum politycznym, religijnym i kulturalnym Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://whc.unesco.org/en/list/29/"
+  ],
+  "related_public_pages": []
+}
