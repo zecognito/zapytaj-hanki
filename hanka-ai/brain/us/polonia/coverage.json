@@ -44,12 +44,12 @@
     },
     "businesses": {
       "status": "audit_in_progress",
-      "records": 168,
+      "records": 167,
       "notes": [
-        "Food/retail audit remains in progress at 168 total records. Florida audit upgraded Anna's Polish Restaurant, Krakus Polish Deli, Delicja Polish Market, and Artur's Restaurant to direct official business sources.",
-        "Four Florida directory-only records were downgraded from active to unverified because current first-party evidence was insufficient: Pierogi & Sausages Polish Deli (Pinellas Park), Pierogi Inn (Sarasota), EUROPOL Polish Deli (Winter Park), and Polmart Polish Deli (Clermont).",
-        "Taste of Poland Naples and Cape Coral European Market retain active status with current first-party sites; Fort Myers European Food Market and North Port International Food & Produce remain unverified from the prior pass.",
-        "Audit policy: unverified records may remain as discovery leads, but must not be surfaced as confirmed active local recommendations. Vectorize ingestion remains blocked until status-aware retrieval and audit completion."
+        "Food/retail audit remains in progress. Total records reduced from 168 to 167 after removing Sebastiano's Portland: current first-party identity is not sufficiently Polish-specific for the Polonia directory.",
+        "Western/Southwestern audit reaffirmed Seakor Polish Deli (San Francisco), Polka Delicatessen (Garden Grove), Polish Cottage (Tucson), and Pierogi Factory (Lakewood CO) with direct official business sources.",
+        "Euromart Grand Junction remains because its current site supports Polish products within a broader European market, but a malformed Brain field was discovered and fixed: services had incorrectly contained a URL string instead of the schema-required array.",
+        "Polish Cuisine Las Vegas and the generic Portland Polish Deli lead remain unverified, not active. Commercial layer remains audit_in_progress; Vectorize ingestion remains blocked."
       ]
     },
     "media_culture": {
