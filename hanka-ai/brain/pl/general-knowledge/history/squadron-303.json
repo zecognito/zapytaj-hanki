@@ -1,0 +1,21 @@
+{
+  "id": "squadron-303",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world_war_ii",
+  "title": "Dywizjon 303",
+  "facts": [
+    "Dywizjon 303 był polską jednostką myśliwską Royal Air Force utworzoną w Wielkiej Brytanii podczas II wojny światowej.",
+    "Polscy piloci dywizjonu odegrali znaczącą rolę podczas Bitwy o Anglię w 1940 r.",
+    "Dywizjon 303 jest jednym z najbardziej rozpoznawalnych symboli polskiego wkładu w alianckie lotnictwo."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.rafmuseum.org.uk/research/online-exhibitions/polish-air-force/"
+  ],
+  "related_public_pages": []
+}
