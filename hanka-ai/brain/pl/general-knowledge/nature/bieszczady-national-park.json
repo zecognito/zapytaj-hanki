@@ -1,0 +1,21 @@
+{
+  "id": "bieszczady-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national_parks",
+  "title": "Bieszczadzki Park Narodowy",
+  "facts": [
+    "Bieszczadzki Park Narodowy chroni część polskich Bieszczadów w południowo-wschodniej Polsce.",
+    "Charakterystycznym elementem krajobrazu są połoniny, czyli wysokogórskie łąki powyżej górnej granicy lasu.",
+    "Park stanowi część transgranicznego obszaru o dużym znaczeniu przyrodniczym w Karpatach Wschodnich."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://bdpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
