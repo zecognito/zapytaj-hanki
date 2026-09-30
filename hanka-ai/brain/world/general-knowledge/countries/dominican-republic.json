@@ -1,0 +1,21 @@
+{
+  "id": "country-dominican-republic",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Dominikana",
+  "facts": [
+    "Dominikana zajmuje wschodnią część wyspy Hispaniola na Karaibach; zachodnią część zajmuje Haiti.",
+    "Stolicą jest Santo Domingo, językiem urzędowym hiszpański, a walutą peso dominikańskie.",
+    "Dominikana jest republiką i jednym z najludniejszych państw Karaibów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mirex.gob.do/"
+  ],
+  "related_public_pages": []
+}
