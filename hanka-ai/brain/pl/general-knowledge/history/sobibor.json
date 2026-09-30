@@ -1,0 +1,21 @@
+{
+  "id": "sobibor",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "holocaust",
+  "title": "Sobibór",
+  "facts": [
+    "Sobibór był niemieckim nazistowskim ośrodkiem zagłady działającym w okupowanej Polsce.",
+    "Był częścią Aktion Reinhardt, której celem było wymordowanie Żydów w Generalnym Gubernatorstwie.",
+    "W październiku 1943 r. więźniowie przeprowadzili powstanie i masową próbę ucieczki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ushmm.org/collections/bibliography/sobibor"
+  ],
+  "related_public_pages": []
+}
