@@ -1,0 +1,21 @@
+{
+  "id": "mobywatel-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "digital_government",
+  "title": "mObywatel",
+  "facts": [
+    "mObywatel jest państwową aplikacją i systemem usług cyfrowych udostępniającym dokumenty oraz usługi publiczne na urządzeniach mobilnych.",
+    "Zakres dokumentów i funkcji rozwija się, dlatego Hanka powinna sprawdzać aktualny stan przy pytaniach o konkretną usługę.",
+    "mDowód w aplikacji ma prawne zastosowania określone ustawą, ale nie zastępuje fizycznego dowodu osobistego w każdej sytuacji, np. przy przekraczaniu granicy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://info.mobywatel.gov.pl/"
+  ],
+  "related_public_pages": []
+}
