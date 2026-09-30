@@ -1,0 +1,21 @@
+{
+  "id": "tx-no-individual-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TX",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Brak stanowego podatku dochodowego od osób fizycznych w Teksasie",
+  "facts": [
+    "Texas nie nakłada stanowego individual income tax na osoby fizyczne.",
+    "Mieszkańcy nadal podlegają federalnemu income tax oraz innym podatkom, w tym sales/use taxes i lokalnym property taxes.",
+    "Texas Comptroller administruje głównymi podatkami stanowymi, ale nie pobiera stanowego podatku dochodowego od osób fizycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://comptroller.texas.gov/taxes/"
+  ],
+  "related_public_pages": []
+}
