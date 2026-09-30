@@ -1,0 +1,21 @@
+{
+  "id": "lease-vs-rent",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "housing",
+  "subtopic": "housing_terms",
+  "title": "Lease a rent",
+  "facts": [
+    "Lease to umowa najmu określająca warunki korzystania z nieruchomości, często na ustalony okres.",
+    "Rent może oznaczać sam czynsz albo czynność wynajmowania.",
+    "Prawa landlord i tenant, wymagane notices, deposits i zakończenie najmu są w dużej mierze regulowane stanowo i lokalnie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/tenant-rights"
+  ],
+  "related_public_pages": []
+}
