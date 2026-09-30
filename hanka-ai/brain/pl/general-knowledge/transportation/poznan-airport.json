@@ -1,0 +1,21 @@
+{
+  "id": "poznan-airport",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "aviation",
+  "title": "Port Lotniczy Poznań-Ławica",
+  "facts": [
+    "Port Lotniczy Poznań-Ławica im. Henryka Wieniawskiego obsługuje Poznań i Wielkopolskę.",
+    "Ławica należy do najstarszych funkcjonujących lotnisk w Polsce i znajduje się w granicach Poznania.",
+    "Port obsługuje połączenia regularne i czarterowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://poznanairport.pl/"
+  ],
+  "related_public_pages": []
+}
