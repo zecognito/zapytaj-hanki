@@ -1,0 +1,21 @@
+{
+  "id": "ia-child_support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IA",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Iowa",
+  "facts": [
+    "Stanowy program pomaga ustanawiać i egzekwować child support.",
+    "Kwota zależy od stanowych guidelines i konkretnej sprawy.",
+    "Zmiana order wymaga właściwej procedury."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://hhs.iowa.gov/programs/programs-and-services/child-support-services"
+  ],
+  "related_public_pages": []
+}
