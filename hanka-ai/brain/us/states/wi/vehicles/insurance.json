@@ -1,0 +1,21 @@
+{
+  "id": "wi-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WI",
+  "topic": "vehicles",
+  "subtopic": "insurance",
+  "title": "Obowiązkowe auto insurance w Wisconsin",
+  "facts": [
+    "Kierowcy w Wisconsin muszą posiadać wymagane liability insurance podczas prowadzenia pojazdu.",
+    "Stan określa minimalne limity bodily injury i property damage liability oraz wymagania dotyczące uninsured motorist coverage.",
+    "Dowód ubezpieczenia trzeba okazać w sytuacjach wymaganych przez prawo, m.in. na żądanie funkcjonariusza podczas kontroli."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://oci.wi.gov/Pages/Consumers/PI-233.aspx"
+  ],
+  "related_public_pages": []
+}
