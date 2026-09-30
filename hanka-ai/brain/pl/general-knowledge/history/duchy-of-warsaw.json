@@ -1,0 +1,21 @@
+{
+  "id": "duchy-of-warsaw",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions",
+  "title": "Księstwo Warszawskie",
+  "facts": [
+    "Księstwo Warszawskie istniało w latach 1807–1815 i powstało w epoce napoleońskiej.",
+    "Było państwem polskim zależnym politycznie od napoleońskiej Francji, ale nie obejmowało wszystkich dawnych ziem Rzeczypospolitej.",
+    "Po upadku Napoleona jego terytorium zostało podzielone decyzjami kongresu wiedeńskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
