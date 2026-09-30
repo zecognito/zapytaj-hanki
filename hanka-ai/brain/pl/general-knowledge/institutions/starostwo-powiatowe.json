@@ -1,0 +1,21 @@
+{
+  "id": "starostwo-powiatowe",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "everyday-government",
+  "title": "Starostwo powiatowe",
+  "facts": [
+    "Powiat jest szczeblem samorządu pomiędzy gminą a województwem.",
+    "Starostwo powiatowe obsługuje zarząd powiatu i starostę.",
+    "Na poziomie powiatu załatwia się m.in. wiele spraw komunikacyjnych, geodezyjnych i budowlanych, choć dokładny podział kompetencji zależy od rodzaju sprawy i miasta."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
