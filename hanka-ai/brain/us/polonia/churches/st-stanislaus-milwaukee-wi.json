@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-stanislaus-milwaukee-wi",
+  "country": "US",
+  "category": "church",
+  "name": "St. Stanislaus Catholic Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "524 W Historic Mitchell St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "postal_code": "53204",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 414 226 5490",
+  "email": null,
+  "website": "https://www.institute-christ-king.org/milwaukee-home",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "WI"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://www.institute-christ-king.org/milwaukee-home",
+  "last_verified": "2026-09-30"
+}
