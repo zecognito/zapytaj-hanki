@@ -1,0 +1,21 @@
+{
+  "id": "amber-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "industries",
+  "title": "Polski bursztyn",
+  "facts": [
+    "Wybrzeże Bałtyku, szczególnie okolice Gdańska, jest silnie kojarzone z bursztynem.",
+    "Bursztyn bałtycki jest skamieniałą żywicą, a jego obróbka ma w regionie wielowiekową tradycję.",
+    "Gdańsk jest ważnym ośrodkiem rzemiosła, handlu i kultury związanej z bursztynem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gdansk.pl/"
+  ],
+  "related_public_pages": []
+}
