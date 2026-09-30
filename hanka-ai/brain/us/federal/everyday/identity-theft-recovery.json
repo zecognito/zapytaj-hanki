@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-identity-theft-recovery",
+  "subtopic": "scams_fraud",
+  "title": "IdentityTheft.gov po kradzieży tożsamości",
+  "facts": [
+    "IdentityTheft.gov jest federalnym serwisem FTC do zgłaszania identity theft i tworzenia spersonalizowanego recovery plan.",
+    "Zgłoszenie przez IdentityTheft.gov może wygenerować Identity Theft Report oraz plan kroków dostosowany do rodzaju kradzieży tożsamości.",
+    "W zależności od sytuacji recovery może obejmować kontakt z credit bureaus, bankami, creditors i innymi instytucjami.",
+    "Police report nie jest automatycznie wymagany w każdym przypadku identity theft; może być potrzebny w określonych okolicznościach."
+  ],
+  "official_sources": [
+    "https://www.identitytheft.gov/",
+    "https://consumer.ftc.gov/articles/what-know-about-identity-theft"
+  ]
+}
