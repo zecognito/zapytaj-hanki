@@ -23,13 +23,13 @@
       ]
     },
     "churches": {
-      "status": "started",
-      "records": 53,
+      "status": "mature",
+      "records": 61,
       "notes": [
-        "Nationwide seed focuses on active parishes, missions and communities with a current Polish-language pastoral function, not merely Polish historical heritage.",
-        "Polish Mass/confession schedules are intentionally not hard-coded because they change frequently; official parish or diocesan sources should be consulted for current times.",
-        "Coverage now includes major Polonia clusters in IL, NY, NJ, CT, PA, MA, RI, MI, OH, WI, CO, CA, TX, FL, OR and WA; additional active communities remain for a final expansion pass.",
-        "Roman Catholic and Polish National Catholic communities are both represented when they retain a meaningful current Polonia function."
+        "First-pass national roster of active Polish-language parishes, missions and durable Polish pastoral communities is mature.",
+        "Coverage emphasizes current Polish ministry rather than historic Polish identity alone, and includes Roman Catholic and Polish National Catholic communities where relevant.",
+        "Polish Mass/confession schedules are intentionally not hard-coded because they change frequently; Hanka should route users to the official parish/diocesan source for current times.",
+        "The directory is designed for periodic refresh as ministries open, merge, relocate or change language schedules; occasional isolated Polish services can be added later when they materially improve local coverage."
       ]
     },
     "organizations": {
