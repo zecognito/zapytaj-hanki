@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-family-adoption-tax-credit-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "family_children",
+  "subtopic": "adoption",
+  "title": "Adoption tax credit - federal framework",
+  "facts": [
+    "Federal tax law provides an adoption credit for qualifying adoption expenses subject to annual limits, income phaseouts and eligibility rules.",
+    "The applicable dollar maximum changes by tax year and should be taken from the dated tax record rather than treated as permanent.",
+    "Special timing rules apply to when expenses can be claimed, and the rules differ for domestic and foreign adoptions.",
+    "Expenses reimbursed by an employer or another source generally cannot also be used for the credit to the extent prohibited by federal tax rules."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/taxtopics/tc607"
+  ],
+  "related_public_pages": []
+}
