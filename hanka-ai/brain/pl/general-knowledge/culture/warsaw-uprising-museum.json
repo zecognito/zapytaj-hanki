@@ -1,0 +1,21 @@
+{
+  "id": "warsaw-uprising-museum",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "museums",
+  "title": "Muzeum Powstania Warszawskiego",
+  "facts": [
+    "Muzeum Powstania Warszawskiego w Warszawie dokumentuje historię Powstania Warszawskiego 1944 r. oraz życie mieszkańców okupowanej stolicy.",
+    "Zostało otwarte w 2004 r., w 60. rocznicę wybuchu powstania.",
+    "Jest jednym z najważniejszych polskich muzeów narracyjnych poświęconych historii XX wieku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.1944.pl/"
+  ],
+  "related_public_pages": []
+}
