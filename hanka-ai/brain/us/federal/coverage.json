@@ -463,6 +463,33 @@
         "school_children",
         "family_law_boundary"
       ]
+    },
+    {
+      "id": "consumer_protection",
+      "label": "Ochrona konsumenta",
+      "status": "started",
+      "subtopics": [
+        "warranties",
+        "returns",
+        "gift_cards",
+        "subscriptions",
+        "fraud",
+        "remittances",
+        "payday_loans",
+        "telemarketing",
+        "complaints"
+      ],
+      "completed_subtopics": [
+        "warranties",
+        "returns",
+        "gift_cards",
+        "subscriptions",
+        "fraud",
+        "remittances",
+        "payday_loans",
+        "telemarketing",
+        "complaints"
+      ]
     }
   ]
 }
