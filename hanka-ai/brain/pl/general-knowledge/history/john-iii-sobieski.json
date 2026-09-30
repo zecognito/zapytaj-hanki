@@ -1,0 +1,21 @@
+{
+  "id": "john-iii-sobieski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "rulers",
+  "title": "Jan III Sobieski",
+  "facts": [
+    "Jan III Sobieski był królem Polski w latach 1674–1696.",
+    "Jest szczególnie znany z dowodzenia wojskami sprzymierzonymi podczas odsieczy wiedeńskiej w 1683 r.",
+    "Jego rezydencja w Wilanowie w Warszawie jest dziś muzeum i ważnym zabytkiem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.wilanow-palac.pl/jan_iii_sobieski.html"
+  ],
+  "related_public_pages": []
+}
