@@ -1,0 +1,21 @@
+{
+  "id": "shopping-sundays-rule",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "everyday",
+  "title": "Niedziele handlowe",
+  "facts": [
+    "W Polsce obowiązują ustawowe ograniczenia handlu w niedziele i święta, z wyjątkami oraz wyznaczonymi niedzielami handlowymi.",
+    "Kalendarz niedziel handlowych zależy od aktualnego prawa i roku.",
+    "Przed podaniem konkretnej daty Hanka powinna sprawdzić bieżący kalendarz i przepisy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina/zakaz-handlu-w-niedziele"
+  ],
+  "related_public_pages": []
+}
