@@ -1,0 +1,21 @@
+{
+  "id": "median-vs-average-income",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "economy",
+  "subtopic": "income",
+  "title": "Median income a average income",
+  "facts": [
+    "Median income to wartość, przy której połowa obserwacji jest poniżej, a połowa powyżej.",
+    "Average/mean income to suma dochodów podzielona przez liczbę obserwacji i może być silniej podnoszona przez bardzo wysokie dochody.",
+    "Przy opisie typowego gospodarstwa median household income jest często bardziej intuicyjna niż mean household income."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/topics/income-poverty/income/about.html"
+  ],
+  "related_public_pages": []
+}
