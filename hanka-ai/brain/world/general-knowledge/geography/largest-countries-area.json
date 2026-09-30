@@ -1,0 +1,21 @@
+{
+  "id": "largest-countries-area",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "geography",
+  "subtopic": "countries",
+  "title": "Największe państwa świata pod względem powierzchni",
+  "facts": [
+    "Rosja jest największym państwem świata pod względem powierzchni.",
+    "Do największych państw należą również Kanada, Chiny, Stany Zjednoczone i Brazylia.",
+    "Rankingi powierzchni mogą nieznacznie różnić się zależnie od metodologii liczenia wód śródlądowych i innych składników powierzchni."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cia.gov/the-world-factbook/field/area/country-comparison/"
+  ],
+  "related_public_pages": []
+}
