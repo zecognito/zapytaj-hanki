@@ -1,0 +1,21 @@
+{
+  "id": "karkonosze-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national-parks",
+  "title": "Karkonoski Park Narodowy",
+  "facts": [
+    "Karkonoski Park Narodowy chroni najwyższe partie Karkonoszy w Sudetach przy granicy polsko-czeskiej.",
+    "Do najbardziej rozpoznawalnych miejsc parku należą Śnieżka, Śnieżne Kotły, Mały Staw oraz wodospady Kamieńczyka i Szklarki.",
+    "Karkonosze wyróżniają się piętrowym układem roślinności, kotłami polodowcowymi, torfowiskami wysokogórskimi i surowym klimatem górskim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://kpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
