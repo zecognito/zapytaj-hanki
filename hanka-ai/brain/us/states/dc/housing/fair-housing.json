@@ -1,0 +1,21 @@
+{
+  "id": "dc-fair_housing",
+  "country": "US",
+  "jurisdiction": "district",
+  "region": "DC",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Fair housing — Washington, DC",
+  "facts": [
+    "Prawo jurysdykcji określa wymagania i procedurę w tym obszarze.",
+    "Szczegóły zależą od sytuacji osoby i aktualnych przepisów.",
+    "Aktualne wymagania należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ohr.dc.gov/service/fair-housing"
+  ],
+  "related_public_pages": []
+}
