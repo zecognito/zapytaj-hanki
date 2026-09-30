@@ -1,0 +1,21 @@
+{
+  "id": "national-archives",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "institutions",
+  "title": "National Archives",
+  "facts": [
+    "National Archives and Records Administration przechowuje i udostępnia ważne federalne records USA.",
+    "W National Archives w Washington, DC znajdują się oryginalne Declaration of Independence, Constitution i Bill of Rights.",
+    "NARA zarządza również federalnym systemem records i presidential libraries."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.archives.gov/about"
+  ],
+  "related_public_pages": []
+}
