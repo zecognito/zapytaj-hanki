@@ -195,8 +195,14 @@
     {
       "id": "documents",
       "label": "Dokumenty federalne",
-      "status": "planned",
+      "status": "started",
       "subtopics": [
+        "social_security_number",
+        "passport",
+        "real_id_federal_rules",
+        "identity_theft"
+      ],
+      "completed_subtopics": [
         "social_security_number",
         "passport",
         "real_id_federal_rules",
