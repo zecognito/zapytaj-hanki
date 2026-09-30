@@ -1,0 +1,21 @@
+{
+  "id": "warsaw-ghetto-uprising",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world_war_ii",
+  "title": "Powstanie w getcie warszawskim",
+  "facts": [
+    "Powstanie w getcie warszawskim rozpoczęło się 19 kwietnia 1943 r., gdy żydowscy bojownicy podjęli zbrojny opór przeciw niemieckiej likwidacji getta.",
+    "Było największym żydowskim zbrojnym powstaniem podczas Holocaustu.",
+    "Nie należy go mylić z Powstaniem Warszawskim rozpoczętym 1 sierpnia 1944 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://encyclopedia.ushmm.org/content/en/article/warsaw-ghetto-uprising"
+  ],
+  "related_public_pages": []
+}
