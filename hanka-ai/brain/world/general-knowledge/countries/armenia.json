@@ -1,0 +1,21 @@
+{
+  "id": "country-armenia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Armenia",
+  "facts": [
+    "Armenia jest śródlądowym państwem Kaukazu Południowego, a jej stolicą jest Erywań.",
+    "Językiem urzędowym jest ormiański, a walutą dram.",
+    "Armenia jest republiką parlamentarną i jednym z najstarszych ośrodków chrześcijaństwa państwowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.am/en/"
+  ],
+  "related_public_pages": []
+}
