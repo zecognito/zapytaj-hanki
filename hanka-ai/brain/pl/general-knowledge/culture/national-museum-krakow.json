@@ -1,0 +1,21 @@
+{
+  "id": "national-museum-krakow",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "museums",
+  "title": "Muzeum Narodowe w Krakowie",
+  "facts": [
+    "Muzeum Narodowe w Krakowie jest jedną z najważniejszych polskich instytucji muzealnych.",
+    "Posiada liczne oddziały i kolekcje obejmujące sztukę polską i europejską.",
+    "Do jego oddziałów należy m.in. Galeria Sztuki Polskiej XIX wieku w Sukiennicach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mnk.pl/"
+  ],
+  "related_public_pages": []
+}
