@@ -1,0 +1,21 @@
+{
+  "id": "sonety-krymskie-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Sonety krymskie — wybór — Adam Mickiewicz",
+  "facts": [
+    "Sonety krymskie — wybór, autor: Adam Mickiewicz; ważny tekst szkolnego kanonu, epoka: romantyzm.",
+    "Cykl sonetów inspirowany podróżą po Krymie, rozwijający motywy pielgrzyma, wygnania, orientalizmu, natury i tęsknoty.",
+    "Hanka powinna znać główne postacie lub podmiot, fabułę tam gdzie dotyczy, motywy, problematykę, epokę i historyczno-kulturowy kontekst utworu."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
