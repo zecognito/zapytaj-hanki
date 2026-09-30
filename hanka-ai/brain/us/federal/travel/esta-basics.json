@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-travel-esta-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "travel_border",
+  "subtopic": "border_entry",
+  "title": "ESTA and Visa Waiver Program - basics",
+  "facts": [
+    "Eligible nationals of Visa Waiver Program countries generally need an approved ESTA before traveling to the United States by air or sea under the VWP.",
+    "ESTA authorization is not a visa and does not guarantee admission; CBP makes the admission decision at the border.",
+    "VWP admission is generally for tourism or business visits of 90 days or less, subject to program eligibility and restrictions.",
+    "Travelers with certain travel histories, dual nationalities or other circumstances can be ineligible for ESTA and may need a visa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html"
+  ],
+  "related_public_pages": []
+}
