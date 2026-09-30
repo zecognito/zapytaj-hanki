@@ -1,0 +1,21 @@
+{
+  "id": "va-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VA",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Wirginii",
+  "facts": [
+    "Nowy mieszkaniec Virginia musi title i register kwalifikujący się pojazd w Virginia DMV zgodnie z wymaganiami stanu.",
+    "Proces wymaga odpowiednich ownership documents, wymaganej insurance i innych dokumentów/opłat.",
+    "Pojazd może podlegać Virginia safety inspection oraz, w objętych lokalizacjach, emissions requirements."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dmv.virginia.gov/moving/new-virginia"
+  ],
+  "related_public_pages": []
+}
