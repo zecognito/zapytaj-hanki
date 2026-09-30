@@ -1,0 +1,21 @@
+{
+  "id": "md-paid-family-medical-leave",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MD",
+  "topic": "employment",
+  "subtopic": "paid_family_medical_leave",
+  "title": "Paid Family and Medical Leave w Maryland",
+  "facts": [
+    "Maryland Family and Medical Leave Insurance program tworzy system płatnych świadczeń dla kwalifikujących się pracowników w związku z określonymi potrzebami rodzinnymi i medycznymi.",
+    "Daty składek i wypłat świadczeń oraz szczegóły programu są określane przez aktualne prawo i wdrożenie programu.",
+    "Przed planowaniem leave trzeba sprawdzić bieżący harmonogram Maryland Department of Labor."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://labor.maryland.gov/famli/"
+  ],
+  "related_public_pages": []
+}
