@@ -1,0 +1,21 @@
+{
+  "id": "mo-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MO",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "MO HealthNet",
+  "facts": [
+    "MO HealthNet jest stanowym programem Medicaid dla kwalifikujących się mieszkańców.",
+    "Eligibility zależy od kategorii programu, dochodu i innych kryteriów.",
+    "Wnioski i odnowienia prowadzi właściwa administracja stanowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mydss.mo.gov/healthcare"
+  ],
+  "related_public_pages": []
+}
