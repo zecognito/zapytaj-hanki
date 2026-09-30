@@ -1,0 +1,33 @@
+{
+  "id": "polonia-prof-law-hausner-chicago-il",
+  "country": "US",
+  "category": "lawyer",
+  "name": "Hausner Law Group",
+  "status": "active",
+  "location": {
+    "address": "77 W Wacker Dr, Suite 4500",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60601",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "real estate law",
+    "estate planning",
+    "corporate and small business law",
+    "personal injury"
+  ],
+  "phone": "+1 312-228-4900",
+  "email": null,
+  "website": "https://www.hausnerlawgroup.com/",
+  "official_source": "https://www.hausnerlawgroup.com/contact-chicago-lawyer/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official firm site states 'We speak Polish / Mówimy po polsku' and provides the Chicago office address."
+  ]
+}
