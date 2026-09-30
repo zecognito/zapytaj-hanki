@@ -1,0 +1,21 @@
+{
+  "id": "nj-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NJ",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do New Jersey",
+  "facts": [
+    "Nowy mieszkaniec New Jersey musi przenieść title i registration kwalifikującego się pojazdu do New Jersey MVC zgodnie z terminami i wymaganiami MVC.",
+    "Wymagane są odpowiednie dokumenty ownership, identity i New Jersey insurance.",
+    "Jeśli pojazd ma lien, procedura może wymagać dodatkowej koordynacji z lienholder."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nj.gov/mvc/drivertopics/movetonj.htm"
+  ],
+  "related_public_pages": []
+}
