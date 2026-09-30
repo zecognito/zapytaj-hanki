@@ -1,0 +1,21 @@
+{
+  "id": "kowal-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Kowal — Leopold Staff",
+  "facts": [
+    "Kowal, autor: Leopold Staff; należy do szkolnego obszaru literatury epoki: Młoda Polska.",
+    "Wiersz przedstawiający program aktywnego kształtowania własnego charakteru i siły duchowej.",
+    "Hanka powinna umieć połączyć utwór z epoką, kontekstem historycznym, bohaterami, motywami i typowymi szkolnymi problemami interpretacyjnymi."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
