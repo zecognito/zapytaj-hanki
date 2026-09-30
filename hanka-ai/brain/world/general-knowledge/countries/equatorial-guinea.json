@@ -1,0 +1,21 @@
+{
+  "id": "country-equatorial-guinea",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Gwinea Równikowa",
+  "facts": [
+    "Gwinea Równikowa leży w Afryce Środkowej i obejmuje część kontynentalną oraz wyspy, w tym Bioko.",
+    "Stolicą jest Malabo; hiszpański, francuski i portugalski mają status języków urzędowych, a walutą jest frank CFA Afryki Środkowej.",
+    "Gwinea Równikowa jest jednym z nielicznych państw Afryki, w których hiszpański ma status urzędowy, a ropa i gaz odgrywają dużą rolę gospodarczą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.guineaecuatorialpress.com/"
+  ],
+  "related_public_pages": []
+}
