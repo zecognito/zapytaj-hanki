@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-our-lady-lake-pocono-pines-pa",
+  "country": "US",
+  "category": "church",
+  "name": "Our Lady of the Lake Church - Saint Maximilian Kolbe Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "5112 Pocono Crest Rd",
+    "city": "Pocono Pines",
+    "state": "PA",
+    "postal_code": "18350",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 570 646 6424",
+  "email": null,
+  "website": "https://www.dioceseofscranton.org/find-a-parish/saint-maximilian-kolbe-parish-pocono-pines/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "PA"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish or diocesan source."
+  ],
+  "official_source": "https://www.dioceseofscranton.org/find-a-parish/saint-maximilian-kolbe-parish-pocono-pines/",
+  "last_verified": "2026-09-30"
+}
