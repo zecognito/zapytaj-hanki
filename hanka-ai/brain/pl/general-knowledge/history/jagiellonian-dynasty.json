@@ -1,0 +1,21 @@
+{
+  "id": "jagiellonian-dynasty",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "dynasties",
+  "title": "Dynastia Jagiellonów",
+  "facts": [
+    "Jagiellonowie byli dynastią panującą w Polsce od końca XIV do XVI wieku.",
+    "Ich rządy były związane z unią Polski i Litwy oraz znaczącą pozycją państwa w Europie Środkowo-Wschodniej.",
+    "Ostatnim męskim Jagiellonem na polskim tronie był Zygmunt II August, zmarły w 1572 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
