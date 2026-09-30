@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-joseph-denver-co",
+  "country": "US",
+  "category": "church",
+  "name": "St. Joseph Polish Catholic Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "517 E 46th Ave",
+    "city": "Denver",
+    "state": "CO",
+    "postal_code": "80216",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 303 294 0337",
+  "email": null,
+  "website": "https://www.stjosephpolish.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "CO"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://www.stjosephpolish.org",
+  "last_verified": "2026-09-30"
+}
