@@ -1,0 +1,21 @@
+{
+  "id": "country-ghana",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Ghana",
+  "facts": [
+    "Ghana leży w Afryce Zachodniej nad Zatoką Gwinejską, a jej stolicą jest Akra.",
+    "Językiem urzędowym jest angielski, a walutą cedi.",
+    "Ghana jest republiką i ważnym producentem złota oraz kakao."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ghana.gov.gh/"
+  ],
+  "related_public_pages": []
+}
