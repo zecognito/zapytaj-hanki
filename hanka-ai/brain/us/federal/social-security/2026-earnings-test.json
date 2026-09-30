@@ -1,0 +1,25 @@
+{
+  "id": "us-federal-social-security-earnings-test-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "social_security",
+  "subtopic": "earnings_test",
+  "title": "Social Security retirement earnings test — 2026",
+  "facts": [
+    "Jeśli beneficiary jest poniżej full retirement age przez cały 2026, annual earnings limit wynosi $24,480; SSA wstrzymuje $1 benefits za każde $2 earnings ponad limit.",
+    "W roku osiągnięcia full retirement age limit dla earnings przed miesiącem FRA wynosi $65,160; SSA wstrzymuje $1 za każde $3 ponad limit.",
+    "Od miesiąca osiągnięcia full retirement age earnings nie zmniejszają retirement benefits.",
+    "Do earnings test SSA liczy zasadniczo wages i net earnings from self-employment, a nie pensions, annuities czy investment income."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/cola/factsheets/2026.html",
+    "https://www.ssa.gov/benefits/retirement/planner/whileworking.html"
+  ],
+  "related_public_pages": [
+    "https://zapytajhanki.com/emerytura/social-security/"
+  ]
+}
