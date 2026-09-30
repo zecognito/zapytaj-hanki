@@ -1,0 +1,21 @@
+{
+  "id": "diner-definition",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "restaurant_terms",
+  "title": "Co to jest diner?",
+  "facts": [
+    "Diner to typ amerykańskiej restauracji kojarzony z nieformalną obsługą, szerokim menu i klasycznymi daniami śniadaniowymi oraz comfort food.",
+    "Wiele diners serwuje breakfast przez dużą część dnia, ale nie jest to obowiązkowa cecha każdego lokalu.",
+    "Diner jest typem restauracji, a nie nazwą konkretnej sieci."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.loc.gov/pictures/collection/hh/item/pa3871/"
+  ],
+  "related_public_pages": []
+}
