@@ -1,0 +1,22 @@
+{
+  "id": "il-medicaid-adults",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Illinois Medicaid adult coverage",
+  "facts": [
+    "Illinois Medicaid provides health coverage to eligible low-income residents through programs administered by HFS and DHS.",
+    "Illinois covers ACA expansion adults ages 19-64 who meet applicable income and eligibility rules.",
+    "Applications for Medicaid and other Illinois benefits can be made through ABE, the state's Application for Benefits Eligibility system."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://hfs.illinois.gov/medicalclients/medicaidguide/eligibility.html",
+    "https://abe.illinois.gov/abe/access/"
+  ],
+  "related_public_pages": []
+}
