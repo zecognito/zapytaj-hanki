@@ -1,0 +1,21 @@
+{
+  "id": "nj-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NJ",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do New Jersey",
+  "facts": [
+    "Nowy mieszkaniec New Jersey posiadający out-of-state driver license powinien przenieść swoje prawo jazdy do New Jersey MVC zgodnie z terminami MVC.",
+    "Wymagane są dokumenty spełniające New Jersey identity/residency requirements oraz inne wymagania zależne od statusu dokumentu.",
+    "Osoba przeprowadzająca się do New Jersey powinna oddzielnie dopilnować transferu vehicle title/registration."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nj.gov/mvc/drivertopics/movetonj.htm"
+  ],
+  "related_public_pages": []
+}
