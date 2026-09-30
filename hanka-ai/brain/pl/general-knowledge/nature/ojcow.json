@@ -1,0 +1,21 @@
+{
+  "id": "ojcow",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national_parks",
+  "title": "Ojcowski Park Narodowy",
+  "facts": [
+    "Ojcowski Park Narodowy leży na Jurze Krakowsko-Częstochowskiej w pobliżu Krakowa.",
+    "Jest najmniejszym parkiem narodowym w Polsce pod względem powierzchni.",
+    "Chroni wapienne doliny, skały, jaskinie, lasy i zabytki kulturowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://opn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
