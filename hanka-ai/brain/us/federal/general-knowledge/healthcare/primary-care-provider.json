@@ -1,0 +1,21 @@
+{
+  "id": "primary-care-provider",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "healthcare",
+  "subtopic": "health_terms",
+  "title": "Co to jest primary care provider?",
+  "facts": [
+    "Primary care provider (PCP) to lekarz lub inny uprawniony healthcare professional zapewniający podstawową, ciągłą opiekę medyczną.",
+    "PCP często jest pierwszym kontaktem przy rutynowych problemach zdrowotnych, profilaktyce i koordynowaniu dalszej opieki.",
+    "Wymóg wyboru PCP albo uzyskania referral zależy od konkretnego health plan."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.healthcare.gov/glossary/primary-care/"
+  ],
+  "related_public_pages": []
+}
