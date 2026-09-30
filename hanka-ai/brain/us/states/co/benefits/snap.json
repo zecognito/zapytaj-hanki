@@ -1,0 +1,21 @@
+{
+  "id": "co-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CO",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w Colorado",
+  "facts": [
+    "SNAP pomaga kwalifikującym się gospodarstwom domowym kupować żywność.",
+    "Eligibility i wysokość świadczenia zależą m.in. od wielkości gospodarstwa, dochodu i federalno-stanowych zasad programu.",
+    "Wnioski i wymagane aktualizacje prowadzi właściwa agencja stanowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://cdhs.colorado.gov/snap"
+  ],
+  "related_public_pages": []
+}
