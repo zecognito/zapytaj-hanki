@@ -638,7 +638,7 @@
     {
       "id": "everyday_usa",
       "label": "Everyday USA",
-      "status": "started",
+      "status": "complete",
       "subtopics": [
         "emergency_services",
         "mail",
@@ -660,7 +660,12 @@
         "debt_admin",
         "privacy_records",
         "travel_day_admin",
-        "government_service_boundaries"
+        "government_service_boundaries",
+        "deadlines_documents",
+        "notary_records",
+        "consumer_contracts",
+        "disaster_admin",
+        "communications_privacy"
       ],
       "completed_subtopics": [
         "emergency_services",
@@ -683,7 +688,12 @@
         "debt_admin",
         "privacy_records",
         "travel_day_admin",
-        "government_service_boundaries"
+        "government_service_boundaries",
+        "deadlines_documents",
+        "notary_records",
+        "consumer_contracts",
+        "disaster_admin",
+        "communications_privacy"
       ]
     }
   ]
