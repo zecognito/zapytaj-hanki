@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-employment-breaks-meal-periods",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "breaks",
+  "title": "Federalne zasady przerw i meal periods",
+  "facts": [
+    "Federal FLSA nie wymaga od pracodawcy zapewniania lunch ani coffee/rest breaks.",
+    "Jeśli pracodawca daje krótkie przerwy, zwykle około 5–20 minut, są one zasadniczo compensable work time.",
+    "Bona fide meal period, zwykle co najmniej 30 minut, może być unpaid jeśli pracownik jest rzeczywiście zwolniony z obowiązków.",
+    "Prawo stanowe może wymagać przerw mimo braku federalnego obowiązku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/general/topic/workhours/breaks"
+  ],
+  "related_public_pages": []
+}
