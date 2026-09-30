@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-moving-dmv-state-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "moving_life_admin",
+  "subtopic": "interstate_move",
+  "title": "Moving to another state - DMV boundary",
+  "facts": [
+    "Driver licenses, vehicle titles, vehicle registration, inspection and ordinary auto-insurance requirements are primarily governed by state law.",
+    "Deadlines for obtaining a new state driver's license or registering a vehicle after becoming a resident vary by state.",
+    "There is no single federal 30-day or 60-day rule that applies to every person moving between U.S. states.",
+    "Hanka should identify the destination state before giving a DMV or vehicle-registration deadline."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/state-motor-vehicle-services"
+  ],
+  "related_public_pages": []
+}
