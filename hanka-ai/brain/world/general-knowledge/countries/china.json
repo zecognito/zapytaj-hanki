@@ -1,0 +1,21 @@
+{
+  "id": "country-china",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Chiny",
+  "facts": [
+    "Chińska Republika Ludowa leży w Azji Wschodniej, a jej stolicą jest Pekin.",
+    "Oficjalnym językiem państwowym jest standardowy język chiński, a podstawową jednostką waluty renminbi jest yuan.",
+    "Chiny są stałym członkiem Rady Bezpieczeństwa ONZ i jedną z największych gospodarek świata."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://english.www.gov.cn/"
+  ],
+  "related_public_pages": []
+}
