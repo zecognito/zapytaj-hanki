@@ -1,0 +1,21 @@
+{
+  "id": "ferie-vs-wakacje",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "everyday-life",
+  "title": "Ferie a wakacje",
+  "facts": [
+    "W polskim języku szkolnym „wakacje” oznaczają przede wszystkim letnią przerwę między latami szkolnymi.",
+    "„Ferie zimowe” to zimowa przerwa szkolna, której terminy mogą być różne w poszczególnych województwach.",
+    "Aktualne terminy ferii publikuje Ministerstwo Edukacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/edukacja"
+  ],
+  "related_public_pages": []
+}
