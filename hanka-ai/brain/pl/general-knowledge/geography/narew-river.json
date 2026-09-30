@@ -1,0 +1,21 @@
+{
+  "id": "narew-river",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Narew",
+  "facts": [
+    "Narew jest ważną rzeką północno-wschodniej i centralnej Polski oraz prawym dopływem Wisły przez system Narwi i Bugu.",
+    "Jej dolina obejmuje cenne obszary mokradłowe i rozlewiska.",
+    "Narwiański Park Narodowy chroni fragment charakterystycznej wielokorytowej doliny Narwi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://npn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
