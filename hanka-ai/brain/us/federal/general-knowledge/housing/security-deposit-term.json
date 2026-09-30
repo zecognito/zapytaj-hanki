@@ -1,0 +1,21 @@
+{
+  "id": "security-deposit-term",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "housing",
+  "subtopic": "housing_terms",
+  "title": "Co to jest security deposit?",
+  "facts": [
+    "Security deposit to kwota pobierana przez landlord jako zabezpieczenie określonych obowiązków tenant.",
+    "Zasady maksymalnej wysokości, przechowywania, potrąceń i terminu zwrotu zależą głównie od prawa stanowego i czasem lokalnego.",
+    "Security deposit nie powinien być automatycznie utożsamiany z ostatnim miesiącem rent."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/tenant-rights"
+  ],
+  "related_public_pages": []
+}
