@@ -1,0 +1,21 @@
+{
+  "id": "walbrzych",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Wałbrzych",
+  "facts": [
+    "Wałbrzych leży w województwie dolnośląskim i historycznie był ważnym ośrodkiem górnictwa węgla kamiennego oraz przemysłu.",
+    "Po zakończeniu wydobycia miasto przechodziło długą transformację gospodarczą.",
+    "W pobliżu znajduje się Zamek Książ, jeden z największych zamków w Polsce."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://um.walbrzych.pl/"
+  ],
+  "related_public_pages": []
+}
