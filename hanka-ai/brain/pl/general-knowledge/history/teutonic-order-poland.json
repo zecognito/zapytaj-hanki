@@ -1,0 +1,21 @@
+{
+  "id": "teutonic-order-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "medieval",
+  "title": "Krzyżacy a historia Polski",
+  "facts": [
+    "Zakon krzyżacki utworzył w średniowieczu własne państwo nad Bałtykiem, sąsiadujące z ziemiami polskimi i litewskimi.",
+    "Relacje z Polską obejmowały zarówno konflikty, jak i okresy układów politycznych.",
+    "Wojna 1409–1411 obejmowała bitwę pod Grunwaldem, a późniejsze konflikty doprowadziły m.in. do zmian terytorialnych i zależności Prus Zakonnych od Korony."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
