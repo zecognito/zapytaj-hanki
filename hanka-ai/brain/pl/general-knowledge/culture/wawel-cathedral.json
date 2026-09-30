@@ -1,0 +1,21 @@
+{
+  "id": "wawel-cathedral",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Katedra Wawelska",
+  "facts": [
+    "Katedra na Wawelu w Krakowie była miejscem koronacji wielu polskich monarchów oraz miejscem pochówku królów i innych ważnych postaci historycznych.",
+    "Znajduje się na Wzgórzu Wawelskim obok Zamku Królewskiego.",
+    "W jej wieży znajduje się Dzwon Zygmunt."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.katedra-wawelska.pl/"
+  ],
+  "related_public_pages": []
+}
