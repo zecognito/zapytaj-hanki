@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-passport-card-domestic-id",
+  "subtopic": "government_service_boundaries",
+  "title": "U.S. Passport Card jako federalny dokument ID",
+  "facts": [
+    "U.S. passport card jest federalnym dokumentem tożsamości i obywatelstwa wydawanym przez Department of State.",
+    "Passport card jest akceptowany przez TSA jako identification dla domestic flights.",
+    "Passport card nie może być używany do international air travel; jego travel use jest ograniczony do określonych land border crossings i sea ports of entry z Kanady, Meksyku, Bermudów i Karaibów.",
+    "Passport book i passport card mają różne zastosowania, mimo że oba są dokumentami paszportowymi USA."
+  ],
+  "official_sources": [
+    "https://travel.state.gov/content/travel/en/passports/need-passport/card.html",
+    "https://www.tsa.gov/travel/security-screening/identification"
+  ]
+}
