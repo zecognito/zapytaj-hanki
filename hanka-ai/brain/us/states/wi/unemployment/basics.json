@@ -1,0 +1,21 @@
+{
+  "id": "wi-unemployment-basics",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WI",
+  "topic": "benefits",
+  "subtopic": "unemployment",
+  "title": "Unemployment Insurance w Wisconsin",
+  "facts": [
+    "Wisconsin Unemployment Insurance wypłaca czasowe świadczenia kwalifikującym się osobom bez pracy.",
+    "Eligibility zależy m.in. od kwalifikujących zarobków, powodu utraty pracy oraz spełniania wymagań dotyczących zdolności i dostępności do pracy.",
+    "Aby otrzymywać świadczenia, claimant składa wymagane weekly claims i wykonuje wymagane działania work search, jeśli nie jest z nich zwolniony."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dwd.wisconsin.gov/uiben/"
+  ],
+  "related_public_pages": []
+}
