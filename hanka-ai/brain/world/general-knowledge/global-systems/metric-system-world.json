@@ -1,0 +1,21 @@
+{
+  "id": "metric-system-world",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "global-systems",
+  "subtopic": "measurement",
+  "title": "System metryczny i SI",
+  "facts": [
+    "Międzynarodowy Układ Jednostek SI jest globalnym standardem pomiarów opartym na siedmiu jednostkach podstawowych.",
+    "Do jednostek podstawowych SI należą metr, kilogram, sekunda, amper, kelwin, mol i kandela.",
+    "Większość świata używa systemu metrycznego w życiu codziennym, choć zakres jego praktycznego stosowania różni się między państwami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bipm.org/en/measurement-units"
+  ],
+  "related_public_pages": []
+}
