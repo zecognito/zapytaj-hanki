@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-pierogi-grill-clearwater",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Pierogi Grill",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1535 Gulf to Bay Blvd",
+    "city": "Clearwater",
+    "state": "FL",
+    "postal_code": "33755",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 727-216-3055",
+  "email": null,
+  "website": "https://pierogigrill.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Clearwater",
+    "FL"
+  ],
+  "notes": [
+    "Commercial directory record; current status, exact address where incomplete, hours and services require periodic reverification."
+  ],
+  "official_source": "https://pierogigrill.com/",
+  "last_verified": "2026-09-30"
+}
