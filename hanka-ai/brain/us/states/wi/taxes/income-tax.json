@@ -1,0 +1,21 @@
+{
+  "id": "wi-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WI",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Wisconsin",
+  "facts": [
+    "Wisconsin ma progresywny stanowy individual income tax z kilkoma przedziałami stawek.",
+    "Kwota podatku zależy m.in. od taxable income i filing status.",
+    "Aktualne stawki i progi należy sprawdzać w Wisconsin Department of Revenue dla właściwego roku podatkowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.revenue.wi.gov/Pages/FAQS/pcs-taxrates.aspx"
+  ],
+  "related_public_pages": []
+}
