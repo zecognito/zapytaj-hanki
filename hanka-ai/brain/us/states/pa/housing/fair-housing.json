@@ -1,0 +1,21 @@
+{
+  "id": "pa-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "PA",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową w Pensylwanii",
+  "facts": [
+    "Pennsylvania Human Relations Act zabrania określonych form dyskryminacji mieszkaniowej ze względu na protected classes objęte prawem stanowym.",
+    "Federalny Fair Housing Act może zapewniać równoległą ochronę.",
+    "Skargi w ramach prawa stanowego można składać do Pennsylvania Human Relations Commission zgodnie z jej procedurą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pa.gov/agencies/phrc/programs-and-services/fair-housing.html"
+  ],
+  "related_public_pages": []
+}
