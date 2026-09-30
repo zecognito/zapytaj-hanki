@@ -1,0 +1,21 @@
+{
+  "id": "co-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CO",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Colorado",
+  "facts": [
+    "Stanowy program child support pomaga ustalać parentage, uzyskiwać i egzekwować orders oraz obsługiwać płatności.",
+    "Kwota child support jest ustalana według obowiązujących stanowych zasad i danych konkretnej rodziny.",
+    "Zmiana istniejącego order zwykle wymaga formalnej modyfikacji; samodzielna zmiana płatności nie zmienia order."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://childsupport.state.co.us/"
+  ],
+  "related_public_pages": []
+}
