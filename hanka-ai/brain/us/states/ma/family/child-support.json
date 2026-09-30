@@ -1,0 +1,21 @@
+{
+  "id": "ma-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MA",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Massachusetts",
+  "facts": [
+    "Massachusetts Child Support Services pomaga ustalać parentage, uzyskiwać i egzekwować support orders oraz obsługiwać payments.",
+    "Child support orders są ustalane z wykorzystaniem Massachusetts Child Support Guidelines i danych konkretnej rodziny.",
+    "Program może pomagać również w określonych działaniach dotyczących health insurance i modyfikacji order."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mass.gov/orgs/child-support-services"
+  ],
+  "related_public_pages": []
+}
