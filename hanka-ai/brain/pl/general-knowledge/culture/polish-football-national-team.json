@@ -1,0 +1,21 @@
+{
+  "id": "polish-football-national-team",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "sports",
+  "title": "Reprezentacja Polski w piłce nożnej",
+  "facts": [
+    "Reprezentacja Polski w piłce nożnej mężczyzn jest narodową drużyną prowadzoną przez Polski Związek Piłki Nożnej.",
+    "Do historycznych sukcesów należą trzecie miejsca mistrzostw świata w 1974 i 1982 r.",
+    "Aktualny skład, trener, ranking FIFA i wyniki są informacjami zmiennymi i powinny być sprawdzane przed odpowiedzią."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.laczynaspilka.pl/reprezentacja/reprezentacja-a"
+  ],
+  "related_public_pages": []
+}
