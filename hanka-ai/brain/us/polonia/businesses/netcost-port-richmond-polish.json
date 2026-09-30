@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-netcost-port-richmond-polish",
+  "country": "US",
+  "category": "store",
+  "name": "NetCost Market - Port Richmond Polish/Eastern European foods",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2417 E Venango St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "postal_code": "19134",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 215-288-7111",
+  "email": null,
+  "website": "https://www.netcostmarket.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish groceries",
+    "Polish deli/meats or specialty foods"
+  ],
+  "coverage_area": [
+    "Philadelphia",
+    "PA"
+  ],
+  "notes": [
+    "Commercial directory record; current status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://www.netcostmarket.com/",
+  "last_verified": "2026-09-30"
+}
