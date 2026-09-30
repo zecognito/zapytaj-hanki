@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-immigration-reentry-permit-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "immigration",
+  "subtopic": "travel_documents",
+  "title": "Reentry Permit - basics",
+  "facts": [
+    "A lawful permanent resident planning extended travel abroad may apply for a reentry permit using Form I-131.",
+    "A reentry permit can help show that a permanent resident did not intend to abandon permanent residence during a temporary trip abroad, but it does not guarantee admission to the United States.",
+    "A reentry permit does not by itself preserve continuous residence for naturalization.",
+    "The applicant must generally be physically present in the United States when filing a reentry-permit application and must comply with biometrics requirements."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscis.gov/i-131",
+    "https://www.uscis.gov/green-card/after-we-grant-your-green-card/international-travel-as-a-permanent-resident"
+  ],
+  "related_public_pages": []
+}
