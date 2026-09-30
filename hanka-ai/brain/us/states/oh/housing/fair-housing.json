@@ -1,0 +1,21 @@
+{
+  "id": "oh-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OH",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową w Ohio",
+  "facts": [
+    "Ohio Civil Rights Act zabrania określonych form housing discrimination ze względu na protected classes.",
+    "Federalny Fair Housing Act może zapewniać równoległą ochronę.",
+    "Ohio Civil Rights Commission przyjmuje kwalifikujące się complaints dotyczące housing discrimination."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://civ.ohio.gov/how-to-file-a-charge/housing-discrimination"
+  ],
+  "related_public_pages": []
+}
