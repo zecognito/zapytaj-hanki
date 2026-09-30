@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-jp2-montville-nj",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła Dokształcająca im. Jana Pawła II",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "24 Changebridge Rd",
+    "city": "Montville",
+    "state": "NJ",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 201 873 6383",
+  "email": "kasiasuriel@gmail.com",
+  "website": "http://www.polskaszkolanj.com",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "NJ"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; enrollment and current class offerings should be confirmed directly with the school."
+  ],
+  "official_source": "https://www.centralapolskichszkol.org/index.php/new-jersey/",
+  "last_verified": "2026-09-30"
+}
