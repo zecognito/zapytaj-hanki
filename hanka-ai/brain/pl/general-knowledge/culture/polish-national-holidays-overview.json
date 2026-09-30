@@ -1,0 +1,21 @@
+{
+  "id": "polish-national-holidays-overview",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "holidays",
+  "title": "Najważniejsze polskie święta państwowe",
+  "facts": [
+    "Do szczególnie ważnych polskich świąt państwowych należą m.in. Narodowe Święto Trzeciego Maja oraz Narodowe Święto Niepodległości 11 listopada.",
+    "Polski kalendarz dni ustawowo wolnych obejmuje zarówno święta państwowe, jak i religijne.",
+    "Nie każde święto lub dzień pamięci jest automatycznie dniem wolnym od pracy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina/dni-wolne-od-pracy"
+  ],
+  "related_public_pages": []
+}
