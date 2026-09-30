@@ -1,0 +1,21 @@
+{
+  "id": "sc-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "SC",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w South Carolina",
+  "facts": [
+    "Stanowy program child support pomaga ustalać i egzekwować obowiązek alimentacyjny.",
+    "Wysokość support jest ustalana według stanowych guidelines i faktów konkretnej sprawy.",
+    "Zmiana obowiązującego order wymaga właściwej procedury modyfikacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dss.sc.gov/child-support/"
+  ],
+  "related_public_pages": []
+}
