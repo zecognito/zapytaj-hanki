@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-consumer-wire-transfer-scam",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "consumer_protection",
+  "subtopic": "fraud",
+  "title": "Wire transfers and scam payments",
+  "facts": [
+    "Scammers often demand payment methods that are difficult to reverse, including wire transfers, gift cards, cryptocurrency or cash.",
+    "A legitimate government agency or business generally should not demand payment by gift card as the only way to resolve a debt, fine or emergency.",
+    "A consumer who sent money to a scammer should contact the payment provider immediately and ask whether the transaction can be stopped or reversed, although recovery is not guaranteed.",
+    "Fraud should also be reported through appropriate federal, state or local channels."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/what-do-if-you-were-scammed"
+  ],
+  "related_public_pages": []
+}
