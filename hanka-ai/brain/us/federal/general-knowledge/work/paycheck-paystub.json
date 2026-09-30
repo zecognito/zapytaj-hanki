@@ -1,0 +1,21 @@
+{
+  "id": "paycheck-paystub",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "employment",
+  "subtopic": "work_terms",
+  "title": "Paycheck a pay stub",
+  "facts": [
+    "Paycheck oznacza wypłatę wynagrodzenia, niezależnie od tego, czy następuje czekiem czy direct deposit.",
+    "Pay stub/pay statement pokazuje szczegóły wynagrodzenia, deductions i net pay.",
+    "Federalny FLSA wymaga od pracodawców prowadzenia określonych records, ale nie ustanawia jednolitego krajowego wzoru pay stub dla wszystkich pracowników."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/whd/fact-sheets/21-flsa-recordkeeping"
+  ],
+  "related_public_pages": []
+}
