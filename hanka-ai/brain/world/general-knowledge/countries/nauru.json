@@ -1,0 +1,21 @@
+{
+  "id": "country-nauru",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Nauru",
+  "facts": [
+    "Nauru jest małym wyspiarskim państwem Mikronezji na środkowym Pacyfiku.",
+    "Nauru nie ma formalnie wyznaczonej stolicy; siedziby władz znajdują się w dystrykcie Yaren.",
+    "Językami używanymi oficjalnie są nauruański i angielski, walutą jest dolar australijski, a historycznie gospodarka była silnie związana z wydobyciem fosforytów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nauru.gov.nr/"
+  ],
+  "related_public_pages": []
+}
