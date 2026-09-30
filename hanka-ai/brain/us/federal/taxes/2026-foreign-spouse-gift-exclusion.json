@@ -1,0 +1,20 @@
+{
+  "id": "us-federal-gift-noncitizen-spouse-exclusion-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "gift_estate_tax",
+  "title": "Gift exclusion for noncitizen spouse — 2026",
+  "facts": [
+    "W 2026 specjalny annual exclusion dla kwalifikujących się gifts do spouse, który nie jest U.S. citizen, wynosi $194,000.",
+    "Ten limit różni się od zwykłego 2026 annual gift tax exclusion $19,000 na donee."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill"
+  ],
+  "related_public_pages": []
+}
