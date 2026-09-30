@@ -1,0 +1,21 @@
+{
+  "id": "in-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IN",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w Indianie",
+  "facts": [
+    "Indiana law reguluje potrącenia i zwrot security deposit po zakończeniu tenancy.",
+    "Landlord może potrącić m.in. unpaid rent i określone koszty szkód wykraczających poza ordinary wear and tear.",
+    "Tenant powinien przekazać forwarding address; landlord ma ustawowy termin na wysłanie itemized list potrąceń i należnej pozostałości deposit."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://iga.in.gov/laws/2025/ic/titles/32#32-31-3"
+  ],
+  "related_public_pages": []
+}
