@@ -1,0 +1,21 @@
+{
+  "id": "sd-auto_insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "SD",
+  "topic": "vehicles",
+  "subtopic": "auto_insurance",
+  "title": "auto insurance — South Dakota",
+  "facts": [
+    "Stan prowadzi lub reguluje ten program albo obowiązek.",
+    "Wymagania zależą od konkretnej sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle stanowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dlr.sd.gov/insurance/auto.aspx"
+  ],
+  "related_public_pages": []
+}
