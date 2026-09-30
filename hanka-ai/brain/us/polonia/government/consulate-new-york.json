@@ -1,0 +1,45 @@
+{
+  "id": "polonia-gov-consulate-new-york",
+  "country": "US",
+  "category": "consulate_general",
+  "name": "Consulate General of the Republic of Poland in New York",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "233 Madison Avenue (Jan Karski Corner)",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10016",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 646 237 2100",
+  "email": "newyork.consul@msz.gov.pl",
+  "website": "https://www.gov.pl/web/usa-en/consulate-general-new-york",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "passports",
+    "visas",
+    "citizenship",
+    "legal matters",
+    "civil status",
+    "Karta Polaka",
+    "consular assistance"
+  ],
+  "coverage_area": [
+    "CT",
+    "ME",
+    "MA",
+    "NH",
+    "NJ",
+    "NY",
+    "RI",
+    "VT"
+  ],
+  "notes": [],
+  "official_source": "https://www.gov.pl/web/usa-en/consulate-general-new-york",
+  "last_verified": "2026-09-30"
+}
