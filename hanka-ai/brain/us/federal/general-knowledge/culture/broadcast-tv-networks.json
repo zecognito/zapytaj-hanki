@@ -1,0 +1,21 @@
+{
+  "id": "broadcast-tv-networks",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "media",
+  "title": "Broadcast television w USA",
+  "facts": [
+    "Amerykańska broadcast television historycznie opiera się na national networks oraz lokalnych affiliate stations.",
+    "Broadcast stations korzystają z publicznych airwaves i podlegają regulacji FCC w zakresie federalnych kompetencji.",
+    "Broadcast TV różni się od cable, satellite i internet streaming."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fcc.gov/media/television/broadcast-television"
+  ],
+  "related_public_pages": []
+}
