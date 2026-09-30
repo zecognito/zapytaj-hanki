@@ -1,0 +1,21 @@
+{
+  "id": "drawa-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national-parks",
+  "title": "Drawieński Park Narodowy",
+  "facts": [
+    "Drawieński Park Narodowy leży w północno-zachodniej Polsce i chroni fragment Puszczy Drawskiej.",
+    "Osią przyrodniczą parku jest rzeka Drawa wraz z dopływami, jeziorami i rozległymi kompleksami leśnymi.",
+    "Drawa jest znana także jako szlak kajakowy, a park chroni cenne ekosystemy rzeczne, jeziorne i leśne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/nfosigw/parki-narodowe"
+  ],
+  "related_public_pages": []
+}
