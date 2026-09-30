@@ -3,8 +3,8 @@
   "country": "US",
   "state": "OH",
   "language": "pl",
-  "status": "expanding",
-  "record_count": 8,
+  "status": "v1_complete",
+  "record_count": 13,
   "last_verified": "2026-09-30",
   "completed_seed_topics": [
     "income_tax",
@@ -14,7 +14,12 @@
     "unemployment",
     "snap",
     "auto_insurance",
-    "vehicle_registration"
+    "vehicle_registration",
+    "security_deposits",
+    "child_support",
+    "fair_housing",
+    "new_resident_license",
+    "state_specific_high_value"
   ],
   "reference_state": "IL",
   "target_v1_areas": [
@@ -28,6 +33,7 @@
     "family"
   ],
   "notes": [
+    "State V1 is complete for the national rollout baseline. Additional records are enrichment and should be driven by state-specific user value.",
     "Canonical title and facts are Polish-first; stable machine identifiers remain English.",
     "Illinois and the first completed state wave define the V1 architecture, but records must reflect this state's actual laws and administration.",
     "Local rules remain separate when materially different from statewide rules."
