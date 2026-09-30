@@ -1,0 +1,21 @@
+{
+  "id": "il-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową w Illinois",
+  "facts": [
+    "Illinois Human Rights Act zabrania dyskryminacji mieszkaniowej ze względu na chronione cechy określone w prawie stanowym.",
+    "Ochrona Illinois obejmuje m.in. race, color, national origin, disability, religion, sex, sexual orientation, age 40+, marital status, familial status, immigration status oraz source of income.",
+    "Skargę dotyczącą dyskryminacji mieszkaniowej można zgłosić do Illinois Department of Human Rights zgodnie z aktualną procedurą tej agencji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dhr.illinois.gov/rights/housing-rights.html"
+  ],
+  "related_public_pages": []
+}
