@@ -1,0 +1,21 @@
+{
+  "id": "az-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AZ",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Arizonie",
+  "facts": [
+    "Arizona Division of Child Support Services pomaga m.in. ustalać paternity, support orders i egzekwować płatności.",
+    "Wysokość child support jest ustalana zgodnie z Arizona Child Support Guidelines i faktami sprawy.",
+    "Usługi programu mogą obejmować również lokalizowanie rodzica i obsługę określonych modyfikacji/enforcement."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://des.az.gov/dcss"
+  ],
+  "related_public_pages": []
+}
