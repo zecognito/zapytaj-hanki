@@ -1,0 +1,21 @@
+{
+  "id": "dozynki",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Dożynki",
+  "facts": [
+    "Dożynki są tradycyjnym świętem związanym z zakończeniem żniw.",
+    "Obchody mogą obejmować wieńce dożynkowe, ceremonie religijne, wydarzenia lokalne, muzykę i festyny.",
+    "Współczesne dożynki mają zarówno wymiar ludowy i rolniczy, jak i samorządowy czy religijny, zależnie od miejsca."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-harvest-festival-dozynki"
+  ],
+  "related_public_pages": []
+}
