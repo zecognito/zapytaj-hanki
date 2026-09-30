@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-travel-global-entry",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "travel_border",
+  "subtopic": "trusted_traveler",
+  "title": "Global Entry - basics",
+  "facts": [
+    "Global Entry is a CBP Trusted Traveler Program providing expedited U.S. entry processing for preapproved, low-risk travelers.",
+    "Applicants undergo background vetting and, when conditionally approved, generally complete an interview before final approval.",
+    "Approval is discretionary and membership can be revoked if program requirements are no longer met.",
+    "Global Entry members generally receive TSA PreCheck eligibility when they use the appropriate Known Traveler Number and meet TSA requirements."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cbp.gov/travel/trusted-traveler-programs/global-entry"
+  ],
+  "related_public_pages": []
+}
