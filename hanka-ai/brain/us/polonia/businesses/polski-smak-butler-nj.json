@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polski-smak-butler-nj",
+  "country": "US",
+  "category": "store",
+  "name": "Polski Smak",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1295 NJ-23",
+    "city": "Butler",
+    "state": "NJ",
+    "postal_code": "07405",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 973-492-7625",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Butler",
+    "NJ"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://polish-eats.com/chicago-delis/",
+  "last_verified": "2026-09-30"
+}
