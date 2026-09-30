@@ -1,0 +1,21 @@
+{
+  "id": "casimir-great-reforms",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "medieval",
+  "title": "Kazimierz Wielki — rozwój państwa",
+  "facts": [
+    "Kazimierz III Wielki panował w latach 1333–1370 i był ostatnim królem z głównej linii Piastów.",
+    "Za jego panowania wzmacniano administrację, system prawny, miasta i sieć zamków.",
+    "W 1364 r. założył Akademię Krakowską, poprzedniczkę Uniwersytetu Jagiellońskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
