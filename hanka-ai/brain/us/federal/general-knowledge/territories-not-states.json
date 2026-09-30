@@ -1,0 +1,21 @@
+{
+  "id": "territories-not-states",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "us_territories",
+  "title": "Terytoria USA to nie stany",
+  "facts": [
+    "Puerto Rico, U.S. Virgin Islands, Guam, American Samoa i Northern Mariana Islands są terytoriami/Island Areas związanymi z USA, a nie stanami.",
+    "Nie są wliczane do 50 stanów.",
+    "Puerto Rico i Island Areas nie należą do czterech Census Regions."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/programs-surveys/geography/about/glossary.html"
+  ],
+  "related_public_pages": []
+}
