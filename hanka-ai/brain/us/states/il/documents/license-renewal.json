@@ -1,0 +1,21 @@
+{
+  "id": "il-license-renewal",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "documents",
+  "subtopic": "license_renewal",
+  "title": "Illinois driver's license renewal",
+  "facts": [
+    "Illinois driver's license renewal requirements depend on age, license status and whether testing or an in-person visit is required.",
+    "Eligible drivers may be able to renew online using a renewal notice containing the required authorization information.",
+    "Illinois Secretary of State renewal guidance should be checked for current age-specific validity periods and testing requirements."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ilsos.gov/departments/drivers/drivers-license/drivers-license-renewal.html"
+  ],
+  "related_public_pages": []
+}
