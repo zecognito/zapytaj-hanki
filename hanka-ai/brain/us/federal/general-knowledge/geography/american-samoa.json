@@ -1,0 +1,21 @@
+{
+  "id": "american-samoa",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "territories",
+  "title": "American Samoa",
+  "facts": [
+    "American Samoa jest terytorium USA w South Pacific.",
+    "Osoby urodzone w American Samoa są zasadniczo U.S. nationals, ale nie automatycznie U.S. citizens wyłącznie z tytułu urodzenia tam, z wyjątkami wynikającymi z innych podstaw prawnych.",
+    "To odróżnia American Samoa od pozostałych głównych zamieszkanych territories."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/states-and-territories"
+  ],
+  "related_public_pages": []
+}
