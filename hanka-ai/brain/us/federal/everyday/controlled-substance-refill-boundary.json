@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-controlled-substance-refill-boundary",
+  "subtopic": "pharmacy_admin",
+  "title": "Refills leków kontrolowanych — federalne granice",
+  "facts": [
+    "Federal Controlled Substances Act dzieli controlled substances na schedules, a refill rules zależą od schedule.",
+    "Schedule II prescriptions nie mogą być refilled; jeśli potrzebne jest dalsze leczenie, prescriber musi wystawić nową prescription zgodnie z obowiązującymi zasadami.",
+    "Schedule III i IV prescriptions mogą być refilled do 5 razy w ciągu 6 miesięcy od daty wystawienia, jeśli prescription na to pozwala; po tym okresie potrzebna jest nowa prescription.",
+    "Prawo stanowe może być bardziej restrykcyjne niż federalne, więc Hanka nie powinna zakładać, że federalne maksimum jest zawsze dostępne w każdym stanie."
+  ],
+  "official_sources": [
+    "https://www.dea.gov/sites/default/files/2020-06/Practitioners_Manual_2020.pdf",
+    "https://www.ecfr.gov/current/title-21/chapter-II/part-1306"
+  ]
+}
