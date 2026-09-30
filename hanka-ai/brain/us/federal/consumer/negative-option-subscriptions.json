@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-consumer-negative-option",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "consumer_protection",
+  "subtopic": "subscriptions",
+  "title": "Subscriptions and negative-option billing - federal basics",
+  "facts": [
+    "Federal consumer-protection law prohibits deceptive practices in recurring subscriptions and negative-option offers.",
+    "Material terms such as recurring charges and cancellation conditions must not be misrepresented or hidden in a deceptive manner.",
+    "Different federal statutes and rules can apply depending on whether the offer is online, by telephone or another channel, and state automatic-renewal laws can add requirements.",
+    "A consumer should keep cancellation confirmation and payment records when disputing recurring charges."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ftc.gov/news-events/topics/truth-advertising/negative-options"
+  ],
+  "related_public_pages": []
+}
