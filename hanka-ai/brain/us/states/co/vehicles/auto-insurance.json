@@ -1,0 +1,21 @@
+{
+  "id": "co-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CO",
+  "topic": "vehicles",
+  "subtopic": "auto_insurance",
+  "title": "Ubezpieczenie samochodu w Colorado",
+  "facts": [
+    "Kierowcy i właściciele pojazdów muszą spełniać obowiązujące stanowe wymagania financial responsibility lub auto insurance.",
+    "Wymagane coverage i sposób potwierdzania ubezpieczenia określa prawo stanowe.",
+    "Brak wymaganego coverage może prowadzić do kar lub problemów z prawem jazdy albo rejestracją."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dmv.colorado.gov/insurance-requirements"
+  ],
+  "related_public_pages": []
+}
