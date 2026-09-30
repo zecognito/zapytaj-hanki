@@ -1,0 +1,21 @@
+{
+  "id": "sudetes-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Sudety",
+  "facts": [
+    "Sudety są pasmem górskim w południowo-zachodniej Polsce i części Czech.",
+    "Najwyższym szczytem Sudetów jest Śnieżka w Karkonoszach.",
+    "Sudety są geologicznie i geograficznie odrębne od Karpat."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://kpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
