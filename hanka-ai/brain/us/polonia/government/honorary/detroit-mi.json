@@ -1,0 +1,36 @@
+{
+  "id": "polonia-gov-honorary-detroit-mi",
+  "country": "US",
+  "category": "consulate_honorary",
+  "name": "Honorary Consulate of the Republic of Poland in Detroit",
+  "aliases": [
+    "Konsulat Honorowy RP w Detroit"
+  ],
+  "status": "active",
+  "location": {
+    "address": "150 W Jefferson Avenue, Suite 2500",
+    "city": "Detroit",
+    "state": "MI",
+    "postal_code": "48226",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 313 496 7600",
+  "email": "Consulate@PLinDetroit.pl",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "honorary consular representation"
+  ],
+  "coverage_area": [
+    "MI"
+  ],
+  "notes": [
+    "Honorary consul: Richard Walawender"
+  ],
+  "official_source": "https://www.gov.pl/web/usa/konsulaty-honorowe",
+  "last_verified": "2026-09-30"
+}
