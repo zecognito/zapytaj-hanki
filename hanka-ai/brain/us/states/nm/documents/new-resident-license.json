@@ -1,0 +1,21 @@
+{
+  "id": "nm-new_resident_license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NM",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do New Mexico",
+  "facts": [
+    "Prawo stanowe określa wymagania i procedurę w tym obszarze.",
+    "Szczegóły zależą od sytuacji osoby i aktualnych przepisów.",
+    "Aktualne wymagania należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/drivers-license/"
+  ],
+  "related_public_pages": []
+}
