@@ -1,0 +1,21 @@
+{
+  "id": "mi-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MI",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Michigan",
+  "facts": [
+    "Michigan child support program pomaga ustalać parentage, support orders i egzekwować płatności.",
+    "W systemie uczestniczą m.in. Office of Child Support, Friend of the Court i county prosecuting attorneys, zależnie od etapu sprawy.",
+    "Wysokość support jest obliczana zgodnie z Michigan Child Support Formula i okolicznościami sprawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.michigan.gov/mdhhs/adult-child-serv/child-sup"
+  ],
+  "related_public_pages": []
+}
