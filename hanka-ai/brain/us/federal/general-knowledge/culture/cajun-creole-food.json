@@ -1,0 +1,21 @@
+{
+  "id": "cajun-creole-food",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Cajun i Creole cuisine",
+  "facts": [
+    "Cajun i Louisiana Creole są odrębnymi, choć powiązanymi tradycjami kulinarnymi Louisiana.",
+    "Obie kuchnie odzwierciedlają historię wielu społeczności, w tym Acadian/Cajun, African, Caribbean, French, Spanish i Native influences.",
+    "Gumbo i jambalaya mają liczne regionalne i rodzinne wersje; nie istnieje jedna receptura definiująca całą tradycję."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.loc.gov/item/2021689279/"
+  ],
+  "related_public_pages": []
+}
