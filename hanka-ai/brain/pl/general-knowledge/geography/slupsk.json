@@ -1,0 +1,21 @@
+{
+  "id": "slupsk",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Słupsk",
+  "facts": [
+    "Słupsk jest miastem w województwie pomorskim, położonym niedaleko wybrzeża Bałtyku.",
+    "Miasto jest regionalnym centrum Pomorza Środkowego.",
+    "W zbiorach Muzeum Pomorza Środkowego znajduje się znacząca kolekcja prac Stanisława Ignacego Witkiewicza — Witkacego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.slupsk.pl/"
+  ],
+  "related_public_pages": []
+}
