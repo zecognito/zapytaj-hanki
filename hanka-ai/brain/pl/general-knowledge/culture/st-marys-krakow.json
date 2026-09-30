@@ -1,0 +1,21 @@
+{
+  "id": "st-marys-krakow",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Kościół Mariacki w Krakowie",
+  "facts": [
+    "Bazylika Mariacka stoi przy Rynku Głównym w Krakowie i jest jednym z najbardziej rozpoznawalnych zabytków miasta.",
+    "W jej wnętrzu znajduje się monumentalny późnogotycki ołtarz Wita Stwosza.",
+    "Z wieży kościoła regularnie rozbrzmiewa hejnał mariacki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mariacki.com/"
+  ],
+  "related_public_pages": []
+}
