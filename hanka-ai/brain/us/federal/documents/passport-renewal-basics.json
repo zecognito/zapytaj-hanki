@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-documents-passport-renewal",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "documents",
+  "subtopic": "passport",
+  "title": "U.S. passport renewal - basics",
+  "facts": [
+    "Eligible applicants may renew a U.S. passport using the State Department renewal process rather than a first-time DS-11 application.",
+    "Eligibility depends on factors including the prior passport, age when it was issued, how long ago it was issued, condition, and name-change documentation.",
+    "Some eligible adults can renew online; others use Form DS-82 by mail.",
+    "A person who does not meet renewal requirements generally applies in person using Form DS-11."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://travel.state.gov/content/travel/en/passports/have-passport/renew.html"
+  ],
+  "related_public_pages": []
+}
