@@ -1,0 +1,21 @@
+{
+  "id": "rudolf-weigl",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Rudolf Weigl",
+  "facts": [
+    "Rudolf Weigl był biologiem związanym przede wszystkim ze Lwowem.",
+    "Opracował skuteczną szczepionkę przeciw tyfusowi plamistemu i metody jej produkcji.",
+    "Podczas okupacji niemieckiej jego instytut dawał zatrudnienie i ochronę wielu osobom zagrożonym represjami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
