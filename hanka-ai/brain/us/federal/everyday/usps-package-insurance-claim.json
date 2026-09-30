@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-usps-insurance-claim",
+  "subtopic": "mail",
+  "title": "Roszczenie za zagubioną lub uszkodzoną przesyłkę USPS",
+  "facts": [
+    "Dla kwalifikujących się ubezpieczonych usług USPS nadawca lub odbiorca może mieć możliwość złożenia domestic insurance claim za lost, damaged lub missing contents.",
+    "USPS stosuje różne minimalne i maksymalne terminy składania claims zależnie od mail class i rodzaju roszczenia.",
+    "Przy damage claim należy zachować uszkodzoną przesyłkę, opakowanie i zawartość do czasu zakończenia procesu, ponieważ USPS może wymagać ich przedstawienia.",
+    "Tracking inquiry lub Missing Mail search nie zastępują formalnego insurance claim, jeśli potrzebne jest odszkodowanie."
+  ],
+  "official_sources": [
+    "https://www.usps.com/help/claims.htm"
+  ]
+}
