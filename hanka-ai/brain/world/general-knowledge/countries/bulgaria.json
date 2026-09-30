@@ -1,0 +1,21 @@
+{
+  "id": "country-bulgaria",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Bułgaria",
+  "facts": [
+    "Bułgaria leży w Europie Południowo-Wschodniej nad Morzem Czarnym, a jej stolicą jest Sofia.",
+    "Językiem urzędowym jest bułgarski.",
+    "Bułgaria jest republiką parlamentarną oraz członkiem Unii Europejskiej i NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.government.bg/en/About-Bulgaria"
+  ],
+  "related_public_pages": []
+}
