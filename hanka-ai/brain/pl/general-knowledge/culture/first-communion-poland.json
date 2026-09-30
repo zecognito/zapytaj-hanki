@@ -1,0 +1,21 @@
+{
+  "id": "first-communion-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Pierwsza Komunia w Polsce",
+  "facts": [
+    "Pierwsza Komunia Święta jest ważnym wydarzeniem religijnym dla wielu katolickich rodzin w Polsce.",
+    "Często towarzyszą jej rodzinne przyjęcia, specjalny strój i prezenty.",
+    "Nie jest doświadczeniem wszystkich polskich dzieci; Polska jest społeczeństwem zróżnicowanym pod względem religijności i wyznania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://episkopat.pl/"
+  ],
+  "related_public_pages": []
+}
