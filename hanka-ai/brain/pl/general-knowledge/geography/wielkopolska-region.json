@@ -1,0 +1,21 @@
+{
+  "id": "wielkopolska-region",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Wielkopolska",
+  "facts": [
+    "Wielkopolska jest historycznym regionem zachodnio-centralnej Polski związanym z początkami państwa Piastów.",
+    "Poznań i Gniezno należą do najważniejszych historycznych ośrodków regionu.",
+    "Historyczna Wielkopolska i współczesne województwo wielkopolskie nie mają całkowicie identycznych granic."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/a/poczatki-panstwa-polskiego/D1BmA4X4E"
+  ],
+  "related_public_pages": []
+}
