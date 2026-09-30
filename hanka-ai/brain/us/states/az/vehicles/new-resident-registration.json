@@ -1,0 +1,21 @@
+{
+  "id": "az-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AZ",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Arizony",
+  "facts": [
+    "Nowy mieszkaniec Arizona musi zarejestrować kwalifikujący się pojazd przez Arizona MVD zgodnie z wymaganiami dla residents.",
+    "Proces wymaga odpowiednich ownership documents, Arizona insurance i opłat.",
+    "W objętych obszarach pojazd może podlegać emissions testing zgodnie z lokalizacją i typem pojazdu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://azdot.gov/mvd/services/vehicle-services/vehicle-registration"
+  ],
+  "related_public_pages": []
+}
