@@ -1,0 +1,21 @@
+{
+  "id": "polish-school-posters",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "art",
+  "title": "Polska Szkoła Plakatu",
+  "facts": [
+    "Polska Szkoła Plakatu to określenie nurtu projektowania graficznego szczególnie wpływowego po II wojnie światowej.",
+    "Polscy projektanci łączyli ilustrację, metaforę, typografię i indywidualny styl zamiast prostego kopiowania reklamowych wzorców.",
+    "Termin opisuje środowisko i tradycję artystyczną, a nie formalną szkołę z jedną obowiązującą metodą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/a-foreigners-guide-to-polish-poster-art"
+  ],
+  "related_public_pages": []
+}
