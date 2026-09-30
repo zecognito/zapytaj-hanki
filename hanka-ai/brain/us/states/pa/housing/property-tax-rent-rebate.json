@@ -1,0 +1,21 @@
+{
+  "id": "pa-property-tax-rent-rebate",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "PA",
+  "topic": "housing",
+  "subtopic": "property_tax_relief",
+  "title": "Property Tax/Rent Rebate Program w Pensylwanii",
+  "facts": [
+    "Pennsylvania Property Tax/Rent Rebate Program zapewnia kwalifikującym się osobom rebate części property taxes lub rent.",
+    "Program jest skierowany do określonych grup, m.in. kwalifikujących się seniorów, wdów/wdowców i osób z disabilities, z obowiązującymi limitami dochodu.",
+    "Kwoty rebate, income limits i terminy mogą zmieniać się według roku programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pa.gov/agencies/revenue/incentives-credits-and-programs/property-tax-rent-rebate-program.html"
+  ],
+  "related_public_pages": []
+}
