@@ -1,0 +1,21 @@
+{
+  "id": "robert-lewandowski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "sports",
+  "title": "Robert Lewandowski",
+  "facts": [
+    "Robert Lewandowski jest polskim piłkarzem grającym jako napastnik i wieloletnim reprezentantem Polski.",
+    "Należy do najbardziej utytułowanych polskich piłkarzy swojej generacji i zdobywał liczne krajowe oraz międzynarodowe trofea klubowe.",
+    "Aktualny klub, statystyki i status reprezentacyjny są informacjami zmiennymi i powinny być sprawdzane przed odpowiedzią."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.laczynaspilka.pl/biblioteka/kroniki/robert-lewandowski"
+  ],
+  "related_public_pages": []
+}
