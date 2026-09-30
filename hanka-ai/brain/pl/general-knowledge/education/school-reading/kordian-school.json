@@ -1,0 +1,21 @@
+{
+  "id": "kordian-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Kordian — Juliusz Słowacki",
+  "facts": [
+    "Kordian, autor: Juliusz Słowacki; ważny tekst szkolnego kanonu, epoka: romantyzm.",
+    "Dramat o dojrzewaniu Kordiana, jego podróży po Europie i spisku przeciw carowi; podejmuje temat jednostki, narodu i czynu.",
+    "Hanka powinna znać główne postacie lub podmiot, fabułę tam gdzie dotyczy, motywy, problematykę, epokę i historyczno-kulturowy kontekst utworu."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
