@@ -1,0 +1,21 @@
+{
+  "id": "mi-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MI",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Michigan",
+  "facts": [
+    "Michigan stosuje jednolitą stanową stawkę individual income tax ustalaną zgodnie z prawem stanowym.",
+    "Niektóre miasta Michigan nakładają własny city income tax niezależnie od podatku stanowego.",
+    "Aktualną stawkę i zasady dla danego roku należy sprawdzić w Michigan Department of Treasury."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.michigan.gov/taxes/iit"
+  ],
+  "related_public_pages": []
+}
