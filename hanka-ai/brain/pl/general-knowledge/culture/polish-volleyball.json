@@ -1,0 +1,21 @@
+{
+  "id": "polish-volleyball",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "sports",
+  "title": "Siatkówka w Polsce",
+  "facts": [
+    "Siatkówka należy do najpopularniejszych sportów zespołowych w Polsce.",
+    "Polskie reprezentacje odnosiły znaczące sukcesy międzynarodowe, w tym tytuły mistrzów świata mężczyzn.",
+    "Aktualne rankingi, medale i składy drużyn są danymi zmiennymi i powinny być sprawdzane przed odpowiedzią."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pzps.pl/"
+  ],
+  "related_public_pages": []
+}
