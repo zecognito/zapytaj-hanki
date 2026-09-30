@@ -1,0 +1,21 @@
+{
+  "id": "tatras-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Tatry w Polsce",
+  "facts": [
+    "Tatry są najwyższym pasmem Karpat i leżą na granicy Polski i Słowacji.",
+    "Po polskiej stronie duża część Tatr jest chroniona przez Tatrzański Park Narodowy.",
+    "Rysy są najwyższym punktem Polski, a Zakopane jest głównym ośrodkiem turystycznym u podnóża Tatr."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tpn.gov.pl/poznaj"
+  ],
+  "related_public_pages": []
+}
