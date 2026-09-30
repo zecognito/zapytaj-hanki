@@ -1,0 +1,21 @@
+{
+  "id": "nj-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NJ",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w New Jersey",
+  "facts": [
+    "New Jersey Child Support Program pomaga w ustalaniu parentage, support orders, medical support oraz egzekwowaniu płatności.",
+    "Sprawy mogą być obsługiwane przez Family Division i county probation services zgodnie z rolą poszczególnych instytucji.",
+    "Wysokość child support jest ustalana zgodnie z New Jersey Child Support Guidelines i okolicznościami sprawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.njchildsupport.org/"
+  ],
+  "related_public_pages": []
+}
