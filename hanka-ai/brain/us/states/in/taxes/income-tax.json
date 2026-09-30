@@ -1,0 +1,21 @@
+{
+  "id": "in-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IN",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Indianie",
+  "facts": [
+    "Indiana nakłada stanowy adjusted gross income tax według jednolitej stawki ustalanej dla danego roku.",
+    "W wielu counties obowiązuje dodatkowy county income tax, którego stawka zależy od miejsca zamieszkania lub pracy zgodnie z zasadami Indiana.",
+    "Aktualne stawki stanowe i county należy sprawdzić w Indiana Department of Revenue."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.in.gov/dor/individual-income-taxes/"
+  ],
+  "related_public_pages": []
+}
