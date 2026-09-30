@@ -1,0 +1,21 @@
+{
+  "id": "ma-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MA",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Massachusetts",
+  "facts": [
+    "Massachusetts RMV wydaje driver license i ID zgodne z REAL ID.",
+    "REAL ID wymaga przedstawienia odpowiednich dokumentów potwierdzających lawful presence, Social Security number i Massachusetts residency.",
+    "Standardowy Massachusetts credential może służyć do prowadzenia pojazdu, ale nie zastępuje REAL ID lub innego akceptowanego dokumentu do objętych zastosowań federalnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mass.gov/guides/massachusetts-identification-id-requirements"
+  ],
+  "related_public_pages": []
+}
