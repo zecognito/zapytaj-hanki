@@ -1,0 +1,21 @@
+{
+  "id": "de-minimum_wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "DE",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Delaware",
+  "facts": [
+    "Obowiązująca minimum wage zależy od prawa stanowego i federalnego.",
+    "Dla niektórych pracowników obowiązują wyjątki lub szczególne zasady.",
+    "Aktualną stawkę należy sprawdzić dla konkretnego zatrudnienia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://labor.delaware.gov/divisions/industrial-affairs/labor-law/minimum-wage/"
+  ],
+  "related_public_pages": []
+}
