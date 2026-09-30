@@ -1,0 +1,25 @@
+{
+  "id": "us-federal-social-security-full-retirement-age",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "social_security",
+  "subtopic": "full_retirement_age",
+  "title": "Social Security full retirement age",
+  "facts": [
+    "Full retirement age zależy od roku urodzenia.",
+    "Dla osób urodzonych w latach 1943–1954 full retirement age wynosi 66 lat.",
+    "Dla roczników 1955–1959 full retirement age rośnie stopniowo od 66 lat i 2 miesięcy do 66 lat i 10 miesięcy.",
+    "Dla osób urodzonych w 1960 lub później full retirement age wynosi 67 lat."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.ssa.gov/benefits/retirement/planner/ageincrease.html",
+    "https://www.ssa.gov/benefits/retirement/planner/1960.html"
+  ],
+  "related_public_pages": [
+    "https://zapytajhanki.com/emerytura/social-security/"
+  ]
+}
