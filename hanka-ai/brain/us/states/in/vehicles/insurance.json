@@ -1,0 +1,21 @@
+{
+  "id": "in-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IN",
+  "topic": "vehicles",
+  "subtopic": "insurance",
+  "title": "Obowiązkowe auto insurance w Indianie",
+  "facts": [
+    "Indiana wymaga financial responsibility od kierowców; w praktyce większość spełnia ten obowiązek poprzez auto liability insurance.",
+    "Stan określa minimalne limity liability coverage dla bodily injury i property damage.",
+    "BMV może wymagać elektronicznego potwierdzenia financial responsibility po określonych zdarzeniach; brak potwierdzenia może skutkować zawieszeniem driving privileges."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.in.gov/bmv/licenses-permits-ids/suspension-and-reinstatement/proof-of-financial-responsibility/"
+  ],
+  "related_public_pages": []
+}
