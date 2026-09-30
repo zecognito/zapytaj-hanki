@@ -1,0 +1,21 @@
+{
+  "id": "zamosc-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Zamość",
+  "facts": [
+    "Zamość został założony w XVI wieku przez Jana Zamoyskiego i zaprojektowany jako renesansowe miasto idealne.",
+    "Historyczne centrum Zamościa znajduje się na Liście Światowego Dziedzictwa UNESCO.",
+    "Miasto jest jednym z najważniejszych przykładów renesansowego planowania urbanistycznego w Polsce."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://whc.unesco.org/en/list/564/"
+  ],
+  "related_public_pages": []
+}
