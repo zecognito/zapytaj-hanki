@@ -1,0 +1,21 @@
+{
+  "id": "nj-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NJ",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w New Jersey",
+  "facts": [
+    "New Jersey Security Deposit Act ogranicza wysokość security deposit zasadniczo do 1,5 miesiąca rent.",
+    "Landlord musi przechowywać deposit zgodnie z wymaganiami prawa i przekazać tenant wymagane informacje dotyczące miejsca przechowywania środków.",
+    "Po zakończeniu najmu deposit wraz z należnymi odsetkami zasadniczo musi zostać zwrócony w ustawowym terminie, z potrąceniami dozwolonymi prawem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nj.gov/dca/codes/publications/pdf_lti/sdepsit_law.pdf"
+  ],
+  "related_public_pages": []
+}
