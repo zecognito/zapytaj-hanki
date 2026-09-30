@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-housing-va-loan-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "housing_mortgages",
+  "subtopic": "va_loans",
+  "title": "VA-backed home loan - basics",
+  "facts": [
+    "VA home loans are made by private lenders and backed or guaranteed in part by the Department of Veterans Affairs for eligible borrowers.",
+    "Eligible borrowers may be able to purchase with no down payment when the sales price does not exceed the appraised value and lender requirements are met.",
+    "VA-backed purchase loans do not require monthly private mortgage insurance.",
+    "Eligibility for the VA home-loan benefit is documented through a Certificate of Eligibility, but a COE does not itself guarantee loan approval."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.va.gov/housing-assistance/home-loans/loan-types/purchase-loan/",
+    "https://www.va.gov/housing-assistance/home-loans/eligibility/"
+  ],
+  "related_public_pages": []
+}
