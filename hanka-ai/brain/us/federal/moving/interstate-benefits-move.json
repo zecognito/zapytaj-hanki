@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-moving-interstate-benefits",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "moving_life_admin",
+  "subtopic": "interstate_move",
+  "title": "Moving states while receiving benefits",
+  "facts": [
+    "State-administered benefits such as Medicaid, SNAP and unemployment insurance generally cannot be assumed to transfer automatically when a person establishes residence in another state.",
+    "Federal programs such as Social Security follow federal eligibility rules, but the beneficiary still needs to keep relevant contact and payment information current.",
+    "Medicare is federal, but Medicare Advantage and Part D plan service areas can make a move relevant to plan enrollment rights.",
+    "A move involving benefits should be handled program by program rather than through one universal transfer request."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/change-address",
+    "https://www.medicare.gov/basics/get-started-with-medicare/get-more-coverage/joining-a-plan/special-enrollment-periods"
+  ],
+  "related_public_pages": []
+}
