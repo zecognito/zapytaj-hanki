@@ -1,0 +1,21 @@
+{
+  "id": "ma-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MA",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w Massachusetts",
+  "facts": [
+    "Massachusetts SNAP zapewnia food benefits kwalifikującym się gospodarstwom domowym.",
+    "Program jest administrowany przez Department of Transitional Assistance.",
+    "Eligibility i benefit amount zależą od wielkości gospodarstwa, dochodu i innych zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mass.gov/snap-benefits-formerly-food-stamps"
+  ],
+  "related_public_pages": []
+}
