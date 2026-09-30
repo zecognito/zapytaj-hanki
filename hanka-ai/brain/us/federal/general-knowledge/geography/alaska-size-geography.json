@@ -1,0 +1,21 @@
+{
+  "id": "alaska-size-geography",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "alaska_hawaii",
+  "title": "Alaska — skala i geografia",
+  "facts": [
+    "Alaska jest największym stanem USA pod względem powierzchni.",
+    "Leży na północnym zachodzie Ameryki Północnej i jest oddzielona od contiguous U.S. przez Canada.",
+    "Alaska ma wybrzeża nad Arctic Ocean i Pacific Ocean oraz obejmuje Aleutian Islands."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/geographies/reference-files/2010/geo/state-area.html"
+  ],
+  "related_public_pages": []
+}
