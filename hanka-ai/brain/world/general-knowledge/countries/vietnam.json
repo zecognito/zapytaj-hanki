@@ -1,0 +1,21 @@
+{
+  "id": "country-vietnam",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Wietnam",
+  "facts": [
+    "Wietnam leży w Azji Południowo-Wschodniej nad Morzem Południowochińskim, a jego stolicą jest Hanoi.",
+    "Językiem urzędowym jest wietnamski, a walutą đồng.",
+    "Wietnam jest socjalistyczną republiką i członkiem ASEAN."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://vietnam.gov.vn/"
+  ],
+  "related_public_pages": []
+}
