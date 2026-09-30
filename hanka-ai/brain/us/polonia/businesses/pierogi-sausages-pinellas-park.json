@@ -4,7 +4,7 @@
   "category": "store",
   "name": "Pierogi & Sausages Polish Deli",
   "aliases": [],
-  "status": "active",
+  "status": "unverified",
   "location": {
     "address": "6945 66th St",
     "city": "Pinellas Park",
@@ -30,7 +30,7 @@
     "FL"
   ],
   "notes": [
-    "Current Polish-food connection supported by an official business source or recent/local Polonia source; commercial details remain freshness-sensitive."
+    "Audited 2026-09-30: Polish Tampa Bay community directory supports this Polish deli listing, but no sufficiently strong current first-party website was established in this audit. Downgraded to unverified pending confirmation."
   ],
   "official_source": "https://www.polishtampabay.com/01-polska-zywnosc-polskie-sklepy-polish-delis/",
   "last_verified": "2026-09-30"
