@@ -1,0 +1,21 @@
+{
+  "id": "rys-y",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Rysy",
+  "facts": [
+    "Rysy są masywem w Tatrach na granicy Polski i Słowacji.",
+    "Najwyższy punkt znajdujący się na terytorium Polski ma 2499 m n.p.m. i jest najwyższym punktem kraju.",
+    "Masyw ma również wyższy wierzchołek po stronie słowackiej, dlatego określenie „wysokość Rysów” wymaga doprecyzowania wierzchołka."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
