@@ -1,0 +1,21 @@
+{
+  "id": "tx-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TX",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Medicaid w Teksasie",
+  "facts": [
+    "Texas Medicaid zapewnia health coverage kwalifikującym się mieszkańcom należącym do określonych grup programu.",
+    "Texas nie stosuje ogólnego ACA Medicaid expansion dla wszystkich niskodochodowych dorosłych, dlatego sam niski dochód nie oznacza automatycznej eligibility.",
+    "Program obejmuje m.in. część dzieci, kobiet w ciąży, rodziców/opiekunów, seniorów i osób z disabilities spełniających odpowiednie warunki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.hhs.texas.gov/services/health/medicaid-chip"
+  ],
+  "related_public_pages": []
+}
