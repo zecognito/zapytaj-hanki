@@ -1,0 +1,21 @@
+{
+  "id": "polish-consulate-role",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "diplomacy",
+  "title": "Co robi polski konsulat?",
+  "facts": [
+    "Polskie urzędy konsularne pomagają obywatelom m.in. w sprawach paszportowych, określonych sprawach prawnych, pomocy konsularnej i części czynności urzędowych.",
+    "Konsulat nie może zastąpić lokalnego sądu, policji ani władz imigracyjnych państwa pobytu.",
+    "Zakres konkretnej usługi i właściwość terytorialną należy sprawdzać na stronie odpowiedniej placówki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/dyplomacja/pomoc-konsularna"
+  ],
+  "related_public_pages": []
+}
