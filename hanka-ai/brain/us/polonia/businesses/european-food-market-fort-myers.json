@@ -1,0 +1,37 @@
+{
+  "id": "polonia-business-european-food-market-fort-myers",
+  "country": "US",
+  "category": "store",
+  "name": "European Food Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "12901 McGregor Blvd",
+    "city": "Fort Myers",
+    "state": "FL",
+    "postal_code": "33919",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 239-332-7200",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-specialty groceries",
+    "Polish-speaking service",
+    "European foods"
+  ],
+  "coverage_area": [
+    "Fort Myers",
+    "FL"
+  ],
+  "notes": [
+    "Polish-food relevance supported by current official business or Polonia/local source. Commercial status and details remain freshness-sensitive."
+  ],
+  "official_source": "https://www.polishfloridabiz.com/polish-deli/",
+  "last_verified": "2026-09-30"
+}
