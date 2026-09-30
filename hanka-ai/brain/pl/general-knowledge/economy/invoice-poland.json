@@ -1,0 +1,21 @@
+{
+  "id": "invoice-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "everyday",
+  "title": "Faktura w Polsce",
+  "facts": [
+    "Faktura dokumentuje sprzedaż zgodnie z zasadami podatkowymi i może zawierać dane nabywcy oraz sprzedawcy.",
+    "W obrocie gospodarczym często używa się faktur elektronicznych.",
+    "Wymogi dotyczące faktur i systemów e-fakturowania mogą się zmieniać, dlatego bieżące pytania podatkowe wymagają aktualnych źródeł Ministerstwa Finansów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.podatki.gov.pl/vat/faktura/"
+  ],
+  "related_public_pages": []
+}
