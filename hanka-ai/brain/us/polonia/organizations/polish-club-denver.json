@@ -1,0 +1,34 @@
+{
+  "id": "polonia-org-polish-club-denver",
+  "country": "US",
+  "category": "organization",
+  "name": "Polish Club of Denver",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Denver",
+    "state": "CO",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": "https://www.polishclubofdenver.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish community and cultural organization"
+  ],
+  "coverage_area": [
+    "US"
+  ],
+  "notes": [
+    "Included in the Polish government roster of Polish institutions operating in the United States or an established institutional network; details should be periodically reverified."
+  ],
+  "official_source": "https://www.polishclubofdenver.com/",
+  "last_verified": "2026-09-30"
+}
