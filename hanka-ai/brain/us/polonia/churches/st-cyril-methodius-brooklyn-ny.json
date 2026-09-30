@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-cyril-methodius-brooklyn-ny",
+  "country": "US",
+  "category": "church",
+  "name": "Sts. Cyril and Methodius Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "150 Dupont St",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11222",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 718 389 4424",
+  "email": null,
+  "website": "https://stcmchurch.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "NY"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://stcmchurch.org",
+  "last_verified": "2026-09-30"
+}
