@@ -1,0 +1,21 @@
+{
+  "id": "country-albania",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Albania",
+  "facts": [
+    "Albania leży na Bałkanach nad Morzem Adriatyckim i Jońskim, a jej stolicą jest Tirana.",
+    "Językiem urzędowym jest albański, a walutą lek.",
+    "Albania jest republiką, członkiem NATO i państwem kandydującym do Unii Europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://punetejashtme.gov.al/en/albania/"
+  ],
+  "related_public_pages": []
+}
