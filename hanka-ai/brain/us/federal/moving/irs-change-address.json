@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-moving-irs-change-address",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "moving_life_admin",
+  "subtopic": "irs_address",
+  "title": "Changing an address with the IRS",
+  "facts": [
+    "Taxpayers should notify the IRS when their mailing address changes; USPS forwarding alone should not be relied on as the permanent IRS update.",
+    "IRS Form 8822 is used by individuals for many home mailing-address changes, while Form 8822-B is used for certain business address or responsible-party changes.",
+    "Filing a tax return with the new address can update IRS records, but processing time means separate notification can still matter when correspondence is expected.",
+    "Joint filers who establish separate residences should each notify the IRS of their new address."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/faqs/irs-procedures/address-changes/address-changes"
+  ],
+  "related_public_pages": []
+}
