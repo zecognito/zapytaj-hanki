@@ -1,0 +1,21 @@
+{
+  "id": "state-archives-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "culture-institutions",
+  "title": "Archiwa Państwowe",
+  "facts": [
+    "Archiwa Państwowe tworzą państwową sieć instytucji odpowiedzialnych za ochronę i udostępnianie materiałów archiwalnych.",
+    "Naczelny Dyrektor Archiwów Państwowych kieruje działalnością archiwalną państwa w zakresie określonym prawem.",
+    "Zasób archiwów jest ważnym źródłem dla badań historycznych, genealogicznych i dokumentowania działalności państwa oraz społeczeństwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}
