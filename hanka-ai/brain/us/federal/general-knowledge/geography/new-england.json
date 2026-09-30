@@ -1,0 +1,21 @@
+{
+  "id": "new-england",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "New England",
+  "facts": [
+    "New England obejmuje sześć stanów: Maine, New Hampshire, Vermont, Massachusetts, Rhode Island i Connecticut.",
+    "Jest częścią Northeast USA.",
+    "New England jest historycznym i geograficznym regionem, a nie osobnym poziomem rządu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/programs-surveys/geography/guidance/geo-areas/census-regions-and-divisions.html"
+  ],
+  "related_public_pages": []
+}
