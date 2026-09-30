@@ -1,0 +1,22 @@
+{
+  "id": "mi-food-assistance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MI",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "Food Assistance Program w Michigan",
+  "facts": [
+    "Michigan Food Assistance Program jest stanową administracją SNAP.",
+    "Program pomaga kwalifikującym się gospodarstwom domowym kupować żywność.",
+    "Wnioski i zarządzanie świadczeniami są dostępne przez MI Bridges; eligibility zależy od sytuacji gospodarstwa i zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.michigan.gov/mdhhs/assistance-programs/food",
+    "https://newmibridges.michigan.gov/"
+  ],
+  "related_public_pages": []
+}
