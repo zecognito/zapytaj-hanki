@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-employment-eeoc-protected-bases",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "eeoc",
+  "title": "Federal employment discrimination protections — EEOC",
+  "facts": [
+    "Federal EEO laws prohibit covered employers from discriminating based on race, color, religion, sex including pregnancy and related conditions, sexual orientation and transgender status, national origin, age 40 or older, disability, and genetic information, depending on the applicable statute.",
+    "Title VII generally applies to employers with 15 or more employees; ADA employment provisions generally use the same 15-employee threshold.",
+    "ADEA age-discrimination protections generally apply to employers with 20 or more employees and protect individuals age 40 or older.",
+    "Federal law also prohibits retaliation for protected EEO activity, such as filing or participating in a discrimination complaint."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.eeoc.gov/employers/small-business/3-who-protected-employment-discrimination",
+    "https://www.eeoc.gov/overview"
+  ],
+  "related_public_pages": []
+}
