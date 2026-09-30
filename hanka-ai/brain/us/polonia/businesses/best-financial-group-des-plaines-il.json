@@ -1,0 +1,36 @@
+{
+  "id": "polonia-prof-accountant-best-financial-des-plaines-il",
+  "country": "US",
+  "category": "accountant",
+  "name": "Best Financial Group",
+  "status": "active",
+  "location": {
+    "address": "1401 E Oakton St, Suite 2",
+    "city": "Des Plaines",
+    "state": "IL",
+    "postal_code": "60018",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es"
+  ],
+  "services": [
+    "individual tax returns",
+    "corporate tax returns",
+    "estate tax returns",
+    "accounting",
+    "financial consulting",
+    "property tax reduction"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://bestfingroup.com/",
+  "official_source": "https://bestfingroup.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official firm site explicitly states it serves Polish-speaking clients and provides accounting and tax services."
+  ]
+}
