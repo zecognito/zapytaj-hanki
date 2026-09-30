@@ -1,0 +1,21 @@
+{
+  "id": "country-cyprus",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Cypr",
+  "facts": [
+    "Republika Cypryjska jest wyspiarskim państwem we wschodniej części Morza Śródziemnego, a jej stolicą jest Nikozja.",
+    "Językami urzędowymi Republiki Cypryjskiej są grecki i turecki, a walutą w części kontrolowanej przez Republikę jest euro.",
+    "Wyspa pozostaje faktycznie podzielona od 1974 roku; Republika Cypryjska jest członkiem Unii Europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.cy/en/about-cyprus/"
+  ],
+  "related_public_pages": []
+}
