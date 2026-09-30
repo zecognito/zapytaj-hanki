@@ -1,0 +1,21 @@
+{
+  "id": "ok-child_support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OK",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Oklahoma",
+  "facts": [
+    "Stanowe przepisy i program określają zasady w tym obszarze.",
+    "Szczegóły zależą od konkretnej sytuacji i aktualnych wymagań.",
+    "Przed działaniem należy sprawdzić aktualne informacje właściwej agencji stanowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://oklahoma.gov/okdhs/services/child-support-services.html"
+  ],
+  "related_public_pages": []
+}
