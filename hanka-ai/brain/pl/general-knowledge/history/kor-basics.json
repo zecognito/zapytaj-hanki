@@ -1,0 +1,21 @@
+{
+  "id": "kor-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "communism",
+  "title": "Komitet Obrony Robotników — KOR",
+  "facts": [
+    "Komitet Obrony Robotników powstał w 1976 r. jako inicjatywa pomocy osobom represjonowanym po protestach robotniczych.",
+    "KOR i związane z nim środowiska rozwijały niezależną działalność społeczną, informacyjną i opozycyjną wobec władz PRL.",
+    "Doświadczenia tego środowiska były ważne dla późniejszego rozwoju szerszej opozycji i Solidarności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/pl/historia-z-ipn/"
+  ],
+  "related_public_pages": []
+}
