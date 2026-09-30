@@ -1,0 +1,31 @@
+{
+  "id": "polonia-prof-law-krawiec-milwaukee-wi",
+  "country": "US",
+  "category": "lawyer",
+  "name": "Krawiec Law",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Milwaukee area",
+    "state": "WI",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "legal representation",
+    "Polish-language legal services"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://krawieclaw.com/",
+  "official_source": "https://krawieclaw.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official law-firm site offers Polish-language legal-service content. Exact street office withheld pending first-party confirmation."
+  ]
+}
