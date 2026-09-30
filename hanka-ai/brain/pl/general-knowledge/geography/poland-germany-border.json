@@ -1,0 +1,21 @@
+{
+  "id": "poland-germany-border",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "borders",
+  "title": "Granica Polski z Niemcami",
+  "facts": [
+    "Polska graniczy z Niemcami na zachodzie.",
+    "Znaczna część granicy przebiega wzdłuż Odry i Nysy Łużyckiej.",
+    "Oba państwa należą do strefy Schengen, ale kontrole graniczne mogą być czasowo przywracane zgodnie z przepisami Schengen."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/"
+  ],
+  "related_public_pages": []
+}
