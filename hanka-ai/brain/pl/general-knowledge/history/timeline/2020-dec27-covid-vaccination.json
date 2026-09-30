@@ -1,0 +1,23 @@
+{
+  "id": "2020-dec27-covid-vaccination",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "27 grudnia 2020 — początek szczepień przeciw COVID-19",
+  "facts": [
+    "27 grudnia 2020 r. rozpoczęto w Polsce szczepienia przeciw COVID-19 w ramach skoordynowanego startu szczepień w Unii Europejskiej.",
+    "Pierwsze dawki kierowano przede wszystkim do personelu medycznego i grup priorytetowych.",
+    "Program szczepień był następnie rozszerzany na kolejne grupy ludności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/",
+    "https://www.nato.int/",
+    "https://european-union.europa.eu/"
+  ],
+  "related_public_pages": []
+}
