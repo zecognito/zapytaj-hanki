@@ -1,0 +1,21 @@
+{
+  "id": "postal-code-format-poland-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "communications",
+  "title": "Kod pocztowy w Polsce — format",
+  "facts": [
+    "Polskie kody pocztowe mają format dwóch cyfr, łącznika i trzech cyfr, np. 00-001.",
+    "Kod pocztowy jest elementem adresu pocztowego i pomaga w sortowaniu przesyłek.",
+    "Nie należy wnioskować o dokładnych granicach administracyjnych wyłącznie na podstawie kodu pocztowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.poczta-polska.pl/"
+  ],
+  "related_public_pages": []
+}
