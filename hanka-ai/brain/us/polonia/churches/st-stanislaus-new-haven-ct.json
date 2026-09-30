@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-stanislaus-new-haven-ct",
+  "country": "US",
+  "category": "church",
+  "name": "St. Stanislaus Bishop and Martyr Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "9 Eld St",
+    "city": "New Haven",
+    "state": "CT",
+    "postal_code": "06511",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 203 562 2828",
+  "email": null,
+  "website": "https://ststanislausnewhaven.com",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "CT"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://ststanislausnewhaven.com",
+  "last_verified": "2026-09-30"
+}
