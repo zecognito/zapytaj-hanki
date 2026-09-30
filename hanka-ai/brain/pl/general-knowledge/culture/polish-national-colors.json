@@ -1,0 +1,21 @@
+{
+  "id": "polish-national-colors",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "national_symbols",
+  "title": "Polskie barwy narodowe",
+  "facts": [
+    "Barwami Rzeczypospolitej Polskiej są biały i czerwony.",
+    "Układ na fladze to biały pas nad czerwonym.",
+    "2 maja obchodzony jest Dzień Flagi Rzeczypospolitej Polskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/kultura/symbole-narodowe"
+  ],
+  "related_public_pages": []
+}
