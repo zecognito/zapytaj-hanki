@@ -1,0 +1,21 @@
+{
+  "id": "old-city-zamosc",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Zamość",
+  "facts": [
+    "Zamość został założony w XVI wieku przez Jana Zamoyskiego i zaprojektowany jako renesansowe miasto idealne.",
+    "Historyczne centrum zachowało charakterystyczny układ urbanistyczny i architekturę.",
+    "Old City of Zamość znajduje się na Liście Światowego Dziedzictwa UNESCO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://whc.unesco.org/en/list/564/"
+  ],
+  "related_public_pages": []
+}
