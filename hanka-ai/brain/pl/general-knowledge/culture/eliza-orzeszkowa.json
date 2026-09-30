@@ -1,0 +1,21 @@
+{
+  "id": "eliza-orzeszkowa",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "Eliza Orzeszkowa",
+  "facts": [
+    "Eliza Orzeszkowa była polską pisarką okresu pozytywizmu.",
+    "Do jej najbardziej znanych utworów należy powieść „Nad Niemnem”.",
+    "Jej twórczość podejmowała m.in. kwestie społeczne, pamięć Powstania Styczniowego i życie różnych grup dawnej Rzeczypospolitej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/eliza-orzeszkowa"
+  ],
+  "related_public_pages": []
+}
