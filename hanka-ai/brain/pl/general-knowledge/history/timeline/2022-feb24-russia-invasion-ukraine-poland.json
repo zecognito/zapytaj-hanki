@@ -1,0 +1,23 @@
+{
+  "id": "2022-feb24-russia-invasion-ukraine-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "24 lutego 2022 — pełnoskalowa rosyjska inwazja na Ukrainę i reakcja Polski",
+  "facts": [
+    "24 lutego 2022 r. Rosja rozpoczęła pełnoskalową inwazję na Ukrainę.",
+    "Polska, granicząca z Ukrainą, stała się jednym z głównych krajów przyjmujących osoby uciekające przed wojną.",
+    "Państwo, samorządy, organizacje społeczne i osoby prywatne uczestniczyły w organizowaniu pomocy i zakwaterowania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/",
+    "https://www.nato.int/",
+    "https://european-union.europa.eu/"
+  ],
+  "related_public_pages": []
+}
