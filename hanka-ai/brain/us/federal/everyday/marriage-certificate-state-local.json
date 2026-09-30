@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-marriage-certificate-state-local-record",
+  "subtopic": "notary_records",
+  "title": "Marriage certificate i marriage license — urząd stanowy lub lokalny",
+  "facts": [
+    "Marriage records i procedury marriage license są prowadzone przez state/local authorities, a nie przez jeden federalny marriage office.",
+    "Marriage license i certified marriage certificate nie są tym samym dokumentem; license upoważnia do zawarcia małżeństwa zgodnie z local law, a certificate/record dokumentuje zawarte małżeństwo.",
+    "Procedury uzyskania certified copy, opłaty i wymagane identification zależą od state/county/city jurisdiction.",
+    "Dokument przeznaczony do użycia za granicą może wymagać apostille lub authentication po uzyskaniu odpowiedniej certified copy."
+  ],
+  "official_sources": [
+    "https://www.usa.gov/marriage-certificate",
+    "https://travel.state.gov/content/travel/en/replace-certify-docs/authenticate-your-document.html"
+  ]
+}
