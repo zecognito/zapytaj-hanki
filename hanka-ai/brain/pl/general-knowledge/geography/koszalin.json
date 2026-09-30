@@ -1,0 +1,21 @@
+{
+  "id": "koszalin",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Koszalin",
+  "facts": [
+    "Koszalin jest miastem w województwie zachodniopomorskim, położonym kilka kilometrów od Bałtyku.",
+    "Pełni funkcję ważnego centrum administracyjnego, edukacyjnego i gospodarczego Pomorza Środkowego.",
+    "W latach 1950–1998 był stolicą województwa koszalińskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.koszalin.pl/"
+  ],
+  "related_public_pages": []
+}
