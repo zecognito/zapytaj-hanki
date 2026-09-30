@@ -1,0 +1,21 @@
+{
+  "id": "contiguous-us-definition",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "terms",
+  "title": "Co znaczy contiguous United States?",
+  "facts": [
+    "Contiguous United States oznacza 48 połączonych ze sobą stanów oraz District of Columbia w głównym obszarze Ameryki Północnej.",
+    "Alaska i Hawaii nie należą do contiguous United States.",
+    "Określenie continental United States bywa używane inaczej i może obejmować Alaska, dlatego w precyzyjnych danych lepiej używać contiguous United States."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usgs.gov/faqs/what-constitutes-united-states-what-are-official-definitions"
+  ],
+  "related_public_pages": []
+}
