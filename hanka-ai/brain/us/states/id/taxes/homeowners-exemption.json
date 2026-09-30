@@ -1,0 +1,21 @@
+{
+  "id": "id-homeowners-exemption",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "ID",
+  "topic": "taxes",
+  "subtopic": "state_specific_high_value",
+  "title": "Homeowner's Exemption w Idaho",
+  "facts": [
+    "To ważny program lub reguła specyficzna dla tego stanu.",
+    "Eligibility, wysokość świadczenia lub zakres ochrony zależy od aktualnych zasad programu.",
+    "Przed podjęciem działania należy sprawdzić bieżące wymagania i daty w oficjalnym źródle stanowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tax.idaho.gov/taxes/property/homeowners/"
+  ],
+  "related_public_pages": []
+}
