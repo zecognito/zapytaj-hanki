@@ -1,0 +1,21 @@
+{
+  "id": "pit-poland-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "taxes",
+  "title": "PIT w Polsce — podstawy",
+  "facts": [
+    "PIT to podatek dochodowy od osób fizycznych w Polsce.",
+    "Sposób opodatkowania zależy od rodzaju dochodu, statusu podatnika, ulg i innych zasad obowiązujących w danym roku.",
+    "Przy pytaniach o aktualne progi, stawki i ulgi Hanka powinna korzystać z bieżących informacji Ministerstwa Finansów, a nie z utrwalonych liczb."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.podatki.gov.pl/pit/"
+  ],
+  "related_public_pages": []
+}
