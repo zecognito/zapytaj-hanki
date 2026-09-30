@@ -1,0 +1,21 @@
+{
+  "id": "fragmentation-poland-1138",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "medieval",
+  "title": "Rozbicie dzielnicowe",
+  "facts": [
+    "Po śmierci Bolesława Krzywoustego w 1138 r. jego państwo zostało podzielone między synów zgodnie z zasadami testamentu.",
+    "Rozpoczął się długi okres rozbicia dzielnicowego, w którym różne linie Piastów rządziły poszczególnymi księstwami.",
+    "Proces ponownego jednoczenia ziem polskich trwał przez kolejne stulecia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
