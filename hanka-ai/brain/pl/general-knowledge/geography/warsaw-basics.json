@@ -1,0 +1,21 @@
+{
+  "id": "warsaw-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Warszawa — podstawy",
+  "facts": [
+    "Warszawa jest stolicą Polski i leży nad Wisłą w województwie mazowieckim.",
+    "Jest największym miastem Polski pod względem liczby mieszkańców.",
+    "Warszawa pełni funkcję głównego ośrodka administracji państwowej, a także ważnego centrum gospodarczego, akademickiego i kulturalnego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5501/14/17/1/polska_w_liczbach_2024_pl_pi.pdf"
+  ],
+  "related_public_pages": []
+}
