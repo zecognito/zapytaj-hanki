@@ -1,0 +1,21 @@
+{
+  "id": "in-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IN",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Indiany",
+  "facts": [
+    "Nowy mieszkaniec Indiana posiadający out-of-state driver license powinien uzyskać Indiana credential zgodnie z wymaganiami BMV.",
+    "Wymagane są odpowiednie dokumenty identity, lawful status, Social Security number i Indiana residency zależnie od credential.",
+    "Transfer driver license i title/registration pojazdu są odrębnymi procesami BMV."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.in.gov/bmv/licenses-permits-ids/new-indiana-residents/"
+  ],
+  "related_public_pages": []
+}
