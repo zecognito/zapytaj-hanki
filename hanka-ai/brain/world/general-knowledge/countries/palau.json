@@ -1,0 +1,21 @@
+{
+  "id": "country-palau",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Palau",
+  "facts": [
+    "Palau jest wyspiarską republiką Mikronezji na zachodnim Pacyfiku.",
+    "Stolicą jest Ngerulmud w stanie Melekeok; palauański i angielski są głównymi językami urzędowymi, a walutą jest dolar amerykański.",
+    "Palau pozostaje w wolnym stowarzyszeniu ze Stanami Zjednoczonymi na podstawie Compact of Free Association."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.palaugov.pw/"
+  ],
+  "related_public_pages": []
+}
