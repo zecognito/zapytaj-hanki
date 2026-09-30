@@ -1,0 +1,21 @@
+{
+  "id": "e-skierowanie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "healthcare",
+  "subtopic": "digital",
+  "title": "E-skierowanie",
+  "facts": [
+    "E-skierowanie jest elektroniczną formą skierowania funkcjonującą w polskim systemie ochrony zdrowia.",
+    "Informacje o skierowaniu mogą być dostępne m.in. przez Internetowe Konto Pacjenta.",
+    "Nie każde świadczenie wymaga skierowania, a zasady zależą od rodzaju świadczenia i aktualnych przepisów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://pacjent.gov.pl/internetowe-konto-pacjenta/eskierowanie"
+  ],
+  "related_public_pages": []
+}
