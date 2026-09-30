@@ -1,0 +1,21 @@
+{
+  "id": "wi-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WI",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową w Wisconsin",
+  "facts": [
+    "Wisconsin Open Housing Law zabrania określonych form dyskryminacji przy sprzedaży i wynajmie mieszkań.",
+    "Prawo stanowe określa protected classes, a federalny Fair Housing Act może zapewniać równoległą ochronę.",
+    "Skargi dotyczące Wisconsin Open Housing Law są obsługiwane przez Equal Rights Division zgodnie z procedurą stanową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dwd.wisconsin.gov/er/civilrights/housing/"
+  ],
+  "related_public_pages": []
+}
