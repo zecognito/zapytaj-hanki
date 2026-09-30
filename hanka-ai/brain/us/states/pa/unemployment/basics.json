@@ -1,0 +1,21 @@
+{
+  "id": "pa-unemployment-basics",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "PA",
+  "topic": "benefits",
+  "subtopic": "unemployment",
+  "title": "Unemployment Compensation w Pensylwanii",
+  "facts": [
+    "Pennsylvania Unemployment Compensation zapewnia czasowe świadczenia kwalifikującym się pracownikom, którzy utracili pracę lub część pracy bez własnej winy.",
+    "Eligibility zależy od historii zarobków, powodu bezrobocia i spełniania bieżących wymagań programu.",
+    "Claimant musi wykonywać wymagane certifications i przestrzegać zasad dotyczących dostępności do pracy oraz work search, jeśli mają zastosowanie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pa.gov/agencies/dli/programs-services/unemployment.html"
+  ],
+  "related_public_pages": []
+}
