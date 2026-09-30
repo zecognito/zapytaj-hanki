@@ -1,0 +1,21 @@
+{
+  "id": "polish-emigrants-abroad-2025",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "demographics",
+  "subtopic": "polish_emigration",
+  "title": "Ilu Polaków przebywa za granicą?",
+  "facts": [
+    "GUS szacuje, że pod koniec 2025 r. około 1,513 mln obywateli Polski przebywało czasowo za granicą przez 12 miesięcy lub dłużej.",
+    "Około 1,373 mln z nich przebywało w Europie, a około 835 tys. w państwach Unii Europejskiej.",
+    "Ta statystyka GUS nie oznacza całej światowej Polonii ani wszystkich osób polskiego pochodzenia; dotyczy określonej populacji emigrantów z Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://stat.gov.pl/obszary-tematyczne/ludnosc/migracje-zagraniczne-ludnosci/informacja-o-rozmiarach-i-kierunkach-czasowej-emigracji-z-polski-w-latach-2020-2025%2C18%2C4.html"
+  ],
+  "related_public_pages": []
+}
