@@ -1,0 +1,21 @@
+{
+  "id": "1794-kosciuszko-uprising-date",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1794 — insurekcja kościuszkowska",
+  "facts": [
+    "24 marca 1794 r. Tadeusz Kościuszko ogłosił w Krakowie akt powstania przeciw Rosji i jej wpływom w Rzeczypospolitej.",
+    "4 kwietnia powstańcy zwyciężyli pod Racławicami.",
+    "Insurekcja zakończyła się klęską, poprzedzając trzeci rozbiór Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
