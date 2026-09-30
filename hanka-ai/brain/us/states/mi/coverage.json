@@ -10,7 +10,10 @@
     "minimum_wage",
     "real_id",
     "auto_no_fault",
-    "medicaid"
+    "medicaid",
+    "unemployment",
+    "snap",
+    "vehicle_registration"
   ],
   "reference_state": "IL",
   "target_v1_areas": [
@@ -28,5 +31,5 @@
     "Illinois V1 is the reference architecture, but state records must reflect this state's actual laws and administration rather than mechanically copying Illinois.",
     "Local rules remain separate when materially different from statewide rules."
   ],
-  "record_count": 5
+  "record_count": 8
 }
