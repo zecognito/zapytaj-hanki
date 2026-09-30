@@ -1,0 +1,21 @@
+{
+  "id": "earthquake-regions",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "weather",
+  "subtopic": "climate_geography",
+  "title": "Gdzie w USA występują trzęsienia ziemi?",
+  "facts": [
+    "Ryzyko trzęsień ziemi występuje w wielu częściach USA, ale jest szczególnie istotne m.in. w Alaska, California i innych częściach Zachodu.",
+    "Centralne i wschodnie USA również mają aktywne strefy sejsmiczne, np. New Madrid Seismic Zone.",
+    "USGS publikuje national seismic hazard maps zamiast jednej prostej granicy regionu trzęsień ziemi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usgs.gov/programs/earthquake-hazards/science/national-seismic-hazard-model"
+  ],
+  "related_public_pages": []
+}
