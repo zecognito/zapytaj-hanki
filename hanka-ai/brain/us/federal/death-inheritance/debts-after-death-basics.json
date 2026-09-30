@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-death-debts-after-death",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "death_inheritance",
+  "subtopic": "estate_debts",
+  "title": "Debts after death - consumer basics",
+  "facts": [
+    "A deceased person's debts generally become obligations handled through the estate rather than automatically becoming the personal debts of relatives.",
+    "A surviving person can still be responsible when they were already legally liable, such as a co-borrower, joint account holder under applicable law, or in other circumstances created by state or federal law.",
+    "Debt collectors contacting survivors remain subject to applicable federal debt-collection rules.",
+    "Who must pay estate debts and the order of payment are heavily affected by state probate law."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/debts-and-deceased-relatives"
+  ],
+  "related_public_pages": []
+}
