@@ -1,0 +1,21 @@
+{
+  "id": "czeslaw-milosz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "Czesław Miłosz",
+  "facts": [
+    "Czesław Miłosz był poetą, eseistą i tłumaczem, laureatem Nobel Prize in Literature z 1980 r.",
+    "Urodził się na terenach dzisiejszej Litwy w wielokulturowym środowisku dawnej Rzeczypospolitej i pisał po polsku.",
+    "Po emigracji mieszkał m.in. w USA i przez wiele lat wykładał na University of California, Berkeley."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nobelprize.org/prizes/literature/1980/milosz/biographical/"
+  ],
+  "related_public_pages": []
+}
