@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-polish-bank-accounts-fbar",
+  "subtopic": "fbar",
+  "title": "Polskie konta bankowe i FBAR",
+  "facts": [
+    "Polskie konto bankowe jest zagranicznym rachunkiem finansowym dla celów FBAR, jeśli jest prowadzone poza USA.",
+    "U.S. person musi zasadniczo złożyć FBAR, gdy łączna wartość wszystkich zagranicznych rachunków finansowych przekroczyła 10 000 USD w dowolnym momencie roku kalendarzowego.",
+    "Próg 10 000 USD dotyczy sumy rachunków, a nie każdego rachunku osobno; brak dochodu na koncie nie usuwa obowiązku FBAR.",
+    "FBAR to FinCEN Form 114 i nie jest składany jako załącznik do federalnego zeznania podatkowego."
+  ],
+  "effective_from": null,
+  "official_sources": [
+    "https://www.irs.gov/businesses/small-businesses-self-employed/report-of-foreign-bank-and-financial-accounts-fbar",
+    "https://www.fincen.gov/report-foreign-bank-and-financial-accounts"
+  ]
+}
