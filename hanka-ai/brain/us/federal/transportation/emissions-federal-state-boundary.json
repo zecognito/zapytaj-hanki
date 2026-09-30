@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-cars-emissions-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "cars_transportation",
+  "subtopic": "emissions",
+  "title": "Vehicle emissions - federal and state boundary",
+  "facts": [
+    "EPA sets federal vehicle and engine emissions standards, but vehicle inspection and emissions-testing requirements for owners are implemented through state or local programs where applicable.",
+    "Not every state or county requires periodic emissions testing.",
+    "California has authority under the Clean Air Act waiver framework to establish certain vehicle-emission standards, and other states may adopt qualifying California standards under federal law.",
+    "A driver's testing deadline, exemption or inspection procedure therefore requires state and often county or metro-area information."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.epa.gov/state-and-local-transportation/vehicle-emissions-inspection-and-maintenance",
+    "https://www.epa.gov/regulations-emissions-vehicles-and-engines"
+  ],
+  "related_public_pages": []
+}
