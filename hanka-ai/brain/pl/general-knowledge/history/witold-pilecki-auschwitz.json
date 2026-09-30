@@ -1,0 +1,21 @@
+{
+  "id": "witold-pilecki-auschwitz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "resistance",
+  "title": "Witold Pilecki w Auschwitz",
+  "facts": [
+    "Witold Pilecki był oficerem polskiego podziemia, który w 1940 r. dobrowolnie pozwolił się aresztować w celu przedostania się do Auschwitz.",
+    "W obozie organizował konspirację i przekazywał informacje o niemieckich zbrodniach.",
+    "Po wojnie został aresztowany przez komunistyczne władze Polski, skazany w procesie politycznym i stracony w 1948 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
