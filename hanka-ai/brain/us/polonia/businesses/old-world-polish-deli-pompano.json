@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-old-world-polish-deli-pompano",
+  "country": "US",
+  "category": "store",
+  "name": "Old World Polish Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1245 S Powerline Rd",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "postal_code": "33069",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 954-977-8661",
+  "email": null,
+  "website": "https://oldworldpolishdeli.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Pompano Beach",
+    "FL"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://oldworldpolishdeli.com/",
+  "last_verified": "2026-09-30"
+}
