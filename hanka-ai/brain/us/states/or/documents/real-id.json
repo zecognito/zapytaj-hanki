@@ -1,0 +1,21 @@
+{
+  "id": "or-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OR",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Oregon",
+  "facts": [
+    "Stan wydaje dokument zgodny z federalnym REAL ID albo wskazuje stanowy dokument spełniający te wymagania.",
+    "Wniosek wymaga odpowiednich dokumentów tożsamości i miejsca zamieszkania.",
+    "Standardowy dokument niezgodny z REAL ID nie zastępuje dokumentu akceptowanego do objętych wymogiem zastosowań federalnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.oregon.gov/odot/dmv/pages/realidtraveler.aspx"
+  ],
+  "related_public_pages": []
+}
