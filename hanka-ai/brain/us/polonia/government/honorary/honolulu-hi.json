@@ -1,0 +1,36 @@
+{
+  "id": "polonia-gov-honorary-honolulu-hi",
+  "country": "US",
+  "category": "consulate_honorary",
+  "name": "Honorary Consulate of the Republic of Poland in Honolulu",
+  "aliases": [
+    "Konsulat Honorowy RP w Honolulu"
+  ],
+  "status": "active",
+  "location": {
+    "address": "2825 South King Street, #2701",
+    "city": "Honolulu",
+    "state": "HI",
+    "postal_code": "96826",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 808 955 4567",
+  "email": "bozenajarnot@gmail.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "honorary consular representation"
+  ],
+  "coverage_area": [
+    "HI"
+  ],
+  "notes": [
+    "Honorary consul: Bożena Jarnot"
+  ],
+  "official_source": "https://www.gov.pl/web/usa/konsulaty-honorowe",
+  "last_verified": "2026-09-30"
+}
