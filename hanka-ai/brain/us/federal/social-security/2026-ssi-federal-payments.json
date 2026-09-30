@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-ssi-federal-payments-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "social_security",
+  "subtopic": "ssi",
+  "title": "SSI federal payment amounts — 2026",
+  "facts": [
+    "Maksymalna federalna SSI payment w 2026 wynosi $994 miesięcznie dla kwalifikującej się osoby.",
+    "Maksymalna federalna SSI payment w 2026 wynosi $1,491 miesięcznie dla kwalifikującej się pary.",
+    "Faktyczna SSI payment może być niższa ze względu na countable income, living arrangement i inne zasady; niektóre stany dodają supplement.",
+    "SSI jest needs-based i nie wymaga Social Security work credits."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/cola/factsheets/2026.html",
+    "https://www.ssa.gov/ssi/amount"
+  ],
+  "related_public_pages": []
+}
