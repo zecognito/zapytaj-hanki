@@ -1,0 +1,21 @@
+{
+  "id": "car-seat-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "family",
+  "subtopic": "child_safety",
+  "title": "Car seat — podstawy",
+  "facts": [
+    "Dzieci powinny korzystać z odpowiedniego car seat, booster seat lub seat belt zgodnie z wiekiem, rozmiarem, instrukcją producenta i prawem stanowym.",
+    "NHTSA zaleca dobór restraint według etapu rozwoju dziecka, a nie przechodzenie do kolejnego etapu wyłącznie na podstawie wieku.",
+    "Konkretne prawne wymagania dotyczące child restraints różnią się między stanami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats"
+  ],
+  "related_public_pages": []
+}
