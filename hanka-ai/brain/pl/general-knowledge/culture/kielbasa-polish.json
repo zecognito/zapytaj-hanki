@@ -1,0 +1,21 @@
+{
+  "id": "kielbasa-polish",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Kiełbasa w polskiej kuchni",
+  "facts": [
+    "„Kiełbasa” w języku polskim jest ogólnym określeniem dużej grupy wyrobów mięsnych, a nie nazwą jednego konkretnego produktu.",
+    "Polskie kiełbasy różnią się mięsem, przyprawami, sposobem wędzenia, suszenia i gotowania.",
+    "Amerykańskie określenie „Polish sausage” często odnosi się do węższego typu produktu niż polskie słowo „kiełbasa”."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101-kielbasa"
+  ],
+  "related_public_pages": []
+}
