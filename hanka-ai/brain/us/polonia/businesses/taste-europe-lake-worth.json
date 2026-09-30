@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-taste-europe-lake-worth",
+  "country": "US",
+  "category": "store",
+  "name": "Taste of Europe Polish & European Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1700 Lake Worth Rd",
+    "city": "Lake Worth Beach",
+    "state": "FL",
+    "postal_code": "33460",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 561-585-8000",
+  "email": null,
+  "website": "https://tasteofeuropefl.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Lake Worth Beach",
+    "FL"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://tasteofeuropefl.com/",
+  "last_verified": "2026-09-30"
+}
