@@ -1,0 +1,36 @@
+{
+  "id": "polonia-gov-honorary-rancho-santa-fe-ca",
+  "country": "US",
+  "category": "consulate_honorary",
+  "name": "Honorary Consulate of the Republic of Poland in Rancho Santa Fe",
+  "aliases": [
+    "Konsulat Honorowy RP w Rancho Santa Fe"
+  ],
+  "status": "active",
+  "location": {
+    "address": "16212 Avenida Cuesta Los Osos",
+    "city": "Rancho Santa Fe",
+    "state": "CA",
+    "postal_code": "92067",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 619 417 0454",
+  "email": "behaider@yahoo.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "honorary consular representation"
+  ],
+  "coverage_area": [
+    "CA"
+  ],
+  "notes": [
+    "Honorary consul: Barbara Haider"
+  ],
+  "official_source": "https://www.gov.pl/web/usa/konsulaty-honorowe",
+  "last_verified": "2026-09-30"
+}
