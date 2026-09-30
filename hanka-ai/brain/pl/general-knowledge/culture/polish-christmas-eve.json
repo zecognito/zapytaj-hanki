@@ -1,0 +1,21 @@
+{
+  "id": "polish-christmas-eve",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Wigilia w Polsce",
+  "facts": [
+    "Wigilia 24 grudnia jest w Polsce ważnym rodzinnym zwyczajem związanym z Bożym Narodzeniem.",
+    "Do szeroko znanych tradycji należą dzielenie się opłatkiem, uroczysta kolacja oraz regionalne potrawy.",
+    "Zwyczaj „12 potraw” jest popularny, ale praktyki różnią się między rodzinami i regionami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/a-foreigners-guide-to-polish-christmas"
+  ],
+  "related_public_pages": []
+}
