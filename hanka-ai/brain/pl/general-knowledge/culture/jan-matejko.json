@@ -1,0 +1,21 @@
+{
+  "id": "jan-matejko",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "art",
+  "title": "Jan Matejko",
+  "facts": [
+    "Jan Matejko był polskim malarzem XIX wieku znanym przede wszystkim z monumentalnych obrazów historycznych.",
+    "Do jego najbardziej znanych dzieł należą „Bitwa pod Grunwaldem”, „Hołd pruski” i „Konstytucja 3 Maja 1791 roku”.",
+    "Jego obrazy silnie wpłynęły na polską wyobraźnię historyczną, ale są artystycznymi interpretacjami, a nie fotograficznym zapisem wydarzeń."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mnk.pl/oddzial/dom-jana-matejki"
+  ],
+  "related_public_pages": []
+}
