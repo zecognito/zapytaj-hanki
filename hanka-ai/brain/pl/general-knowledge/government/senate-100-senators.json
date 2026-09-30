@@ -1,0 +1,21 @@
+{
+  "id": "senate-100-senators",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "parliament",
+  "title": "Senat — 100 senatorów",
+  "facts": [
+    "Senat Rzeczypospolitej Polskiej składa się ze 100 senatorów.",
+    "Senatorowie są wybierani w wyborach powszechnych, bezpośrednich i w głosowaniu tajnym.",
+    "Kadencja Senatu jest powiązana z kadencją Sejmu i zasadniczo trwa cztery lata."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sejm.gov.pl/prawo/konst/polski/kon1.htm"
+  ],
+  "related_public_pages": []
+}
