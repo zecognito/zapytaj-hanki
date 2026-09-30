@@ -1,0 +1,21 @@
+{
+  "id": "tx-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TX",
+  "topic": "vehicles",
+  "subtopic": "insurance",
+  "title": "Obowiązkowe auto liability insurance w Teksasie",
+  "facts": [
+    "Texas wymaga od kierowców wykazania financial responsibility; większość spełnia ten obowiązek poprzez auto liability insurance.",
+    "Standardowa polisa spełniająca minimum stanowe musi zapewniać co najmniej wymagane prawem limity liability za bodily injury i property damage.",
+    "Kierowca powinien utrzymywać proof of financial responsibility zgodnie z wymaganiami Texas law."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.tdi.texas.gov/pubs/consumer/cb020.html"
+  ],
+  "related_public_pages": []
+}
