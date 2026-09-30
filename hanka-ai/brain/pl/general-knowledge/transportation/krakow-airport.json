@@ -1,0 +1,21 @@
+{
+  "id": "krakow-airport",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "airports",
+  "title": "Kraków Airport",
+  "facts": [
+    "Port lotniczy Kraków-Balice obsługuje Kraków i znaczną część południowej Polski.",
+    "Kod IATA lotniska to KRK.",
+    "Lotnisko znajduje się w Balicach, na zachód od centrum Krakowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.krakowairport.pl/"
+  ],
+  "related_public_pages": []
+}
