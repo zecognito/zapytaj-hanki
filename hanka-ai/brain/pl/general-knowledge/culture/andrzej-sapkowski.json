@@ -1,0 +1,21 @@
+{
+  "id": "andrzej-sapkowski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "notable-people",
+  "title": "Andrzej Sapkowski",
+  "facts": [
+    "Andrzej Sapkowski jest polskim pisarzem fantasy, twórcą opowiadań i powieści o wiedźminie Geralcie z Rivii.",
+    "Cykl wiedźmiński zdobył międzynarodową popularność i został przetłumaczony na wiele języków.",
+    "Świat Sapkowskiego stał się podstawą gier, adaptacji ekranowych i innych dzieł, które należy odróżniać od literackiego oryginału."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
