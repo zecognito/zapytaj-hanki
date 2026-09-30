@@ -1,0 +1,49 @@
+{
+  "id": "polonia-gov-consulate-los-angeles",
+  "country": "US",
+  "category": "consulate_general",
+  "name": "Consulate General of the Republic of Poland in Los Angeles",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "12400 Wilshire Boulevard, Suite 555",
+    "city": "Los Angeles",
+    "state": "CA",
+    "postal_code": "90025",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 310 442 8500",
+  "email": "losangeles.consul@msz.gov.pl",
+  "website": "https://www.gov.pl/web/usa-en/consulate-general-los-angeles",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "passports",
+    "visas",
+    "citizenship",
+    "legal matters",
+    "civil status",
+    "Karta Polaka",
+    "consular assistance"
+  ],
+  "coverage_area": [
+    "AK",
+    "AZ",
+    "CA",
+    "CO",
+    "HI",
+    "ID",
+    "MT",
+    "NV",
+    "OR",
+    "UT",
+    "WA",
+    "WY"
+  ],
+  "notes": [],
+  "official_source": "https://www.gov.pl/web/usa-en/consulate-general-los-angeles",
+  "last_verified": "2026-09-30"
+}
