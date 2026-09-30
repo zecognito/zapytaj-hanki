@@ -1,0 +1,21 @@
+{
+  "id": "deserts-us",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "nature",
+  "subtopic": "physical_geography",
+  "title": "Pustynie USA",
+  "facts": [
+    "Główne pustynne regiony USA obejmują Mojave, Sonoran, Chihuahuan i Great Basin deserts.",
+    "Nie wszystkie pustynie są gorące przez cały rok; Great Basin jest przykładem cold desert.",
+    "Desert oznacza przede wszystkim bardzo małą ilość opadów, a nie wyłącznie wysoką temperaturę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/subjects/nnlandmarks/deserts.htm"
+  ],
+  "related_public_pages": []
+}
