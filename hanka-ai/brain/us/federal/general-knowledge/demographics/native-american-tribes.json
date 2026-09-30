@@ -1,0 +1,21 @@
+{
+  "id": "native-american-tribes",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "demographics",
+  "subtopic": "people",
+  "title": "Native American tribes and nations",
+  "facts": [
+    "USA obejmują setki federally recognized American Indian and Alaska Native tribes posiadających odrębne relacje government-to-government z rządem federalnym.",
+    "Tribal sovereignty oznacza, że tribes mają określone własne uprawnienia rządowe; nie są po prostu organizacjami etnicznymi.",
+    "Federal recognition, tribal citizenship i geograficzne reservations to odrębne pojęcia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bia.gov/faqs/what-federally-recognized-tribe"
+  ],
+  "related_public_pages": []
+}
