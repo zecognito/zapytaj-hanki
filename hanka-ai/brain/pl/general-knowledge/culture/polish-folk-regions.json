@@ -1,0 +1,21 @@
+{
+  "id": "polish-folk-regions",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "regional_culture",
+  "title": "Regionalne kultury ludowe Polski",
+  "facts": [
+    "Polska ma liczne regionalne tradycje ludowe różniące się strojami, muzyką, gwarą, architekturą i zwyczajami.",
+    "Do rozpoznawalnych kultur regionalnych należą m.in. podhalańska, kaszubska, kurpiowska, łowicka i śląska.",
+    "Folklor regionalny nie oznacza, że wszyscy współcześni mieszkańcy danego regionu praktykują te same tradycje."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.polona.pl/"
+  ],
+  "related_public_pages": []
+}
