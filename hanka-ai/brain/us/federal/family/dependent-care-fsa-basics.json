@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-family-dependent-care-fsa",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "family_children",
+  "subtopic": "childcare",
+  "title": "Dependent care FSA - federal basics",
+  "facts": [
+    "An employer dependent care assistance program can allow eligible employees to pay qualifying dependent-care expenses with tax-advantaged benefits, subject to federal limits and plan terms.",
+    "Dependent-care FSA rules are different from health FSA rules and the accounts should not be treated interchangeably.",
+    "Using dependent-care benefits can affect the expenses available for the Child and Dependent Care Credit, preventing double tax benefits for the same expense.",
+    "Annual federal exclusion limits and plan-specific election rules should be checked for the applicable tax year."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/publications/p503"
+  ],
+  "related_public_pages": []
+}
