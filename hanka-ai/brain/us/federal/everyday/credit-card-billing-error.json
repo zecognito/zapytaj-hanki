@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-credit-card-billing-error",
+  "subtopic": "banking_payments",
+  "title": "Błąd na rachunku karty kredytowej i FCBA",
+  "facts": [
+    "Fair Credit Billing Act daje określone prawa do kwestionowania billing errors na open-end credit accounts, takich jak credit cards.",
+    "Aby zachować pełne prawa proceduralne FCBA, pisemne billing-error notice zasadniczo musi dotrzeć do creditor w ciągu 60 dni od pierwszego statement zawierającego błąd.",
+    "Creditor zasadniczo musi potwierdzić otrzymanie sporu w ciągu 30 dni, chyba że wcześniej rozwiąże sprawę, i rozstrzygnąć ją w ciągu dwóch billing cycles, nie później niż 90 dni.",
+    "W czasie prawidłowo zgłoszonego sporu konsument nadal powinien zapłacić niesporną część rachunku."
+  ],
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-a-charge-on-my-credit-card-bill-en-61/",
+    "https://www.ftc.gov/legal-library/browse/statutes/fair-credit-billing-act"
+  ]
+}
