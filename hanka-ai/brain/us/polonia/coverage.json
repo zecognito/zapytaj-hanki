@@ -43,13 +43,13 @@
       ]
     },
     "businesses": {
-      "status": "food_retail_audited_first_pass",
-      "records": 167,
+      "status": "professionals_in_progress",
+      "records": 173,
       "notes": [
-        "Food/retail first-pass audit closed at 167 records. Weak/non-Polish entries were removed, inaccurate locations corrected, directory-only leads downgraded to unverified, and many strong entries upgraded to direct first-party sources.",
-        "Known unverified and closed records are intentionally retained as non-recommendable leads/history; retrieval must be status-aware before Vectorize ingestion.",
-        "A full machine schema-validation sweep should still run before ingestion. The manual audit discovered and fixed at least one malformed services field, demonstrating why validation remains a mandatory ingestion gate.",
-        "Professional-services expansion begins next with Chicagoland and NY/NJ. For regulated professions, Polish-language capability must be explicitly evidenced; surname inference is prohibited. Licensing/credential evidence should be captured from authoritative or first-party sources."
+        "Food/retail first-pass audit closed at 167 records; machine schema validation remains mandatory before ingestion.",
+        "Professional-services expansion started with six high-confidence Polish-language records: four law practices in Chicagoland/NY and one additional Chicago law practice plus one Chicago dental practice. Every added record has explicit Polish-language evidence from its own current website; no surname inference was used.",
+        "Regulated-profession rule remains: prefer first-party practice identity plus authoritative licensing/credential verification where available; Polish language must be explicitly evidenced. Expand Chicagoland and NY/NJ first across lawyers, dentists, doctors, accountants, insurance, real estate and other useful services.",
+        "Vectorize ingestion remains blocked until the professional layer is mature and status-aware retrieval/schema validation are ready."
       ]
     },
     "media_culture": {
