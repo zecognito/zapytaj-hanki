@@ -1,0 +1,21 @@
+{
+  "id": "shoe-sizes-vary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday",
+  "subtopic": "shopping",
+  "title": "Rozmiary butów w USA",
+  "facts": [
+    "U.S. shoe sizes używają innej numeracji niż europejski system rozmiarów.",
+    "Men's, women's i children's sizing są odrębnymi skalami, a dopasowanie może różnić się między producentami.",
+    "Nie istnieje jedna federalnie obowiązkowa tabela konwersji EU↔US; należy używać size chart producenta."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nist.gov/pml/owm"
+  ],
+  "related_public_pages": []
+}
