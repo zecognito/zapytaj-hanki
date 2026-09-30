@@ -1,0 +1,33 @@
+{
+  "id": "polonia-business-euromart-grand-junction",
+  "country": "US",
+  "category": "store",
+  "name": "Euromart",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "Grand Junction",
+    "city": "Grand Junction",
+    "state": "CO",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": "https://www.euromartgj.com/team-1",
+  "coverage_area": [
+    "Grand Junction",
+    "CO"
+  ],
+  "notes": [
+    "Polish-food relevance supported by current official business or Polonia/local source. Commercial status and details remain freshness-sensitive."
+  ],
+  "official_source": "https://www.euromartgj.com/",
+  "last_verified": "2026-09-30"
+}
