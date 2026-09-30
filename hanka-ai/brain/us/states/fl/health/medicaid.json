@@ -1,0 +1,21 @@
+{
+  "id": "fl-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "FL",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Medicaid na Florydzie",
+  "facts": [
+    "Florida Medicaid zapewnia health coverage kwalifikującym się osobom należącym do kategorii określonych przez stan i prawo federalne.",
+    "Florida nie stosuje ogólnego rozszerzenia Medicaid dla wszystkich niskodochodowych dorosłych na zasadach ACA expansion, dlatego sama niska wysokość dochodu nie gwarantuje eligibility.",
+    "Eligibility może zależeć m.in. od wieku, ciąży, dzieci w gospodarstwie, disability i innych kategorii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.myflfamilies.com/services/public-assistance/medicaid"
+  ],
+  "related_public_pages": []
+}
