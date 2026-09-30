@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-our-lady-bright-mount-los-angeles-ca",
+  "country": "US",
+  "category": "church",
+  "name": "Our Lady of the Bright Mount Polish Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "3424 W Adams Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "postal_code": "90018",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 323 734 5249",
+  "email": null,
+  "website": "https://parafiala.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "CA"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://parafiala.org",
+  "last_verified": "2026-09-30"
+}
