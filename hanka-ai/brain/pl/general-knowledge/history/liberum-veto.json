@@ -1,0 +1,21 @@
+{
+  "id": "liberum-veto",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "political_systems",
+  "title": "Liberum veto",
+  "facts": [
+    "Liberum veto było praktyką parlamentarną Rzeczypospolitej, która pozwalała posłowi sprzeciwić się uchwałom sejmu i w określonych warunkach doprowadzić do zerwania obrad.",
+    "Z czasem mechanizm przyczyniał się do paraliżu części prac sejmu i był wykorzystywany również przez obce mocarstwa.",
+    "Nie należy redukować wszystkich przyczyn upadku Rzeczypospolitej wyłącznie do liberum veto."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
