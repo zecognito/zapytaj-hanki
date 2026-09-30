@@ -1,0 +1,21 @@
+{
+  "id": "md-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MD",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Maryland",
+  "facts": [
+    "Nowy mieszkaniec powinien uzyskać stanowe driver license zgodnie z terminem i procedurą dla nowych residents.",
+    "Proces zwykle wymaga potwierdzenia identity, lawful presence lub odpowiedniego statusu dokumentacyjnego oraz residency zgodnie z właściwą kategorią dokumentu.",
+    "Wymagania dotyczące testów i uznania ważnego out-of-state license zależą od sytuacji kierowcy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mva.maryland.gov/drivers/Pages/md-drivers-license.aspx"
+  ],
+  "related_public_pages": []
+}
