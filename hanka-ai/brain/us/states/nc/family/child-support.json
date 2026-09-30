@@ -1,0 +1,21 @@
+{
+  "id": "nc-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NC",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Karolinie Północnej",
+  "facts": [
+    "North Carolina Child Support Services pomaga m.in. ustalać paternity, support orders i egzekwować płatności.",
+    "Usługi są realizowane poprzez stanowy system i local child support offices.",
+    "Wysokość support jest ustalana zgodnie z North Carolina Child Support Guidelines i faktami sprawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ncdhhs.gov/divisions/social-services/child-support-services"
+  ],
+  "related_public_pages": []
+}
