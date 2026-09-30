@@ -1,0 +1,21 @@
+{
+  "id": "school-year-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school_system",
+  "title": "Rok szkolny w Polsce",
+  "facts": [
+    "Rok szkolny w Polsce rozpoczyna się we wrześniu i kończy przed wakacjami letnimi zgodnie z kalendarzem ustalanym na dany rok.",
+    "Ferie zimowe są organizowane w różnych terminach dla grup województw.",
+    "Dokładne daty rozpoczęcia, zakończenia, ferii i przerw świątecznych należy sprawdzać dla konkretnego roku szkolnego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/edukacja/kalendarz-roku-szkolnego"
+  ],
+  "related_public_pages": []
+}
