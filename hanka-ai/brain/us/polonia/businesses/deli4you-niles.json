@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-deli4you-niles",
+  "country": "US",
+  "category": "store",
+  "name": "Deli 4 You Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "8526 W Golf Rd",
+    "city": "Niles",
+    "state": "IL",
+    "postal_code": "60714",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 847-398-0210",
+  "email": null,
+  "website": "https://deliforyou.com/en/stores/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Niles",
+    "IL"
+  ],
+  "notes": [
+    "Commercial directory record. Business status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://deliforyou.com/en/stores/",
+  "last_verified": "2026-09-30"
+}
