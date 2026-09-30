@@ -1,0 +1,21 @@
+{
+  "id": "mi-homestead-property-tax-credit",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MI",
+  "topic": "housing",
+  "subtopic": "property_tax_relief",
+  "title": "Homestead Property Tax Credit w Michigan",
+  "facts": [
+    "Michigan Homestead Property Tax Credit może pomóc kwalifikującym się mieszkańcom w związku z property taxes lub określoną częścią rent.",
+    "Eligibility i wysokość credit zależą m.in. od household resources, taxable value i innych limitów dla danego roku.",
+    "Credit jest zgłaszany zgodnie z zasadami Michigan Department of Treasury."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.michigan.gov/taxes/iit/credits/homestead-property-tax-credit"
+  ],
+  "related_public_pages": []
+}
