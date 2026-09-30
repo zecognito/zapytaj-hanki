@@ -44,12 +44,12 @@
     },
     "businesses": {
       "status": "professionals_national_expansion",
-      "records": 293,
+      "records": 298,
       "notes": [
         "Food/retail first-pass audit closed at 167 records; machine schema validation remains mandatory before ingestion.",
-        "Latest batch adds 16 current State Farm offices with explicit first-party Polish-language evidence, expanding insurance coverage across Pennsylvania, Michigan, Connecticut, Indiana, New York, New Jersey, Arizona and Illinois.",
-        "State Farm records use office-level language evidence from official agent profiles. Gerard Ciraulo NJ is supported by an official team profile identifying office representative Edyta Olic as fluent in Polish; its street address remains null until first-party confirmation.",
-        "Insurance expansion demonstrates the preferred professional pattern: authoritative current provider profile + physical location + explicit Polish capability. Continue mining similarly strong first-party sources for healthcare, accounting/tax, real estate and banking.",
+        "Latest direct-provider sweep exposed weaker search evidence outside structured first-party sources. Expansion is now explicitly quality-gated: do not convert Polish-community directory leads into active professionals without current first-party provider evidence.",
+        "This pass added five discovery records, including two deliberately unverified candidates. Unverified candidates are quarantine/discovery data only and must never be recommended or outrank active verified providers.",
+        "The State Farm-style standard remains preferred: current provider-controlled page, explicit Polish capability, current location/contact. Future healthcare, accounting/tax, real-estate and bank expansion should prioritize sources that can meet that standard rather than raw volume.",
         "Bank evidence tiers remain locked. Vectorize remains blocked until coverage and schema/status-aware ingestion are mature."
       ]
     },
