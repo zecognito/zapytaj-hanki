@@ -1,0 +1,21 @@
+{
+  "id": "koleje-mazowieckie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "infrastructure",
+  "title": "Koleje Mazowieckie",
+  "facts": [
+    "Koleje Mazowieckie są regionalnym przewoźnikiem kolejowym działającym przede wszystkim w województwie mazowieckim.",
+    "Sieć połączeń jest silnie związana z Warszawą i codziennymi dojazdami w regionie.",
+    "Koleje Mazowieckie są odrębną spółką od PKP Intercity i POLREGIO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mazowieckie.com.pl/"
+  ],
+  "related_public_pages": []
+}
