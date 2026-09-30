@@ -1,0 +1,21 @@
+{
+  "id": "hamburger-us",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Hamburger w USA",
+  "facts": [
+    "Hamburger to ground-beef patty podawany najczęściej w bun i jest jednym z najbardziej rozpoznawalnych dań amerykańskiej kultury popularnej.",
+    "Historia hamburgera obejmuje wpływy europejskie i rozwój w USA na przełomie XIX i XX wieku; wiele miejsc przypisuje sobie jego wczesne wersje.",
+    "Cheeseburger jest wariantem hamburgera z serem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://americanhistory.si.edu/explore/stories/food-history"
+  ],
+  "related_public_pages": []
+}
