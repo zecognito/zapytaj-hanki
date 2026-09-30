@@ -1,0 +1,21 @@
+{
+  "id": "wawel-dragon",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "legends",
+  "title": "Smok Wawelski",
+  "facts": [
+    "Smok Wawelski jest bohaterem jednej z najbardziej znanych polskich legend związanych z Krakowem i Wawelem.",
+    "Istnieje kilka wersji opowieści o pokonaniu smoka, dlatego szczegóły dotyczące bohatera i sposobu jego zgładzenia różnią się.",
+    "Legenda jest elementem kultury Krakowa, a nie wydarzeniem historycznym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.krakow.pl/odwiedz_krakow/2601,artykul,legendy.html"
+  ],
+  "related_public_pages": []
+}
