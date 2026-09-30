@@ -5,13 +5,15 @@
   "region": "IL",
   "state": "Illinois",
   "last_verified": "2026-09-30",
-  "status": "started",
+  "status": "substantial",
   "description": "Reference coverage map for canonical Illinois state-level Hanka Brain knowledge. State records capture material Illinois deltas from federal rules and practical state administration.",
   "topics": {
     "taxes": {
       "status": "started",
       "completed": [
-        "income_tax_rate"
+        "income_tax_rate",
+        "retirement_income",
+        "sales_tax"
       ],
       "planned": [
         "sales_tax",
@@ -28,7 +30,9 @@
         "paid_leave",
         "meal_breaks",
         "sick_leave",
-        "nicu_leave"
+        "nicu_leave",
+        "wage_payment",
+        "final_paycheck"
       ],
       "planned": [
         "overtime_state_rules",
@@ -56,7 +60,8 @@
       "status": "started",
       "completed": [
         "real_id",
-        "new_resident_license"
+        "new_resident_license",
+        "license_renewal"
       ],
       "planned": [
         "standard_id",
@@ -69,7 +74,10 @@
       "status": "started",
       "completed": [
         "liability_insurance",
-        "new_resident_registration"
+        "new_resident_registration",
+        "emissions",
+        "title_transfer",
+        "teen_drivers"
       ],
       "planned": [
         "emissions",
@@ -80,37 +88,48 @@
       ]
     },
     "health_benefits": {
-      "status": "planned",
-      "completed": [],
-      "planned": [
+      "status": "started",
+      "completed": [
         "medicaid",
         "all_kids",
         "snap_state_admin",
-        "liheap",
+        "liheap"
+      ],
+      "planned": [
         "marketplace"
       ]
     },
     "housing": {
-      "status": "planned",
-      "completed": [],
-      "planned": [
+      "status": "started",
+      "completed": [
         "security_deposits",
         "eviction",
+        "property_tax_relief",
+        "senior_property_tax_relief"
+      ],
+      "planned": [
         "renters_rights",
-        "fair_housing",
-        "property_tax_relief"
+        "fair_housing"
       ]
     },
     "family": {
-      "status": "planned",
-      "completed": [],
-      "planned": [
+      "status": "started",
+      "completed": [
         "child_support",
+        "child_care_assistance"
+      ],
+      "planned": [
         "divorce_basics",
         "parental_rights",
-        "domestic_violence",
-        "child_care_assistance"
+        "domestic_violence"
       ]
     }
-  }
+  },
+  "record_count": 30,
+  "notes": [
+    "Illinois is the reference implementation for the 50-state + DC layer.",
+    "Canonical state records capture material state deltas and practical state administration; federal baseline remains in the federal Brain.",
+    "Local rules such as Chicago/Cook County paid leave, landlord-tenant rules and municipal taxes should remain separate local records when materially necessary.",
+    "Next Illinois pass should close remaining high-value gaps before using this structure as the national state template."
+  ]
 }
