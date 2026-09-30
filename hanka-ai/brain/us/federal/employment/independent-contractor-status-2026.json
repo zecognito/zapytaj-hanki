@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-employment-independent-contractor-status-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "independent_contractor",
+  "title": "Employee vs independent contractor — federal FLSA status 2026",
+  "facts": [
+    "Pod FLSA nazwanie worker 'independent contractor', wystawianie 1099 albo podpisanie contractor agreement samo w sobie nie rozstrzyga statusu.",
+    "Federal analysis skupia się na economic reality relacji i na tym, czy worker jest economically dependent on employer czy prowadzi business for themself.",
+    "W 2026 DOL prowadzi rulemaking dotyczący testu employee/independent contractor i ogłosił, że 2024 rule nie jest stosowana w jego investigations; status prawny i enforcement guidance należy sprawdzać na bieżąco.",
+    "IRS, unemployment, workers' compensation i state laws mogą stosować inne tests niż FLSA, więc jedna klasyfikacja nie musi automatycznie rozstrzygać wszystkich systemów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/whd/flsa/misclassification/2026rulemaking",
+    "https://www.dol.gov/agencies/whd/fact-sheets/13-flsa-employment-relationship"
+  ],
+  "related_public_pages": []
+}
