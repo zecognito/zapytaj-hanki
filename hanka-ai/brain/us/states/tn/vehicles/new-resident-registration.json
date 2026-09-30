@@ -1,0 +1,21 @@
+{
+  "id": "tn-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TN",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Tennessee",
+  "facts": [
+    "Nowy mieszkaniec powinien zarejestrować pojazd zgodnie z procedurą i terminem obowiązującym w stanie.",
+    "Proces może wymagać dokumentu ownership, identyfikacji, ubezpieczenia, opłat i dodatkowych kontroli.",
+    "Szczegółowe wymagania zależą od pojazdu i sytuacji właściciela."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.tn.gov/revenue/title-and-registration/vehicle-registration/initial-registration.html"
+  ],
+  "related_public_pages": []
+}
