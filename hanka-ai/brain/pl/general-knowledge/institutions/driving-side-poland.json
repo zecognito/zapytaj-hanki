@@ -1,0 +1,21 @@
+{
+  "id": "driving-side-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "transportation",
+  "title": "Po której stronie jeździ się w Polsce?",
+  "facts": [
+    "W Polsce pojazdy poruszają się prawą stroną jezdni.",
+    "Kierownica w typowym samochodzie jest po lewej stronie pojazdu.",
+    "To ten sam podstawowy układ ruchu co w większości kontynentalnej Europy i w Stanach Zjednoczonych, ale szczegółowe przepisy drogowe różnią się."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602"
+  ],
+  "related_public_pages": []
+}
