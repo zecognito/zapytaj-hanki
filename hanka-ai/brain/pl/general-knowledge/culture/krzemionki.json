@@ -1,0 +1,21 @@
+{
+  "id": "krzemionki",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Krzemionki",
+  "facts": [
+    "Krzemionki są zespołem prehistorycznych kopalń krzemienia pasiastego w regionie świętokrzyskim.",
+    "Eksploatacja odbywała się w neolicie i wczesnej epoce brązu.",
+    "Krzemionki Prehistoric Striped Flint Mining Region znajduje się na Liście Światowego Dziedzictwa UNESCO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://whc.unesco.org/en/list/1599/"
+  ],
+  "related_public_pages": []
+}
