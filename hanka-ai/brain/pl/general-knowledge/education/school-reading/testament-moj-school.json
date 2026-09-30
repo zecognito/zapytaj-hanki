@@ -1,0 +1,21 @@
+{
+  "id": "testament-moj-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Testament mój — Juliusz Słowacki",
+  "facts": [
+    "Testament mój, autor: Juliusz Słowacki; ważny tekst szkolnego kanonu, epoka: romantyzm.",
+    "Liryczny testament poety mówiący o misji twórcy, samotności, pamięci i zobowiązaniu kolejnych pokoleń.",
+    "Hanka powinna znać główne postacie lub podmiot, fabułę tam gdzie dotyczy, motywy, problematykę, epokę i historyczno-kulturowy kontekst utworu."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
