@@ -1,0 +1,21 @@
+{
+  "id": "trojmiasto",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "urban_regions",
+  "title": "Trójmiasto",
+  "facts": [
+    "Trójmiasto to wspólne określenie Gdańska, Gdyni i Sopotu oraz ich silnie powiązanego obszaru miejskiego.",
+    "Nie jest jednym miastem ani województwem.",
+    "Każde z trzech miast ma własne władze samorządowe i odrębną historię."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.metropoliagdansk.pl/"
+  ],
+  "related_public_pages": []
+}
