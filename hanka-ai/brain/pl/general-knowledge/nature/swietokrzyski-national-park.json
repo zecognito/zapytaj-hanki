@@ -1,0 +1,21 @@
+{
+  "id": "swietokrzyski-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national-parks",
+  "title": "Świętokrzyski Park Narodowy",
+  "facts": [
+    "Świętokrzyski Park Narodowy chroni najcenniejsze obszary Gór Świętokrzyskich, jednego z najstarszych pasm górskich w Polsce.",
+    "Charakterystyczne dla parku są gołoborza, czyli rumowiska skalne występujące m.in. na stokach Łysej Góry.",
+    "Ważną częścią parku są lasy jodłowo-bukowe określane tradycyjnie mianem Puszczy Jodłowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.swietokrzyskipn.org.pl/"
+  ],
+  "related_public_pages": []
+}
