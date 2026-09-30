@@ -1,0 +1,21 @@
+{
+  "id": "dunajec-river",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Dunajec",
+  "facts": [
+    "Dunajec jest karpacką rzeką powstającą z połączenia Białego i Czarnego Dunajca.",
+    "Przepływa przez południową Polskę i uchodzi do Wisły.",
+    "Przełom Dunajca w Pieninach jest jednym z najbardziej rozpoznawalnych krajobrazów rzecznych Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://piepn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
