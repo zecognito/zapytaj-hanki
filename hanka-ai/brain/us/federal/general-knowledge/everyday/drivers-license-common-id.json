@@ -1,0 +1,21 @@
+{
+  "id": "drivers-license-common-id",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday",
+  "subtopic": "identification",
+  "title": "Driver's license jako dokument tożsamości",
+  "facts": [
+    "State driver's license jest powszechnie używanym dokumentem photo ID w codziennym życiu USA.",
+    "Prawo jazdy wydaje stan, nie rząd federalny.",
+    "Osoby, które nie prowadzą samochodu, mogą zwykle uzyskać state identification card od właściwej agencji stanowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/drivers-license-id-card"
+  ],
+  "related_public_pages": []
+}
