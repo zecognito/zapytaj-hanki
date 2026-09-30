@@ -1,0 +1,21 @@
+{
+  "id": "sernik-polish",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Sernik",
+  "facts": [
+    "Sernik jest jednym z klasycznych polskich ciast, przygotowywanym tradycyjnie z twarogu lub masy serowej.",
+    "Istnieje wiele regionalnych i rodzinnych odmian, z różnymi spodami, dodatkami i sposobami pieczenia.",
+    "Polski sernik różni się składnikami i teksturą od wielu amerykańskich cheesecakes opartych na cream cheese."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101"
+  ],
+  "related_public_pages": []
+}
