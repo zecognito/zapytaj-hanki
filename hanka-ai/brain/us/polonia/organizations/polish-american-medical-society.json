@@ -1,0 +1,34 @@
+{
+  "id": "polonia-org-polish-american-medical-society",
+  "country": "US",
+  "category": "organization",
+  "name": "Polish American Medical Society",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": "https://www.zlpchicago.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-American medical professional community"
+  ],
+  "coverage_area": [
+    "US"
+  ],
+  "notes": [
+    "Institutional directory record; services, leadership and contact details should be periodically refreshed."
+  ],
+  "official_source": "https://www.zlpchicago.org/",
+  "last_verified": "2026-09-30"
+}
