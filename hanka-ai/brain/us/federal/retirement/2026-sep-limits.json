@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-sep-limits-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "retirement",
+  "subtopic": "sep",
+  "title": "SEP retirement plan limits — 2026",
+  "facts": [
+    "Employer contribution do SEP-IRA w 2026 nie może przekroczyć mniejszej z wartości: 25% compensation albo $72,000.",
+    "2026 compensation limit dla odpowiednich limitów SEP wynosi $360,000.",
+    "Standardowy SEP nie pozwala na employee elective salary deferrals ani catch-up contributions."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/sep-contribution-limits-including-grandfathered-sarseps"
+  ],
+  "related_public_pages": []
+}
