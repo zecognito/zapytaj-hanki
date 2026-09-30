@@ -1,0 +1,21 @@
+{
+  "id": "ga-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "GA",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Georgii",
+  "facts": [
+    "Nowy mieszkaniec Georgia musi uzyskać Georgia title i registration dla kwalifikującego się pojazdu zgodnie z wymaganiami Department of Revenue.",
+    "Proces wymaga ownership documents, Georgia insurance i innych wymaganych dokumentów/opłat.",
+    "W objętych counties pojazd może wymagać emissions inspection zgodnie z zasadami programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dor.georgia.gov/new-georgia"
+  ],
+  "related_public_pages": []
+}
