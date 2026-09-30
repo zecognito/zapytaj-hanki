@@ -1,0 +1,21 @@
+{
+  "id": "1573-warsaw-confederation-date",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1573 — konfederacja warszawska i pierwsza wolna elekcja",
+  "facts": [
+    "W 1573 r. konfederacja warszawska ustanowiła ważne gwarancje pokoju religijnego w Rzeczypospolitej.",
+    "W tym samym roku odbyła się pierwsza wolna elekcja po wygaśnięciu dynastii Jagiellonów.",
+    "Na króla wybrano Henryka Walezego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
