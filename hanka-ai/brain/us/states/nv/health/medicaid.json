@@ -1,0 +1,21 @@
+{
+  "id": "nv-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NV",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Nevada Medicaid — Medicaid w Nevada",
+  "facts": [
+    "Nevada Medicaid jest stanowym programem Medicaid dla kwalifikujących się mieszkańców.",
+    "Eligibility zależy od kategorii programu, dochodu i innych obowiązujących kryteriów.",
+    "Wnioski i odnowienia prowadzi właściwa administracja stanowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dhcfp.nv.gov/Pgms/CPT/Medicaid/"
+  ],
+  "related_public_pages": []
+}
