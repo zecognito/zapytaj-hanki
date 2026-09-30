@@ -1,0 +1,21 @@
+{
+  "id": "ks-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "KS",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Kansas",
+  "facts": [
+    "Obowiązująca minimum wage zależy od prawa stanowego oraz federalnego Fair Labor Standards Act.",
+    "Dla części pracowników mogą obowiązywać wyjątki lub szczególne zasady, w tym dotyczące tipped employees.",
+    "Przed ustaleniem należnej stawki trzeba sprawdzić aktualne przepisy dla konkretnego zatrudnienia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.ks.gov/laws/wage-claims"
+  ],
+  "related_public_pages": []
+}
