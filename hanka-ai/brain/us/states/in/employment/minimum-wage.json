@@ -1,0 +1,21 @@
+{
+  "id": "in-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IN",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Indianie",
+  "facts": [
+    "Stanowa płaca minimalna w Indiana wynosi 7,25 USD za godzinę dla objętych pracowników.",
+    "Dla tipped employees może być stosowany tip credit, jeśli pracodawca spełnia odpowiednie wymagania.",
+    "Przepisy federalne FLSA mogą również mieć zastosowanie; pracownikowi należy się korzystniejsza ochrona, gdy właściwe przepisy się różnią."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.in.gov/dol/wage-and-hour/wage-and-hour-home/"
+  ],
+  "related_public_pages": []
+}
