@@ -364,7 +364,14 @@
         "civil_status",
         "pesel_passports",
         "legal_documents",
-        "consular_services"
+        "consular_services",
+        "moving_to_poland",
+        "cross_border_banking",
+        "cross_border_investing",
+        "polish_property",
+        "children_dual_country",
+        "healthcare_abroad",
+        "returning_to_us"
       ],
       "completed_subtopics": [
         "social_security_agreement",
@@ -384,7 +391,14 @@
         "civil_status",
         "pesel_passports",
         "legal_documents",
-        "consular_services"
+        "consular_services",
+        "moving_to_poland",
+        "cross_border_banking",
+        "cross_border_investing",
+        "polish_property",
+        "children_dual_country",
+        "healthcare_abroad",
+        "returning_to_us"
       ]
     },
     {
