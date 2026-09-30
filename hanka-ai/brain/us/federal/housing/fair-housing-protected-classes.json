@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-housing-fair-housing-protected-classes",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "housing_mortgages",
+  "subtopic": "fair_housing",
+  "title": "Fair Housing Act - protected classes",
+  "facts": [
+    "The federal Fair Housing Act prohibits housing discrimination because of race, color, national origin, religion, sex, familial status and disability in covered housing activities.",
+    "The Act applies to conduct including many rentals, sales, mortgage-lending activities and housing-related advertising, subject to statutory exemptions.",
+    "HUD accepts and investigates housing-discrimination complaints and other federal agencies or courts can have roles depending on the claim.",
+    "State and local fair-housing laws can protect additional classes beyond the federal list."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.hud.gov/helping-americans/fair-housing-act-overview"
+  ],
+  "related_public_pages": []
+}
