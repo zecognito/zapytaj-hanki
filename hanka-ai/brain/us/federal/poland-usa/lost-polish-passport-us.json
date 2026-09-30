@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-lost-polish-passport",
+  "subtopic": "pesel_passports",
+  "title": "Zgubiony polski paszport w USA",
+  "facts": [
+    "Utratę polskiego paszportu za granicą należy zgłosić niezwłocznie organowi paszportowemu; w USA jest nim konsul RP.",
+    "Z dniem zgłoszenia utracony dokument paszportowy traci ważność i odnalezienie go później nie pozwala ponownie się nim posługiwać.",
+    "W określonych nagłych sytuacjach konsul może, po potwierdzeniu tożsamości i obywatelstwa, wydać paszport tymczasowy umożliwiający powrót do miejsca stałego pobytu.",
+    "Zgłoszenie utraty może być możliwe także elektronicznie przy użyciu odpowiedniego środka identyfikacji elektronicznej lub pisemnie z notarialnie poświadczonym podpisem."
+  ],
+  "official_sources": [
+    "https://www.gov.pl/web/usa/zgloszenie-utraty-paszportu",
+    "https://www.gov.pl/web/usa/paszport-tymczasowy-dla-osoby-pelnoletniej"
+  ]
+}
