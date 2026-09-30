@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-montrose-chicago-montrose",
+  "country": "US",
+  "category": "store",
+  "name": "Montrose Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "5411 W Montrose Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60641",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 773-725-6123",
+  "email": null,
+  "website": "https://montrosedeli.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Chicago",
+    "IL"
+  ],
+  "notes": [
+    "Commercial directory record. Business status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://montrosedeli.com/",
+  "last_verified": "2026-09-30"
+}
