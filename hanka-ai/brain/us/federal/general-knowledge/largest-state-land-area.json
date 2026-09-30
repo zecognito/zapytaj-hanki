@@ -1,0 +1,21 @@
+{
+  "id": "largest-state-land-area",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "state_area_ranking",
+  "title": "Największy stan USA powierzchniowo",
+  "facts": [
+    "Alaska ma największą powierzchnię lądową spośród stanów USA: około 571 390 mil kwadratowych lądu.",
+    "Texas jest drugim największym stanem pod względem powierzchni lądowej.",
+    "Ranking powierzchni nie jest tym samym co ranking ludności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://data.census.gov/table?q=Annual+Geographic+Information+Table"
+  ],
+  "related_public_pages": []
+}
