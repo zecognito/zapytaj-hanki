@@ -1,0 +1,21 @@
+{
+  "id": "pulaski-american-revolution",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL-US",
+  "topic": "polonia",
+  "subtopic": "polish_american_history",
+  "title": "Kazimierz Pułaski w rewolucji amerykańskiej",
+  "facts": [
+    "Kazimierz Pułaski walczył po stronie amerykańskiej podczas wojny o niepodległość USA.",
+    "Odegrał ważną rolę w rozwoju amerykańskiej kawalerii i jest często nazywany „ojcem amerykańskiej kawalerii”.",
+    "Został śmiertelnie ranny podczas działań pod Savannah w 1779 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/people/casimir-pulaski.htm"
+  ],
+  "related_public_pages": []
+}
