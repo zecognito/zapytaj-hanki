@@ -1,0 +1,21 @@
+{
+  "id": "country-united-arab-emirates",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Zjednoczone Emiraty Arabskie",
+  "facts": [
+    "Zjednoczone Emiraty Arabskie leżą na Półwyspie Arabskim nad Zatoką Perską i Zatoką Omańską.",
+    "Stolicą jest Abu Zabi, największym miastem Dubaj, językiem urzędowym arabski, a walutą dirham ZEA.",
+    "ZEA są federacją siedmiu emiratów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://u.ae/en/about-the-uae/the-seven-emirates"
+  ],
+  "related_public_pages": []
+}
