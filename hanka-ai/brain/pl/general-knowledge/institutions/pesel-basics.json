@@ -1,0 +1,21 @@
+{
+  "id": "pesel-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "documents",
+  "title": "PESEL",
+  "facts": [
+    "PESEL jest jedenastocyfrowym numerem identyfikacyjnym używanym w polskich rejestrach publicznych.",
+    "Numer zawiera zakodowaną datę urodzenia, numer porządkowy, oznaczenie płci w określonej cyfrze oraz cyfrę kontrolną.",
+    "PESEL nie jest polskim odpowiednikiem amerykańskiego Social Security Number pod każdym względem; systemy mają inne podstawy prawne i zastosowania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gov/czym-jest-numer-pesel"
+  ],
+  "related_public_pages": []
+}
