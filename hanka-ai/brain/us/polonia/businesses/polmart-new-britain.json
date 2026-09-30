@@ -1,0 +1,38 @@
+{
+  "id": "polonia-business-polmart-new-britain",
+  "country": "US",
+  "category": "store",
+  "name": "Polmart",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "123 Broad St",
+    "city": "New Britain",
+    "state": "CT",
+    "postal_code": "06053",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 860-223-7055",
+  "email": null,
+  "website": "https://www.polmartusa.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish specialty grocery",
+    "deli",
+    "bakery",
+    "prepared Polish foods"
+  ],
+  "coverage_area": [
+    "New Britain",
+    "CT"
+  ],
+  "notes": [
+    "Current Polish-food identity and location supported directly by the business website; commercial details remain freshness-sensitive."
+  ],
+  "official_source": "https://www.polmartusa.com/",
+  "last_verified": "2026-09-30"
+}
