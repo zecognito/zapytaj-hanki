@@ -1,0 +1,21 @@
+{
+  "id": "profil-zaufany",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "digital_government",
+  "title": "Profil Zaufany",
+  "facts": [
+    "Profil Zaufany jest bezpłatnym narzędziem identyfikacji elektronicznej używanym do potwierdzania tożsamości w wielu polskich usługach publicznych online.",
+    "Może służyć do podpisywania określonych dokumentów elektronicznych i logowania do usług administracji.",
+    "Nie jest tym samym co kwalifikowany podpis elektroniczny we wszystkich zastosowaniach prawnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/profilzaufany"
+  ],
+  "related_public_pages": []
+}
