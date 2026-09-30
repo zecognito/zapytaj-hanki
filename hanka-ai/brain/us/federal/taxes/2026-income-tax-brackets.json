@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-income-tax-brackets-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "tax_brackets",
+  "title": "Federal income tax brackets — rok podatkowy 2026",
+  "facts": [
+    "Federalne marginalne stawki podatku dochodowego dla osób fizycznych w 2026 to 10%, 12%, 22%, 24%, 32%, 35% i 37%.",
+    "Dla Single progi taxable income zaczynające kolejne stawki wynoszą: 10% do $12,400; 12% powyżej $12,400; 22% powyżej $50,400; 24% powyżej $105,700; 32% powyżej $201,775; 35% powyżej $256,225; 37% powyżej $640,600.",
+    "Dla Married Filing Jointly progi taxable income zaczynające kolejne stawki wynoszą: 10% do $24,800; 12% powyżej $24,800; 22% powyżej $100,800; 24% powyżej $211,400; 32% powyżej $403,550; 35% powyżej $512,450; 37% powyżej $768,700.",
+    "Dla Head of Household progi taxable income zaczynające kolejne stawki wynoszą: 10% do $17,700; 12% powyżej $17,700; 22% powyżej $67,450; 24% powyżej $105,700; 32% powyżej $201,750; 35% powyżej $256,200; 37% powyżej $640,600.",
+    "Wyższa stawka marginalna dotyczy tylko części taxable income znajdującej się w danym przedziale, a nie całego dochodu."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/irb/2025-45_IRB"
+  ],
+  "related_public_pages": []
+}
