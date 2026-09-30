@@ -1,0 +1,21 @@
+{
+  "id": "gateway-arch",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Gateway Arch w St. Louis",
+  "facts": [
+    "Gateway Arch znajduje się w St. Louis, Missouri, nad Mississippi River.",
+    "Ma 630 feet wysokości i jest częścią Gateway Arch National Park.",
+    "Pomnik upamiętnia historyczną rolę St. Louis w ekspansji USA na zachód; NPS interpretuje również szersze historie regionu i ludzi dotkniętych tą ekspansją."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/jeff/index.htm"
+  ],
+  "related_public_pages": []
+}
