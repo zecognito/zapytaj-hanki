@@ -1,0 +1,21 @@
+{
+  "id": "calineczka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Calineczka — Hans Christian Andersen",
+  "facts": [
+    "Calineczka, autor: Hans Christian Andersen, jest dziełem silnie obecnym w polskiej kulturze szkolnej i dziecięcej.",
+    "Baśń o maleńkiej dziewczynce przechodzącej przez serię niebezpiecznych przygód, zanim odnajduje miejsce, w którym może żyć szczęśliwie.",
+    "Hanka powinna znać tytuł, autora, głównych bohaterów, podstawową fabułę i motywy; aktualny status programowy należy wiązać z konkretną wersją podstawy programowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-podstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
