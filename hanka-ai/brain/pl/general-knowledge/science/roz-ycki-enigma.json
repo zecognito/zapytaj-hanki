@@ -1,0 +1,21 @@
+{
+  "id": "roz-ycki-enigma",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Jerzy Różycki",
+  "facts": [
+    "Jerzy Różycki był polskim matematykiem i kryptologiem pracującym nad szyfrem Enigmy.",
+    "Wspólnie z Marianem Rejewskim i Henrykiem Zygalskim należał do zespołu Biura Szyfrów, który osiągnął przełom w analizie Enigmy.",
+    "Zginął w 1942 r. w katastrofie statku na Morzu Śródziemnym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/wielkabrytania/polish-contribution-to-breaking-enigma-code"
+  ],
+  "related_public_pages": []
+}
