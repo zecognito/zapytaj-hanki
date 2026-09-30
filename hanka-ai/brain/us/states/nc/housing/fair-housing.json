@@ -1,0 +1,21 @@
+{
+  "id": "nc-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NC",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową w Karolinie Północnej",
+  "facts": [
+    "North Carolina Fair Housing Act zabrania określonych form housing discrimination.",
+    "Federalny Fair Housing Act może zapewniać równoległą ochronę.",
+    "North Carolina Human Relations Commission przyjmuje kwalifikujące się fair housing complaints."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.oah.nc.gov/civil-rights-division/housing-discrimination"
+  ],
+  "related_public_pages": []
+}
