@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-medicare-part-d-late-enrollment-penalty",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "medicare",
+  "subtopic": "penalties",
+  "title": "Medicare Part D late enrollment penalty",
+  "facts": [
+    "Part D late enrollment penalty może obowiązywać po co najmniej 63 kolejnych dniach bez Part D lub innego creditable prescription drug coverage po zakończeniu Initial Enrollment Period.",
+    "Penalty jest zasadniczo obliczane jako 1% national base beneficiary premium pomnożone przez liczbę pełnych miesięcy bez creditable coverage, po czym kwota jest zaokrąglana zgodnie z zasadami Medicare.",
+    "National base beneficiary premium zmienia się, więc kwota penalty może zmieniać się z roku na rok.",
+    "Penalty jest zazwyczaj dodawane do miesięcznej Part D premium tak długo, jak osoba ma Part D, z określonymi wyjątkami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicare.gov/basics/costs/medicare-costs/avoid-penalties"
+  ],
+  "related_public_pages": []
+}
