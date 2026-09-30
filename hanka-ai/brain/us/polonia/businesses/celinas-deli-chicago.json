@@ -13,9 +13,9 @@
     "latitude": null,
     "longitude": null
   },
-  "phone": null,
+  "phone": "+1 773-582-5759",
   "email": null,
-  "website": null,
+  "website": "https://www.celinasfreshmarket.com/",
   "languages": [
     "pl",
     "en"
@@ -29,8 +29,8 @@
     "IL"
   ],
   "notes": [
-    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+    "Audited 2026-09-30: official Celina's site confirms Chicago location at 5089 S Archer Ave and extensive Polish deli/food selection."
   ],
-  "official_source": "https://polish-eats.com/chicago-delis/",
+  "official_source": "https://www.celinasfreshmarket.com/super-deli/",
   "last_verified": "2026-09-30"
 }
