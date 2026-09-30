@@ -1,0 +1,21 @@
+{
+  "id": "pomorze-region",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Pomorze",
+  "facts": [
+    "Pomorze jest historycznym regionem nad Bałtykiem, którego nazwa i granice zmieniały się w historii.",
+    "W polskim użyciu wyróżnia się m.in. Pomorze Gdańskie i Pomorze Zachodnie, a pojęcie nie jest tożsame z jednym współczesnym województwem.",
+    "Historia regionu obejmuje wpływy polskie, kaszubskie, niemieckie i inne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
