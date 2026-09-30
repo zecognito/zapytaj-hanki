@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-polish-citizenship-descent-confirmation",
+  "subtopic": "citizenship_edge_cases",
+  "title": "Polskie obywatelstwo po rodzicu a potwierdzenie obywatelstwa",
+  "facts": [
+    "W sprawach osób urodzonych za granicą polskie obywatelstwo i jego formalne udokumentowanie to odrębne kwestie; brak polskiego paszportu nie przesądza sam w sobie o braku obywatelstwa.",
+    "Jeżeli status obywatelstwa nie może zostać wykazany istniejącymi dokumentami, można wystąpić o formalne potwierdzenie posiadania lub utraty obywatelstwa polskiego.",
+    "Osoba mieszkająca w USA może złożyć odpowiedni wniosek do właściwego wojewody za pośrednictwem polskiego konsula.",
+    "W sprawach wielopokoleniowych wynik zależy od historii obywatelstwa konkretnych przodków i przepisów obowiązujących w odpowiednich okresach; Hanka nie powinna obiecywać obywatelstwa wyłącznie na podstawie polskiego pochodzenia."
+  ],
+  "official_sources": [
+    "https://www.gov.pl/web/usa/potwierdzenie-posiadania-lub-utraty-obywatelstwa-polskiego"
+  ]
+}
