@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-tsa-id-domestic-flight",
+  "subtopic": "travel_day_admin",
+  "title": "Dokument tożsamości na krajowy lot w USA",
+  "facts": [
+    "Od 7 maja 2025 r. pasażerowie w wieku 18+ korzystający z TSA checkpoints dla domestic commercial flights muszą przedstawiać REAL ID-compliant state credential albo inny TSA-acceptable identification, z uwzględnieniem aktualnych TSA procedures.",
+    "U.S. passport i passport card należą do dokumentów akceptowanych przez TSA i mogą być używane zamiast REAL ID driver's license.",
+    "Dzieci poniżej 18 lat zasadniczo nie muszą przedstawiać TSA identification podczas domestic travel z companion w USA, choć airline może mieć własne wymagania.",
+    "TSA identity verification procedures mogą istnieć dla osoby bez akceptowanego ID, ale nie gwarantują wpuszczenia na checkpoint ani szybkiego procesu."
+  ],
+  "official_sources": [
+    "https://www.tsa.gov/travel/security-screening/identification",
+    "https://www.tsa.gov/real-id"
+  ]
+}
