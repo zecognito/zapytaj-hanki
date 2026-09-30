@@ -1,0 +1,21 @@
+{
+  "id": "eu-accession-2004-detail",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "international",
+  "title": "Polska w Unii Europejskiej od 2004",
+  "facts": [
+    "Polska została członkiem Unii Europejskiej 1 maja 2004 r.",
+    "Akcesję poprzedziło referendum ogólnokrajowe w czerwcu 2003 r.",
+    "Członkostwo Polski w UE nie oznacza przyjęcia euro; Polska nadal używa złotego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://european-union.europa.eu/principles-countries-history/country-profiles/poland_en"
+  ],
+  "related_public_pages": []
+}
