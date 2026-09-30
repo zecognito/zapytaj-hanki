@@ -15,7 +15,7 @@
   },
   "phone": "+1 630-628-8559",
   "email": null,
-  "website": null,
+  "website": "https://barbarasdeli.com/",
   "languages": [
     "pl",
     "en"
@@ -29,8 +29,8 @@
     "IL"
   ],
   "notes": [
-    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+    "Audited 2026-09-30: official business website confirms Polish deli, address and phone."
   ],
-  "official_source": "https://polish-eats.com/chicago-delis/",
+  "official_source": "https://barbarasdeli.com/contact-us/",
   "last_verified": "2026-09-30"
 }
