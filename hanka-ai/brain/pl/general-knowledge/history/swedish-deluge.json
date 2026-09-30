@@ -1,0 +1,21 @@
+{
+  "id": "swedish-deluge",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early_modern",
+  "title": "Potop szwedzki",
+  "facts": [
+    "„Potop szwedzki” to polska nazwa szwedzkiej inwazji i wojny z Rzecząpospolitą w latach 1655–1660.",
+    "Wojna spowodowała ogromne zniszczenia i straty ludnościowe oraz gospodarcze.",
+    "Obrona Jasnej Góry stała się jednym z najbardziej znanych symbolicznych epizodów tego konfliktu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
