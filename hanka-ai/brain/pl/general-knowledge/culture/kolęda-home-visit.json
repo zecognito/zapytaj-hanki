@@ -1,0 +1,21 @@
+{
+  "id": "kolęda-home-visit",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "everyday-life",
+  "title": "Kolęda — wizyta duszpasterska",
+  "facts": [
+    "W polskiej tradycji katolickiej „kolęda” może oznaczać zarówno pieśń bożonarodzeniową, jak i wizytę duszpasterską księdza w domu parafian.",
+    "Wizyty duszpasterskie odbywają się zwykle w okresie Bożego Narodzenia i na początku roku.",
+    "Praktyka zależy od parafii i nie dotyczy wszystkich mieszkańców Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://episkopat.pl/"
+  ],
+  "related_public_pages": []
+}
