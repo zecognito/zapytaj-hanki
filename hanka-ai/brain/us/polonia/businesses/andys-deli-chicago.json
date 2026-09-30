@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-andys-deli-chicago",
+  "country": "US",
+  "category": "store",
+  "name": "Andy's Deli & Mikolajczyk Sausage Shop",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "5442 N Milwaukee Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60630",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 773-631-7304",
+  "email": null,
+  "website": "https://andysdeli.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Chicago",
+    "IL"
+  ],
+  "notes": [
+    "Commercial directory record. Business status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://andysdeli.com/",
+  "last_verified": "2026-09-30"
+}
