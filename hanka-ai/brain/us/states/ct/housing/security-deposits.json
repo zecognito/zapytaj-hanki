@@ -1,0 +1,21 @@
+{
+  "id": "ct-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CT",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w Connecticut",
+  "facts": [
+    "Connecticut ogranicza residential security deposit zasadniczo do dwóch miesięcy rent, a dla tenantów w wieku 62+ zasadniczo do jednego miesiąca rent.",
+    "Landlord ma obowiązki dotyczące przechowywania deposit i należnych interest zgodnie z prawem stanowym.",
+    "Po zakończeniu tenancy obowiązują ustawowe terminy i zasady zwrotu deposit lub rozliczenia potrąceń."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://portal.ct.gov/dob/rental-security-deposits/rental-security-deposits/rental-security-deposits"
+  ],
+  "related_public_pages": []
+}
