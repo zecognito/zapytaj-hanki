@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-death-estate-tax-threshold",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "death_inheritance",
+  "subtopic": "estate_tax_admin",
+  "title": "Federal estate tax - annual threshold rule",
+  "facts": [
+    "Federal estate tax generally applies only to estates exceeding the applicable federal filing/exemption framework after accounting for relevant rules and prior taxable gifts.",
+    "The exclusion amount changes by tax year and should be taken from Hanka's dated estate-and-gift-tax record rather than stored as a permanent number here.",
+    "A state may impose its own estate or inheritance tax even when no federal estate tax is due.",
+    "Estate tax is different from estate income tax and from income tax that beneficiaries may owe on particular inherited assets."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/businesses/small-businesses-self-employed/estate-tax"
+  ],
+  "related_public_pages": []
+}
