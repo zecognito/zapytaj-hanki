@@ -1,0 +1,21 @@
+{
+  "id": "polish-armed-forces-west",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world_war_ii",
+  "title": "Polskie Siły Zbrojne na Zachodzie",
+  "facts": [
+    "Polskie Siły Zbrojne na Zachodzie walczyły u boku aliantów podczas II wojny światowej.",
+    "Polacy uczestniczyli m.in. w Bitwie o Anglię, kampanii włoskiej, walkach w Normandii i operacji Market Garden.",
+    "Formacje te podlegały polskim władzom na uchodźstwie i stanowiły część alianckiego wysiłku wojennego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/wielkabrytania/polskie-sily-zbrojne-na-zachodzie"
+  ],
+  "related_public_pages": []
+}
