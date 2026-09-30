@@ -1,0 +1,21 @@
+{
+  "id": "s3-expressway",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Droga ekspresowa S3",
+  "facts": [
+    "S3 jest jedną z głównych dróg ekspresowych biegnących przez zachodnią Polskę w osi północ–południe.",
+    "Łączy rejon Świnoujścia i Szczecina przez zachodnią część kraju z Dolnym Śląskiem i granicą z Czechami.",
+    "S3 jest polską częścią ważnego korytarza transportowego łączącego porty Morza Bałtyckiego z Europą Środkową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
