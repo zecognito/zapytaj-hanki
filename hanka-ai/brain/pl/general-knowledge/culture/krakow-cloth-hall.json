@@ -1,0 +1,21 @@
+{
+  "id": "krakow-cloth-hall",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Sukiennice w Krakowie",
+  "facts": [
+    "Sukiennice stoją pośrodku Rynku Głównego w Krakowie.",
+    "Historycznie były miejscem handlu, a ich obecny wygląd jest wynikiem wielowiekowych przebudów.",
+    "Na piętrze mieści się Galeria Sztuki Polskiej XIX wieku będąca oddziałem Muzeum Narodowego w Krakowie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mnk.pl/oddzial/galeria-sztuki-polskiej-xix-wieku-w-sukiennicach"
+  ],
+  "related_public_pages": []
+}
