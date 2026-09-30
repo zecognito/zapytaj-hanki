@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-cyril-methodius-lemont-il",
+  "country": "US",
+  "category": "church",
+  "name": "SS. Cyril and Methodius Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "608 Sobieski St",
+    "city": "Lemont",
+    "state": "IL",
+    "postal_code": "60439",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 630 257 2776",
+  "email": null,
+  "website": "https://stcyril.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "IL"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; Hanka should direct users to the parish website for current Mass/confession times."
+  ],
+  "official_source": "https://stcyril.org",
+  "last_verified": "2026-09-30"
+}
