@@ -1,0 +1,20 @@
+{
+  "id": "us-federal-medicare-part-b-costs-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "medicare",
+  "subtopic": "part_b_costs",
+  "title": "Medicare Part B — koszty 2026",
+  "facts": [
+    "Standardowa miesięczna składka Medicare Part B w 2026 wynosi $202.90; osoby z wyższym dochodem mogą płacić więcej.",
+    "Roczny deductible Medicare Part B w 2026 wynosi $283."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicare.gov/basics/costs/medicare-costs"
+  ],
+  "related_public_pages": []
+}
