@@ -1,0 +1,21 @@
+{
+  "id": "nj-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NJ",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w New Jersey",
+  "facts": [
+    "New Jersey MVC wydaje REAL ID po osobistej weryfikacji wymaganych dokumentów.",
+    "System dokumentów MVC używa wymagań dotyczących potwierdzenia tożsamości, Social Security number oraz adresu zamieszkania.",
+    "Standardowy New Jersey driver license pozostaje ważny do prowadzenia pojazdu, ale nie zastępuje REAL ID lub innego federalnie akceptowanego dokumentu tam, gdzie taki dokument jest wymagany."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nj.gov/mvc/realid/"
+  ],
+  "related_public_pages": []
+}
