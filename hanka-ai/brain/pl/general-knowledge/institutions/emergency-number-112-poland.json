@@ -1,0 +1,21 @@
+{
+  "id": "emergency-number-112-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "safety",
+  "title": "Numer alarmowy 112 w Polsce",
+  "facts": [
+    "112 jest ogólnym europejskim numerem alarmowym działającym w Polsce.",
+    "Służy do zgłaszania sytuacji wymagających pomocy służb ratunkowych.",
+    "W Polsce funkcjonują również inne numery alarmowe; w nagłej sytuacji Hanka powinna kierować użytkownika do właściwych służb, a nie próbować zastępować dyspozytora."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/mswia/numer-alarmowy-112"
+  ],
+  "related_public_pages": []
+}
