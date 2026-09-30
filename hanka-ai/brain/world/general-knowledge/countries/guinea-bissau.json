@@ -1,0 +1,21 @@
+{
+  "id": "country-guinea-bissau",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Gwinea Bissau",
+  "facts": [
+    "Gwinea Bissau leży w Afryce Zachodniej nad Oceanem Atlantyckim i obejmuje także archipelag Bijagós.",
+    "Stolicą jest Bissau, językiem urzędowym portugalski, a walutą frank CFA Afryki Zachodniej.",
+    "Gwinea Bissau jest republiką i uzyskała niepodległość od Portugalii w latach 70. XX wieku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/en/about-us/member-states/guinea-bissau"
+  ],
+  "related_public_pages": []
+}
