@@ -1,0 +1,21 @@
+{
+  "id": "country-eswatini",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Eswatini",
+  "facts": [
+    "Eswatini jest niewielkim śródlądowym państwem południowej Afryki, graniczącym z Republiką Południowej Afryki i Mozambikiem.",
+    "Stolicami pełniącymi różne funkcje są Mbabane i Lobamba; językami urzędowymi są siSwati i angielski.",
+    "Eswatini jest monarchią i do 2018 roku było oficjalnie znane jako Suazi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.sz/"
+  ],
+  "related_public_pages": []
+}
