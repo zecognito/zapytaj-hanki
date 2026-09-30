@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-temporary-visit-vs-immigration",
+  "subtopic": "travel",
+  "title": "Wizyta czasowa w USA a imigracja",
+  "facts": [
+    "Visa Waiver Program służy kwalifikującym się krótkim podróżom turystycznym lub biznesowym do 90 dni; nie jest statusem imigracyjnym ani drogą do stałego pobytu samą w sobie.",
+    "ESTA nie zastępuje statusu lub wizy wymaganej do celu, którego VWP nie obejmuje, np. określonej pracy, studiów lub imigracji.",
+    "Posiadanie wizy albo zatwierdzonej ESTA pozwala stawić się do kontroli granicznej, ale nie gwarantuje przyjęcia do USA.",
+    "Plan stałego zamieszkania w USA powinien być oceniany według właściwej kategorii imigracyjnej, a nie traktowany jako zwykła wizyta VWP."
+  ],
+  "effective_from": null,
+  "official_sources": [
+    "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+    "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/frequently-asked-questions.html"
+  ]
+}
