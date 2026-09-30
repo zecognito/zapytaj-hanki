@@ -1,0 +1,21 @@
+{
+  "id": "gorce-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national-parks",
+  "title": "Gorczański Park Narodowy",
+  "facts": [
+    "Gorczański Park Narodowy chroni centralną część Gorców w Beskidach Zachodnich.",
+    "Charakterystycznymi elementami krajobrazu są rozległe lasy karpackie oraz polany reglowe powstałe w wyniku dawnej gospodarki pasterskiej.",
+    "Najwyższym szczytem Gorców jest Turbacz, położony przy granicy parku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/nfosigw/parki-narodowe"
+  ],
+  "related_public_pages": []
+}
