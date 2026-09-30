@@ -438,6 +438,31 @@
         "emissions",
         "air_travel"
       ]
+    },
+    {
+      "id": "family_children",
+      "label": "Dzieci i rodzina",
+      "status": "started",
+      "subtopics": [
+        "pregnancy_work",
+        "parental_leave",
+        "lactation_work",
+        "child_support",
+        "adoption",
+        "childcare",
+        "school_children",
+        "family_law_boundary"
+      ],
+      "completed_subtopics": [
+        "pregnancy_work",
+        "parental_leave",
+        "lactation_work",
+        "child_support",
+        "adoption",
+        "childcare",
+        "school_children",
+        "family_law_boundary"
+      ]
     }
   ]
 }
