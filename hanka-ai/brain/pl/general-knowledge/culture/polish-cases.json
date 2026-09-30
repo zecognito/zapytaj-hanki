@@ -1,0 +1,21 @@
+{
+  "id": "polish-cases",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "Przypadki w języku polskim",
+  "facts": [
+    "Język polski tradycyjnie opisuje siedem przypadków gramatycznych: mianownik, dopełniacz, celownik, biernik, narzędnik, miejscownik i wołacz.",
+    "Odmiana przez przypadki wpływa na formy rzeczowników, przymiotników, zaimków i części liczebników.",
+    "Dlatego polskie nazwy osób i miejsc mogą przyjmować inne końcówki zależnie od funkcji w zdaniu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/a/przypadki/DzQo1C3kS"
+  ],
+  "related_public_pages": []
+}
