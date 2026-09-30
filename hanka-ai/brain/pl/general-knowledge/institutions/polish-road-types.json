@@ -1,0 +1,21 @@
+{
+  "id": "polish-road-types",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "transportation",
+  "title": "Autostrady, drogi ekspresowe i drogi krajowe",
+  "facts": [
+    "Polska sieć drogowa obejmuje m.in. autostrady oznaczane literą A, drogi ekspresowe oznaczane S oraz drogi krajowe.",
+    "Autostrada i droga ekspresowa są odrębnymi kategoriami technicznymi i prawnymi.",
+    "Aktualny przebieg, opłaty i utrudnienia należy sprawdzać w GDDKiA lub u właściwego operatora."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
