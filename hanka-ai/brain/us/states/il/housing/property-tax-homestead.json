@@ -1,0 +1,21 @@
+{
+  "id": "il-property-tax-homestead",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "housing",
+  "subtopic": "property_tax_relief",
+  "title": "Illinois General Homestead Exemption",
+  "facts": [
+    "Illinois's General Homestead Exemption can reduce the equalized assessed value of an eligible owner-occupied principal residence.",
+    "The maximum exemption amount and administration can vary by county under Illinois law; Cook County rules can differ from other counties.",
+    "Homeowners should use their county assessor for current eligibility, application and exemption amount."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tax.illinois.gov/localgovernments/property/taxrelief.html"
+  ],
+  "related_public_pages": []
+}
