@@ -1,0 +1,23 @@
+{
+  "id": "mi-state-profile",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "state_profile",
+  "title": "Michigan — podstawowe informacje o stanie",
+  "facts": [
+    "Michigan: stolica Lansing; kod pocztowy USPS MI.",
+    "W podziale Census Bureau: region Midwest, division East North Central.",
+    "Data statehood/przyjęcia do Unii: 1837-01-26.",
+    "Przy populacji należy podawać rok i Vintage Census Population Estimates."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/states-and-territories",
+    "https://www.census.gov/programs-surveys/popest/guidance-geographies/terms-and-definitions.html"
+  ],
+  "related_public_pages": []
+}
