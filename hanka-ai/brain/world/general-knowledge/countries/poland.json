@@ -1,0 +1,21 @@
+{
+  "id": "country-poland",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Polska",
+  "facts": [
+    "Polska leży w Europie Środkowej nad Morzem Bałtyckim i graniczy z Niemcami, Czechami, Słowacją, Ukrainą, Białorusią, Litwą oraz rosyjskim obwodem kaliningradzkim.",
+    "Stolicą jest Warszawa, językiem urzędowym polski, a walutą złoty.",
+    "Polska jest republiką parlamentarną oraz członkiem Unii Europejskiej i NATO; szczegółowa wiedza o Polsce w Hanka Brain znajduje się w odrębnej, rozbudowanej strukturze Poland General Knowledge."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/poland"
+  ],
+  "related_public_pages": []
+}
