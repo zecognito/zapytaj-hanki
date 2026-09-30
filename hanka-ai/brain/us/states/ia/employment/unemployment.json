@@ -1,0 +1,21 @@
+{
+  "id": "ia-unemployment",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IA",
+  "topic": "employment",
+  "subtopic": "unemployment",
+  "title": "Unemployment insurance w Iowa",
+  "facts": [
+    "Stan prowadzi unemployment insurance dla kwalifikujących się osób bez pracy.",
+    "Eligibility zależy m.in. od historii zarobków i powodu utraty pracy.",
+    "Claimant musi spełniać bieżące wymagania programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://workforce.iowa.gov/unemployment"
+  ],
+  "related_public_pages": []
+}
