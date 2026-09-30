@@ -1,0 +1,21 @@
+{
+  "id": "redwood-sequoia",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "nature",
+  "subtopic": "plants",
+  "title": "Redwood a giant sequoia",
+  "facts": [
+    "Coast redwood i giant sequoia są odrębnymi gatunkami ogromnych drzew występujących naturalnie w California.",
+    "Coast redwoods są najwyższymi drzewami świata, natomiast giant sequoias należą do największych drzew pod względem objętości.",
+    "Giant sequoias naturalnie rosną na zachodnich stokach Sierra Nevada."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/subjects/forests/redwood-and-sequoia.htm"
+  ],
+  "related_public_pages": []
+}
