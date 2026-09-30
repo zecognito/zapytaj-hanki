@@ -1,0 +1,22 @@
+{
+  "id": "polish-currency-denominations",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "currency",
+  "title": "Polskie pieniądze — nominały",
+  "facts": [
+    "Walutą Polski jest złoty (PLN), a 1 złoty dzieli się na 100 groszy.",
+    "Monety obiegowe mają nominały 1, 2, 5, 10, 20 i 50 groszy oraz 1, 2 i 5 złotych.",
+    "Banknoty powszechnego obiegu mają nominały 10, 20, 50, 100, 200 i 500 złotych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://nbp.pl/banknoty-i-monety/banknoty-obiegowe/",
+    "https://nbp.pl/banknoty-i-monety/monety-obiegowe/"
+  ],
+  "related_public_pages": []
+}
