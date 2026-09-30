@@ -1,0 +1,21 @@
+{
+  "id": "mo-child_support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MO",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support — Missouri",
+  "facts": [
+    "Stanowy program child support pomaga ustanawiać i egzekwować support orders.",
+    "Kwota support zależy od stanowych guidelines i faktów konkretnej rodziny.",
+    "Zmiana order wymaga właściwej procedury."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dss.mo.gov/child-support/"
+  ],
+  "related_public_pages": []
+}
