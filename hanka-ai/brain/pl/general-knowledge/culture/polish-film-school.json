@@ -1,0 +1,21 @@
+{
+  "id": "polish-film-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "film",
+  "title": "Polska Szkoła Filmowa",
+  "facts": [
+    "Polska Szkoła Filmowa była nurtem polskiego kina rozwijającym się głównie po politycznej odwilży połowy lat 1950.",
+    "Twórcy podejmowali doświadczenia wojny, okupacji, pamięci i powojennej rzeczywistości, często w sposób bardziej złożony niż wcześniejsze oficjalne narracje.",
+    "Z nurtem wiąże się m.in. Andrzeja Wajdę i Andrzeja Munka."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/the-polish-film-school"
+  ],
+  "related_public_pages": []
+}
