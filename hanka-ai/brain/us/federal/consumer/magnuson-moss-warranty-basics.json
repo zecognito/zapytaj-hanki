@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-consumer-warranty-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "consumer_protection",
+  "subtopic": "warranties",
+  "title": "Federal warranty law - Magnuson-Moss basics",
+  "facts": [
+    "The Magnuson-Moss Warranty Act governs written warranties on many consumer products and sets federal disclosure and enforcement rules.",
+    "Federal law generally does not require a seller or manufacturer to provide a written warranty, but if a written consumer-product warranty is offered it must comply with applicable federal requirements.",
+    "Written warranties are generally designated as full or limited warranties under federal rules.",
+    "State warranty and contract law can provide additional rights beyond the federal statute."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/warranties"
+  ],
+  "related_public_pages": []
+}
