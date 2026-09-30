@@ -1,0 +1,21 @@
+{
+  "id": "ky-new_resident_license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "KY",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Kentucky",
+  "facts": [
+    "Nowy resident powinien uzyskać stanowe driver license zgodnie z procedurą stanową.",
+    "Wymagane są odpowiednie dokumenty identity i residency.",
+    "Testy i zasady uznania out-of-state license zależą od sytuacji kierowcy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://drive.ky.gov/Drivers/Pages/New-To-Kentucky.aspx"
+  ],
+  "related_public_pages": []
+}
