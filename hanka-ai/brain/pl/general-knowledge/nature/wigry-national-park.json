@@ -1,0 +1,21 @@
+{
+  "id": "wigry-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national-parks",
+  "title": "Wigierski Park Narodowy",
+  "facts": [
+    "Wigierski Park Narodowy leży na Suwalszczyźnie i chroni krajobraz polodowcowy z licznymi jeziorami, lasami i rzekami.",
+    "Centralnym elementem parku jest jezioro Wigry, jedno z największych i najgłębszych jezior Polski.",
+    "Przez park przepływa Czarna Hańcza, popularna rzeka kajakowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://wigpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
