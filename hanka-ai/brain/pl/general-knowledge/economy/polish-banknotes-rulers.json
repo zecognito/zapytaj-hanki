@@ -1,0 +1,21 @@
+{
+  "id": "polish-banknotes-rulers",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "currency",
+  "title": "Kto jest na polskich banknotach?",
+  "facts": [
+    "Współczesne polskie banknoty obiegowe przedstawiają władców związanych z historią Polski.",
+    "Na banknotach znajdują się: 10 zł — Mieszko I, 20 zł — Bolesław I Chrobry, 50 zł — Kazimierz III Wielki, 100 zł — Władysław II Jagiełło, 200 zł — Zygmunt I Stary, 500 zł — Jan III Sobieski.",
+    "Seria nosi nazwę „Władcy polscy”."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://nbp.pl/banknoty-i-monety/banknoty-obiegowe/"
+  ],
+  "related_public_pages": []
+}
