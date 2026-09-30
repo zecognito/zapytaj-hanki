@@ -1,0 +1,21 @@
+{
+  "id": "ca-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CA",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Kalifornii",
+  "facts": [
+    "California DMV wydaje driver license i identification card zgodne z REAL ID.",
+    "Do uzyskania REAL ID trzeba przedstawić wymagane dokumenty potwierdzające identity, Social Security number/status i California residency.",
+    "Standardowy California driver license nadal może służyć do prowadzenia pojazdu, ale nie zastępuje REAL ID lub innego federalnie akceptowanego dokumentu do zastosowań objętych federalnym wymogiem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/"
+  ],
+  "related_public_pages": []
+}
