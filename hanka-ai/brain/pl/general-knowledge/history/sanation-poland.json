@@ -1,0 +1,21 @@
+{
+  "id": "sanation-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "interwar",
+  "title": "Sanacja",
+  "facts": [
+    "Sanacja była obozem politycznym związanym z Józefem Piłsudskim i jego zwolennikami po przewrocie majowym 1926 r.",
+    "Nazwa odwoływała się do hasła „uzdrowienia” życia publicznego.",
+    "System polityczny II RP po 1926 r. stopniowo odchodził od wcześniejszego modelu parlamentarnego w stronę silniejszej władzy wykonawczej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
