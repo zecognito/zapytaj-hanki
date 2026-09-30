@@ -1,0 +1,21 @@
+{
+  "id": "weather-radio-alerts",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "weather",
+  "subtopic": "alerts",
+  "title": "NOAA Weather Radio",
+  "facts": [
+    "NOAA Weather Radio All Hazards nadaje całodobowe oficjalne informacje pogodowe i ostrzeżenia National Weather Service.",
+    "Odbiorniki z funkcją alert mogą automatycznie sygnalizować określone zagrożenia.",
+    "Telefoniczne emergency alerts, lokalne systemy i aplikacje mogą uzupełniać, ale nie zmieniają znaczenia oficjalnych watches/warnings."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.weather.gov/nwr/"
+  ],
+  "related_public_pages": []
+}
