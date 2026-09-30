@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-matejko-palatine-il",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła im. Jana Matejki",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Palatine",
+    "state": "IL",
+    "postal_code": "60074",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "IL"
+  ],
+  "notes": [
+    "Current ORPEG Polonia-school database record; enrollment and class details should be reconfirmed with the school."
+  ],
+  "official_source": "https://archiwum.orpeg.gov.pl/db/web/database/entry/7813",
+  "last_verified": "2026-09-30"
+}
