@@ -1,0 +1,24 @@
+{
+  "id": "us-federal-social-security-retirement-claiming-age",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "social_security",
+  "subtopic": "retirement_benefits",
+  "title": "Social Security retirement — kiedy można zacząć pobierać",
+  "facts": [
+    "Social Security retirement benefits można zacząć pobierać najwcześniej w wieku 62 lat, jeśli spełnione są warunki kwalifikacji.",
+    "Rozpoczęcie benefits przed full retirement age trwale obniża miesięczną kwotę względem benefit at full retirement age.",
+    "Opóźnianie rozpoczęcia benefits po full retirement age zwiększa miesięczny benefit przez delayed retirement credits.",
+    "Po osiągnięciu wieku 70 lat dalsze opóźnianie rozpoczęcia retirement benefits nie zwiększa już miesięcznej kwoty."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.ssa.gov/benefits/retirement/planner/applying2.html"
+  ],
+  "related_public_pages": [
+    "https://zapytajhanki.com/emerytura/social-security/"
+  ]
+}
