@@ -1,0 +1,21 @@
+{
+  "id": "mazowsze-region",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Mazowsze",
+  "facts": [
+    "Mazowsze jest historycznym regionem centralno-wschodniej Polski, którego głównym współczesnym ośrodkiem jest Warszawa.",
+    "Historyczne granice Mazowsza nie są identyczne z granicami dzisiejszego województwa mazowieckiego.",
+    "Region ma własne tradycje kulturowe, a jego części, takie jak Kurpie, zachowały szczególnie wyraziste dziedzictwo regionalne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
