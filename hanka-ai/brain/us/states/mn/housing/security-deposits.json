@@ -1,0 +1,21 @@
+{
+  "id": "mn-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MN",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit przy wynajmie w Minnesota",
+  "facts": [
+    "Prawo stanowe określa zasady pobierania, przechowywania lub zwrotu security deposit przy najmie mieszkania.",
+    "Landlord może potrącić z depozytu tylko kwoty dozwolone przez prawo i powinien przestrzegać wymaganych terminów oraz rozliczeń.",
+    "Przy sporze należy sprawdzić aktualne przepisy stanowe oraz dokumentację najmu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ag.state.mn.us/consumer/handbooks/lt/CH3.asp"
+  ],
+  "related_public_pages": []
+}
