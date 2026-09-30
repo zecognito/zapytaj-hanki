@@ -1,0 +1,21 @@
+{
+  "id": "ga-homestead-exemption",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "GA",
+  "topic": "housing",
+  "subtopic": "property_tax_relief",
+  "title": "Homestead Exemption w Georgii",
+  "facts": [
+    "Georgia homeowners mogą kwalifikować się do homestead exemption od property tax dla principal residence.",
+    "Podstawowe zasady wynikają z prawa stanowego, ale counties i cities mogą oferować dodatkowe local homestead exemptions.",
+    "Application składa się do właściwego county tax commissioner lub tax assessor zgodnie z lokalną procedurą i terminem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dor.georgia.gov/property-tax-homestead-exemptions"
+  ],
+  "related_public_pages": []
+}
