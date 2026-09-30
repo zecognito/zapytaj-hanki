@@ -1,0 +1,36 @@
+{
+  "id": "polonia-gov-honorary-philadelphia-pa",
+  "country": "US",
+  "category": "consulate_honorary",
+  "name": "Honorary Consulate of the Republic of Poland in Philadelphia",
+  "aliases": [
+    "Konsulat Honorowy RP w Philadelphia"
+  ],
+  "status": "active",
+  "location": {
+    "address": "812 Lombard St #12",
+    "city": "Philadelphia",
+    "state": "PA",
+    "postal_code": "19147",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 215 627 1391",
+  "email": "dziecko2@comcast.net",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "honorary consular representation"
+  ],
+  "coverage_area": [
+    "PA"
+  ],
+  "notes": [
+    "Honorary consul: Deborah Majka"
+  ],
+  "official_source": "https://www.gov.pl/web/usa/konsulaty-honorowe",
+  "last_verified": "2026-09-30"
+}
