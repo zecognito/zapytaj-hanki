@@ -1,0 +1,21 @@
+{
+  "id": "ignacy-daszynski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "people",
+  "title": "Ignacy Daszyński",
+  "facts": [
+    "Ignacy Daszyński był polskim politykiem socjalistycznym i działaczem niepodległościowym.",
+    "W listopadzie 1918 r. stanął na czele Tymczasowego Rządu Ludowego Republiki Polskiej w Lublinie.",
+    "W II Rzeczypospolitej był m.in. marszałkiem Sejmu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/"
+  ],
+  "related_public_pages": []
+}
