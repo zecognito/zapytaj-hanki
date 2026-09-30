@@ -1,0 +1,21 @@
+{
+  "id": "poland-country-code-48",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "communications",
+  "title": "Kod telefoniczny Polski +48",
+  "facts": [
+    "Międzynarodowy kod telefoniczny Polski to +48.",
+    "Przy połączeniu międzynarodowym numer polski zapisuje się z +48 przed numerem krajowym.",
+    "Szczegóły wybierania numerów mogą zależeć od operatora i kraju, z którego wykonywane jest połączenie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.itu.int/en/ITU-T/inr/Pages/default.aspx"
+  ],
+  "related_public_pages": []
+}
