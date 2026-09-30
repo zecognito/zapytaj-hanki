@@ -384,6 +384,35 @@
         "credit_reporting",
         "filing"
       ]
+    },
+    {
+      "id": "housing_mortgages",
+      "label": "Dom, wynajem i hipoteka",
+      "status": "started",
+      "subtopics": [
+        "fha",
+        "va_loans",
+        "conventional",
+        "respa",
+        "escrow",
+        "pmi",
+        "fair_housing",
+        "mortgage_servicing",
+        "foreclosure",
+        "rental_federal"
+      ],
+      "completed_subtopics": [
+        "fha",
+        "va_loans",
+        "conventional",
+        "respa",
+        "escrow",
+        "pmi",
+        "fair_housing",
+        "mortgage_servicing",
+        "foreclosure",
+        "rental_federal"
+      ]
     }
   ]
 }
