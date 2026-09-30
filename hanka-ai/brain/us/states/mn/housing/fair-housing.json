@@ -1,0 +1,21 @@
+{
+  "id": "mn-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MN",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Fair housing w Minnesota",
+  "facts": [
+    "Prawo federalne i stanowe chroni przed określonymi formami dyskryminacji mieszkaniowej.",
+    "Stanowa ochrona może obejmować dodatkowe protected classes poza minimum federalnym.",
+    "Skargę dotyczącą housing discrimination można kierować do właściwej agencji stanowej lub federalnej HUD zależnie od sprawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mn.gov/mdhr/yourrights/housing/"
+  ],
+  "related_public_pages": []
+}
