@@ -1,0 +1,21 @@
+{
+  "id": "ma-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MA",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w Massachusetts",
+  "facts": [
+    "Massachusetts pozwala landlordowi pobrać security deposit zasadniczo nie większy niż jeden miesiąc rent.",
+    "Prawo nakłada szczegółowe wymagania dotyczące receipt, przechowywania środków, interest i dokumentacji stanu lokalu.",
+    "Landlord zasadniczo musi zwrócić należny deposit w ciągu 30 dni po zakończeniu tenancy, z potrąceniami dozwolonymi prawem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mass.gov/info-details/security-deposits-and-last-months-rent"
+  ],
+  "related_public_pages": []
+}
