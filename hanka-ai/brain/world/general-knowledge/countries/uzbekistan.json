@@ -1,0 +1,21 @@
+{
+  "id": "country-uzbekistan",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Uzbekistan",
+  "facts": [
+    "Uzbekistan leży w Azji Centralnej i jest jednym z dwóch państw świata podwójnie śródlądowych.",
+    "Stolicą jest Taszkent, językiem państwowym uzbecki, a walutą sum.",
+    "Uzbekistan jest republiką i najludniejszym państwem Azji Centralnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://gov.uz/en"
+  ],
+  "related_public_pages": []
+}
