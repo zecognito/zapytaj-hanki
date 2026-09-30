@@ -1,0 +1,21 @@
+{
+  "id": "kalisz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Kalisz",
+  "facts": [
+    "Kalisz jest miastem w województwie wielkopolskim i należy do najstarszych ośrodków miejskich na ziemiach polskich.",
+    "Miasto bywa łączone ze starożytną nazwą Calisia znaną z geografii Ptolemeusza, choć dokładna identyfikacja archeologiczna wymaga ostrożności.",
+    "W sierpniu 1914 r. Kalisz został zniszczony podczas działań wojsk niemieckich."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.kalisz.pl/"
+  ],
+  "related_public_pages": []
+}
