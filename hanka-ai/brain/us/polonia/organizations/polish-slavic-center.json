@@ -1,0 +1,35 @@
+{
+  "id": "polonia-org-polish-slavic-center",
+  "country": "US",
+  "category": "organization",
+  "name": "Polish & Slavic Center",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": "https://polishslaviccenter.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Community and social services for Polish and Slavic communities"
+  ],
+  "coverage_area": [
+    "NY",
+    "US"
+  ],
+  "notes": [
+    "Listed among Polish institutions operating in the United States by the Embassy of the Republic of Poland; program/contact details should be refreshed periodically."
+  ],
+  "official_source": "https://polishslaviccenter.org/",
+  "last_verified": "2026-09-30"
+}
