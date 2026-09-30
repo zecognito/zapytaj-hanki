@@ -1,0 +1,21 @@
+{
+  "id": "nip-basics-person-vs-business",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "documents",
+  "title": "NIP — kiedy jest używany",
+  "facts": [
+    "NIP to Numer Identyfikacji Podatkowej używany w polskim systemie podatkowym.",
+    "Dla wielu osób fizycznych nieprowadzących działalności podstawowym identyfikatorem podatkowym jest PESEL, natomiast NIP pozostaje wymagany m.in. dla określonych podatników i przedsiębiorców.",
+    "To, którego identyfikatora użyć w konkretnej sprawie podatkowej, zależy od statusu podatnika."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.podatki.gov.pl/nip/"
+  ],
+  "related_public_pages": []
+}
