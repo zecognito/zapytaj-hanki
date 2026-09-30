@@ -1,0 +1,21 @@
+{
+  "id": "refund-return-exchange",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday",
+  "subtopic": "shopping",
+  "title": "Refund, return i exchange",
+  "facts": [
+    "Return oznacza zwrot produktu sprzedawcy, refund zwrot pieniędzy, a exchange wymianę produktu.",
+    "W USA nie istnieje jedna ogólna federalna zasada dająca prawo do zwrotu każdego poprawnego zakupu tylko dlatego, że klient zmienił zdanie.",
+    "Return policy zależy od sprzedawcy oraz od szczególnych praw federalnych lub stanowych dotyczących określonych transakcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/solving-customer-problems-returns-refunds-and-other-resolutions"
+  ],
+  "related_public_pages": []
+}
