@@ -1,0 +1,21 @@
+{
+  "id": "katowice-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Katowice — podstawy",
+  "facts": [
+    "Katowice są stolicą województwa śląskiego i jednym z głównych ośrodków Górnośląsko-Zagłębiowskiej Metropolii.",
+    "Historia miasta i regionu jest silnie związana z górnictwem węgla, hutnictwem i industrializacją.",
+    "Współczesne Katowice rozwijają również sektor usług, kultury, wydarzeń i nowych funkcji gospodarczych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.katowice.eu/"
+  ],
+  "related_public_pages": []
+}
