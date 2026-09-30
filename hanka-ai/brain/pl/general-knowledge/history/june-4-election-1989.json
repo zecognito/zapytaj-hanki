@@ -1,0 +1,21 @@
+{
+  "id": "june-4-election-1989",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "communism",
+  "title": "Wybory 4 czerwca 1989",
+  "facts": [
+    "4 czerwca 1989 r. odbyła się pierwsza tura wyborów parlamentarnych uzgodnionych przy Okrągłym Stole.",
+    "Wybory do Sejmu były częściowo wolne, a wybory do odtworzonego Senatu miały znacznie bardziej otwarty charakter.",
+    "Kandydaci związani z Solidarnością odnieśli zdecydowany sukces, przyspieszając transformację polityczną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://senat.edu.pl/historia/senat-iii-rp/"
+  ],
+  "related_public_pages": []
+}
