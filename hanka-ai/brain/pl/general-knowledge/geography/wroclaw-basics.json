@@ -1,0 +1,21 @@
+{
+  "id": "wroclaw-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Wrocław — podstawy",
+  "facts": [
+    "Wrocław jest stolicą województwa dolnośląskiego i leży nad Odrą.",
+    "Miasto ma złożoną historię polską, czeską, austriacką i niemiecką; po II wojnie światowej znalazło się w granicach Polski.",
+    "Wrocław jest ważnym ośrodkiem akademickim, gospodarczym i kulturalnym zachodniej Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.wroclaw.pl/portal/"
+  ],
+  "related_public_pages": []
+}
