@@ -1,0 +1,21 @@
+{
+  "id": "country-mexico",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Meksyk",
+  "facts": [
+    "Meksyk leży w Ameryce Północnej między Stanami Zjednoczonymi, Gwatemalą i Belize.",
+    "Stolicą jest Meksyk (Ciudad de México), a państwo jest republiką federalną.",
+    "Walutą jest peso meksykańskie; Meksyk należy do największych gospodarek Ameryki Łacińskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gob.mx/"
+  ],
+  "related_public_pages": []
+}
