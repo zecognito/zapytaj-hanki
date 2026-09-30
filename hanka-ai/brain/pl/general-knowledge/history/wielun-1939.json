@@ -1,0 +1,21 @@
+{
+  "id": "wielun-1939",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world_war_ii",
+  "title": "Bombardowanie Wielunia",
+  "facts": [
+    "Wieluń został zbombardowany przez niemieckie lotnictwo rano 1 września 1939 r.",
+    "Atak spowodował śmierć ludności cywilnej i rozległe zniszczenia miasta.",
+    "Wieluń jest jednym z kluczowych miejsc pamięci związanych z pierwszymi godzinami niemieckiej agresji na Polskę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://muzeum1939.pl/"
+  ],
+  "related_public_pages": []
+}
