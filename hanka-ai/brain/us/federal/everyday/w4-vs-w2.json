@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-w4-vs-w2",
+  "subtopic": "employment_admin",
+  "title": "W-4 a W-2",
+  "facts": [
+    "Form W-4 pracownik przekazuje pracodawcy, aby pomóc określić federal income tax withholding z wynagrodzenia.",
+    "Form W-2 jest rocznym zestawieniem wynagrodzenia i potrąconych podatków przygotowywanym przez pracodawcę dla pracownika i administracji podatkowej.",
+    "W-4 nie jest rocznym rozliczeniem podatkowym, a W-2 nie służy do wyboru bieżącego withholding."
+  ],
+  "official_sources": [
+    "https://www.irs.gov/forms-pubs/about-form-w-4",
+    "https://www.irs.gov/forms-pubs/about-form-w-2"
+  ]
+}
