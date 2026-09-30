@@ -1,0 +1,21 @@
+{
+  "id": "ny-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NY",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową w New York",
+  "facts": [
+    "New York Human Rights Law zabrania dyskryminacji mieszkaniowej ze względu na chronione cechy określone w prawie stanowym.",
+    "Ochrona stanowa może być szersza niż federalny Fair Housing Act i obejmuje dodatkowe protected classes.",
+    "Skargi dotyczące dyskryminacji można kierować do New York State Division of Human Rights zgodnie z procedurą agencji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dhr.ny.gov/fairhousing"
+  ],
+  "related_public_pages": []
+}
