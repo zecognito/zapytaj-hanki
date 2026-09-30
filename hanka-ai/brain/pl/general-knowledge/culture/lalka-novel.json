@@ -1,0 +1,21 @@
+{
+  "id": "lalka-novel",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "„Lalka”",
+  "facts": [
+    "„Lalka” Bolesława Prusa jest jedną z najważniejszych polskich powieści XIX wieku.",
+    "Akcja koncentruje się m.in. na Stanisławie Wokulskim i społeczeństwie Warszawy.",
+    "Powieść łączy tematykę społeczną, ekonomiczną i obyczajową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://wolnelektury.pl/katalog/lektura/lalka/"
+  ],
+  "related_public_pages": []
+}
