@@ -1,0 +1,21 @@
+{
+  "id": "polonia-dearborn-mi-2024",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "polonia",
+  "subtopic": "local_demographics",
+  "title": "Polskie pochodzenie w Dearborn, Michigan — 2024",
+  "facts": [
+    "ACS 2024 1-year C04006 oszacował 4 449 mieszkańców Dearborn deklarujących Polish ancestry.",
+    "To estimate dla granic Dearborn city, nie całego Detroit metropolitan area ani całego Michigan.",
+    "Estimate ma margin of error ±1 333, co pokazuje znaczenie niepewności przy mniejszych geografiach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://data.census.gov/table/ACSDT1Y2024.C04006?q=ancestry%20dearborn%20MI"
+  ],
+  "related_public_pages": []
+}
