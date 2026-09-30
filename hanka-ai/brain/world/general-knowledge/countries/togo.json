@@ -1,0 +1,21 @@
+{
+  "id": "country-togo",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Togo",
+  "facts": [
+    "Togo jest wąskim państwem Afryki Zachodniej z wybrzeżem nad Zatoką Gwinejską.",
+    "Stolicą i największym miastem jest Lomé, językiem urzędowym francuski, a walutą frank CFA Afryki Zachodniej.",
+    "Togo jest republiką i graniczy z Ghaną, Beninem oraz Burkina Faso."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.republiquetogolaise.com/"
+  ],
+  "related_public_pages": []
+}
