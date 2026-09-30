@@ -1,0 +1,21 @@
+{
+  "id": "polish-diminutives-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "Zdrobnienia w języku polskim",
+  "facts": [
+    "Język polski bardzo produktywnie tworzy zdrobnienia imion i rzeczowników.",
+    "Zdrobnienie może wyrażać bliskość, czułość, mały rozmiar, ironię lub inne znaczenie zależnie od kontekstu.",
+    "Ta sama osoba może używać różnych form imienia w rodzinie, pracy i dokumentach urzędowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/poradnia/"
+  ],
+  "related_public_pages": []
+}
