@@ -1,0 +1,21 @@
+{
+  "id": "poland-constitution-1997",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "constitution",
+  "title": "Konstytucja RP z 1997 roku",
+  "facts": [
+    "Obowiązująca Konstytucja Rzeczypospolitej Polskiej została uchwalona 2 kwietnia 1997 r.",
+    "Konstytucja określa podstawowe zasady ustroju państwa, prawa i wolności oraz strukturę władz publicznych.",
+    "Konstytucja została zatwierdzona w referendum i weszła w życie w 1997 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sejm.gov.pl/prawo/konst/polski/kon1.htm"
+  ],
+  "related_public_pages": []
+}
