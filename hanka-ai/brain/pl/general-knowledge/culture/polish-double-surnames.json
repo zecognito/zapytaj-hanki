@@ -1,0 +1,21 @@
+{
+  "id": "polish-double-surnames",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "Nazwiska dwuczłonowe w Polsce",
+  "facts": [
+    "Polskie prawo i praktyka dopuszczają nazwiska złożone z dwóch członów w określonych sytuacjach, m.in. po zawarciu małżeństwa.",
+    "Szczegółowe zasady nazwiska po ślubie i nazwiska dzieci wynikają z prawa rodzinnego i stanu cywilnego.",
+    "W praktycznych pytaniach prawnych Hanka powinna sprawdzać aktualne przepisy zamiast opierać się tylko na zwyczaju językowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gov/zawarcie-malzenstwa"
+  ],
+  "related_public_pages": []
+}
