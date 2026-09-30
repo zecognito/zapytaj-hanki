@@ -1,0 +1,21 @@
+{
+  "id": "s11-expressway",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Droga ekspresowa S11",
+  "facts": [
+    "S11 jest drogą ekspresową rozwijaną w osi północ–południe przez zachodnią i środkowo-zachodnią Polskę.",
+    "Korytarz ma połączyć m.in. rejon Koszalina, Poznania i Górnego Śląska.",
+    "Trasa ma znaczenie dla połączenia Wielkopolski z Pomorzem Środkowym oraz południem kraju."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
