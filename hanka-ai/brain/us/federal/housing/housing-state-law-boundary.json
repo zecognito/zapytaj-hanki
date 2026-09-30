@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-housing-state-law-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "housing_mortgages",
+  "subtopic": "rental_federal",
+  "title": "Housing questions that require state or local law",
+  "facts": [
+    "Security-deposit limits and return deadlines, ordinary eviction notice periods, rent-control rules, landlord entry requirements, lease termination and many habitability remedies are primarily governed by state or local law.",
+    "Federal housing law can overlay those rules through fair-housing, subsidized-housing, mortgage, foreclosure and other protections.",
+    "Hanka should identify the user's state and often city or county before giving a specific landlord-tenant deadline or deposit rule."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/tenant-rights"
+  ],
+  "related_public_pages": []
+}
