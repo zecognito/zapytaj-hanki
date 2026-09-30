@@ -1,0 +1,21 @@
+{
+  "id": "sanatorium-nfz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "healthcare",
+  "subtopic": "rehabilitation",
+  "title": "Leczenie uzdrowiskowe i sanatorium NFZ",
+  "facts": [
+    "Leczenie uzdrowiskowe jest formą kontynuacji leczenia lub rehabilitacji wykorzystującą m.in. naturalne surowce lecznicze i warunki uzdrowiska.",
+    "W publicznym systemie pacjent może zostać skierowany na leczenie uzdrowiskowe według zasad NFZ; skierowanie podlega ocenie i potwierdzeniu przez Fundusz.",
+    "Pobyt w sanatorium uzdrowiskowym osoby dorosłej może wiązać się z częściową odpłatnością za zakwaterowanie i wyżywienie, zależnie od obowiązujących zasad."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nfz.gov.pl/dla-pacjenta/leczenie-uzdrowiskowe/"
+  ],
+  "related_public_pages": []
+}
