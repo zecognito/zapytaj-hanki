@@ -1,0 +1,21 @@
+{
+  "id": "rpo",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "everyday-government",
+  "title": "Rzecznik Praw Obywatelskich",
+  "facts": [
+    "Rzecznik Praw Obywatelskich stoi na straży wolności oraz praw człowieka i obywatela określonych w Konstytucji i innych przepisach.",
+    "RPO jest konstytucyjnym organem niezależnym od innych organów państwowych.",
+    "Do RPO można zwracać się w sprawach dotyczących możliwego naruszenia praw przez władze publiczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://bip.brpo.gov.pl/"
+  ],
+  "related_public_pages": []
+}
