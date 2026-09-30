@@ -1,0 +1,21 @@
+{
+  "id": "hancza-lake",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "lakes",
+  "title": "Jezioro Hańcza",
+  "facts": [
+    "Hańcza leży na Suwalszczyźnie w północno-wschodniej Polsce.",
+    "Jest najgłębszym jeziorem w Polsce.",
+    "Jezioro ma pochodzenie polodowcowe i znajduje się na obszarze Suwalskiego Parku Krajobrazowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://suwalskipark.pl/"
+  ],
+  "related_public_pages": []
+}
