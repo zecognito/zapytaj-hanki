@@ -1,0 +1,21 @@
+{
+  "id": "polish-public-holidays-rule",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "holidays",
+  "title": "Dni ustawowo wolne w Polsce — zasada",
+  "facts": [
+    "Polskie prawo określa katalog dni ustawowo wolnych od pracy.",
+    "Lista obejmuje święta państwowe i religijne, a przepisy mogą zostać zmienione ustawą.",
+    "Hanka powinna sprawdzać aktualny kalendarz i prawo przy pytaniach o konkretny rok, otwarcie urzędów lub obowiązek pracy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina/dni-wolne-od-pracy"
+  ],
+  "related_public_pages": []
+}
