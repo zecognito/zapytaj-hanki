@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-credit-free-credit-reports",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "credit_banking",
+  "subtopic": "credit_reports",
+  "title": "Free credit reports - federal rights",
+  "facts": [
+    "Federal law gives consumers access to free credit reports from the nationwide credit reporting companies through the authorized AnnualCreditReport.com service.",
+    "AnnualCreditReport.com is the federally authorized source established for free reports; consumers should distinguish it from lookalike sites.",
+    "Checking your own credit report does not lower your credit score.",
+    "A credit report and a credit score are different products; the federal right to a free report does not automatically mean every score is free."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-copy-of-my-credit-reports-en-5/",
+    "https://consumer.ftc.gov/articles/free-credit-reports"
+  ],
+  "related_public_pages": []
+}
