@@ -1,0 +1,21 @@
+{
+  "id": "bread-and-salt",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Chleb i sól",
+  "facts": [
+    "Powitanie chlebem i solą jest tradycyjnym polskim gestem gościnności i szacunku.",
+    "Zwyczaj pojawia się m.in. podczas niektórych wesel, oficjalnych powitań i wydarzeń ceremonialnych.",
+    "Jego znaczenie jest symboliczne i nie stanowi obowiązkowej części współczesnych uroczystości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/a-foreigners-guide-to-polish-weddings"
+  ],
+  "related_public_pages": []
+}
