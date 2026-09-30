@@ -1,0 +1,21 @@
+{
+  "id": "royal-castle-warsaw",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Zamek Królewski w Warszawie",
+  "facts": [
+    "Zamek Królewski w Warszawie był rezydencją monarchów i miejscem ważnych wydarzeń politycznych Rzeczypospolitej.",
+    "Został zniszczony przez Niemców podczas II wojny światowej i po wojnie odbudowany.",
+    "Jest częścią historycznego centrum Warszawy wpisanego na Listę Światowego Dziedzictwa UNESCO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.zamek-krolewski.pl/"
+  ],
+  "related_public_pages": []
+}
