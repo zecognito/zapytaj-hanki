@@ -1,0 +1,21 @@
+{
+  "id": "nc-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NC",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "N.C. REAL ID",
+  "facts": [
+    "North Carolina DMV wydaje N.C. REAL ID jako driver license lub identification card zgodne z federalnym REAL ID.",
+    "Uzyskanie N.C. REAL ID wymaga przedstawienia odpowiednich dokumentów potwierdzających identity/date of birth, Social Security number i North Carolina residency oraz lawful status zgodnie z wymaganiami.",
+    "Standardowy credential nadal może służyć do prowadzenia pojazdu, ale do objętych zastosowań federalnych potrzebny jest REAL ID lub inny akceptowany dokument."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ncdot.gov/dmv/license-id/nc-real-id/Pages/default.aspx"
+  ],
+  "related_public_pages": []
+}
