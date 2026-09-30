@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-credit-fdic-bank-failure",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "credit_banking",
+  "subtopic": "deposit_insurance",
+  "title": "FDIC insurance when a bank fails",
+  "facts": [
+    "FDIC deposit insurance is automatic for eligible deposits at an FDIC-insured bank; depositors do not separately purchase FDIC insurance.",
+    "When an insured bank fails, the FDIC generally works to provide insured depositors access to insured funds promptly, often by transferring deposits to another insured institution or issuing payment.",
+    "Amounts above applicable insurance limits may become claims against the failed bank's receivership rather than insured deposits."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fdic.gov/resources/deposit-insurance/faq/"
+  ],
+  "related_public_pages": []
+}
