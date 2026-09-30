@@ -1,0 +1,21 @@
+{
+  "id": "nv-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NV",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Fair housing w Nevada",
+  "facts": [
+    "Federalne i stanowe przepisy zabraniają określonych form dyskryminacji mieszkaniowej.",
+    "Zakres stanowych protected classes może być szerszy niż ochrona federalna.",
+    "Osoba podejrzewająca dyskryminację może skorzystać z procedury skargowej właściwej agencji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://detr.nv.gov/Page/NERC_Housing_Discrimination"
+  ],
+  "related_public_pages": []
+}
