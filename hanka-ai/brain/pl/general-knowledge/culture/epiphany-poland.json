@@ -1,0 +1,21 @@
+{
+  "id": "epiphany-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "holidays",
+  "title": "Święto Trzech Króli — 6 stycznia",
+  "facts": [
+    "6 stycznia, Objawienie Pańskie nazywane w Polsce Świętem Trzech Króli, jest dniem ustawowo wolnym od pracy.",
+    "W wielu miejscowościach odbywają się tego dnia Orszaki Trzech Króli.",
+    "Religijne praktyki i udział w obchodach zależą od osoby i rodziny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina/dni-wolne-od-pracy"
+  ],
+  "related_public_pages": []
+}
