@@ -1,0 +1,21 @@
+{
+  "id": "irena-sendler-rescue",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "resistance",
+  "title": "Irena Sendler i pomoc żydowskim dzieciom",
+  "facts": [
+    "Irena Sendler była polską działaczką społeczną i członkinią Żegoty pomagającą Żydom podczas niemieckiej okupacji.",
+    "Współpracowała z siecią osób pomagających wyprowadzać dzieci z getta warszawskiego i zapewniać im fałszywe dokumenty oraz schronienie.",
+    "Jej działalność była częścią szerszej konspiracyjnej sieci pomocy, a nie jednoosobową operacją."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.yadvashem.org/righteous/stories/sendler.html"
+  ],
+  "related_public_pages": []
+}
