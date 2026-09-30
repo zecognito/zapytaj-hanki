@@ -1,0 +1,21 @@
+{
+  "id": "earth-basics",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "geography",
+  "subtopic": "earth",
+  "title": "Ziemia — podstawowe fakty",
+  "facts": [
+    "Ziemia jest trzecią planetą od Słońca i jedyną znaną planetą, na której występuje życie.",
+    "Około 71% powierzchni Ziemi pokrywa woda, a pozostałą część stanowią lądy.",
+    "Ziemia wykonuje obrót wokół własnej osi w przybliżeniu raz na dobę i obiega Słońce w przybliżeniu raz na rok."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://science.nasa.gov/earth/facts/"
+  ],
+  "related_public_pages": []
+}
