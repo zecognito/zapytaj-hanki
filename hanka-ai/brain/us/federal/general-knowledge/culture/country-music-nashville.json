@@ -1,0 +1,21 @@
+{
+  "id": "country-music-nashville",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "music",
+  "title": "Nashville i country music",
+  "facts": [
+    "Nashville, Tennessee jest silnie związane z historią i przemysłem country music.",
+    "Grand Ole Opry rozpoczęło działalność jako radiowy program muzyczny w 1925 r. i odegrało ważną rolę w popularyzacji country music.",
+    "Country music ma korzenie w wielu tradycjach muzycznych południowych USA i Appalachia, a jego historia wykracza poza jedno miasto."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.loc.gov/item/ihas.200152683/"
+  ],
+  "related_public_pages": []
+}
