@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-our-lady-czestochowa-worcester-ma",
+  "country": "US",
+  "category": "church",
+  "name": "Our Lady of Czestochowa Catholic Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "34 Ward St",
+    "city": "Worcester",
+    "state": "MA",
+    "postal_code": "01610",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 508 755 5959",
+  "email": null,
+  "website": "https://olcworcester.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "MA"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish source."
+  ],
+  "official_source": "https://www.worcesterdiocese.org/parishfinder",
+  "last_verified": "2026-09-30"
+}
