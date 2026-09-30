@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-zachary-des-plaines-il",
+  "country": "US",
+  "category": "church",
+  "name": "St. Zachary Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "567 W Algonquin Rd",
+    "city": "Des Plaines",
+    "state": "IL",
+    "postal_code": "60016",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 847 956 7020",
+  "email": null,
+  "website": "https://www.saintzachary.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "IL"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; Hanka should direct users to the parish website for current Mass/confession times."
+  ],
+  "official_source": "https://www.saintzachary.org",
+  "last_verified": "2026-09-30"
+}
