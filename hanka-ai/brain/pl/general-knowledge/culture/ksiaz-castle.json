@@ -1,0 +1,21 @@
+{
+  "id": "ksiaz-castle",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Zamek Książ",
+  "facts": [
+    "Zamek Książ koło Wałbrzycha jest jednym z największych zamków w Polsce.",
+    "Jego historia sięga średniowiecza, a obiekt był wielokrotnie przebudowywany.",
+    "Podczas II wojny światowej Niemcy prowadzili w zamku i jego otoczeniu prace związane z kompleksem „Riese”; wiele szczegółów przeznaczenia tych prac pozostaje przedmiotem badań."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ksiaz.walbrzych.pl/"
+  ],
+  "related_public_pages": []
+}
