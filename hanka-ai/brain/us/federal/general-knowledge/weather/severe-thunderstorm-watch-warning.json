@@ -1,0 +1,21 @@
+{
+  "id": "severe-thunderstorm-watch-warning",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "weather",
+  "subtopic": "alerts",
+  "title": "Severe thunderstorm watch a warning",
+  "facts": [
+    "Severe Thunderstorm Watch oznacza, że warunki sprzyjają silnym burzom.",
+    "Severe Thunderstorm Warning oznacza, że silna burza występuje lub jest bezpośrednio wskazana przez radar/obserwacje dla ostrzeganego obszaru.",
+    "Watch oznacza przygotowanie i czujność; warning wymaga szybkiej reakcji na zagrożenie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.weather.gov/safety/thunderstorm-ww"
+  ],
+  "related_public_pages": []
+}
