@@ -1,0 +1,21 @@
+{
+  "id": "poland-world-bank",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "international",
+  "subtopic": "organizations",
+  "title": "Polska w Banku Światowym",
+  "facts": [
+    "Polska jest członkiem Międzynarodowego Banku Odbudowy i Rozwoju, głównej instytucji Grupy Banku Światowego.",
+    "Polska była członkiem Banku Światowego w pierwszych latach jego działalności, wystąpiła w 1950 roku i ponownie przystąpiła w 1986 roku.",
+    "Po transformacji ustrojowej Bank Światowy wspierał w Polsce liczne projekty i reformy, a charakter relacji zmieniał się wraz z rozwojem gospodarczym kraju."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.worldbank.org/en/country/poland"
+  ],
+  "related_public_pages": []
+}
