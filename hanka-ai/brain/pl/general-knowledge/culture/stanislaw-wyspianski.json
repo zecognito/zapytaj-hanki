@@ -1,0 +1,21 @@
+{
+  "id": "stanislaw-wyspianski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "art",
+  "title": "Stanisław Wyspiański",
+  "facts": [
+    "Stanisław Wyspiański był dramaturgiem, poetą, malarzem i projektantem związanym z okresem Młodej Polski.",
+    "Jest autorem dramatu „Wesele”.",
+    "Tworzył również witraże, polichromie, portrety i projekty użytkowe, łącząc literaturę ze sztukami wizualnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/stanislaw-wyspianski"
+  ],
+  "related_public_pages": []
+}
