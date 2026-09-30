@@ -1,0 +1,21 @@
+{
+  "id": "stanislaw-ulam",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Stanisław Ulam",
+  "facts": [
+    "Stanisław Ulam był matematykiem urodzonym we Lwowie i związanym przed wojną z polskim środowiskiem matematycznym.",
+    "Po emigracji do Stanów Zjednoczonych pracował m.in. w Los Alamos i wniósł wkład w matematykę, fizykę obliczeniową i rozwój metod Monte Carlo.",
+    "Jest przykładem ważnego polsko-amerykańskiego transferu naukowego XX wieku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.lanl.gov/museum/discover/_docs/ulam-biography.pdf"
+  ],
+  "related_public_pages": []
+}
