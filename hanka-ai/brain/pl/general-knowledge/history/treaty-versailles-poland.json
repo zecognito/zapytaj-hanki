@@ -1,0 +1,21 @@
+{
+  "id": "treaty-versailles-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "independence",
+  "title": "Traktat wersalski a Polska",
+  "facts": [
+    "Traktat wersalski podpisano 28 czerwca 1919 r. po I wojnie światowej.",
+    "Potwierdził międzynarodowo ważne elementy odbudowanego państwa polskiego i określał część jego zachodnich i północnych granic.",
+    "Nie ustalił ostatecznie wszystkich granic II Rzeczypospolitej; proces ich kształtowania trwał jeszcze kilka lat."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/"
+  ],
+  "related_public_pages": []
+}
