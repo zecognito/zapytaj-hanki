@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-joseph-central-falls-ri",
+  "country": "US",
+  "category": "church",
+  "name": "St. Joseph Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Central Falls",
+    "state": "RI",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": "https://www.dioceseofprovidence.org/parishfinder",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "RI"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish or diocesan source."
+  ],
+  "official_source": "https://www.dioceseofprovidence.org/parishfinder",
+  "last_verified": "2026-09-30"
+}
