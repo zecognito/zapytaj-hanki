@@ -1,0 +1,21 @@
+{
+  "id": "hugo-steinhaus",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Hugo Steinhaus",
+  "facts": [
+    "Hugo Steinhaus był polskim matematykiem i jednym z twórców lwowskiej szkoły matematycznej.",
+    "Wniósł ważny wkład m.in. do analizy funkcjonalnej, teorii prawdopodobieństwa i zastosowań matematyki.",
+    "Po II wojnie światowej był związany z Wrocławiem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pan.pl/"
+  ],
+  "related_public_pages": []
+}
