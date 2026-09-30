@@ -1,0 +1,21 @@
+{
+  "id": "md-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MD",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Maryland",
+  "facts": [
+    "Maryland pobiera stanowy individual income tax od osób fizycznych.",
+    "Maryland ma także local income tax pobierany według miejsca zamieszkania; lokalna stawka zależy od county lub Baltimore City.",
+    "Przy przeprowadzce w trakcie roku zasady part-year resident mogą zmienić sposób rozliczenia dochodu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.marylandcomptroller.gov/individuals/"
+  ],
+  "related_public_pages": []
+}
