@@ -1,0 +1,21 @@
+{
+  "id": "first-floor-ground-floor",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday",
+  "subtopic": "buildings",
+  "title": "First floor w USA",
+  "facts": [
+    "W typowym amerykańskim użyciu first floor oznacza poziom wejścia z ulicy/ziemi.",
+    "Kondygnacja nad nim jest second floor.",
+    "To różni się od części europejskich systemów, w których poziom wejściowy bywa ground floor, a first floor znajduje się wyżej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gsa.gov/real-estate/design-and-construction"
+  ],
+  "related_public_pages": []
+}
