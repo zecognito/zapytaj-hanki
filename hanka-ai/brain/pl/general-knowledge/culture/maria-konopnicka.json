@@ -1,0 +1,21 @@
+{
+  "id": "maria-konopnicka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "Maria Konopnicka",
+  "facts": [
+    "Maria Konopnicka była polską poetką, nowelistką i autorką literatury dla dzieci.",
+    "Napisała m.in. „Rotę” oraz baśń „O krasnoludkach i o sierotce Marysi”.",
+    "Jej twórczość jest związana z polską kulturą końca XIX i początku XX wieku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/maria-konopnicka"
+  ],
+  "related_public_pages": []
+}
