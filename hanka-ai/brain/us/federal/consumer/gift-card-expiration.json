@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-consumer-gift-card-expiration",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "consumer_protection",
+  "subtopic": "gift_cards",
+  "title": "Gift cards - federal expiration and fee rules",
+  "facts": [
+    "Federal law generally prohibits covered gift cards and gift certificates from expiring earlier than five years after issuance or, for certain reloadable cards, five years after the last load.",
+    "Inactivity, dormancy or service fees on covered cards are restricted and generally cannot be charged unless the card has been inactive for at least one year and other disclosure requirements are met.",
+    "Promotional, loyalty, telephone and certain other cards can fall under different rules or exclusions.",
+    "State law can provide stronger gift-card protections."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/rules-policy/regulations/1005/20/"
+  ],
+  "related_public_pages": []
+}
