@@ -1,0 +1,21 @@
+{
+  "id": "rosol",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Rosół",
+  "facts": [
+    "Rosół jest klarownym wywarem mięsnym lub mięsno-warzywnym należącym do klasycznych dań polskiej kuchni domowej.",
+    "Najczęściej podaje się go z makaronem i warzywami z wywaru lub dodatkami zależnymi od domu.",
+    "Jest silnie kojarzony z niedzielnym obiadem i uroczystościami rodzinnymi, choć nie jest to sztywna reguła."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101"
+  ],
+  "related_public_pages": []
+}
