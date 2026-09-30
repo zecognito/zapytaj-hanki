@@ -1,0 +1,21 @@
+{
+  "id": "or-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OR",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Oregon Health Plan — Medicaid w Oregon",
+  "facts": [
+    "Oregon Health Plan jest stanowym programem Medicaid dla kwalifikujących się mieszkańców.",
+    "Eligibility zależy od kategorii programu, dochodu i innych obowiązujących kryteriów.",
+    "Wnioski i odnowienia prowadzi właściwa administracja stanowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.oregon.gov/oha/hsd/ohp/pages/index.aspx"
+  ],
+  "related_public_pages": []
+}
