@@ -1,0 +1,22 @@
+{
+  "id": "1980-aug14-gdansk-strike",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "14 sierpnia 1980 — strajk w Stoczni Gdańskiej",
+  "facts": [
+    "14 sierpnia 1980 r. rozpoczął się strajk w Stoczni Gdańskiej im. Lenina.",
+    "Jednym z bezpośrednich powodów było zwolnienie z pracy Anny Walentynowicz.",
+    "Lech Wałęsa dołączył do protestu i został jednym z jego głównych przywódców."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://dzieje.pl/"
+  ],
+  "related_public_pages": []
+}
