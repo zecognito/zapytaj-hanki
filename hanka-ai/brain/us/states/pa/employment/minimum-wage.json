@@ -1,0 +1,21 @@
+{
+  "id": "pa-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "PA",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Pensylwanii",
+  "facts": [
+    "Stanowa płaca minimalna w Pennsylvania wynosi 7,25 USD za godzinę dla objętych pracowników.",
+    "Dla tipped employees mogą obowiązywać zasady tip credit i niższej bezpośredniej cash wage, jeśli spełnione są wymagania prawa.",
+    "Federalne lub lokalne zasady mogą mieć znaczenie w konkretnych sytuacjach, ale Pennsylvania Department of Labor & Industry publikuje stanowe wymagania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pa.gov/agencies/dli/resources/compliance-laws-and-regulations/labor-management-relations/pennsylvania-s-minimum-wage-act.html"
+  ],
+  "related_public_pages": []
+}
