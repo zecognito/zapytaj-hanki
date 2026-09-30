@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-transport-airline-baggage",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "cars_transportation",
+  "subtopic": "air_travel",
+  "title": "Airline baggage liability - federal basics",
+  "facts": [
+    "For domestic U.S. air travel, DOT sets a minimum maximum-liability requirement for lost, damaged or delayed baggage that airlines cannot set below the federal amount.",
+    "The domestic baggage-liability limit is periodically adjusted for inflation, so the current dollar figure should be verified before quoting an amount.",
+    "International baggage claims can be governed by international treaties and use different liability rules.",
+    "Airlines may exclude certain categories of items from liability where permitted, subject to applicable law and their contract of carriage."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.transportation.gov/lost-delayed-or-damaged-baggage"
+  ],
+  "related_public_pages": []
+}
