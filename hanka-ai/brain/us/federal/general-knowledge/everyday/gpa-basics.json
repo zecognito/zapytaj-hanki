@@ -1,0 +1,21 @@
+{
+  "id": "gpa-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "education",
+  "subtopic": "school_terms",
+  "title": "Co to jest GPA?",
+  "facts": [
+    "GPA oznacza grade point average, czyli średnią ocen przeliczoną na punkty.",
+    "Wiele szkół używa skali 4.0, ale skale i zasady weighted GPA różnią się między szkołami.",
+    "Nie istnieje jedna federalna metoda obliczania GPA dla wszystkich szkół i uczelni."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://nces.ed.gov/fastfacts/display.asp?id=84"
+  ],
+  "related_public_pages": []
+}
