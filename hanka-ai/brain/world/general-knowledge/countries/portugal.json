@@ -1,0 +1,21 @@
+{
+  "id": "country-portugal",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Portugalia",
+  "facts": [
+    "Portugalia leży na zachodnim krańcu Półwyspu Iberyjskiego i obejmuje również archipelagi Azorów i Madery.",
+    "Stolicą jest Lizbona, językiem urzędowym portugalski, a walutą euro.",
+    "Portugalia jest republiką, członkiem Unii Europejskiej i NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.portugal.gov.pt/en/gc24/portugal/about-portugal"
+  ],
+  "related_public_pages": []
+}
