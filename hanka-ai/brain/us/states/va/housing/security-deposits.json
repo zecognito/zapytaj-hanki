@@ -1,0 +1,21 @@
+{
+  "id": "va-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VA",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w Wirginii",
+  "facts": [
+    "Virginia Residential Landlord and Tenant Act ogranicza security deposit zasadniczo do dwóch miesięcy periodic rent.",
+    "Po zakończeniu tenancy landlord zasadniczo musi rozliczyć i zwrócić należną część deposit w ustawowym terminie.",
+    "Potrącenia mogą obejmować należności dozwolone prawem, w tym określone unpaid rent i szkody przekraczające reasonable wear and tear."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://law.lis.virginia.gov/vacode/title55.1/chapter12/section55.1-1226/"
+  ],
+  "related_public_pages": []
+}
