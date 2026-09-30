@@ -1,0 +1,21 @@
+{
+  "id": "rogale-swietomarcinskie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Rogale świętomarcińskie",
+  "facts": [
+    "Rogale świętomarcińskie są tradycyjnym wypiekiem szczególnie związanym z Poznaniem i 11 listopada, dniem św. Marcina.",
+    "Charakterystyczne nadzienie zawiera biały mak i inne składniki określone w specyfikacji chronionego produktu.",
+    "Nazwa jest chroniona w systemie unijnych oznaczeń geograficznych i nie każdy podobny rogal może być sprzedawany pod tą nazwą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-food-and-drink_en"
+  ],
+  "related_public_pages": []
+}
