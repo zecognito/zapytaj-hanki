@@ -1,0 +1,21 @@
+{
+  "id": "nj-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NJ",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w New Jersey",
+  "facts": [
+    "New Jersey ma progresywny Gross Income Tax; stawka zależy od poziomu dochodu i filing status.",
+    "New Jersey Gross Income Tax dzieli dochód na określone kategorie i nie działa identycznie jak federal income tax.",
+    "Aktualne progi i stawki należy sprawdzać w New Jersey Division of Taxation dla właściwego roku podatkowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nj.gov/treasury/taxation/taxtables.shtml"
+  ],
+  "related_public_pages": []
+}
