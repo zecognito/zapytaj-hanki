@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-joseph-camden-nj",
+  "country": "US",
+  "category": "church",
+  "name": "St. Joseph Polish Catholic Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1010 Liberty St",
+    "city": "Camden",
+    "state": "NJ",
+    "postal_code": "08104",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 856 963 1285",
+  "email": null,
+  "website": "https://stjosephscamdennj.com",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "NJ"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://stjosephscamdennj.com",
+  "last_verified": "2026-09-30"
+}
