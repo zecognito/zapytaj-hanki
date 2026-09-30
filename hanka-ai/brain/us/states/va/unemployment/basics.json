@@ -1,0 +1,21 @@
+{
+  "id": "va-unemployment-basics",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VA",
+  "topic": "benefits",
+  "subtopic": "unemployment",
+  "title": "Unemployment Insurance w Wirginii",
+  "facts": [
+    "Virginia Unemployment Insurance zapewnia czasowe świadczenia kwalifikującym się osobom bez pracy.",
+    "Eligibility zależy m.in. od wcześniejszych wages, powodu utraty pracy oraz zdolności i dostępności do pracy.",
+    "Claimant musi składać wymagane weekly claims i spełniać work-search requirements, jeśli mają zastosowanie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.vec.virginia.gov/unemployed"
+  ],
+  "related_public_pages": []
+}
