@@ -1,0 +1,21 @@
+{
+  "id": "country-bolivia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Boliwia",
+  "facts": [
+    "Boliwia jest śródlądowym państwem Ameryki Południowej, obejmującym obszary Andów, Altiplano i dorzecza Amazonki.",
+    "Konstytucyjną stolicą jest Sucre, natomiast siedziba rządu i parlamentu znajduje się w La Paz.",
+    "Boliwia jest państwem wielonarodowym; hiszpański oraz liczne języki rdzennych narodów mają status urzędowy, a walutą jest boliviano."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cancilleria.gob.bo/"
+  ],
+  "related_public_pages": []
+}
