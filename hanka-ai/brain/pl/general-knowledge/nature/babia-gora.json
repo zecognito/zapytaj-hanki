@@ -1,0 +1,21 @@
+{
+  "id": "babia-gora",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "landscapes",
+  "title": "Babia Góra",
+  "facts": [
+    "Babia Góra leży w Beskidzie Żywieckim przy granicy polsko-słowackiej.",
+    "Diablak, najwyższy wierzchołek masywu, ma 1725 m n.p.m. i jest najwyższym szczytem polskich Beskidów.",
+    "Znaczna część masywu jest chroniona w Babiogórskim Parku Narodowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://bgpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
