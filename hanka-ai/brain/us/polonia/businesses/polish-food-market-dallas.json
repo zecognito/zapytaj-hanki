@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polish-food-market-dallas",
+  "country": "US",
+  "category": "store",
+  "name": "Polish Food Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "Dallas-Fort Worth area",
+    "city": "Dallas",
+    "state": "TX",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish groceries",
+    "Polish specialty foods"
+  ],
+  "coverage_area": [
+    "Dallas",
+    "TX"
+  ],
+  "notes": [
+    "Polish-food relevance supported by current business or Polonia-community source. Incomplete location/contact fields are intentionally left null rather than inferred; reverification required."
+  ],
+  "official_source": "https://www.polishamericanfoundation.org/",
+  "last_verified": "2026-09-30"
+}
