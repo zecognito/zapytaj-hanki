@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-unauthorized-debit-eft",
+  "subtopic": "banking_payments",
+  "title": "Nieautoryzowana transakcja kartą debetową lub EFT",
+  "facts": [
+    "Regulation E chroni konsumentów w określonych przypadkach nieautoryzowanych electronic fund transfers z konsumenckiego rachunku.",
+    "Przy zgubionej lub skradzionej karcie szybkie zgłoszenie ma znaczenie: zgłoszenie w ciągu 2 dni roboczych od odkrycia utraty może ograniczyć odpowiedzialność do niższej z kwot: nieautoryzowane transakcje albo 50 USD.",
+    "Po zgłoszeniu nieautoryzowanej transakcji bank lub credit union zasadniczo ma 10 dni roboczych na zbadanie sprawy, z wyjątkami i procedurami przewidzianymi w Regulation E.",
+    "Ochrona zależy od rodzaju transakcji i terminów zgłoszenia; nie należy traktować każdej płatności kartą, checkiem i credit card jako tej samej kategorii."
+  ],
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-my-money-back-after-i-discover-an-unauthorized-transaction-or-money-missing-from-my-bank-account-en-1017/",
+    "https://www.consumerfinance.gov/rules-policy/regulations/1005/6/"
+  ]
+}
