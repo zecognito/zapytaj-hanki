@@ -1,0 +1,21 @@
+{
+  "id": "ky-unemployment",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "KY",
+  "topic": "employment",
+  "subtopic": "unemployment",
+  "title": "Unemployment insurance w Kentucky",
+  "facts": [
+    "Stan prowadzi unemployment insurance dla kwalifikujących się osób bez pracy.",
+    "Eligibility zależy m.in. od historii zarobków i powodu utraty pracy.",
+    "Claimant musi spełniać bieżące wymagania i certyfikować claim zgodnie z zasadami programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://kcc.ky.gov/career/If-you-are-Unemployed/Pages/default.aspx"
+  ],
+  "related_public_pages": []
+}
