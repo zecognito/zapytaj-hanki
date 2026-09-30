@@ -1,0 +1,21 @@
+{
+  "id": "kora",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "musicians",
+  "title": "Kora",
+  "facts": [
+    "Kora (Olga Jackowska, 1951–2018) była polską wokalistką i autorką tekstów, przede wszystkim liderką zespołu Maanam.",
+    "Maanam należał do najważniejszych zespołów polskiego rocka lat 80. i kolejnych dekad, a Kora była jedną z najbardziej charakterystycznych osobowości polskiej sceny muzycznej.",
+    "Do najbardziej znanych utworów wykonywanych przez Korę z Maanamem należą „Boskie Buenos”, „Kocham cię, kochanie moje”, „Cykady na Cykladach” i „Szare miraże”."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/pl/tworca/kora"
+  ],
+  "related_public_pages": []
+}
