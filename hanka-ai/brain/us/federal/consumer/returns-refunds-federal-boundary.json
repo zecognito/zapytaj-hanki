@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-consumer-return-policy-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "consumer_protection",
+  "subtopic": "returns",
+  "title": "Store returns and refunds - federal boundary",
+  "facts": [
+    "There is no general federal law requiring a retailer to accept every return or provide a refund simply because a consumer changed their mind.",
+    "Return and exchange rights often depend on the seller's disclosed policy, contract terms, state law and whether goods were defective or misrepresented.",
+    "Special federal cancellation rights apply to certain transactions, but they should not be confused with a universal three-day right to cancel every purchase."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/buyers-remorse-ftcs-cooling-rule-may-help"
+  ],
+  "related_public_pages": []
+}
