@@ -1,0 +1,22 @@
+{
+  "id": "1947-jan19-election",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "19 stycznia 1947 — sfałszowane wybory parlamentarne",
+  "facts": [
+    "19 stycznia 1947 r. przeprowadzono wybory do Sejmu Ustawodawczego.",
+    "Głosowanie odbywało się w warunkach represji wobec opozycji, a wyniki zostały sfałszowane na korzyść bloku kontrolowanego przez komunistów.",
+    "Wybory były kluczowym etapem likwidacji legalnej opozycji i konsolidacji systemu komunistycznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
