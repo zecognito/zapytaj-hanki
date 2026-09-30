@@ -1,0 +1,21 @@
+{
+  "id": "country-georgia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Gruzja",
+  "facts": [
+    "Gruzja leży na Kaukazie Południowym między Morzem Czarnym a pasmem Wielkiego Kaukazu, a jej stolicą jest Tbilisi.",
+    "Językiem urzędowym jest gruziński, a w Autonomicznej Republice Abchazji także abchaski; walutą jest lari.",
+    "Gruzja jest republiką; Abchazja i Osetia Południowa pozostają poza kontrolą rządu w Tbilisi i są przedmiotem sporu międzynarodowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mfa.gov.ge/en"
+  ],
+  "related_public_pages": []
+}
