@@ -1,0 +1,23 @@
+{
+  "id": "ri-state-profile",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "state_profile",
+  "title": "Rhode Island — podstawowe informacje o stanie",
+  "facts": [
+    "Rhode Island: stolica Providence; kod pocztowy USPS RI.",
+    "W podziale Census Bureau: region Northeast, division New England.",
+    "Data statehood/przyjęcia do Unii: 1790-05-29.",
+    "Przy populacji należy podawać rok i Vintage Census Population Estimates."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/states-and-territories",
+    "https://www.census.gov/programs-surveys/popest/guidance-geographies/terms-and-definitions.html"
+  ],
+  "related_public_pages": []
+}
