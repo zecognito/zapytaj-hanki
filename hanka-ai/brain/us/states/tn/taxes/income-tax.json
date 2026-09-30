@@ -1,0 +1,21 @@
+{
+  "id": "tn-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TN",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Tennessee",
+  "facts": [
+    "Tennessee nie pobiera stanowego individual income tax od wages i salaries.",
+    "Dochody takie jak Social Security, pension income oraz wypłaty z IRA i 401(k) również nie podlegają Tennessee individual income tax.",
+    "Federalny income tax nadal może obowiązywać niezależnie od braku stanowego podatku od dochodu osobistego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://revenue.support.tn.gov/hc/en-us/articles/360057371832-HIT-18-Pension-Income-Social-Security-401-k-and-IRA-Distributions"
+  ],
+  "related_public_pages": []
+}
