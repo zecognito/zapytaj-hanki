@@ -1,0 +1,24 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-feie-living-poland",
+  "subtopic": "moving_to_poland",
+  "title": "Foreign Earned Income Exclusion przy pracy w Polsce",
+  "facts": [
+    "U.S. citizen lub resident alien pracujący w Polsce może kwalifikować się do Foreign Earned Income Exclusion, jeśli ma tax home za granicą i spełnia bona fide residence test albo physical presence test.",
+    "FEIE nie działa automatycznie po wyprowadzce do Polski; aby ją wybrać, kwalifikujący się podatnik składa Form 2555 z Form 1040 lub 1040-X.",
+    "Dochód wyłączony przez FEIE nie może jednocześnie generować Foreign Tax Credit za zagraniczny podatek przypisany do tego samego wyłączonego dochodu.",
+    "Wybranie FEIE wpływa również na niektóre inne ulgi, dlatego nie zawsze jest korzystniejsze niż Foreign Tax Credit."
+  ],
+  "official_sources": [
+    "https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion-forms-to-file",
+    "https://www.irs.gov/instructions/i2555",
+    "https://www.irs.gov/individuals/international-taxpayers/choosing-the-foreign-earned-income-exclusion"
+  ]
+}
