@@ -1,0 +1,22 @@
+{
+  "id": "1921-riga-treaty",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1921 — traktat ryski",
+  "facts": [
+    "18 marca 1921 r. Polska, Rosja Sowiecka i Ukraina Sowiecka podpisały traktat pokojowy w Rydze.",
+    "Traktat zakończył wojnę polsko-bolszewicką i wyznaczył wschodnią granicę II Rzeczypospolitej.",
+    "Granica ustalona w Rydze przestała istnieć w wyniku wydarzeń II wojny światowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
