@@ -1,0 +1,22 @@
+{
+  "id": "il-overtime",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "employment",
+  "subtopic": "overtime_state_rules",
+  "title": "Overtime w Illinois",
+  "facts": [
+    "Większość objętych przepisami pracowników musi otrzymać overtime po przekroczeniu 40 godzin pracy w workweek.",
+    "Stawka overtime wynosi zasadniczo 1,5 raza regular rate pracownika.",
+    "Samo otrzymywanie salary nie oznacza automatycznie zwolnienia z overtime; przy klasyfikacji exempt trzeba uwzględnić zarówno Illinois Minimum Wage Law, jak i federalny FLSA."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://labor.illinois.gov/employees/rights.html",
+    "https://labor.illinois.gov/faqs/minimum-wage-overtime-faq.html"
+  ],
+  "related_public_pages": []
+}
