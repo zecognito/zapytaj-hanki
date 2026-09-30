@@ -1,0 +1,21 @@
+{
+  "id": "penderecki",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "music",
+  "title": "Krzysztof Penderecki",
+  "facts": [
+    "Krzysztof Penderecki był polskim kompozytorem i dyrygentem należącym do najbardziej znanych twórców muzyki współczesnej XX i XXI wieku.",
+    "Jego „Tren – Ofiarom Hiroszimy” jest jednym z najbardziej rozpoznawalnych utworów awangardowej muzyki polskiej.",
+    "Twórczość Pendereckiego zmieniała się stylistycznie w trakcie jego kariery i nie ogranicza się do awangardy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/krzysztof-penderecki"
+  ],
+  "related_public_pages": []
+}
