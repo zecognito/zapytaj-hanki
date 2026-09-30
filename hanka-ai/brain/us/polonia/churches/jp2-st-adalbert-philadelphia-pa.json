@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-jp2-st-adalbert-philadelphia-pa",
+  "country": "US",
+  "category": "church",
+  "name": "St. John Paul II Parish - St. Adalbert Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2645 E Allegheny Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "postal_code": "19134",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 215 739 3500",
+  "email": null,
+  "website": "https://www.jpiiphila.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "PA"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish source."
+  ],
+  "official_source": "https://archphila.org/parish/john-paul-ii/",
+  "last_verified": "2026-09-30"
+}
