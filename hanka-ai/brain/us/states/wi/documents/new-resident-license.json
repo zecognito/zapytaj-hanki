@@ -1,0 +1,21 @@
+{
+  "id": "wi-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WI",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Wisconsin",
+  "facts": [
+    "Nowy mieszkaniec Wisconsin posiadający out-of-state driver license powinien uzyskać Wisconsin driver license zgodnie z wymaganiami DMV.",
+    "Wymagane dokumenty zależą od rodzaju credential i obejmują odpowiednie potwierdzenia identity, lawful status i Wisconsin residency.",
+    "Uzyskanie Wisconsin license jest odrębnym procesem od title/registration pojazdu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to-apply/ooslicense.aspx"
+  ],
+  "related_public_pages": []
+}
