@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-bankruptcy-credit-reporting",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "bankruptcy_debt_relief",
+  "subtopic": "credit_reporting",
+  "title": "Bankruptcy on a credit report",
+  "facts": [
+    "Federal credit-reporting law can permit bankruptcy information to remain on a consumer report for up to 10 years from the order for relief or adjudication, subject to applicable law and reporting practices.",
+    "Other negative information often has shorter federal reporting periods.",
+    "Credit reporting duration is different from how long a bankruptcy case lasts and from how long discharged debts remain legally collectible; discharged debts generally cannot be collected personally regardless of report display."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.law.cornell.edu/uscode/text/15/1681c",
+    "https://www.consumerfinance.gov/ask-cfpb/how-long-does-negative-information-remain-on-my-credit-report-en-323/"
+  ],
+  "related_public_pages": []
+}
