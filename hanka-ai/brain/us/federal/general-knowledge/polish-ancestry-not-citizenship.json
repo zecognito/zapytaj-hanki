@@ -1,0 +1,21 @@
+{
+  "id": "polish-ancestry-not-citizenship",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "demographics",
+  "subtopic": "polish_ancestry_definition",
+  "title": "Polish ancestry to nie to samo co polskie obywatelstwo",
+  "facts": [
+    "W danych U.S. Census Bureau ancestry jest deklarowanym pochodzeniem respondenta.",
+    "Osoba deklarująca Polish ancestry może urodzić się w USA i nie mieć polskiego obywatelstwa.",
+    "Dlatego liczby Polish ancestry są zwykle właściwe do opisu szerokiej Polonii pochodzeniowej, ale nie do liczenia obywateli Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/topics/population/ancestry/about.html"
+  ],
+  "related_public_pages": []
+}
