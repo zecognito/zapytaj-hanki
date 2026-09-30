@@ -1,0 +1,21 @@
+{
+  "id": "ems",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "safety",
+  "subtopic": "emergency_services",
+  "title": "Co oznacza EMS?",
+  "facts": [
+    "EMS oznacza Emergency Medical Services.",
+    "EMS obejmuje system reagowania medycznego przed dotarciem pacjenta do szpitala, w tym dispatch, EMTs/paramedics i ambulances zależnie od lokalnego systemu.",
+    "Organizacja EMS różni się lokalnie i może być publiczna, prywatna lub mieszana."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ems.gov/what-is-ems/"
+  ],
+  "related_public_pages": []
+}
