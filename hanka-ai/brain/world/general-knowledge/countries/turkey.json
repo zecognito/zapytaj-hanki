@@ -1,0 +1,21 @@
+{
+  "id": "country-turkey",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Turcja",
+  "facts": [
+    "Turcja leży częściowo w Europie, a częściowo w Azji, po obu stronach cieśnin Bosfor i Dardanele.",
+    "Stolicą jest Ankara, największym miastem Stambuł, językiem urzędowym turecki, a walutą lira turecka.",
+    "Turcja jest republiką i członkiem NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mfa.gov.tr/"
+  ],
+  "related_public_pages": []
+}
