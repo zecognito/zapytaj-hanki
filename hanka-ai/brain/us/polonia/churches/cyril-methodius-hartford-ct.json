@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-cyril-methodius-hartford-ct",
+  "country": "US",
+  "category": "church",
+  "name": "SS. Cyril & Methodius Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "55 Charter Oak Ave",
+    "city": "Hartford",
+    "state": "CT",
+    "postal_code": "06106",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 860 522 9157",
+  "email": null,
+  "website": "https://sscyrilmethodiushartford.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "CT"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish or diocesan source."
+  ],
+  "official_source": "https://sscyrilmethodiushartford.org/",
+  "last_verified": "2026-09-30"
+}
