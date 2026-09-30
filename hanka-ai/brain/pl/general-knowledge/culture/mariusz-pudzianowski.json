@@ -1,0 +1,21 @@
+{
+  "id": "mariusz-pudzianowski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "modern-sports",
+  "title": "Mariusz Pudzianowski",
+  "facts": [
+    "Mariusz Pudzianowski jest polskim sportowcem znanym najpierw z zawodów strongman, a później z mieszanych sztuk walki.",
+    "Wielokrotnie zdobywał tytuł World's Strongest Man.",
+    "Po zakończeniu dominującego okresu w strongman rozpoczął karierę w MMA."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.theworldsstrongestman.com/"
+  ],
+  "related_public_pages": []
+}
