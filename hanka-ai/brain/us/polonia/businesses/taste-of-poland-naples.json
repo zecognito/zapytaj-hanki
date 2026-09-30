@@ -1,0 +1,38 @@
+{
+  "id": "polonia-business-taste-of-poland-naples",
+  "country": "US",
+  "category": "store",
+  "name": "Taste of Poland",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "13500 Tamiami Trail N",
+    "city": "Naples",
+    "state": "FL",
+    "postal_code": "34110",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 239-631-1917",
+  "email": null,
+  "website": "https://topnaples.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish market",
+    "Polish deli",
+    "homemade Polish food",
+    "imported Polish foods"
+  ],
+  "coverage_area": [
+    "Naples",
+    "FL"
+  ],
+  "notes": [
+    "Polish-food relevance supported by current official business or Polonia/local source. Commercial status and details remain freshness-sensitive."
+  ],
+  "official_source": "https://topnaples.com/",
+  "last_verified": "2026-09-30"
+}
