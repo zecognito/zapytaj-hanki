@@ -1,0 +1,21 @@
+{
+  "id": "przychod-dochod",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language-and-everyday-concepts",
+  "title": "Przychód a dochód",
+  "facts": [
+    "Przychód i dochód nie są w polskich podatkach tym samym pojęciem.",
+    "W uproszczeniu przychód oznacza wartość uzyskaną przed odjęciem określonych kosztów, a dochód jest zwykle przychodem pomniejszonym o koszty uzyskania przychodu.",
+    "Dokładne znaczenie i sposób obliczenia zależą od podatku oraz rodzaju działalności lub źródła przychodu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.podatki.gov.pl/"
+  ],
+  "related_public_pages": []
+}
