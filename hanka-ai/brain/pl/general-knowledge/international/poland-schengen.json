@@ -1,0 +1,21 @@
+{
+  "id": "poland-schengen",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "international",
+  "subtopic": "organizations",
+  "title": "Polska w strefie Schengen",
+  "facts": [
+    "Polska należy do strefy Schengen od 2007 r.; kontrole na wewnętrznych granicach lądowych z innymi państwami Schengen zostały zniesione w grudniu 2007 r.",
+    "Schengen dotyczy zasad przekraczania granic i współpracy granicznej, a nie wspólnej waluty.",
+    "Członkostwo Polski w Schengen nie oznacza, że Polska używa euro."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/schengen-area_en"
+  ],
+  "related_public_pages": []
+}
