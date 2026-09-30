@@ -1,0 +1,21 @@
+{
+  "id": "poland-nato-membership",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "international",
+  "subtopic": "security",
+  "title": "Polska w NATO",
+  "facts": [
+    "Polska została członkiem NATO 12 marca 1999 r.",
+    "NATO jest sojuszem polityczno-wojskowym opartym m.in. na zasadzie collective defence określonej w North Atlantic Treaty.",
+    "Członkostwo Polski w NATO poprzedziło jej wejście do Unii Europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nato.int/cps/en/natohq/topics_52044.htm"
+  ],
+  "related_public_pages": []
+}
