@@ -1,0 +1,21 @@
+{
+  "id": "supreme-administrative-court",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "judiciary",
+  "title": "Naczelny Sąd Administracyjny",
+  "facts": [
+    "Naczelny Sąd Administracyjny jest najwyższym sądem administracyjnym w Polsce i ma siedzibę w Warszawie.",
+    "NSA działa przede wszystkim jako sąd drugiej instancji wobec orzeczeń wojewódzkich sądów administracyjnych.",
+    "Sądownictwo administracyjne bada legalność działań administracji publicznej, a nie zastępuje administracji w podejmowaniu decyzji według własnego uznania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}
