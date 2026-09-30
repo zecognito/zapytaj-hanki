@@ -1,0 +1,21 @@
+{
+  "id": "ga-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "GA",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Georgii",
+  "facts": [
+    "Georgia Division of Child Support Services pomaga m.in. ustalać paternity, support orders i egzekwować płatności.",
+    "Georgia Child Support Guidelines są używane przy ustalaniu support obligation.",
+    "Konkretna kwota zależy od danych finansowych i innych okoliczności sprawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://childsupport.georgia.gov/"
+  ],
+  "related_public_pages": []
+}
