@@ -1,0 +1,21 @@
+{
+  "id": "tn-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TN",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "TennCare — Medicaid w Tennessee",
+  "facts": [
+    "TennCare jest stanowym programem Medicaid dla kwalifikujących się mieszkańców.",
+    "Eligibility zależy od kategorii programu, dochodu i innych obowiązujących kryteriów.",
+    "Wnioski i odnowienia prowadzi właściwa administracja stanowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.tn.gov/tenncare.html"
+  ],
+  "related_public_pages": []
+}
