@@ -1,0 +1,21 @@
+{
+  "id": "certified-mail",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "communications",
+  "subtopic": "mail",
+  "title": "Co to jest Certified Mail?",
+  "facts": [
+    "USPS Certified Mail zapewnia nadawcy mailing receipt oraz elektroniczną weryfikację delivery albo delivery attempt dla kwalifikujących się przesyłek.",
+    "Można dodać określone dodatkowe usługi, np. Return Receipt.",
+    "Certified Mail nie jest tym samym co zwykły First-Class Mail ani automatycznie tym samym co insurance."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://faq.usps.com/s/article/Certified-Mail-The-Basics"
+  ],
+  "related_public_pages": []
+}
