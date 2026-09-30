@@ -1,0 +1,21 @@
+{
+  "id": "pto",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "employment",
+  "subtopic": "work_terms",
+  "title": "Co to jest PTO?",
+  "facts": [
+    "PTO oznacza paid time off i może łączyć różne rodzaje płatnego wolnego zależnie od polityki pracodawcy.",
+    "Federalny FLSA nie wymaga ogólnie płatnego vacation, sick leave ani holidays; inne prawa federalne, stanowe lub lokalne mogą tworzyć konkretne uprawnienia.",
+    "Zasady naliczania, wykorzystania i wypłaty PTO zależą od prawa właściwej jurysdykcji oraz polityki/umowy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/general/topic/benefits-leave/vacation_leave"
+  ],
+  "related_public_pages": []
+}
