@@ -1,0 +1,21 @@
+{
+  "id": "country-cambodia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Cambodia",
+  "facts": [
+    "Cambodia lies in Southeast Asia between Thailand, Laos and Vietnam, with access to the Gulf of Thailand.",
+    "Its capital is Phnom Penh, its official language is Khmer, and its currency is the riel.",
+    "Cambodia is a constitutional monarchy; Angkor and the Khmer Empire are central to the country's historical heritage."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mfaic.gov.kh/"
+  ],
+  "related_public_pages": []
+}
