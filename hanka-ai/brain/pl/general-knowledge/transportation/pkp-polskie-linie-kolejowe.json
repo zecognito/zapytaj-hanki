@@ -1,0 +1,21 @@
+{
+  "id": "pkp-polskie-linie-kolejowe",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "infrastructure",
+  "title": "PKP Polskie Linie Kolejowe",
+  "facts": [
+    "PKP Polskie Linie Kolejowe zarządzają dużą częścią krajowej infrastruktury kolejowej w Polsce.",
+    "PKP PLK odpowiada m.in. za linie kolejowe, urządzenia sterowania ruchem oraz prowadzenie i organizację ruchu na zarządzanej sieci.",
+    "Zarządca infrastruktury nie jest tym samym co przewoźnik pasażerski, taki jak PKP Intercity."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.plk-sa.pl/"
+  ],
+  "related_public_pages": []
+}
