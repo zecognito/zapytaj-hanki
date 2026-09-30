@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-pierogi-queen-league-city-tx",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Pierogi Queen",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2047 W Main St",
+    "city": "League City",
+    "state": "TX",
+    "postal_code": "77573",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 281-724-4911",
+  "email": null,
+  "website": "https://pierogiqueen.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "League City",
+    "TX"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://pierogiqueen.com/",
+  "last_verified": "2026-09-30"
+}
