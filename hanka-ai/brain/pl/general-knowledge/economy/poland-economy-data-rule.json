@@ -1,0 +1,22 @@
+{
+  "id": "poland-economy-data-rule",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "statistics",
+  "title": "Jak Hanka powinna podawać dane gospodarcze Polski",
+  "facts": [
+    "PKB, inflacja, bezrobocie, wynagrodzenia i inne wskaźniki gospodarcze zmieniają się w czasie.",
+    "Przy takich danych Hanka powinna podawać okres odniesienia oraz źródło i odróżniać wartości nominalne od realnych, brutto od netto oraz dane miesięczne od rocznych.",
+    "GUS i NBP należą do podstawowych oficjalnych źródeł statystycznych i makroekonomicznych Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://stat.gov.pl/",
+    "https://nbp.pl/statystyka-i-sprawozdawczosc/"
+  ],
+  "related_public_pages": []
+}
