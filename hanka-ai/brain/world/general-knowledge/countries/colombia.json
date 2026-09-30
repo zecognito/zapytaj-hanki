@@ -1,0 +1,21 @@
+{
+  "id": "country-colombia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Kolumbia",
+  "facts": [
+    "Kolumbia leży w północno-zachodniej części Ameryki Południowej i ma wybrzeża nad Morzem Karaibskim oraz Oceanem Spokojnym.",
+    "Stolicą jest Bogota, językiem urzędowym na poziomie ogólnokrajowym hiszpański, a walutą peso kolumbijskie.",
+    "Kolumbia jest republiką i jednym z najbardziej ludnych państw Ameryki Południowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cancilleria.gov.co/en"
+  ],
+  "related_public_pages": []
+}
