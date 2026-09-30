@@ -696,5 +696,7 @@
         "communications_privacy"
       ]
     }
-  ]
+  ],
+  "language": "pl",
+  "language_convention": "Human-facing title and facts are canonical Polish; stable machine identifiers remain English; common U.S. terms stay in English where natural. Existing federal records were already substantially Polish-first before the convention was formally locked."
 }
