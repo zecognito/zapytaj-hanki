@@ -1,0 +1,21 @@
+{
+  "id": "supreme-court-poland-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "institutions",
+  "title": "Sąd Najwyższy — podstawy",
+  "facts": [
+    "Sąd Najwyższy jest jednym z centralnych organów władzy sądowniczej w Polsce i sprawuje nadzór nad orzecznictwem sądów powszechnych i wojskowych w zakresie określonym prawem.",
+    "Nie jest tym samym organem co Trybunał Konstytucyjny.",
+    "Aktualna organizacja sądownictwa i spory dotyczące jej zgodności z prawem są tematami wymagającymi aktualnych źródeł przy pytaniach o bieżący stan."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sn.pl/"
+  ],
+  "related_public_pages": []
+}
