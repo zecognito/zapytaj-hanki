@@ -1,0 +1,21 @@
+{
+  "id": "zalatwione",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language-and-everyday-concepts",
+  "title": "„Załatwione”",
+  "facts": [
+    "„Załatwione” w codziennej polszczyźnie oznacza zwykle, że sprawa została rozwiązana, wykonana lub uzgodniona.",
+    "Może odpowiadać angielskim wyrażeniom „done”, „sorted” albo „taken care of”, zależnie od sytuacji.",
+    "Nie musi oznaczać formalnej decyzji urzędowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/"
+  ],
+  "related_public_pages": []
+}
