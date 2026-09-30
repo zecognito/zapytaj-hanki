@@ -1,0 +1,21 @@
+{
+  "id": "lodz-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Łódź — podstawy",
+  "facts": [
+    "Łódź jest stolicą województwa łódzkiego w centralnej Polsce.",
+    "Miasto gwałtownie rozwinęło się w XIX wieku jako duży ośrodek przemysłu włókienniczego.",
+    "Współczesna Łódź jest również silnie związana z kulturą filmową i szkolnictwem artystycznym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://uml.lodz.pl/"
+  ],
+  "related_public_pages": []
+}
