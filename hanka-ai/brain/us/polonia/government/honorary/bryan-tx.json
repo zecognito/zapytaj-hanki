@@ -1,0 +1,36 @@
+{
+  "id": "polonia-gov-honorary-bryan-tx",
+  "country": "US",
+  "category": "consulate_honorary",
+  "name": "Honorary Consulate of the Republic of Poland in Bryan",
+  "aliases": [
+    "Konsulat Honorowy RP w Bryan"
+  ],
+  "status": "active",
+  "location": {
+    "address": "5525 FM 1179",
+    "city": "Bryan",
+    "state": "TX",
+    "postal_code": "77808",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 979 229 8855",
+  "email": "Jim.Mazurkiewicz@ag.tamu.edu",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "honorary consular representation"
+  ],
+  "coverage_area": [
+    "TX"
+  ],
+  "notes": [
+    "Honorary consul: Jim Mazurkiewicz"
+  ],
+  "official_source": "https://www.gov.pl/web/usa/konsulaty-honorowe",
+  "last_verified": "2026-09-30"
+}
