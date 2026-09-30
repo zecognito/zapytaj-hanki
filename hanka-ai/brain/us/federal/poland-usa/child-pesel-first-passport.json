@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-child-pesel-first-passport",
+  "subtopic": "pesel_passports",
+  "title": "PESEL dziecka urodzonego w USA i pierwszy polski paszport",
+  "facts": [
+    "Dziecko urodzone w USA bez polskiego aktu urodzenia musi co do zasady najpierw mieć zagraniczny akt urodzenia transkrybowany do polskiego rejestru, aby można było nadać PESEL potrzebny do paszportu.",
+    "Sama transkrypcja aktu urodzenia nie nadaje automatycznie numeru PESEL dziecku bez zameldowania w Polsce.",
+    "Za granicą konsul występuje o PESEL dziecka w związku ze złożeniem wniosku o paszport lub paszport tymczasowy; konsul nie występuje o PESEL dziecka w innych sprawach.",
+    "Pierwszego zwykłego wniosku paszportowego dziecka urodzonego za granicą bez PESEL nie można załatwić wyłącznie przez e-usługę."
+  ],
+  "official_sources": [
+    "https://www.gov.pl/web/usa/paszport-dla-dziecka-do-12-lat---wniosek-zlozony-przez-internet",
+    "https://www.gov.pl/web/usa/transkrypcja-rejestracja-zagranicznego-aktu-urodzenia-w-polskim-rejestrze-stanu-cywilnego"
+  ]
+}
