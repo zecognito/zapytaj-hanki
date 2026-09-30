@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-medicare-special-general-enrollment",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "medicare",
+  "subtopic": "enrollment",
+  "title": "Medicare Special i General Enrollment Period",
+  "facts": [
+    "General Enrollment Period dla Part A/Part B trwa co roku od 1 stycznia do 31 marca dla osób, które nie zapisały się w odpowiednim wcześniejszym okresie; coverage zaczyna się miesiąc po zapisaniu.",
+    "Po zakończeniu qualifying employer group health coverage lub employment osoba może mieć 8-miesięczny Special Enrollment Period na Part B.",
+    "COBRA i retiree health coverage nie są traktowane tak samo jak current-employment group health coverage dla standardowego Part B Special Enrollment Period, więc odkładanie Part B wyłącznie z powodu COBRA może prowadzić do problemów z enrollment i penalty."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-can-i-sign-up-for-medicare",
+    "https://www.medicare.gov/basics/get-started-with-medicare/sign-up/get-help-with-costs"
+  ],
+  "related_public_pages": []
+}
