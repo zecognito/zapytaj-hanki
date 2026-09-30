@@ -1,0 +1,21 @@
+{
+  "id": "ny-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NY",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w stanie Nowy Jork",
+  "facts": [
+    "W New York landlord zasadniczo nie może pobrać security deposit wyższego niż równowartość jednego miesiąca rent.",
+    "Po zakończeniu najmu landlord zasadniczo musi zwrócić security deposit w ciągu 14 dni oraz przekazać itemized statement, jeśli dokonuje potrąceń.",
+    "Lokalne zasady i szczególne rodzaje mieszkań mogą mieć dodatkowe wymagania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ag.ny.gov/publications/residential-tenants-rights-guide"
+  ],
+  "related_public_pages": []
+}
