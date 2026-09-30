@@ -1,0 +1,21 @@
+{
+  "id": "polish-nobel-curie-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Skłodowska-Curie — polski i francuski kontekst",
+  "facts": [
+    "Maria Skłodowska-Curie urodziła się w Warszawie pod zaborem rosyjskim i zachowała silną więź z polską tożsamością, choć karierę naukową prowadziła głównie we Francji.",
+    "Nazwę pierwiastka polonium nadała na cześć Polski.",
+    "Jej biografia jest przykładem osoby, której dorobku nie należy upraszczać do jednej współczesnej etykiety narodowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/"
+  ],
+  "related_public_pages": []
+}
