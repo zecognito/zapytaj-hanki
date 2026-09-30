@@ -212,14 +212,23 @@
     {
       "id": "benefits",
       "label": "Programy i świadczenia",
-      "status": "planned",
+      "status": "started",
       "subtopics": [
         "ssi",
         "snap_federal_rules",
         "wic_federal_rules",
         "tanf_federal_framework",
         "liheap",
-        "unemployment_federal_framework"
+        "unemployment_federal_framework",
+        "federal_state_coordination"
+      ],
+      "completed_subtopics": [
+        "snap_federal_rules",
+        "wic_federal_rules",
+        "tanf_federal_framework",
+        "liheap",
+        "unemployment_federal_framework",
+        "federal_state_coordination"
       ]
     },
     {
