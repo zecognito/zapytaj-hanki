@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-documents-identity-theft-ftc",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "documents",
+  "subtopic": "identity_theft",
+  "title": "Identity theft - FTC recovery process",
+  "facts": [
+    "IdentityTheft.gov is the Federal Trade Commission's federal resource for reporting identity theft and creating a personal recovery plan.",
+    "An Identity Theft Report generated through the FTC process can help document the crime when disputing fraudulent accounts and taking recovery steps.",
+    "Identity-theft victims may also need to contact affected companies, credit bureaus, financial institutions, SSA, IRS, or law enforcement depending on what information was misused.",
+    "Identity theft involving a Social Security number does not normally mean SSA will automatically issue a new SSN."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.identitytheft.gov/",
+    "https://consumer.ftc.gov/features/identity-theft"
+  ],
+  "related_public_pages": []
+}
