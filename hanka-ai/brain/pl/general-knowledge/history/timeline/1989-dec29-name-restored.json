@@ -1,0 +1,22 @@
+{
+  "id": "1989-dec29-name-restored",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "29 grudnia 1989 — przywrócenie nazwy Rzeczpospolita Polska",
+  "facts": [
+    "29 grudnia 1989 r. Sejm uchwalił nowelizację konstytucji zmieniającą nazwę państwa z Polskiej Rzeczypospolitej Ludowej na Rzeczpospolitą Polską.",
+    "Usunięto konstytucyjne zapisy o przewodniej roli PZPR i sojuszu ze Związkiem Sowieckim.",
+    "Zmiany weszły w życie 31 grudnia 1989 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.senat.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
