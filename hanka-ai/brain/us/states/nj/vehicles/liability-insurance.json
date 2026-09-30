@@ -1,0 +1,21 @@
+{
+  "id": "nj-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NJ",
+  "topic": "vehicles",
+  "subtopic": "insurance",
+  "title": "Obowiązkowe ubezpieczenie samochodu w New Jersey",
+  "facts": [
+    "Pojazdy zarejestrowane w New Jersey muszą posiadać wymagane auto insurance.",
+    "New Jersey oferuje różne typy polis, w tym Standard Policy i Basic Policy, z różnymi poziomami ochrony i ograniczeniami.",
+    "Wymagania obejmują elementy ochrony określone przez stan; wybór niższych limitów może znacząco ograniczyć ochronę finansową po wypadku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nj.gov/dobi/division_consumers/insurance/auto.htm"
+  ],
+  "related_public_pages": []
+}
