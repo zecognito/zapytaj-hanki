@@ -1,0 +1,21 @@
+{
+  "id": "plock-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Płock",
+  "facts": [
+    "Płock leży nad Wisłą w województwie mazowieckim.",
+    "W średniowieczu był ważnym ośrodkiem państwa Piastów i okresowo siedzibą polskich władców.",
+    "Współcześnie jest również ważnym ośrodkiem przemysłu petrochemicznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.plock.eu/"
+  ],
+  "related_public_pages": []
+}
