@@ -1,0 +1,21 @@
+{
+  "id": "krakow-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Kraków — podstawy",
+  "facts": [
+    "Kraków leży w województwie małopolskim nad Wisłą i jest jednym z najważniejszych historycznych miast Polski.",
+    "Historyczne centrum Krakowa wraz z Wawelem i Kazimierzem należy do obszaru wpisanego na Listę Światowego Dziedzictwa UNESCO.",
+    "Kraków był historyczną siedzibą polskich władców i pozostaje ważnym ośrodkiem akademickim i kulturalnym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://whc.unesco.org/en/list/29/"
+  ],
+  "related_public_pages": []
+}
