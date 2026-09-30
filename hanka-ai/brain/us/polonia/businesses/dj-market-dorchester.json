@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-dj-market-dorchester",
+  "country": "US",
+  "category": "store",
+  "name": "DJ's Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "120 Boston St",
+    "city": "Dorchester",
+    "state": "MA",
+    "postal_code": "02125",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 617-436-9766",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Dorchester",
+    "MA"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://www.gov.pl/web/usa/relacje-dwustronne",
+  "last_verified": "2026-09-30"
+}
