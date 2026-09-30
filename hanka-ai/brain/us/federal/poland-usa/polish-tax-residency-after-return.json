@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-polish-tax-residency-after-return",
+  "subtopic": "return_to_poland_tax",
+  "title": "Rezydencja podatkowa po powrocie z USA do Polski",
+  "facts": [
+    "Polska zasadniczo uznaje osobę za polskiego rezydenta podatkowego, jeśli ma w Polsce centrum interesów osobistych lub gospodarczych albo przebywa w Polsce dłużej niż 183 dni w roku podatkowym.",
+    "Polski rezydent podatkowy zasadniczo rozlicza w Polsce dochody niezależnie od kraju ich uzyskania, z uwzględnieniem umów o unikaniu podwójnego opodatkowania.",
+    "Jeżeli zarówno Polska, jak i USA traktują osobę jako rezydenta dla celów podatkowych, trzeba analizować odpowiednie reguły traktatowe; sam test 183 dni nie rozstrzyga każdego przypadku.",
+    "Obywatelstwo i rezydencja podatkowa to odrębne pojęcia."
+  ],
+  "official_sources": [
+    "https://www.podatki.gov.pl/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-pracy-wykonywanej-za-granica",
+    "https://www.irs.gov/businesses/international-businesses/poland-tax-treaty-documents"
+  ]
+}
