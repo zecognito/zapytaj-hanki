@@ -32,6 +32,7 @@ function isClearlyCasual(text) {
   if (!value || value.length > 260) return false;
   if (/^(cześć|czesc|hej|hejka|siema|elo|dzień dobry|dzien dobry|dobry wieczór|dobry wieczor|dzięki|dzieki|dziękuję|dziekuje|co tam|co u ciebie|co słychać|co slychac|jak tam|jak leci|jak się masz|jak sie masz|kim jesteś|kim jestes|opowiedz żart|opowiedz zart|powiedz żart|powiedz zart)[!?.\s]*$/i.test(value)) return true;
   if (/^(pokaż|pokaz|powiedz|napisz|zaśpiewaj|zaspiewaj)\b/i.test(value) && !/\b(ile|limit|podatek|prawo|ubezpieczenie|kredyt|401\(?k\)?|ira|social security|medicare|medicaid)\b/i.test(value)) return true;
+  if (/^(co robisz|co porabiasz|jak masz na imię|jak masz na imie|jak się nazywasz|jak sie nazywasz|skąd jesteś|skad jestes|lubisz mnie|znasz mnie|pamiętasz mnie|pamietasz mnie)[!?.\s]*$/i.test(value)) return true;
   if (/\b(czemu|dlaczego)\b.*\b(mówisz|mowisz|piszesz|odpowiadasz|zaczynasz|powtarzasz)\b/i.test(value)) return true;
   return false;
 }
