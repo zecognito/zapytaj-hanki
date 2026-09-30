@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-transport-airline-canceled-refund",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "cars_transportation",
+  "subtopic": "air_travel",
+  "title": "Airline refunds for canceled or significantly changed flights",
+  "facts": [
+    "Under U.S. Department of Transportation rules, airline passengers are entitled to a refund when an airline cancels a flight or makes a significant change and the passenger chooses not to accept the alternative transportation or travel credit offered.",
+    "Refund obligations cover the ticket price and applicable unused ancillary-service fees under federal rules.",
+    "A passenger who accepts rebooking or travels on the changed itinerary generally does not also receive a refund for the transportation already used.",
+    "DOT rules define circumstances that constitute significant changes for refund purposes."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.transportation.gov/individuals/aviation-consumer-protection/refunds"
+  ],
+  "related_public_pages": []
+}
