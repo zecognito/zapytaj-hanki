@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-credit-card-billing-error",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "credit_banking",
+  "subtopic": "banking_consumer_protection",
+  "title": "Credit card billing-error dispute - federal basics",
+  "facts": [
+    "The Fair Credit Billing Act provides a process for disputing qualifying billing errors on open-end credit accounts such as credit cards.",
+    "To preserve FCBA billing-error rights, a written billing-error notice generally must reach the creditor within 60 days after the first statement containing the error was sent.",
+    "The creditor generally must acknowledge the dispute within 30 days unless it resolves the matter sooner, and must resolve it within two complete billing cycles, not exceeding 90 days.",
+    "Consumers may have additional network, issuer or other legal protections, but those should not replace the federal deadline when FCBA rights are relevant."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/rules-policy/regulations/1026/13/",
+    "https://consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges"
+  ],
+  "related_public_pages": []
+}
