@@ -1,0 +1,21 @@
+{
+  "id": "polish-national-anthem",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "national_symbols",
+  "title": "Hymn Polski — Mazurek Dąbrowskiego",
+  "facts": [
+    "Hymnem Rzeczypospolitej Polskiej jest „Mazurek Dąbrowskiego”.",
+    "Pieśń została napisana przez Józefa Wybickiego w 1797 r. we Włoszech jako „Pieśń Legionów Polskich we Włoszech”.",
+    "Oficjalny tekst hymnu rozpoczyna się słowami „Jeszcze Polska nie zginęła, kiedy my żyjemy”."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/kultura/symbole-narodowe"
+  ],
+  "related_public_pages": []
+}
