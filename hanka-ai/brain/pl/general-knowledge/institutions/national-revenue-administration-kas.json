@@ -1,0 +1,21 @@
+{
+  "id": "national-revenue-administration-kas",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "public-administration",
+  "title": "Krajowa Administracja Skarbowa",
+  "facts": [
+    "Krajowa Administracja Skarbowa (KAS) jest strukturą administracji odpowiedzialną m.in. za pobór podatków i należności celnych oraz wykonywanie zadań kontroli celno-skarbowej.",
+    "KAS łączy administrację podatkową i celną w jednym systemie organizacyjnym.",
+    "Podatnicy załatwiają wiele spraw poprzez urzędy skarbowe oraz usługi elektroniczne administracji skarbowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/kas"
+  ],
+  "related_public_pages": []
+}
