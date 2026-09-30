@@ -1,0 +1,21 @@
+{
+  "id": "country-switzerland",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Szwajcaria",
+  "facts": [
+    "Szwajcaria jest śródlądowym państwem Europy Środkowej złożonym z 26 kantonów.",
+    "Miastem federalnym i siedzibą władz jest Berno; państwo ma cztery języki narodowe: niemiecki, francuski, włoski i retoromański.",
+    "Walutą jest frank szwajcarski; Szwajcaria nie należy do Unii Europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.aboutswitzerland.eda.admin.ch/en/political-system"
+  ],
+  "related_public_pages": []
+}
