@@ -1,0 +1,21 @@
+{
+  "id": "poland-gus",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "statistics",
+  "title": "Co to jest GUS?",
+  "facts": [
+    "Główny Urząd Statystyczny (GUS) jest centralnym organem administracji rządowej odpowiedzialnym za statystykę publiczną w Polsce.",
+    "GUS publikuje oficjalne dane m.in. o ludności, gospodarce, rynku pracy, cenach i podziale terytorialnym.",
+    "Przy zmieniających się statystykach dotyczących Polski Hanka powinna preferować aktualne dane GUS i podawać okres odniesienia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://stat.gov.pl/"
+  ],
+  "related_public_pages": []
+}
