@@ -1,0 +1,21 @@
+{
+  "id": "lech-czech-rus-legend",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "legends",
+  "title": "Legenda o Lechu, Czechu i Rusie",
+  "facts": [
+    "Legenda o Lechu, Czechu i Rusie jest tradycyjną opowieścią o legendarnych przodkach ludów słowiańskich.",
+    "W polskiej wersji Lech jest wiązany z założeniem Gniezna i symbolem białego orła.",
+    "Jest to legenda, a nie potwierdzony opis historycznego powstania Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/a/legendy-o-poczatkach-panstwa-polskiego/D1FLhkT9O"
+  ],
+  "related_public_pages": []
+}
