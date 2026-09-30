@@ -1,0 +1,21 @@
+{
+  "id": "labor-force-definition",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "economy",
+  "subtopic": "labor_market",
+  "title": "Labor force, employed i unemployed",
+  "facts": [
+    "BLS zalicza do civilian labor force osoby employed oraz unemployed według swoich definicji badawczych.",
+    "Unemployed oznacza osoby bez pracy, dostępne do pracy i aktywnie jej poszukujące, z określonymi wyjątkami metodologicznymi.",
+    "Osoba bez pracy, która nie spełnia kryteriów unemployed, może być classified as not in the labor force."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bls.gov/cps/definitions.htm"
+  ],
+  "related_public_pages": []
+}
