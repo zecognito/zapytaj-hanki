@@ -1,0 +1,21 @@
+{
+  "id": "country-norway",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Norwegia",
+  "facts": [
+    "Norwegia leży w Europie Północnej i zajmuje zachodnią część Półwyspu Skandynawskiego.",
+    "Stolicą jest Oslo, a walutą korona norweska.",
+    "Norwegia jest monarchią konstytucyjną, należy do NATO, lecz nie jest członkiem Unii Europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.regjeringen.no/en/the-government/id443314/"
+  ],
+  "related_public_pages": []
+}
