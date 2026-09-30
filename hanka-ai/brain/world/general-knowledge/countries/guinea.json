@@ -1,0 +1,21 @@
+{
+  "id": "country-guinea",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Gwinea",
+  "facts": [
+    "Gwinea leży w Afryce Zachodniej nad Oceanem Atlantyckim, a jej stolicą jest Konakry.",
+    "Językiem urzędowym jest francuski, obok licznych języków narodowych, a walutą frank gwinejski.",
+    "Na wyżynach Gwinei znajdują się źródła kilku ważnych rzek Afryki Zachodniej, a kraj posiada jedne z największych światowych zasobów boksytu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/en/about-us/member-states/guinea"
+  ],
+  "related_public_pages": []
+}
