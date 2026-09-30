@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-poison-control-number",
+  "subtopic": "emergency_services",
+  "title": "Poison Control 1-800-222-1222",
+  "facts": [
+    "W USA numer Poison Help 1-800-222-1222 łączy z lokalnym poison center w sprawach możliwego zatrucia lub ekspozycji.",
+    "Poison centers zapewniają bezpłatną, poufną poradę ekspertów 24 godziny na dobę.",
+    "W sytuacji bezpośredniego zagrożenia życia, utraty przytomności, problemów z oddychaniem lub innych ciężkich objawów należy korzystać z emergency services/911 zamiast opóźniać pomoc.",
+    "Poison Help obejmuje m.in. leki, household chemicals i inne potencjalne exposures; nie trzeba czekać na pojawienie się objawów, aby zadzwonić po poradę."
+  ],
+  "official_sources": [
+    "https://poisonhelp.hrsa.gov/"
+  ]
+}
