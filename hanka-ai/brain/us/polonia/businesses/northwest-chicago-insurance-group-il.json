@@ -1,0 +1,32 @@
+{
+  "id": "polonia-prof-insurance-northwest-chicago-il",
+  "country": "US",
+  "category": "insurance",
+  "name": "Northwest Chicago Insurance Group",
+  "status": "active",
+  "location": {
+    "address": "6733 W Belmont Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60634",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "insurance agency services",
+    "personal insurance",
+    "commercial insurance"
+  ],
+  "phone": "+1 708-622-0100",
+  "email": null,
+  "website": "https://northwestchicagoinsurance.com/",
+  "official_source": "https://northwestchicagoinsurance.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official agency site identifies licensed sales professional Mariola Placek as Polish- and English-speaking."
+  ]
+}
