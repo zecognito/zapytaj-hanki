@@ -1,0 +1,22 @@
+{
+  "id": "1914-polish-legions-ww1",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1914 — Legiony Polskie w I wojnie światowej",
+  "facts": [
+    "Po wybuchu I wojny światowej w 1914 r. powstały Legiony Polskie walczące u boku Austro-Węgier przeciw Rosji.",
+    "Z Legionami szczególnie związany był Józef Piłsudski.",
+    "Wojna między państwami zaborczymi stworzyła nowe warunki dla polskiej sprawy niepodległościowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
