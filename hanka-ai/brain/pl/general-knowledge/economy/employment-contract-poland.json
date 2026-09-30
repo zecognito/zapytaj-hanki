@@ -1,0 +1,21 @@
+{
+  "id": "employment-contract-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "work",
+  "title": "Umowa o pracę",
+  "facts": [
+    "Umowa o pracę jest podstawową formą zatrudnienia regulowaną przez polski Kodeks pracy.",
+    "Wiąże się z prawami i obowiązkami pracownika i pracodawcy dotyczącymi m.in. czasu pracy, urlopu, wynagrodzenia i rozwiązania stosunku pracy.",
+    "Nie należy utożsamiać jej z umową zleceniem lub umową o dzieło, które mają inny charakter prawny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina/prawo-pracy"
+  ],
+  "related_public_pages": []
+}
