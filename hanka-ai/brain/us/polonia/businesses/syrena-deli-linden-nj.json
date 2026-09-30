@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-syrena-deli-linden-nj",
+  "country": "US",
+  "category": "store",
+  "name": "Syrena Polish Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1117 W St Georges Ave",
+    "city": "Linden",
+    "state": "NJ",
+    "postal_code": "07036",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 908-486-0677",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Linden",
+    "NJ"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://polish-eats.com/chicago-delis/",
+  "last_verified": "2026-09-30"
+}
