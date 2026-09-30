@@ -1,0 +1,21 @@
+{
+  "id": "country-italy",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Włochy",
+  "facts": [
+    "Włochy leżą w południowej Europie na Półwyspie Apenińskim, a ich stolicą jest Rzym.",
+    "Językiem urzędowym jest włoski, a walutą euro.",
+    "Włochy są republiką parlamentarną, członkiem UE, NATO i G7."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.italia.it/en"
+  ],
+  "related_public_pages": []
+}
