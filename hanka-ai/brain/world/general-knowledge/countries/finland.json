@@ -1,0 +1,21 @@
+{
+  "id": "country-finland",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Finlandia",
+  "facts": [
+    "Finlandia leży w Europie Północnej, a jej stolicą są Helsinki.",
+    "Językami narodowymi są fiński i szwedzki, a walutą euro.",
+    "Finlandia jest republiką, członkiem Unii Europejskiej i od 2023 roku członkiem NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://finland.fi/facts-stats-and-info/finland-in-facts/"
+  ],
+  "related_public_pages": []
+}
