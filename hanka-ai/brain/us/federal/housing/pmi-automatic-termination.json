@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-housing-pmi-automatic-termination",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "housing_mortgages",
+  "subtopic": "pmi",
+  "title": "Conventional PMI - automatic termination",
+  "facts": [
+    "For covered mortgages, private mortgage insurance generally must terminate automatically when the principal balance is first scheduled to reach 78% of the home's original value, if the borrower is current.",
+    "The scheduled 78% rule is based on the original amortization schedule and original value rather than simply today's estimated market value.",
+    "A separate final-termination rule generally ends PMI at the midpoint of the amortization period if it has not already ended, subject to statutory conditions.",
+    "These HPA rules do not govern FHA mortgage insurance."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/when-can-i-remove-private-mortgage-insurance-pmi-from-my-loan-en-202/"
+  ],
+  "related_public_pages": []
+}
