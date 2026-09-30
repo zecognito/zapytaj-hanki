@@ -1,0 +1,21 @@
+{
+  "id": "three-crowns",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "landscapes",
+  "title": "Trzy Korony",
+  "facts": [
+    "Trzy Korony są jednym z najbardziej rozpoznawalnych masywów Pienin.",
+    "Najwyższa turnia masywu, Okrąglica, ma 982 m n.p.m. i posiada popularną platformę widokową.",
+    "Masyw leży w Pienińskim Parku Narodowym w pobliżu przełomu Dunajca."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://piepn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
