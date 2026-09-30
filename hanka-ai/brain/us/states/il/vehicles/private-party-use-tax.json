@@ -1,0 +1,22 @@
+{
+  "id": "il-private-party-vehicle-use-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "vehicles",
+  "subtopic": "sales_tax",
+  "title": "Private Party Vehicle Use Tax w Illinois",
+  "facts": [
+    "Przy zakupie, otrzymaniu w prezencie lub transferze pojazdu od private party zasadniczo składa się Form RUT-50.",
+    "RUT-50 należy zasadniczo złożyć w ciągu 30 dni od nabycia pojazdu w Illinois albo od sprowadzenia go do Illinois, jeśli został nabyty poza stanem.",
+    "Dla pojazdu o purchase price lub fair market value poniżej 15 000 USD podatek jest ustalany według wieku pojazdu; od 15 000 USD wzwyż według przedziału wartości. Mogą obowiązywać wyjątki i dodatkowe podatki lokalne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tax.illinois.gov/forms/sales/vehicleusetax/rut-50-instructions.html",
+    "https://tax.illinois.gov/individuals/cars.html"
+  ],
+  "related_public_pages": []
+}
