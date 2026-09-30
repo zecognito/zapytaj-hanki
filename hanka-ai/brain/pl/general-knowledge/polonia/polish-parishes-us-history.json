@@ -1,0 +1,21 @@
+{
+  "id": "polish-parishes-us-history",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL-US",
+  "topic": "polonia",
+  "subtopic": "migration_history",
+  "title": "Polskie parafie w historii Polonii",
+  "facts": [
+    "Polskie parafie katolickie w USA często pełniły historycznie nie tylko funkcję religijną, ale także społeczną, edukacyjną i kulturową.",
+    "Wokół parafii powstawały szkoły, stowarzyszenia i sieci wzajemnej pomocy.",
+    "Nie wszyscy Polish Americans byli lub są katolikami, dlatego parafie nie opisują całej historii Polonii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.loc.gov/classroom-materials/immigration/polish-russian/"
+  ],
+  "related_public_pages": []
+}
