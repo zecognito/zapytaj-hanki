@@ -1,0 +1,21 @@
+{
+  "id": "chicago-polonia-history",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL-US",
+  "topic": "polonia",
+  "subtopic": "communities",
+  "title": "Polonia chicagowska — kontekst historyczny",
+  "facts": [
+    "Chicago stało się jednym z najważniejszych ośrodków polskiej emigracji w Stanach Zjednoczonych podczas wielkich fal migracyjnych XIX i XX wieku.",
+    "Polskie parafie, organizacje, gazety, biznesy i dzielnice odegrały dużą rolę w rozwoju społeczności.",
+    "Dzisiejsza Polonia jest geograficznie bardziej rozproszona niż historyczne skupiska miejskie, dlatego dawnych granic „polskich dzielnic” nie należy traktować jako aktualnych granic demograficznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.encyclopedia.chicagohistory.org/pages/982.html"
+  ],
+  "related_public_pages": []
+}
