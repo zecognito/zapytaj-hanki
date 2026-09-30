@@ -4,7 +4,7 @@
   "category": "store",
   "name": "Polish Family Deli",
   "aliases": [],
-  "status": "active",
+  "status": "closed",
   "location": {
     "address": "465 W Irving Park Rd",
     "city": "Bensenville",
@@ -29,8 +29,8 @@
     "IL"
   ],
   "notes": [
-    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+    "Audited 2026-09-30: current restaurant directory explicitly marks Polish Family Deli at 465 W Irving Park Rd as closed. Retained as closed historical entity rather than returned as active."
   ],
-  "official_source": "https://polish-eats.com/chicago-delis/",
+  "official_source": "https://www.menupix.com/chicago/nc/5115/23/Bensenville-Delis",
   "last_verified": "2026-09-30"
 }
