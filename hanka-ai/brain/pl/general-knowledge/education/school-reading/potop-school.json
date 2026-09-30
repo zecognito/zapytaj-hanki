@@ -1,0 +1,21 @@
+{
+  "id": "potop-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Potop — Henryk Sienkiewicz",
+  "facts": [
+    "Potop, autor: Henryk Sienkiewicz; ważny tekst szkolnego kanonu, epoka: pozytywizm.",
+    "Powieść historyczna z „Trylogii”, osadzona podczas najazdu szwedzkiego; centralną postacią jest Andrzej Kmicic i jego przemiana.",
+    "Hanka powinna znać główne postacie lub podmiot, fabułę tam gdzie dotyczy, motywy, problematykę, epokę i historyczno-kulturowy kontekst utworu."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
