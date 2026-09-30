@@ -1,0 +1,21 @@
+{
+  "id": "ca-calfresh",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CA",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "CalFresh w Kalifornii",
+  "facts": [
+    "California nazywa swój program SNAP CalFresh.",
+    "CalFresh zapewnia food benefits kwalifikującym się gospodarstwom domowym.",
+    "Wniosek można składać przez county social services oraz stanowe kanały online; eligibility zależy od sytuacji gospodarstwa i zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cdss.ca.gov/calfresh"
+  ],
+  "related_public_pages": []
+}
