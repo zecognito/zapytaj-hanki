@@ -1,0 +1,21 @@
+{
+  "id": "grandmother-day-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Dzień Babci",
+  "facts": [
+    "Dzień Babci w Polsce obchodzony jest 21 stycznia.",
+    "Jest popularnym świętem rodzinnym, ale nie dniem ustawowo wolnym od pracy.",
+    "Dzieci często składają babciom życzenia i przygotowują upominki lub szkolne występy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina"
+  ],
+  "related_public_pages": []
+}
