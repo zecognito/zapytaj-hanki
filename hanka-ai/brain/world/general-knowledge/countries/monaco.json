@@ -1,0 +1,21 @@
+{
+  "id": "country-monaco",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Monako",
+  "facts": [
+    "Monako jest niewielkim suwerennym państwem nad Morzem Śródziemnym na Riwierze Francuskiej.",
+    "Językiem urzędowym jest francuski, a walutą euro.",
+    "Monako jest dziedziczną monarchią konstytucyjną i jednym z najmniejszych państw świata."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://en.gouv.mc/Government-Institutions"
+  ],
+  "related_public_pages": []
+}
