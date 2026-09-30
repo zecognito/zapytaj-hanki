@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-travel-agriculture-declaration",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "travel_border",
+  "subtopic": "customs",
+  "title": "Food and agricultural products at the U.S. border",
+  "facts": [
+    "Travelers entering the United States must declare agricultural products as required by CBP and USDA rules.",
+    "Whether a food, plant, seed, meat or animal product may enter depends on the product and country of origin; some items are prohibited or restricted.",
+    "Declaring an agricultural item allows inspectors to determine admissibility and is different from attempting to conceal it.",
+    "Rules can change with animal and plant disease conditions, so current official guidance should be checked before travel."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.aphis.usda.gov/traveling-with-ag-products"
+  ],
+  "related_public_pages": []
+}
