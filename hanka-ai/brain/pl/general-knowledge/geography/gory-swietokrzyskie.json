@@ -1,0 +1,21 @@
+{
+  "id": "gory-swietokrzyskie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Góry Świętokrzyskie",
+  "facts": [
+    "Góry Świętokrzyskie leżą w południowo-centralnej Polsce i należą do najstarszych geologicznie pasm górskich w kraju.",
+    "Najwyższym szczytem jest Łysica.",
+    "Świętokrzyski Park Narodowy chroni m.in. pasmo Łysogór i charakterystyczne gołoborza."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://swietokrzyskipn.org.pl/"
+  ],
+  "related_public_pages": []
+}
