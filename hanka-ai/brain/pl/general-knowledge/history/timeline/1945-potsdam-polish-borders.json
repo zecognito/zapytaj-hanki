@@ -1,0 +1,23 @@
+{
+  "id": "1945-potsdam-polish-borders",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "lipiec–sierpień 1945 — Poczdam i zachodnia granica Polski",
+  "facts": [
+    "Konferencja poczdamska w 1945 r. potwierdziła powojenne przesunięcie Polski na zachód w praktycznym porządku terytorialnym.",
+    "Ziemie na wschód od linii Odry i Nysy Łużyckiej, wcześniej należące głównie do Niemiec, znalazły się pod polską administracją, z wyjątkiem północnej części dawnych Prus Wschodnich zajętej przez ZSRR.",
+    "Zmianom granic towarzyszyły ogromne przemieszczenia ludności polskiej, niemieckiej, ukraińskiej i innych grup."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://www.1944.pl/",
+    "https://www.auschwitz.org/"
+  ],
+  "related_public_pages": []
+}
