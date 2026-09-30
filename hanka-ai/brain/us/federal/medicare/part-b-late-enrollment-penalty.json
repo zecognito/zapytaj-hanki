@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-medicare-part-b-late-enrollment-penalty",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "medicare",
+  "subtopic": "penalties",
+  "title": "Medicare Part B late enrollment penalty",
+  "facts": [
+    "Part B late enrollment penalty może obowiązywać, jeśli osoba nie zapisała się do Part B, gdy była do tego uprawniona, i nie kwalifikowała się do odpowiedniego Special Enrollment Period.",
+    "Penalty zasadniczo zwiększa Part B premium o 10% za każdy pełny 12-miesięczny okres, w którym osoba mogła mieć Part B, ale go nie miała.",
+    "Part B penalty jest zazwyczaj płacone tak długo, jak długo osoba ma Part B.",
+    "Są wyjątki, w tym określone sytuacje związane z employer coverage i Medicare Savings Programs."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicare.gov/basics/costs/medicare-costs/avoid-penalties"
+  ],
+  "related_public_pages": []
+}
