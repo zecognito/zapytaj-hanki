@@ -1,0 +1,21 @@
+{
+  "id": "chopin-competition",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "music",
+  "title": "Konkurs Chopinowski",
+  "facts": [
+    "Międzynarodowy Konkurs Pianistyczny im. Fryderyka Chopina odbywa się w Warszawie i jest poświęcony muzyce Chopina.",
+    "Pierwszy konkurs odbył się w 1927 r.",
+    "Konkurs jest jednym z najbardziej rozpoznawalnych międzynarodowych wydarzeń pianistycznych związanych z Polską."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://chopincompetition.pl/"
+  ],
+  "related_public_pages": []
+}
