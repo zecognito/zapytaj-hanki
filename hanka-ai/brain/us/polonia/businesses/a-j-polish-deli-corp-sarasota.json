@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-a-j-polish-deli-corp-sarasota",
+  "country": "US",
+  "category": "store",
+  "name": "A & J Polish Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "6645 Midnight Pass Rd",
+    "city": "Sarasota",
+    "state": "FL",
+    "postal_code": "34242",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 941-346-0316",
+  "email": null,
+  "website": "https://ajpolishdeli.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Sarasota",
+    "FL"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://ajpolishdeli.com/",
+  "last_verified": "2026-09-30"
+}
