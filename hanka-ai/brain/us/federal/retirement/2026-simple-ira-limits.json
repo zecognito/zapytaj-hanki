@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-simple-ira-limits-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "retirement",
+  "subtopic": "simple_ira",
+  "title": "SIMPLE IRA contribution limits — 2026",
+  "facts": [
+    "Ogólny employee salary reduction limit dla SIMPLE IRA w 2026 wynosi $17,000.",
+    "Ogólny catch-up limit age 50+ wynosi $4,000, jeśli plan go pozwala.",
+    "Dla age 60–63 wyższy catch-up limit wynosi $5,250.",
+    "Niektóre applicable SIMPLE plans mają wyższy 2026 podstawowy limit $18,100 zgodnie z zasadami IRS."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-simple-ira-contribution-limits",
+    "https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500"
+  ],
+  "related_public_pages": []
+}
