@@ -1,0 +1,23 @@
+{
+  "id": "1945-jan17-warsaw-entered",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "17 stycznia 1945 — wejście wojsk do zrujnowanej Warszawy",
+  "facts": [
+    "17 stycznia 1945 r. oddziały Armii Czerwonej i 1 Armii Wojska Polskiego weszły do lewobrzeżnej Warszawy opuszczonej przez główne siły niemieckie.",
+    "Miasto było w ogromnej części zniszczone i wyludnione po okupacji, Powstaniu Warszawskim i niemieckich wyburzeniach.",
+    "W PRL datę przedstawiano jako „wyzwolenie Warszawy”; współczesny opis historyczny uwzględnia również ustanawianie zależnego od ZSRR systemu władzy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://www.1944.pl/",
+    "https://www.auschwitz.org/"
+  ],
+  "related_public_pages": []
+}
