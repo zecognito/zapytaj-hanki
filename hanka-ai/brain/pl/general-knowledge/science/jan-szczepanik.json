@@ -1,0 +1,21 @@
+{
+  "id": "jan-szczepanik",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Jan Szczepanik",
+  "facts": [
+    "Jan Szczepanik był polskim wynalazcą działającym na przełomie XIX i XX wieku.",
+    "Pracował m.in. nad technologiami tkackimi, fotografią barwną i przesyłaniem obrazu.",
+    "Bywa nazywany „polskim Edisonem”, ale jest to przydomek popularyzatorski, a nie formalny tytuł."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
