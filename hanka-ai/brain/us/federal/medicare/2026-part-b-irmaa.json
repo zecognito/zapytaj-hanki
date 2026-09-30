@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-medicare-part-b-irmaa-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "medicare",
+  "subtopic": "irmaa",
+  "title": "Medicare Part B IRMAA — 2026",
+  "facts": [
+    "Standardowa Part B premium w 2026 wynosi $202.90 miesięcznie.",
+    "IRMAA zwiększa Part B premium dla osób z wyższym modified adjusted gross income; Social Security zasadniczo używa federal tax return z dwóch lat wcześniej.",
+    "Dla 2026 pierwsza IRMAA tier zaczyna się powyżej $109,000 MAGI dla individual return i powyżej $218,000 dla joint return.",
+    "Wyższe IRMAA tiers powodują większą miesięczną Part B premium; dokładna kwota zależy od filing status i MAGI."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicare.gov/basics/costs/medicare-costs",
+    "https://www.ssa.gov/medicare/medicare-premiums"
+  ],
+  "related_public_pages": []
+}
