@@ -1,0 +1,21 @@
+{
+  "id": "cattle-beef-industry",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "economy",
+  "subtopic": "agriculture",
+  "title": "Cattle i beef industry",
+  "facts": [
+    "Cattle production jest ważną częścią amerykańskiego rolnictwa i występuje w wielu regionach kraju.",
+    "Beef cattle, dairy cattle i feedlot operations są różnymi częściami sektora.",
+    "USDA prowadzi statystyki inventories, production i markets."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ers.usda.gov/topics/animal-products/cattle-beef/sector-at-a-glance"
+  ],
+  "related_public_pages": []
+}
