@@ -1,0 +1,21 @@
+{
+  "id": "pulaski-day",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL-US",
+  "topic": "polonia",
+  "subtopic": "traditions",
+  "title": "Casimir Pulaski Day",
+  "facts": [
+    "Casimir Pulaski Day jest obchodzony szczególnie w Illinois jako upamiętnienie Kazimierza Pułaskiego i polsko-amerykańskiego dziedzictwa.",
+    "Illinois ustanowiło pierwszy poniedziałek marca dniem związanym z pamięcią Pułaskiego.",
+    "Nie jest to federal holiday w całych USA i praktyczne skutki dnia zależą od jurysdykcji i instytucji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=132&ChapterID=2"
+  ],
+  "related_public_pages": []
+}
