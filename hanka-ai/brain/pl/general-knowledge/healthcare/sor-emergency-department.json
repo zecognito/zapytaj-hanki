@@ -1,0 +1,21 @@
+{
+  "id": "sor-emergency-department",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "healthcare",
+  "subtopic": "emergency-care",
+  "title": "SOR — szpitalny oddział ratunkowy",
+  "facts": [
+    "SOR, czyli szpitalny oddział ratunkowy, udziela pomocy osobom znajdującym się w stanie nagłego zagrożenia zdrowotnego.",
+    "SOR nie zastępuje podstawowej opieki zdrowotnej ani planowej poradni specjalistycznej; pacjenci są kwalifikowani według pilności medycznej, a nie kolejności przybycia.",
+    "W przypadku bezpośredniego zagrożenia życia należy wezwać zespół ratownictwa medycznego pod numerem 112 lub 999."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://pacjent.gov.pl/aktualnosc/sor-czyli-szpitalny-oddzial-ratunkowy"
+  ],
+  "related_public_pages": []
+}
