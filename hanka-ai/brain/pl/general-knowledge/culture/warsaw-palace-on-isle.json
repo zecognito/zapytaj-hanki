@@ -1,0 +1,21 @@
+{
+  "id": "warsaw-palace-on-isle",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Pałac na Wyspie w Łazienkach",
+  "facts": [
+    "Pałac na Wyspie jest jednym z najbardziej rozpoznawalnych zabytków Łazienek Królewskich w Warszawie.",
+    "Był letnią rezydencją króla Stanisława Augusta Poniatowskiego.",
+    "Otaczający go zespół parkowo-pałacowy jest ważnym zabytkiem polskiego klasycyzmu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.lazienki-krolewskie.pl/"
+  ],
+  "related_public_pages": []
+}
