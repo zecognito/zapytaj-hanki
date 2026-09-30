@@ -1,0 +1,21 @@
+{
+  "id": "faworki",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Faworki",
+  "facts": [
+    "Faworki, nazywane też chrustem, są cienkimi smażonymi ciastkami posypywanymi cukrem pudrem.",
+    "Są szczególnie kojarzone z karnawałem i Tłustym Czwartkiem.",
+    "Nazwa i szczegóły przygotowania mogą różnić się regionalnie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/fat-thursday-polands-tastiest-tradition"
+  ],
+  "related_public_pages": []
+}
