@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-death-inherited-property-basis",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "death_inheritance",
+  "subtopic": "inheritance_tax",
+  "title": "Inherited property basis - federal basics",
+  "facts": [
+    "For many assets acquired from a decedent, federal income-tax basis is generally adjusted to fair market value at the date of death or another permitted valuation date, subject to statutory rules and exceptions.",
+    "This basis rule can substantially change the taxable gain or loss when inherited property is later sold.",
+    "Not every asset receives the same basis treatment; retirement accounts, income in respect of a decedent and certain other property follow different rules.",
+    "Beneficiaries should establish and retain documentation supporting the inherited asset's tax basis."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/publications/p559"
+  ],
+  "related_public_pages": []
+}
