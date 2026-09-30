@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-hartford-ct",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła Sobotnia",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "35 Groton Street",
+    "city": "Hartford",
+    "state": "CT",
+    "postal_code": "06106",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 860 357 1061",
+  "email": "kbrodowicz@polskaszkolahartford.com",
+  "website": "http://polskaszkolahartford.com",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "CT"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; enrollment and current class offerings should be confirmed directly with the school."
+  ],
+  "official_source": "https://www.centralapolskichszkol.org/index.php/connecticut/",
+  "last_verified": "2026-09-30"
+}
