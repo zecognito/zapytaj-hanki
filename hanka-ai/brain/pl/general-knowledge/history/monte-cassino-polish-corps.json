@@ -1,0 +1,21 @@
+{
+  "id": "monte-cassino-polish-corps",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world_war_ii",
+  "title": "Polacy pod Monte Cassino",
+  "facts": [
+    "2 Korpus Polski gen. Władysława Andersa uczestniczył w alianckiej kampanii włoskiej podczas II wojny światowej.",
+    "W maju 1944 r. polskie oddziały odegrały ważną rolę w zdobyciu pozycji pod Monte Cassino.",
+    "Walki były częścią większej alianckiej operacji i nie były prowadzone wyłącznie przez wojska polskie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/wlochy/80-rocznica-bitwy-o-monte-cassino"
+  ],
+  "related_public_pages": []
+}
