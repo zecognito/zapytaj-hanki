@@ -1,0 +1,21 @@
+{
+  "id": "name-day-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Imieniny",
+  "facts": [
+    "Imieniny są polską tradycją związaną z dniem patrona lub świętego przypisanego do danego imienia w kalendarzu.",
+    "Dla części osób imieniny są okazją do składania życzeń i spotkań podobnie jak urodziny.",
+    "Znaczenie imienin różni się między rodzinami, pokoleniami i regionami i nie każdy je obchodzi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-name-days"
+  ],
+  "related_public_pages": []
+}
