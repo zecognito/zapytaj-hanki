@@ -1,0 +1,21 @@
+{
+  "id": "oberek",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Oberek",
+  "facts": [
+    "Oberek jest szybkim polskim tańcem ludowym w metrum trójdzielnym.",
+    "Należy do grupy tradycyjnych polskich tańców narodowych i regionalnych.",
+    "Jego charakter obejmuje szybkie obroty i żywy rytm, ale wykonanie różni się w tradycjach regionalnych i scenicznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-dances-oberek"
+  ],
+  "related_public_pages": []
+}
