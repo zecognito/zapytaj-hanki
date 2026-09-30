@@ -1,0 +1,21 @@
+{
+  "id": "grocery-store-terms",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday",
+  "subtopic": "shopping",
+  "title": "Grocery store, supermarket i convenience store",
+  "facts": [
+    "Grocery store i supermarket to sklepy spożywcze; supermarket zwykle oznacza większy sklep z szerokim asortymentem.",
+    "Convenience store to mniejszy sklep nastawiony na szybkie zakupy, często przy gas station i często z dłuższymi godzinami otwarcia.",
+    "Warehouse clubs działają w innym modelu i często wymagają membership."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ers.usda.gov/topics/food-markets-prices/retailing-wholesaling"
+  ],
+  "related_public_pages": []
+}
