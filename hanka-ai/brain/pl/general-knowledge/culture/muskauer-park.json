@@ -1,0 +1,21 @@
+{
+  "id": "muskauer-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Park Mużakowski",
+  "facts": [
+    "Park Mużakowski / Muskauer Park jest rozległym parkiem krajobrazowym po obu stronach granicy polsko-niemieckiej.",
+    "Został ukształtowany w XIX wieku według koncepcji księcia Hermanna von Pückler-Muskau.",
+    "Jest transgranicznym polsko-niemieckim obiektem Listy Światowego Dziedzictwa UNESCO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://whc.unesco.org/en/list/1127/"
+  ],
+  "related_public_pages": []
+}
