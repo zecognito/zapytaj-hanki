@@ -1,0 +1,21 @@
+{
+  "id": "country-nicaragua",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Nikaragua",
+  "facts": [
+    "Nikaragua jest największym państwem Ameryki Środkowej pod względem powierzchni i leży między Hondurasem a Kostaryką.",
+    "Stolicą jest Managua, językiem urzędowym hiszpański, a walutą córdoba.",
+    "Nikaragua ma wybrzeża zarówno nad Oceanem Spokojnym, jak i Morzem Karaibskim oraz duże jeziora Nikaragua i Managua."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cancilleria.gob.ni/"
+  ],
+  "related_public_pages": []
+}
