@@ -1,0 +1,21 @@
+{
+  "id": "country-vatican-city",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Watykan",
+  "facts": [
+    "Państwo Watykańskie jest najmniejszym suwerennym państwem świata i enklawą wewnątrz Rzymu.",
+    "Powstało w 1929 roku na mocy traktatów laterańskich i stanowi terytorialną podstawę niezależności Stolicy Apostolskiej.",
+    "Watykan jest monarchią elekcyjną, której suwerenem jest papież; używa euro na podstawie porozumień monetarnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.vaticanstate.va/en/state-and-government/general-informations/origins-nature.html"
+  ],
+  "related_public_pages": []
+}
