@@ -1,0 +1,21 @@
+{
+  "id": "polish-legions-ww1",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "independence",
+  "title": "Legiony Polskie podczas I wojny światowej",
+  "facts": [
+    "Legiony Polskie powstały podczas I wojny światowej i były związane przede wszystkim z obozem Józefa Piłsudskiego.",
+    "Walczyły początkowo u boku Austro-Węgier przeciw Rosji, z nadzieją na odbudowę polskiej państwowości.",
+    "Historia Legionów jest jednym z kilku nurtów polskich działań niepodległościowych podczas wojny i nie obejmuje całego wysiłku Polaków."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/"
+  ],
+  "related_public_pages": []
+}
