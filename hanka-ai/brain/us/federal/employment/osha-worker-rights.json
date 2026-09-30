@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-employment-osha-worker-rights",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "osha",
+  "title": "OSHA — podstawowe prawa pracownika",
+  "facts": [
+    "Workers mają prawo do workplace wolnego od known serious hazards oraz do informacji i training o hazards w języku i słownictwie, które rozumieją, zgodnie z applicable OSHA rules.",
+    "Worker może złożyć confidential safety and health complaint i poprosić OSHA o inspection, jeśli uważa, że istnieje serious hazard albo employer nie przestrzega OSHA standards.",
+    "Federal law chroni workers przed retaliation za korzystanie z praw OSHA.",
+    "OSHA coverage i odpowiednia agency mogą różnić się w states prowadzących OSHA-approved State Plans."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.osha.gov/workers",
+    "https://www.osha.gov/workers/file-complaint"
+  ],
+  "related_public_pages": []
+}
