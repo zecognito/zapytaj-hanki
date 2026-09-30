@@ -1,0 +1,21 @@
+{
+  "id": "il-order-of-protection",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "family",
+  "subtopic": "domestic_violence",
+  "title": "Order of Protection w Illinois",
+  "facts": [
+    "Illinois Courts udostępnia statewide forms do złożenia wniosku o Order of Protection.",
+    "Dostępne formularze obejmują m.in. Petition for Order of Protection oraz Emergency Order of Protection.",
+    "Wszystkie Illinois Circuit Courts muszą akceptować zatwierdzone przez stan formularze statewide; szczegóły i wymagane kroki zależą od konkretnej sprawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-standardized-forms-suites/order-of-protection/"
+  ],
+  "related_public_pages": []
+}
