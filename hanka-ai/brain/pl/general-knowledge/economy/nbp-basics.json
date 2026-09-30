@@ -1,0 +1,21 @@
+{
+  "id": "nbp-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "institutions",
+  "title": "Narodowy Bank Polski",
+  "facts": [
+    "Narodowy Bank Polski (NBP) jest bankiem centralnym Rzeczypospolitej Polskiej.",
+    "Do jego podstawowych zadań należą m.in. prowadzenie polityki pieniężnej, emisja pieniądza oraz działania na rzecz stabilności systemu finansowego w zakresie ustawowych kompetencji.",
+    "NBP nie jest zwykłym bankiem detalicznym prowadzącym konta osobiste dla ludności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://nbp.pl/o-nbp/"
+  ],
+  "related_public_pages": []
+}
