@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-education-direct-loan-limits",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "education",
+  "subtopic": "federal_student_loans",
+  "title": "Federal Direct Loan annual limits - undergraduate basics",
+  "facts": [
+    "For dependent undergraduate students, combined annual Direct Subsidized and Unsubsidized Loan limits are generally $5,500 for first year, $6,500 for second year and $7,500 for third year and beyond, with lower sublimits on subsidized amounts.",
+    "Independent undergraduates and certain dependent students whose parents cannot obtain PLUS may generally have higher combined annual limits: $9,500 first year, $10,500 second year and $12,500 third year and beyond.",
+    "Aggregate limits and special rules also apply, so the annual maximum is not necessarily the amount a student can or should borrow."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://studentaid.gov/understand-aid/types/loans/subsidized-unsubsidized"
+  ],
+  "related_public_pages": []
+}
