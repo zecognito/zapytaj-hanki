@@ -20,13 +20,17 @@
     "pl",
     "en"
   ],
-  "services": "https://www.euromartgj.com/team-1",
+  "services": [
+    "European grocery market",
+    "Polish food products",
+    "imported foods and specialty groceries"
+  ],
   "coverage_area": [
     "Grand Junction",
     "CO"
   ],
   "notes": [
-    "Audited 2026-09-30: official business site confirms Grand Junction physical location. Retained because its own product/team pages document Polish products/ownership context among broader European offerings."
+    "Audited 2026-09-30: fixed malformed services field (URL string -> services array). Official site confirms current Grand Junction location; Polish products are part of a broader European selection."
   ],
   "official_source": "https://www.euromartgj.com/contact-us",
   "last_verified": "2026-09-30"
