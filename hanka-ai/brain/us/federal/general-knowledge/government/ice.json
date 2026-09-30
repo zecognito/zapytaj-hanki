@@ -1,0 +1,21 @@
+{
+  "id": "ice",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "government",
+  "subtopic": "abbreviations",
+  "title": "Co to jest ICE?",
+  "facts": [
+    "ICE oznacza U.S. Immigration and Customs Enforcement.",
+    "ICE jest agencją Department of Homeland Security odpowiedzialną za określone działania egzekwowania prawa dotyczące immigration i customs.",
+    "ICE, USCIS i CBP są odrębnymi agencjami DHS o różnych funkcjach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ice.gov/overview"
+  ],
+  "related_public_pages": []
+}
