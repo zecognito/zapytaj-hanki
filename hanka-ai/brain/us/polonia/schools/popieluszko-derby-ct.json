@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-popieluszko-derby-ct",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła Sobotnia im. Bł. Ks. Jerzego Popiełuszki",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "75 Derby Ave",
+    "city": "Derby",
+    "state": "CT",
+    "postal_code": "06418",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 203 278 3512",
+  "email": "inus206@aol.com",
+  "website": "http://www.pssderby.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "CT"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; enrollment and current class offerings should be confirmed directly with the school."
+  ],
+  "official_source": "https://www.centralapolskichszkol.org/index.php/connecticut/",
+  "last_verified": "2026-09-30"
+}
