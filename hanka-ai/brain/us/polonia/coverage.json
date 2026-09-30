@@ -46,10 +46,10 @@
       "status": "audit_in_progress",
       "records": 170,
       "notes": [
-        "Food/retail audit is in progress. Raw directory count is now 170 after removing two insufficiently supported placeholder leads; seven other targeted weak filenames were already absent by audit time and therefore were not counted as removals.",
-        "Audit corrected three material location errors: Krakus Polish Deli & Bakery is Boardman OH rather than Columbus; Wioletta's Polish Market is Milwaukee WI rather than Chicago; and the Polish Food Store lead is Bremond TX rather than Austin. Corrections are supported by current business/official/community sources.",
-        "Current web evidence also confirms active Polish Market in Troy MI and Wioletta's Polish Market in Milwaukee; official/current sources are being preferred over generic directories.",
-        "Do not ingest this commercial layer into Vectorize until the audit is complete. Remaining weak-source and incomplete records still require review before mature status."
+        "Food/retail audit remains in progress at 170 records. Five early weak-source records were upgraded to direct current official business sources: Barbara's Polish Deli, MJ Polish Deli, Polski Smak, Heart of Europe Polish Deli, and Tatra Haus.",
+        "Audit found a systematic early-batch citation issue: several NJ records incorrectly referenced a Chicago Polish-food directory, while two Rhode Island records used a generic gov.pl bilateral-relations page. These remaining weak-source records are queued for individual verification/removal rather than trusted as-is.",
+        "Previous audit corrections remain: Krakus is Boardman OH, Wioletta's Polish Market is Milwaukee WI, and The Polish Food Store is Bremond TX. Two unsupported placeholder leads were removed.",
+        "Do not ingest the commercial layer into Vectorize until this source-quality audit is complete. Raw count is not a verified-count claim."
       ]
     },
     "media_culture": {
