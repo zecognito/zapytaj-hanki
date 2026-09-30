@@ -490,6 +490,31 @@
         "telemarketing",
         "complaints"
       ]
+    },
+    {
+      "id": "death_inheritance",
+      "label": "Śmierć, spadek i formalności",
+      "status": "started",
+      "subtopics": [
+        "social_security_death",
+        "final_tax_return",
+        "estate_tax_admin",
+        "inheritance_tax",
+        "inherited_retirement",
+        "beneficiaries",
+        "probate_boundary",
+        "estate_debts"
+      ],
+      "completed_subtopics": [
+        "social_security_death",
+        "final_tax_return",
+        "estate_tax_admin",
+        "inheritance_tax",
+        "inherited_retirement",
+        "beneficiaries",
+        "probate_boundary",
+        "estate_debts"
+      ]
     }
   ]
 }
