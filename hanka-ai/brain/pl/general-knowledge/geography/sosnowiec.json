@@ -1,0 +1,21 @@
+{
+  "id": "sosnowiec",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Sosnowiec",
+  "facts": [
+    "Sosnowiec jest największym miastem Zagłębia Dąbrowskiego i leży w województwie śląskim.",
+    "Choć jest częścią współczesnej metropolii górnośląsko-zagłębiowskiej, historycznie i kulturowo Zagłębie nie jest tym samym co Śląsk.",
+    "Miasto rozwinęło się gwałtownie w epoce industrializacji XIX wieku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sosnowiec.pl/"
+  ],
+  "related_public_pages": []
+}
