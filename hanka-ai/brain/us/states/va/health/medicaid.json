@@ -1,0 +1,21 @@
+{
+  "id": "va-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VA",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Medicaid w Wirginii",
+  "facts": [
+    "Virginia Medicaid zapewnia health coverage kwalifikującym się mieszkańcom.",
+    "Virginia rozszerzyła Medicaid dla kwalifikujących się dorosłych zgodnie z obowiązującymi income i eligibility rules.",
+    "Coverage i eligibility zależą od kategorii programu, household i innych warunków."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://coverva.dmas.virginia.gov/"
+  ],
+  "related_public_pages": []
+}
