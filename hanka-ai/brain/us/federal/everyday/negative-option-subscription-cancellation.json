@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-subscription-cancellation-boundary",
+  "subtopic": "consumer_contracts",
+  "title": "Automatyczne subskrypcje i cancellation — federalne granice",
+  "facts": [
+    "Federalne prawo zabrania deceptive lub unfair practices związanych z recurring charges i negative-option offers, a różne federalne przepisy mogą mieć zastosowanie zależnie od sposobu sprzedaży.",
+    "ROSCA wymaga dla określonych online negative-option transactions jasnego ujawnienia material terms, express informed consent przed obciążeniem oraz prostego mechanizmu zatrzymania recurring charges.",
+    "Prawo stanowe może nakładać dodatkowe automatic-renewal requirements, więc nie istnieje jeden identyczny cancellation process dla każdej subskrypcji w każdym stanie.",
+    "Jeżeli merchant nadal pobiera nieautoryzowane charges, mogą istnieć osobne prawa do dispute zależne od payment method."
+  ],
+  "official_sources": [
+    "https://www.ftc.gov/legal-library/browse/statutes/restore-online-shoppers-confidence-act",
+    "https://consumer.ftc.gov/consumer-alerts/2023/05/negative-options-make-sure-youre-opting-not-getting-opted"
+  ]
+}
