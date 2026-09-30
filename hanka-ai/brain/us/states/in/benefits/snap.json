@@ -1,0 +1,21 @@
+{
+  "id": "in-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IN",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w Indianie",
+  "facts": [
+    "Indiana SNAP zapewnia food assistance kwalifikującym się gospodarstwom domowym.",
+    "Program jest administrowany przez Indiana Family and Social Services Administration.",
+    "Eligibility i benefit amount zależą od wielkości gospodarstwa, dochodu i innych zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.in.gov/fssa/dfr/snap-food-assistance/about-snap/"
+  ],
+  "related_public_pages": []
+}
