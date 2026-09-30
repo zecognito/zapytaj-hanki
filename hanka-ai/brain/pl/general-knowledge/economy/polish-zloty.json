@@ -1,0 +1,21 @@
+{
+  "id": "polish-zloty",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "currency",
+  "title": "Polski złoty",
+  "facts": [
+    "Walutą Polski jest złoty, oznaczany kodem PLN.",
+    "Jeden złoty dzieli się na 100 groszy.",
+    "Polska jest członkiem Unii Europejskiej, ale nie należy do euro area i nie używa euro jako swojej oficjalnej waluty."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://nbp.pl/en/about-nbp/"
+  ],
+  "related_public_pages": []
+}
