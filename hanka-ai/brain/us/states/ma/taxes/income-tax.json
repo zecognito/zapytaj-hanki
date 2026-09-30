@@ -1,0 +1,21 @@
+{
+  "id": "ma-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MA",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Massachusetts",
+  "facts": [
+    "Massachusetts nakłada personal income tax zgodnie z zasadami stanowymi; większość taxable income podlega podstawowej stawce stanowej.",
+    "Massachusetts ma również dodatkowy podatek od części taxable income przekraczającej próg określony w konstytucji stanowej i corocznie dostosowywany.",
+    "Massachusetts Department of Revenue publikuje aktualne stawki i progi dla danego roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mass.gov/info-details/massachusetts-tax-rates"
+  ],
+  "related_public_pages": []
+}
