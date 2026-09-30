@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-foreign-gifts-bequests",
+  "subtopic": "gifts_inheritance",
+  "title": "Darowizny i spadki z Polski otrzymane przez U.S. person",
+  "facts": [
+    "Otrzymanie zagranicznej darowizny lub spadku może powodować obowiązek informacyjny w USA nawet wtedy, gdy samo otrzymanie nie jest traktowane jak zwykły dochód.",
+    "U.S. person zasadniczo raportuje na Form 3520 zagraniczne gifts lub bequests od nonresident alien individual lub foreign estate, gdy łączna kwota od odpowiednich osób przekracza 100 000 USD w roku podatkowym.",
+    "Dla darowizn od foreign corporations lub foreign partnerships obowiązuje osobny, corocznie indeksowany próg; na 2026 r. IRS podaje 20 573 USD.",
+    "Form 3520 jest odrębnym formularzem informacyjnym i ma własne zasady oraz potencjalne kary za brak prawidłowego raportowania."
+  ],
+  "effective_from": "2026-01-01",
+  "official_sources": [
+    "https://www.irs.gov/businesses/gifts-from-foreign-person",
+    "https://www.irs.gov/instructions/i3520"
+  ]
+}
