@@ -44,13 +44,13 @@
     },
     "businesses": {
       "status": "professionals_in_progress",
-      "records": 185,
+      "records": 203,
       "notes": [
-        "Food/retail first-pass audit remains closed at 167 records; machine schema validation remains mandatory before ingestion.",
-        "Professional-services layer now contains 18 records after two verified batches. New coverage includes Polish-speaking law, dentistry, primary-care/medical programs, tax/accounting, insurance and real estate across Chicagoland and NY/NJ.",
-        "This batch added: Law Office of Adriana Wos-Mysliwiec (NJ); Placzek Dental; Taxes - The Financial Services Corp.; MHP Portage Park and Jefferson Park; UChicago Polish-American Transplant Center; United Insurance Brokers; Northwest Chicago Insurance Group; Richele Brainin State Farm; Sayreville Dental; Metropark Dental; Judyta Komon/Coldwell Banker.",
-        "Language evidence remains strict: Polish is stored only when the current first-party/provider profile explicitly supports it. Clinic-level language capability is stored at clinic level rather than imputed to every clinician. Continue Chicagoland + NY/NJ with doctors, dentists, accountants, insurance, real estate, mechanics, funeral homes and credit unions before national expansion.",
-        "Vectorize ingestion remains blocked until professional coverage is mature and schema/status-aware ingestion is ready."
+        "Food/retail first-pass audit closed at 167 records; machine schema validation remains mandatory before ingestion.",
+        "Professional-services layer now contains 36 records; total commercial/professional directory is 203. Coverage includes Polish-capable law, dentistry, medical care, tax/accounting, insurance, real estate, auto repair and funeral services.",
+        "Latest batch added 18 verified records: DentalMax, Deerfield Dental Care, Beata deVirion DDS, Portage Park Dental, True Tax & Pro Accounting, Best Financial Group, U.S. Tax and Financial Services Group, Choice International Agency, Konikowski Insurance Agency, Goldstein Ballen O'Rourke & Wildstein, Arkadia Auto Repair, A&A Complete Automotive, two Garage For You locations, two Sierra Tire locations, Wolniak Funeral Home, and Bacon Funeral Home.",
+        "Language rule remains strict: Polish is stored only with explicit current source evidence. Separate physical locations are separate records where useful for near-me retrieval. Clinic/business-level language claims are not imputed to every individual professional.",
+        "Continue filling Chicagoland + NY/NJ professional gaps, especially doctors, accountants, real estate, funeral homes and Polish-community financial institutions; then expand nationally. Vectorize ingestion remains blocked until professional coverage and schema/status-aware ingestion are mature."
       ]
     },
     "media_culture": {
