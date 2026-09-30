@@ -1,0 +1,37 @@
+{
+  "id": "polonia-business-ela-deli-chicopee",
+  "country": "US",
+  "category": "store",
+  "name": "ELA DELI Polish Delicatessen",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "226 Exchange St",
+    "city": "Chicopee",
+    "state": "MA",
+    "postal_code": "01013",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 413-331-2560",
+  "email": null,
+  "website": "https://eladelichicopee.wixsite.com/home",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish deli",
+    "lunch",
+    "Polish specialty foods"
+  ],
+  "coverage_area": [
+    "Chicopee",
+    "MA"
+  ],
+  "notes": [
+    "Current Polish-food identity and location supported directly by the business website; commercial details remain freshness-sensitive."
+  ],
+  "official_source": "https://eladelichicopee.wixsite.com/home",
+  "last_verified": "2026-09-30"
+}
