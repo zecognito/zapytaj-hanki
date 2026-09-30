@@ -1,0 +1,35 @@
+{
+  "id": "polonia-bank-chase-national-language-assistance",
+  "country": "US",
+  "category": "bank",
+  "name": "Chase - Language Assistance",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "National service",
+    "state": "US",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "en"
+  ],
+  "services": [
+    "banking",
+    "language assistance",
+    "interpreter assistance"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://www.chase.com/digital/resources/accessibility",
+  "coverage_area": [
+    "United States"
+  ],
+  "official_source": "https://www.chase.com/digital/resources/accessibility",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Chase provides language-access assistance, but this record does NOT claim a dedicated Polish-language banking program or Polish-speaking staff at every branch.",
+    "Keep below explicit Polish-support banks/branches in Polish-language retrieval unless Polish capability is separately verified."
+  ]
+}
