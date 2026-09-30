@@ -1,0 +1,21 @@
+{
+  "id": "zegota",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "holocaust",
+  "title": "Żegota",
+  "facts": [
+    "Rada Pomocy Żydom „Żegota” była konspiracyjną organizacją działającą w okupowanej Polsce w ramach struktur Polskiego Państwa Podziemnego.",
+    "Pomagała Żydom ukrywającym się przed niemiecką polityką Zagłady, m.in. przez dokumenty, środki finansowe i organizowanie schronienia.",
+    "Pomoc odbywała się w warunkach niemieckiego terroru i groźby ciężkich kar."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://polin.pl/"
+  ],
+  "related_public_pages": []
+}
