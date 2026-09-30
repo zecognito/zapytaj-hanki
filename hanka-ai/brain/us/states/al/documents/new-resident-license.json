@@ -1,0 +1,21 @@
+{
+  "id": "al-new_resident_license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AL",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Alabama",
+  "facts": [
+    "Nowy resident powinien uzyskać stanowe driver license zgodnie z procedurą stanową.",
+    "Wymagane są odpowiednie dokumenty identity i residency.",
+    "Testy i zasady uznania out-of-state license zależą od sytuacji kierowcy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.alea.gov/dps/driver-license/driver-license-information"
+  ],
+  "related_public_pages": []
+}
