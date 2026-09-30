@@ -1,0 +1,21 @@
+{
+  "id": "al-auto_insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AL",
+  "topic": "vehicles",
+  "subtopic": "auto_insurance",
+  "title": "Ubezpieczenie samochodu w Alabama",
+  "facts": [
+    "Prawo stanowe określa wymagania dotyczące auto insurance lub financial responsibility.",
+    "Wymagane coverage należy utrzymywać zgodnie z obowiązującymi zasadami.",
+    "Brak wymaganego coverage może prowadzić do konsekwencji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.revenue.alabama.gov/motor-vehicle/mandatory-liability-insurance/"
+  ],
+  "related_public_pages": []
+}
