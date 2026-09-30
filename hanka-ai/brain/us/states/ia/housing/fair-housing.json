@@ -1,0 +1,21 @@
+{
+  "id": "ia-fair_housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IA",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Fair housing w Iowa",
+  "facts": [
+    "Prawo federalne i stanowe chroni przed określonymi formami housing discrimination.",
+    "Zakres ochrony i procedury zależą od właściwych przepisów.",
+    "Skargę można kierować do właściwej agencji lub HUD."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://icrc.iowa.gov/your-rights/housing"
+  ],
+  "related_public_pages": []
+}
