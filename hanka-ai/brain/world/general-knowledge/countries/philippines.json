@@ -1,0 +1,21 @@
+{
+  "id": "country-philippines",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Filipiny",
+  "facts": [
+    "Filipiny są państwem archipelagowym Azji Południowo-Wschodniej na zachodnim Pacyfiku.",
+    "Stolicą jest Manila; językami urzędowymi są filipiński i angielski, a walutą peso filipińskie.",
+    "Filipiny są republiką i członkiem ASEAN."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.officialgazette.gov.ph/about/gov/"
+  ],
+  "related_public_pages": []
+}
