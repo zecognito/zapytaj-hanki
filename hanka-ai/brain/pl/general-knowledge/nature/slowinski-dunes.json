@@ -1,0 +1,21 @@
+{
+  "id": "slowinski-dunes",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national_parks",
+  "title": "Ruchome wydmy w Słowińskim Parku Narodowym",
+  "facts": [
+    "Słowiński Park Narodowy chroni fragment środkowego wybrzeża Bałtyku, jeziora przybrzeżne, lasy, torfowiska i system wydm.",
+    "Park jest szczególnie znany z ruchomych wydm przemieszczanych przez wiatr.",
+    "Słowiński Park Narodowy jest również rezerwatem biosfery UNESCO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://slowinskipn.pl/"
+  ],
+  "related_public_pages": []
+}
