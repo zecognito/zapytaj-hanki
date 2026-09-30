@@ -1,0 +1,35 @@
+{
+  "id": "polonia-prof-dentist-placzek-chicago-il",
+  "country": "US",
+  "category": "dentist",
+  "name": "Placzek Dental",
+  "status": "active",
+  "location": {
+    "address": "5333 W Lawrence Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60630",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "family dentistry",
+    "cosmetic dentistry",
+    "dental implants",
+    "root canal therapy",
+    "Invisalign",
+    "crowns and bridges"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://www.placzekdental.com/",
+  "official_source": "https://www.placzekdental.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official practice site explicitly states Mówimy po polsku and describes the practice as bilingual English/Polish."
+  ]
+}
