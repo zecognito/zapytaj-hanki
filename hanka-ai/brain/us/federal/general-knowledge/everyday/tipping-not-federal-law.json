@@ -1,0 +1,21 @@
+{
+  "id": "tipping-not-federal-law",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday",
+  "subtopic": "tipping",
+  "title": "Czy napiwek jest obowiązkowy?",
+  "facts": [
+    "W restauracjach i wielu usługach napiwek jest amerykańskim zwyczajem, ale nie istnieje ogólny federalny przepis nakazujący klientowi dobrowolny tip w każdej sytuacji.",
+    "Restaurant może natomiast naliczyć obowiązkową service charge lub automatic gratuity zgodnie z odpowiednimi zasadami; taka opłata powinna być odróżniana od dobrowolnego napiwku.",
+    "Praktyki i oczekiwane kwoty napiwków są zwyczajem rynkowym, nie jednolitą krajową stawką prawną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/businesses/small-businesses-self-employed/tip-recordkeeping-and-reporting"
+  ],
+  "related_public_pages": []
+}
