@@ -1,0 +1,34 @@
+{
+  "id": "polonia-org-polish-american-historical-association",
+  "country": "US",
+  "category": "organization",
+  "name": "Polish American Historical Association",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "United States",
+    "state": "US",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-American history, scholarship and education"
+  ],
+  "coverage_area": [
+    "US"
+  ],
+  "notes": [
+    "Institutional directory record; services, leadership and contact details should be periodically refreshed."
+  ],
+  "official_source": "https://www.gov.pl/web/usa-en/bilateral-relations",
+  "last_verified": "2026-09-30"
+}
