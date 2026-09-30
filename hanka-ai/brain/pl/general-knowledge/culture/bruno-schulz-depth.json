@@ -1,0 +1,21 @@
+{
+  "id": "bruno-schulz-depth",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "notable-people",
+  "title": "Bruno Schulz",
+  "facts": [
+    "Bruno Schulz był polsko-żydowskim pisarzem, grafikiem i nauczycielem związanym z Drohobyczem.",
+    "Jest autorem m.in. „Sklepów cynamonowych” i „Sanatorium pod Klepsydrą”.",
+    "Został zamordowany przez niemieckiego funkcjonariusza w okupowanym Drohobyczu w 1942 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
