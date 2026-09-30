@@ -1,0 +1,21 @@
+{
+  "id": "country-malawi",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Malawi",
+  "facts": [
+    "Malawi jest śródlądowym państwem południowo-wschodniej Afryki, którego znaczną część wschodniej granicy wyznacza jezioro Malawi.",
+    "Stolicą jest Lilongwe, językiem urzędowym angielski, a chichewa jest językiem narodowym; walutą jest kwacha malawijska.",
+    "Malawi jest republiką i należy do najgęściej zaludnionych państw południowej Afryki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.malawi.gov.mw/"
+  ],
+  "related_public_pages": []
+}
