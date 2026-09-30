@@ -1,0 +1,21 @@
+{
+  "id": "country-el-salvador",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Salwador",
+  "facts": [
+    "Salwador jest najmniejszym państwem kontynentalnej Ameryki Środkowej i leży nad Oceanem Spokojnym.",
+    "Stolicą jest San Salvador, a językiem urzędowym hiszpański.",
+    "Salwador jest republiką; dolar amerykański pozostaje prawnym środkiem płatniczym, a w 2021 roku państwo nadało taki status również bitcoinowi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.asamblea.gob.sv/"
+  ],
+  "related_public_pages": []
+}
