@@ -1,0 +1,21 @@
+{
+  "id": "nh-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NH",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "snap — New Hampshire",
+  "facts": [
+    "Stan prowadzi lub reguluje ten program albo obowiązek.",
+    "Wymagania zależą od konkretnej sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle stanowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dhhs.nh.gov/programs-services/food-meals-assistance/food-stamps"
+  ],
+  "related_public_pages": []
+}
