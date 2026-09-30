@@ -1,0 +1,21 @@
+{
+  "id": "va-paid-sick-leave-home-health",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VA",
+  "topic": "employment",
+  "subtopic": "paid_sick_leave",
+  "title": "Paid sick leave dla home health workers w Wirginii",
+  "facts": [
+    "Virginia ma ustawowe paid sick leave obejmujące określonych home health workers, a nie ogólny statewide mandate dla wszystkich private-sector employees.",
+    "Objęci pracownicy naliczają paid sick leave zgodnie z ustawową formułą i limitami.",
+    "Przy pytaniu o paid sick leave w Virginia trzeba odróżnić tę stanową ochronę od employer policy, lokalnych zasad i innych właściwych praw."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://doli.virginia.gov/labor-law/paid-sick-leave/"
+  ],
+  "related_public_pages": []
+}
