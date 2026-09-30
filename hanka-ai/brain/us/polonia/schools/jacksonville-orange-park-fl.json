@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-jacksonville-orange-park-fl",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła w Jacksonville, Inc",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "179 Wells Road",
+    "city": "Orange Park",
+    "state": "FL",
+    "postal_code": "32073",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 773 203 6580",
+  "email": "polischschooljax@icloud.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "FL"
+  ],
+  "notes": [
+    "Current ORPEG Polonia-school database record; enrollment and class details should be reconfirmed with the school."
+  ],
+  "official_source": "https://archiwum.orpeg.gov.pl/db/web/database/entry/10124",
+  "last_verified": "2026-09-30"
+}
