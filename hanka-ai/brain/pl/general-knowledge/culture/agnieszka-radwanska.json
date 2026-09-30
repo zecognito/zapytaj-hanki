@@ -1,0 +1,21 @@
+{
+  "id": "agnieszka-radwanska",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "notable-people",
+  "title": "Agnieszka Radwańska",
+  "facts": [
+    "Agnieszka Radwańska była jedną z najwyżej notowanych polskich tenisistek.",
+    "W 2012 r. dotarła do finału singla Wimbledonu.",
+    "W rankingu WTA zajmowała najwyżej drugie miejsce na świecie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.wtatennis.com/"
+  ],
+  "related_public_pages": []
+}
