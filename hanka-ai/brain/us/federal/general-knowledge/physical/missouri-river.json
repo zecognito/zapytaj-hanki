@@ -1,0 +1,21 @@
+{
+  "id": "missouri-river",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "rivers",
+  "title": "Missouri River",
+  "facts": [
+    "Missouri River jest najdłuższą rzeką w Stanach Zjednoczonych.",
+    "Płynie około 2 341 mil i uchodzi do Mississippi River w pobliżu St. Louis, Missouri.",
+    "Missouri-Mississippi tworzy jeden z najważniejszych systemów rzecznych Ameryki Północnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/articles/000/missouri-river.htm"
+  ],
+  "related_public_pages": []
+}
