@@ -1,0 +1,21 @@
+{
+  "id": "mi-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MI",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Michigan",
+  "facts": [
+    "Nowy mieszkaniec Michigan posiadający out-of-state driver license powinien uzyskać Michigan driver license przez Secretary of State.",
+    "Wymagane dokumenty zależą od rodzaju credential i obejmują potwierdzenia identity, legal presence, Social Security number i Michigan residency.",
+    "Transfer driver license jest odrębny od procesu Michigan vehicle title/registration."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.michigan.gov/sos/license-id/new-michigan-residents"
+  ],
+  "related_public_pages": []
+}
