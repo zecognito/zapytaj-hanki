@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-housing-pmi-cancellation-request",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "housing_mortgages",
+  "subtopic": "pmi",
+  "title": "Conventional PMI - borrower-requested cancellation",
+  "facts": [
+    "For covered residential mortgages under the Homeowners Protection Act, a borrower may generally request cancellation of private mortgage insurance when the principal balance is scheduled to reach 80% of the home's original value, if statutory conditions are satisfied.",
+    "Conditions can include a written request, good payment history, current payments, evidence that property value has not declined where required, and no subordinate lien that would prevent cancellation.",
+    "The federal HPA applies to qualifying private mortgage insurance, not FHA mortgage insurance."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/when-can-i-remove-private-mortgage-insurance-pmi-from-my-loan-en-202/"
+  ],
+  "related_public_pages": []
+}
