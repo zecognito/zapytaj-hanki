@@ -1,0 +1,21 @@
+{
+  "id": "otc-vs-prescription",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday",
+  "subtopic": "health_terms",
+  "title": "OTC a prescription medicine",
+  "facts": [
+    "OTC oznacza over-the-counter medicine dostępne bez recepty przy zachowaniu instrukcji na etykiecie.",
+    "Prescription medicine wymaga recepty od uprawnionego healthcare provider.",
+    "Ten sam składnik lub typ leku może mieć różne statusy zależnie od produktu, dawki albo warunków sprzedaży."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fda.gov/drugs/buying-using-medicine-safely/understanding-over-counter-medicines"
+  ],
+  "related_public_pages": []
+}
