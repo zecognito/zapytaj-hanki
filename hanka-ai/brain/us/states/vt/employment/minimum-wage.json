@@ -1,0 +1,21 @@
+{
+  "id": "vt-minimum_wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VT",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna — Vermont",
+  "facts": [
+    "Jurysdykcja ma własne zasady dotyczące tego obszaru podatkowego lub płacowego.",
+    "Wymagania i stawki mogą zmieniać się wraz z rokiem podatkowym lub kalendarzowym.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle jurysdykcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://labor.vermont.gov/rights-and-wages/wage-and-hour"
+  ],
+  "related_public_pages": []
+}
