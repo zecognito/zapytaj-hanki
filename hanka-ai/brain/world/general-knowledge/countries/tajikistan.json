@@ -1,0 +1,21 @@
+{
+  "id": "country-tajikistan",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Tadżykistan",
+  "facts": [
+    "Tadżykistan jest górzystym śródlądowym państwem Azji Centralnej, a jego stolicą jest Duszanbe.",
+    "Językiem państwowym jest tadżycki, a walutą somoni.",
+    "Znaczną część terytorium zajmują wysokie góry, w tym Pamir."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mfa.tj/en/main/tajikistan"
+  ],
+  "related_public_pages": []
+}
