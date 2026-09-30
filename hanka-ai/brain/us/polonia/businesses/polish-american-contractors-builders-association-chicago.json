@@ -1,0 +1,32 @@
+{
+  "id": "polonia-prof-other-pacba-chicago-il",
+  "country": "US",
+  "category": "other_business",
+  "name": "Polish American Contractors Builders Association",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Chicago metropolitan area",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "contractor referrals",
+    "construction professional network",
+    "Polish-American business connections"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://pacba.org/",
+  "official_source": "https://pacba.org/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Polish-American construction/contractor network useful as referral infrastructure. Do not infer language or licensing status for individual members without verification."
+  ]
+}
