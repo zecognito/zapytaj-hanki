@@ -1,0 +1,21 @@
+{
+  "id": "ia-new_resident_license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IA",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Iowa",
+  "facts": [
+    "Nowy resident powinien uzyskać stanowe driver license zgodnie z procedurą.",
+    "Wymagane są odpowiednie dokumenty identity i residency.",
+    "Dodatkowe testy zależą od sytuacji kierowcy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://iowadot.gov/mvd/driverslicense/new-iowa-residents"
+  ],
+  "related_public_pages": []
+}
