@@ -1,0 +1,21 @@
+{
+  "id": "polin-museum",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "museums",
+  "title": "Muzeum POLIN",
+  "facts": [
+    "Muzeum Historii Żydów Polskich POLIN w Warszawie przedstawia wielowiekową historię Żydów na ziemiach polskich.",
+    "Jego wystawa obejmuje okres od średniowiecza przez Zagładę po czasy powojenne.",
+    "Muzeum stoi na terenie dawnej dzielnicy żydowskiej i getta warszawskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://polin.pl/"
+  ],
+  "related_public_pages": []
+}
