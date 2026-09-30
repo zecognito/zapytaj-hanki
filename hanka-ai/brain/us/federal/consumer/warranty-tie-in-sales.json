@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-consumer-warranty-tie-in",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "consumer_protection",
+  "subtopic": "warranties",
+  "title": "Warranty and third-party parts or service",
+  "facts": [
+    "A warrantor generally may not condition warranty coverage on the consumer's use of a particular branded article or service unless the required item or service is provided free or a lawful FTC waiver applies.",
+    "Using an independent repair shop or third-party part does not automatically void an entire warranty.",
+    "A warrantor can deny coverage for damage caused by an improper repair or incompatible part when the facts support that exclusion.",
+    "Specific warranty terms and the cause of the claimed defect still matter."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/auto-warranties-and-auto-service-contracts"
+  ],
+  "related_public_pages": []
+}
