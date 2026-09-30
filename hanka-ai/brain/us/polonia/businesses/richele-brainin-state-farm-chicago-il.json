@@ -1,0 +1,36 @@
+{
+  "id": "polonia-prof-insurance-richele-brainin-chicago-il",
+  "country": "US",
+  "category": "insurance",
+  "name": "Richele Brainin State Farm Insurance Agency",
+  "status": "active",
+  "location": {
+    "address": "642 N Dearborn",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60654",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es"
+  ],
+  "services": [
+    "auto insurance",
+    "homeowners insurance",
+    "renters insurance",
+    "business insurance",
+    "life insurance",
+    "health insurance"
+  ],
+  "phone": "+1 312-751-1755",
+  "email": null,
+  "website": "https://www.richelebrainin.com/",
+  "official_source": "https://www.statefarm.com/agent/us/il/chicago/richele-brainin-sdm8m1ys000",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "State Farm's official agent page explicitly lists Polish among languages and provides agent license identifiers."
+  ]
+}
