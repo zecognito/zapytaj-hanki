@@ -1,0 +1,24 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-polish-home-rental-us-tax",
+  "subtopic": "polish_property",
+  "title": "Wynajem mieszkania lub domu w Polsce a podatek USA",
+  "facts": [
+    "U.S. citizen lub resident alien zasadniczo raportuje w USA worldwide income, więc dochód z wynajmu nieruchomości w Polsce może podlegać raportowaniu w federalnym zeznaniu USA.",
+    "Amerykańskie zasady dotyczące rental income, kosztów i depreciation stosuje się do federalnego rozliczenia niezależnie od sposobu, w jaki Polska oblicza swój podatek.",
+    "Podatek dochodowy zapłacony Polsce od kwalifikującego się dochodu może wymagać analizy Foreign Tax Credit, aby ograniczyć podwójne opodatkowanie.",
+    "Nieruchomość posiadana bezpośrednio nie jest sama w sobie zagranicznym rachunkiem bankowym; rachunki i struktury używane do jej posiadania mogą jednak powodować osobne obowiązki raportowe."
+  ],
+  "official_sources": [
+    "https://www.irs.gov/publications/p527",
+    "https://www.irs.gov/publications/p54",
+    "https://www.irs.gov/publications/p514"
+  ]
+}
