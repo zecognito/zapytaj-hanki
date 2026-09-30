@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-bankruptcy-discharge",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "bankruptcy_debt_relief",
+  "subtopic": "discharge",
+  "title": "Bankruptcy discharge - basics",
+  "facts": [
+    "A bankruptcy discharge releases the debtor from personal liability for debts covered by the discharge and generally prohibits creditors from taking collection action on those discharged debts.",
+    "Not all debts are dischargeable, and discharge rules differ among bankruptcy chapters.",
+    "A discharge generally does not automatically remove a valid lien from collateral; a secured creditor may retain rights against the property unless the lien is avoided or otherwise addressed under bankruptcy law.",
+    "A discharge can be denied or revoked in specified circumstances involving failure to comply with bankruptcy requirements or misconduct."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/discharge-bankruptcy-bankruptcy-basics"
+  ],
+  "related_public_pages": []
+}
