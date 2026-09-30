@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-credit-ncua-share-insurance",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "credit_banking",
+  "subtopic": "deposit_insurance",
+  "title": "NCUA share insurance - federal credit unions",
+  "facts": [
+    "Federally insured credit unions are insured through the National Credit Union Share Insurance Fund administered by NCUA.",
+    "The standard maximum share insurance amount is $250,000 per individual depositor, per insured credit union, for each account ownership category, subject to applicable rules.",
+    "Share insurance covers qualifying deposit/share accounts, not ordinary investment products.",
+    "Consumers can verify whether a credit union is federally insured and use NCUA tools to estimate coverage."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ncua.gov/support-services/share-insurance-fund"
+  ],
+  "related_public_pages": []
+}
