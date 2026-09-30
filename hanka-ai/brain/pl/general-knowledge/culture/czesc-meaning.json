@@ -1,0 +1,21 @@
+{
+  "id": "czesc-meaning",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "„Cześć”",
+  "facts": [
+    "„Cześć” jest powszechnym nieformalnym polskim powitaniem.",
+    "Może również służyć jako nieformalne pożegnanie.",
+    "W sytuacjach formalnych wobec nieznajomych bezpieczniejsze są zwykle formy „dzień dobry” i „do widzenia”."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/"
+  ],
+  "related_public_pages": []
+}
