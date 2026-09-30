@@ -1,0 +1,21 @@
+{
+  "id": "world-time-zones",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "global-systems",
+  "subtopic": "time",
+  "title": "Strefy czasowe świata",
+  "facts": [
+    "Czas na świecie odnosi się do UTC — uniwersalnego czasu koordynowanego.",
+    "Strefy czasowe są określane przesunięciem względem UTC, ale ich granice są ustalane politycznie i nie zawsze odpowiadają prostym pasom długości geograficznej.",
+    "Nie wszystkie strefy używają pełnych godzin przesunięcia; istnieją także przesunięcia półgodzinne i 45-minutowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bipm.org/en/time-metrology"
+  ],
+  "related_public_pages": []
+}
