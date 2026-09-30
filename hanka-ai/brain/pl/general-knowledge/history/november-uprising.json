@@ -1,0 +1,21 @@
+{
+  "id": "november-uprising",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions",
+  "title": "Powstanie listopadowe",
+  "facts": [
+    "Powstanie listopadowe rozpoczęło się w Warszawie w nocy z 29 na 30 listopada 1830 r. przeciw władzy rosyjskiej w Królestwie Polskim.",
+    "Walki trwały do 1831 r. i zakończyły się klęską powstania.",
+    "Po upadku nastąpiły represje oraz emigracja części polskich elit, znana jako Wielka Emigracja."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/a/powstanie-listopadowe/DGUkQjmPq"
+  ],
+  "related_public_pages": []
+}
