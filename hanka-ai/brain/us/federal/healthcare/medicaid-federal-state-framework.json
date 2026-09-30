@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-healthcare-medicaid-framework",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "healthcare",
+  "subtopic": "medicaid_federal_framework",
+  "title": "Medicaid - federal/state framework",
+  "facts": [
+    "Medicaid is a joint federal-state health coverage program administered by states under federal requirements.",
+    "Federal law requires states to cover certain mandatory eligibility groups and permits states to cover additional optional groups.",
+    "The ACA created an option for states to expand Medicaid coverage to a broader group of low-income adults, so adult eligibility differs materially by state.",
+    "A specific Medicaid eligibility answer requires current state rules as well as federal eligibility rules."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicaid.gov/medicaid/eligibility-policy"
+  ],
+  "related_public_pages": []
+}
