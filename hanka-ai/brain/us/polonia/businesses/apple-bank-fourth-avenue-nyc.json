@@ -1,0 +1,37 @@
+{
+  "id": "polonia-bank-apple-fourth-avenue-nyc",
+  "country": "US",
+  "category": "bank",
+  "name": "Apple Bank - 111 4th Avenue",
+  "status": "active",
+  "location": {
+    "address": "111 4th Avenue",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10003",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es"
+  ],
+  "services": [
+    "personal accounts",
+    "business accounts",
+    "mortgages",
+    "personal loans",
+    "credit cards",
+    "online banking",
+    "ATM"
+  ],
+  "phone": "+1 212-228-3020",
+  "email": null,
+  "website": "https://www.applebank.com/contact/locations/111-4th-avenue-branch",
+  "official_source": "https://www.applebank.com/contact/locations/111-4th-avenue-branch",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official Apple Bank branch page explicitly lists Polish among lobby languages."
+  ]
+}
