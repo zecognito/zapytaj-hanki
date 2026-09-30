@@ -1,0 +1,21 @@
+{
+  "id": "doggy-bag-leftovers",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "restaurant_terms",
+  "title": "Leftovers i pudełko na wynos",
+  "facts": [
+    "W USA zabranie niezjedzonej części własnego posiłku z restauracji jest powszechną praktyką.",
+    "Można poprosić o box albo container „to go”.",
+    "Określenie doggy bag jest zrozumiałe, ale w codziennej rozmowie częściej prosi się po prostu o box/container."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/consumer"
+  ],
+  "related_public_pages": []
+}
