@@ -1,0 +1,21 @@
+{
+  "id": "s8-expressway",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Droga ekspresowa S8",
+  "facts": [
+    "S8 jest jedną z głównych dróg ekspresowych Polski i ważnym korytarzem komunikacyjnym centralnej części kraju.",
+    "Łączy m.in. Wrocław, rejon Łodzi, Warszawę i Białystok poprzez system dróg ekspresowych i powiązanych odcinków.",
+    "Na terenie Warszawy S8 stanowi ważny element drogowego układu obwodnicowego i ruchu tranzytowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
