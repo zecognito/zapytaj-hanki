@@ -1,0 +1,21 @@
+{
+  "id": "poland-european-institutions-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "international",
+  "subtopic": "europe",
+  "title": "Polska w europejskich strukturach międzynarodowych",
+  "facts": [
+    "Polska uczestniczy równocześnie w kilku odrębnych europejskich strukturach międzynarodowych, których nie należy ze sobą utożsamiać.",
+    "Unia Europejska jest organizacją integracji politycznej i gospodarczej, NATO jest sojuszem obronnym, a OBWE zajmuje się szeroko rozumianym bezpieczeństwem i współpracą.",
+    "Rada Europy jest odrębną od Unii Europejskiej organizacją międzyrządową skupioną m.in. na prawach człowieka, demokracji i praworządności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/dyplomacja/organizacje-miedzynarodowe"
+  ],
+  "related_public_pages": []
+}
