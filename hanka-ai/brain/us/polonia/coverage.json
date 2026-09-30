@@ -44,13 +44,13 @@
     },
     "businesses": {
       "status": "professionals_national_expansion",
-      "records": 277,
+      "records": 293,
       "notes": [
         "Food/retail first-pass audit closed at 167 records; machine schema validation remains mandatory before ingestion.",
-        "Latest additions strengthen direct insurance and professional referral infrastructure: Maria Budny State Farm, conservative Anna Wanat State Farm lead, Polish-American Medical Society physician network, Polish-American Real Estate Professionals, Polish American Contractors Builders Association, and Polish-American Engineers Association.",
-        "Professional associations are stored as referral/discovery infrastructure, not as substitutes for individually verified providers. Membership never proves Polish-language service or current professional licensing.",
-        "Bank evidence tiers remain locked: explicit national Polish program; explicit branch-level Polish capability; generic interpreter/language assistance. Generic assistance must not be described as a dedicated Polish program.",
-        "Continue direct first-party healthcare, accounting/tax, insurance, real estate and banking discovery. Vectorize remains blocked until coverage and schema/status-aware ingestion are mature."
+        "Latest batch adds 16 current State Farm offices with explicit first-party Polish-language evidence, expanding insurance coverage across Pennsylvania, Michigan, Connecticut, Indiana, New York, New Jersey, Arizona and Illinois.",
+        "State Farm records use office-level language evidence from official agent profiles. Gerard Ciraulo NJ is supported by an official team profile identifying office representative Edyta Olic as fluent in Polish; its street address remains null until first-party confirmation.",
+        "Insurance expansion demonstrates the preferred professional pattern: authoritative current provider profile + physical location + explicit Polish capability. Continue mining similarly strong first-party sources for healthcare, accounting/tax, real estate and banking.",
+        "Bank evidence tiers remain locked. Vectorize remains blocked until coverage and schema/status-aware ingestion are mature."
       ]
     },
     "media_culture": {
