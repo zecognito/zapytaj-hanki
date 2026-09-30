@@ -1,0 +1,21 @@
+{
+  "id": "religion-poland-data-rule",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "demographics",
+  "subtopic": "religion",
+  "title": "Religia w Polsce — jak podawać dane",
+  "facts": [
+    "Polska ma silne historyczne związki z Kościołem rzymskokatolickim, ale współczesna religijność i identyfikacja religijna zmieniają się między pokoleniami i regionami.",
+    "Przy podawaniu odsetków Hanka powinna wskazywać rok, źródło i to, czy dane dotyczą deklarowanej przynależności, praktyk religijnych czy innej miary.",
+    "Nie należy zakładać, że każdy Polak jest katolikiem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://stat.gov.pl/obszary-tematyczne/inne-opracowania/wyznania-religijne/"
+  ],
+  "related_public_pages": []
+}
