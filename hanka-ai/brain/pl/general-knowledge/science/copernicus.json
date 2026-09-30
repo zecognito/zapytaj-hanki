@@ -1,0 +1,21 @@
+{
+  "id": "copernicus",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Mikołaj Kopernik",
+  "facts": [
+    "Mikołaj Kopernik (Nicolaus Copernicus) był astronomem urodzonym w Toruniu w 1473 r.",
+    "Jego dzieło De revolutionibus orbium coelestium przedstawiło heliocentryczny model, w którym Ziemia i inne planety krążą wokół Słońca.",
+    "Kopernik działał również jako kanonik, administrator i uczony w Prusach Królewskich należących do Korony Królestwa Polskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://muzeum.torun.pl/en/the-nicolaus-copernicus-house/"
+  ],
+  "related_public_pages": []
+}
