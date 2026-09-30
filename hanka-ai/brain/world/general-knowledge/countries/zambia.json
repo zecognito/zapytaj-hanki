@@ -1,0 +1,21 @@
+{
+  "id": "country-zambia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Zambia",
+  "facts": [
+    "Zambia jest śródlądowym państwem południowej Afryki, a jej stolicą jest Lusaka.",
+    "Językiem urzędowym jest angielski, a walutą kwacha zambijska.",
+    "Zambia jest republiką i ważnym producentem miedzi; na granicy z Zimbabwe znajdują się Wodospady Wiktorii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cabinet.gov.zm/"
+  ],
+  "related_public_pages": []
+}
