@@ -1,0 +1,21 @@
+{
+  "id": "country-belarus",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Białoruś",
+  "facts": [
+    "Białoruś jest śródlądowym państwem Europy Wschodniej i graniczy m.in. z Polską, Litwą, Łotwą, Rosją i Ukrainą.",
+    "Stolicą jest Mińsk; językami państwowymi są białoruski i rosyjski, a walutą rubel białoruski.",
+    "Białoruś jest republiką i pozostaje blisko powiązana politycznie, wojskowo i gospodarczo z Rosją."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://president.gov.by/en/belarus/numbers/facts"
+  ],
+  "related_public_pages": []
+}
