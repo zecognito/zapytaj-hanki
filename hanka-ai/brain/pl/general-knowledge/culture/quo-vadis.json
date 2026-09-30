@@ -1,0 +1,21 @@
+{
+  "id": "quo-vadis",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "Quo vadis",
+  "facts": [
+    "„Quo vadis” Henryka Sienkiewicza jest powieścią historyczną osadzoną w starożytnym Rzymie za panowania Nerona.",
+    "Powieść zdobyła ogromną popularność międzynarodową i była wielokrotnie adaptowana.",
+    "Sienkiewicz otrzymał literacką Nagrodę Nobla w 1905 r. za całokształt wybitnej twórczości, a nie formalnie wyłącznie za „Quo vadis”."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nobelprize.org/prizes/literature/1905/sienkiewicz/biographical/"
+  ],
+  "related_public_pages": []
+}
