@@ -1,0 +1,21 @@
+{
+  "id": "country-central-african-republic",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Republika Środkowoafrykańska",
+  "facts": [
+    "Republika Środkowoafrykańska jest śródlądowym państwem położonym w centrum Afryki.",
+    "Stolicą jest Bangi, językami urzędowymi są francuski i sango, a walutą frank CFA Afryki Środkowej.",
+    "Kraj posiada znaczne zasoby naturalne, ale od lat doświadcza konfliktów i poważnej niestabilności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://minusca.unmissions.org/en"
+  ],
+  "related_public_pages": []
+}
