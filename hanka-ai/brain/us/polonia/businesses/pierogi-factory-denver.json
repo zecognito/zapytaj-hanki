@@ -1,0 +1,37 @@
+{
+  "id": "polonia-business-pierogi-factory-denver",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Pierogi Factory",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "7961 W Mississippi Ave",
+    "city": "Lakewood",
+    "state": "CO",
+    "postal_code": "80226",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 303-985-3344",
+  "email": null,
+  "website": "https://www.pierogifactory.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "pierogi",
+    "takeout"
+  ],
+  "coverage_area": [
+    "Lakewood",
+    "CO"
+  ],
+  "notes": [
+    "Polish-food relevance supported by current business or Polonia-community source. Incomplete location/contact fields are intentionally left null rather than inferred; reverification required."
+  ],
+  "official_source": "https://www.pierogifactory.com/",
+  "last_verified": "2026-09-30"
+}
