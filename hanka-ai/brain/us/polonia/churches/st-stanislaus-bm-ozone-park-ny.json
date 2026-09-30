@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-stanislaus-bm-ozone-park-ny",
+  "country": "US",
+  "category": "church",
+  "name": "St. Stanislaus Bishop and Martyr Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "88-10 102nd Ave",
+    "city": "Ozone Park",
+    "state": "NY",
+    "postal_code": "11416",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 718 845 3691",
+  "email": null,
+  "website": "https://ststanislaus-queens.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "NY"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://ststanislaus-queens.org",
+  "last_verified": "2026-09-30"
+}
