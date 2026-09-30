@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-smakosz-restaurant-garfield-nj",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Smakosz Restaurant",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "73 Main St",
+    "city": "Garfield",
+    "state": "NJ",
+    "postal_code": "07026",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 201-421-0955",
+  "email": null,
+  "website": "https://tasteofsmakosz.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Garfield",
+    "NJ"
+  ],
+  "notes": [
+    "Commercial directory record. Business status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://tasteofsmakosz.com/",
+  "last_verified": "2026-09-30"
+}
