@@ -1,0 +1,21 @@
+{
+  "id": "ut-child_support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "UT",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Utah",
+  "facts": [
+    "Stanowe przepisy określają zasady w tym obszarze.",
+    "Szczegóły zależą od konkretnej sytuacji i aktualnych wymagań.",
+    "Należy sprawdzić aktualne informacje właściwej agencji lub tekst prawa stanowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ors.utah.gov/child-support/"
+  ],
+  "related_public_pages": []
+}
