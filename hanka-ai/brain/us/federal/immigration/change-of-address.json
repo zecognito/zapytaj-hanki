@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-immigration-change-of-address",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "immigration",
+  "subtopic": "change_of_address",
+  "title": "USCIS change of address",
+  "facts": [
+    "Most non-U.S. citizens in the United States must report a change of address to USCIS within 10 days of moving.",
+    "Changing an address with the U.S. Postal Service does not update the address with USCIS.",
+    "USCIS recommends using the online change-of-address process when available; changing the address for a pending case helps ensure notices go to the correct address.",
+    "Some categories are subject to different procedures or exceptions."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscis.gov/addresschange"
+  ],
+  "related_public_pages": []
+}
