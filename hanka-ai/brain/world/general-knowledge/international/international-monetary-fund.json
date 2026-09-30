@@ -1,0 +1,21 @@
+{
+  "id": "international-monetary-fund",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "international",
+  "subtopic": "organizations",
+  "title": "Międzynarodowy Fundusz Walutowy — MFW",
+  "facts": [
+    "Międzynarodowy Fundusz Walutowy (MFW, IMF) jest organizacją międzynarodową wspierającą stabilność systemu monetarnego i finansowego.",
+    "MFW monitoruje gospodarki państw, udziela pomocy finansowej krajom z problemami bilansu płatniczego i zapewnia pomoc techniczną.",
+    "Siedziba MFW znajduje się w Waszyngtonie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.imf.org/en/About"
+  ],
+  "related_public_pages": []
+}
