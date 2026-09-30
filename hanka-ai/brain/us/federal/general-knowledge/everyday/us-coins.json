@@ -1,0 +1,21 @@
+{
+  "id": "us-coins",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "money",
+  "subtopic": "coins",
+  "title": "Monety w USA",
+  "facts": [
+    "Najczęstsze monety obiegowe to penny 1¢, nickel 5¢, dime 10¢ i quarter 25¢.",
+    "Half dollar ma 50¢, a dollar coins mają wartość $1, choć w codziennym obiegu spotyka się je rzadziej.",
+    "Nazwy nickel, dime i quarter są powszechnym codziennym słownictwem i nie pokazują wartości liczbowej w nazwie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usmint.gov/learn/coins-and-medals/circulating-coins"
+  ],
+  "related_public_pages": []
+}
