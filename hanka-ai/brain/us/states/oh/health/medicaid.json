@@ -1,0 +1,21 @@
+{
+  "id": "oh-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OH",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Medicaid w Ohio",
+  "facts": [
+    "Ohio Medicaid zapewnia health coverage kwalifikującym się mieszkańcom.",
+    "Program obejmuje różne grupy eligibility, w tym kwalifikujących się dorosłych, dzieci, kobiety w ciąży, seniorów i osoby z disabilities.",
+    "Wnioski i eligibility są obsługiwane poprzez systemy Ohio oraz county agencies zgodnie z kategorią programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://medicaid.ohio.gov/families-and-individuals"
+  ],
+  "related_public_pages": []
+}
