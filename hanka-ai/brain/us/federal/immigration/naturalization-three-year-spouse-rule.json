@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-immigration-naturalization-three-year-spouse-rule",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "immigration",
+  "subtopic": "naturalization",
+  "title": "Naturalization - 3-year spouse rule",
+  "facts": [
+    "Certain lawful permanent residents living in qualifying marital union with a U.S. citizen may qualify for naturalization after 3 years of permanent residence.",
+    "This path has additional marriage and citizenship requirements.",
+    "It generally requires at least 18 months of physical presence in the United States during the 3 years before filing.",
+    "Eligible applicants may use the 90-day early-filing rule for the continuous-residence period."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscis.gov/policy-manual/volume-12-part-g-chapter-3",
+    "https://www.uscis.gov/n-400"
+  ],
+  "related_public_pages": []
+}
