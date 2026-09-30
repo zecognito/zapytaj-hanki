@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-travel-passport-validity-destination",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "travel_border",
+  "subtopic": "international_travel",
+  "title": "Passport validity for international travel",
+  "facts": [
+    "There is no single worldwide rule that every country requires exactly six months of passport validity for every traveler.",
+    "Destination countries set their own passport-validity and blank-page requirements, and airlines can enforce documentation requirements before boarding.",
+    "U.S. travelers should check the State Department destination page for the specific country before departure.",
+    "A passport can be valid under U.S. issuance rules yet still have insufficient remaining validity for a particular destination."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages.html"
+  ],
+  "related_public_pages": []
+}
