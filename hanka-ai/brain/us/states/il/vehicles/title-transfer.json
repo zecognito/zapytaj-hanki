@@ -1,0 +1,22 @@
+{
+  "id": "il-vehicle-title-transfer",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "vehicles",
+  "subtopic": "title_transfer",
+  "title": "Illinois vehicle title transfer basics",
+  "facts": [
+    "Illinois vehicle ownership changes generally require an application for vehicle transaction, title documentation and applicable taxes and fees.",
+    "A standard Illinois certificate-of-title fee is $165.",
+    "Illinois Secretary of State rules should be checked for inherited, gifted, out-of-state and lien-related title situations because required documents differ."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ilsos.gov/departments/vehicles/title-and-registration.html",
+    "https://www.ilsos.gov/departments/vehicles/faq.html"
+  ],
+  "related_public_pages": []
+}
