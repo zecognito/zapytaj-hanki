@@ -1,0 +1,25 @@
+{
+  "id": "us-federal-estimated-tax-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "estimated_taxes",
+  "title": "Federal estimated tax — zasady i terminy 2026",
+  "facts": [
+    "W większości przypadków estimated tax za 2026 jest wymagany, jeśli podatnik spodziewa się co najmniej $1,000 podatku do zapłaty po odjęciu withholding i tax credits oraz withholding i credits będą niższe od odpowiedniego safe-harbor amount.",
+    "Ogólny safe harbor opiera się na mniejszej z kwot: 90% przewidywanego podatku za 2026 albo 100% podatku wykazanego za 2025, jeśli zeznanie za 2025 obejmowało pełne 12 miesięcy.",
+    "Dla wyższych dochodów próg prior-year safe harbor wynosi zasadniczo 110% zamiast 100%, gdy AGI za 2025 przekracza $150,000 albo $75,000 przy Married Filing Separately.",
+    "Terminy rat estimated tax za 2026 dla calendar-year taxpayer to 15 kwietnia 2026, 15 czerwca 2026, 15 września 2026 i 15 stycznia 2027.",
+    "Jeśli termin przypada w sobotę, niedzielę lub legal holiday, termin przesuwa się na następny dzień, który nie jest sobotą, niedzielą ani legal holiday.",
+    "Osoba bez tax liability za 2025 nie musi płacić estimated tax za 2026, jeśli była U.S. citizen lub resident alien przez cały 2025 i jej rok podatkowy 2025 obejmował 12 miesięcy."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/publications/p505",
+    "https://www.irs.gov/faqs/estimated-tax"
+  ],
+  "related_public_pages": []
+}
