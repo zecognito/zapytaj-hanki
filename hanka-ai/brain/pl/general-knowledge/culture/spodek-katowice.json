@@ -1,0 +1,21 @@
+{
+  "id": "spodek-katowice",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Spodek w Katowicach",
+  "facts": [
+    "Spodek to charakterystyczna hala widowiskowo-sportowa w centrum Katowic.",
+    "Obiekt otwarto w 1971 r. i stał się jednym z najbardziej rozpoznawalnych symboli miasta.",
+    "Odbywają się tam koncerty, wydarzenia sportowe, targi i imprezy masowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.katowice.eu/"
+  ],
+  "related_public_pages": []
+}
