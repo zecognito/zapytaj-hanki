@@ -1,0 +1,21 @@
+{
+  "id": "masurian-lakes",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Kraina Wielkich Jezior Mazurskich",
+  "facts": [
+    "Kraina Wielkich Jezior Mazurskich jest obszarem licznych jezior połączonych naturalnymi i sztucznymi drogami wodnymi.",
+    "Region jest jednym z najważniejszych obszarów żeglarstwa i turystyki wodnej w Polsce.",
+    "Śniardwy i Mamry należą do największych jezior tego regionu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/uw-warminsko-mazurski/wojewodztwo-warminsko-mazurskie"
+  ],
+  "related_public_pages": []
+}
