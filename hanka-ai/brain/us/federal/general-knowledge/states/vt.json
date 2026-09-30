@@ -1,0 +1,23 @@
+{
+  "id": "vt-state-profile",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "state_profile",
+  "title": "Vermont — podstawowe informacje o stanie",
+  "facts": [
+    "Vermont: stolica Montpelier; kod pocztowy USPS VT.",
+    "W podziale Census Bureau: region Northeast, division New England.",
+    "Data statehood/przyjęcia do Unii: 1791-03-04.",
+    "Przy populacji należy podawać rok i Vintage Census Population Estimates."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/states-and-territories",
+    "https://www.census.gov/programs-surveys/popest/guidance-geographies/terms-and-definitions.html"
+  ],
+  "related_public_pages": []
+}
