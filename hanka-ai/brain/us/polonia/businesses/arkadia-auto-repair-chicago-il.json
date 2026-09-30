@@ -1,0 +1,36 @@
+{
+  "id": "polonia-prof-mechanic-arkadia-chicago-il",
+  "country": "US",
+  "category": "mechanic",
+  "name": "Arkadia Auto Repair",
+  "status": "active",
+  "location": {
+    "address": "5655 W Grand Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60639",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "auto repair",
+    "wheel alignment",
+    "brakes",
+    "air conditioning and heating",
+    "electrical diagnostics",
+    "exhaust",
+    "maintenance"
+  ],
+  "phone": "+1 773-622-0698",
+  "email": null,
+  "website": "https://www.arkadiaautorepair.com/",
+  "official_source": "https://www.arkadiaautorepair.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official shop site explicitly states Mówimy po Polsku and lists current Chicago address and repair services."
+  ]
+}
