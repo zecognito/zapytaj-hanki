@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-medicare-part-d-costs-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "medicare",
+  "subtopic": "part_d",
+  "title": "Medicare Part D — koszty i limit 2026",
+  "facts": [
+    "Part D premium zależy od wybranego planu; osoby z wyższym dochodem mogą dodatkowo płacić Part D IRMAA.",
+    "W 2026 maksymalny deductible, jaki Part D plan może pobrać, wynosi $615.",
+    "W 2026 annual out-of-pocket threshold dla covered Part D drugs wynosi $2,100; po osiągnięciu tego poziomu osoba nie płaci copay ani coinsurance za covered Part D drugs przez resztę roku.",
+    "Nie wszystkie wydatki na leki liczą się do Part D out-of-pocket threshold; obowiązują zasady Medicare dotyczące TrOOP."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicare.gov/basics/costs/medicare-costs",
+    "https://www.cms.gov/files/document/2026-announcement.pdf"
+  ],
+  "related_public_pages": []
+}
