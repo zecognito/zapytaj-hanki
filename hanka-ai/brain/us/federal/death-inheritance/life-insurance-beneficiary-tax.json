@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-death-life-insurance-tax",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "death_inheritance",
+  "subtopic": "beneficiaries",
+  "title": "Life insurance proceeds - federal income tax basics",
+  "facts": [
+    "Life insurance death proceeds paid to a beneficiary because of the insured person's death are generally excluded from the beneficiary's federal gross income.",
+    "Interest paid on retained or delayed life-insurance proceeds is generally taxable.",
+    "Different tax rules can apply to transfers of policies for value and other special circumstances.",
+    "Estate-tax inclusion is a separate issue from whether the beneficiary owes federal income tax on the death benefit."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/help/ita/are-the-life-insurance-proceeds-i-received-taxable"
+  ],
+  "related_public_pages": []
+}
