@@ -1,0 +1,21 @@
+{
+  "id": "biala-podlaska-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Biała Podlaska",
+  "facts": [
+    "Biała Podlaska jest miastem we wschodniej Polsce, w województwie lubelskim.",
+    "Historycznie była związana m.in. z rodem Radziwiłłów.",
+    "Jest regionalnym ośrodkiem usługowym i komunikacyjnym w pobliżu wschodniej granicy Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bialapodlaska.pl/"
+  ],
+  "related_public_pages": []
+}
