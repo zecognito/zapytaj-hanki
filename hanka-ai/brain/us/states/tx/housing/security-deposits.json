@@ -1,0 +1,21 @@
+{
+  "id": "tx-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TX",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w Teksasie",
+  "facts": [
+    "Texas Property Code reguluje zwrot residential security deposit i dozwolone potrącenia.",
+    "Landlord zasadniczo musi zwrócić security deposit nie później niż 30 dni po surrender of premises, z zastrzeżeniem wymagań prawa.",
+    "Landlord może potrącić kwoty za szkody i opłaty, za które tenant jest prawnie odpowiedzialny, ale nie za normal wear and tear."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.92.htm"
+  ],
+  "related_public_pages": []
+}
