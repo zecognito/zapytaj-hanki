@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-988-vs-911",
+  "subtopic": "emergency_services",
+  "title": "988 a 911",
+  "facts": [
+    "988 Suicide & Crisis Lifeline zapewnia całodobowy kontakt telefoniczny, tekstowy i chat dla osób w kryzysie psychicznym, emocjonalnym lub związanym z używaniem substancji.",
+    "988 i 911 pełnią różne funkcje: 911 służy do nagłych sytuacji wymagających bezpośredniej reakcji służb ratunkowych, a 988 koncentruje się na wsparciu kryzysowym.",
+    "988 jest dostępne w całych USA i terytoriach objętych systemem zgodnie z federalnym wdrożeniem numeru."
+  ],
+  "official_sources": [
+    "https://www.samhsa.gov/find-help/988",
+    "https://www.fcc.gov/988-suicide-and-crisis-lifeline"
+  ]
+}
