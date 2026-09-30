@@ -1,0 +1,21 @@
+{
+  "id": "ca-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CA",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Kalifornii",
+  "facts": [
+    "California child support services pomagają m.in. ustalać parentage, uzyskiwać support orders i egzekwować płatności.",
+    "Local child support agencies działają w counties pod stanowym systemem California Child Support Services.",
+    "Wysokość support jest ustalana zgodnie z statewide guideline i faktami konkretnej sprawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://childsupport.ca.gov/"
+  ],
+  "related_public_pages": []
+}
