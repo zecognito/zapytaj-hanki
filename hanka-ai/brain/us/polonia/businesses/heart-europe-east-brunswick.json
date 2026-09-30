@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-heart-europe-east-brunswick",
+  "country": "US",
+  "category": "store",
+  "name": "Heart of Europe Polish Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1020 NJ-18",
+    "city": "East Brunswick",
+    "state": "NJ",
+    "postal_code": "08816",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 732-955-6513",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "East Brunswick",
+    "NJ"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://polish-eats.com/chicago-delis/",
+  "last_verified": "2026-09-30"
+}
