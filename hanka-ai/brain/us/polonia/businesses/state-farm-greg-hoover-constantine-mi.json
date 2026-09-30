@@ -1,0 +1,34 @@
+{
+  "id": "polonia-insurance-statefarm-hoover-constantine-mi",
+  "country": "US",
+  "category": "insurance",
+  "name": "Greg Hoover - State Farm",
+  "status": "active",
+  "location": {
+    "address": "1055 S Washington Street",
+    "city": "Constantine",
+    "state": "MI",
+    "postal_code": "49042",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "auto insurance",
+    "homeowners insurance",
+    "renters insurance",
+    "life insurance",
+    "business insurance"
+  ],
+  "phone": "269-435-4515",
+  "email": null,
+  "website": "https://www.statefarm.com/agent/us/mi/constantine/greg-hoover-cckrh4cl000",
+  "official_source": "https://www.statefarm.com/agent/us/mi/constantine/greg-hoover-cckrh4cl000",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official State Farm office profile explicitly lists Polish among office languages."
+  ]
+}
