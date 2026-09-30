@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-kopernik-mahwah-nj",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła Dokształcająca im. Mikołaja Kopernika",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "47 Island Rd",
+    "city": "Mahwah",
+    "state": "NJ",
+    "postal_code": "07430",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 973 647 0580",
+  "email": "chorazy4@o2.pl",
+  "website": "http://polskaszkolawmahwah.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "NJ"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; enrollment and current class offerings should be confirmed directly with the school."
+  ],
+  "official_source": "https://www.centralapolskichszkol.org/index.php/new-jersey/",
+  "last_verified": "2026-09-30"
+}
