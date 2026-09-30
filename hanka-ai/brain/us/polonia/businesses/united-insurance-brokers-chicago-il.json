@@ -1,0 +1,34 @@
+{
+  "id": "polonia-prof-insurance-united-brokers-chicago-il",
+  "country": "US",
+  "category": "insurance",
+  "name": "United Insurance Brokers",
+  "status": "active",
+  "location": {
+    "address": "5680 N Milwaukee Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60646",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "auto insurance",
+    "home insurance",
+    "health insurance",
+    "life insurance",
+    "business insurance"
+  ],
+  "phone": "+1 773-775-0303",
+  "email": "info@uibchicago.com",
+  "website": "https://www.uibchicago.com/",
+  "official_source": "https://www.uibchicago.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official agency site explicitly states Mowimy po Polsku and provides Chicago office/contact details."
+  ]
+}
