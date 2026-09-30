@@ -1,0 +1,21 @@
+{
+  "id": "mo-property-tax-credit",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MO",
+  "topic": "taxes",
+  "subtopic": "state_specific_high_value",
+  "title": "Missouri Property Tax Credit",
+  "facts": [
+    "Stan oferuje ulgę lub zwolnienie dotyczące kwalifikującej się nieruchomości mieszkalnej albo podatku od nieruchomości.",
+    "Eligibility, sposób złożenia wniosku i wartość ulgi zależą od programu oraz sytuacji właściciela.",
+    "Aktualne limity i procedury należy sprawdzać dla właściwego roku podatkowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dor.mo.gov/tax-credits/ptc.html"
+  ],
+  "related_public_pages": []
+}
