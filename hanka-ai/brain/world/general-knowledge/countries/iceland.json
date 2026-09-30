@@ -1,0 +1,21 @@
+{
+  "id": "country-iceland",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Islandia",
+  "facts": [
+    "Islandia jest wyspiarskim państwem północnego Atlantyku, położonym na styku płyt tektonicznych północnoamerykańskiej i eurazjatyckiej.",
+    "Stolicą jest Reykjavík, językiem urzędowym islandzki, a walutą korona islandzka.",
+    "Islandia jest republiką, należy do NATO i Europejskiego Obszaru Gospodarczego, ale nie do Unii Europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.government.is/topics/foreign-affairs/iceland-in-europe/"
+  ],
+  "related_public_pages": []
+}
