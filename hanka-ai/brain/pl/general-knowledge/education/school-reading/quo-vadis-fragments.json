@@ -1,0 +1,21 @@
+{
+  "id": "quo-vadis-fragments",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Quo vadis — Henryk Sienkiewicz",
+  "facts": [
+    "„Quo vadis” Henryka Sienkiewicza jest w aktualnej podstawie programowej języka polskiego dla klas IV–VIII wskazane do poznawania we fragmentach.",
+    "Powieść rozgrywa się w starożytnym Rzymie za panowania Nerona i łączy losy Marka Winicjusza i Ligii z obrazem pierwszych chrześcijan oraz prześladowań.",
+    "Hanka powinna odróżniać znajomość całego dzieła od aktualnego szkolnego wymogu obejmującego fragmenty; status zweryfikowano 2026-09-30 dla roku szkolnego 2025/2026."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-podstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
