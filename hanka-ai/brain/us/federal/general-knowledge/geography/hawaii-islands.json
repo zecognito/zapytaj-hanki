@@ -1,0 +1,21 @@
+{
+  "id": "hawaii-islands",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "alaska_hawaii",
+  "title": "Hawaii — archipelag",
+  "facts": [
+    "Hawaii jest stanem złożonym z archipelagu na central Pacific i jedynym stanem USA położonym w całości na wyspach.",
+    "Główne zamieszkane wyspy obejmują Hawaiʻi, Maui, Oʻahu, Kauaʻi, Molokaʻi i Lānaʻi.",
+    "Honolulu, stolica stanu, znajduje się na Oʻahu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usgs.gov/observatories/hvo/science/geology-and-history-hawaii"
+  ],
+  "related_public_pages": []
+}
