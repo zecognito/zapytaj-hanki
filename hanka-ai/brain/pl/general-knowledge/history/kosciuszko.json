@@ -1,0 +1,21 @@
+{
+  "id": "kosciuszko",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "people",
+  "title": "Tadeusz Kościuszko",
+  "facts": [
+    "Tadeusz Kościuszko był polskim i amerykańskim bohaterem wojskowym związanym z walką o niepodległość obu krajów.",
+    "Służył jako inżynier w Continental Army podczas American Revolutionary War i przyczynił się do fortyfikacji m.in. West Point.",
+    "W 1794 r. stanął na czele insurekcji przeciw dominacji rosyjskiej i pruskiej w Rzeczypospolitej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/thko/learn/historyculture/tadeusz-kosciuszko.htm"
+  ],
+  "related_public_pages": []
+}
