@@ -1,0 +1,21 @@
+{
+  "id": "nh-interest-dividends-tax-repeal",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NH",
+  "topic": "taxes",
+  "subtopic": "state_specific_high_value",
+  "title": "Interest and Dividends Tax w New Hampshire",
+  "facts": [
+    "To ważny program lub reguła specyficzna dla tej jurysdykcji.",
+    "Eligibility, zakres ochrony lub skutki podatkowe zależą od aktualnych zasad.",
+    "Przed podjęciem działania należy sprawdzić bieżące wymagania i daty w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.revenue.nh.gov/taxes-glance/interest-dividends-tax"
+  ],
+  "related_public_pages": []
+}
