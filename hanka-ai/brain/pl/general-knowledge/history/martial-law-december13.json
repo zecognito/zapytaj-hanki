@@ -1,0 +1,21 @@
+{
+  "id": "martial-law-december13",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "communist_period",
+  "title": "13 grudnia 1981 — stan wojenny",
+  "facts": [
+    "Stan wojenny został wprowadzony w Polsce 13 grudnia 1981 r. przez władze komunistyczne.",
+    "Internowano tysiące działaczy Solidarności i innych przeciwników władz, ograniczono swobody obywatelskie i użyto wojska oraz aparatu bezpieczeństwa.",
+    "Stan wojenny został zawieszony pod koniec 1982 r. i formalnie zniesiony w lipcu 1983 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
