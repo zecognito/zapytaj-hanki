@@ -1,0 +1,21 @@
+{
+  "id": "thirteen-colonies",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "history",
+  "subtopic": "early_us",
+  "title": "Thirteen Colonies",
+  "facts": [
+    "Pierwotne trzynaście brytyjskich kolonii, które ogłosiły niepodległość, znajdowało się na wschodnim wybrzeżu Ameryki Północnej.",
+    "Były to: New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina i Georgia.",
+    "Po wojnie o niepodległość stały się podstawą nowego państwa amerykańskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.archives.gov/founding-docs/declaration-transcript"
+  ],
+  "related_public_pages": []
+}
