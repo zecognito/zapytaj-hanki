@@ -1,0 +1,21 @@
+{
+  "id": "country-democratic-republic-congo",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Demokratyczna Republika Konga",
+  "facts": [
+    "Demokratyczna Republika Konga leży w Afryce Środkowej i jest jednym z największych państw kontynentu pod względem powierzchni.",
+    "Stolicą jest Kinszasa, językiem urzędowym francuski, a walutą frank kongijski.",
+    "Kraj posiada ogromne zasoby mineralne i obejmuje znaczną część dorzecza oraz lasów deszczowych Konga."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://presidence.cd/"
+  ],
+  "related_public_pages": []
+}
