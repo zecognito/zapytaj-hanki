@@ -1,0 +1,21 @@
+{
+  "id": "country-solomon-islands",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Wyspy Salomona",
+  "facts": [
+    "Wyspy Salomona są państwem archipelagowym Melanezji na południowym Pacyfiku, na wschód od Papui-Nowej Gwinei.",
+    "Stolicą jest Honiara, językiem urzędowym angielski, a walutą dolar Wysp Salomona.",
+    "Wyspy Salomona są monarchią konstytucyjną i członkiem Wspólnoty Narodów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://solomons.gov.sb/"
+  ],
+  "related_public_pages": []
+}
