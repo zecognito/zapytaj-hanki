@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-us-citizen-living-poland-tax-filing",
+  "subtopic": "moving_to_poland",
+  "title": "Obywatel USA mieszkający w Polsce: federalne rozliczenie USA",
+  "facts": [
+    "Obywatel USA mieszkający w Polsce zasadniczo nadal podlega federalnym zasadom USA dotyczącym worldwide income i musi ocenić obowiązek złożenia Form 1040 według amerykańskich progów i reguł.",
+    "Płacenie podatku w Polsce nie znosi automatycznie obowiązku złożenia federalnego zeznania USA; ulgę od podwójnego opodatkowania mogą zapewniać m.in. Foreign Tax Credit, Foreign Earned Income Exclusion oraz właściwe postanowienia traktatu.",
+    "Obowiązek złożenia zeznania i faktyczny podatek do zapłaty to dwie różne kwestie."
+  ],
+  "official_sources": [
+    "https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-about-international-individual-tax-matters",
+    "https://www.irs.gov/publications/p54"
+  ]
+}
