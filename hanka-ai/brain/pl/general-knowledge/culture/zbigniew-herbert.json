@@ -1,0 +1,21 @@
+{
+  "id": "zbigniew-herbert",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "Zbigniew Herbert",
+  "facts": [
+    "Zbigniew Herbert był jednym z najważniejszych polskich poetów i eseistów XX wieku.",
+    "Do najbardziej rozpoznawalnych elementów jego twórczości należy cykl związany z postacią Pana Cogito.",
+    "Jego poezja często podejmuje tematy etyki, historii, odpowiedzialności i kultury europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/zbigniew-herbert"
+  ],
+  "related_public_pages": []
+}
