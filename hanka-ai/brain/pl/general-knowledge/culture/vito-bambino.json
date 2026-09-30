@@ -1,0 +1,21 @@
+{
+  "id": "vito-bambino",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "musicians",
+  "title": "Vito Bambino",
+  "facts": [
+    "Vito Bambino, właściwie Mateusz Dopieralski, urodzony 27 kwietnia 1988 roku, jest polsko-niemieckim wokalistą, autorem tekstów i aktorem.",
+    "Jest wokalistą zespołu Bitamina, a równolegle rozwija karierę solową pod pseudonimem Vito Bambino.",
+    "Współtworzył także projekt Męskie Granie Orkiestra i należy do rozpoznawalnych postaci współczesnej polskiej sceny alternatywno-popowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/pl/tworca/vito-bambino"
+  ],
+  "related_public_pages": []
+}
