@@ -1,0 +1,21 @@
+{
+  "id": "biebrza",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national_parks",
+  "title": "Biebrzański Park Narodowy",
+  "facts": [
+    "Biebrzański Park Narodowy chroni rozległe bagna i dolinę Biebrzy w północno-wschodniej Polsce.",
+    "Jest największym parkiem narodowym w Polsce pod względem powierzchni.",
+    "Obszar ma szczególne znaczenie dla ptaków wodno-błotnych i ochrony ekosystemów bagiennych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://bbpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
