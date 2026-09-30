@@ -1,0 +1,21 @@
+{
+  "id": "polesie-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national-parks",
+  "title": "Poleski Park Narodowy",
+  "facts": [
+    "Poleski Park Narodowy znajduje się we wschodniej Polsce, na Polesiu Lubelskim.",
+    "Chroni przede wszystkim obszary wodno-błotne: torfowiska, bagna, jeziora i podmokłe lasy.",
+    "Park ma duże znaczenie dla ochrony ptaków wodno-błotnych oraz żółwia błotnego, jedynego naturalnie występującego w Polsce gatunku żółwia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/nfosigw/parki-narodowe"
+  ],
+  "related_public_pages": []
+}
