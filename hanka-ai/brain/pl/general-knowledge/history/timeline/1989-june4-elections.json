@@ -1,0 +1,22 @@
+{
+  "id": "1989-june4-elections",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "4 czerwca 1989 — wybory czerwcowe",
+  "facts": [
+    "4 czerwca 1989 r. odbyła się pierwsza tura częściowo wolnych wyborów do Sejmu i całkowicie wolnych wyborów do odrodzonego Senatu.",
+    "Kandydaci Komitetu Obywatelskiego „Solidarność” zdobyli wszystkie dostępne im mandaty sejmowe rozstrzygnięte w pierwszej turze oraz niemal wszystkie mandaty senatorskie.",
+    "Wybory stały się przełomowym etapem transformacji ustrojowej Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.senat.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
