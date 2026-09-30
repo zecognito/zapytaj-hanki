@@ -1,0 +1,21 @@
+{
+  "id": "nikiszowiec",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Nikiszowiec",
+  "facts": [
+    "Nikiszowiec to historyczne osiedle robotnicze w Katowicach zbudowane dla rodzin górniczych na początku XX wieku.",
+    "Charakterystyczna ceglana zabudowa tworzy jeden z najbardziej rozpoznawalnych zespołów urbanistycznych Górnego Śląska.",
+    "Osiedle jest Pomnikiem Historii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.katowice.eu/"
+  ],
+  "related_public_pages": []
+}
