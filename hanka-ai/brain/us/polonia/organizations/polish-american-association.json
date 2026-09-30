@@ -1,0 +1,35 @@
+{
+  "id": "polonia-org-polish-american-association",
+  "country": "US",
+  "category": "organization",
+  "name": "Polish American Association",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": "https://www.polish.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Social services and community support"
+  ],
+  "coverage_area": [
+    "IL",
+    "US"
+  ],
+  "notes": [
+    "Listed among Polish institutions operating in the United States by the Embassy of the Republic of Poland; program/contact details should be refreshed periodically."
+  ],
+  "official_source": "https://www.polish.org/",
+  "last_verified": "2026-09-30"
+}
