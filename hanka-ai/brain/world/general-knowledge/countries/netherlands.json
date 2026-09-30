@@ -1,0 +1,21 @@
+{
+  "id": "country-netherlands",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Niderlandy",
+  "facts": [
+    "Niderlandy leżą w Europie Zachodniej nad Morzem Północnym.",
+    "Konstytucyjną stolicą jest Amsterdam, natomiast rząd i parlament mają siedzibę w Hadze.",
+    "Niderlandy są monarchią konstytucyjną, należą do UE i NATO oraz używają euro."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.government.nl/topics/constitution-and-democracy"
+  ],
+  "related_public_pages": []
+}
