@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-broadway-market-buffalo-polish",
+  "country": "US",
+  "category": "store",
+  "name": "Broadway Market - Polish food vendors",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "999 Broadway",
+    "city": "Buffalo",
+    "state": "NY",
+    "postal_code": "14212",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 716-893-0705",
+  "email": null,
+  "website": "https://broadwaymarket.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/specialty foods"
+  ],
+  "coverage_area": [
+    "Buffalo",
+    "NY"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://broadwaymarket.org/",
+  "last_verified": "2026-09-30"
+}
