@@ -1,0 +1,21 @@
+{
+  "id": "country-panama",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Panama",
+  "facts": [
+    "Panama leży na przesmyku łączącym Amerykę Północną i Południową, a jej stolicą jest Panama.",
+    "Językiem urzędowym jest hiszpański; balboa i dolar amerykański funkcjonują w systemie monetarnym kraju.",
+    "Kanał Panamski łączy Atlantyk z Pacyfikiem i jest jednym z najważniejszych szlaków żeglugowych świata."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.presidencia.gob.pa/"
+  ],
+  "related_public_pages": []
+}
