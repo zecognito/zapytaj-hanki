@@ -1,0 +1,21 @@
+{
+  "id": "tornado-alley-not-official-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "weather",
+  "subtopic": "climate_geography",
+  "title": "Co to jest Tornado Alley?",
+  "facts": [
+    "Tornado Alley jest potocznym określeniem części USA kojarzonej z częstymi tornadami.",
+    "Nie ma jednej oficjalnej federalnej granicy Tornado Alley, a ryzyko tornad występuje w wielu regionach USA.",
+    "NOAA/NWS zalecają opierać ocenę ryzyka na lokalnych danych i ostrzeżeniach, a nie na samej etykiecie regionu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nssl.noaa.gov/education/svrwx101/tornadoes/"
+  ],
+  "related_public_pages": []
+}
