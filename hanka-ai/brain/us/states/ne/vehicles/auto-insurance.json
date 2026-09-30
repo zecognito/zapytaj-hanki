@@ -1,0 +1,21 @@
+{
+  "id": "ne-auto_insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NE",
+  "topic": "vehicles",
+  "subtopic": "auto_insurance",
+  "title": "Ubezpieczenie samochodu w Nebraska",
+  "facts": [
+    "Stan prowadzi lub reguluje ten program albo obowiązek zgodnie z własnymi przepisami.",
+    "Eligibility, wymagania lub procedura zależą od konkretnej sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle stanowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://doi.nebraska.gov/report-fake-auto-insurance-id-cards"
+  ],
+  "related_public_pages": []
+}
