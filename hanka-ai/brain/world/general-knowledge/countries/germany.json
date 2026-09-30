@@ -1,0 +1,21 @@
+{
+  "id": "country-germany",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Niemcy",
+  "facts": [
+    "Niemcy leżą w Europie Środkowej i graniczą z dziewięcioma państwami, w tym z Polską.",
+    "Stolicą jest Berlin, językiem urzędowym niemiecki, a walutą euro.",
+    "Niemcy są republiką federalną, członkiem UE i NATO oraz największą gospodarką Unii Europejskiej według nominalnego PKB."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bundesregierung.de/breg-en"
+  ],
+  "related_public_pages": []
+}
