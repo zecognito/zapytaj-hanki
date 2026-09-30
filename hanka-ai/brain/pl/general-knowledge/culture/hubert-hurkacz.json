@@ -1,0 +1,21 @@
+{
+  "id": "hubert-hurkacz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "modern-sports",
+  "title": "Hubert Hurkacz",
+  "facts": [
+    "Hubert Hurkacz jest polskim tenisistą.",
+    "Wygrał turnieje cyklu ATP i należał do światowej czołówki singla.",
+    "W 2021 r. dotarł do półfinału Wimbledonu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.atptour.com/"
+  ],
+  "related_public_pages": []
+}
