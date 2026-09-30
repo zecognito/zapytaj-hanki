@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-janosik-linden-nj",
+  "country": "US",
+  "category": "store",
+  "name": "Janosik Food Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "11 East Price Street",
+    "city": "Linden",
+    "state": "NJ",
+    "postal_code": "07036",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 908-275-3674",
+  "email": null,
+  "website": "https://janosikfoodmarket.com/en/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Linden",
+    "NJ"
+  ],
+  "notes": [
+    "Commercial directory record. Business status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://janosikfoodmarket.com/en/",
+  "last_verified": "2026-09-30"
+}
