@@ -1,0 +1,21 @@
+{
+  "id": "silicon-valley",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "technology",
+  "subtopic": "regions",
+  "title": "Silicon Valley",
+  "facts": [
+    "Silicon Valley to nieformalna nazwa regionu w San Francisco Bay Area w California silnie związanego z semiconductor, computing, software i venture capital.",
+    "Nazwa pochodzi od silicon używanego w semiconductor industry.",
+    "Silicon Valley nie jest miastem ani formalną jednostką administracyjną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/places/000/silicon-valley.htm"
+  ],
+  "related_public_pages": []
+}
