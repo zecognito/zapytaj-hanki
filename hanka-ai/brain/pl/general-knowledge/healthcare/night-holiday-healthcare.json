@@ -1,0 +1,21 @@
+{
+  "id": "night-holiday-healthcare",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "healthcare",
+  "subtopic": "system",
+  "title": "Nocna i świąteczna opieka zdrowotna",
+  "facts": [
+    "Nocna i świąteczna opieka zdrowotna służy przy nagłym zachorowaniu lub pogorszeniu stanu zdrowia, gdy nie ma bezpośredniego zagrożenia życia, ale pomoc nie powinna czekać do otwarcia zwykłej przychodni.",
+    "Jest dostępna w dni powszednie od 18:00 do 8:00 oraz całodobowo w dni ustawowo wolne od pracy.",
+    "Nie obowiązuje rejonizacja: pacjent może zgłosić się do dowolnego punktu nocnej i świątecznej opieki zdrowotnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://pacjent.gov.pl/nocna-i-swiateczna-opieka-zdrowotna"
+  ],
+  "related_public_pages": []
+}
