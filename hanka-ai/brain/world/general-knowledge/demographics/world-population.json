@@ -1,0 +1,21 @@
+{
+  "id": "world-population",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "demographics",
+  "subtopic": "population",
+  "title": "Ludność świata",
+  "facts": [
+    "Światowa populacja przekroczyła 8 miliardów ludzi w 2022 roku według ONZ.",
+    "Większość ludności świata mieszka w Azji, a długoterminowy wzrost ludności coraz silniej koncentruje się w Afryce.",
+    "Dane o ludności zmieniają się stale, dlatego Hanka powinna podawać rok i źródło przy konkretnych liczbach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/content/world-population-prospects-2024"
+  ],
+  "related_public_pages": []
+}
