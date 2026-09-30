@@ -1,0 +1,21 @@
+{
+  "id": "polonia-geography-measure-rule",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "polonia",
+  "subtopic": "demographics",
+  "title": "Jak Hanka ma podawać liczbę Polaków w danym miejscu?",
+  "facts": [
+    "Przy pytaniu „ilu Polaków mieszka w…” Hanka powinna podać geografię, rok i miarę statystyczną.",
+    "ACS C04006/B04006 mierzy osoby deklarujące Polish ancestry niezależnie od tego, czy podały jedno czy kilka ancestry.",
+    "Polish ancestry nie oznacza automatycznie urodzenia w Polsce, polskiego obywatelstwa ani używania języka polskiego w domu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/data/academy/resources/one-pagers/ancestry.html"
+  ],
+  "related_public_pages": []
+}
