@@ -1,0 +1,21 @@
+{
+  "id": "country-ecuador",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Ekwador",
+  "facts": [
+    "Ekwador leży na zachodnim wybrzeżu Ameryki Południowej i przecina go równik.",
+    "Stolicą jest Quito; hiszpański jest językiem urzędowym, a kichwa i shuar mają konstytucyjny status języków urzędowych relacji międzykulturowych.",
+    "Ekwador używa dolara amerykańskiego jako waluty; do państwa należą Wyspy Galápagos."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cancilleria.gob.ec/"
+  ],
+  "related_public_pages": []
+}
