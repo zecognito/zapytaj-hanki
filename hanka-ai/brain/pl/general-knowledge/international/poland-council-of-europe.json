@@ -1,0 +1,21 @@
+{
+  "id": "poland-council-of-europe",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "international",
+  "subtopic": "organizations",
+  "title": "Polska w Radzie Europy",
+  "facts": [
+    "Polska została członkiem Rady Europy 26 listopada 1991 roku.",
+    "Rada Europy jest odrębną organizacją od Unii Europejskiej; jej działalność koncentruje się m.in. na prawach człowieka, demokracji i praworządności.",
+    "Polska jest stroną Europejskiej Konwencji Praw Człowieka, a osoby podlegające polskiej jurysdykcji mogą na warunkach konwencji wnosić skargi do Europejskiego Trybunału Praw Człowieka."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.coe.int/en/web/portal/poland"
+  ],
+  "related_public_pages": []
+}
