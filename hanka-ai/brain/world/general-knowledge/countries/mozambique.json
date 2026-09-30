@@ -1,0 +1,21 @@
+{
+  "id": "country-mozambique",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Mozambik",
+  "facts": [
+    "Mozambik leży w południowo-wschodniej Afryce nad Oceanem Indyjskim, a jego stolicą jest Maputo.",
+    "Językiem urzędowym jest portugalski, a walutą metical.",
+    "Mozambik jest republiką; długie wybrzeże i Kanał Mozambicki mają istotne znaczenie geograficzne i gospodarcze."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.portaldogoverno.gov.mz/"
+  ],
+  "related_public_pages": []
+}
