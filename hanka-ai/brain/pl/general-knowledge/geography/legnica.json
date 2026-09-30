@@ -1,0 +1,21 @@
+{
+  "id": "legnica",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Legnica",
+  "facts": [
+    "Legnica jest miastem w województwie dolnośląskim.",
+    "W pobliżu miasta w 1241 r. rozegrała się bitwa pod Legnicą podczas najazdu mongolskiego.",
+    "Po II wojnie światowej Legnica była ważnym miejscem stacjonowania wojsk sowieckich w Polsce."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://portal.legnica.eu/"
+  ],
+  "related_public_pages": []
+}
