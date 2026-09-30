@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-credit-freeze",
+  "subtopic": "scams_fraud",
+  "title": "Bezpłatne credit freeze",
+  "facts": [
+    "Federal law daje konsumentowi prawo do bezpłatnego security freeze w każdym z trzech nationwide credit bureaus.",
+    "Freeze ogranicza dostęp potencjalnych nowych creditors do credit file, co może utrudnić otwarcie nowego konta przez identity thief.",
+    "Freeze trzeba ustanowić osobno w Equifax, Experian i TransUnion; zamrożenie jednego bureau nie zamraża pozostałych.",
+    "Credit freeze nie obniża credit score i można je bezpłatnie lift lub remove zgodnie z procedurą bureau."
+  ],
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/what-know-about-credit-freezes-fraud-alerts"
+  ]
+}
