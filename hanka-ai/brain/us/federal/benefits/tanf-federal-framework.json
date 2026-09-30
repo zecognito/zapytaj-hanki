@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-benefits-tanf-framework",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "benefits",
+  "subtopic": "tanf_federal_framework",
+  "title": "TANF - federal framework",
+  "facts": [
+    "Temporary Assistance for Needy Families (TANF) is a federal block-grant program administered by states, territories and eligible tribes.",
+    "States have substantial flexibility to design TANF eligibility, benefit amounts, work requirements and services within federal law.",
+    "There is no single nationwide TANF cash-benefit amount or one federal income limit that answers eligibility for every state.",
+    "A useful TANF eligibility answer therefore requires the applicant's state and current state program rules."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://acf.gov/ofa/programs/temporary-assistance-needy-families-tanf"
+  ],
+  "related_public_pages": []
+}
