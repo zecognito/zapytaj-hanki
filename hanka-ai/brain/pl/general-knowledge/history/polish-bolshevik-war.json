@@ -1,0 +1,21 @@
+{
+  "id": "polish-bolshevik-war",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second_republic",
+  "title": "Wojna polsko-bolszewicka",
+  "facts": [
+    "Wojna polsko-bolszewicka toczyła się w latach 1919–1921 w okresie kształtowania granic odrodzonej Polski i wojny z Rosją bolszewicką.",
+    "Bitwa Warszawska w sierpniu 1920 r. była kluczowym zwycięstwem strony polskiej.",
+    "Pokój ryski z 1921 r. zakończył wojnę i określił wschodnią granicę II Rzeczypospolitej na okres międzywojenny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/o-niepodleglej/wojna-polsko-bolszewicka/"
+  ],
+  "related_public_pages": []
+}
