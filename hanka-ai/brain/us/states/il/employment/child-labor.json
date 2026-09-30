@@ -1,0 +1,22 @@
+{
+  "id": "il-child-labor",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "employment",
+  "subtopic": "child_labor",
+  "title": "Praca osób poniżej 16 lat w Illinois",
+  "facts": [
+    "Illinois Child Labor Law reguluje zatrudnianie osób poniżej 16. roku życia; większość prac dzieci poniżej 14 lat jest zabroniona poza określonymi wyjątkami.",
+    "Dla objętych pracowników poniżej 16 lat wymagany jest employment certificate, a praca w niebezpiecznych zawodach jest zabroniona.",
+    "Obowiązują limity godzin i pór pracy; federalne przepisy child labor mogą być bardziej restrykcyjne i wtedy również trzeba ich przestrzegać."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://labor.illinois.gov/laws-rules/fls/child-labor-law.html",
+    "https://labor.illinois.gov/faqs/child-labor-faq.html"
+  ],
+  "related_public_pages": []
+}
