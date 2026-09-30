@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-foreign-earned-income-exclusion-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "foreign_earned_income_exclusion",
+  "title": "Foreign Earned Income Exclusion — 2026",
+  "facts": [
+    "Maksymalny Foreign Earned Income Exclusion za tax year 2026 wynosi $132,900 na kwalifikującą się osobę.",
+    "Aby skorzystać z exclusion, osoba musi mieć foreign earned income, tax home w foreign country i spełnić wymagany bona fide residence test albo physical presence test oraz pozostałe zasady IRS.",
+    "Excluded foreign earned income nadal musi być wykazany na federalnym tax return; exclusion nie oznacza pominięcia dochodu w zeznaniu.",
+    "Jeżeli kwalifikacja obejmuje tylko część roku, maksymalny exclusion jest proporcjonalnie ograniczany według liczby qualifying days."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/individuals/international-taxpayers/figuring-the-foreign-earned-income-exclusion",
+    "https://www.irs.gov/irb/2025-45_IRB"
+  ],
+  "related_public_pages": []
+}
