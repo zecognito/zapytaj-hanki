@@ -1,0 +1,21 @@
+{
+  "id": "country-belize",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Belize",
+  "facts": [
+    "Belize leży w Ameryce Środkowej nad Morzem Karaibskim i graniczy z Meksykiem oraz Gwatemalą.",
+    "Stolicą jest Belmopan, językiem urzędowym angielski, a walutą dolar belizeński.",
+    "Belize jest monarchią konstytucyjną i członkiem Wspólnoty Narodów oraz CARICOM."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pressoffice.gov.bz/"
+  ],
+  "related_public_pages": []
+}
