@@ -1,0 +1,21 @@
+{
+  "id": "in-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IN",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Indiany",
+  "facts": [
+    "Nowy mieszkaniec Indiana musi przenieść title i zarejestrować kwalifikujący się pojazd w Indiana BMV.",
+    "Wymagane dokumenty zależą m.in. od obecnego title, lien i miejsca wcześniejszej rejestracji.",
+    "Indiana może wymagać vehicle inspection/VIN inspection w sytuacjach określonych przez BMV."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.in.gov/bmv/titles/buying-and-selling/"
+  ],
+  "related_public_pages": []
+}
