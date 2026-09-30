@@ -1,0 +1,36 @@
+{
+  "id": "polonia-gov-honorary-miami-fl",
+  "country": "US",
+  "category": "consulate_honorary",
+  "name": "Honorary Consulate of the Republic of Poland in Miami",
+  "aliases": [
+    "Konsulat Honorowy RP w Miami"
+  ],
+  "status": "active",
+  "location": {
+    "address": "1440 79th Street Causeway, Suite 117",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": "33141",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 305 866 0077",
+  "email": "polconsulfl@yahoo.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "honorary consular representation"
+  ],
+  "coverage_area": [
+    "FL"
+  ],
+  "notes": [
+    "Honorary consul: Blanka Rosenstiel"
+  ],
+  "official_source": "https://www.gov.pl/web/usa/konsulaty-honorowe",
+  "last_verified": "2026-09-30"
+}
