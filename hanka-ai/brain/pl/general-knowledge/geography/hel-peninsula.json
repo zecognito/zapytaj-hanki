@@ -1,0 +1,21 @@
+{
+  "id": "hel-peninsula",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Półwysep Helski",
+  "facts": [
+    "Półwysep Helski jest wąskim piaszczystym półwyspem oddzielającym część Zatoki Puckiej od otwartego Bałtyku.",
+    "Leżą na nim m.in. miejscowości Hel, Jurata, Jastarnia i Chałupy.",
+    "Jego forma jest wynikiem procesów brzegowych i pozostaje dynamicznym elementem polskiego wybrzeża."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gdos/nadmorski-park-krajobrazowy"
+  ],
+  "related_public_pages": []
+}
