@@ -1,0 +1,21 @@
+{
+  "id": "mo-fair_housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MO",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Fair housing — Missouri",
+  "facts": [
+    "Federalne i stanowe przepisy chronią przed określonymi formami housing discrimination.",
+    "Stanowa ochrona może obejmować dodatkowe protected classes lub procedury.",
+    "Skargi można kierować do właściwej agencji lub HUD."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://labor.mo.gov/mohumanrights/discrimination/housing"
+  ],
+  "related_public_pages": []
+}
