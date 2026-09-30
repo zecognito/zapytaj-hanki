@@ -1,0 +1,21 @@
+{
+  "id": "gus-institution-depth",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "national-institutions",
+  "title": "Główny Urząd Statystyczny — GUS",
+  "facts": [
+    "GUS jest centralnym urzędem administracji rządowej odpowiedzialnym za statystykę publiczną w Polsce.",
+    "Publikuje dane m.in. o ludności, gospodarce, rynku pracy, cenach, mieszkalnictwie i przedsiębiorstwach.",
+    "Przy zmieniających się danych liczbowych Hanka powinna podawać okres odniesienia i korzystać z aktualnej publikacji GUS."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://stat.gov.pl/"
+  ],
+  "related_public_pages": []
+}
