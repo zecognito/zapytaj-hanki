@@ -1,0 +1,21 @@
+{
+  "id": "tn-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TN",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Tennessee",
+  "facts": [
+    "Tennessee nie ma własnej stanowej ustawy ustanawiającej ogólną minimum wage.",
+    "Pracownicy objęci federalnym Fair Labor Standards Act podlegają federalnej minimum wage.",
+    "Zakres ochrony zależy od zasad federalnych i rodzaju zatrudnienia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://lwdsupport.tn.gov/hc/en-us/articles/360000130587-Should-I-be-paid-minimum-wage"
+  ],
+  "related_public_pages": []
+}
