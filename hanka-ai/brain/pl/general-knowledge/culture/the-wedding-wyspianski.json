@@ -1,0 +1,21 @@
+{
+  "id": "the-wedding-wyspianski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "Wesele Wyspiańskiego",
+  "facts": [
+    "„Wesele” Stanisława Wyspiańskiego to dramat opublikowany na początku XX wieku, inspirowany autentycznym weselem w podkrakowskich Bronowicach.",
+    "Utwór zestawia inteligencję i chłopstwo oraz wykorzystuje symbole i postacie historyczne do refleksji nad polskim społeczeństwem.",
+    "„Wesele” należy do kanonu polskiej literatury i teatru."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://wolnelektury.pl/katalog/lektura/wesele/"
+  ],
+  "related_public_pages": []
+}
