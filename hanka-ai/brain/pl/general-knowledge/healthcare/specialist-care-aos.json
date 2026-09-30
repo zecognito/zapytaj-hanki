@@ -1,0 +1,21 @@
+{
+  "id": "specialist-care-aos",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "healthcare",
+  "subtopic": "system",
+  "title": "AOS — ambulatoryjna opieka specjalistyczna",
+  "facts": [
+    "AOS to ambulatoryjna opieka specjalistyczna finansowana w publicznym systemie ochrony zdrowia, obejmująca porady i świadczenia lekarzy specjalistów bez hospitalizacji.",
+    "Do wielu poradni specjalistycznych finansowanych przez NFZ potrzebne jest skierowanie, ale przepisy przewidują wyjątki dla określonych specjalności i grup pacjentów.",
+    "AOS jest odrębnym poziomem opieki od POZ oraz leczenia szpitalnego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nfz.gov.pl/dla-pacjenta/informacje-o-swiadczeniach/ambulatoryjna-opieka-specjalistyczna/"
+  ],
+  "related_public_pages": []
+}
