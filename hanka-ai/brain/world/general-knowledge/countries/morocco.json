@@ -1,0 +1,21 @@
+{
+  "id": "country-morocco",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Maroko",
+  "facts": [
+    "Maroko leży w północno-zachodniej Afryce nad Atlantykiem i Morzem Śródziemnym, a jego stolicą jest Rabat.",
+    "Językami urzędowymi są arabski i amazigh, a walutą dirham marokański.",
+    "Maroko jest monarchią konstytucyjną; status Sahary Zachodniej pozostaje przedmiotem sporu międzynarodowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.maroc.ma/en"
+  ],
+  "related_public_pages": []
+}
