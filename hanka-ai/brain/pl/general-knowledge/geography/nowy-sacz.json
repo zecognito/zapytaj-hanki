@@ -1,0 +1,21 @@
+{
+  "id": "nowy-sacz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Nowy Sącz",
+  "facts": [
+    "Nowy Sącz jest miastem w województwie małopolskim i głównym ośrodkiem Sądecczyzny.",
+    "Miasto zostało lokowane w XIII wieku i leży w Kotlinie Sądeckiej.",
+    "Region sądecki jest związany z kulturą góralską, uzdrowiskami i Beskidem Sądeckim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nowysacz.pl/"
+  ],
+  "related_public_pages": []
+}
