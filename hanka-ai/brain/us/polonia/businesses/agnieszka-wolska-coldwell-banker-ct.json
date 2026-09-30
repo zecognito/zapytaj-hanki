@@ -1,0 +1,33 @@
+{
+  "id": "polonia-real-estate-wolska-coldwell-ct",
+  "country": "US",
+  "category": "real_estate",
+  "name": "Agnieszka Wolska - Coldwell Banker Realty",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "New Britain / central Connecticut area",
+    "state": "CT",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "residential real estate",
+    "home buying",
+    "home selling",
+    "property search"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://www.coldwellbanker.com/",
+  "official_source": "https://www.coldwellbanker.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Polish-speaking real-estate professional lead tied to a major brokerage. Exact current office/profile URL and address should be refreshed before near-me ranking."
+  ]
+}
