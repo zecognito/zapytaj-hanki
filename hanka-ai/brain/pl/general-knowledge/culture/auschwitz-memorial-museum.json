@@ -1,0 +1,21 @@
+{
+  "id": "auschwitz-memorial-museum",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "museums",
+  "title": "Muzeum Auschwitz-Birkenau",
+  "facts": [
+    "Państwowe Muzeum Auschwitz-Birkenau chroni teren byłego niemieckiego nazistowskiego obozu koncentracyjnego i zagłady Auschwitz.",
+    "Muzeum prowadzi działalność dokumentacyjną, edukacyjną, konserwatorską i badawczą.",
+    "Auschwitz znajdował się w okupowanej przez Niemcy Polsce; określenie „polski obóz” jest historycznie błędne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.auschwitz.org/"
+  ],
+  "related_public_pages": []
+}
