@@ -1,0 +1,21 @@
+{
+  "id": "gdp-definition",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "economy",
+  "subtopic": "gdp",
+  "title": "Co to jest GDP?",
+  "facts": [
+    "GDP (gross domestic product) mierzy wartość dóbr i usług finalnych wytworzonych w gospodarce w określonym okresie.",
+    "BEA publikuje GDP w ujęciu current dollars oraz real GDP skorygowany o zmiany cen.",
+    "GDP nie jest tym samym co dochód przeciętnego gospodarstwa domowego ani majątek obywateli."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bea.gov/data/gdp/gross-domestic-product"
+  ],
+  "related_public_pages": []
+}
