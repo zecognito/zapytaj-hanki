@@ -1,0 +1,22 @@
+{
+  "id": "house-representation",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "civics",
+  "subtopic": "congress",
+  "title": "House of Representatives — reprezentacja",
+  "facts": [
+    "House of Representatives ma 435 voting representatives rozdzielanych między 50 stanów według populacji i apportionment po decennial census.",
+    "Przedstawiciele są wybierani na dwuletnie kadencje.",
+    "DC i terytoria mają delegatów/resident commissioner o odmiennym statusie od 435 voting representatives."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.house.gov/representatives",
+    "https://www.census.gov/topics/public-sector/congressional-apportionment/about.html"
+  ],
+  "related_public_pages": []
+}
