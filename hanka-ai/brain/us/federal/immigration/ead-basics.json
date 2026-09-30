@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-immigration-ead-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "immigration",
+  "subtopic": "work_authorization",
+  "title": "Employment Authorization Document - basics",
+  "facts": [
+    "Form I-765 is used by eligible categories to request employment authorization and/or an Employment Authorization Document.",
+    "Eligibility for an EAD depends on the applicant's immigration category; filing I-765 does not by itself create eligibility to work.",
+    "Some noncitizens are authorized to work incident to status and may not need an EAD as their underlying source of work authorization.",
+    "An EAD is different from lawful permanent resident status; a Green Card itself is evidence of permanent work authorization."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscis.gov/i-765"
+  ],
+  "related_public_pages": []
+}
