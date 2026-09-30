@@ -1,0 +1,35 @@
+{
+  "id": "polonia-prof-law-oc-lawyers-chicago-il",
+  "country": "US",
+  "category": "lawyer",
+  "name": "O'Connor & Crain / OC Law Group - Chicago Polish Services",
+  "status": "active",
+  "location": {
+    "address": "6035 N Northwest Hwy, Suite 201",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60631",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "estate planning",
+    "elder law",
+    "Medicaid planning",
+    "wills",
+    "trusts",
+    "powers of attorney"
+  ],
+  "phone": "+1 773-631-7100",
+  "email": null,
+  "website": "https://oclawyergroup.com/",
+  "official_source": "https://oclawyergroup.com/polish-landing-page",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official firm's Polish-language page explicitly states Mówimy po polsku and lists Chicago office and Polish-facing estate/elder-law services."
+  ]
+}
