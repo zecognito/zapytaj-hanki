@@ -1,0 +1,21 @@
+{
+  "id": "rok-1984-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Rok 1984 — George Orwell",
+  "facts": [
+    "Rok 1984, autor: George Orwell; szkolny tekst z obszaru: literatura XX wieku.",
+    "Antyutopijna powieść o totalitarnym państwie Oceanii, kontroli języka, propagandzie, inwigilacji i niszczeniu niezależnego myślenia.",
+    "Hanka powinna znać podstawowy sens utworu, jego kontekst, główne motywy oraz sposób, w jaki łączy się z doświadczeniem XX wieku i szkolną analizą literatury."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
