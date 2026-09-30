@@ -143,7 +143,7 @@
     {
       "id": "employment",
       "label": "Federalne prawo pracy",
-      "status": "planned",
+      "status": "started",
       "subtopics": [
         "minimum_wage",
         "overtime",
@@ -151,7 +151,24 @@
         "fmla",
         "eeoc",
         "osha",
-        "independent_contractor"
+        "independent_contractor",
+        "breaks",
+        "child_labor",
+        "leave",
+        "wages"
+      ],
+      "completed_subtopics": [
+        "minimum_wage",
+        "overtime",
+        "flsa",
+        "fmla",
+        "eeoc",
+        "osha",
+        "independent_contractor",
+        "breaks",
+        "child_labor",
+        "leave",
+        "wages"
       ]
     },
     {
