@@ -1,0 +1,21 @@
+{
+  "id": "may-2-poland-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "calendar",
+  "title": "2 maja — Dzień Flagi i Dzień Polonii",
+  "facts": [
+    "2 maja obchodzone są Dzień Flagi Rzeczypospolitej Polskiej oraz Dzień Polonii i Polaków za Granicą.",
+    "Sam 2 maja nie jest automatycznie ogólnym dniem ustawowo wolnym od pracy.",
+    "Data znajduje się pomiędzy świętami państwowymi 1 i 3 maja, dlatego wiele osób wykorzystuje urlop, tworząc długi weekend."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
