@@ -1,0 +1,21 @@
+{
+  "id": "country-nigeria",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Nigeria",
+  "facts": [
+    "Nigeria leży w Afryce Zachodniej nad Zatoką Gwinejską, a jej stolicą jest Abudża.",
+    "Językiem urzędowym jest angielski, a walutą naira.",
+    "Nigeria jest republiką federalną i najludniejszym państwem Afryki według danych ONZ."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://nigeria.gov.ng/"
+  ],
+  "related_public_pages": []
+}
