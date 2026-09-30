@@ -1,0 +1,21 @@
+{
+  "id": "country-laos",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Laos",
+  "facts": [
+    "Laos is a landlocked country in Southeast Asia and the only landlocked member of ASEAN.",
+    "Its capital is Vientiane, its official language is Lao, and its currency is the kip.",
+    "Laos is a socialist republic through which the Mekong River runs along a large part of its western border."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mofa.gov.la/"
+  ],
+  "related_public_pages": []
+}
