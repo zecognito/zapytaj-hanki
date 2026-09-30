@@ -1,0 +1,21 @@
+{
+  "id": "police-sheriff",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "safety",
+  "subtopic": "local_services",
+  "title": "Police a sheriff",
+  "facts": [
+    "Police department zwykle obsługuje miasto lub inną lokalną jurysdykcję.",
+    "Sheriff jest zwykle county-level official lub kieruje sheriff's office; zakres zadań może obejmować patrol, jail, courts i civil process zależnie od stanu.",
+    "Dokładny podział kompetencji między police, sheriff i state police różni się w całym USA."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://bjs.ojp.gov/topics/law-enforcement"
+  ],
+  "related_public_pages": []
+}
