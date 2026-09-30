@@ -1,0 +1,21 @@
+{
+  "id": "ct-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CT",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Connecticut",
+  "facts": [
+    "Nowy mieszkaniec Connecticut posiadający ważne out-of-state driver license powinien przenieść credential do Connecticut DMV zgodnie z wymaganiami stanu.",
+    "Proces wymaga odpowiednich identity/residency documents i surrender kwalifikującego się out-of-state license.",
+    "Driver license transfer jest odrębny od vehicle registration."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://portal.ct.gov/dmv/licenses-permits-ids/transfer-out-of-state-license"
+  ],
+  "related_public_pages": []
+}
