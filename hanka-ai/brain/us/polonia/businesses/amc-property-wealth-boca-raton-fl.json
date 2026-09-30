@@ -1,0 +1,34 @@
+{
+  "id": "polonia-prof-real-estate-amc-boca-raton-fl",
+  "country": "US",
+  "category": "real_estate",
+  "name": "AMC Property Wealth Management",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Boca Raton",
+    "state": "FL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es"
+  ],
+  "services": [
+    "property investment management",
+    "rental property management",
+    "refurbishment project management",
+    "property acquisition guidance"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://amcinvest.net/",
+  "official_source": "https://amcinvest.net/en/refurbishment-and-project-management/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official company site explicitly states its team speaks English, Spanish and Polish and serves southeast Florida property investors. Street office withheld pending first-party confirmation."
+  ]
+}
