@@ -645,7 +645,11 @@
         "employment_admin",
         "banking_payments",
         "medical_billing",
-        "civic_admin"
+        "civic_admin",
+        "phone_internet",
+        "identity_admin",
+        "renting_admin",
+        "health_insurance_admin"
       ],
       "completed_subtopics": [
         "emergency_services",
@@ -653,7 +657,11 @@
         "employment_admin",
         "banking_payments",
         "medical_billing",
-        "civic_admin"
+        "civic_admin",
+        "phone_internet",
+        "identity_admin",
+        "renting_admin",
+        "health_insurance_admin"
       ]
     }
   ]
