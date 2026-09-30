@@ -1,0 +1,21 @@
+{
+  "id": "interstate-route-numbering",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Numery Interstate highways",
+  "facts": [
+    "Główne Interstate highways mają jedno- lub dwucyfrowe numery; ogólnie trasy parzyste biegną głównie wschód-zachód, a nieparzyste północ-południe.",
+    "Numery rosną zasadniczo z południa na północ dla tras parzystych i z zachodu na wschód dla nieparzystych.",
+    "Trzycyfrowe Interstate routes zwykle służą obszarom miejskim jako bypasses, loops lub spurs powiązane z główną trasą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fhwa.dot.gov/programadmin/interstate.cfm"
+  ],
+  "related_public_pages": []
+}
