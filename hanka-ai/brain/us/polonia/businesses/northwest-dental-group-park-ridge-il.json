@@ -1,0 +1,33 @@
+{
+  "id": "polonia-dentist-northwest-park-ridge-il",
+  "country": "US",
+  "category": "dentist",
+  "name": "Northwest Dental Group - Park Ridge",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Park Ridge",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "general dentistry",
+    "family dentistry",
+    "cosmetic dentistry",
+    "restorative dentistry"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://www.northwestdentalgroup.com/",
+  "official_source": "https://www.northwestdentalgroup.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official practice website explicitly advertises Polish-language service / Mówimy po polsku. Exact street address withheld until separately confirmed from first-party location data."
+  ]
+}
