@@ -1,0 +1,21 @@
+{
+  "id": "ok-security_deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OK",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w Oklahoma",
+  "facts": [
+    "Stanowe przepisy określają zasady w tym obszarze.",
+    "Szczegóły zależą od konkretnej sytuacji i aktualnych wymagań.",
+    "Należy sprawdzić aktualne informacje właściwej agencji lub tekst prawa stanowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://oksenate.gov/sites/default/files/2019-12/os41.pdf"
+  ],
+  "related_public_pages": []
+}
