@@ -1,0 +1,21 @@
+{
+  "id": "zupa-ogorkowa",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Zupa ogórkowa",
+  "facts": [
+    "Zupa ogórkowa jest polską zupą, której charakterystyczny kwaśny smak pochodzi zwykle z kiszonych ogórków.",
+    "Często zawiera ziemniaki, warzywa i wywar, ale istnieją wersje mięsne i bezmięsne.",
+    "Nie ma jednego obowiązującego przepisu rodzinnego lub regionalnego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101"
+  ],
+  "related_public_pages": []
+}
