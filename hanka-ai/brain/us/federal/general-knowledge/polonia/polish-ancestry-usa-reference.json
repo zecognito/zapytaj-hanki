@@ -1,0 +1,22 @@
+{
+  "id": "polish-ancestry-usa-reference",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "demographics",
+  "subtopic": "polish_ancestry",
+  "title": "Polish ancestry w USA — źródło referencyjne",
+  "facts": [
+    "ACS publikuje ogólnokrajową liczbę Polish ancestry w tabeli B04006.",
+    "W 2024 r. ogólnokrajowy szacunek Polish ancestry wynosił 8 342 225 osób.",
+    "Jest to szacunek ACS, nie pełny spis, i powinien być opisywany jako osoby deklarujące Polish ancestry."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://data.census.gov/table/ACSDT1Y2024.C04006?g=010XX00US&t=Ancestry",
+    "https://api.census.gov/data/2024/acs/acs1/variables.html"
+  ],
+  "related_public_pages": []
+}
