@@ -1,0 +1,21 @@
+{
+  "id": "sc-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "SC",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Fair housing w South Carolina",
+  "facts": [
+    "Federalne i stanowe przepisy zabraniają określonych form dyskryminacji mieszkaniowej.",
+    "Zakres stanowych protected classes może być szerszy niż ochrona federalna.",
+    "Osoba podejrzewająca dyskryminację może skorzystać z procedury skargowej właściwej agencji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://schac.sc.gov/housing-discrimination"
+  ],
+  "related_public_pages": []
+}
