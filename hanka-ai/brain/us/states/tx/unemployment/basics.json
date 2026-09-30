@@ -1,0 +1,21 @@
+{
+  "id": "tx-unemployment-basics",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TX",
+  "topic": "benefits",
+  "subtopic": "unemployment",
+  "title": "Unemployment Benefits w Teksasie",
+  "facts": [
+    "Texas Unemployment Benefits zapewniają czasowe świadczenia kwalifikującym się osobom bez pracy.",
+    "Eligibility zależy m.in. od wcześniejszych wages, powodu utraty pracy oraz spełniania bieżących wymagań dotyczących zdolności i dostępności do pracy.",
+    "Claimant musi składać payment requests i spełniać wymagania work search Texas Workforce Commission, jeśli nie obowiązuje wyjątek."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.twc.texas.gov/programs/unemployment-benefits"
+  ],
+  "related_public_pages": []
+}
