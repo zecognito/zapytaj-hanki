@@ -1,0 +1,21 @@
+{
+  "id": "european-health-insurance-card-ekuz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "healthcare",
+  "subtopic": "insurance",
+  "title": "EKUZ — Europejska Karta Ubezpieczenia Zdrowotnego",
+  "facts": [
+    "EKUZ potwierdza prawo osoby ubezpieczonej do niezbędnego leczenia w publicznym systemie ochrony zdrowia podczas czasowego pobytu w innym państwie objętym zasadami koordynacji.",
+    "Karta nie jest odpowiednikiem ubezpieczenia turystycznego i nie pokrywa wszystkich kosztów, np. planowanego leczenia czy kosztów powrotu do kraju.",
+    "W Polsce kartę EKUZ wydaje Narodowy Fundusz Zdrowia osobom uprawnionym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nfz.gov.pl/dla-pacjenta/nasze-zdrowie-w-ue/ekuz/"
+  ],
+  "related_public_pages": []
+}
