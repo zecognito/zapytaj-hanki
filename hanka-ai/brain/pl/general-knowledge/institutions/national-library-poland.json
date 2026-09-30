@@ -1,0 +1,21 @@
+{
+  "id": "national-library-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "culture-institutions",
+  "title": "Biblioteka Narodowa",
+  "facts": [
+    "Biblioteka Narodowa jest centralną biblioteką państwa i jedną z najważniejszych instytucji chroniących polskie dziedzictwo piśmiennicze.",
+    "Gromadzi, opracowuje, przechowuje i udostępnia polskie oraz dotyczące Polski publikacje, a także pełni funkcje bibliograficzne i naukowe.",
+    "Jej zbiory obejmują książki, czasopisma, rękopisy, stare druki, dokumenty muzyczne, kartograficzne i inne rodzaje materiałów bibliotecznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bn.org.pl/"
+  ],
+  "related_public_pages": []
+}
