@@ -1,0 +1,21 @@
+{
+  "id": "medical-emergency-999",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "healthcare",
+  "subtopic": "emergency-care",
+  "title": "Numer alarmowy 999",
+  "facts": [
+    "999 jest w Polsce numerem alarmowym pogotowia ratunkowego przeznaczonym do zgłaszania nagłych zagrożeń zdrowia i życia.",
+    "Połączenia na 999 są obsługiwane w systemie ratownictwa medycznego przez dyspozytornię medyczną.",
+    "Ogólny europejski numer alarmowy 112 również może być używany do wezwania pomocy medycznej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/zdrowie/panstwowe-ratownictwo-medyczne"
+  ],
+  "related_public_pages": []
+}
