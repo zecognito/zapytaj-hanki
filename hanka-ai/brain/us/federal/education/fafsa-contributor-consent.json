@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-education-fafsa-contributors",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "education",
+  "subtopic": "fafsa",
+  "title": "FAFSA contributors and consent",
+  "facts": [
+    "A FAFSA contributor can include the student, student's spouse, biological or adoptive parent, or parent's spouse depending on the student's circumstances.",
+    "Being identified as a contributor does not make that person financially responsible for the student's education costs.",
+    "Required contributors generally need their own StudentAid.gov account to complete their section and provide required approval and consent for federal tax information processes.",
+    "Who counts as a parent for FAFSA purposes follows federal student-aid rules and is not always the same as who claims the student on a tax return."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://studentaid.gov/apply-for-aid/fafsa/filling-out/parent-info",
+    "https://studentaid.gov/articles/fafsa-for-parents/"
+  ],
+  "related_public_pages": []
+}
