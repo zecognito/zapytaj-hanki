@@ -1,0 +1,21 @@
+{
+  "id": "nd-income_tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "ND",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy — Dakocie Północnej",
+  "facts": [
+    "Jurysdykcja ma własne zasady dotyczące tego obszaru podatkowego lub płacowego.",
+    "Wymagania i stawki mogą zmieniać się wraz z rokiem podatkowym lub kalendarzowym.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle jurysdykcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.tax.nd.gov/individual"
+  ],
+  "related_public_pages": []
+}
