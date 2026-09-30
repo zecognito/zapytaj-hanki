@@ -1,0 +1,23 @@
+{
+  "id": "il-paid-leave",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "employment",
+  "subtopic": "paid_leave",
+  "title": "Illinois Paid Leave for All Workers Act",
+  "facts": [
+    "Covered Illinois workers can earn up to 40 hours of paid leave per 12-month period.",
+    "Accrual is at least 1 hour of paid leave for every 40 hours worked.",
+    "Covered workers may use the leave for any reason and employers generally may not require a reason for the request.",
+    "Chicago and Cook County have separate local paid-leave rules; state PLAWA does not govern workers covered by those local ordinances."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://labor.illinois.gov/laws-rules/paidleave.html",
+    "https://labor.illinois.gov/faqs/paidleavefaq.html"
+  ],
+  "related_public_pages": []
+}
