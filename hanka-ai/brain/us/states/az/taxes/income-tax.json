@@ -1,0 +1,21 @@
+{
+  "id": "az-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AZ",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Arizonie",
+  "facts": [
+    "Arizona stosuje stanowy individual income tax według jednolitej stawki określonej prawem stanowym.",
+    "Arizona Department of Revenue administruje individual income tax i publikuje formularze oraz instrukcje dla właściwego roku.",
+    "Federal taxable income i stanowe additions/subtractions wpływają na Arizona taxable income zgodnie z zasadami stanowymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://azdor.gov/individuals"
+  ],
+  "related_public_pages": []
+}
