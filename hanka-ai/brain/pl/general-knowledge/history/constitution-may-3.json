@@ -1,0 +1,21 @@
+{
+  "id": "constitution-may-3",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "commonwealth",
+  "title": "Konstytucja 3 maja",
+  "facts": [
+    "Konstytucja 3 maja została uchwalona przez Sejm Czteroletni w 1791 r.",
+    "Była próbą reformy ustroju Rzeczypospolitej Obojga Narodów w okresie narastającego zagrożenia zewnętrznego i kryzysu państwa.",
+    "3 maja jest obecnie w Polsce świętem państwowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/kultura/konstytucja-3-maja"
+  ],
+  "related_public_pages": []
+}
