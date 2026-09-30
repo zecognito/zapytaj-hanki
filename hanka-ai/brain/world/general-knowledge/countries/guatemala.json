@@ -1,0 +1,21 @@
+{
+  "id": "country-guatemala",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Gwatemala",
+  "facts": [
+    "Gwatemala leży w Ameryce Środkowej, a jej stolicą jest Gwatemala.",
+    "Językiem urzędowym jest hiszpański, a państwo uznaje i chroni liczne języki ludności Majów oraz inne języki rdzenne.",
+    "Walutą jest quetzal; dziedzictwo cywilizacji Majów stanowi ważną część historii i kultury kraju."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.minex.gob.gt/"
+  ],
+  "related_public_pages": []
+}
