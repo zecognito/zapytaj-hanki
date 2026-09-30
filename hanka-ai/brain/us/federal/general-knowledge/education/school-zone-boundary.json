@@ -1,0 +1,21 @@
+{
+  "id": "school-zone-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "education",
+  "subtopic": "school_terms",
+  "title": "School boundary i assigned school",
+  "facts": [
+    "Publiczna szkoła przypisana dziecku może zależeć od residential address i attendance boundary.",
+    "Samo mieszkanie w danym mieście nie gwarantuje konkretnej szkoły, ponieważ district i school boundaries mogą przebiegać inaczej.",
+    "Magnet, charter, open enrollment i inne programy mogą mieć odmienne zasady."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://nces.ed.gov/ccd/schoolsearch/"
+  ],
+  "related_public_pages": []
+}
