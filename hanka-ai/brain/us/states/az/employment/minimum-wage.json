@@ -1,0 +1,21 @@
+{
+  "id": "az-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AZ",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Arizonie",
+  "facts": [
+    "Arizona ma statewide minimum wage indeksowaną corocznie zgodnie z prawem stanowym.",
+    "Niektóre lokalne jurisdictions mogą ustanawiać wyższe minimum wage lub dodatkowe wymagania.",
+    "Industrial Commission of Arizona publikuje aktualną stawkę i informacje o Fair Wages and Healthy Families Act."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.azica.gov/labor-minimum-wage-main-page"
+  ],
+  "related_public_pages": []
+}
