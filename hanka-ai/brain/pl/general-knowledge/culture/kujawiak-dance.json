@@ -1,0 +1,21 @@
+{
+  "id": "kujawiak-dance",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Kujawiak",
+  "facts": [
+    "Kujawiak jest polskim tańcem wywodzącym się z Kujaw.",
+    "Ma spokojniejszy, kołyszący charakter i metrum trójdzielne.",
+    "W tradycji scenicznej zalicza się go do polskich tańców narodowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-dances-kujawiak"
+  ],
+  "related_public_pages": []
+}
