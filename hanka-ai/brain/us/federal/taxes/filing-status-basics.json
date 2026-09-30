@@ -1,0 +1,24 @@
+{
+  "id": "us-federal-tax-filing-status-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "filing_status",
+  "title": "Federal filing status — podstawowe zasady",
+  "facts": [
+    "IRS wyróżnia pięć filing statuses: Single, Married Filing Jointly, Married Filing Separately, Head of Household i Qualifying Surviving Spouse.",
+    "Filing status jest zasadniczo ustalany na podstawie stanu cywilnego na ostatni dzień roku podatkowego.",
+    "Single zasadniczo dotyczy osoby niezamężnej/nieżonatej, rozwiedzionej lub prawnie separowanej.",
+    "Married Filing Jointly jest dostępny dla małżeństw; Married Filing Separately pozwala małżonkom złożyć oddzielne zeznania.",
+    "Head of Household wymaga m.in. spełnienia warunków dotyczących statusu osoby niezamężnej oraz ponoszenia ponad połowy kosztów utrzymania domu dla siebie i qualifying dependent.",
+    "Qualifying Surviving Spouse może mieć zastosowanie po śmierci małżonka przy spełnieniu warunków IRS, w tym dotyczących dependent child."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/filing/filing-status"
+  ],
+  "related_public_pages": []
+}
