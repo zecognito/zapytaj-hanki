@@ -44,12 +44,12 @@
     },
     "businesses": {
       "status": "started",
-      "records": 103,
+      "records": 135,
       "notes": [
-        "Commercial/professional directory now contains 103 Polish-focused food/retail physical locations, with increasingly deep coverage in Chicagoland, NY/NJ, Connecticut and the Northeast plus a broad national seed.",
-        "New York coverage now includes Greenpoint/Ridgewood as well as upstate Polish-food anchors around Buffalo/Niagara and the Capital Region; New Britain CT and New Jersey have neighborhood-level clusters represented.",
-        "Chains and multi-location businesses are stored per physical location to support future geographic/near-me retrieval. Commercial status, addresses, hours and services remain high-churn and require periodic refresh.",
-        "Food/retail remains started rather than mature: additional PA/MA/New England, Midwest, Florida and other metro depth is still warranted before moving to professional-service directories."
+        "Commercial/professional directory now contains 135 Polish-focused food/retail physical-location records, with deepening coverage across Chicagoland, NY/NJ/CT, PA/New England, Buffalo, Midwest and Florida plus the earlier national seed.",
+        "The directory includes Polish markets/delis, bakeries, meat/sausage shops and restaurants. Chains and multi-location businesses are represented per physical location for geographic retrieval.",
+        "Some newly discovered smaller-market records have incomplete address/contact fields and are explicitly flagged for reverification rather than having details invented.",
+        "Food/retail remains started: further metro-by-metro verification and cleanup is needed before maturity, especially to resolve incomplete records and continue dense regional discovery. Professional-service directories remain deferred."
       ]
     },
     "media_culture": {
