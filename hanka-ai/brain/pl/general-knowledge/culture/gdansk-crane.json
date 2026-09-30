@@ -1,0 +1,21 @@
+{
+  "id": "gdansk-crane",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Żuraw w Gdańsku",
+  "facts": [
+    "Żuraw nad Motławą jest jednym z najbardziej rozpoznawalnych zabytków Gdańska.",
+    "Historycznie pełnił funkcję bramy miejskiej i portowego dźwigu.",
+    "Jest związany z historią handlu morskiego Gdańska i należy do Narodowego Muzeum Morskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://nmm.pl/"
+  ],
+  "related_public_pages": []
+}
