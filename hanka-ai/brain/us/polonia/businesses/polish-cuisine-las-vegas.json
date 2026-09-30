@@ -1,0 +1,37 @@
+{
+  "id": "polonia-business-polish-cuisine-las-vegas",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Polish Cuisine",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "Las Vegas",
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "pierogi",
+    "Polish prepared foods"
+  ],
+  "coverage_area": [
+    "Las Vegas",
+    "NV"
+  ],
+  "notes": [
+    "Polish-food relevance supported by current business or Polonia-community source. Incomplete location/contact fields are intentionally left null rather than inferred; reverification required."
+  ],
+  "official_source": "https://polishfoodlasvegas.com/",
+  "last_verified": "2026-09-30"
+}
