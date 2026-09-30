@@ -1,0 +1,21 @@
+{
+  "id": "tracking-number",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "communications",
+  "subtopic": "shipping",
+  "title": "Tracking number",
+  "facts": [
+    "Tracking number to identyfikator używany przez przewoźnika do sprawdzania statusu kwalifikującej się przesyłki.",
+    "Format numeru zależy od przewoźnika i usługi.",
+    "Status „delivered” opisuje zapis systemu przewoźnika; przy problemie należy użyć procedury konkretnego carrier."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tools.usps.com/go/TrackConfirmAction_input"
+  ],
+  "related_public_pages": []
+}
