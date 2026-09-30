@@ -1,0 +1,21 @@
+{
+  "id": "kayah",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "modern-music",
+  "title": "Kayah",
+  "facts": [
+    "Kayah, właściwie Katarzyna Szczot, jest polską wokalistką, autorką tekstów i producentką.",
+    "Jej twórczość obejmuje pop, soul i inspiracje muzyką świata.",
+    "Album nagrany z Goranem Bregoviciem pod koniec lat 90. należał do najgłośniejszych projektów w jej karierze."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
