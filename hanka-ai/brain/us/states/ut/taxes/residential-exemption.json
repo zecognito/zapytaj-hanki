@@ -1,0 +1,21 @@
+{
+  "id": "ut-residential-exemption",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "UT",
+  "topic": "taxes",
+  "subtopic": "state_specific_high_value",
+  "title": "Residential property tax exemption w Utah",
+  "facts": [
+    "Stan oferuje ulgę lub zwolnienie dotyczące kwalifikującej się nieruchomości mieszkalnej albo podatku od nieruchomości.",
+    "Eligibility, sposób złożenia wniosku i wartość ulgi zależą od programu oraz sytuacji właściciela.",
+    "Aktualne limity i procedury należy sprawdzać dla właściwego roku podatkowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://propertytax.utah.gov/"
+  ],
+  "related_public_pages": []
+}
