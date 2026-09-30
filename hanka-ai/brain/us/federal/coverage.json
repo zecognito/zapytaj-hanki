@@ -254,8 +254,16 @@
     {
       "id": "education",
       "label": "Edukacja i pomoc studencka",
-      "status": "planned",
+      "status": "started",
       "subtopics": [
+        "fafsa",
+        "pell_grant",
+        "federal_student_loans",
+        "repayment",
+        "ferpa",
+        "title_ix"
+      ],
+      "completed_subtopics": [
         "fafsa",
         "pell_grant",
         "federal_student_loans",
