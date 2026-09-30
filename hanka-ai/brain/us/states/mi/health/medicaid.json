@@ -1,0 +1,22 @@
+{
+  "id": "mi-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MI",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Medicaid / Healthy Michigan Plan",
+  "facts": [
+    "Michigan Medicaid zapewnia health coverage kwalifikującym się mieszkańcom.",
+    "Healthy Michigan Plan obejmuje kwalifikujących się dorosłych w ramach stanowej implementacji rozszerzenia Medicaid.",
+    "Wnioski o health coverage i inne świadczenia można składać przez MI Bridges."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.michigan.gov/mdhhs/assistance-programs/medicaid",
+    "https://newmibridges.michigan.gov/"
+  ],
+  "related_public_pages": []
+}
