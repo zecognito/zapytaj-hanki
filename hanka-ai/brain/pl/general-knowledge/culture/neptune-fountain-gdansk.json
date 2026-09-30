@@ -1,0 +1,21 @@
+{
+  "id": "neptune-fountain-gdansk",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Fontanna Neptuna w Gdańsku",
+  "facts": [
+    "Fontanna Neptuna znajduje się przy Długim Targu w Gdańsku, przed Dworem Artusa.",
+    "Jest jednym z najbardziej rozpoznawalnych symboli miasta i jego historycznych związków z morzem i handlem.",
+    "Obecna forma zabytku pochodzi z okresu nowożytnego i była później wielokrotnie konserwowana."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://visitgdansk.com/"
+  ],
+  "related_public_pages": []
+}
