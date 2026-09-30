@@ -1,0 +1,35 @@
+{
+  "id": "polonia-business-szymanskis-blue-point-mi",
+  "country": "US",
+  "category": "store",
+  "name": "Srodek's / Polish food retail - Warren area",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "Warren",
+    "city": "MI",
+    "state": null,
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "https://srodek.com/",
+  "email": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "MI",
+    null
+  ],
+  "notes": [
+    "Commercial directory record; current status, exact address where incomplete, hours and services require periodic reverification."
+  ],
+  "official_source": "https://www.gov.pl/web/usa/relacje-dwustronne",
+  "last_verified": "2026-09-30"
+}
