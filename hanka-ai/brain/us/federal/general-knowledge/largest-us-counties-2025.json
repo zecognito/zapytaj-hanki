@@ -1,0 +1,21 @@
+{
+  "id": "largest-us-counties-2025",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "population",
+  "subtopic": "largest_counties",
+  "title": "Największe hrabstwa USA — 2025",
+  "facts": [
+    "Według Census Population Estimates 2025 największe populacje wśród counties/equivalents miały m.in. Los Angeles County w California, Cook County w Illinois i Harris County w Texas.",
+    "Los Angeles County miało około 9,695 mln mieszkańców, Cook County około 5,195 mln, a Harris County około 5,045 mln.",
+    "County i city to różne poziomy geografii; Chicago znajduje się w Cook County, ale populacji miasta i hrabstwa nie wolno utożsamiać."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/popclock/"
+  ],
+  "related_public_pages": []
+}
