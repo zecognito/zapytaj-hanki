@@ -1,0 +1,21 @@
+{
+  "id": "diner-food-culture",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "American diner",
+  "facts": [
+    "Diner to typ casual restaurant silnie związany z amerykańską kulturą XX wieku.",
+    "Typowe diner menus mogą obejmować breakfast przez cały dzień, eggs, pancakes, burgers, sandwiches, coffee i pie.",
+    "Wygląd, menu i godziny działania dinerów różnią się; nie jest to formalna kategoria prawna restauracji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://americanhistory.si.edu/explore/stories/american-diners"
+  ],
+  "related_public_pages": []
+}
