@@ -1,0 +1,21 @@
+{
+  "id": "md-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MD",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Maryland",
+  "facts": [
+    "Nowy mieszkaniec powinien przenieść title lub registration pojazdu zgodnie z terminem i procedurą obowiązującą w stanie.",
+    "Proces może wymagać dokumentu ownership, potwierdzenia ubezpieczenia, identyfikacji, opłat i dodatkowych kontroli zależnie od pojazdu.",
+    "Stanowe wymagania dla nowych mieszkańców należy sprawdzić przed wizytą lub złożeniem wniosku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mva.maryland.gov/your-mva-guide/new-maryland-residents/title-register-your-vehicle"
+  ],
+  "related_public_pages": []
+}
