@@ -1,0 +1,21 @@
+{
+  "id": "country-papua-new-guinea",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Papua-Nowa Gwinea",
+  "facts": [
+    "Papua New Guinea occupies the eastern part of the island of New Guinea and numerous nearby islands in the southwestern Pacific.",
+    "Its capital is Port Moresby; English, Tok Pisin and Hiri Motu have official status, and the currency is the kina.",
+    "Papua New Guinea is a constitutional monarchy and one of the most linguistically diverse countries in the world."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pmnec.gov.pg/"
+  ],
+  "related_public_pages": []
+}
