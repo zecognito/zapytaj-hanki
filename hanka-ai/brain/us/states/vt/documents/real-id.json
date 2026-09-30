@@ -1,0 +1,21 @@
+{
+  "id": "vt-real_id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VT",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "real id — Vermont",
+  "facts": [
+    "Stan prowadzi lub reguluje ten program albo obowiązek.",
+    "Wymagania zależą od sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dmv.vermont.gov/licenses/types-of-licenses-ids/real-id"
+  ],
+  "related_public_pages": []
+}
