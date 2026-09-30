@@ -1,0 +1,21 @@
+{
+  "id": "polonia-city-county-metro-rule",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "polonia",
+  "subtopic": "demographics",
+  "title": "Polonia: city, county i metro to różne liczby",
+  "facts": [
+    "Statystyka dla miasta nie może być przedstawiana jako liczba dla całego metropolitan area.",
+    "Chicago city, Cook County i Chicago metro są różnymi geografiami; podobnie New York City i New York metro.",
+    "Przy porównaniu Polonii Hanka powinna zachować ten sam typ geografii po obu stronach porównania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/programs-surveys/metro-micro/about.html"
+  ],
+  "related_public_pages": []
+}
