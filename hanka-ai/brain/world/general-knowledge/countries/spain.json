@@ -1,0 +1,21 @@
+{
+  "id": "country-spain",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Hiszpania",
+  "facts": [
+    "Hiszpania zajmuje większość Półwyspu Iberyjskiego w południowo-zachodniej Europie, a jej stolicą jest Madryt.",
+    "Państwo jest monarchią parlamentarną; językiem urzędowym całego państwa jest hiszpański, a niektóre regiony mają dodatkowe języki współurzędowe.",
+    "Walutą jest euro, a Hiszpania należy do UE i NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.lamoncloa.gob.es/lang/en/espana/Paginas/index.aspx"
+  ],
+  "related_public_pages": []
+}
