@@ -1,0 +1,21 @@
+{
+  "id": "me-vehicle_registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "ME",
+  "topic": "vehicles",
+  "subtopic": "vehicle_registration",
+  "title": "Rejestracja pojazdu — Maine",
+  "facts": [
+    "Stan prowadzi lub reguluje ten program albo obowiązek.",
+    "Eligibility, dokumenty lub procedura zależą od sytuacji.",
+    "Aktualne wymagania należy sprawdzić w oficjalnym źródle stanowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.maine.gov/sos/bmv/registration/index.html"
+  ],
+  "related_public_pages": []
+}
