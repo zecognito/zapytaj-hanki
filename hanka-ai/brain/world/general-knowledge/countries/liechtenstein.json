@@ -1,0 +1,21 @@
+{
+  "id": "country-liechtenstein",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Liechtenstein",
+  "facts": [
+    "Liechtenstein jest małym śródlądowym państwem alpejskim między Szwajcarią a Austrią.",
+    "Stolicą jest Vaduz, językiem urzędowym niemiecki, a walutą frank szwajcarski.",
+    "Liechtenstein jest księstwem i monarchią konstytucyjną; należy do Europejskiego Obszaru Gospodarczego, ale nie do Unii Europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.liechtenstein.li/en/country-and-people/state"
+  ],
+  "related_public_pages": []
+}
