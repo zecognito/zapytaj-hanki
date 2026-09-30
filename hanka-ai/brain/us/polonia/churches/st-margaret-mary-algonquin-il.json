@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-margaret-mary-algonquin-il",
+  "country": "US",
+  "category": "church",
+  "name": "St. Margaret Mary Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "111 S Hubbard St",
+    "city": "Algonquin",
+    "state": "IL",
+    "postal_code": "60102",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 847 658 7625",
+  "email": null,
+  "website": "https://www.saintmargaretmary.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "IL"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; Hanka should direct users to the parish website for current Mass/confession times."
+  ],
+  "official_source": "https://www.saintmargaretmary.org",
+  "last_verified": "2026-09-30"
+}
