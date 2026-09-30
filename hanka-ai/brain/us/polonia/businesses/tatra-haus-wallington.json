@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-tatra-haus-wallington",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Tatra Haus",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "115 Main Ave",
+    "city": "Wallington",
+    "state": "NJ",
+    "postal_code": "07057",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 201-393-2400",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Wallington",
+    "NJ"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://polish-eats.com/chicago-delis/",
+  "last_verified": "2026-09-30"
+}
