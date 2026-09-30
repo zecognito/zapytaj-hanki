@@ -1,0 +1,21 @@
+{
+  "id": "home-army-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "resistance",
+  "title": "Armia Krajowa — podstawy",
+  "facts": [
+    "Armia Krajowa była główną organizacją zbrojną Polskiego Państwa Podziemnego podczas niemieckiej okupacji.",
+    "Powstała w 1942 r. z przemianowania Związku Walki Zbrojnej i podlegała władzom RP na uchodźstwie.",
+    "AK prowadziła działalność wywiadowczą, sabotażową, dywersyjną i zbrojną, a w 1944 r. uczestniczyła w akcji „Burza” i Powstaniu Warszawskim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
