@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-rzeznik-manchester-ct",
+  "country": "US",
+  "category": "store",
+  "name": "Rzeźnik Polish Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "835 Main St",
+    "city": "Manchester",
+    "state": "CT",
+    "postal_code": "06040",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 860-645-6999",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Manchester",
+    "CT"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://www.polishamericanbusiness.com/",
+  "last_verified": "2026-09-30"
+}
