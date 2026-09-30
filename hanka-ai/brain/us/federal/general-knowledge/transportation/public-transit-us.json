@@ -1,0 +1,21 @@
+{
+  "id": "public-transit-us",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "transportation",
+  "subtopic": "transit",
+  "title": "Public transit w USA",
+  "facts": [
+    "Public transportation w USA obejmuje m.in. buses, subway/metro, commuter rail, light rail, streetcars i ferries.",
+    "Systemy transportu publicznego są organizowane głównie regionalnie i lokalnie, więc dostępność bardzo różni się między miastami i obszarami wiejskimi.",
+    "Federal Transit Administration wspiera i nadzoruje federalne programy transit, ale nie prowadzi jednego krajowego miejskiego systemu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.transit.dot.gov/about-fta"
+  ],
+  "related_public_pages": []
+}
