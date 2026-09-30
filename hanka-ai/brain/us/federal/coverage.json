@@ -353,6 +353,37 @@
         "documents",
         "travel"
       ]
+    },
+    {
+      "id": "bankruptcy_debt_relief",
+      "label": "Bankructwo i oddłużanie",
+      "status": "started",
+      "subtopics": [
+        "chapter_7",
+        "chapter_13",
+        "automatic_stay",
+        "discharge",
+        "counseling",
+        "means_test",
+        "exemptions",
+        "retirement_protection",
+        "student_loans",
+        "credit_reporting",
+        "filing"
+      ],
+      "completed_subtopics": [
+        "chapter_7",
+        "chapter_13",
+        "automatic_stay",
+        "discharge",
+        "counseling",
+        "means_test",
+        "exemptions",
+        "retirement_protection",
+        "student_loans",
+        "credit_reporting",
+        "filing"
+      ]
     }
   ]
 }
