@@ -1,0 +1,21 @@
+{
+  "id": "dc-unemployment",
+  "country": "US",
+  "jurisdiction": "district",
+  "region": "DC",
+  "topic": "employment",
+  "subtopic": "unemployment",
+  "title": "unemployment — Washington, DC",
+  "facts": [
+    "Jurysdykcja prowadzi lub reguluje ten program albo obowiązek.",
+    "Wymagania zależą od sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://does.dc.gov/service/unemployment-compensation"
+  ],
+  "related_public_pages": []
+}
