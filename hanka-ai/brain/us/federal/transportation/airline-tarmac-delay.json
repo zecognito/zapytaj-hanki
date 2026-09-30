@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-transport-tarmac-delay",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "cars_transportation",
+  "subtopic": "air_travel",
+  "title": "Airline tarmac-delay protections",
+  "facts": [
+    "For covered flights at U.S. airports, federal tarmac-delay rules generally require airlines to begin moving an aircraft to a location where passengers can deplane before a domestic tarmac delay exceeds three hours or an international delay exceeds four hours, subject to safety, security and air-traffic-control exceptions.",
+    "Airlines generally must provide adequate food and drinking water no later than two hours after a tarmac delay begins, subject to safety or security exceptions.",
+    "Operable lavatories and necessary medical attention must be available during covered tarmac delays."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.transportation.gov/individuals/aviation-consumer-protection/tarmac-delays"
+  ],
+  "related_public_pages": []
+}
