@@ -1,0 +1,21 @@
+{
+  "id": "country-oman",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Oman",
+  "facts": [
+    "Oman leży na południowo-wschodnim krańcu Półwyspu Arabskiego i ma wybrzeża nad Morzem Arabskim oraz Zatoką Omańską.",
+    "Stolicą jest Maskat, językiem urzędowym arabski, a walutą rial omański.",
+    "Oman jest monarchią, której głową państwa jest sułtan."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fm.gov.om/about-oman/"
+  ],
+  "related_public_pages": []
+}
