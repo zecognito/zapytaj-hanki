@@ -1,0 +1,21 @@
+{
+  "id": "tsa-precheck-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "transportation",
+  "subtopic": "aviation",
+  "title": "TSA PreCheck — co to jest?",
+  "facts": [
+    "TSA PreCheck jest programem trusted traveler zapewniającym kwalifikującym się podróżnym dostęp do uproszczonych procedur security screening na uczestniczących lotniskach.",
+    "Enrollment wymaga aplikacji, weryfikacji i opłaty zgodnie z aktualnymi zasadami programu.",
+    "TSA PreCheck nie jest tym samym co Global Entry."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.tsa.gov/precheck"
+  ],
+  "related_public_pages": []
+}
