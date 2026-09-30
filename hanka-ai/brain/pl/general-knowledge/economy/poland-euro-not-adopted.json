@@ -1,0 +1,21 @@
+{
+  "id": "poland-euro-not-adopted",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "currency",
+  "title": "Polska a euro",
+  "facts": [
+    "Polska jest członkiem Unii Europejskiej, ale jej walutą pozostaje złoty.",
+    "Polska nie jest obecnie członkiem strefy euro.",
+    "Członkostwo w UE, Schengen i strefie euro to trzy różne kwestie i nie należy ich utożsamiać."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://european-union.europa.eu/principles-countries-history/country-profiles/poland_en"
+  ],
+  "related_public_pages": []
+}
