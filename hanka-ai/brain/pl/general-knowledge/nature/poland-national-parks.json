@@ -1,0 +1,21 @@
+{
+  "id": "poland-national-parks",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national_parks",
+  "title": "Parki narodowe w Polsce",
+  "facts": [
+    "Park narodowy jest w Polsce najwyższą formą obszarowej ochrony przyrody ustanawianą dla terenów o szczególnych wartościach przyrodniczych, naukowych, społecznych, kulturowych i edukacyjnych.",
+    "Polskie parki narodowe chronią bardzo różne środowiska: góry, lasy, mokradła, wybrzeże, jeziora i doliny rzeczne.",
+    "Park narodowy nie jest tym samym co park krajobrazowy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/klimat/parki-narodowe"
+  ],
+  "related_public_pages": []
+}
