@@ -1,0 +1,21 @@
+{
+  "id": "ga-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "GA",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w Georgii",
+  "facts": [
+    "Georgia SNAP zapewnia food benefits kwalifikującym się gospodarstwom domowym.",
+    "Program jest administrowany przez Georgia Division of Family & Children Services.",
+    "Eligibility i benefit amount zależą m.in. od wielkości gospodarstwa, dochodu i innych zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dfcs.georgia.gov/snap-food-stamps"
+  ],
+  "related_public_pages": []
+}
