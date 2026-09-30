@@ -1,0 +1,21 @@
+{
+  "id": "country-united-kingdom",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Wielka Brytania",
+  "facts": [
+    "Zjednoczone Królestwo obejmuje Anglię, Szkocję, Walię i Irlandię Północną.",
+    "Stolicą jest Londyn, a państwo jest monarchią konstytucyjną i demokracją parlamentarną.",
+    "Walutą jest funt szterling; Wielka Brytania jest stałym członkiem Rady Bezpieczeństwa ONZ i członkiem NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.uk/government/how-government-works"
+  ],
+  "related_public_pages": []
+}
