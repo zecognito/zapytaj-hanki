@@ -1,0 +1,21 @@
+{
+  "id": "single-family-home",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "housing",
+  "subtopic": "housing_terms",
+  "title": "Single-family home",
+  "facts": [
+    "Single-family home to samodzielny budynek mieszkalny przeznaczony zasadniczo dla jednego gospodarstwa domowego.",
+    "Termin opisuje typ zabudowy, a nie sposób finansowania ani własności gruntu w każdej sytuacji.",
+    "Zoning i lokalne definicje prawne mogą używać bardziej szczegółowych kryteriów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/construction/chars/definitions/"
+  ],
+  "related_public_pages": []
+}
