@@ -1,0 +1,21 @@
+{
+  "id": "wa-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WA",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w stanie Waszyngton",
+  "facts": [
+    "Washington nie nakłada ogólnego stanowego podatku od osobistego dochodu takiego jak wages lub salary.",
+    "Stan ma odrębne podatki, które mogą dotyczyć określonych rodzajów transakcji lub dochodu, więc brak ogólnego personal income tax nie oznacza braku wszystkich podatków stanowych.",
+    "Federalny income tax nadal obowiązuje mieszkańców Washington zgodnie z prawem federalnym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://apps.leg.wa.gov/rcw/default.aspx?cite=1.90.100"
+  ],
+  "related_public_pages": []
+}
