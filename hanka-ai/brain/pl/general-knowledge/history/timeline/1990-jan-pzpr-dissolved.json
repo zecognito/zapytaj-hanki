@@ -1,0 +1,22 @@
+{
+  "id": "1990-jan-pzpr-dissolved",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "styczeń 1990 — rozwiązanie PZPR",
+  "facts": [
+    "W styczniu 1990 r. odbył się XI Zjazd Polskiej Zjednoczonej Partii Robotniczej.",
+    "PZPR zakończyła działalność i została rozwiązana.",
+    "Był to symboliczny koniec partii, która dominowała w systemie politycznym PRL."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.senat.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
