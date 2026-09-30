@@ -1,0 +1,21 @@
+{
+  "id": "ignacy-paderewski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "people",
+  "title": "Ignacy Jan Paderewski",
+  "facts": [
+    "Ignacy Jan Paderewski był światowej sławy pianistą i kompozytorem oraz działaczem na rzecz niepodległości Polski.",
+    "Wykorzystywał swoją popularność w USA do promowania sprawy polskiej podczas I wojny światowej.",
+    "W 1919 r. został premierem i ministrem spraw zagranicznych Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.loc.gov/item/ihas.200156436/"
+  ],
+  "related_public_pages": []
+}
