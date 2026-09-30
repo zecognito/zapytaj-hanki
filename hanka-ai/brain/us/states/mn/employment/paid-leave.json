@@ -1,0 +1,21 @@
+{
+  "id": "mn-paid-leave",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MN",
+  "topic": "employment",
+  "subtopic": "paid_family_medical_leave",
+  "title": "Minnesota Paid Leave",
+  "facts": [
+    "Minnesota Paid Leave zapewnia kwalifikującym się pracownikom płatny czas wolny z określonych powodów medycznych i rodzinnych.",
+    "Program rozpoczął świadczenia 1 stycznia 2026 i obejmuje medical leave oraz family leave zgodnie z zasadami stanowymi.",
+    "Eligibility, weekly benefit i maksymalny czas leave zależą od programu i sytuacji pracownika."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mn.gov/deed/paidleave/"
+  ],
+  "related_public_pages": []
+}
