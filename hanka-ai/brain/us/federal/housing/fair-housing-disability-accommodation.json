@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-housing-disability-accommodation",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "housing_mortgages",
+  "subtopic": "fair_housing",
+  "title": "Fair housing - disability accommodations and modifications",
+  "facts": [
+    "The Fair Housing Act can require housing providers to make reasonable accommodations in rules, policies, practices or services when necessary for a person with a disability to use and enjoy housing, unless a legal exception applies.",
+    "The Act also provides rights concerning reasonable modifications to premises, with responsibility for costs and restoration depending on the circumstances and housing program.",
+    "A housing provider may request information necessary to evaluate a disability-related request when the disability or need is not obvious, but federal fair-housing rules limit what can properly be demanded."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.hud.gov/helping-americans/disability-rights"
+  ],
+  "related_public_pages": []
+}
