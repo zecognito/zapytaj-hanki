@@ -1,0 +1,21 @@
+{
+  "id": "sniezka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Śnieżka",
+  "facts": [
+    "Śnieżka jest najwyższym szczytem Karkonoszy i całych Sudetów.",
+    "Leży na granicy Polski i Czech.",
+    "Polska część znajduje się w Karkonoskim Parku Narodowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://kpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
