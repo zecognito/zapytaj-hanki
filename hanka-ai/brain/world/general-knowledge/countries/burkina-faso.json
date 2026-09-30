@@ -1,0 +1,21 @@
+{
+  "id": "country-burkina-faso",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Burkina Faso",
+  "facts": [
+    "Burkina Faso jest śródlądowym państwem Afryki Zachodniej.",
+    "Stolicą jest Wagadugu, a walutą frank CFA Afryki Zachodniej; francuski odgrywał historycznie główną rolę administracyjną, obok licznych języków narodowych.",
+    "Państwo doświadcza poważnych problemów bezpieczeństwa związanych z przemocą zbrojną w regionie Sahelu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/africarenewal/magazine/february-2024/burkina-faso"
+  ],
+  "related_public_pages": []
+}
