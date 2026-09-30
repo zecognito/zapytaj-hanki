@@ -46,10 +46,10 @@
       "status": "audit_in_progress",
       "records": 168,
       "notes": [
-        "Food/retail audit remains in progress. Total records reduced from 170 to 168 after removing Acme Smoked Fish (Brooklyn) and Camellia Meats (Buffalo): both are legitimate businesses but insufficiently Polish-specific for the Polonia directory.",
-        "Several previously suspected duplicate/placeholder filenames were already absent on the branch, including NetCost Port Richmond, Malczewski Butter Lambs, Polish Kitchen Erie duplicate candidates, Srodek Warren, and the earlier Naples generic-market candidate; they are not inflating the current count.",
-        "Cape Coral European Market is retained with explicit community-supported Polish relevance. European Food Market Fort Myers and International Food & Produce North Port were downgraded to unverified because first-party Polish-specific evidence was insufficient.",
-        "Audit policy is now stricter: being Eastern European, selling kielbasa, or appearing in a broad directory is not by itself enough for active Polish-business status. Commercial layer remains audit_in_progress and must not be ingested into Vectorize."
+        "Food/retail audit remains in progress at 168 records. This pass corrected two incomplete location records: Zygma European Groceries & Deli is now pinned to Duluth GA, and Euromart to 2531 N 12th St in Grand Junction CO, using current business sources.",
+        "Chicago Market Lakewood CO and Polonia Polish Restaurant Longwood FL were upgraded from third-party/directory citations to their own current business sites.",
+        "Two metro-only placeholders were downgraded from active to unverified: Polish Cuisine Las Vegas and Polish Deli Portland. They lack sufficiently defensible current street-level location data for local recommendations.",
+        "The active set is becoming materially cleaner: records without a reliable physical location or strong Polish-business identity are no longer allowed to remain active merely because a community page mentions them. Vectorize ingestion remains blocked until audit completion."
       ]
     },
     "media_culture": {
