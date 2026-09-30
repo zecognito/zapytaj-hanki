@@ -1,0 +1,21 @@
+{
+  "id": "umowa-zlecenie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "work",
+  "title": "Umowa zlecenie",
+  "facts": [
+    "Umowa zlecenie jest umową cywilnoprawną regulowaną przede wszystkim przez Kodeks cywilny, a nie typową umową o pracę.",
+    "Zakres składek, minimalnych stawek i innych obowiązków zależy od aktualnych przepisów oraz sytuacji osoby wykonującej zlecenie.",
+    "Sama nazwa umowy nie zawsze rozstrzyga prawidłową kwalifikację relacji, jeśli faktycznie ma ona cechy stosunku pracy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina/umowy-cywilnoprawne"
+  ],
+  "related_public_pages": []
+}
