@@ -1,0 +1,32 @@
+{
+  "id": "polonia-prof-real-estate-judyta-komon-flemington-nj",
+  "country": "US",
+  "category": "real_estate",
+  "name": "Judyta Komon - Coldwell Banker Realty",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Flemington",
+    "state": "NJ",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "buyer representation",
+    "seller representation",
+    "residential real estate"
+  ],
+  "phone": "+1 347-937-4525",
+  "email": "judyta.komon@cbrealty.com",
+  "website": "https://www.coldwellbanker.com/nj/flemington/agents/judyta-komon/aid-P00200000GtVWG0mrhwdW6TvuTbAlzHrnn1PsTbK",
+  "official_source": "https://www.coldwellbanker.com/nj/flemington/agents/judyta-komon/aid-P00200000GtVWG0mrhwdW6TvuTbAlzHrnn1PsTbK",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Coldwell Banker official profile lists NJ license 2321162 and explicitly states Judyta is a native Polish speaker fluent in Polish and English."
+  ]
+}
