@@ -1,0 +1,21 @@
+{
+  "id": "country-honduras",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Honduras",
+  "facts": [
+    "Honduras leży w Ameryce Środkowej i ma wybrzeże nad Morzem Karaibskim oraz niewielki dostęp do Pacyfiku przez Zatokę Fonseca.",
+    "Stolicą jest Tegucigalpa, językiem urzędowym hiszpański, a walutą lempira.",
+    "Honduras jest republiką."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sreci.gob.hn/"
+  ],
+  "related_public_pages": []
+}
