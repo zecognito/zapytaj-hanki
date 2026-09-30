@@ -1,0 +1,21 @@
+{
+  "id": "poland-administrative-division",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "administration",
+  "title": "Podział administracyjny Polski",
+  "facts": [
+    "Polska ma trójstopniowy zasadniczy podział terytorialny: województwa, powiaty i gminy.",
+    "Od reformy obowiązującej od 1999 r. Polska ma 16 województw.",
+    "Miasta na prawach powiatu łączą zadania gminy i powiatu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5501/14/17/1/polska_w_liczbach_2024_pl_pi.pdf"
+  ],
+  "related_public_pages": []
+}
