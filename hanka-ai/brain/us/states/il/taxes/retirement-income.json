@@ -5,11 +5,11 @@
   "region": "IL",
   "topic": "taxes",
   "subtopic": "retirement_income",
-  "title": "Illinois treatment of retirement income",
+  "title": "Opodatkowanie dochodów emerytalnych w Illinois",
   "facts": [
-    "Illinois generally allows a subtraction from Illinois taxable income for qualifying retirement and Social Security income included in federal adjusted gross income.",
-    "Qualifying retirement-income categories and reporting rules should be checked against the current IL-1040 instructions for the tax year.",
-    "This Illinois treatment is separate from whether the income is taxable on the federal return."
+    "Illinois zasadniczo pozwala odjąć od dochodu podlegającego podatkowi stanowemu kwalifikujące się dochody emerytalne i Social Security, które zostały uwzględnione w federal adjusted gross income.",
+    "Kategorie kwalifikujących się dochodów emerytalnych i sposób wykazania należy sprawdzić w aktualnej instrukcji IL-1040 dla danego roku podatkowego.",
+    "Zasady Illinois są odrębne od tego, czy dany dochód podlega podatkowi federalnemu."
   ],
   "effective_from": null,
   "effective_to": null,
