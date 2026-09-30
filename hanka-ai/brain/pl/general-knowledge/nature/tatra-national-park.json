@@ -1,0 +1,21 @@
+{
+  "id": "tatra-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national_parks",
+  "title": "Tatrzański Park Narodowy",
+  "facts": [
+    "Tatrzański Park Narodowy chroni polską część Tatr i obejmuje najwyższe obszary górskie kraju.",
+    "Park graniczy ze słowackim Tatranským národným parkiem.",
+    "Zasady poruszania się po szlakach, zamknięcia i warunki bezpieczeństwa są zmienne i powinny być sprawdzane przed wyjściem w góry."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
