@@ -1,0 +1,21 @@
+{
+  "id": "nj-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NJ",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową w New Jersey",
+  "facts": [
+    "New Jersey Law Against Discrimination zabrania dyskryminacji mieszkaniowej ze względu na chronione cechy określone przez stan.",
+    "Ochrona New Jersey obejmuje więcej kategorii niż podstawowy federalny Fair Housing Act.",
+    "Skargi można zgłaszać do New Jersey Division on Civil Rights zgodnie z aktualną procedurą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.njoag.gov/about/divisions-and-offices/division-on-civil-rights-home/housing-discrimination/"
+  ],
+  "related_public_pages": []
+}
