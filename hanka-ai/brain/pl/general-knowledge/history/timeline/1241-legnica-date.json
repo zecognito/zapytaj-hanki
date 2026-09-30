@@ -1,0 +1,21 @@
+{
+  "id": "1241-legnica-date",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1241 — bitwa pod Legnicą",
+  "facts": [
+    "9 kwietnia 1241 r. wojska mongolskie pokonały siły księcia Henryka II Pobożnego pod Legnicą.",
+    "Henryk II Pobożny zginął w bitwie.",
+    "Starcie było częścią mongolskiej kampanii w Europie Środkowej, a nie samodzielną wojną skierowaną wyłącznie przeciw Polsce."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
