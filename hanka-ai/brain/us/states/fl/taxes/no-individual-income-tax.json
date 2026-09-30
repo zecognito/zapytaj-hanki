@@ -1,0 +1,21 @@
+{
+  "id": "fl-no-individual-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "FL",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Brak stanowego podatku dochodowego od osób fizycznych na Florydzie",
+  "facts": [
+    "Florida nie nakłada stanowego individual income tax na osoby fizyczne.",
+    "Dochód mieszkańca Florydy nadal może podlegać federalnemu income tax oraz innym podatkom stanowym lub lokalnym zależnie od rodzaju transakcji i sytuacji.",
+    "Brak Florida individual income tax nie oznacza braku innych podatków, takich jak sales tax czy property tax."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://floridarevenue.com/taxes/Pages/default.aspx"
+  ],
+  "related_public_pages": []
+}
