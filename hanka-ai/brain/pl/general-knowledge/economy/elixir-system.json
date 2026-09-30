@@ -1,0 +1,21 @@
+{
+  "id": "elixir-system",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "payments",
+  "title": "System ELIXIR",
+  "facts": [
+    "ELIXIR jest systemem rozliczeń międzybankowych prowadzonym przez Krajową Izbę Rozliczeniową.",
+    "Obsługuje znaczną część standardowych krajowych przelewów w złotych między bankami.",
+    "Sesje i godziny księgowania po stronie konkretnego banku mogą się różnić od harmonogramu samego systemu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.kir.pl/nasza-oferta/banki/rozliczenia/elixir"
+  ],
+  "related_public_pages": []
+}
