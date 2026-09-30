@@ -1,0 +1,21 @@
+{
+  "id": "country-tanzania",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Tanzania",
+  "facts": [
+    "Tanzania leży we wschodniej Afryce nad Oceanem Indyjskim i powstała z unii Tanganiki i Zanzibaru.",
+    "Stolicą jest Dodoma, natomiast Dar es Salaam pozostaje największym miastem i głównym ośrodkiem gospodarczym.",
+    "Suahili i angielski pełnią ważne funkcje publiczne; walutą jest szyling tanzański, a na terytorium kraju znajduje się Kilimandżaro."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.tanzania.go.tz/"
+  ],
+  "related_public_pages": []
+}
