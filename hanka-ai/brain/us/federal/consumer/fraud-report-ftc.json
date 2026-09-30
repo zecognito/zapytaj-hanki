@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-consumer-report-fraud-ftc",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "consumer_protection",
+  "subtopic": "fraud",
+  "title": "Reporting scams and fraud to the FTC",
+  "facts": [
+    "Consumers can report scams, fraud and bad business practices to the Federal Trade Commission through ReportFraud.ftc.gov.",
+    "An FTC report helps law-enforcement and consumer-protection efforts but does not guarantee that the FTC will recover an individual consumer's money.",
+    "Identity theft has a separate FTC recovery workflow at IdentityTheft.gov.",
+    "Consumers facing an immediate unauthorized financial transaction should also contact the relevant bank, card issuer, payment service or other provider promptly."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://reportfraud.ftc.gov/",
+    "https://www.identitytheft.gov/"
+  ],
+  "related_public_pages": []
+}
