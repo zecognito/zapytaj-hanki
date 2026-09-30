@@ -1,0 +1,21 @@
+{
+  "id": "country-south-korea",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Korea Południowa",
+  "facts": [
+    "Republika Korei, powszechnie nazywana Koreą Południową, leży we wschodniej Azji na południowej części Półwyspu Koreańskiego.",
+    "Stolicą jest Seul, językiem koreański, a walutą won południowokoreański.",
+    "Korea Południowa jest republiką demokratyczną i wysoko uprzemysłowioną gospodarką."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.korea.net/AboutKorea/Society/South-Korea-Summary"
+  ],
+  "related_public_pages": []
+}
