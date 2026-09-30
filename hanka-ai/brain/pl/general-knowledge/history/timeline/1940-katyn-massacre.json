@@ -1,0 +1,23 @@
+{
+  "id": "1940-katyn-massacre",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "wiosna 1940 — zbrodnia katyńska",
+  "facts": [
+    "Wiosną 1940 r. sowieckie NKWD zamordowało tysiące polskich jeńców wojennych i więźniów na podstawie decyzji najwyższych władz ZSRR.",
+    "Ofiary zabijano m.in. w Katyniu, Kalininie i Charkowie.",
+    "Przez dziesięciolecia Związek Sowiecki zaprzeczał odpowiedzialności i przypisywał zbrodnię Niemcom."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://www.auschwitz.org/",
+    "https://polin.pl/"
+  ],
+  "related_public_pages": []
+}
