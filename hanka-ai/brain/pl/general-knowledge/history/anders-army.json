@@ -1,0 +1,21 @@
+{
+  "id": "anders-army",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world_war_ii",
+  "title": "Armia Andersa",
+  "facts": [
+    "Armia Polska w ZSRR pod dowództwem gen. Władysława Andersa została utworzona po układzie Sikorski–Majski w 1941 r.",
+    "Wojsko i towarzyszący mu cywile zostali następnie ewakuowani ze Związku Sowieckiego przez Iran.",
+    "2 Korpus Polski dowodzony przez Andersa walczył później we Włoszech, m.in. pod Monte Cassino."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/iran/armia-andersa"
+  ],
+  "related_public_pages": []
+}
