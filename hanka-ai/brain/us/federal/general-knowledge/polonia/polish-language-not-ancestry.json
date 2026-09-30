@@ -1,0 +1,21 @@
+{
+  "id": "polish-language-not-ancestry",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "demographics",
+  "subtopic": "polish_language_definition",
+  "title": "Mówiący po polsku w domu to nie cała Polonia",
+  "facts": [
+    "ACS publikuje dane o języku używanym w domu dla ludności w wieku 5 lat i więcej.",
+    "Liczba osób mówiących po polsku w domu nie jest tym samym co Polish ancestry ani Poland-born.",
+    "Wielu Amerykanów polskiego pochodzenia nie mówi po polsku w domu, a język jest odrębną miarą demograficzną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/newsroom/stories/polish-american-heritage-month.html"
+  ],
+  "related_public_pages": []
+}
