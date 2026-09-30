@@ -1,0 +1,21 @@
+{
+  "id": "polish-american-congress",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL-US",
+  "topic": "polonia",
+  "subtopic": "organizations",
+  "title": "Polish American Congress",
+  "facts": [
+    "Polish American Congress jest organizacją polonijną utworzoną podczas II wojny światowej w celu reprezentowania części interesów społeczności Polish American.",
+    "Organizacja działa poprzez strukturę krajową i oddziały stanowe/terenowe.",
+    "Nie jest oficjalnym organem rządu Polski ani USA i nie reprezentuje automatycznie wszystkich osób polskiego pochodzenia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pac1944.org/"
+  ],
+  "related_public_pages": []
+}
