@@ -1,0 +1,21 @@
+{
+  "id": "polish-formal-informal-you",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "Pan, pani i „ty”",
+  "facts": [
+    "Polszczyzna rozróżnia bezpośrednie „ty” od grzecznościowych form „pan” i „pani”.",
+    "Przejście na „ty” zależy od relacji, wieku, środowiska i sytuacji społecznej.",
+    "Współczesne zwyczaje są mniej formalne w części środowisk, ale automatyczne używanie „ty” wobec każdego może być odebrane jako zbyt poufałe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/poradnia/"
+  ],
+  "related_public_pages": []
+}
