@@ -1,0 +1,21 @@
+{
+  "id": "may-day-poland-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "calendar",
+  "title": "1 maja w Polsce",
+  "facts": [
+    "1 maja jest w Polsce Świętem Państwowym i dniem ustawowo wolnym od pracy.",
+    "Data jest związana z międzynarodowym Świętem Pracy.",
+    "W polskim kalendarzu 1 maja rozpoczyna okres potocznie nazywany majówką, obejmujący także 2 i 3 maja."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
