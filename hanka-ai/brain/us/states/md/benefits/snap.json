@@ -1,0 +1,21 @@
+{
+  "id": "md-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MD",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w Maryland",
+  "facts": [
+    "SNAP pomaga kwalifikującym się gospodarstwom domowym kupować żywność.",
+    "Eligibility i wysokość świadczenia zależą m.in. od wielkości gospodarstwa, dochodu i federalno-stanowych zasad programu.",
+    "Wnioski i wymagane aktualizacje prowadzi właściwa agencja stanowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dhs.maryland.gov/supplemental-nutrition-assistance-program/"
+  ],
+  "related_public_pages": []
+}
