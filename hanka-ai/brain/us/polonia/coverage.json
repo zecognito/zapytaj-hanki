@@ -33,13 +33,13 @@
       ]
     },
     "organizations": {
-      "status": "started",
-      "records": 36,
+      "status": "mature",
+      "records": 60,
       "notes": [
-        "Seeded from the Embassy of the Republic of Poland's current roster of Polish institutions operating in the United States and official institutional sources.",
-        "Includes national umbrella organizations, cultural centers, museums/libraries, educational/scientific institutions, professional associations and durable regional Polonia organizations.",
-        "Informal social-media-only groups are excluded from the canonical first pass; organizational status, programs and contact details should be periodically refreshed.",
-        "Further expansion should capture remaining strong regional organizations and cultural institutions before this category is marked mature."
+        "First-pass national institutional roster is mature, seeded primarily from the Embassy of the Republic of Poland's current list of Polish institutions operating in the United States and official organization sources.",
+        "Includes national and regional civic organizations, cultural centers, museums/libraries, educational/scientific institutions, youth/scouting groups, arts organizations and professional associations.",
+        "Informal social-media-only groups and very small ad-hoc clubs are excluded from the canonical first pass; durable new institutions can be added later.",
+        "Organizational status, programs and contact details are freshness-sensitive and should be periodically refreshed independently of the factual Brain."
       ]
     },
     "businesses": {
