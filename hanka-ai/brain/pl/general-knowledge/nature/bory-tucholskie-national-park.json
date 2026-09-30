@@ -1,0 +1,21 @@
+{
+  "id": "bory-tucholskie-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national-parks",
+  "title": "Park Narodowy „Bory Tucholskie”",
+  "facts": [
+    "Park Narodowy „Bory Tucholskie” leży na Pomorzu, w obrębie rozległego kompleksu Borów Tucholskich.",
+    "Chroni przede wszystkim ekosystemy leśne i jeziorne, w tym charakterystyczne jeziora lobeliowe.",
+    "Park jest częścią większego krajobrazu przyrodniczego Borów Tucholskich, obejmującego liczne jeziora, bory sosnowe i obszary polodowcowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://pnbt.gov.pl/"
+  ],
+  "related_public_pages": []
+}
