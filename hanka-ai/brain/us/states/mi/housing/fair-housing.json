@@ -1,0 +1,21 @@
+{
+  "id": "mi-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MI",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową w Michigan",
+  "facts": [
+    "Michigan Elliott-Larsen Civil Rights Act oraz inne właściwe przepisy zapewniają ochronę przed określonymi formami housing discrimination.",
+    "Federalny Fair Housing Act może zapewniać dodatkową lub równoległą ochronę.",
+    "Michigan Department of Civil Rights przyjmuje skargi dotyczące kwalifikującej się dyskryminacji zgodnie ze swoją procedurą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.michigan.gov/mdcr/for-victims-of-unlawful-discrimination"
+  ],
+  "related_public_pages": []
+}
