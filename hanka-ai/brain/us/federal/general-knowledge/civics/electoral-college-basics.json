@@ -1,0 +1,21 @@
+{
+  "id": "electoral-college-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "civics",
+  "subtopic": "elections",
+  "title": "Electoral College — podstawy",
+  "facts": [
+    "Prezydent i wiceprezydent USA są formalnie wybierani przez Electoral College, a nie przez bezpośredni ogólnokrajowy popular vote.",
+    "Każdy stan ma liczbę electors równą łącznej liczbie jego senatorów i representatives; District of Columbia otrzymuje electors na mocy 23rd Amendment.",
+    "Łącznie jest 538 electoral votes; większość to 270."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.archives.gov/electoral-college/about"
+  ],
+  "related_public_pages": []
+}
