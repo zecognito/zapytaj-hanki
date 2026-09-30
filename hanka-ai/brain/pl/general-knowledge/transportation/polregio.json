@@ -1,0 +1,21 @@
+{
+  "id": "polregio",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "infrastructure",
+  "title": "POLREGIO",
+  "facts": [
+    "POLREGIO jest przewoźnikiem kolejowym obsługującym przede wszystkim regionalne i lokalne połączenia pasażerskie.",
+    "Zakres połączeń zależy m.in. od umów z samorządami województw.",
+    "Nie wszystkie regionalne pociągi w Polsce są obsługiwane przez POLREGIO; istnieją także przewoźnicy samorządowi i inni operatorzy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://polregio.pl/"
+  ],
+  "related_public_pages": []
+}
