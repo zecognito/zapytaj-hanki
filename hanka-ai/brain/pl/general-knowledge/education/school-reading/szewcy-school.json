@@ -1,0 +1,21 @@
+{
+  "id": "szewcy-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Szewcy — Stanisław Ignacy Witkiewicz",
+  "facts": [
+    "Szewcy, autor: Stanisław Ignacy Witkiewicz; należy do szkolnego obszaru literatury epoki: dwudziestolecie międzywojenne.",
+    "Groteskowy dramat przedstawiający kolejne przewroty społeczne i polityczne oraz mechanizmy rewolucji i władzy.",
+    "Hanka powinna umieć połączyć utwór z epoką, kontekstem historycznym, bohaterami, motywami i typowymi szkolnymi problemami interpretacyjnymi."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
