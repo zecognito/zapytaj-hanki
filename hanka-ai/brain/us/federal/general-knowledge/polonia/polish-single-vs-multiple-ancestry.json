@@ -1,0 +1,22 @@
+{
+  "id": "polish-single-vs-multiple-ancestry",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "demographics",
+  "subtopic": "ancestry_definition",
+  "title": "Single ancestry a multiple ancestry — Polish",
+  "facts": [
+    "ACS rozróżnia osoby zgłaszające tylko jedno ancestry od osób zgłaszających wiele ancestry.",
+    "B04004 dotyczy single ancestry, B04005 multiple ancestry, a B04006 obejmuje Polish ancestry niezależnie od tego, czy zgłoszono jedno czy wiele pochodzeń.",
+    "Do ogólnego pytania o liczbę osób polskiego pochodzenia najbardziej odpowiednia jest zwykle miara B04006/C04006, z wyjaśnieniem definicji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/data/academy/resources/one-pagers/ancestry.html",
+    "https://api.census.gov/data/2024/acs/acs1/variables.html"
+  ],
+  "related_public_pages": []
+}
