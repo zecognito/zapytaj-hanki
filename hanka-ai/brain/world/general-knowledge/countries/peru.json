@@ -1,0 +1,21 @@
+{
+  "id": "country-peru",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Peru",
+  "facts": [
+    "Peru leży na zachodnim wybrzeżu Ameryki Południowej, a jego terytorium obejmuje wybrzeże Pacyfiku, Andy i część Amazonii.",
+    "Stolicą jest Lima, a walutą sol; hiszpański jest językiem urzędowym, a keczua, ajmara i inne języki rdzenne mają status urzędowy tam, gdzie dominują.",
+    "Peru jest republiką i dziedzicem ważnej części cywilizacji andyjskich, w tym Imperium Inków."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gob.pe/"
+  ],
+  "related_public_pages": []
+}
