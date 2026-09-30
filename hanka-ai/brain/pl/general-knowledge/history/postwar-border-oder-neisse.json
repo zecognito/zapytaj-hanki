@@ -1,0 +1,21 @@
+{
+  "id": "postwar-border-oder-neisse",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "postwar",
+  "title": "Granica na Odrze i Nysie Łużyckiej",
+  "facts": [
+    "Po II wojnie światowej zachodnia granica Polski została przesunięta na linię Odry i Nysy Łużyckiej.",
+    "Zmiana była częścią powojennego przekształcenia terytorium Polski i wiązała się z ogromnymi przemieszczeniami ludności.",
+    "Współczesna granica polsko-niemiecka jest prawnie uznana przez oba państwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/niemcy/stosunki-dwustronne"
+  ],
+  "related_public_pages": []
+}
