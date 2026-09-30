@@ -1,0 +1,22 @@
+{
+  "id": "1953-stalin-death-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1953 — śmierć Stalina i początek zmian w bloku wschodnim",
+  "facts": [
+    "Józef Stalin zmarł 5 marca 1953 r.",
+    "Jego śmierć rozpoczęła stopniowe zmiany polityczne w ZSRR i państwach bloku wschodniego, choć represyjny system w Polsce nie zniknął natychmiast.",
+    "Proces destalinizacji nabrał większego znaczenia po 1956 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
