@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-healthcare-cobra-marketplace-choice",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "healthcare",
+  "subtopic": "cobra",
+  "title": "COBRA versus Marketplace after job coverage ends",
+  "facts": [
+    "Loss of job-based health coverage can create a Marketplace Special Enrollment Period, so a person may have a choice between COBRA and Marketplace coverage.",
+    "COBRA usually preserves the existing group plan but may require paying the full premium; Marketplace plans have separate networks, benefits and potential income-based savings.",
+    "Voluntarily ending COBRA early generally does not automatically create a Marketplace Special Enrollment Period; exhausting COBRA or another qualifying event can have different rules.",
+    "COBRA interactions with Medicare have special coordination and enrollment consequences and should not be treated as ordinary employer active coverage."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.healthcare.gov/unemployed/cobra-coverage/",
+    "https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra"
+  ],
+  "related_public_pages": []
+}
