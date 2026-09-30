@@ -1,0 +1,21 @@
+{
+  "id": "a2-motorway",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Autostrada A2",
+  "facts": [
+    "A2 jest jednym z głównych korytarzy drogowych wschód–zachód w Polsce.",
+    "Łączy m.in. kierunek granicy z Niemcami, Poznań, Łódź i Warszawę.",
+    "Niektóre odcinki mogą mieć różne systemy zarządzania i opłat, dlatego praktyczne informacje wymagają bieżącej weryfikacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
