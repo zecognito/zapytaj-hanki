@@ -1,0 +1,20 @@
+{
+  "id": "charters-of-freedom",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "history",
+  "subtopic": "founding_documents",
+  "title": "Charters of Freedom",
+  "facts": [
+    "National Archives określa Declaration of Independence, Constitution i Bill of Rights łącznie jako Charters of Freedom.",
+    "Dokumenty te pełnią różne role historyczne i prawne i nie powinny być traktowane jako zamienne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.archives.gov/founding-docs"
+  ],
+  "related_public_pages": []
+}
