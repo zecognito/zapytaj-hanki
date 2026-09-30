@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-agatha-st-louis-mo",
+  "country": "US",
+  "category": "church",
+  "name": "St. Agatha Polish Roman Catholic Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "3239 S 9th St",
+    "city": "St. Louis",
+    "state": "MO",
+    "postal_code": "63118",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 314 772 1603",
+  "email": null,
+  "website": "https://www.polishchurchstlouis.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "MO"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify current times on the official parish or diocesan source."
+  ],
+  "official_source": "https://www.polishchurchstlouis.org/",
+  "last_verified": "2026-09-30"
+}
