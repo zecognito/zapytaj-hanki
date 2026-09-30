@@ -1,0 +1,21 @@
+{
+  "id": "co-paid-family-medical-leave",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CO",
+  "topic": "employment",
+  "subtopic": "paid_family_medical_leave",
+  "title": "Paid Family and Medical Leave w Kolorado",
+  "facts": [
+    "Colorado FAMLI zapewnia kwalifikującym się pracownikom płatny leave z określonych powodów rodzinnych i medycznych.",
+    "Program jest finansowany przez składki zgodnie z zasadami FAMLI, z wyjątkami i szczególnymi regułami dla niektórych pracodawców i pracowników.",
+    "Eligibility, wysokość świadczenia i długość leave zależą od aktualnych zasad programu i sytuacji pracownika."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://famli.colorado.gov/"
+  ],
+  "related_public_pages": []
+}
