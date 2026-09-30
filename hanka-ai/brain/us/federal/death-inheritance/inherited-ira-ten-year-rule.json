@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-death-inherited-ira-ten-year-rule",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "death_inheritance",
+  "subtopic": "inherited_retirement",
+  "title": "Inherited IRA - 10-year rule basics",
+  "facts": [
+    "For many designated beneficiaries who inherit retirement accounts from owners dying after 2019, federal SECURE Act rules require the inherited account to be fully distributed by the end of the tenth year after death.",
+    "Exceptions and different payout rules apply to eligible designated beneficiaries, including certain surviving spouses, minor children of the account owner until the applicable age transition, disabled or chronically ill individuals, and beneficiaries not more than 10 years younger than the owner.",
+    "Annual required minimum distributions during the 10-year period can also apply in certain cases depending on whether the original owner died before or after the required beginning date.",
+    "Inherited-retirement rules are fact-specific and should identify the beneficiary relationship, account type and year of death."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary"
+  ],
+  "related_public_pages": []
+}
