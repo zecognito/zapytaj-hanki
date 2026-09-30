@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polka-deli-orange-ca",
+  "country": "US",
+  "category": "store",
+  "name": "Polka Delicatessen",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "11005 Chapman Ave",
+    "city": "Garden Grove",
+    "state": "CA",
+    "postal_code": "92840",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 714-590-1588",
+  "email": null,
+  "website": "https://polkadelicatessen.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Garden Grove",
+    "CA"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://polkadelicatessen.com/",
+  "last_verified": "2026-09-30"
+}
