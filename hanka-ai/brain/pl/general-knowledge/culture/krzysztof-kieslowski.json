@@ -1,0 +1,21 @@
+{
+  "id": "krzysztof-kieslowski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "film",
+  "title": "Krzysztof Kieślowski",
+  "facts": [
+    "Krzysztof Kieślowski był polskim reżyserem i scenarzystą o międzynarodowej renomie.",
+    "Do jego najbardziej znanych dzieł należą „Dekalog” oraz trylogia „Trzy kolory”.",
+    "Jego filmy często koncentrują się na wyborach moralnych, przypadku, odpowiedzialności i relacjach między ludźmi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/krzysztof-kieslowski"
+  ],
+  "related_public_pages": []
+}
