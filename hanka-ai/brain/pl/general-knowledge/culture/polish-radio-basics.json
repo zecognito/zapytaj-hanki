@@ -1,0 +1,21 @@
+{
+  "id": "polish-radio-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "media",
+  "title": "Polskie Radio — podstawy",
+  "facts": [
+    "Polskie Radio jest polskim nadawcą radiowym o tradycji sięgającej okresu międzywojennego.",
+    "Publiczne radio odegrało ważną rolę w historii polskich mediów, kultury i informacji.",
+    "Aktualna struktura prawna, kanały i zarządzanie mediami publicznymi mogą być przedmiotem zmian i sporów politycznych, dlatego przy pytaniach o stan bieżący Hanka powinna korzystać z aktualnych źródeł."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.polskieradio.pl/"
+  ],
+  "related_public_pages": []
+}
