@@ -1,0 +1,35 @@
+{
+  "id": "polonia-org-polish-highlanders",
+  "country": "US",
+  "category": "organization",
+  "name": "Polish Highlanders Alliance of North America",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": "https://www.zppa.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish Highlander cultural and community organization"
+  ],
+  "coverage_area": [
+    "IL",
+    "US"
+  ],
+  "notes": [
+    "Listed among Polish institutions operating in the United States by the Embassy of the Republic of Poland; program/contact details should be refreshed periodically."
+  ],
+  "official_source": "https://www.zppa.org/",
+  "last_verified": "2026-09-30"
+}
