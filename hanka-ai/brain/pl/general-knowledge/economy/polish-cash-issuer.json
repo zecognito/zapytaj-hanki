@@ -1,0 +1,21 @@
+{
+  "id": "polish-cash-issuer",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "currency",
+  "title": "Kto emituje złotego?",
+  "facts": [
+    "Narodowy Bank Polski ma wyłączne prawo emitowania znaków pieniężnych Rzeczypospolitej Polskiej.",
+    "Znakami pieniężnymi są banknoty i monety opiewające na złote i grosze.",
+    "Polska nie używa euro jako oficjalnej waluty, mimo członkostwa w Unii Europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://nbp.pl/banknoty-i-monety/"
+  ],
+  "related_public_pages": []
+}
