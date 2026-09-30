@@ -1,0 +1,21 @@
+{
+  "id": "country-palestine",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Palestyna",
+  "facts": [
+    "Państwo Palestyna ma w ONZ status nieczłonkowskiego państwa-obserwatora od 2012 roku i jest uznawane przez znaczną część państw świata.",
+    "Palestyńskie roszczenia państwowe dotyczą Zachodniego Brzegu, w tym Wschodniej Jerozolimy, oraz Strefy Gazy; ostateczny status granic i Jerozolimy pozostaje nierozstrzygnięty w konflikcie izraelsko-palestyńskim.",
+    "Palestyńska administracja i faktyczna kontrola terytorialna są podzielone i ograniczone; opis statusu Palestyny wymaga odróżnienia uznania dyplomatycznego, statusu w ONZ i kontroli na miejscu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/unispal/history/"
+  ],
+  "related_public_pages": []
+}
