@@ -1,0 +1,36 @@
+{
+  "id": "polonia-gov-honorary-anchorage-ak",
+  "country": "US",
+  "category": "consulate_honorary",
+  "name": "Honorary Consulate of the Republic of Poland in Anchorage",
+  "aliases": [
+    "Konsulat Honorowy RP w Anchorage"
+  ],
+  "status": "active",
+  "location": {
+    "address": "8433 Moorland Street",
+    "city": "Anchorage",
+    "state": "AK",
+    "postal_code": "99502",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 907 344 4722",
+  "email": "stanb@kirbyalaska.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "honorary consular representation"
+  ],
+  "coverage_area": [
+    "AK"
+  ],
+  "notes": [
+    "Honorary consul: Stanisław Borucki"
+  ],
+  "official_source": "https://www.gov.pl/web/usa/konsulaty-honorowe",
+  "last_verified": "2026-09-30"
+}
