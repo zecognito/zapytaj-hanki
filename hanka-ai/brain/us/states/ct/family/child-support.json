@@ -1,0 +1,21 @@
+{
+  "id": "ct-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CT",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Connecticut",
+  "facts": [
+    "Connecticut child support system pomaga m.in. ustalać parentage, support orders i egzekwować płatności.",
+    "W systemie uczestniczą stanowe agencies i sądy zgodnie z rolą poszczególnych instytucji.",
+    "Wysokość support opiera się na Connecticut Child Support Guidelines i okolicznościach sprawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://portal.ct.gov/dss/child-support/child-support"
+  ],
+  "related_public_pages": []
+}
