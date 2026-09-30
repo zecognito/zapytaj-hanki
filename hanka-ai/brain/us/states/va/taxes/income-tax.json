@@ -1,0 +1,21 @@
+{
+  "id": "va-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VA",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Wirginii",
+  "facts": [
+    "Virginia ma progresywny individual income tax z kilkoma przedziałami stawek.",
+    "Virginia Tax administruje stanowym individual income tax i publikuje aktualne formularze oraz zasady.",
+    "Virginia taxable income jest wyliczany z uwzględnieniem federalnych danych oraz stanowych additions, subtractions, deductions i exemptions zgodnie z prawem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.tax.virginia.gov/individual-income-tax"
+  ],
+  "related_public_pages": []
+}
