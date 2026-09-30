@@ -1,0 +1,21 @@
+{
+  "id": "country-rwanda",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Rwanda",
+  "facts": [
+    "Rwanda jest niewielkim śródlądowym państwem Afryki Wschodniej w regionie Wielkich Jezior.",
+    "Stolicą jest Kigali; kinyarwanda, angielski, francuski i suahili mają status języków urzędowych.",
+    "Rwanda jest republiką; ludobójstwo przeciwko Tutsi w 1994 roku jest kluczowym wydarzeniem współczesnej historii kraju."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.rw/about"
+  ],
+  "related_public_pages": []
+}
