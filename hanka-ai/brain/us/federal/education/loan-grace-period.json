@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-education-loan-grace-period",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "education",
+  "subtopic": "repayment",
+  "title": "Federal student loan grace period - basics",
+  "facts": [
+    "Direct Subsidized and Direct Unsubsidized Loans generally have a six-month grace period after a borrower graduates, leaves school or drops below half-time enrollment before regular repayment begins.",
+    "PLUS Loans use different repayment timing rules and should not be assumed to have the same standard grace period.",
+    "Interest treatment during grace periods depends on loan type and applicable loan terms."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://studentaid.gov/manage-loans/repayment"
+  ],
+  "related_public_pages": []
+}
