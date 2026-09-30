@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-sacred-heart-new-britain-ct",
+  "country": "US",
+  "category": "church",
+  "name": "Sacred Heart Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "158 Broad St",
+    "city": "New Britain",
+    "state": "CT",
+    "postal_code": "06053",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 860 229 0081",
+  "email": null,
+  "website": "https://sacredheartnb.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "CT"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://sacredheartnb.org",
+  "last_verified": "2026-09-30"
+}
