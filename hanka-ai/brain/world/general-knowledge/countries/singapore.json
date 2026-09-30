@@ -1,0 +1,21 @@
+{
+  "id": "country-singapore",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Singapur",
+  "facts": [
+    "Singapur jest miastem-państwem i państwem wyspiarskim w Azji Południowo-Wschodniej.",
+    "Ma cztery języki urzędowe: angielski, malajski, mandaryński i tamilski; walutą jest dolar singapurski.",
+    "Singapur jest republiką, członkiem ASEAN i jednym z najważniejszych światowych ośrodków handlu, portów i finansów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sg101.gov.sg/resources/connexionsg/singapore-our-home/"
+  ],
+  "related_public_pages": []
+}
