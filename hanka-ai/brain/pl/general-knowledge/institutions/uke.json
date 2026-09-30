@@ -1,0 +1,21 @@
+{
+  "id": "uke",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "national-institutions",
+  "title": "Urząd Komunikacji Elektronicznej — UKE",
+  "facts": [
+    "UKE jest organem regulacyjnym rynku telekomunikacyjnego i pocztowego w Polsce.",
+    "Zajmuje się m.in. częstotliwościami, numeracją, prawami użytkowników i regulacją wybranych aspektów rynku łączności.",
+    "Kompetencje UKE różnią się od kompetencji UOKiK, choć niektóre sprawy konsumenckie mogą dotyczyć obu obszarów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uke.gov.pl/"
+  ],
+  "related_public_pages": []
+}
