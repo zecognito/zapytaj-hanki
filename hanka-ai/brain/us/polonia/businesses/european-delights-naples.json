@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-european-delights-naples",
+  "country": "US",
+  "category": "store",
+  "name": "European Food Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "5437 Airport-Pulling Rd N",
+    "city": "Naples",
+    "state": "FL",
+    "postal_code": "34109",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 239-596-5200",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Naples",
+    "FL"
+  ],
+  "notes": [
+    "Commercial directory record; current status, exact address where incomplete, hours and services require periodic reverification."
+  ],
+  "official_source": "https://www.gov.pl/web/usa/relacje-dwustronne",
+  "last_verified": "2026-09-30"
+}
