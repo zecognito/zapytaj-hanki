@@ -1,0 +1,21 @@
+{
+  "id": "gdynia-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Gdynia",
+  "facts": [
+    "Gdynia jest dużym miastem portowym nad Zatoką Gdańską i częścią Trójmiasta.",
+    "Jej szybki rozwój nastąpił po odzyskaniu przez Polskę niepodległości, gdy budowa portu stała się strategicznym projektem II Rzeczypospolitej.",
+    "Miasto jest silnie związane z gospodarką morską i historią polskiej żeglugi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gdynia.pl/"
+  ],
+  "related_public_pages": []
+}
