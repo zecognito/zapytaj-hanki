@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-social-security-disability-work-thresholds-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "social_security",
+  "subtopic": "disability",
+  "title": "Social Security disability work thresholds — 2026",
+  "facts": [
+    "W 2026 substantial gainful activity (SGA) dla non-blind disabled individuals wynosi $1,690 miesięcznie.",
+    "W 2026 SGA dla blind individuals wynosi $2,830 miesięcznie.",
+    "W 2026 miesiąc liczy się do Trial Work Period, gdy earnings przekroczą $1,210, z zastrzeżeniem zasad dotyczących self-employment.",
+    "SGA nie jest prostym limitem dochodu dla każdego etapu disability program; SSA stosuje różne work incentives i reguły zależnie od sytuacji."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/cola/factsheets/2026.html"
+  ],
+  "related_public_pages": []
+}
