@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-death-retirement-beneficiary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "death_inheritance",
+  "subtopic": "beneficiaries",
+  "title": "Retirement-plan beneficiary designations",
+  "facts": [
+    "Retirement accounts and employer plans can pass according to valid beneficiary designations rather than ordinary instructions in a will, subject to plan terms and federal or state law.",
+    "ERISA-covered retirement plans generally provide special protections for spouses, and spousal consent can be required for certain beneficiary choices.",
+    "Beneficiary designations should be reviewed after major life events such as marriage, divorce, birth or death.",
+    "A will should not be assumed to override a valid retirement-plan beneficiary designation."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/ebsa/workers-and-families/death-of-a-family-member"
+  ],
+  "related_public_pages": []
+}
