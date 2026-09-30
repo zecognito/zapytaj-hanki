@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-benefits-wic-eligibility",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "benefits",
+  "subtopic": "wic_federal_rules",
+  "title": "WIC eligibility - federal basics",
+  "facts": [
+    "WIC serves qualifying pregnant, postpartum and breastfeeding women, infants, and children under age 5 who meet program requirements.",
+    "Applicants must generally meet categorical, residential, income and nutrition-risk requirements.",
+    "WIC uses an income standard set by the state agency within federal limits; certain applicants may be income-eligible automatically through participation in programs such as Medicaid, SNAP or TANF under applicable rules.",
+    "WIC is administered by state, territorial and tribal agencies, so application procedures and approved food packages are locally administered within federal rules."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fns.usda.gov/wic/eligibility"
+  ],
+  "related_public_pages": []
+}
