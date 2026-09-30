@@ -1,0 +1,34 @@
+{
+  "id": "polonia-bank-apple-greenpoint-brooklyn-ny",
+  "country": "US",
+  "category": "bank",
+  "name": "Apple Bank - Greenpoint",
+  "status": "active",
+  "location": {
+    "address": "776 Manhattan Avenue",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11222",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es"
+  ],
+  "services": [
+    "personal banking",
+    "business banking",
+    "deposit accounts",
+    "ATM"
+  ],
+  "phone": "+1 718-361-2068",
+  "email": null,
+  "website": "https://www.applebank.com/contact/locations/776-manhattan-avenue",
+  "official_source": "https://www.applebank.com/contact/locations/776-manhattan-avenue",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official Apple Bank branch page explicitly lists Polish among branch languages."
+  ]
+}
