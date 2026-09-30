@@ -1,0 +1,21 @@
+{
+  "id": "summer-camp",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "family",
+  "subtopic": "childcare_terms",
+  "title": "Summer camp",
+  "facts": [
+    "Summer camp to program dla dzieci lub młodzieży organizowany podczas wakacji szkolnych.",
+    "Może mieć formę day camp bez noclegu albo overnight/residential camp.",
+    "Licencjonowanie, bezpieczeństwo i wymagania zdrowotne zależą od rodzaju programu oraz prawa stanowego/lokalnego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cdc.gov/children-and-school-preparedness/about/index.html"
+  ],
+  "related_public_pages": []
+}
