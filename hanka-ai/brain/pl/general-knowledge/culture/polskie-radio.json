@@ -1,0 +1,21 @@
+{
+  "id": "polskie-radio",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "media-pop-culture",
+  "title": "Polskie Radio",
+  "facts": [
+    "Polskie Radio jest publicznym nadawcą radiowym w Polsce.",
+    "Historyczne programy obejmują m.in. Jedynkę, Dwójkę, Trójkę i Czwórkę oraz rozgłośnie i usługi cyfrowe.",
+    "Bieżący status zarządzania nadawcą należy sprawdzać w aktualnych źródłach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.polskieradio.pl/"
+  ],
+  "related_public_pages": []
+}
