@@ -1,0 +1,21 @@
+{
+  "id": "country-belgium",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Belgia",
+  "facts": [
+    "Belgia leży w Europie Zachodniej, a jej stolicą jest Bruksela.",
+    "Belgia jest państwem federalnym i monarchią konstytucyjną; ma trzy języki urzędowe: niderlandzki, francuski i niemiecki.",
+    "Bruksela jest siedzibą wielu głównych instytucji Unii Europejskiej oraz siedziby NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.belgium.be/en/about_belgium/government/federale_staat"
+  ],
+  "related_public_pages": []
+}
