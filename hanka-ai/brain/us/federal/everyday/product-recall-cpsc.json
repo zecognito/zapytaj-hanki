@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-cpsc-product-recalls",
+  "subtopic": "food_product_safety",
+  "title": "Recall produktu konsumenckiego przez CPSC",
+  "facts": [
+    "CPSC publikuje recalls i safety notices dotyczące wielu consumer products znajdujących się pod jej jurysdykcją.",
+    "Consumer product recall może zalecać m.in. zaprzestanie używania, repair, replacement lub refund zależnie od konkretnej akcji.",
+    "CPSC nie reguluje wszystkich kategorii produktów; np. food, drugs i motor vehicles mogą należeć do innych federalnych agencies.",
+    "Model number, serial number, production date i inne identyfikatory mogą być potrzebne do ustalenia, czy konkretny egzemplarz jest objęty recall."
+  ],
+  "official_sources": [
+    "https://www.cpsc.gov/Recalls"
+  ]
+}
