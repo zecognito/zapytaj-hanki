@@ -1,0 +1,21 @@
+{
+  "id": "hi-real_id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "HI",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID — Hawaii",
+  "facts": [
+    "Stan prowadzi lub reguluje ten program albo obowiązek.",
+    "Eligibility, dokumenty lub procedura zależą od sytuacji.",
+    "Aktualne wymagania należy sprawdzić w oficjalnym źródle stanowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://hidot.hawaii.gov/highways/real-id/"
+  ],
+  "related_public_pages": []
+}
