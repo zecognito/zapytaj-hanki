@@ -1,0 +1,21 @@
+{
+  "id": "pan-tadeusz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "Pan Tadeusz",
+  "facts": [
+    "„Pan Tadeusz” Adama Mickiewicza jest jednym z najbardziej rozpoznawalnych dzieł literatury polskiej.",
+    "Pełny tytuł rozpoczyna się od „Pan Tadeusz, czyli ostatni zajazd na Litwie”, a akcja rozgrywa się na terenach dawnej Rzeczypospolitej.",
+    "Utwór jest tradycyjnie określany jako epopeja narodowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://wolnelektury.pl/katalog/lektura/pan-tadeusz/"
+  ],
+  "related_public_pages": []
+}
