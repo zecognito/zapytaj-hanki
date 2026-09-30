@@ -1,0 +1,36 @@
+{
+  "id": "polonia-gov-honorary-pittsburgh-pa",
+  "country": "US",
+  "category": "consulate_honorary",
+  "name": "Honorary Consulate of the Republic of Poland in Pittsburgh",
+  "aliases": [
+    "Konsulat Honorowy RP w Pittsburgh"
+  ],
+  "status": "active",
+  "location": {
+    "address": "501 Grant Street, Suite 300",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15219",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 412 454 5002",
+  "email": "mateusz.saykiewicz@troutman.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "honorary consular representation"
+  ],
+  "coverage_area": [
+    "PA"
+  ],
+  "notes": [
+    "Honorary consul: Mateusz K. Saykiewicz"
+  ],
+  "official_source": "https://www.gov.pl/web/usa/konsulaty-honorowe",
+  "last_verified": "2026-09-30"
+}
