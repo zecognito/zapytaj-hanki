@@ -1,0 +1,21 @@
+{
+  "id": "roman-polanski-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "film",
+  "title": "Roman Polański — kontekst polskiego kina",
+  "facts": [
+    "Roman Polański urodził się w Paryżu, dorastał w Polsce i rozpoczął karierę filmową w polskim środowisku filmowym.",
+    "Jego „Nóż w wodzie” był pierwszym polskim pełnometrażowym filmem nominowanym do Academy Award w kategorii filmu nieanglojęzycznego.",
+    "Polański jest również postacią kontrowersyjną ze względu na sprawę karną w USA; Hanka powinna oddzielać informacje o twórczości od faktów prawnych i nie pomijać istotnego kontekstu, gdy jest on tematem pytania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/roman-polanski"
+  ],
+  "related_public_pages": []
+}
