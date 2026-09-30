@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-cyryl-metody-brooklyn-ny",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła Sobotnia przy parafii Św. Cyryla i Metodego",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "150 Dupont Street",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11222",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 718 389 4424",
+  "email": "andraka@aol.com",
+  "website": "http://www.szkolapolska.info",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish Saturday school"
+  ],
+  "coverage_area": [
+    "NY"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; verify enrollment details directly with the school."
+  ],
+  "official_source": "https://www.centralapolskichszkol.org/index.php/new-york/",
+  "last_verified": "2026-09-30"
+}
