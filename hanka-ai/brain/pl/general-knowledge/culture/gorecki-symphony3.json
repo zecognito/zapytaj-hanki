@@ -1,0 +1,21 @@
+{
+  "id": "gorecki-symphony3",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "music",
+  "title": "Henryk Mikołaj Górecki",
+  "facts": [
+    "Henryk Mikołaj Górecki był polskim kompozytorem XX wieku.",
+    "Jego III Symfonia, znana jako „Symfonia pieśni żałosnych”, zdobyła niezwykłą międzynarodową popularność wiele lat po powstaniu.",
+    "Twórczość Góreckiego obejmowała różne style i nie powinna być sprowadzana wyłącznie do jednego utworu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/henryk-mikolaj-gorecki"
+  ],
+  "related_public_pages": []
+}
