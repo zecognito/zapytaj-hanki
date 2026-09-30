@@ -1,0 +1,21 @@
+{
+  "id": "regency-council",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "independence",
+  "title": "Rada Regencyjna",
+  "facts": [
+    "Rada Regencyjna działała w Królestwie Polskim utworzonym pod okupacją państw centralnych podczas I wojny światowej.",
+    "W październiku 1918 r. ogłosiła niepodległość Polski, a w listopadzie przekazała władzę wojskową, a następnie cywilną Józefowi Piłsudskiemu.",
+    "Jej rola pokazuje, że odzyskanie niepodległości w 1918 r. było procesem obejmującym wiele ośrodków politycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/"
+  ],
+  "related_public_pages": []
+}
