@@ -1,0 +1,21 @@
+{
+  "id": "stolowe-mountains",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "landscapes",
+  "title": "Góry Stołowe",
+  "facts": [
+    "Góry Stołowe w Sudetach są znane z niezwykłych form piaskowcowych ukształtowanych przez erozję.",
+    "Do najbardziej znanych miejsc należą Szczeliniec Wielki i Błędne Skały.",
+    "Najcenniejsza część pasma jest chroniona w Parku Narodowym Gór Stołowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://pngs.gov.pl/"
+  ],
+  "related_public_pages": []
+}
