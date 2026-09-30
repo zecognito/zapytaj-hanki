@@ -1,0 +1,21 @@
+{
+  "id": "polish-government-in-exile",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world_war_ii",
+  "title": "Rząd RP na uchodźstwie",
+  "facts": [
+    "Po klęsce kampanii 1939 r. legalne władze Rzeczypospolitej kontynuowały działalność na emigracji, najpierw we Francji, a następnie głównie w Londynie.",
+    "Rząd RP na uchodźstwie kierował częścią polskiego wysiłku wojennego i utrzymywał więź z Polskim Państwem Podziemnym.",
+    "Instytucje emigracyjne kontynuowały działalność po wojnie, a w 1990 r. insygnia prezydenckie II RP przekazano nowo wybranemu prezydentowi Lechowi Wałęsie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/wielkabrytania/polskie-wladze-na-uchodzstwie"
+  ],
+  "related_public_pages": []
+}
