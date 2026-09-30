@@ -1,0 +1,21 @@
+{
+  "id": "gora-edek",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Górą „Edek” — Marek Nowakowski",
+  "facts": [
+    "„Górą «Edek»” Marka Nowakowskiego, z tomu „Prawo prerii”, jest wskazane w aktualnej podstawie programowej liceum i technikum jako obowiązkowy krótki utwór literacki.",
+    "Tekst przedstawia sytuację społeczną, w której brutalność i bezwzględność okazują się skuteczniejsze niż normy kultury i porządku; tytuł odwołuje się do Edka z „Tanga” Sławomira Mrożka.",
+    "Status zweryfikowano 2026-09-30 dla podstawy ZPE 2025/2026."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
