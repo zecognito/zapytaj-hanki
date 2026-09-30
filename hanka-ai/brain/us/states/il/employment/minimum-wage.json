@@ -1,0 +1,20 @@
+{
+  "id": "il-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Illinois minimum wage",
+  "facts": [
+    "Illinois minimum wage is $15.00 per hour for workers age 18 and older, effective January 1, 2025.",
+    "Illinois minimum-wage rules can differ for younger workers and tipped employees; use current Illinois Department of Labor guidance for those cases."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://labor.illinois.gov/faqs/minimum-wage-overtime-faq.html"
+  ],
+  "related_public_pages": []
+}
