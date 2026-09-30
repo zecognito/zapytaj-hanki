@@ -1,0 +1,21 @@
+{
+  "id": "id-minimum_wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "ID",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Idaho",
+  "facts": [
+    "Obowiązująca minimum wage zależy od prawa stanowego i federalnego.",
+    "Dla niektórych pracowników obowiązują wyjątki lub szczególne zasady.",
+    "Aktualną stawkę należy sprawdzić dla konkretnego zatrudnienia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.labor.idaho.gov/businesses/idaho-labor-laws/labor-laws-faq/"
+  ],
+  "related_public_pages": []
+}
