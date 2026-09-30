@@ -1,0 +1,21 @@
+{
+  "id": "g20-basics",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "international",
+  "subtopic": "forums",
+  "title": "G20",
+  "facts": [
+    "G20 jest forum współpracy gospodarczej skupiającym największe gospodarki świata oraz organizacje regionalne będące członkami forum.",
+    "Powstało w 1999 roku po kryzysach finansowych końca lat 90., a spotkania przywódców odbywają się od 2008 roku.",
+    "Tematy G20 obejmują m.in. stabilność finansową, handel, rozwój, klimat i funkcjonowanie gospodarki światowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.g20.org/en/about-the-g20/"
+  ],
+  "related_public_pages": []
+}
