@@ -1,0 +1,21 @@
+{
+  "id": "in-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IN",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Indianie",
+  "facts": [
+    "Indiana BMV wydaje credential zgodny z REAL ID po przedstawieniu wymaganych dokumentów.",
+    "Weryfikacja obejmuje m.in. identity/lawful status, Social Security number oraz Indiana residency.",
+    "Standardowy credential może nadal służyć do prowadzenia pojazdu, ale do federalnych zastosowań REAL ID potrzebny jest dokument zgodny z REAL ID albo inny akceptowany dokument federalny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.in.gov/bmv/licenses-permits-ids/real-id-overview/"
+  ],
+  "related_public_pages": []
+}
