@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-moving-voter-registration-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "moving_life_admin",
+  "subtopic": "voter_registration",
+  "title": "Moving and voter registration - federal/state boundary",
+  "facts": [
+    "Voter-registration procedures and deadlines are administered under state law within the federal election-law framework.",
+    "Moving to a new address does not automatically guarantee that a voter registration record is updated through USPS Change of Address.",
+    "A person who moves should check the election authority for the new residence and applicable registration or update deadline.",
+    "Eligibility and registration details should be verified using current official state election information."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://vote.gov/"
+  ],
+  "related_public_pages": []
+}
