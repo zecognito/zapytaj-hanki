@@ -1,0 +1,21 @@
+{
+  "id": "oh-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OH",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Ohio",
+  "facts": [
+    "Ohio ma stanową minimum wage indeksowaną zgodnie z konstytucją stanową.",
+    "Dla części mniejszych pracodawców i określonych pracowników może mieć zastosowanie federalna minimum wage zamiast wyższej stawki Ohio.",
+    "Ohio Department of Commerce publikuje aktualny annual minimum wage poster ze stawkami i progami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://com.ohio.gov/divisions-and-programs/industrial-compliance/wage-and-hour"
+  ],
+  "related_public_pages": []
+}
