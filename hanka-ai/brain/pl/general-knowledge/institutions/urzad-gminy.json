@@ -1,0 +1,21 @@
+{
+  "id": "urzad-gminy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "everyday-government",
+  "title": "Urząd gminy i urząd miasta",
+  "facts": [
+    "Gmina jest podstawową jednostką samorządu terytorialnego w Polsce.",
+    "Urząd gminy lub urząd miasta obsługuje organy gminy i wiele codziennych spraw mieszkańców.",
+    "Zakres spraw obejmuje m.in. część ewidencji, podatków lokalnych, gospodarki komunalnej i usług lokalnych, zależnie od kompetencji ustawowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
