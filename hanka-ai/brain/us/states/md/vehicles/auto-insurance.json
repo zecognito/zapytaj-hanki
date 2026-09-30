@@ -1,0 +1,21 @@
+{
+  "id": "md-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MD",
+  "topic": "vehicles",
+  "subtopic": "auto_insurance",
+  "title": "Ubezpieczenie samochodu w Maryland",
+  "facts": [
+    "Kierowcy i właściciele pojazdów muszą spełniać obowiązujące stanowe wymagania financial responsibility lub auto insurance.",
+    "Wymagane coverage i sposób potwierdzania ubezpieczenia określa prawo stanowe.",
+    "Brak wymaganego coverage może prowadzić do kar lub problemów z prawem jazdy albo rejestracją."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mva.maryland.gov/title-registration/auto-insurance-requirements"
+  ],
+  "related_public_pages": []
+}
