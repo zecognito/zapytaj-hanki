@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-sacred-heart-irvington-nj",
+  "country": "US",
+  "category": "church",
+  "name": "Sacred Heart of Jesus Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "537 Grove St",
+    "city": "Irvington",
+    "state": "NJ",
+    "postal_code": "07111",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 973 373 2232",
+  "email": null,
+  "website": "https://shc-irvington.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "NJ"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://shc-irvington.org",
+  "last_verified": "2026-09-30"
+}
