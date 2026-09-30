@@ -1,0 +1,21 @@
+{
+  "id": "ga-unemployment-basics",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "GA",
+  "topic": "benefits",
+  "subtopic": "unemployment",
+  "title": "Unemployment Insurance w Georgii",
+  "facts": [
+    "Georgia Unemployment Insurance zapewnia czasowe świadczenia kwalifikującym się osobom bez pracy.",
+    "Eligibility zależy m.in. od wcześniejszych wages, powodu utraty pracy oraz bieżącej zdolności i dostępności do pracy.",
+    "Claimant musi wykonywać wymagane weekly certifications i spełniać obowiązujące work-search requirements."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dol.georgia.gov/unemployment-benefits"
+  ],
+  "related_public_pages": []
+}
