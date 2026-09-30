@@ -1,0 +1,21 @@
+{
+  "id": "interstate-highways",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Co oznacza Interstate?",
+  "facts": [
+    "Interstate Highway System jest krajową siecią autostrad, ale drogi Interstate są własnością stanów, w których się znajdują, i są przez nie eksploatowane.",
+    "Główne dwucyfrowe Interstate o numerach nieparzystych biegną zasadniczo północ–południe, a parzystych wschód–zachód.",
+    "Trzycyfrowe Interstate zwykle są trasami pomocniczymi powiązanymi z główną Interstate."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://highways.dot.gov/highway-history/interstate-system/50th-anniversary"
+  ],
+  "related_public_pages": []
+}
