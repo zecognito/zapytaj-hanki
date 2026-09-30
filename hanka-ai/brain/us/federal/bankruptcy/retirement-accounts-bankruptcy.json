@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-bankruptcy-retirement-accounts",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "bankruptcy_debt_relief",
+  "subtopic": "retirement_protection",
+  "title": "Retirement accounts in bankruptcy - federal framework",
+  "facts": [
+    "Federal bankruptcy law provides substantial protection for many tax-qualified retirement funds, subject to statutory requirements.",
+    "ERISA-qualified plans such as many 401(k) plans generally receive strong bankruptcy protection, while IRAs are protected under separate Bankruptcy Code provisions and statutory limits or exceptions can apply.",
+    "Protection outside bankruptcy and treatment of inherited or nonqualified accounts can differ, so not every account labeled retirement receives identical protection.",
+    "A debtor should identify the exact plan or account type before relying on a general retirement-protection rule."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.law.cornell.edu/uscode/text/11/522"
+  ],
+  "related_public_pages": []
+}
