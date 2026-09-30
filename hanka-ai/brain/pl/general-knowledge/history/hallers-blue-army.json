@@ -1,0 +1,21 @@
+{
+  "id": "hallers-blue-army",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "independence",
+  "title": "Błękitna Armia Hallera",
+  "facts": [
+    "Armia Polska we Francji, nazywana Błękitną Armią od koloru francuskich mundurów, powstała podczas I wojny światowej.",
+    "Od 1918 r. dowodził nią gen. Józef Haller.",
+    "W jej szeregach znaleźli się również ochotnicy polskiego pochodzenia ze Stanów Zjednoczonych i Kanady, co czyni ją ważnym elementem historii Polonii i odzyskania niepodległości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/"
+  ],
+  "related_public_pages": []
+}
