@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-consumer-robocall-consent",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "consumer_protection",
+  "subtopic": "telemarketing",
+  "title": "Robocalls and robotexts - federal basics",
+  "facts": [
+    "Federal law restricts many autodialed or prerecorded calls and texts, with requirements depending on the technology, recipient, purpose and consent.",
+    "Telemarketing robocalls generally face stricter prior-consent requirements than many non-telemarketing communications.",
+    "Consumers can revoke consent through reasonable means in circumstances covered by FCC rules.",
+    "Not every unwanted call violates the same federal rule, and exemptions or different standards can apply."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts"
+  ],
+  "related_public_pages": []
+}
