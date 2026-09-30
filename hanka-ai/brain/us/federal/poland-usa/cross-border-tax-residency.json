@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-cross-border-tax-residency",
+  "subtopic": "tax_residency",
+  "title": "Rezydencja podatkowa przy związkach z Polską i USA",
+  "facts": [
+    "Dla federalnych podatków USA resident alien może wynikać m.in. z green card test albo substantial presence test.",
+    "Osoba uznawana za rezydenta obu państw może mieć zastosowanie reguł traktatowych rozstrzygających rezydencję, jeśli właściwa umowa je przewiduje.",
+    "Zajęcie treaty-based return position może powodować dodatkowe obowiązki deklaracyjne, w tym Form 8833 w odpowiednich przypadkach; nie należy utożsamiać rezydencji podatkowej z obywatelstwem lub statusem imigracyjnym."
+  ],
+  "effective_from": null,
+  "official_sources": [
+    "https://www.irs.gov/individuals/international-taxpayers/us-residents",
+    "https://www.irs.gov/individuals/international-taxpayers/tax-treaties",
+    "https://www.irs.gov/forms-pubs/about-form-8833"
+  ]
+}
