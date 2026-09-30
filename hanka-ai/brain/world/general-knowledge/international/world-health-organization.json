@@ -1,0 +1,21 @@
+{
+  "id": "world-health-organization",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "international",
+  "subtopic": "organizations",
+  "title": "Światowa Organizacja Zdrowia — WHO",
+  "facts": [
+    "Światowa Organizacja Zdrowia (WHO) jest wyspecjalizowaną agencją ONZ odpowiedzialną za międzynarodowe sprawy zdrowia publicznego.",
+    "WHO została utworzona w 1948 roku, a jej siedziba znajduje się w Genewie.",
+    "Organizacja koordynuje współpracę zdrowotną, opracowuje normy i zalecenia oraz wspiera państwa w reagowaniu na zagrożenia zdrowotne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.who.int/about"
+  ],
+  "related_public_pages": []
+}
