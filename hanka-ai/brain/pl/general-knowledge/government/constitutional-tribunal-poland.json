@@ -1,0 +1,21 @@
+{
+  "id": "constitutional-tribunal-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "constitutional-system",
+  "title": "Trybunał Konstytucyjny",
+  "facts": [
+    "Trybunał Konstytucyjny jest konstytucyjnym organem władzy sądowniczej, którego podstawowym zadaniem jest kontrola zgodności norm prawnych z Konstytucją.",
+    "Konstytucja przewiduje 15 sędziów Trybunału wybieranych indywidualnie przez Sejm na dziewięcioletnie kadencje.",
+    "Orzeczenia Trybunału Konstytucyjnego mają moc powszechnie obowiązującą i są ostateczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sejm.gov.pl/prawo/konst/polski/kon1.htm"
+  ],
+  "related_public_pages": []
+}
