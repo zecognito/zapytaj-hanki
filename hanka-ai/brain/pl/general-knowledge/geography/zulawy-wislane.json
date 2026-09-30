@@ -1,0 +1,21 @@
+{
+  "id": "zulawy-wislane",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Żuławy Wiślane",
+  "facts": [
+    "Żuławy Wiślane są nisko położonym regionem delty Wisły w północnej Polsce.",
+    "Część terenu leży poniżej poziomu morza i wymaga rozbudowanych systemów melioracyjnych oraz przeciwpowodziowych.",
+    "Krajobraz regionu został silnie ukształtowany przez gospodarkę wodną i wielowiekowe osadnictwo, w tym mennonickie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/wody-polskie"
+  ],
+  "related_public_pages": []
+}
