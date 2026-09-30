@@ -1,0 +1,21 @@
+{
+  "id": "ignacy-mościcki-scientist",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Ignacy Mościcki jako naukowiec",
+  "facts": [
+    "Ignacy Mościcki, późniejszy prezydent II Rzeczypospolitej, był także chemikiem i wynalazcą.",
+    "Pracował nad technologiami przemysłu chemicznego, w tym produkcją kwasu azotowego.",
+    "Jego działalność naukowa i przemysłowa poprzedzała prezydenturę rozpoczętą w 1926 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.prezydent.pl/"
+  ],
+  "related_public_pages": []
+}
