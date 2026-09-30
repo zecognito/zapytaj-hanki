@@ -1,0 +1,21 @@
+{
+  "id": "poland-belarus-border",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "borders",
+  "title": "Granica Polski z Białorusią",
+  "facts": [
+    "Polska graniczy z Białorusią na wschodzie.",
+    "Jest to zewnętrzna granica Unii Europejskiej i strefy Schengen.",
+    "Dostępność przejść i zasady ruchu mogą się zmieniać z powodów prawnych i bezpieczeństwa, dlatego aktualne informacje należy sprawdzać przed podróżą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/"
+  ],
+  "related_public_pages": []
+}
