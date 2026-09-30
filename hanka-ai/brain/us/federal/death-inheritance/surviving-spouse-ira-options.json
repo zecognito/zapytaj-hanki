@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-death-surviving-spouse-ira",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "death_inheritance",
+  "subtopic": "inherited_retirement",
+  "title": "Surviving spouse and inherited IRA - federal options",
+  "facts": [
+    "A surviving spouse generally has special federal options for an inherited IRA that are not available to most nonspouse beneficiaries.",
+    "Depending on circumstances, a spouse may be able to treat an inherited IRA as their own, roll eligible assets into their own IRA or retirement plan, or remain a beneficiary of an inherited account.",
+    "The best available option can affect required minimum distributions, early-distribution rules and timing, so age and the deceased spouse's RMD status matter.",
+    "Nonspouse beneficiaries generally cannot make a spousal-style rollover treating the inherited IRA as their own."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary"
+  ],
+  "related_public_pages": []
+}
