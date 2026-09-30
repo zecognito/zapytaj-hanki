@@ -24,7 +24,11 @@
         "gift_estate_tax",
         "capital_gains",
         "hsa",
-        "health_fsa"
+        "health_fsa",
+        "mileage_rates",
+        "adoption_credit",
+        "foreign_earned_income_exclusion",
+        "transportation_fringe_benefits"
       ],
       "completed_subtopics": [
         "standard_deduction",
@@ -42,7 +46,11 @@
         "gift_estate_tax",
         "capital_gains",
         "hsa",
-        "health_fsa"
+        "health_fsa",
+        "mileage_rates",
+        "adoption_credit",
+        "foreign_earned_income_exclusion",
+        "transportation_fringe_benefits"
       ]
     },
     {
@@ -58,7 +66,20 @@
         "tsp",
         "contribution_limits",
         "rollovers",
-        "rmd"
+        "rmd",
+        "savers_credit",
+        "sep",
+        "simple_ira",
+        "catch_up_contributions"
+      ],
+      "completed_subtopics": [
+        "roth_ira",
+        "ira",
+        "savers_credit",
+        "sep",
+        "simple_ira",
+        "contribution_limits",
+        "catch_up_contributions"
       ]
     },
     {
