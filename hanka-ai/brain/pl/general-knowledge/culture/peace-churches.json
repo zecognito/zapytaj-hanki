@@ -1,0 +1,21 @@
+{
+  "id": "peace-churches",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Kościoły Pokoju",
+  "facts": [
+    "Kościoły Pokoju w Jaworze i Świdnicy są dużymi drewnianymi świątyniami protestanckimi powstałymi po wojnie trzydziestoletniej.",
+    "Ich budowę ograniczały warunki polityczne i materiałowe narzucone wspólnotom luterańskim.",
+    "Churches of Peace in Jawor and Świdnica znajdują się na Liście Światowego Dziedzictwa UNESCO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://whc.unesco.org/en/list/1054/"
+  ],
+  "related_public_pages": []
+}
