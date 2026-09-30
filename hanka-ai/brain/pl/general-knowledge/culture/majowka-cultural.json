@@ -1,0 +1,21 @@
+{
+  "id": "majowka-cultural",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language-and-everyday-concepts",
+  "title": "Majówka — znaczenie potoczne",
+  "facts": [
+    "„Majówka” oznacza w Polsce przede wszystkim okres wolnego wokół 1, 2 i 3 maja.",
+    "1 maja i 3 maja są świętami ustawowo wolnymi od pracy, natomiast 2 maja jest Dniem Flagi RP, ale nie jest automatycznie dniem ustawowo wolnym.",
+    "Polacy często wykorzystują układ kalendarza do stworzenia dłuższego weekendu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
