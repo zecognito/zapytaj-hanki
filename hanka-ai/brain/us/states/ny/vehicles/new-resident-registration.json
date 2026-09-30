@@ -1,0 +1,21 @@
+{
+  "id": "ny-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NY",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do New York",
+  "facts": [
+    "Nowy mieszkaniec New York musi zarejestrować kwalifikujący się pojazd w New York DMV i przedstawić wymagane proof of ownership, identity oraz New York insurance.",
+    "Przed rejestracją pojazd musi mieć wymagane New York State insurance wystawione zgodnie z zasadami DMV.",
+    "Dokumenty i opłaty zależą od pojazdu i rodzaju transakcji; DMV publikuje checklisty dla nowych mieszkańców."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dmv.ny.gov/registration/register-a-vehicle"
+  ],
+  "related_public_pages": []
+}
