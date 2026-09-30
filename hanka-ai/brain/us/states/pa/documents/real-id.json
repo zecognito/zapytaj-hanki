@@ -1,0 +1,21 @@
+{
+  "id": "pa-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "PA",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Pensylwanii",
+  "facts": [
+    "PennDOT wydaje REAL ID osobom, które przedstawią wymagane dokumenty potwierdzające tożsamość, Social Security number oraz adres w Pennsylvania.",
+    "REAL ID jest opcjonalne; standardowe Pennsylvania driver license nadal jest ważne do prowadzenia pojazdu.",
+    "Do federalnych zastosowań wymagających REAL ID można użyć również innego akceptowanego dokumentu, np. paszportu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pa.gov/agencies/dmv/driver-services/real-id.html"
+  ],
+  "related_public_pages": []
+}
