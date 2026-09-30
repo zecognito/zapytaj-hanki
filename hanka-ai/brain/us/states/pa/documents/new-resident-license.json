@@ -1,0 +1,21 @@
+{
+  "id": "pa-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "PA",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Pensylwanii",
+  "facts": [
+    "Nowy mieszkaniec Pennsylvania posiadający ważne out-of-state driver license musi uzyskać Pennsylvania driver license zgodnie z terminem określonym przez PennDOT.",
+    "Wymiana wymaga odpowiednich dokumentów identity, Social Security status i Pennsylvania residency.",
+    "Transfer driver license jest odrębny od procesu title/registration pojazdu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pa.gov/agencies/dmv/driver-services/new-residents.html"
+  ],
+  "related_public_pages": []
+}
