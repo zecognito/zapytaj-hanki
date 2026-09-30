@@ -1,0 +1,21 @@
+{
+  "id": "magura-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national-parks",
+  "title": "Magurski Park Narodowy",
+  "facts": [
+    "Magurski Park Narodowy chroni fragment Beskidu Niskiego na pograniczu województw podkarpackiego i małopolskiego.",
+    "Znaczną część parku zajmują lasy typowe dla Karpat, a obszar jest ważnym siedliskiem dużych ssaków i ptaków drapieżnych.",
+    "Krajobraz parku łączy przyrodę Beskidu Niskiego z dziedzictwem kulturowym dawnych społeczności regionu, w tym Łemków."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
