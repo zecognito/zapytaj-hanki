@@ -1,0 +1,21 @@
+{
+  "id": "country-tonga",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Tonga",
+  "facts": [
+    "Tonga jest polinezyjskim państwem archipelagowym na południowym Pacyfiku.",
+    "Stolicą jest Nukuʻalofa, językami urzędowymi są tongański i angielski, a walutą paʻanga.",
+    "Tonga jest monarchią konstytucyjną i jedynym współczesnym rdzennym królestwem Polinezji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.to/"
+  ],
+  "related_public_pages": []
+}
