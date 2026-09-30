@@ -1,0 +1,21 @@
+{
+  "id": "viki-gabor",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "musicians",
+  "title": "Viki Gabor",
+  "facts": [
+    "Viki Gabor, urodzona 10 lipca 2007 roku w Hamburgu, jest polską wokalistką popową.",
+    "W 2019 roku wygrała Konkurs Piosenki Eurowizji Junior z utworem „Superhero”.",
+    "Jej zwycięstwo oznaczało drugi z rzędu triumf Polski w Eurowizji Junior, po zwycięstwie Roksany Węgiel rok wcześniej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://junioreurovision.tv/participant/viki-gabor"
+  ],
+  "related_public_pages": []
+}
