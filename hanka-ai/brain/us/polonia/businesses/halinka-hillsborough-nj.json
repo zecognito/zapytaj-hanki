@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-halinka-hillsborough-nj",
+  "country": "US",
+  "category": "store",
+  "name": "Halinka Polish Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "438 Route 206 South, Suite 4",
+    "city": "Hillsborough",
+    "state": "NJ",
+    "postal_code": "08844",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 908-829-3271",
+  "email": null,
+  "website": "http://www.polishdelinj.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Hillsborough",
+    "NJ"
+  ],
+  "notes": [
+    "Commercial directory record. Business status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "http://www.polishdelinj.com/",
+  "last_verified": "2026-09-30"
+}
