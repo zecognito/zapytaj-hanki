@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-moving-passport-name-change",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "moving_life_admin",
+  "subtopic": "name_change",
+  "title": "U.S. passport name change",
+  "facts": [
+    "The procedure to change a name on a U.S. passport depends on factors including how long ago the passport was issued and whether the name change can be documented.",
+    "Some qualifying changes within one year of passport issuance can use Form DS-5504 without the ordinary passport application fee, subject to current State Department rules.",
+    "Other name changes may require a renewal or new passport application and applicable fees.",
+    "Airline reservations for international travel should match the travel document used for the trip."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://travel.state.gov/content/travel/en/passports/have-passport/change-correct.html"
+  ],
+  "related_public_pages": []
+}
