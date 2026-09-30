@@ -371,7 +371,15 @@
         "polish_property",
         "children_dual_country",
         "healthcare_abroad",
-        "returning_to_us"
+        "returning_to_us",
+        "return_to_poland_tax",
+        "work_social_insurance",
+        "healthcare_poland",
+        "children_return_poland",
+        "citizenship_edge_cases",
+        "relocation_property",
+        "inheritance_cross_border",
+        "retirement_cross_border"
       ],
       "completed_subtopics": [
         "social_security_agreement",
@@ -398,7 +406,15 @@
         "polish_property",
         "children_dual_country",
         "healthcare_abroad",
-        "returning_to_us"
+        "returning_to_us",
+        "return_to_poland_tax",
+        "work_social_insurance",
+        "healthcare_poland",
+        "children_return_poland",
+        "citizenship_edge_cases",
+        "relocation_property",
+        "inheritance_cross_border",
+        "retirement_cross_border"
       ]
     },
     {
