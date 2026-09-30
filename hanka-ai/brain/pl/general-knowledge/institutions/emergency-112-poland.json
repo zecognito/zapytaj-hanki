@@ -1,0 +1,21 @@
+{
+  "id": "emergency-112-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "emergency",
+  "title": "Numer alarmowy 112",
+  "facts": [
+    "112 jest jednolitym europejskim numerem alarmowym działającym w Polsce.",
+    "Służy do zgłaszania sytuacji wymagających interwencji służb ratunkowych.",
+    "Numeru nie należy używać do spraw niepilnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/numer-alarmowy-112"
+  ],
+  "related_public_pages": []
+}
