@@ -1,0 +1,23 @@
+{
+  "id": "1945-yaltaconference-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "luty 1945 — Jałta i sprawa Polski",
+  "facts": [
+    "Na konferencji jałtańskiej w lutym 1945 r. przywódcy USA, Wielkiej Brytanii i ZSRR podejmowali decyzje dotyczące powojennej Europy, w tym Polski.",
+    "Uzgodnienia przewidywały m.in. reorganizację władz w Polsce oraz przesunięcie granic.",
+    "Realizacja ustaleń odbywała się przy dominującej obecności sowieckiej i nie przywróciła Polsce przedwojennego systemu politycznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://www.1944.pl/",
+    "https://www.auschwitz.org/"
+  ],
+  "related_public_pages": []
+}
