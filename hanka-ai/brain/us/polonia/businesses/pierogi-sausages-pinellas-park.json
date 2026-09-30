@@ -1,0 +1,37 @@
+{
+  "id": "polonia-business-pierogi-sausages-pinellas-park",
+  "country": "US",
+  "category": "store",
+  "name": "Pierogi & Sausages Polish Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "6945 66th St",
+    "city": "Pinellas Park",
+    "state": "FL",
+    "postal_code": "33781",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 727-546-1525",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish deli",
+    "pierogi",
+    "Polish sausages"
+  ],
+  "coverage_area": [
+    "Pinellas Park",
+    "FL"
+  ],
+  "notes": [
+    "Current Polish-food connection supported by an official business source or recent/local Polonia source; commercial details remain freshness-sensitive."
+  ],
+  "official_source": "https://www.polishtampabay.com/01-polska-zywnosc-polskie-sklepy-polish-delis/",
+  "last_verified": "2026-09-30"
+}
