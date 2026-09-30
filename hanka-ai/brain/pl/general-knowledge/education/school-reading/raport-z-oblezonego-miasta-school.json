@@ -1,0 +1,21 @@
+{
+  "id": "raport-z-oblezonego-miasta-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Raport z oblężonego Miasta — Zbigniew Herbert",
+  "facts": [
+    "Raport z oblężonego Miasta, autor: Zbigniew Herbert; tekst szkolnego kanonu z obszaru: poezja XX wieku.",
+    "Wiersz wykorzystujący obraz oblężonego miasta do refleksji nad oporem, wspólnotą, pamięcią i odpowiedzialnością wobec historii.",
+    "Hanka powinna znać kontekst utworu, jego główne motywy, problematykę oraz najważniejsze szkolne tropy interpretacyjne."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
