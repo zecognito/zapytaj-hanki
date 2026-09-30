@@ -1,0 +1,21 @@
+{
+  "id": "auschwitz-birkenau",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "landmarks",
+  "title": "Auschwitz-Birkenau",
+  "facts": [
+    "Auschwitz-Birkenau był niemieckim nazistowskim obozem koncentracyjnym i zagłady utworzonym w okupowanej Polsce podczas II wojny światowej.",
+    "Niemcy zamordowali tam około 1,1 miliona ludzi, w zdecydowanej większości Żydów; ofiarami byli również Polacy, Roma, sowieccy jeńcy wojenni i inni.",
+    "Hanka powinna używać określenia „niemiecki nazistowski obóz” i nie opisywać Auschwitz jako „polskiego obozu”."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.auschwitz.org/en/history/"
+  ],
+  "related_public_pages": []
+}
