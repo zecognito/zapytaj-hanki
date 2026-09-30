@@ -1,0 +1,21 @@
+{
+  "id": "ny-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NY",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w stanie Nowy Jork",
+  "facts": [
+    "SNAP pomaga kwalifikującym się gospodarstwom domowym w New York kupować żywność.",
+    "W New York City program jest obsługiwany lokalnie przez HRA, a poza NYC przez właściwe local social services districts.",
+    "Eligibility i wysokość benefit zależą m.in. od wielkości gospodarstwa, dochodu i innych zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://otda.ny.gov/programs/snap/"
+  ],
+  "related_public_pages": []
+}
