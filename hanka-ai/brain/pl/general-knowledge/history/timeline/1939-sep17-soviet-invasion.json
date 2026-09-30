@@ -1,0 +1,22 @@
+{
+  "id": "1939-sep17-soviet-invasion",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "17 września 1939 — sowiecka agresja na Polskę",
+  "facts": [
+    "17 września 1939 r. Armia Czerwona wkroczyła na wschodnie ziemie Rzeczypospolitej.",
+    "Agresja nastąpiła, gdy Polska walczyła już z Niemcami.",
+    "Związek Sowiecki i Niemcy następnie podzieliły okupowane ziemie polskie zgodnie ze swoimi ustaleniami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://muzeum1939.pl/"
+  ],
+  "related_public_pages": []
+}
