@@ -1,0 +1,24 @@
+{
+  "id": "us-federal-self-employment-tax-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "self_employment_tax",
+  "title": "Self-employment tax — podstawowe zasady federalne",
+  "facts": [
+    "Self-employment tax obejmuje podatki Social Security i Medicare dla osób pracujących na własny rachunek.",
+    "Łączna stawka self-employment tax wynosi 15.3%: 12.4% Social Security i 2.9% Medicare.",
+    "Zwykle self-employment tax trzeba zapłacić, jeśli net earnings from self-employment wynoszą co najmniej $400.",
+    "Zasadniczo 92.35% net earnings from self-employment podlega self-employment tax.",
+    "Przy obliczaniu adjusted gross income można odliczyć employer-equivalent portion self-employment tax."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/taxtopics/tc554",
+    "https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes"
+  ],
+  "related_public_pages": []
+}
