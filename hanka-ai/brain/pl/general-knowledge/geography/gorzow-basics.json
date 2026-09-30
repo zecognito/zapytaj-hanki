@@ -1,0 +1,21 @@
+{
+  "id": "gorzow-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Gorzów Wielkopolski — podstawy",
+  "facts": [
+    "Gorzów Wielkopolski jest jednym z dwóch głównych ośrodków administracyjnych województwa lubuskiego.",
+    "Jest siedzibą wojewody lubuskiego, podczas gdy władze samorządowe województwa mają siedzibę w Zielonej Górze.",
+    "Mimo nazwy Gorzów Wielkopolski współcześnie znajduje się w województwie lubuskim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/uw-lubuski"
+  ],
+  "related_public_pages": []
+}
