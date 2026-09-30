@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-housing-fha-loan-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "housing_mortgages",
+  "subtopic": "fha",
+  "title": "FHA-insured mortgage - basics",
+  "facts": [
+    "FHA does not generally lend money directly to homebuyers; approved lenders make loans that FHA insures.",
+    "FHA-insured mortgages can allow lower down payments and more flexible underwriting than some conventional loans, subject to lender and FHA requirements.",
+    "Borrowers pay FHA mortgage insurance under applicable program rules.",
+    "FHA eligibility, loan limits, property standards and underwriting requirements must be checked for the current program and location."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.hud.gov/helping-americans/buying-a-home"
+  ],
+  "related_public_pages": []
+}
