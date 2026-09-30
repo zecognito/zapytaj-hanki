@@ -1,0 +1,21 @@
+{
+  "id": "zrazy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Zrazy",
+  "facts": [
+    "Zrazy są tradycyjnym daniem mięsnym występującym w kuchni polskiej i innych kuchniach regionu.",
+    "W popularnej polskiej wersji wołowinę zwija się wokół nadzienia, a następnie dusi.",
+    "Przepisy i nadzienia różnią się regionalnie i rodzinnie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101"
+  ],
+  "related_public_pages": []
+}
