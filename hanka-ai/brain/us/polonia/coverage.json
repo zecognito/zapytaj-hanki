@@ -44,13 +44,13 @@
     },
     "businesses": {
       "status": "professionals_national_expansion",
-      "records": 260,
+      "records": 266,
       "notes": [
         "Food/retail first-pass audit closed at 167 records; machine schema validation remains mandatory before ingestion.",
-        "National professional expansion now includes direct Polish-language services and separate referral infrastructure. Latest additions: Piotr Bielinski dental practice (CT), Krawiec Law (WI), Kurek Claims licensed public adjusting (FL), AMC Property Wealth Management (FL), and Quality Subaru (CT), plus Polish-American business networks in Michigan and South Florida.",
-        "Business-network records are explicitly referral infrastructure; membership is not treated as proof that each member speaks Polish. Direct-provider language claims continue to require first-party evidence.",
-        "Kurek Claims is stored under insurance because the schema has no public_adjuster category; notes explicitly distinguish it from an insurer/insurance agent. Quality Subaru is other_business because it is a dealership with sales/service/parts rather than a standalone mechanic.",
-        "Bank layer remains branch-specific with nine verified Polish-language records. Continue national bank/professional expansion using strong first-party or authoritative evidence. Vectorize remains blocked until coverage and schema/status-aware ingestion are mature."
+        "Latest direct-provider additions strengthen underrepresented categories: Florida Cosmetic Center (FL), Polish Dental Center (IL), Polish-American Accounting Services (NY), Arlington Insurance Services (IL; agency licensed in IL/AZ/MI/WI), Pavic Consulting CPA-led accounting/CFO services (NJ/remote), and Disability Management and Consulting (MI) for Social Security disability representation.",
+        "Direct Polish-language evidence remains mandatory. Address-light records retain null street fields until first-party location confirmation rather than copying stale directory data.",
+        "Bank layer remains branch-specific at nine verified Polish-language records; current Byline search reconfirmed the already-captured Norridge, Skokie-Touhy and Burbank branches and did not justify chain-wide expansion.",
+        "Continue healthcare, accounting/tax, insurance, real estate and bank discovery nationally. Vectorize remains blocked until coverage and schema/status-aware ingestion are mature."
       ]
     },
     "media_culture": {
