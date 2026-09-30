@@ -1,0 +1,21 @@
+{
+  "id": "new-years-day-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "holidays",
+  "title": "Nowy Rok — 1 stycznia",
+  "facts": [
+    "1 stycznia jest w Polsce dniem ustawowo wolnym od pracy.",
+    "Nowy Rok rozpoczyna rok kalendarzowy; noc z 31 grudnia na 1 stycznia jest powszechnie nazywana Sylwestrem.",
+    "Godziny otwarcia sklepów, transportu i usług mogą w tym okresie różnić się od zwykłego rozkładu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina/dni-wolne-od-pracy"
+  ],
+  "related_public_pages": []
+}
