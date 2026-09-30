@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-housing-respa-kickbacks",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "housing_mortgages",
+  "subtopic": "respa",
+  "title": "RESPA - kickbacks and settlement services",
+  "facts": [
+    "RESPA prohibits certain kickbacks and referral fees for settlement-service business involving federally related mortgage loans.",
+    "A person generally may not give or accept a fee, kickback or thing of value under an agreement that settlement-service business will be referred, subject to statutory exceptions.",
+    "RESPA does not prohibit payment for actual services genuinely performed merely because parties in a real-estate transaction do business together.",
+    "Affiliated business arrangements have specific disclosure and other requirements."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/rules-policy/regulations/1024/14/"
+  ],
+  "related_public_pages": []
+}
