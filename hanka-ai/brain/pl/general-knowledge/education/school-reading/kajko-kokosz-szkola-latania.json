@@ -1,0 +1,21 @@
+{
+  "id": "kajko-kokosz-szkola-latania",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Kajko i Kokosz. Szkoła latania — Janusz Christa",
+  "facts": [
+    "Kajko i Kokosz. Szkoła latania, autor: Janusz Christa, znajduje się w podstawie programowej języka polskiego dla szkoły podstawowej na rok szkolny 2025/2026 jako lektura obowiązkowa dla klas IV–VI.",
+    "Komiks o słowiańskich wojach Kajku i Kokoszu, łączący przygodę, humor i parodię.",
+    "Status lektury może zmieniać się wraz ze zmianą podstawy programowej; przy pytaniu o bieżący wykaz należy sprawdzić aktualną listę MEN/ZPE."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-podstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
