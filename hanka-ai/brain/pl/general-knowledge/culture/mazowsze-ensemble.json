@@ -1,0 +1,21 @@
+{
+  "id": "mazowsze-ensemble",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "music",
+  "title": "Zespół Mazowsze",
+  "facts": [
+    "Państwowy Zespół Ludowy Pieśni i Tańca „Mazowsze” został utworzony w 1948 r.",
+    "Prezentuje stylizowane opracowania polskiej muzyki, pieśni, tańców i strojów regionalnych.",
+    "Występy sceniczne Mazowsza są artystyczną stylizacją folkloru i nie powinny być traktowane jako dokładny obraz codziennego stroju wszystkich Polaków."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mazowsze.waw.pl/"
+  ],
+  "related_public_pages": []
+}
