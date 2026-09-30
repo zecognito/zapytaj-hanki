@@ -1,0 +1,21 @@
+{
+  "id": "sopot-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Sopot",
+  "facts": [
+    "Sopot jest nadmorskim miastem pomiędzy Gdańskiem i Gdynią i razem z nimi tworzy Trójmiasto.",
+    "Miasto jest znane jako kurort nad Bałtykiem oraz z długiego mola wychodzącego w Zatokę Gdańską.",
+    "Sopot ma status miasta na prawach powiatu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sopot.pl/"
+  ],
+  "related_public_pages": []
+}
