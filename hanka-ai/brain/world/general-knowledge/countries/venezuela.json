@@ -1,0 +1,21 @@
+{
+  "id": "country-venezuela",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Wenezuela",
+  "facts": [
+    "Wenezuela leży w północnej części Ameryki Południowej nad Morzem Karaibskim, a jej stolicą jest Caracas.",
+    "Językiem urzędowym jest hiszpański, a języki rdzenne mają konstytucyjne uznanie dla ludności rdzennej; walutą jest boliwar.",
+    "Wenezuela posiada jedne z największych udokumentowanych zasobów ropy naftowej na świecie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.opec.org/venezuela.html"
+  ],
+  "related_public_pages": []
+}
