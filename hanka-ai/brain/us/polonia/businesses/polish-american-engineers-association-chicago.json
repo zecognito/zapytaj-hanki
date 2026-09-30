@@ -1,0 +1,32 @@
+{
+  "id": "polonia-prof-other-paea-chicago-il",
+  "country": "US",
+  "category": "other_business",
+  "name": "Polish-American Engineers Association",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Chicago metropolitan area",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "engineering professional network",
+    "professional referrals",
+    "technical community events"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://www.polishengineers.org/",
+  "official_source": "https://www.polishengineers.org/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Professional Polish-American engineering network/referral infrastructure. Individual professional credentials and Polish-language capability require separate verification."
+  ]
+}
