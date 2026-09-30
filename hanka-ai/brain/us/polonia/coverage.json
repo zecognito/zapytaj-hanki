@@ -33,8 +33,14 @@
       ]
     },
     "organizations": {
-      "status": "planned",
-      "records": 0
+      "status": "started",
+      "records": 36,
+      "notes": [
+        "Seeded from the Embassy of the Republic of Poland's current roster of Polish institutions operating in the United States and official institutional sources.",
+        "Includes national umbrella organizations, cultural centers, museums/libraries, educational/scientific institutions, professional associations and durable regional Polonia organizations.",
+        "Informal social-media-only groups are excluded from the canonical first pass; organizational status, programs and contact details should be periodically refreshed.",
+        "Further expansion should capture remaining strong regional organizations and cultural institutions before this category is marked mature."
+      ]
     },
     "businesses": {
       "status": "planned",
