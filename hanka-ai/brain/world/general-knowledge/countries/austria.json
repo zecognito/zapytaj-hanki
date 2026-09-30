@@ -1,0 +1,21 @@
+{
+  "id": "country-austria",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Austria",
+  "facts": [
+    "Austria jest śródlądowym państwem Europy Środkowej, a jej stolicą jest Wiedeń.",
+    "Językiem urzędowym na poziomie federalnym jest niemiecki, a walutą euro.",
+    "Austria jest republiką federalną i członkiem Unii Europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.oesterreich.gv.at/en/themen/eu_und_international/oesterreich_in_der_eu.html"
+  ],
+  "related_public_pages": []
+}
