@@ -1,0 +1,21 @@
+{
+  "id": "country-mauritius",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Mauritius",
+  "facts": [
+    "Mauritius jest wyspiarskim państwem Oceanu Indyjskiego na wschód od Madagaskaru.",
+    "Stolicą jest Port Louis, a walutą rupia maurytyjska; angielski odgrywa główną rolę w działalności parlamentu, a francuski i kreolski maurytyjski są szeroko używane.",
+    "Mauritius jest republiką i członkiem Unii Afrykańskiej oraz Wspólnoty Narodów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://govmu.org/EN/Pages/default.aspx"
+  ],
+  "related_public_pages": []
+}
