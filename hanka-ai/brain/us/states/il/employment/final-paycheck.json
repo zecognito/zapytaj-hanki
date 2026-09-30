@@ -1,0 +1,21 @@
+{
+  "id": "il-final-paycheck",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "employment",
+  "subtopic": "final_paycheck",
+  "title": "Illinois final paycheck",
+  "facts": [
+    "When Illinois employment ends, final compensation generally must be paid no later than the employee's next regularly scheduled payday.",
+    "Final compensation can include earned wages and other compensation owed under Illinois law or the employer's policy, including the monetary equivalent of earned vacation where applicable."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://labor.illinois.gov/faqs/wage-payment-faq.html",
+    "https://labor.illinois.gov/laws-rules/fls/wage-payment-collection.html"
+  ],
+  "related_public_pages": []
+}
