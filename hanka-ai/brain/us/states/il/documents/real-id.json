@@ -1,0 +1,23 @@
+{
+  "id": "il-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "Illinois REAL ID requirements",
+  "facts": [
+    "A first-time Illinois REAL ID applicant generally needs one document from identity/date-of-birth/lawful-status requirements, proof of Social Security number, two Illinois residency documents, and a signature-verification document.",
+    "REAL ID applications are made in person at an Illinois DMV or eligible REAL ID facility.",
+    "Original hard-copy identity documents are required; printed electronic residency documents can be accepted.",
+    "A REAL ID is not required to drive, vote, or receive state/federal services; another federally accepted ID such as a valid U.S. passport can satisfy federal identification requirements where applicable."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ilsos.gov/departments/drivers/drivers-license/document-requirements-to-obtain-drivers-license-or-state-id-card.html",
+    "https://realid.ilsos.gov/"
+  ],
+  "related_public_pages": []
+}
