@@ -1,0 +1,21 @@
+{
+  "id": "chicago-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "major_cities",
+  "title": "Chicago — podstawy",
+  "facts": [
+    "Chicago leży w Illinois nad Lake Michigan i jest największym miastem tego stanu.",
+    "Chicago nie jest stolicą Illinois; stolicą stanu jest Springfield.",
+    "Chicago city, Cook County i Chicago metropolitan area to różne obszary i nie wolno mieszać ich statystyk."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/quickfacts/chicagocityillinois"
+  ],
+  "related_public_pages": []
+}
