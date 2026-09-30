@@ -1,0 +1,21 @@
+{
+  "id": "szczecin-lagoon",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "coast",
+  "title": "Zalew Szczeciński",
+  "facts": [
+    "Zalew Szczeciński jest przybrzeżnym akwenem u ujścia Odry, podzielonym między Polskę i Niemcy.",
+    "Łączy się z Morzem Bałtyckim przez cieśniny i system wodny wokół wysp Uznam i Wolin.",
+    "Ma znaczenie dla żeglugi prowadzącej m.in. do portu w Szczecinie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ums.gov.pl/"
+  ],
+  "related_public_pages": []
+}
