@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-family-pwfa",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "family_children",
+  "subtopic": "pregnancy_work",
+  "title": "Pregnant Workers Fairness Act - basics",
+  "facts": [
+    "The Pregnant Workers Fairness Act requires covered employers to provide reasonable accommodations for known limitations related to pregnancy, childbirth or related medical conditions unless the accommodation would impose an undue hardship.",
+    "The PWFA generally applies to employers with 15 or more employees and other covered entities under the statute.",
+    "A worker does not necessarily have to be unable to perform every essential job function to qualify for an accommodation under the PWFA; statutory temporary-inability rules can apply.",
+    "An employer generally may not force a qualified employee to take leave if another reasonable accommodation would allow the employee to keep working."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.eeoc.gov/wysk/what-you-should-know-about-pregnant-workers-fairness-act"
+  ],
+  "related_public_pages": []
+}
