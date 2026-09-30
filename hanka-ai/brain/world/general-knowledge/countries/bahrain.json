@@ -1,0 +1,21 @@
+{
+  "id": "country-bahrain",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Bahrajn",
+  "facts": [
+    "Bahrajn jest niewielkim wyspiarskim państwem w Zatoce Perskiej, połączonym mostem z Arabią Saudyjską.",
+    "Stolicą jest Manama, językiem urzędowym arabski, a walutą dinar bahrajński.",
+    "Bahrajn jest monarchią konstytucyjną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bahrain.bh/"
+  ],
+  "related_public_pages": []
+}
