@@ -1,0 +1,21 @@
+{
+  "id": "country-estonia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Estonia",
+  "facts": [
+    "Estonia leży w Europie Północnej nad Morzem Bałtyckim, a jej stolicą jest Tallinn.",
+    "Językiem urzędowym jest estoński, a walutą euro.",
+    "Estonia jest republiką oraz członkiem Unii Europejskiej i NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://estonia.ee/"
+  ],
+  "related_public_pages": []
+}
