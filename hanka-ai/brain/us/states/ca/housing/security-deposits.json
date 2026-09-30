@@ -1,0 +1,21 @@
+{
+  "id": "ca-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CA",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w Kalifornii",
+  "facts": [
+    "California ogranicza wysokość residential security deposit zgodnie z aktualnym Civil Code; dla większości landlordów obowiązuje zasadniczo limit równy jednemu miesiącowi rent, z ustawowymi wyjątkami dla części małych landlordów.",
+    "Po zakończeniu tenancy landlord zasadniczo ma 21 dni na zwrot pozostałości deposit i wymagane itemized accounting potrąceń.",
+    "Potrącenia są ograniczone do celów dozwolonych prawem, m.in. określonego unpaid rent i szkód wykraczających poza ordinary wear and tear."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://oag.ca.gov/system/files/media/Know-Your-Rights-Security-Deposits-English.pdf"
+  ],
+  "related_public_pages": []
+}
