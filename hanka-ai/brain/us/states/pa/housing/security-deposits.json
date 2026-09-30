@@ -1,0 +1,21 @@
+{
+  "id": "pa-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "PA",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w Pensylwanii",
+  "facts": [
+    "Pennsylvania Landlord and Tenant Act ogranicza security deposit w pierwszym roku najmu zasadniczo do równowartości dwóch miesięcy rent.",
+    "W drugim i kolejnych latach limit zasadniczo spada do jednego miesiąca rent.",
+    "Po zakończeniu najmu landlord ma ustawowe obowiązki dotyczące zwrotu deposit i przedstawienia listy szkód, jeśli dokonuje potrąceń."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.legis.state.pa.us/WU01/LI/LI/US/PDF/1951/0/0020..PDF"
+  ],
+  "related_public_pages": []
+}
