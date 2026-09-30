@@ -1,0 +1,21 @@
+{
+  "id": "la-security_deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "LA",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w Luizjanie",
+  "facts": [
+    "Prawo stanowe reguluje security deposits przy najmie mieszkań.",
+    "Dozwolone potrącenia i termin zwrotu zależą od obowiązujących przepisów.",
+    "Warto zachować lease, potwierdzenia płatności i dokumentację stanu lokalu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.legis.la.gov/legis/Law.aspx?d=109762"
+  ],
+  "related_public_pages": []
+}
