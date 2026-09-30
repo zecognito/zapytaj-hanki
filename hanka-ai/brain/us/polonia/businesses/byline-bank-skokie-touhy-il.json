@@ -1,0 +1,35 @@
+{
+  "id": "polonia-bank-byline-skokie-touhy-il",
+  "country": "US",
+  "category": "bank",
+  "name": "Byline Bank - Skokie Touhy Avenue",
+  "status": "active",
+  "location": {
+    "address": "3200 W Touhy Ave",
+    "city": "Skokie",
+    "state": "IL",
+    "postal_code": "60076",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "personal banking",
+    "small business banking",
+    "commercial banking",
+    "wealth management",
+    "ATM",
+    "safe deposit boxes"
+  ],
+  "phone": "+1 847-677-7200",
+  "email": null,
+  "website": "https://www.bylinebank.com/locations/touhy-avenue/",
+  "official_source": "https://www.bylinebank.com/locations/touhy-avenue/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official Byline branch page explicitly lists Mówimy Po Polsku as a branch feature."
+  ]
+}
