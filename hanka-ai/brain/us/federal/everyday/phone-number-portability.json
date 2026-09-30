@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-phone-number-portability",
+  "subtopic": "phone_internet",
+  "title": "Przeniesienie numeru telefonu do innego operatora",
+  "facts": [
+    "FCC pozwala konsumentowi zachować istniejący numer telefonu przy zmianie operatora, jeśli pozostaje w tym samym geographic area i spełnione są warunki portability.",
+    "Stary operator nie może odmówić portowania numeru wyłącznie dlatego, że klient ma wobec niego zaległość; klient nadal odpowiada za należne opłaty.",
+    "Nie należy zamykać starego konta przed zakończeniem portu, jeśli celem jest zachowanie numeru.",
+    "Portowanie między wireless carriers może być szybkie, ale dokładny czas zależy od rodzaju usługi i okoliczności."
+  ],
+  "official_sources": [
+    "https://www.fcc.gov/consumers/guides/porting-keeping-your-phone-number-when-you-change-providers"
+  ]
+}
