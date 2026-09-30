@@ -1,0 +1,21 @@
+{
+  "id": "as-puskin-bajka-o-rybaku-i-rybce",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Bajka o rybaku i rybce — Aleksander Puszkin",
+  "facts": [
+    "Bajka o rybaku i rybce, autor: Aleksander Puszkin, jest utworem znanym z polskiej edukacji szkolnej i kanonu lektur w odpowiednich wersjach podstawy programowej.",
+    "Baśniowa opowieść o rybaku, złotej rybce i coraz większych żądaniach jego żony; ważne motywy to chciwość, wdzięczność i konsekwencje nienasycenia.",
+    "Status lektury, klasa i zakres omawiania mogą zmieniać się między wersjami podstawy programowej; Hanka powinna odróżniać wiedzę o utworze od jego aktualnego statusu programowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-podstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
