@@ -1,0 +1,21 @@
+{
+  "id": "nj-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NJ",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w New Jersey",
+  "facts": [
+    "New Jersey corocznie dostosowuje stanową płacę minimalną zgodnie z prawem stanowym.",
+    "Dla części pracowników, w tym tipped workers, seasonal/small employers i niektórych agricultural workers, mogą obowiązywać inne stawki lub harmonogramy.",
+    "Aktualną stawkę należy sprawdzić w New Jersey Department of Labor and Workforce Development."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nj.gov/labor/wageandhour/tools-resources/laws/wageandhourlaws.shtml"
+  ],
+  "related_public_pages": []
+}
