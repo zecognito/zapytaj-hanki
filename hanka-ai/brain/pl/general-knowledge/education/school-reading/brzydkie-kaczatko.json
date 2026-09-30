@@ -1,0 +1,21 @@
+{
+  "id": "brzydkie-kaczatko",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Brzydkie kaczątko — Hans Christian Andersen",
+  "facts": [
+    "Brzydkie kaczątko, autor: Hans Christian Andersen, jest dziełem silnie obecnym w polskiej kulturze szkolnej i dziecięcej.",
+    "Baśń o odrzuconym młodym ptaku, który po okresie cierpienia odkrywa, że jest łabędziem; utwór kojarzony z odmiennością, dojrzewaniem i samoakceptacją.",
+    "Hanka powinna znać tytuł, autora, głównych bohaterów, podstawową fabułę i motywy; aktualny status programowy należy wiązać z konkretną wersją podstawy programowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-podstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
