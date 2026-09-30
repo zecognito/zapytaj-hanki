@@ -1,0 +1,21 @@
+{
+  "id": "do-widzenia",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "„Do widzenia”",
+  "facts": [
+    "„Do widzenia” jest standardowym uprzejmym polskim pożegnaniem.",
+    "Może być używane zarówno w sytuacjach formalnych, jak i neutralnych.",
+    "W nieformalnych relacjach częste są „cześć”, „pa” lub inne potoczne formy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/"
+  ],
+  "related_public_pages": []
+}
