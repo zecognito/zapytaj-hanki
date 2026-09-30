@@ -1,0 +1,21 @@
+{
+  "id": "administrative-courts-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "judiciary",
+  "title": "Sądownictwo administracyjne w Polsce",
+  "facts": [
+    "Sądy administracyjne kontrolują działalność administracji publicznej pod względem zgodności z prawem.",
+    "W pierwszej instancji kontrolę tę sprawuje 16 wojewódzkich sądów administracyjnych.",
+    "Na czele sądownictwa administracyjnego stoi Naczelny Sąd Administracyjny, który m.in. rozpoznaje środki odwoławcze od orzeczeń wojewódzkich sądów administracyjnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nsa.gov.pl/dla-interesantow/zakres-dzialalnosci-nsa/"
+  ],
+  "related_public_pages": []
+}
