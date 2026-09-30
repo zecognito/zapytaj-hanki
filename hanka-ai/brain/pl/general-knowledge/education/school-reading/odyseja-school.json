@@ -1,0 +1,21 @@
+{
+  "id": "odyseja-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Odyseja — fragmenty — Homer",
+  "facts": [
+    "Odyseja — fragmenty (Homer) należy do kanonu tekstów omawianych w szkole ponadpodstawowej; forma wskazana w programie: fragmenty.",
+    "Epos o wieloletnim powrocie Odyseusza do Itaki; źródło archetypu wędrówki i licznych motywów kultury europejskiej.",
+    "Hanka powinna rozpoznawać epokę, gatunek, główne motywy, kontekst kulturowy i najważniejsze pojęcia związane z utworem."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
