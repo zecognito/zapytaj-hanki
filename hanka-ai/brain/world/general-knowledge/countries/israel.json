@@ -1,0 +1,21 @@
+{
+  "id": "country-israel",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Izrael",
+  "facts": [
+    "Izrael leży na Bliskim Wschodzie nad Morzem Śródziemnym, a siedziba jego głównych instytucji państwowych znajduje się w Jerozolimie.",
+    "Hebrajski jest językiem państwa; arabski ma specjalny status prawny, a walutą jest nowy szekel izraelski.",
+    "Status Jerozolimy oraz granice i terytoria w konflikcie izraelsko-palestyńskim są przedmiotem międzynarodowych sporów, dlatego Hanka powinna rozróżniać stanowiska stron od statusu uznawanego przez poszczególne państwa i organizacje."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.il/en/pages/facts-about-israel-history"
+  ],
+  "related_public_pages": []
+}
