@@ -1,0 +1,21 @@
+{
+  "id": "human-genome-project",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "science",
+  "subtopic": "medical_history",
+  "title": "Human Genome Project",
+  "facts": [
+    "Human Genome Project był międzynarodowym programem badawczym koordynowanym w USA przez NIH i Department of Energy.",
+    "Projekt rozpoczął się w 1990 r. i został ukończony w 2003 r.",
+    "Jego celem było stworzenie referencyjnej sekwencji ludzkiego genomu i identyfikacja genów, co przyspieszyło rozwój genomics."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.genome.gov/human-genome-project"
+  ],
+  "related_public_pages": []
+}
