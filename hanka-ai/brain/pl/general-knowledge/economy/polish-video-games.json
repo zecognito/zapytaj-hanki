@@ -1,0 +1,21 @@
+{
+  "id": "polish-video-games",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "industries",
+  "title": "Polska branża gier komputerowych",
+  "facts": [
+    "Polska rozwinęła rozpoznawalną międzynarodowo branżę gier komputerowych.",
+    "Do znanych produkcji tworzonych przez polskie studia należą serie „Wiedźmin” i „Dying Light”.",
+    "Branża obejmuje zarówno duże spółki, jak i wiele mniejszych studiów; jej bieżąca kondycja zmienia się wraz z rynkiem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.parp.gov.pl/"
+  ],
+  "related_public_pages": []
+}
