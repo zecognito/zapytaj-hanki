@@ -1,0 +1,21 @@
+{
+  "id": "in-unemployment-basics",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IN",
+  "topic": "benefits",
+  "subtopic": "unemployment",
+  "title": "Unemployment Insurance w Indianie",
+  "facts": [
+    "Indiana Unemployment Insurance zapewnia czasowe świadczenia kwalifikującym się osobom, które są bez pracy bez własnej winy.",
+    "Eligibility zależy m.in. od wcześniejszych wages, powodu utraty pracy oraz spełniania bieżących wymagań programu.",
+    "Claimant musi składać wymagane weekly vouchers i spełniać zasady dotyczące dostępności do pracy oraz work search, jeśli mają zastosowanie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.in.gov/dwd/indiana-unemployment/"
+  ],
+  "related_public_pages": []
+}
