@@ -1,0 +1,21 @@
+{
+  "id": "vat-poland-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "taxes",
+  "title": "VAT w Polsce — podstawy",
+  "facts": [
+    "VAT jest podatkiem od towarów i usług stosowanym w Polsce.",
+    "Towary i usługi mogą podlegać różnym stawkom albo zwolnieniom zgodnie z aktualnym prawem.",
+    "W przeciwieństwie do typowej amerykańskiej praktyki sales tax, cena detaliczna dla konsumenta w Polsce zwykle zawiera VAT; przy konkretnych stawkach Hanka powinna sprawdzać aktualne przepisy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.podatki.gov.pl/vat/"
+  ],
+  "related_public_pages": []
+}
