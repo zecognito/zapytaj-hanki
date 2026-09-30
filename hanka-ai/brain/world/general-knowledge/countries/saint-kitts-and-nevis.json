@@ -1,0 +1,21 @@
+{
+  "id": "country-saint-kitts-and-nevis",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Saint Kitts i Nevis",
+  "facts": [
+    "Saint Kitts i Nevis jest federacją dwóch głównych wysp w Małych Antylach na Karaibach.",
+    "Stolicą jest Basseterre na Saint Kitts, językiem urzędowym angielski, a walutą dolar wschodniokaraibski.",
+    "Jest najmniejszym suwerennym państwem obu Ameryk pod względem powierzchni i liczby ludności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.kn/"
+  ],
+  "related_public_pages": []
+}
