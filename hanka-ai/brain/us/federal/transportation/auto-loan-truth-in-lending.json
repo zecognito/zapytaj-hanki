@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-cars-auto-loan-disclosures",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "cars_transportation",
+  "subtopic": "auto_finance",
+  "title": "Auto loans - federal Truth in Lending disclosures",
+  "facts": [
+    "For covered consumer auto loans, federal Truth in Lending rules require creditors to disclose key credit terms before consummation, including the annual percentage rate, finance charge, amount financed, total of payments and payment schedule as applicable.",
+    "APR is not the same as the note interest rate because APR reflects specified credit costs under federal disclosure rules.",
+    "Dealer-arranged financing can involve a retail installment contract assigned to a bank, credit union or finance company.",
+    "Borrowers should compare total financing cost, not only the monthly payment."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/what-is-a-truth-in-lending-disclosure-for-an-auto-loan-en-787/"
+  ],
+  "related_public_pages": []
+}
