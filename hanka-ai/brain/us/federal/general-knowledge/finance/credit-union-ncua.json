@@ -1,0 +1,21 @@
+{
+  "id": "credit-union-ncua",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "finance",
+  "subtopic": "banking_terms",
+  "title": "Credit union i NCUA",
+  "facts": [
+    "Credit union jest członkowską instytucją finansową działającą w formie spółdzielczej zgodnie z właściwymi przepisami.",
+    "NCUA administruje National Credit Union Share Insurance Fund dla federally insured credit unions.",
+    "Ubezpieczenie udziałów/depozytów w federally insured credit union jest odrębnym systemem od FDIC."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ncua.gov/support-services/share-insurance-fund"
+  ],
+  "related_public_pages": []
+}
