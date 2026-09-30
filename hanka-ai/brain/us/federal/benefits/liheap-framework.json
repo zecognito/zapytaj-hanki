@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-benefits-liheap-framework",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "benefits",
+  "subtopic": "liheap",
+  "title": "LIHEAP - federal framework",
+  "facts": [
+    "LIHEAP provides federal funding to states, territories and tribes to help eligible low-income households with home energy costs.",
+    "LIHEAP is not a single nationwide entitlement with one benefit amount; administering agencies set program details within federal rules and available funding.",
+    "Assistance can include heating or cooling help, crisis assistance, weatherization-related services or other allowed energy assistance depending on the local program.",
+    "Applicants generally apply through their state, tribal or territorial LIHEAP program."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.acf.hhs.gov/ocs/programs/liheap"
+  ],
+  "related_public_pages": []
+}
