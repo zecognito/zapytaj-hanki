@@ -1,0 +1,21 @@
+{
+  "id": "manufacturing-belt-history",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "economy",
+  "subtopic": "industry",
+  "title": "Manufacturing i historyczny industrial belt",
+  "facts": [
+    "Great Lakes i części Northeast były historycznym centrum dużej części amerykańskiego heavy manufacturing.",
+    "Sektory obejmowały m.in. steel, automobiles, machinery i related manufacturing.",
+    "Produkcja nadal jest ważna w regionie, ale struktura przemysłu zmieniła się wskutek automation, global trade, nowych technologii i zmian lokalizacji zakładów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bls.gov/iag/tgs/iag31-33.htm"
+  ],
+  "related_public_pages": []
+}
