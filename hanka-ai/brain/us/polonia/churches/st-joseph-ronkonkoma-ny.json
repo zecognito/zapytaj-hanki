@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-joseph-ronkonkoma-ny",
+  "country": "US",
+  "category": "church",
+  "name": "St. Joseph Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "45 Church St",
+    "city": "Ronkonkoma",
+    "state": "NY",
+    "postal_code": "11779",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 631 588 8456",
+  "email": null,
+  "website": "https://stjosephronkonkoma.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "NY"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://stjosephronkonkoma.org",
+  "last_verified": "2026-09-30"
+}
