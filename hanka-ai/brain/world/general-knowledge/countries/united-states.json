@@ -1,0 +1,21 @@
+{
+  "id": "country-united-states",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Stany Zjednoczone",
+  "facts": [
+    "Stany Zjednoczone Ameryki są federalnym państwem Ameryki Północnej składającym się z 50 stanów oraz Dystryktu Kolumbii.",
+    "Stolicą jest Waszyngton, D.C.; na poziomie federalnym Stany Zjednoczone nie ustanowiły jednego języka urzędowego w Konstytucji, a dominującym językiem życia publicznego jest angielski; walutą jest dolar amerykański.",
+    "Stany Zjednoczone są federalną republiką konstytucyjną; szczegółowa wiedza o USA w Hanka Brain znajduje się w odrębnych strukturach federalnych, stanowych i USA General Knowledge."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/about-the-us"
+  ],
+  "related_public_pages": []
+}
