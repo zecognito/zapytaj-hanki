@@ -1,0 +1,21 @@
+{
+  "id": "country-dominica",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Dominika",
+  "facts": [
+    "Dominika jest górzystym wyspiarskim państwem Małych Antyli na Karaibach.",
+    "Stolicą jest Roseau, językiem urzędowym angielski, a walutą dolar wschodniokaraibski.",
+    "Dominika jest republiką i jest znana z rozległych lasów deszczowych oraz aktywności wulkanicznej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dominica.gov.dm/"
+  ],
+  "related_public_pages": []
+}
