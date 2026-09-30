@@ -1,0 +1,21 @@
+{
+  "id": "office-competition-consumer-protection-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "consumer-protection",
+  "title": "System ochrony konkurencji i konsumentów",
+  "facts": [
+    "Ochrona konkurencji i zbiorowych interesów konsumentów w Polsce należy do zadań Prezesa Urzędu Ochrony Konkurencji i Konsumentów.",
+    "UOKiK prowadzi m.in. postępowania dotyczące praktyk ograniczających konkurencję, koncentracji przedsiębiorców oraz praktyk naruszających zbiorowe interesy konsumentów.",
+    "Indywidualne spory konsumenckie mogą być wspierane również przez rzeczników konsumentów i inne instytucje systemu ochrony konsumenta."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://uokik.gov.pl/"
+  ],
+  "related_public_pages": []
+}
