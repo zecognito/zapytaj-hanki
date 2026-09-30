@@ -1,0 +1,21 @@
+{
+  "id": "elementary-middle-high-school",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "education",
+  "subtopic": "school_structure",
+  "title": "Elementary, middle i high school",
+  "facts": [
+    "W USA szkoły są często organizowane jako elementary school, middle/junior high school i high school.",
+    "Zakres klas przypisanych do każdego poziomu może różnić się między districts, np. middle school może obejmować grades 6–8.",
+    "High school zwykle kończy się 12th grade."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://nces.ed.gov/programs/digest/d23/tables/dt23_105.50.asp"
+  ],
+  "related_public_pages": []
+}
