@@ -1,0 +1,22 @@
+{
+  "id": "1946-june-referendum",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "30 czerwca 1946 — referendum „3 razy TAK”",
+  "facts": [
+    "30 czerwca 1946 r. w Polsce przeprowadzono referendum ludowe dotyczące m.in. Senatu, reform gospodarczych i zachodniej granicy.",
+    "Władze komunistyczne prowadziły kampanię pod hasłem „3 razy TAK”.",
+    "Wyniki referendum zostały sfałszowane, a głosowanie służyło władzom jako próba mechanizmów kontroli przed wyborami parlamentarnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
