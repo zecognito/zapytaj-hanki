@@ -1,0 +1,37 @@
+{
+  "id": "polonia-business-delicja-polish-market-jacksonville",
+  "country": "US",
+  "category": "store",
+  "name": "Delicja Polish Market",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "10503 San Jose Blvd #3-5",
+    "city": "Jacksonville",
+    "state": "FL",
+    "postal_code": "32257",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 708-420-8289",
+  "email": null,
+  "website": "https://delicjafoods.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish deli",
+    "Polish groceries",
+    "imported Polish foods"
+  ],
+  "coverage_area": [
+    "Jacksonville",
+    "FL"
+  ],
+  "notes": [
+    "Polish-food relevance supported by current official business or Polonia/local source. Commercial status and details remain freshness-sensitive."
+  ],
+  "official_source": "https://www.polishfloridabiz.net/polska--ywno-----polish-delis.html",
+  "last_verified": "2026-09-30"
+}
