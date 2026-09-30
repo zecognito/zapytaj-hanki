@@ -1,0 +1,21 @@
+{
+  "id": "polish-anthem-etiquette",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "national_symbols",
+  "title": "Zachowanie podczas hymnu Polski",
+  "facts": [
+    "Polskie przepisy wymagają okazywania czci i szacunku symbolom państwowym.",
+    "Podczas publicznego wykonywania lub odtwarzania hymnu obowiązują zasady zachowania określone ustawą, w tym postawa wyrażająca szacunek.",
+    "Szczegółowe zasady różnią się m.in. dla osób w umundurowaniu i pocztów sztandarowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19800070018"
+  ],
+  "related_public_pages": []
+}
