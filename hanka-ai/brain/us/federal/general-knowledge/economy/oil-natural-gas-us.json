@@ -1,0 +1,22 @@
+{
+  "id": "oil-natural-gas-us",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "economy",
+  "subtopic": "energy",
+  "title": "Oil i natural gas w USA",
+  "facts": [
+    "USA są dużym producentem petroleum i natural gas.",
+    "Produkcja jest skoncentrowana w wielu basins i stanach, m.in. Texas, New Mexico, North Dakota, Alaska i regionie Gulf, zależnie od rodzaju surowca i okresu.",
+    "Energy Information Administration publikuje bieżące dane produkcyjne; rankingi zmieniają się w czasie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.eia.gov/energyexplained/oil-and-petroleum-products/where-our-oil-comes-from.php",
+    "https://www.eia.gov/energyexplained/natural-gas/where-our-natural-gas-comes-from.php"
+  ],
+  "related_public_pages": []
+}
