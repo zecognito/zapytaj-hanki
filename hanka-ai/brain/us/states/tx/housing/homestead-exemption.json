@@ -1,0 +1,21 @@
+{
+  "id": "tx-residence-homestead-exemption",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TX",
+  "topic": "housing",
+  "subtopic": "property_tax_relief",
+  "title": "Residence Homestead Exemption w Teksasie",
+  "facts": [
+    "Kwalifikujący się właściciel principal residence w Texas może ubiegać się o residence homestead exemption od części taxable value nieruchomości.",
+    "Dodatkowe exemptions mogą być dostępne m.in. dla osób 65+, osób z disabilities i określonych veterans, zależnie od warunków prawa.",
+    "Wniosek składa się do appraisal district właściwego dla lokalizacji nieruchomości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://comptroller.texas.gov/taxes/property-tax/exemptions/residence-faq.php"
+  ],
+  "related_public_pages": []
+}
