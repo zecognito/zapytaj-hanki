@@ -1,0 +1,21 @@
+{
+  "id": "paragon-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "everyday",
+  "title": "Paragon fiskalny",
+  "facts": [
+    "Paragon fiskalny jest dokumentem potwierdzającym sprzedaż zarejestrowaną na kasie fiskalnej.",
+    "Zawiera m.in. informacje o sprzedawcy, towarach lub usługach, kwotach i podatku zgodnie z obowiązującymi wymaganiami.",
+    "Paragon może być ważny przy reklamacji lub rozliczeniach, ale prawa konsumenta nie zawsze zależą wyłącznie od posiadania papierowego paragonu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.podatki.gov.pl/vat/kasy-rejestrujace/"
+  ],
+  "related_public_pages": []
+}
