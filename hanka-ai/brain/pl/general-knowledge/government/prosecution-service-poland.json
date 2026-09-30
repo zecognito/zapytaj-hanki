@@ -1,0 +1,21 @@
+{
+  "id": "prosecution-service-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "justice",
+  "title": "Prokuratura w Polsce",
+  "facts": [
+    "Prokuratura wykonuje zadania związane ze strzeżeniem praworządności i ściganiem przestępstw.",
+    "Prokuratorzy prowadzą lub nadzorują postępowania przygotowawcze oraz wykonują inne czynności określone ustawami.",
+    "Struktura prokuratury obejmuje Prokuraturę Krajową oraz jednostki niższych szczebli."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/prokuratura-krajowa"
+  ],
+  "related_public_pages": []
+}
