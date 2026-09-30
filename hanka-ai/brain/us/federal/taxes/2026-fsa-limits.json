@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-health-fsa-limits-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "health_fsa",
+  "title": "Health FSA — limity 2026",
+  "facts": [
+    "Dla plan years beginning in 2026 limit salary reduction contributions do health FSA wynosi $3,400.",
+    "Jeżeli cafeteria plan pozwala na carryover niewykorzystanych środków health FSA, maksymalny carryover dla plan years beginning in 2026 wynosi $680.",
+    "Health FSA jest planem pracowniczym podlegającym zasadom planu pracodawcy; możliwość carryover nie jest automatyczna i zależy od konstrukcji planu."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill"
+  ],
+  "related_public_pages": []
+}
