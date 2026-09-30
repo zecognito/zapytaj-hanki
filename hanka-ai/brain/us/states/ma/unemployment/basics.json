@@ -1,0 +1,21 @@
+{
+  "id": "ma-unemployment-basics",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MA",
+  "topic": "benefits",
+  "subtopic": "unemployment",
+  "title": "Unemployment Insurance w Massachusetts",
+  "facts": [
+    "Massachusetts Unemployment Insurance zapewnia czasowe świadczenia kwalifikującym się osobom bez pracy.",
+    "Eligibility zależy m.in. od wcześniejszych wages, powodu utraty pracy oraz zdolności, dostępności i gotowości do pracy.",
+    "Claimant musi wykonywać wymagane weekly certifications i spełniać aktualne work-search requirements."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mass.gov/unemployment-insurance-ui-for-workers"
+  ],
+  "related_public_pages": []
+}
