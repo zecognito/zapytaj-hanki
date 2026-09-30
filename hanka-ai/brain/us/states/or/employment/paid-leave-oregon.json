@@ -1,0 +1,21 @@
+{
+  "id": "or-paid-leave",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OR",
+  "topic": "employment",
+  "subtopic": "paid_family_medical_leave",
+  "title": "Paid Leave Oregon",
+  "facts": [
+    "Paid Leave Oregon zapewnia kwalifikującym się pracownikom płatny leave z określonych powodów rodzinnych, medycznych i safe leave.",
+    "Program jest finansowany składkami zgodnie z zasadami stanowymi, a część pracodawców może korzystać z zatwierdzonego equivalent plan.",
+    "Eligibility i wysokość świadczenia zależą od zarobków oraz obowiązujących zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://paidleave.oregon.gov/"
+  ],
+  "related_public_pages": []
+}
