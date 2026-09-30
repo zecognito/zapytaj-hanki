@@ -1,0 +1,21 @@
+{
+  "id": "country-ukraine",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Ukraina",
+  "facts": [
+    "Ukraina jest państwem Europy Wschodniej i graniczy m.in. z Polską, Słowacją, Węgrami, Rumunią, Mołdawią, Białorusią i Rosją.",
+    "Stolicą jest Kijów, językiem państwowym ukraiński, a walutą hrywna.",
+    "Ukraina jest republiką; od 2022 roku broni się przed pełnoskalową inwazją Rosji, będącą kontynuacją rosyjskiej agresji rozpoczętej w 2014 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ukraine.ua/"
+  ],
+  "related_public_pages": []
+}
