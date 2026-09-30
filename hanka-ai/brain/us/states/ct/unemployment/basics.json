@@ -1,0 +1,21 @@
+{
+  "id": "ct-unemployment-basics",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CT",
+  "topic": "benefits",
+  "subtopic": "unemployment",
+  "title": "Unemployment Benefits w Connecticut",
+  "facts": [
+    "Connecticut Unemployment Insurance zapewnia czasowe świadczenia kwalifikującym się osobom bez pracy.",
+    "Eligibility zależy m.in. od wcześniejszych wages, powodu utraty pracy oraz bieżącej zdolności i dostępności do pracy.",
+    "Claimant musi składać wymagane weekly certifications i spełniać work-search requirements, jeśli mają zastosowanie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://portal.ct.gov/dol/unemployment-benefits"
+  ],
+  "related_public_pages": []
+}
