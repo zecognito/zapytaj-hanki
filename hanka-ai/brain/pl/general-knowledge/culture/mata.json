@@ -1,0 +1,21 @@
+{
+  "id": "mata",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "modern-music",
+  "title": "Mata",
+  "facts": [
+    "Mata, właściwie Michał Matczak, jest polskim raperem i autorem tekstów.",
+    "Szeroką rozpoznawalność zdobył pod koniec lat 2010., m.in. dzięki utworowi „Patointeligencja”.",
+    "Jego twórczość wywoływała publiczne dyskusje o młodzieży, języku, klasie społecznej i kulturze popularnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
