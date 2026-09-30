@@ -1,0 +1,21 @@
+{
+  "id": "public-transit-city-rule",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "transportation",
+  "title": "Komunikacja miejska w Polsce",
+  "facts": [
+    "Systemy komunikacji miejskiej w Polsce są organizowane lokalnie i różnią się między miastami.",
+    "Bilety z Warszawy nie są automatycznie ważne w Krakowie, Wrocławiu czy innym mieście.",
+    "Przy pytaniu o cenę, strefę lub ważność biletu Hanka powinna sprawdzić aktualne zasady lokalnego organizatora transportu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/infrastruktura/transport-publiczny"
+  ],
+  "related_public_pages": []
+}
