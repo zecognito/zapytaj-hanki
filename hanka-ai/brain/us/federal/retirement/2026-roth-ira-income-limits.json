@@ -1,0 +1,25 @@
+{
+  "id": "us-federal-roth-ira-income-limits-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "retirement",
+  "subtopic": "roth_ira",
+  "title": "Roth IRA income phase-out — 2026",
+  "facts": [
+    "Single i Head of Household: Roth IRA contribution phase-out przy modified AGI $153,000–$168,000.",
+    "Married Filing Jointly i Qualifying Surviving Spouse: phase-out $242,000–$252,000.",
+    "Married Filing Separately przy mieszkaniu z małżonkiem w roku: phase-out $0–$10,000.",
+    "Ogólny 2026 łączny limit Traditional i Roth IRA wynosi $7,500 albo $8,600 dla age 50+, z zastrzeżeniem taxable compensation."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500",
+    "https://www.irs.gov/publications/p590a"
+  ],
+  "related_public_pages": [
+    "https://zapytajhanki.com/emerytura/roth-ira/"
+  ]
+}
