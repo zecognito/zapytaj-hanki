@@ -1,0 +1,21 @@
+{
+  "id": "mazurka-dance",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Mazurek i mazur",
+  "facts": [
+    "Mazur jest tradycyjnym polskim tańcem ludowym związanym historycznie z Mazowszem, a mazurek jest nazwą formy muzycznej i grupy tańców w metrum trójdzielnym.",
+    "Fryderyk Chopin rozsławił mazurki jako formę muzyki fortepianowej.",
+    "Mazurek Dąbrowskiego jest hymnem Polski, ale słowo „mazurek” ma szersze znaczenie muzyczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-dances-mazur"
+  ],
+  "related_public_pages": []
+}
