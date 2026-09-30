@@ -1,0 +1,21 @@
+{
+  "id": "country-seychelles",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Seszele",
+  "facts": [
+    "Seszele są archipelagowym państwem na Oceanie Indyjskim, na północny wschód od Madagaskaru.",
+    "Stolicą jest Victoria; kreolski seszelski, angielski i francuski są językami narodowymi, a walutą jest rupia seszelska.",
+    "Seszele są republiką i najmniejszym państwem Afryki pod względem powierzchni lądowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.statehouse.gov.sc/"
+  ],
+  "related_public_pages": []
+}
