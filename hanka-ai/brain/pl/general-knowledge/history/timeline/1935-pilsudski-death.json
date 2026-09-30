@@ -1,0 +1,22 @@
+{
+  "id": "1935-pilsudski-death",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "12 maja 1935 — śmierć Józefa Piłsudskiego",
+  "facts": [
+    "Józef Piłsudski zmarł 12 maja 1935 r. w Warszawie.",
+    "Jego śmierć była ważnym momentem politycznym dla obozu sanacyjnego, którego był centralną postacią.",
+    "Piłsudski został pochowany w krypcie pod Wieżą Srebrnych Dzwonów na Wawelu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
