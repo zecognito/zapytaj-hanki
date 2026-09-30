@@ -1,0 +1,21 @@
+{
+  "id": "sigismund-bell",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Dzwon Zygmunt",
+  "facts": [
+    "Dzwon Zygmunt znajduje się w katedrze wawelskiej w Krakowie.",
+    "Został odlany na początku XVI wieku z fundacji króla Zygmunta I Starego.",
+    "Rozbrzmiewa podczas wybranych ważnych świąt religijnych i wydarzeń o szczególnym znaczeniu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.katedra-wawelska.pl/"
+  ],
+  "related_public_pages": []
+}
