@@ -1,0 +1,21 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-emergency-911",
+  "subtopic": "emergency_services",
+  "title": "Kiedy dzwonić pod 911",
+  "facts": [
+    "911 służy do zgłaszania nagłych sytuacji wymagających szybkiej pomocy policji, straży pożarnej lub ratownictwa medycznego.",
+    "System 911 jest obsługiwany lokalnie; dokładny sposób przyjmowania zgłoszeń i dostępność text-to-911 różnią się między miejscowościami.",
+    "Jeżeli można bezpiecznie zadzwonić głosowo, połączenie głosowe z 911 pozostaje podstawową metodą kontaktu; dostępność wiadomości tekstowych należy sprawdzać lokalnie."
+  ],
+  "official_sources": [
+    "https://www.911.gov/calling-911/"
+  ]
+}
