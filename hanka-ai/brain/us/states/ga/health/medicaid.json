@@ -1,0 +1,21 @@
+{
+  "id": "ga-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "GA",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Medicaid w Georgii",
+  "facts": [
+    "Georgia Medicaid zapewnia health coverage kwalifikującym się mieszkańcom należącym do określonych grup programu.",
+    "Georgia ma własne zasady coverage dla dorosłych, w tym program Georgia Pathways to Coverage dla części kwalifikujących się osób.",
+    "Eligibility zależy od kategorii programu, dochodu i innych warunków; sam niski dochód nie oznacza automatycznej eligibility dla każdego dorosłego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://medicaid.georgia.gov/"
+  ],
+  "related_public_pages": []
+}
