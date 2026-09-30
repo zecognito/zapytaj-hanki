@@ -1,0 +1,21 @@
+{
+  "id": "palace-culture-science",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Pałac Kultury i Nauki",
+  "facts": [
+    "Pałac Kultury i Nauki w Warszawie został wzniesiony w latach 1950. jako dar Związku Sowieckiego dla Polski i jest charakterystycznym przykładem architektury socrealistycznej.",
+    "Budynek pozostaje jednym z najbardziej rozpoznawalnych elementów panoramy Warszawy.",
+    "Jego znaczenie jest wielowarstwowe: jest zabytkiem i centrum kultury, ale także symbolem epoki stalinowskiej dla części społeczeństwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://pkin.pl/"
+  ],
+  "related_public_pages": []
+}
