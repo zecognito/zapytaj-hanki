@@ -1,0 +1,21 @@
+{
+  "id": "slask-ensemble",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "music",
+  "title": "Zespół Śląsk",
+  "facts": [
+    "Zespół Pieśni i Tańca „Śląsk” został założony w 1953 r. przez Stanisława Hadynę.",
+    "Jego repertuar obejmuje stylizowane pieśni i tańce regionalne oraz inne formy muzyczne.",
+    "Podobnie jak inne zespoły sceniczne, prezentuje artystycznie opracowany folklor, a nie jednolity obraz wszystkich regionalnych tradycji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zespolslask.pl/"
+  ],
+  "related_public_pages": []
+}
