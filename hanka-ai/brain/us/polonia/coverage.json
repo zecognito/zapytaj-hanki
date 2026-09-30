@@ -44,12 +44,12 @@
     },
     "businesses": {
       "status": "professionals_national_expansion",
-      "records": 266,
+      "records": 267,
       "notes": [
         "Food/retail first-pass audit closed at 167 records; machine schema validation remains mandatory before ingestion.",
-        "Latest direct-provider additions strengthen underrepresented categories: Florida Cosmetic Center (FL), Polish Dental Center (IL), Polish-American Accounting Services (NY), Arlington Insurance Services (IL; agency licensed in IL/AZ/MI/WI), Pavic Consulting CPA-led accounting/CFO services (NJ/remote), and Disability Management and Consulting (MI) for Social Security disability representation.",
-        "Direct Polish-language evidence remains mandatory. Address-light records retain null street fields until first-party location confirmation rather than copying stale directory data.",
-        "Bank layer remains branch-specific at nine verified Polish-language records; current Byline search reconfirmed the already-captured Norridge, Skokie-Touhy and Burbank branches and did not justify chain-wide expansion.",
+        "Bank layer now distinguishes national Polish-language support from branch-level Polish capability. PNC Bank has a national record based on its official Polish language-support program; this does not assert Polish-speaking staff at every branch.",
+        "Branch-level bank records remain location-specific and require explicit branch evidence. Existing verified branch layer includes Byline and Apple Bank locations. National bank-support records may have state US and coverage_area United States.",
+        "Future bank discovery must check both dimensions: bank-wide Polish language programs and separately verified Polish-capable physical branches. Retrieval should prefer a verified local branch for near-me queries, while national-support records answer general questions about Polish banking assistance.",
         "Continue healthcare, accounting/tax, insurance, real estate and bank discovery nationally. Vectorize remains blocked until coverage and schema/status-aware ingestion are mature."
       ]
     },
