@@ -1,0 +1,21 @@
+{
+  "id": "battle-grunwald",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "battles",
+  "title": "Bitwa pod Grunwaldem",
+  "facts": [
+    "Bitwa pod Grunwaldem odbyła się 15 lipca 1410 r. podczas wojny z zakonem krzyżackim.",
+    "Wojska polsko-litewskie i ich sojusznicy pod dowództwem Władysława Jagiełły i Witolda odniosły wielkie zwycięstwo nad armią zakonu.",
+    "Bitwa jest jednym z najbardziej rozpoznawalnych wydarzeń średniowiecznej historii Polski i Litwy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/a/bitwa-pod-grunwaldem/D2O93S2Zv"
+  ],
+  "related_public_pages": []
+}
