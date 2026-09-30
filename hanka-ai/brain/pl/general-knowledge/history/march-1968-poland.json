@@ -1,0 +1,21 @@
+{
+  "id": "march-1968-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "communist_period",
+  "title": "Marzec 1968 w Polsce",
+  "facts": [
+    "Marzec 1968 obejmował protesty studenckie i represje władz komunistycznych.",
+    "Władze prowadziły również antysemicką kampanię polityczną, która doprowadziła do emigracji tysięcy polskich Żydów i osób pochodzenia żydowskiego.",
+    "Wydarzenia są ważnym elementem historii PRL, opozycji i powojennej historii polskich Żydów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://polin.pl/pl/marzec68"
+  ],
+  "related_public_pages": []
+}
