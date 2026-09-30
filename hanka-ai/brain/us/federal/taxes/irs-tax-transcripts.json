@@ -1,0 +1,27 @@
+{
+  "id": "us-federal-irs-tax-transcripts",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "irs_transcripts",
+  "title": "IRS tax transcripts — rodzaje i jak je uzyskać",
+  "facts": [
+    "IRS udostępnia tax transcripts bez opłat.",
+    "Tax Return Transcript pokazuje większość pozycji z oryginalnie złożonego Form 1040 wraz z formularzami i schedules, ale nie pokazuje późniejszych zmian; jest dostępny za bieżący i trzy poprzednie lata podatkowe.",
+    "Tax Account Transcript pokazuje m.in. filing status, taxable income i rodzaje płatności oraz późniejsze zmiany na koncie; przez Individual Online Account jest zasadniczo dostępny za bieżący i dziewięć poprzednich lat.",
+    "Record of Account Transcript łączy Tax Return Transcript i Tax Account Transcript i jest dostępny za bieżący i trzy poprzednie lata podatkowe.",
+    "Wage and Income Transcript pokazuje dane z dokumentów informacyjnych otrzymanych przez IRS, m.in. W-2, 1098, 1099 i 5498; jest dostępny za bieżący i dziewięć poprzednich lat podatkowych.",
+    "Verification of Non-Filing Letter potwierdza, że IRS nie ma zapisu przetworzonego Form 1040-series na dzień żądania; nie oznacza, że dana osoba nie miała obowiązku złożenia zeznania.",
+    "Transcripts można pobrać przez Individual Online Account; wybrane transcripts można zamówić pocztą lub telefonicznie, a Form 4506-T służy do żądania dostępnych typów transcripts.",
+    "Transcript nie jest kopią zeznania podatkowego; kopię oryginalnego return zamawia się osobno przez Form 4506."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/individuals/transcript-types-for-individuals-and-ways-to-order-them",
+    "https://www.irs.gov/taxtopics/tc156"
+  ],
+  "related_public_pages": []
+}
