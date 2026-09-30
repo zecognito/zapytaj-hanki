@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-prescription-label-directions",
+  "subtopic": "pharmacy_admin",
+  "title": "Etykieta recepty i instrukcje przyjmowania leku",
+  "facts": [
+    "Prescription label zawiera informacje potrzebne do prawidłowego użycia leku, ale konkretne wymagania etykiety i pharmacy practice są również regulowane przez prawo stanowe.",
+    "Pacjent powinien stosować lek zgodnie z directions i wyjaśniać z pharmacist lub prescriber niejasności przed zmianą dawki.",
+    "FDA zaleca prowadzenie aktualnej listy przyjmowanych medicines i przekazywanie jej healthcare professionals, aby ograniczać ryzyko interactions i błędów.",
+    "Informacja na opakowaniu leku i Medication Guide, jeśli jest wymagany, nie zastępują indywidualnych zaleceń prescriber."
+  ],
+  "official_sources": [
+    "https://www.fda.gov/drugs/resources-you-drugs/my-medicine-record",
+    "https://www.fda.gov/drugs/drug-safety-and-availability/medication-guides"
+  ]
+}
