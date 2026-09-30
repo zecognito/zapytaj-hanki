@@ -1,0 +1,21 @@
+{
+  "id": "co-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CO",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Kolorado",
+  "facts": [
+    "Colorado pobiera stanowy individual income tax od osób fizycznych.",
+    "Podatek stanowy jest obliczany na podstawie Colorado taxable income, które jest powiązane z federalnym taxable income i stanowymi modyfikacjami.",
+    "Stawka i szczegóły rozliczenia mogą zmieniać się według roku podatkowego, dlatego należy sprawdzić bieżące instrukcje Colorado Department of Revenue."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tax.colorado.gov/individual-income-tax"
+  ],
+  "related_public_pages": []
+}
