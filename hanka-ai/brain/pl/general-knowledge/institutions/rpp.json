@@ -1,0 +1,21 @@
+{
+  "id": "rpp",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "national-institutions",
+  "title": "Rada Polityki Pieniężnej",
+  "facts": [
+    "Rada Polityki Pieniężnej jest organem Narodowego Banku Polskiego.",
+    "Ustala corocznie założenia polityki pieniężnej i podejmuje decyzje dotyczące stóp procentowych NBP.",
+    "Składa się z prezesa NBP jako przewodniczącego oraz członków powoływanych na kadencje przez konstytucyjnie wskazane organy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://nbp.pl/"
+  ],
+  "related_public_pages": []
+}
