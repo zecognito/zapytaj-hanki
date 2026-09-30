@@ -1,0 +1,34 @@
+{
+  "id": "polonia-org-polish-library-washington",
+  "country": "US",
+  "category": "museum_library",
+  "name": "Polish Library in Washington",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Washington",
+    "state": "DC",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish books, heritage and community library resources"
+  ],
+  "coverage_area": [
+    "US"
+  ],
+  "notes": [
+    "Institutional directory record; services, leadership and contact details should be periodically refreshed."
+  ],
+  "official_source": "https://www.gov.pl/web/usa-en/bilateral-relations",
+  "last_verified": "2026-09-30"
+}
