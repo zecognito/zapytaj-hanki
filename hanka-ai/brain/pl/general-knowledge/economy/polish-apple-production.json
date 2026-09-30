@@ -1,0 +1,21 @@
+{
+  "id": "polish-apple-production",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "industries",
+  "title": "Polska i jabłka",
+  "facts": [
+    "Polska należy do największych producentów jabłek w Europie.",
+    "Sadownictwo jest szczególnie ważne m.in. na Mazowszu i w innych regionach centralnej Polski.",
+    "Wielkość zbiorów i eksportu zmienia się z roku na rok i wymaga bieżących danych GUS lub Eurostatu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://stat.gov.pl/"
+  ],
+  "related_public_pages": []
+}
