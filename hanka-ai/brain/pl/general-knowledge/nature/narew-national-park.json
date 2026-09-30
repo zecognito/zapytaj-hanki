@@ -1,0 +1,21 @@
+{
+  "id": "narew-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "parks_and_wildlife",
+  "title": "Narwiański Park Narodowy",
+  "facts": [
+    "Narwiański Park Narodowy chroni fragment doliny Narwi w północno-wschodniej Polsce.",
+    "Narew tworzy tam skomplikowany system wielu koryt i rozlewisk.",
+    "Park jest ważnym obszarem siedlisk mokradłowych i ptaków."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://npn.pl/"
+  ],
+  "related_public_pages": []
+}
