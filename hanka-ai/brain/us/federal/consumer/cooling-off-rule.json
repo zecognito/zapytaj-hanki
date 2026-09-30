@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-consumer-cooling-off-rule",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "consumer_protection",
+  "subtopic": "returns",
+  "title": "FTC Cooling-Off Rule - three-day cancellation",
+  "facts": [
+    "The FTC Cooling-Off Rule gives consumers three business days to cancel certain sales of $25 or more made at the consumer's home or $130 or more made at certain temporary locations.",
+    "The rule has exclusions and does not create a three-day cancellation right for ordinary purchases made at a seller's permanent place of business or for every online or automobile transaction.",
+    "Covered sellers must provide required cancellation disclosures and forms."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/buyers-remorse-ftcs-cooling-rule-may-help"
+  ],
+  "related_public_pages": []
+}
