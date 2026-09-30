@@ -1,0 +1,21 @@
+{
+  "id": "wi-homestead-credit",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WI",
+  "topic": "housing",
+  "subtopic": "property_tax_relief",
+  "title": "Homestead Credit w Wisconsin",
+  "facts": [
+    "Wisconsin Homestead Credit może zapewnić pomoc kwalifikującym się osobom o niższych dochodach w związku z property taxes lub rent.",
+    "Eligibility zależy od warunków programu, w tym income i statusu gospodarstwa domowego dla danego roku.",
+    "Credit jest rozliczany zgodnie z procedurą Wisconsin Department of Revenue i nie jest tym samym co zwykłe odliczenie federalne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.revenue.wi.gov/Pages/FAQS/ise-home.aspx"
+  ],
+  "related_public_pages": []
+}
