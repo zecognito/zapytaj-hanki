@@ -1,0 +1,21 @@
+{
+  "id": "sc-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "SC",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Healthy Connections Medicaid — Medicaid w South Carolina",
+  "facts": [
+    "Healthy Connections Medicaid jest stanowym programem Medicaid dla kwalifikujących się mieszkańców.",
+    "Eligibility zależy od kategorii programu, dochodu i innych obowiązujących kryteriów.",
+    "Wnioski i odnowienia prowadzi właściwa administracja stanowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.scdhhs.gov/members"
+  ],
+  "related_public_pages": []
+}
