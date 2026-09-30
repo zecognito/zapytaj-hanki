@@ -1,0 +1,34 @@
+{
+  "id": "polonia-insurance-statefarm-kovach-oak-lawn-il",
+  "country": "US",
+  "category": "insurance",
+  "name": "Bryan Kovach - State Farm",
+  "status": "active",
+  "location": {
+    "address": "5360 W 95th St",
+    "city": "Oak Lawn",
+    "state": "IL",
+    "postal_code": "60453",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "auto insurance",
+    "homeowners insurance",
+    "renters insurance",
+    "life insurance",
+    "business insurance"
+  ],
+  "phone": "708-424-8654",
+  "email": null,
+  "website": "https://www.statefarm.com/agent/us/il/oak-lawn/bryan-kovach-sjffx4sg7ak",
+  "official_source": "https://www.statefarm.com/agent/us/il/oak-lawn/bryan-kovach-sjffx4sg7ak",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official State Farm office profile explicitly lists Polish among office languages."
+  ]
+}
