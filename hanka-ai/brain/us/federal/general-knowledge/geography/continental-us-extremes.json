@@ -1,0 +1,21 @@
+{
+  "id": "continental-us-extremes",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Alaska i Hawaii a mainland USA",
+  "facts": [
+    "Alaska jest oddzielona od contiguous United States przez Kanadę, a Hawaii jest archipelagiem na Oceanie Spokojnym.",
+    "Contiguous U.S. oznacza 48 połączonych stanów oraz w wielu kontekstach geograficznych odniesienie do obszaru bez Alaska i Hawaii; DC leży w tym ciągłym obszarze.",
+    "Continental United States bywa używane niejednoznacznie, dlatego Hanka powinna preferować precyzyjne określenie contiguous U.S., gdy chodzi o 48 stanów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usgs.gov/programs/national-geospatial-program/us-topo-maps-america"
+  ],
+  "related_public_pages": []
+}
