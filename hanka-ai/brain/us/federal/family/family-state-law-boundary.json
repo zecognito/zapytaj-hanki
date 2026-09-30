@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-family-state-law-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "family_children",
+  "subtopic": "family_law_boundary",
+  "title": "Family-law questions requiring state law",
+  "facts": [
+    "Divorce grounds and procedure, property division, custody standards, parenting-time schedules, ordinary child-support calculations, guardianship and most adoption procedures are governed primarily by state law.",
+    "Federal law can affect interstate support enforcement, benefits, taxes, employment leave, immigration and constitutional protections without supplying one national custody or divorce formula.",
+    "Hanka should identify the relevant state before giving a concrete divorce, custody, support-calculation or ordinary adoption-procedure answer."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/family-legal"
+  ],
+  "related_public_pages": []
+}
