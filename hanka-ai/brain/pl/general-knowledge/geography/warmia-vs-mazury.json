@@ -1,0 +1,21 @@
+{
+  "id": "warmia-vs-mazury",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Warmia a Mazury",
+  "facts": [
+    "Warmia i Mazury są odrębnymi regionami historycznymi, choć dziś są często łączone w nazwie województwa warmińsko-mazurskiego.",
+    "Olsztyn leży historycznie na Warmii.",
+    "Mazury są szczególnie kojarzone z Krainą Wielkich Jezior, ale granice kulturowe i historyczne są bardziej złożone niż granice turystycznych nazw."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
