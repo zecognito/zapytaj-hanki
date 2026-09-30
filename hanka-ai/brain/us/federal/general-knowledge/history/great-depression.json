@@ -1,0 +1,21 @@
+{
+  "id": "great-depression",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "history",
+  "subtopic": "economic_history",
+  "title": "Great Depression",
+  "facts": [
+    "Great Depression był głębokim kryzysem gospodarczym, który rozpoczął się w USA w 1929 r. i trwał przez znaczną część lat 1930.",
+    "Kryzys obejmował masowe bezrobocie, upadki banków i duży spadek produkcji.",
+    "Administracja Franklin D. Roosevelt wprowadziła programy i reformy znane zbiorczo jako New Deal."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.federalreservehistory.org/essays/great-depression"
+  ],
+  "related_public_pages": []
+}
