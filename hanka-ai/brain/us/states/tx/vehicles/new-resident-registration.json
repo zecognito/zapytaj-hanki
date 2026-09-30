@@ -1,0 +1,21 @@
+{
+  "id": "tx-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TX",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Teksasu",
+  "facts": [
+    "Nowy mieszkaniec Texas musi zarejestrować kwalifikujący się pojazd w Texas i spełnić wymagania dotyczące title/registration.",
+    "Wymagane są odpowiednie dokumenty ownership oraz proof of insurance spełniające Texas requirements.",
+    "Texas Department of Motor Vehicles i county tax offices obsługują title/registration; wymagania dotyczące inspection/emissions zależą od aktualnego prawa i lokalizacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.txdmv.gov/motorists/new-to-texas"
+  ],
+  "related_public_pages": []
+}
