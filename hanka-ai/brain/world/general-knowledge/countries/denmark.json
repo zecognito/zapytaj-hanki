@@ -1,0 +1,21 @@
+{
+  "id": "country-denmark",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Dania",
+  "facts": [
+    "Dania leży w Europie Północnej; Królestwo Danii obejmuje także autonomiczne Wyspy Owcze i Grenlandię.",
+    "Stolicą Danii jest Kopenhaga, a walutą korona duńska.",
+    "Dania jest monarchią konstytucyjną, członkiem Unii Europejskiej i NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://denmark.dk/people-and-culture/monarchy"
+  ],
+  "related_public_pages": []
+}
