@@ -1,0 +1,21 @@
+{
+  "id": "sejm-senate-difference",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "institutions",
+  "title": "Sejm a Senat",
+  "facts": [
+    "Parlament Rzeczypospolitej Polskiej jest dwuizbowy i składa się z Sejmu oraz Senatu.",
+    "Sejm liczy 460 posłów, a Senat 100 senatorów.",
+    "Izby mają różne role w procesie ustawodawczym; Senat może m.in. proponować poprawki lub odrzucenie ustawy w granicach konstytucyjnej procedury, ale Sejm ma określone możliwości odniesienia się do stanowiska Senatu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sejm.gov.pl/prawo/konst/polski/4.htm"
+  ],
+  "related_public_pages": []
+}
