@@ -123,7 +123,21 @@
         "premiums",
         "deductibles",
         "irmaa",
-        "penalties"
+        "penalties",
+        "medigap"
+      ],
+      "completed_subtopics": [
+        "eligibility",
+        "part_a",
+        "part_b",
+        "part_c",
+        "part_d",
+        "enrollment",
+        "premiums",
+        "deductibles",
+        "irmaa",
+        "penalties",
+        "medigap"
       ]
     },
     {
