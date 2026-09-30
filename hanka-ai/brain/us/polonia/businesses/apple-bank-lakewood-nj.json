@@ -1,0 +1,41 @@
+{
+  "id": "polonia-bank-apple-lakewood-nj",
+  "country": "US",
+  "category": "bank",
+  "name": "Apple Bank - Lakewood",
+  "status": "active",
+  "location": {
+    "address": "140 E Kennedy Blvd",
+    "city": "Lakewood",
+    "state": "NJ",
+    "postal_code": "08701",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es",
+    "ru",
+    "fr",
+    "bg"
+  ],
+  "services": [
+    "personal accounts",
+    "business accounts",
+    "mortgages",
+    "personal loans",
+    "credit cards",
+    "online banking",
+    "ATM",
+    "notary"
+  ],
+  "phone": "+1 732-987-0330",
+  "email": null,
+  "website": "https://www.applebank.com/contact/locations/140-e-kennedy-blvd-lakewood-branch",
+  "official_source": "https://www.applebank.com/contact/locations/140-e-kennedy-blvd-lakewood-branch",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official Apple Bank branch page explicitly lists Polish among lobby languages."
+  ]
+}
