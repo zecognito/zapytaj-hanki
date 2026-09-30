@@ -1,0 +1,21 @@
+{
+  "id": "may-long-weekend",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "holidays",
+  "title": "Majówka",
+  "facts": [
+    "„Majówka” w Polsce potocznie oznacza okres wypoczynkowy wokół 1, 2 i 3 maja.",
+    "1 maja i 3 maja są dniami ustawowo wolnymi od pracy, natomiast 2 maja jest Dniem Flagi, ale co do zasady nie jest ogólnym dniem ustawowo wolnym.",
+    "Układ dni tygodnia w danym roku wpływa na długość popularnego długiego weekendu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina/dni-wolne-od-pracy"
+  ],
+  "related_public_pages": []
+}
