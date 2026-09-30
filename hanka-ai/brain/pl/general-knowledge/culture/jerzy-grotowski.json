@@ -1,0 +1,21 @@
+{
+  "id": "jerzy-grotowski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "theatre",
+  "title": "Jerzy Grotowski",
+  "facts": [
+    "Jerzy Grotowski był polskim reżyserem teatralnym i teoretykiem teatru o dużym wpływie międzynarodowym.",
+    "Jest szczególnie związany z ideą „teatru ubogiego” i działalnością Teatru Laboratorium.",
+    "Jego metody koncentrowały się na relacji aktora z widzem i intensywnym treningu aktorskim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/jerzy-grotowski"
+  ],
+  "related_public_pages": []
+}
