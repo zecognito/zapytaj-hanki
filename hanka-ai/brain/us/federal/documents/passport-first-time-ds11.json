@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-documents-passport-first-time",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "documents",
+  "subtopic": "passport",
+  "title": "U.S. passport - first-time application",
+  "facts": [
+    "Most first-time adult U.S. passport applicants apply in person using Form DS-11.",
+    "DS-11 applicants generally provide evidence of U.S. citizenship, acceptable photo identification, a passport photo, and applicable fees.",
+    "An applicant should not sign Form DS-11 until instructed to do so by the acceptance agent.",
+    "Eligibility and procedure differ for children, renewals, urgent travel, and some special circumstances."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://travel.state.gov/content/travel/en/passports/need-passport/apply-in-person.html"
+  ],
+  "related_public_pages": []
+}
