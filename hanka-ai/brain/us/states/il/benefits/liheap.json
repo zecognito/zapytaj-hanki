@@ -1,0 +1,21 @@
+{
+  "id": "il-liheap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "benefits",
+  "subtopic": "liheap",
+  "title": "Illinois LIHEAP energy assistance",
+  "facts": [
+    "Illinois LIHEAP helps eligible low-income households pay home energy costs.",
+    "Eligibility is income-based and program availability can depend on funding and the current program year.",
+    "Illinois residents generally apply through a local administering agency identified by the Department of Commerce and Economic Opportunity."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dceo.illinois.gov/communityservices/homeweatherization/communityactionagencies/helpillinoisfamilies.html"
+  ],
+  "related_public_pages": []
+}
