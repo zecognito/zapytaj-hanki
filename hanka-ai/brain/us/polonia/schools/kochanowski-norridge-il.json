@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-kochanowski-norridge-il",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła im. Jana Kochanowskiego",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "4251 N Oriole Ave",
+    "city": "Norridge",
+    "state": "IL",
+    "postal_code": "60706",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 773 501 6160",
+  "email": "dorotapietrzak@yahoo.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "IL"
+  ],
+  "notes": [
+    "Current ORPEG Polonia-school database record; enrollment and class details should be reconfirmed with the school."
+  ],
+  "official_source": "https://archiwum.orpeg.gov.pl/db/web/database/entry/7750",
+  "last_verified": "2026-09-30"
+}
