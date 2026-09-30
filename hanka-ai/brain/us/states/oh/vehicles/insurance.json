@@ -1,0 +1,21 @@
+{
+  "id": "oh-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OH",
+  "topic": "vehicles",
+  "subtopic": "insurance",
+  "title": "Financial responsibility i auto insurance w Ohio",
+  "facts": [
+    "Ohio wymaga od kierowców utrzymywania financial responsibility; najczęściej spełnia się ten obowiązek poprzez auto liability insurance.",
+    "Stan określa minimalne liability limits.",
+    "Brak wymaganej financial responsibility może prowadzić do zawieszeń i innych konsekwencji administracyjnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://insurance.ohio.gov/consumers/automobile/automobile-insurance"
+  ],
+  "related_public_pages": []
+}
