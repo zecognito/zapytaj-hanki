@@ -1,0 +1,21 @@
+{
+  "id": "poland-date-format",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "everyday",
+  "title": "Format daty w Polsce",
+  "facts": [
+    "W Polsce daty są powszechnie zapisywane w kolejności dzień–miesiąc–rok.",
+    "Spotyka się zapis liczbowy, np. 30.09.2026, oraz zapis z nazwą miesiąca.",
+    "Przy dokumentach należy stosować format wymagany przez konkretny formularz lub system."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
