@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-transport-airline-24-hour-rule",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "cars_transportation",
+  "subtopic": "air_travel",
+  "title": "Airline 24-hour reservation rule",
+  "facts": [
+    "For airline tickets purchased at least seven days before scheduled departure, U.S. rules generally require covered airlines to either allow a reservation to be held at the quoted fare for 24 hours without payment or allow cancellation within 24 hours without penalty.",
+    "An airline is not required to offer both the hold option and the penalty-free cancellation option.",
+    "The federal 24-hour rule applies to airlines under DOT jurisdiction and does not necessarily apply in the same way to tickets purchased through third-party travel agencies."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.transportation.gov/individuals/aviation-consumer-protection/refunds"
+  ],
+  "related_public_pages": []
+}
