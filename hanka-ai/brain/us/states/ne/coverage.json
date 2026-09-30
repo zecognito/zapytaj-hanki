@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "country": "US",
+  "state": "NE",
+  "language": "pl",
+  "status": "expanding",
+  "record_count": 0,
+  "last_verified": "2026-09-30",
+  "completed_seed_topics": [],
+  "reference_state": "IL",
+  "target_v1_areas": [
+    "taxes",
+    "employment",
+    "unemployment",
+    "documents",
+    "vehicles",
+    "health_benefits",
+    "housing",
+    "family"
+  ],
+  "notes": [
+    "State V1 is being built for the national rollout baseline.",
+    "Canonical title and facts are Polish-first; stable machine identifiers remain English.",
+    "Completed states define the V1 architecture, but records must reflect this state's actual laws and administration.",
+    "Local rules remain separate when materially different from statewide rules."
+  ]
+}
