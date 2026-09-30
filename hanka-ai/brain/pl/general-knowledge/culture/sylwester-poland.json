@@ -1,0 +1,21 @@
+{
+  "id": "sylwester-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Sylwester",
+  "facts": [
+    "W Polsce wieczór 31 grudnia i noc poprzedzająca Nowy Rok są powszechnie nazywane Sylwestrem.",
+    "Obchody obejmują prywatne przyjęcia, bale, koncerty i wydarzenia miejskie, choć forma zależy od osób i miejsca.",
+    "Sama nazwa pochodzi od dnia św. Sylwestra przypadającego 31 grudnia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
