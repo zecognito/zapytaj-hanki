@@ -1,0 +1,21 @@
+{
+  "id": "az-ahcccs",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AZ",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "AHCCCS / Medicaid w Arizonie",
+  "facts": [
+    "Arizona Health Care Cost Containment System (AHCCCS) jest stanowym programem Medicaid.",
+    "AHCCCS zapewnia health coverage kwalifikującym się mieszkańcom należącym do różnych grup eligibility.",
+    "Eligibility zależy m.in. od dochodu, wieku, pregnancy, disability i innych zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.azahcccs.gov/Members/GetCovered/"
+  ],
+  "related_public_pages": []
+}
