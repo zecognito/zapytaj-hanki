@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-immigration-green-card-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "immigration",
+  "subtopic": "green_card",
+  "title": "Green Card — podstawy permanent residence",
+  "facts": [
+    "Green Card (Form I-551) jest dowodem lawful permanent resident status w USA.",
+    "Lawful permanent resident ma prawo mieszkać na stałe w USA, o ile nie zrobi czegoś, co według prawa powoduje utratę lub abandonment statusu.",
+    "Permanent residents mogą legalnie pracować w USA z wyjątkami dotyczącymi stanowisk zastrzeżonych dla U.S. citizens.",
+    "Green Card status i fizyczna karta nie są tym samym: wygaśnięcie 10-letniej karty nie oznacza automatycznie wygaśnięcia lawful permanent resident status."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscis.gov/green-card/after-we-grant-your-green-card"
+  ],
+  "related_public_pages": []
+}
