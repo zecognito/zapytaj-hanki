@@ -1,0 +1,21 @@
+{
+  "id": "ak-permanent-fund-dividend",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AK",
+  "topic": "benefits",
+  "subtopic": "state_specific_high_value",
+  "title": "Alaska Permanent Fund Dividend",
+  "facts": [
+    "To ważny program lub reguła specyficzna dla tej jurysdykcji.",
+    "Eligibility, zakres ochrony lub skutki podatkowe zależą od aktualnych zasad.",
+    "Przed podjęciem działania należy sprawdzić bieżące wymagania i daty w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://pfd.alaska.gov/"
+  ],
+  "related_public_pages": []
+}
