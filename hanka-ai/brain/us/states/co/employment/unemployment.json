@@ -1,0 +1,21 @@
+{
+  "id": "co-unemployment",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CO",
+  "topic": "employment",
+  "subtopic": "unemployment",
+  "title": "Unemployment insurance w Colorado",
+  "facts": [
+    "Stan prowadzi program unemployment insurance dla kwalifikujących się osób, które utraciły pracę lub mają znacząco ograniczone godziny.",
+    "Eligibility zależy m.in. od historii zarobków, powodu utraty pracy i spełniania bieżących wymogów programu.",
+    "Claimant musi wykonywać wymagane certyfikacje i zgłaszać pracę oraz zarobki zgodnie z zasadami stanowego programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://cdle.colorado.gov/unemployment"
+  ],
+  "related_public_pages": []
+}
