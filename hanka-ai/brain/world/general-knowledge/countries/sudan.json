@@ -1,0 +1,21 @@
+{
+  "id": "country-sudan",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Sudan",
+  "facts": [
+    "Sudan leży w północno-wschodniej Afryce nad Morzem Czerwonym, a Nil przepływa przez jego terytorium.",
+    "Stolicą jest Chartum, choć trwająca od 2023 roku wojna poważnie zakłóciła funkcjonowanie instytucji państwowych.",
+    "Sudan jest republiką; konflikt między Sudańskimi Siłami Zbrojnymi a Siłami Szybkiego Wsparcia spowodował rozległy kryzys humanitarny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sudan.un.org/"
+  ],
+  "related_public_pages": []
+}
