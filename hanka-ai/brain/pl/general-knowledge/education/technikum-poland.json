@@ -1,0 +1,21 @@
+{
+  "id": "technikum-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school_system",
+  "title": "Technikum",
+  "facts": [
+    "Technikum łączy kształcenie ogólne z przygotowaniem zawodowym.",
+    "Uczeń może zdobywać kwalifikacje zawodowe i przystąpić do matury.",
+    "Technikum nie jest tym samym co szkoła branżowa, choć oba typy należą do edukacji zawodowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/edukacja"
+  ],
+  "related_public_pages": []
+}
