@@ -1,0 +1,21 @@
+{
+  "id": "checks-balances",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "civics",
+  "subtopic": "federal_structure",
+  "title": "Checks and balances",
+  "facts": [
+    "Checks and balances oznacza mechanizmy, dzięki którym gałęzie rządu federalnego mogą ograniczać lub kontrolować określone działania pozostałych gałęzi.",
+    "Przykłady obejmują presidential veto, Senate confirmation określonych nominacji oraz judicial review konstytucyjności w sprawach sądowych.",
+    "System ma zapobiegać koncentracji całej władzy federalnej w jednej gałęzi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/branches-of-government"
+  ],
+  "related_public_pages": []
+}
