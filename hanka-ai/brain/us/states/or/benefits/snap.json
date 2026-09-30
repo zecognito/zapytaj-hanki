@@ -1,0 +1,21 @@
+{
+  "id": "or-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OR",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w Oregon",
+  "facts": [
+    "SNAP pomaga kwalifikującym się gospodarstwom domowym kupować żywność.",
+    "Eligibility i wysokość świadczenia zależą od wielkości gospodarstwa, dochodu i obowiązujących zasad.",
+    "Wniosek prowadzi właściwa agencja stanowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.oregon.gov/odhs/food/pages/snap.aspx"
+  ],
+  "related_public_pages": []
+}
