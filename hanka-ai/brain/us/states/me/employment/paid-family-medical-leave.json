@@ -1,0 +1,21 @@
+{
+  "id": "me-paid-family-medical-leave",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "ME",
+  "topic": "employment",
+  "subtopic": "state_specific_high_value",
+  "title": "Paid Family and Medical Leave w Maine",
+  "facts": [
+    "To ważny program lub reguła specyficzna dla tej jurysdykcji.",
+    "Eligibility, zakres ochrony lub skutki podatkowe zależą od aktualnych zasad.",
+    "Przed podjęciem działania należy sprawdzić bieżące wymagania i daty w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.maine.gov/labor/pfml/"
+  ],
+  "related_public_pages": []
+}
