@@ -1,0 +1,21 @@
+{
+  "id": "poland-imf",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "international",
+  "subtopic": "organizations",
+  "title": "Polska w Międzynarodowym Funduszu Walutowym",
+  "facts": [
+    "Polska należy do Międzynarodowego Funduszu Walutowego (MFW/IMF).",
+    "Polska była pierwotnym członkiem MFW od 1946 roku, wystąpiła z organizacji w 1950 roku i ponownie została jej członkiem w 1986 roku.",
+    "MFW prowadzi regularne konsultacje z państwami członkowskimi dotyczące sytuacji gospodarczej i polityki makroekonomicznej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.imf.org/en/Countries/POL"
+  ],
+  "related_public_pages": []
+}
