@@ -1,0 +1,23 @@
+{
+  "id": "1999-mar12-nato",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "12 marca 1999 — Polska w NATO",
+  "facts": [
+    "12 marca 1999 r. Polska formalnie została członkiem Organizacji Traktatu Północnoatlantyckiego.",
+    "Do NATO tego samego dnia przystąpiły również Czechy i Węgry.",
+    "Członkostwo objęło Polskę zobowiązaniami i gwarancjami wynikającymi z Traktatu Północnoatlantyckiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nato.int/",
+    "https://european-union.europa.eu/",
+    "https://www.sejm.gov.pl/"
+  ],
+  "related_public_pages": []
+}
