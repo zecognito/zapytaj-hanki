@@ -1,0 +1,21 @@
+{
+  "id": "ca-medi-cal",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CA",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Medi-Cal w Kalifornii",
+  "facts": [
+    "Medi-Cal jest kalifornijskim programem Medicaid zapewniającym health coverage kwalifikującym się mieszkańcom.",
+    "Eligibility zależy m.in. od dochodu, wieku, ciąży, disability i innych kategorii programu.",
+    "Wnioski można składać m.in. przez BenefitsCal lub Covered California, zależnie od sytuacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dhcs.ca.gov/services/medi-cal/Pages/default.aspx"
+  ],
+  "related_public_pages": []
+}
