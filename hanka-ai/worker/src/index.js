@@ -815,14 +815,6 @@ export default {
         }
       }
 
-      if (!rag.context && !casual && !followUp) {
-        return json({
-          answer: "Nie mam teraz wystarczająco pewnych informacji, żeby odpowiedzieć bez zgadywania.",
-          sources: rag.sources,
-          debug: { brain: false, matches: rag.matches || [] }
-        }, 200, request);
-      }
-
       const ragInstruction = rag.context
         ? `HANKA BRAIN — JEDYNE ŹRÓDŁO FAKTÓW TEJ ODPOWIEDZI
 Odpowiedz wyłącznie na podstawie fragmentów poniżej. Parafrazuj i skracaj, ale nie dodawaj wiedzy modelowej.
