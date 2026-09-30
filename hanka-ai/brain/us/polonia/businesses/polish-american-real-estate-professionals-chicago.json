@@ -1,0 +1,33 @@
+{
+  "id": "polonia-prof-real-estate-parep-chicago-il",
+  "country": "US",
+  "category": "real_estate",
+  "name": "Polish-American Real Estate Professionals",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Chicago metropolitan area",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "real estate professional networking",
+    "Polish-American real estate referrals",
+    "industry education",
+    "community connections"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://parep.org/",
+  "official_source": "https://parep.org/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Polish-American real-estate professional network/referral infrastructure. Membership is not treated as proof that every member speaks Polish."
+  ]
+}
