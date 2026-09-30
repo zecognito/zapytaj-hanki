@@ -1,0 +1,21 @@
+{
+  "id": "polonia-nyc-historical-context",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "polonia",
+  "subtopic": "historical_demographics",
+  "title": "Polskie pochodzenie w New York City — przykład historyczny",
+  "facts": [
+    "Dane ACS dla New York City pokazują, że liczby Polish ancestry zmieniają się w czasie i zawsze wymagają roku.",
+    "W 2018 ACS 1-year C04006 estimate dla New York City wynosił 201 293 osób deklarujących Polish ancestry.",
+    "Ta liczba z 2018 r. jest historycznym punktem odniesienia i nie powinna być przedstawiana jako obecna populacja Polonii w NYC."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nyc.gov/assets/planning/download/pdf/planning-level/nyc-population/acs/ancest_2018acs1yr_nyc.pdf"
+  ],
+  "related_public_pages": []
+}
