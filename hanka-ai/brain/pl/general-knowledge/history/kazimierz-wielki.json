@@ -1,0 +1,21 @@
+{
+  "id": "kazimierz-wielki",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "rulers",
+  "title": "Kazimierz III Wielki",
+  "facts": [
+    "Kazimierz III Wielki panował w XIV wieku i był ostatnim królem Polski z dynastii Piastów.",
+    "Jego panowanie wiąże się z rozwojem administracji, prawa, miast, fortyfikacji i gospodarki Królestwa Polskiego.",
+    "W 1364 r. ufundował Akademię Krakowską, późniejszy Uniwersytet Jagielloński."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/a/polska-kazimierza-wielkiego/DZs5OAvWE"
+  ],
+  "related_public_pages": []
+}
