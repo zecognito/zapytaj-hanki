@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-valentine-philadelphia-pa",
+  "country": "US",
+  "category": "church",
+  "name": "St. Valentine's Polish National Catholic Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2330 Margaret St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "postal_code": "19137",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 215 535 4978",
+  "email": null,
+  "website": "https://www.stvalentinespncc.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "PA"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish source."
+  ],
+  "official_source": "https://www.stvalentinespncc.org/",
+  "last_verified": "2026-09-30"
+}
