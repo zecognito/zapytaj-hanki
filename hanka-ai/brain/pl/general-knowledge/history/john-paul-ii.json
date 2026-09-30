@@ -1,0 +1,21 @@
+{
+  "id": "john-paul-ii",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "people",
+  "title": "Jan Paweł II",
+  "facts": [
+    "Karol Wojtyła, późniejszy papież Jan Paweł II, urodził się w Wadowicach w 1920 r.",
+    "Został wybrany papieżem w 1978 r. i był pierwszym papieżem z Polski.",
+    "Jego pontyfikat miał duże znaczenie religijne i społeczne w Polsce oraz na świecie; oceny jego dziedzictwa mogą obejmować również spory dotyczące działań Kościoła w okresie jego pontyfikatu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.vatican.va/content/john-paul-ii/en/biografia/documents/hf_jp-ii_spe_20190722_biografia.html"
+  ],
+  "related_public_pages": []
+}
