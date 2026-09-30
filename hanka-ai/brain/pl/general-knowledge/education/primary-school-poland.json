@@ -1,0 +1,21 @@
+{
+  "id": "primary-school-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school_system",
+  "title": "Szkoła podstawowa w Polsce",
+  "facts": [
+    "Szkoła podstawowa jest obowiązkowym etapem polskiego systemu edukacji obejmującym osiem klas.",
+    "Po jej ukończeniu uczniowie przechodzą do szkoły ponadpodstawowej.",
+    "Szczegółowe zasady rekrutacji, egzaminów i podstawy programowej mogą się zmieniać i należy je sprawdzać w aktualnych źródłach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/edukacja"
+  ],
+  "related_public_pages": []
+}
