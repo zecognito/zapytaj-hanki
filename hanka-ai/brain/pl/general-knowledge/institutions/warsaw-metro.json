@@ -1,0 +1,21 @@
+{
+  "id": "warsaw-metro",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "transportation",
+  "title": "Metro Warszawskie",
+  "facts": [
+    "Warszawa jest polskim miastem posiadającym system metra.",
+    "Metro jest częścią szerszego systemu transportu publicznego obejmującego również tramwaje, autobusy i kolej.",
+    "Liczba linii, stacji i układ sieci rozwijają się, dlatego przy pytaniu o aktualną trasę należy korzystać z bieżących danych transportowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.metro.waw.pl/"
+  ],
+  "related_public_pages": []
+}
