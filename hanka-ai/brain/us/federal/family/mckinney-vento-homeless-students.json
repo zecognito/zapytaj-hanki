@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-family-mckinney-vento",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "family_children",
+  "subtopic": "school_children",
+  "title": "McKinney-Vento protections for homeless students",
+  "facts": [
+    "The federal McKinney-Vento Act provides educational rights for children and youth experiencing homelessness in public schools.",
+    "Covered students can have rights involving immediate enrollment even when normally required records are unavailable, school stability, transportation in qualifying circumstances and access to comparable services.",
+    "The statutory definition can include children sharing housing because of loss of housing or economic hardship and children living in motels, shelters, cars or other inadequate temporary settings.",
+    "Local educational agencies must designate a liaison for students experiencing homelessness."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://nche.ed.gov/legislation/mckinney-vento/"
+  ],
+  "related_public_pages": []
+}
