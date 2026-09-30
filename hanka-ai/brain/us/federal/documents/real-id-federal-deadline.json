@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-documents-real-id-federal-rules",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "documents",
+  "subtopic": "real_id_federal_rules",
+  "title": "REAL ID - federal enforcement rules",
+  "facts": [
+    "Federal REAL ID enforcement began May 7, 2025 for federal purposes covered by the REAL ID Act.",
+    "Adults age 18 and older using a state-issued driver's license or identification card at TSA airport security checkpoints must present a REAL ID-compliant card or another TSA-acceptable form of identification.",
+    "REAL ID does not create a federal driver's license; states and territories issue the cards under federal standards.",
+    "A passport or certain other federally accepted identification can be used instead of a REAL ID for TSA identity purposes."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dhs.gov/real-id",
+    "https://www.tsa.gov/real-id"
+  ],
+  "related_public_pages": []
+}
