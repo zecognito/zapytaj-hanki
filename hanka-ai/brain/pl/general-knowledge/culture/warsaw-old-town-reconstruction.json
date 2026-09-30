@@ -1,0 +1,21 @@
+{
+  "id": "warsaw-old-town-reconstruction",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Odbudowa Starego Miasta w Warszawie",
+  "facts": [
+    "Historyczne centrum Warszawy zostało niemal całkowicie zniszczone podczas II wojny światowej, szczególnie po Powstaniu Warszawskim.",
+    "Po wojnie przeprowadzono rozległą rekonstrukcję historycznego układu i zabudowy.",
+    "UNESCO wpisało historyczne centrum Warszawy na listę światowego dziedzictwa jako wyjątkowy przykład niemal całkowitej rekonstrukcji zespołu historycznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://whc.unesco.org/en/list/30/"
+  ],
+  "related_public_pages": []
+}
