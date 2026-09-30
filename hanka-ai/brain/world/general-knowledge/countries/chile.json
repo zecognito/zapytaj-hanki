@@ -1,0 +1,21 @@
+{
+  "id": "country-chile",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Chile",
+  "facts": [
+    "Chile jest długim i wąskim państwem na zachodnim wybrzeżu Ameryki Południowej między Andami a Oceanem Spokojnym.",
+    "Stolicą jest Santiago, językiem dominującym hiszpański, a walutą peso chilijskie.",
+    "Chile obejmuje terytoria o bardzo zróżnicowanym klimacie, od pustyni Atakama po obszary subantarktyczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gob.cl/en/"
+  ],
+  "related_public_pages": []
+}
