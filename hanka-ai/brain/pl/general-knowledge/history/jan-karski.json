@@ -1,0 +1,21 @@
+{
+  "id": "jan-karski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "people",
+  "title": "Jan Karski",
+  "facts": [
+    "Jan Karski był kurierem Polskiego Państwa Podziemnego podczas II wojny światowej.",
+    "Przekazał przedstawicielom aliantów informacje naocznego świadka o okupowanej Polsce i zagładzie Żydów.",
+    "Po wojnie zamieszkał w USA i przez wiele lat wykładał na Georgetown University."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://encyclopedia.ushmm.org/content/en/article/jan-karski"
+  ],
+  "related_public_pages": []
+}
