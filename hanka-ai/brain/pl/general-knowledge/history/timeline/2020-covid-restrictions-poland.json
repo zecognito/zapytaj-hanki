@@ -1,0 +1,23 @@
+{
+  "id": "2020-covid-restrictions-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "marzec 2020 — pandemia zmienia codzienne życie w Polsce",
+  "facts": [
+    "W marcu 2020 r. po wykryciu pierwszych zakażeń COVID-19 w Polsce wprowadzono szerokie środki ograniczające transmisję wirusa.",
+    "Czasowo zamykano szkoły dla nauki stacjonarnej, ograniczano działalność wielu instytucji i usług oraz wprowadzano zasady sanitarne.",
+    "Zakres ograniczeń zmieniał się wielokrotnie wraz z sytuacją epidemiczną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/",
+    "https://www.nato.int/",
+    "https://european-union.europa.eu/"
+  ],
+  "related_public_pages": []
+}
