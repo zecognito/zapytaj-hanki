@@ -1,0 +1,21 @@
+{
+  "id": "id-child_support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "ID",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Idaho",
+  "facts": [
+    "Prawo stanowe określa wymagania i procedurę w tym obszarze.",
+    "Szczegóły zależą od sytuacji osoby i aktualnych przepisów.",
+    "Aktualne wymagania należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://healthandwelfare.idaho.gov/services-programs/children-families/about-child-support"
+  ],
+  "related_public_pages": []
+}
