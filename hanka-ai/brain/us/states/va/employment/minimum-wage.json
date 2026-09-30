@@ -1,0 +1,21 @@
+{
+  "id": "va-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VA",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Wirginii",
+  "facts": [
+    "Virginia ma statewide minimum wage wyższą od federalnej i harmonogram/zasady jej dostosowywania określone prawem stanowym.",
+    "Dla części pracowników obowiązują wyjątki lub szczególne zasady.",
+    "Virginia Department of Labor and Industry publikuje aktualne informacje i wymagany minimum wage poster."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://doli.virginia.gov/labor-law/virginia-minimum-wage-act/"
+  ],
+  "related_public_pages": []
+}
