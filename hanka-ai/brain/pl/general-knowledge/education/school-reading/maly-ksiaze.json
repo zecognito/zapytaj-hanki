@@ -1,0 +1,21 @@
+{
+  "id": "maly-ksiaze",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Mały Książę — Antoine de Saint-Exupéry",
+  "facts": [
+    "Mały Książę, autor: Antoine de Saint-Exupéry, jest wskazane w podstawie programowej języka polskiego dla klas VII–VIII szkoły podstawowej w roku szkolnym 2025/2026.",
+    "Filozoficzna baśń o przyjaźni, odpowiedzialności, miłości i patrzeniu poza pozory.",
+    "Hanka powinna rozróżniać utwory czytane w całości od fragmentów, wyborów tekstów i poezji wskazanych przez podstawę programową."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-podstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
