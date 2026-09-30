@@ -1,0 +1,21 @@
+{
+  "id": "mi-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MI",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Michigan",
+  "facts": [
+    "Nowy mieszkaniec Michigan przenosi title i rejestruje kwalifikujący się pojazd przez Michigan Secretary of State.",
+    "Przed rejestracją trzeba spełnić wymagania dotyczące Michigan no-fault insurance.",
+    "Dokumenty i opłaty zależą od pojazdu, ownership oraz tego, czy istnieje lien."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.michigan.gov/sos/vehicle/ownership"
+  ],
+  "related_public_pages": []
+}
