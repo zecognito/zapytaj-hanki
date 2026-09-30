@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-travel-tsa-real-id",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "travel_border",
+  "subtopic": "tsa",
+  "title": "REAL ID and domestic flights",
+  "facts": [
+    "Since May 7, 2025, travelers age 18 and older generally need a REAL ID-compliant state credential or another TSA-accepted form of identification to pass identity screening for domestic commercial flights.",
+    "A U.S. passport is an accepted alternative to a REAL ID-compliant driver's license for TSA identity purposes.",
+    "Children under 18 generally are not required by TSA to provide identification when traveling within the United States with an adult companion, although airlines can have their own age or identification policies.",
+    "REAL ID is an identification standard; it is not a passport and does not establish citizenship."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.tsa.gov/real-id"
+  ],
+  "related_public_pages": []
+}
