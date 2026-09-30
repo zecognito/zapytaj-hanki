@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-certificate-of-coverage-pl-usa",
+  "subtopic": "work_social_insurance",
+  "title": "Zaświadczenie o podleganiu ubezpieczeniom Polska–USA",
+  "facts": [
+    "Zaświadczenie o podleganiu właściwemu systemowi zabezpieczenia społecznego dokumentuje zastosowanie umowy USA–Polska i pomaga wykazać zwolnienie z drugiego systemu w zakresie objętym umową.",
+    "ZUS wskazuje formularz PL/USA 1 jako dokument potwierdzający podleganie polskim przepisom; wniosek może składać pracodawca lub osoba pracująca na własny rachunek w odpowiednich przypadkach.",
+    "Po stronie USA SSA prowadzi procedurę certificates of coverage dla osób podlegających amerykańskiemu systemowi zgodnie z umową.",
+    "Zaświadczenie dotyczy social-security coverage, a nie całego podatku dochodowego."
+  ],
+  "official_sources": [
+    "https://www.zus.pl/pl/pracujacy/pracujacy-poza-ue-eog-lub-szwajcaria/usa",
+    "https://www.ssa.gov/international/CoC_link.html"
+  ]
+}
