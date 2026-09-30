@@ -1,0 +1,21 @@
+{
+  "id": "prl-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "communism",
+  "title": "PRL — podstawy",
+  "facts": [
+    "Polska Rzeczpospolita Ludowa (PRL) była oficjalną nazwą państwa polskiego od 1952 do 1989 r.",
+    "System PRL był państwem komunistycznym z dominującą rolą Polskiej Zjednoczonej Partii Robotniczej i silnym wpływem Związku Sowieckiego.",
+    "Okres powojennej Polski komunistycznej rozpoczął się przed formalnym przyjęciem nazwy PRL w 1952 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/pl/historia-z-ipn/"
+  ],
+  "related_public_pages": []
+}
