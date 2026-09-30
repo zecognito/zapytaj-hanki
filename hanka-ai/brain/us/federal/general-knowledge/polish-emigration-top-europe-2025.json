@@ -1,0 +1,21 @@
+{
+  "id": "polish-emigration-top-europe-2025",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "demographics",
+  "subtopic": "polish_emigration_destinations",
+  "title": "Gdzie mieszka najwięcej emigrantów z Polski w Europie?",
+  "facts": [
+    "Według szacunku GUS dla końca 2025 r. największe populacje długookresowych emigrantów z Polski w Europie znajdowały się m.in. w Wielkiej Brytanii i Niemczech.",
+    "Dane GUS dotyczą mieszkańców/obywateli Polski przebywających czasowo za granicą co najmniej 12 miesięcy według metodologii publikacji, a nie całej Polonii pochodzeniowej.",
+    "Przy porównywaniu krajów Hanka powinna podawać rok i definicję statystyki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://stat.gov.pl/obszary-tematyczne/ludnosc/migracje-zagraniczne-ludnosci/informacja-o-rozmiarach-i-kierunkach-czasowej-emigracji-z-polski-w-latach-2020-2025%2C18%2C4.html"
+  ],
+  "related_public_pages": []
+}
