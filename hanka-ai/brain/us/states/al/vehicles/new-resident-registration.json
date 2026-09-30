@@ -1,0 +1,21 @@
+{
+  "id": "al-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AL",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Alabama",
+  "facts": [
+    "Nowy mieszkaniec powinien zarejestrować pojazd zgodnie z procedurą stanową.",
+    "Proces może wymagać ownership documents, identyfikacji, ubezpieczenia i opłat.",
+    "Szczegóły zależą od pojazdu i sytuacji właściciela."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.revenue.alabama.gov/motor-vehicle/"
+  ],
+  "related_public_pages": []
+}
