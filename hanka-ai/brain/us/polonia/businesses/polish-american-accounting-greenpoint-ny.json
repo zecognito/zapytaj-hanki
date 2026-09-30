@@ -1,0 +1,33 @@
+{
+  "id": "polonia-prof-accountant-polish-american-accounting-greenpoint-ny",
+  "country": "US",
+  "category": "accountant",
+  "name": "Polish-American Accounting Services",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "tax preparation",
+    "accounting",
+    "bookkeeping",
+    "business tax services"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://polishamericanaccounting.com/",
+  "official_source": "https://polishamericanaccounting.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "First-party firm site is explicitly Polish-American and Polish-facing. Exact office address withheld pending first-party confirmation."
+  ]
+}
