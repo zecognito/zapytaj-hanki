@@ -1,0 +1,21 @@
+{
+  "id": "route-66",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "transportation",
+  "subtopic": "road_history",
+  "title": "Route 66",
+  "facts": [
+    "U.S. Route 66 została ustanowiona w 1926 r. i historycznie łączyła Chicago z Los Angeles.",
+    "Trasa została oficjalnie usunięta z U.S. Highway System w 1985 r., gdy zastąpiły ją nowocześniejsze drogi.",
+    "Historic Route 66 pozostaje ważnym symbolem amerykańskiej kultury podróży samochodowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/subjects/travelroute66/index.htm"
+  ],
+  "related_public_pages": []
+}
