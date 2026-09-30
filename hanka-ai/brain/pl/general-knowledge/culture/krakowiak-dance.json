@@ -1,0 +1,21 @@
+{
+  "id": "krakowiak-dance",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Krakowiak",
+  "facts": [
+    "Krakowiak jest żywym polskim tańcem związanym historycznie z regionem Krakowa.",
+    "Ma charakterystyczny rytm dwudzielny i występuje zarówno w tradycji ludowej, jak i stylizowanej muzyce artystycznej.",
+    "Należy do grupy tańców uznawanych za polskie tańce narodowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-dances-krakowiak"
+  ],
+  "related_public_pages": []
+}
