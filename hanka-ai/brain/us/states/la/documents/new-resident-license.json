@@ -1,0 +1,21 @@
+{
+  "id": "la-new_resident_license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "LA",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Luizjana",
+  "facts": [
+    "Nowy resident powinien uzyskać stanowe driver license zgodnie z procedurą stanową.",
+    "Wymagane są odpowiednie dokumenty identity i residency.",
+    "Testy i zasady uznania out-of-state license zależą od sytuacji kierowcy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.expresslane.org/drivers/personal-driver-s-licenses/"
+  ],
+  "related_public_pages": []
+}
