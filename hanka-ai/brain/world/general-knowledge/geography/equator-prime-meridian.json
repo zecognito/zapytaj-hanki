@@ -1,0 +1,21 @@
+{
+  "id": "equator-prime-meridian",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "geography",
+  "subtopic": "coordinates",
+  "title": "Równik i południk zerowy",
+  "facts": [
+    "Równik ma szerokość geograficzną 0° i stanowi podstawową linię odniesienia dla szerokości geograficznej.",
+    "Południk zerowy ma długość geograficzną 0° i zgodnie z międzynarodową konwencją przechodzi przez Greenwich w Londynie.",
+    "Szerokość i długość geograficzna tworzą układ współrzędnych używany do określania położenia na Ziemi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://education.nationalgeographic.org/resource/latitude-longitude/"
+  ],
+  "related_public_pages": []
+}
