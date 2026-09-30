@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-our-lady-scapular-wyandotte-mi",
+  "country": "US",
+  "category": "church",
+  "name": "Our Lady of the Scapular Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "976 Pope John Paul II Ave",
+    "city": "Wyandotte",
+    "state": "MI",
+    "postal_code": "48192",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 734 284 9135",
+  "email": null,
+  "website": "https://www.ourladyofthescapular.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "MI"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish source."
+  ],
+  "official_source": "https://www.ourladyofthescapular.org/",
+  "last_verified": "2026-09-30"
+}
