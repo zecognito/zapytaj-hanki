@@ -44,12 +44,12 @@
     },
     "businesses": {
       "status": "started",
-      "records": 161,
+      "records": 172,
       "notes": [
-        "Commercial/professional directory now contains 161 Polish-focused food/retail physical-location records. Discovery is deliberately expanding under-covered metros while requiring a demonstrated Polish-food identity or specialization.",
-        "Recent additions strengthen Arizona, Florida, Georgia and Colorado; generic Eastern-European businesses without a clear Polish connection are excluded.",
-        "Chains and multi-location businesses are stored per physical location for geographic retrieval. Duplicate candidates are skipped and incomplete details are left null rather than invented.",
-        "Food/retail remains started pending more nationwide discovery and a cleanup audit of earlier weak-source/incomplete records before mature status. Professional-service directories remain deferred."
+        "Directory contains 172 Polish-food/retail records or location-level leads. Recent geographic discovery expanded AZ, NV, UT, OR, CO, TX, MN and NC while skipping an already-present Seattle record.",
+        "Confidence is now explicitly mixed: many records are directly supported by current official business sites, while some under-covered-state records are community-source discovery leads with incomplete address/contact data and require reverification before mature status.",
+        "Do not treat the raw count as 172 equally verified businesses. The next phase should audit weak-source/incomplete records, remove stale or insufficiently supported entries, upgrade sources, and continue discovery only where evidence is strong.",
+        "Food/retail remains started. Professional-service directories remain deferred until this audit establishes a trustworthy mature food/retail baseline."
       ]
     },
     "media_culture": {
