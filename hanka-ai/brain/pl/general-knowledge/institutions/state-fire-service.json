@@ -1,0 +1,21 @@
+{
+  "id": "state-fire-service",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "security",
+  "title": "Państwowa Straż Pożarna",
+  "facts": [
+    "Państwowa Straż Pożarna jest zawodową, umundurowaną i wyposażoną w specjalistyczny sprzęt formacją przeznaczoną do walki z pożarami, klęskami żywiołowymi i innymi miejscowymi zagrożeniami.",
+    "PSP prowadzi działania ratownicze, w tym podczas pożarów, katastrof, wypadków i zagrożeń chemicznych lub ekologicznych.",
+    "Państwowa Straż Pożarna jest kluczowym elementem krajowego systemu ratowniczo-gaśniczego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/kgpsp"
+  ],
+  "related_public_pages": []
+}
