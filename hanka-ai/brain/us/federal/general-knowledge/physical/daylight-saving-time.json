@@ -1,0 +1,21 @@
+{
+  "id": "daylight-saving-time",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "time",
+  "subtopic": "daylight_saving",
+  "title": "Daylight Saving Time w USA",
+  "facts": [
+    "Większość USA przechodzi na daylight saving time zgodnie z prawem federalnym.",
+    "Hawaii i większość Arizona nie stosują DST; Navajo Nation w Arizona stosuje DST.",
+    "Federalny okres DST rozpoczyna się w drugą niedzielę marca i kończy w pierwszą niedzielę listopada."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst"
+  ],
+  "related_public_pages": []
+}
