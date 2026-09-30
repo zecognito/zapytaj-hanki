@@ -1,0 +1,21 @@
+{
+  "id": "bialowieski-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national_parks",
+  "title": "Białowieski Park Narodowy",
+  "facts": [
+    "Białowieski Park Narodowy chroni część Puszczy Białowieskiej na wschodzie Polski.",
+    "Obszar jest szczególnie znany z naturalnych procesów leśnych oraz populacji żubra.",
+    "Puszcza Białowieska jako obiekt światowego dziedzictwa rozciąga się po obu stronach granicy polsko-białoruskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://bpn.com.pl/"
+  ],
+  "related_public_pages": []
+}
