@@ -1,0 +1,21 @@
+{
+  "id": "licencjat-magister",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "higher_education",
+  "title": "Licencjat, inżynier i magister",
+  "facts": [
+    "Polskie szkolnictwo wyższe obejmuje studia pierwszego i drugiego stopnia oraz jednolite studia magisterskie w określonych kierunkach.",
+    "Licencjat i inżynier są typowymi kwalifikacjami pierwszego stopnia, a magister jest kwalifikacją drugiego stopnia lub studiów jednolitych.",
+    "Nie należy automatycznie utożsamiać każdego polskiego tytułu z amerykańskim stopniem bez oceny programu i celu uznania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/nauka/system-szkolnictwa-wyzszego"
+  ],
+  "related_public_pages": []
+}
