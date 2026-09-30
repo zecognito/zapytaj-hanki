@@ -1,0 +1,21 @@
+{
+  "id": "malopolska-region",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Małopolska",
+  "facts": [
+    "Małopolska jest jednym z głównych historycznych regionów Polski, tradycyjnie związanym m.in. z Krakowem.",
+    "Historyczna Małopolska była znacznie większa niż współczesne województwo małopolskie.",
+    "Przy tekstach historycznych Hanka powinna odróżniać region historyczny od dzisiejszej jednostki administracyjnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
