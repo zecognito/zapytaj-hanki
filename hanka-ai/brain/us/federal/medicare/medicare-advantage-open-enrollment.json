@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-medicare-advantage-open-enrollment",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "medicare",
+  "subtopic": "enrollment",
+  "title": "Medicare Advantage Open Enrollment Period",
+  "facts": [
+    "Medicare Advantage Open Enrollment Period trwa od 1 stycznia do 31 marca każdego roku dla osób już mających Medicare Advantage.",
+    "W tym okresie osoba może przejść do innego Medicare Advantage plan albo wrócić do Original Medicare; przy powrocie może również dołączyć do osobnego Part D plan.",
+    "W tym okresie można dokonać jednej zmiany.",
+    "Osoba mająca Original Medicare nie może użyć tego okresu, aby po raz pierwszy przejść do Medicare Advantage."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicare.gov/health-drug-plans/health-plans/your-coverage-options/compare-original-medicare-medicare-advantage"
+  ],
+  "related_public_pages": []
+}
