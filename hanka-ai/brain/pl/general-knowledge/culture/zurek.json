@@ -1,0 +1,21 @@
+{
+  "id": "zurek",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Żurek",
+  "facts": [
+    "Żurek jest kwaśną zupą opartą tradycyjnie na zakwasie z mąki żytniej.",
+    "Często podaje się go z jajkiem, kiełbasą lub innymi dodatkami zależnie od regionu i domu.",
+    "Żurek jest szczególnie kojarzony z Wielkanocą, ale jest jedzony również poza świętami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101-zurek"
+  ],
+  "related_public_pages": []
+}
