@@ -1,0 +1,21 @@
+{
+  "id": "silesian-uprisings",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "independence",
+  "title": "Powstania śląskie",
+  "facts": [
+    "Trzy powstania śląskie odbyły się w latach 1919, 1920 i 1921 na Górnym Śląsku.",
+    "Były związane ze sporem o przynależność państwową regionu między odrodzoną Polską a Niemcami.",
+    "Ostateczny podział Górnego Śląska nastąpił w wyniku kombinacji plebiscytu, konfliktu zbrojnego i decyzji międzynarodowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/"
+  ],
+  "related_public_pages": []
+}
