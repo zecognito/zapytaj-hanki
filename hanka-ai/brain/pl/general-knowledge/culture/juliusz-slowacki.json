@@ -1,0 +1,21 @@
+{
+  "id": "juliusz-slowacki",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "Juliusz Słowacki",
+  "facts": [
+    "Juliusz Słowacki był poetą i dramatopisarzem polskiego romantyzmu.",
+    "Do jego najbardziej znanych dzieł należą „Kordian”, „Balladyna” i liczne poematy.",
+    "Podobnie jak wielu twórców Wielkiej Emigracji znaczną część życia spędził poza ziemiami polskimi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/juliusz-slowacki"
+  ],
+  "related_public_pages": []
+}
