@@ -1,0 +1,21 @@
+{
+  "id": "world-languages",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "global-systems",
+  "subtopic": "languages",
+  "title": "Języki świata",
+  "facts": [
+    "Na świecie używa się tysięcy języków, a granice językowe nie pokrywają się dokładnie z granicami państw.",
+    "Państwo może mieć jeden, kilka albo żadnego formalnie określonego języka urzędowego na poziomie krajowym.",
+    "Sześć języków urzędowych ONZ to arabski, chiński, angielski, francuski, rosyjski i hiszpański."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/en/our-work/official-languages"
+  ],
+  "related_public_pages": []
+}
