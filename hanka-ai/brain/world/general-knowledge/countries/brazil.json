@@ -1,0 +1,21 @@
+{
+  "id": "country-brazil",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Brazylia",
+  "facts": [
+    "Brazylia jest największym państwem Ameryki Południowej pod względem powierzchni i liczby ludności.",
+    "Stolicą jest Brasília, językiem urzędowym portugalski, a walutą real brazylijski.",
+    "Brazylia jest republiką federalną i obejmuje znaczną część dorzecza Amazonki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.br/pt-br"
+  ],
+  "related_public_pages": []
+}
