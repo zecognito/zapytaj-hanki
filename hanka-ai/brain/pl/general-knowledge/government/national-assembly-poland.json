@@ -1,0 +1,21 @@
+{
+  "id": "national-assembly-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "parliament",
+  "title": "Zgromadzenie Narodowe",
+  "facts": [
+    "Zgromadzenie Narodowe w Polsce tworzą wspólnie obradujący posłowie i senatorowie.",
+    "Zgromadzenie Narodowe zbiera się w przypadkach określonych w Konstytucji, m.in. aby przyjąć przysięgę nowo wybranego Prezydenta Rzeczypospolitej.",
+    "Nie jest trzecią izbą parlamentu; jest szczególną formą wspólnego działania Sejmu i Senatu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sejm.gov.pl/prawo/konst/polski/kon1.htm"
+  ],
+  "related_public_pages": []
+}
