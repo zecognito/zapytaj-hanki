@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-arturs-restaurant-englewood",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Artur's Restaurant",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "70 N Indiana Ave",
+    "city": "Englewood",
+    "state": "FL",
+    "postal_code": "34223",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 941-473-0171",
+  "email": null,
+  "website": "https://artursinenglewood.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-American cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Englewood",
+    "FL"
+  ],
+  "notes": [
+    "Polish-food relevance supported by current official business or Polonia/local source. Commercial status and details remain freshness-sensitive."
+  ],
+  "official_source": "https://www.polishfloridabiz.net/polska--ywno-----polish-delis.html",
+  "last_verified": "2026-09-30"
+}
