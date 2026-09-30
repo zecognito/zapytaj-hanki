@@ -1,0 +1,21 @@
+{
+  "id": "ct-husky-health",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CT",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "HUSKY Health / Medicaid w Connecticut",
+  "facts": [
+    "HUSKY Health obejmuje programy Medicaid i CHIP w Connecticut dla kwalifikujących się mieszkańców.",
+    "Różne części HUSKY obejmują różne grupy, m.in. dzieci, rodziców, dorosłych, osoby starsze i osoby z disabilities.",
+    "Eligibility zależy od kategorii programu, dochodu i innych warunków."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://portal.ct.gov/husky"
+  ],
+  "related_public_pages": []
+}
