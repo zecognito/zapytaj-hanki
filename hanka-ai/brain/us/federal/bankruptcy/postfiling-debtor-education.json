@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-bankruptcy-debtor-education",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "bankruptcy_debt_relief",
+  "subtopic": "counseling",
+  "title": "Post-filing debtor education",
+  "facts": [
+    "Individual debtors generally must complete an approved personal financial management or debtor-education course after filing to receive a bankruptcy discharge, subject to statutory exceptions.",
+    "Debtor education is distinct from the pre-filing credit-counseling requirement.",
+    "Failure to complete and document the required course can prevent entry of a discharge even when other case requirements are satisfied."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.justice.gov/ust/credit-counseling-debtor-education-information"
+  ],
+  "related_public_pages": []
+}
