@@ -1,0 +1,21 @@
+{
+  "id": "s61-via-baltica",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "roads",
+  "title": "Droga ekspresowa S61 i Via Baltica",
+  "facts": [
+    "S61 jest jednym z kluczowych połączeń drogowych północno-wschodniej Polski.",
+    "Trasa biegnie w kierunku granicy z Litwą i stanowi polską część międzynarodowego korytarza Via Baltica.",
+    "Via Baltica łączy Polskę z Litwą, Łotwą i Estonią, dlatego S61 ma duże znaczenie dla transportu między państwami bałtyckimi a resztą Unii Europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gddkia"
+  ],
+  "related_public_pages": []
+}
