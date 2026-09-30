@@ -1,0 +1,21 @@
+{
+  "id": "mitologia-parandowski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Mitologia, część I: Grecja — Jan Parandowski",
+  "facts": [
+    "Mitologia, część I: Grecja, autor: Jan Parandowski, jest lekturą obowiązkowa, całość w liceum ogólnokształcącym i technikum, zakres podstawowy, według podstawy programowej 2025/2026.",
+    "Podstawowe opowieści mitologii greckiej i ważny punkt odniesienia dla późniejszej kultury europejskiej.",
+    "Hanka powinna znać nie tylko status szkolny, ale autora, epokę, głównych bohaterów, podstawową fabułę, motywy i znaczenie utworu."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
