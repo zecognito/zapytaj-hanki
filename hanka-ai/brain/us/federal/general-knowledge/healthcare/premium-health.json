@@ -1,0 +1,21 @@
+{
+  "id": "premium-health",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "healthcare",
+  "subtopic": "insurance_terms",
+  "title": "Co to jest premium?",
+  "facts": [
+    "Premium to regularna opłata za utrzymanie health insurance coverage.",
+    "Premium jest należne niezależnie od tego, czy w danym miesiącu korzysta się z usług medycznych, zgodnie z warunkami planu.",
+    "Premium nie jest tym samym co deductible, copay ani coinsurance."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.healthcare.gov/glossary/premium/"
+  ],
+  "related_public_pages": []
+}
