@@ -1,0 +1,21 @@
+{
+  "id": "country-kazakhstan",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Kazachstan",
+  "facts": [
+    "Kazachstan jest największym na świecie państwem śródlądowym i leży głównie w Azji Centralnej, z niewielką częścią terytorium geograficznie w Europie.",
+    "Stolicą jest Astana; językiem państwowym jest kazachski, a rosyjski ma konstytucyjnie określoną rolę w instytucjach państwowych; walutą jest tenge.",
+    "Kazachstan jest republiką i ważnym producentem surowców energetycznych oraz uranu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.kz/?lang=en"
+  ],
+  "related_public_pages": []
+}
