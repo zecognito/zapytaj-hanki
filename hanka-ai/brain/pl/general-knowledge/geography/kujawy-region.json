@@ -1,0 +1,21 @@
+{
+  "id": "kujawy-region",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Kujawy",
+  "facts": [
+    "Kujawy są historycznym regionem północno-centralnej Polski.",
+    "Region jest związany m.in. z Inowrocławiem i Włocławkiem oraz własnymi tradycjami muzycznymi, strojem i kuchnią.",
+    "Nazwa regionu historyczno-kulturowego nie pokrywa się dokładnie ze współczesnymi granicami administracyjnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
