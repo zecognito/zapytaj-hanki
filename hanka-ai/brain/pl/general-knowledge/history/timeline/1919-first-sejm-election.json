@@ -1,0 +1,22 @@
+{
+  "id": "1919-first-sejm-election",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1919 — wybory do Sejmu Ustawodawczego",
+  "facts": [
+    "26 stycznia 1919 r. odbyły się wybory do Sejmu Ustawodawczego odrodzonej Polski.",
+    "Kobiety uczestniczyły w wyborach na równych zasadach wyborczych z mężczyznami dzięki prawom przyznanym w 1918 r.",
+    "Sejm miał stworzyć podstawy prawne i ustrojowe nowego państwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
