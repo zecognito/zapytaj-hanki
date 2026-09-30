@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-consumer-remittance-disclosures",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "consumer_protection",
+  "subtopic": "remittances",
+  "title": "International remittance transfers - federal disclosures",
+  "facts": [
+    "Federal Regulation E provides protections for many consumer electronic transfers from the United States to recipients abroad.",
+    "Covered remittance providers generally must disclose information including the amount transferred, certain fees and taxes, exchange rate where applicable, and the amount expected to be received.",
+    "Consumers generally receive a receipt containing additional information such as availability date and error-resolution rights.",
+    "Coverage depends on whether the transaction and provider meet the federal remittance-transfer definitions and thresholds."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/rules-policy/regulations/1005/31/"
+  ],
+  "related_public_pages": []
+}
