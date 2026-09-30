@@ -1,0 +1,21 @@
+{
+  "id": "marie-curie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Maria Skłodowska-Curie",
+  "facts": [
+    "Maria Skłodowska-Curie urodziła się w Warszawie w 1867 r. i później prowadziła działalność naukową we Francji.",
+    "Otrzymała Nobel Prize in Physics w 1903 r. oraz Nobel Prize in Chemistry w 1911 r.",
+    "Była pierwszą kobietą laureatką Nagrody Nobla i pierwszą osobą nagrodzoną Noblem w dwóch różnych dziedzinach naukowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/"
+  ],
+  "related_public_pages": []
+}
