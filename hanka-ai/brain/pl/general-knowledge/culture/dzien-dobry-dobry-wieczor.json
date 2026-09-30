@@ -1,0 +1,21 @@
+{
+  "id": "dzien-dobry-dobry-wieczor",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "„Dzień dobry” i „dobry wieczór”",
+  "facts": [
+    "„Dzień dobry” jest podstawowym uprzejmym powitaniem używanym w ciągu dnia.",
+    "„Dobry wieczór” jest typowym powitaniem wieczornym.",
+    "W polszczyźnie formalnej powitanie często łączy się z formami pan/pani zamiast szybkiego przechodzenia na „ty”."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/"
+  ],
+  "related_public_pages": []
+}
