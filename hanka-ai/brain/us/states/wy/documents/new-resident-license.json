@@ -1,0 +1,21 @@
+{
+  "id": "wy-new_resident_license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WY",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce — Wyoming",
+  "facts": [
+    "Prawo jurysdykcji określa wymagania i procedurę w tym obszarze.",
+    "Szczegóły zależą od sytuacji osoby i aktualnych przepisów.",
+    "Aktualne wymagania należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dot.state.wy.us/home/driver_license_records.html"
+  ],
+  "related_public_pages": []
+}
