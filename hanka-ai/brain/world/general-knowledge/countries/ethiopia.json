@@ -1,0 +1,21 @@
+{
+  "id": "country-ethiopia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Etiopia",
+  "facts": [
+    "Etiopia leży w Rogu Afryki i jest państwem śródlądowym.",
+    "Stolicą jest Addis Abeba, która jest także siedzibą Unii Afrykańskiej.",
+    "Etiopia jest republiką federalną i jednym z najludniejszych państw Afryki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ethiopia.gov.et/"
+  ],
+  "related_public_pages": []
+}
