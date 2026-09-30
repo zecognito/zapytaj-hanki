@@ -1,0 +1,21 @@
+{
+  "id": "jagiellonian-university",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "institutions",
+  "title": "Uniwersytet Jagielloński",
+  "facts": [
+    "Uniwersytet Jagielloński w Krakowie został założony w 1364 r. przez Kazimierza Wielkiego.",
+    "Jest najstarszym uniwersytetem w Polsce i jednym z najstarszych w Europie Środkowej.",
+    "Z uczelnią historycznie związany był m.in. Mikołaj Kopernik."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uj.edu.pl/uniwersytet-z-collegium-medicum/historia"
+  ],
+  "related_public_pages": []
+}
