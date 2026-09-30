@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-debt-validation-notice",
+  "subtopic": "debt_admin",
+  "title": "Validation notice od debt collector",
+  "facts": [
+    "Debt collector objęty FDCPA i Regulation F musi przekazać konsumentowi określone validation information dotyczące długu, zwykle w initial communication lub w ciągu 5 dni od niej, jeśli informacje nie zostały już przekazane.",
+    "Validation notice powinno zawierać m.in. informacje identyfikujące debt, creditor i consumer oraz informacje o prawach do dispute.",
+    "Jeżeli konsument pisemnie zakwestionuje debt lub zażąda original-creditor information w validation period, collector musi stosować odpowiednie federalne zasady dotyczące dalszej collection i verification.",
+    "Validation notice nie jest wyrokiem sądu i samo jego otrzymanie nie oznacza, że collector automatycznie udowodnił odpowiedzialność za dług."
+  ],
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-collection-validation-notice-en-2109/",
+    "https://www.consumerfinance.gov/rules-policy/regulations/1006/34/"
+  ]
+}
