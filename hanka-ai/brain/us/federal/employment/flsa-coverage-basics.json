@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-employment-flsa-coverage",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "flsa",
+  "title": "FLSA — podstawowe prawa pracownika",
+  "facts": [
+    "FLSA ustanawia federalne zasady m.in. minimum wage, overtime, recordkeeping i child labor dla objętych pracowników i pracodawców.",
+    "Coverage może wynikać z enterprise coverage albo individual coverage, w zależności od działalności pracodawcy i pracy wykonywanej przez pracownika.",
+    "FLSA zabrania retaliation przeciw pracownikowi za korzystanie z praw chronionych ustawą, np. złożenie complaint dotyczącego wages."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/whd/fact-sheets/14-flsa-coverage",
+    "https://www.dol.gov/agencies/whd/fact-sheets/77a-flsa-prohibiting-retaliation"
+  ],
+  "related_public_pages": []
+}
