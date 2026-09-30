@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-benefits-unemployment-framework",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "benefits",
+  "subtopic": "unemployment_federal_framework",
+  "title": "Unemployment insurance - federal/state framework",
+  "facts": [
+    "Unemployment insurance is a joint federal-state system; states administer regular unemployment benefits under state law within federal requirements.",
+    "Eligibility, weekly benefit amounts, maximum duration, taxable wage bases and filing procedures vary by state.",
+    "A claimant generally files with the unemployment insurance program of the state where the work was performed, subject to interstate and multi-state claim rules.",
+    "Federal law provides the framework, but a specific eligibility or benefit calculation normally requires current state rules and the worker's employment history."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/general/topic/unemployment-insurance",
+    "https://oui.doleta.gov/unemploy/uifactsheet.asp"
+  ],
+  "related_public_pages": []
+}
