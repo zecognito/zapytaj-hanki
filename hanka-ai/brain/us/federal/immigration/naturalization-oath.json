@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-immigration-naturalization-oath",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "immigration",
+  "subtopic": "naturalization",
+  "title": "Naturalization - Oath of Allegiance",
+  "facts": [
+    "Approval of Form N-400 does not by itself complete naturalization.",
+    "An applicant generally becomes a U.S. citizen after taking the Oath of Allegiance at a naturalization ceremony.",
+    "USCIS issues a Certificate of Naturalization as evidence of citizenship after the oath process is completed."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscis.gov/citizenship/learn-about-citizenship/naturalization-ceremonies"
+  ],
+  "related_public_pages": []
+}
