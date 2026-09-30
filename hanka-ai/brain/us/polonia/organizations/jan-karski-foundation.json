@@ -1,0 +1,34 @@
+{
+  "id": "polonia-org-jan-karski-foundation",
+  "country": "US",
+  "category": "organization",
+  "name": "Jan Karski Educational Foundation",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Washington",
+    "state": "DC",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": "https://www.jankarski.net/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Education and preservation of Jan Karski's legacy"
+  ],
+  "coverage_area": [
+    "US"
+  ],
+  "notes": [
+    "Institutional directory record; services, leadership and contact details should be periodically refreshed."
+  ],
+  "official_source": "https://www.jankarski.net/",
+  "last_verified": "2026-09-30"
+}
