@@ -1,0 +1,21 @@
+{
+  "id": "country-kenya",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Kenia",
+  "facts": [
+    "Kenia leży we wschodniej Afryce nad Oceanem Indyjskim, a jej stolicą jest Nairobi.",
+    "Językami urzędowymi są suahili i angielski, a walutą szyling kenijski.",
+    "Kenia jest republiką i ważnym ośrodkiem gospodarczym oraz dyplomatycznym Afryki Wschodniej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mfa.go.ke/kenya"
+  ],
+  "related_public_pages": []
+}
