@@ -1,0 +1,21 @@
+{
+  "id": "pieniny-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national_parks",
+  "title": "Pieniński Park Narodowy",
+  "facts": [
+    "Pieniński Park Narodowy chroni polską część Pienin przy granicy ze Słowacją.",
+    "Do najbardziej rozpoznawalnych miejsc należą Trzy Korony oraz przełom Dunajca.",
+    "Tradycyjny spływ Dunajcem jest jedną z najbardziej znanych atrakcji turystycznych regionu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pieninypn.pl/"
+  ],
+  "related_public_pages": []
+}
