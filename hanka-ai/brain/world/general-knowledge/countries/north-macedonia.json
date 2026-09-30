@@ -1,0 +1,21 @@
+{
+  "id": "country-north-macedonia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Macedonia Północna",
+  "facts": [
+    "Macedonia Północna jest śródlądowym państwem Bałkanów, a jej stolicą jest Skopje.",
+    "Językiem urzędowym na całym terytorium jest macedoński; albański ma szerokie zastosowanie urzędowe zgodnie z prawem.",
+    "Macedonia Północna jest republiką, członkiem NATO i państwem kandydującym do Unii Europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://vlada.mk/?ln=en-gb"
+  ],
+  "related_public_pages": []
+}
