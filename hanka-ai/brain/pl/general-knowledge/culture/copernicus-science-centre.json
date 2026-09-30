@@ -1,0 +1,21 @@
+{
+  "id": "copernicus-science-centre",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "institutions",
+  "title": "Centrum Nauki Kopernik",
+  "facts": [
+    "Centrum Nauki Kopernik w Warszawie jest instytucją popularyzującą naukę poprzez interaktywne wystawy, eksperymenty i programy edukacyjne.",
+    "Znajduje się nad Wisłą w pobliżu centrum Warszawy.",
+    "Nie jest muzeum poświęconym wyłącznie Mikołajowi Kopernikowi mimo nazwy instytucji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.kopernik.org.pl/"
+  ],
+  "related_public_pages": []
+}
