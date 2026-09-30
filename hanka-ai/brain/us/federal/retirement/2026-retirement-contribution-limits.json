@@ -1,0 +1,27 @@
+{
+  "id": "us-federal-retirement-contribution-limits-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "retirement",
+  "subtopic": "contribution_limits",
+  "title": "Limity wpłat emerytalnych w USA — 2026",
+  "facts": [
+    "W 2026 limit wpłat pracownika do 401(k), 403(b), większości planów 457 oraz federalnego Thrift Savings Plan wynosi $24,500.",
+    "Ogólny limit catch-up dla uczestników tych planów w wieku 50+ wynosi w 2026 $8,000, więc ogólny limit wpłat pracownika może wynieść $32,500.",
+    "Dla osób w wieku 60–63 lata wyższy limit catch-up w 2026 wynosi $11,250.",
+    "Łączny roczny limit wpłat do Traditional IRA i Roth IRA wynosi w 2026 $7,500 albo wysokość taxable compensation, jeśli jest niższa.",
+    "Dla osób w wieku 50+ limit IRA z catch-up wynosi w 2026 $8,600."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500",
+    "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits"
+  ],
+  "related_public_pages": [
+    "https://zapytajhanki.com/emerytura/401k/",
+    "https://zapytajhanki.com/emerytura/roth-ira/"
+  ]
+}
