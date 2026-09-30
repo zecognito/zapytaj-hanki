@@ -1,0 +1,21 @@
+{
+  "id": "zygmunt-wroblewski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Zygmunt Wróblewski",
+  "facts": [
+    "Zygmunt Wróblewski był polskim fizykiem związanym z Uniwersytetem Jagiellońskim.",
+    "Wraz z Karolem Olszewskim prowadził pionierskie badania nad skraplaniem gazów w bardzo niskich temperaturach.",
+    "Zmarł w 1888 r. w następstwie obrażeń odniesionych w pożarze laboratorium."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uj.edu.pl/"
+  ],
+  "related_public_pages": []
+}
