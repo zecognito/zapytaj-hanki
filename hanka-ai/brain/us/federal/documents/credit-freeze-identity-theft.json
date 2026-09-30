@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-documents-credit-freeze",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "documents",
+  "subtopic": "identity_theft",
+  "title": "Credit freeze after identity theft",
+  "facts": [
+    "A security freeze restricts prospective creditors from accessing a consumer's credit file, making it harder for an identity thief to open new credit accounts.",
+    "Federal law allows consumers to place and lift security freezes for free.",
+    "A freeze must generally be placed separately with Equifax, Experian, and TransUnion.",
+    "A credit freeze does not prevent all forms of identity theft and does not replace monitoring existing accounts."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/what-know-about-credit-freezes-fraud-alerts"
+  ],
+  "related_public_pages": []
+}
