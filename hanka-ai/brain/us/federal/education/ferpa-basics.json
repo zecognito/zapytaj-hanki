@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-education-ferpa-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "education",
+  "subtopic": "ferpa",
+  "title": "FERPA - student education records",
+  "facts": [
+    "FERPA is a federal law protecting privacy of student education records at schools that receive funds under applicable U.S. Department of Education programs.",
+    "FERPA generally gives parents rights to inspect and review education records, seek amendment of inaccurate or misleading records, and control certain disclosures of personally identifiable information.",
+    "When a student turns 18 or attends a postsecondary institution, FERPA rights generally transfer from the parent to the eligible student.",
+    "FERPA contains exceptions allowing disclosure without consent in specified circumstances."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://studentprivacy.ed.gov/ferpa"
+  ],
+  "related_public_pages": []
+}
