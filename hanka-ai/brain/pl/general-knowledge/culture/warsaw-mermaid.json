@@ -1,0 +1,21 @@
+{
+  "id": "warsaw-mermaid",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "legends",
+  "title": "Syrenka Warszawska",
+  "facts": [
+    "Syrenka jest symbolem Warszawy i występuje w herbie miasta.",
+    "Z Syrenką związanych jest kilka warszawskich legend wyjaśniających jej rolę jako obrończyni miasta.",
+    "Legendarnych opowieści nie należy mieszać z prawnym i heraldycznym znaczeniem herbu Warszawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://um.warszawa.pl/waw/syrenka"
+  ],
+  "related_public_pages": []
+}
