@@ -1,0 +1,24 @@
+{
+  "id": "us-federal-consumer-complaint-routes",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "consumer_protection",
+  "subtopic": "complaints",
+  "title": "Federal consumer complaint routes",
+  "facts": [
+    "The appropriate federal complaint channel depends on the problem rather than there being one agency for every consumer dispute.",
+    "CFPB handles complaints involving many financial products and services such as credit reporting, debt collection, mortgages, bank accounts and consumer loans.",
+    "FTC ReportFraud accepts reports involving scams, fraud and many unfair or deceptive business practices.",
+    "FCC handles communications issues including unwanted calls and texts, while state attorneys general and specialized federal or state regulators can also be relevant."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/complaint/",
+    "https://reportfraud.ftc.gov/",
+    "https://consumercomplaints.fcc.gov/hc/en-us"
+  ],
+  "related_public_pages": []
+}
