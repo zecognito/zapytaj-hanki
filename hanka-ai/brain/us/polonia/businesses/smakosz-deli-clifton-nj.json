@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-smakosz-deli-clifton-nj",
+  "country": "US",
+  "category": "store",
+  "name": "Polish American Deli Smakosz",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "634 Van Houten Ave",
+    "city": "Clifton",
+    "state": "NJ",
+    "postal_code": "07013",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 973-778-0007",
+  "email": null,
+  "website": "https://tasteofsmakosz.com/deli/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Clifton",
+    "NJ"
+  ],
+  "notes": [
+    "Commercial directory record. Business status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://tasteofsmakosz.com/deli/",
+  "last_verified": "2026-09-30"
+}
