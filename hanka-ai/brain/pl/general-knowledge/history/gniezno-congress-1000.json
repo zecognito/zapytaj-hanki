@@ -1,0 +1,21 @@
+{
+  "id": "gniezno-congress-1000",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "medieval",
+  "title": "Zjazd gnieźnieński — 1000",
+  "facts": [
+    "Zjazd gnieźnieński odbył się w 1000 r. podczas spotkania Bolesława Chrobrego z cesarzem Ottonem III.",
+    "Wydarzenie wiązało się z umocnieniem pozycji państwa Piastów oraz organizacji kościelnej w Polsce.",
+    "Utworzenie metropolii gnieźnieńskiej miało duże znaczenie dla niezależności struktur kościelnych młodego państwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
