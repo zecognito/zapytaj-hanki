@@ -1,0 +1,20 @@
+{
+  "id": "us-federal-education-pell-maximum-2026-27",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "education",
+  "subtopic": "pell_grant",
+  "title": "Federal Pell Grant maximum - 2026-27 award year",
+  "facts": [
+    "For the 2026-27 award year, the maximum Federal Pell Grant award is $7,395.",
+    "The maximum award is not automatically paid to every Pell-eligible student; the actual amount depends on federal eligibility calculations and enrollment circumstances."
+  ],
+  "effective_from": "2026-07-01",
+  "effective_to": "2027-06-30",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2026-01-30/2026-2027-federal-pell-grant-payment-and-disbursement-schedules"
+  ],
+  "related_public_pages": []
+}
