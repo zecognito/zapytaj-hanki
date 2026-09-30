@@ -1,0 +1,33 @@
+{
+  "id": "polonia-prof-dentist-just-smile-chicago-il",
+  "country": "US",
+  "category": "dentist",
+  "name": "Just Smile Family Dentistry",
+  "status": "active",
+  "location": {
+    "address": "6121 N Elston Ave, Suite 2",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60646",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "family dentistry",
+    "general dentistry",
+    "cosmetic dentistry",
+    "oral surgery"
+  ],
+  "phone": "+1 773-792-0232",
+  "email": "justsmiledentistry@gmail.com",
+  "website": "https://www.justsmile.dental/",
+  "official_source": "https://www.justsmile.dental/contact-us54ae38b5",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official practice site explicitly states the entire staff is bilingual in English and Polish and identifies Dr. Jadwiga Samulak."
+  ]
+}
