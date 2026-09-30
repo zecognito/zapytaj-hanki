@@ -1,0 +1,21 @@
+{
+  "id": "police-number-997-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "emergency",
+  "title": "997 a numer 112",
+  "facts": [
+    "997 jest historycznie kojarzony w Polsce z Policją, ale system obsługi połączeń alarmowych został zintegrowany z numerem 112.",
+    "W sytuacji nagłego zagrożenia uniwersalnym numerem alarmowym jest 112.",
+    "Aktualny sposób obsługi poszczególnych numerów alarmowych może być organizacyjnie zmieniany, więc Hanka powinna preferować 112 jako podstawową ogólną informację."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/numer-alarmowy-112"
+  ],
+  "related_public_pages": []
+}
