@@ -44,12 +44,12 @@
     },
     "businesses": {
       "status": "started",
-      "records": 56,
+      "records": 73,
       "notes": [
-        "Commercial/professional directory now contains 56 Polish-focused food/retail physical locations across major Polonia markets including IL, NY/NJ, CT, OH, MI, WI, FL, TX, CO, AZ, CA, OR and WA.",
-        "Chains are stored per physical location to support future geographic and near-me retrieval.",
-        "Commercial status, addresses, hours and services are high-churn data and require periodic refresh; official business sources are preferred.",
-        "Professional categories such as doctors, dentists, lawyers, accountants, insurance and real estate remain a separate tighter-verification expansion track."
+        "Commercial/professional directory now contains 73 Polish-focused food/retail physical locations, with deeper neighborhood-level coverage in Chicagoland/Indiana and New Jersey plus the existing nationwide seed.",
+        "Recent depth pass added active delis, markets, bakeries and restaurants verified through current official sites and current local-business evidence; chains remain stored per physical location for geographic retrieval.",
+        "Commercial status, addresses, hours and services are high-churn data and require periodic refresh; the food/retail layer is intentionally still marked started because Northeast and other dense Polonia markets remain undercounted.",
+        "Professional categories such as doctors, dentists, lawyers, accountants, insurance and real estate remain deferred until food/retail reaches a substantially more exhaustive first pass."
       ]
     },
     "media_culture": {
