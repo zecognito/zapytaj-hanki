@@ -1,0 +1,21 @@
+{
+  "id": "tx-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TX",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Teksasie",
+  "facts": [
+    "Texas Office of the Attorney General Child Support Division pomaga m.in. ustalać paternity, support orders i egzekwować płatności.",
+    "Texas ma ustawowe guidelines dotyczące child support, ale konkretna kwota zależy od sprawy i order.",
+    "Usługi programu nie zastępują indywidualnej porady prawnej dotyczącej custody, divorce lub innych kwestii rodzinnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.texasattorneygeneral.gov/child-support"
+  ],
+  "related_public_pages": []
+}
