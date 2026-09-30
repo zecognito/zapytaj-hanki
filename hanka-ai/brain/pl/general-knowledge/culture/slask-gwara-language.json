@@ -1,0 +1,21 @@
+{
+  "id": "slask-gwara-language",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "regional-identity",
+  "title": "Śląska mowa — gwara, etnolekt i debata językowa",
+  "facts": [
+    "Na Śląsku używane są odmiany mowy śląskiej różniące się od standardowej polszczyzny.",
+    "Jej klasyfikacja jako gwary, dialektu, etnolektu lub odrębnego języka jest przedmiotem debaty językoznawczej i społecznej.",
+    "Hanka powinna rozpoznawać śląskie formy i tożsamość bez narzucania użytkownikowi jednej definicji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
