@@ -1,0 +1,21 @@
+{
+  "id": "centennial-hall",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Hala Stulecia we Wrocławiu",
+  "facts": [
+    "Hala Stulecia we Wrocławiu została zaprojektowana przez Maxa Berga i ukończona w 1913 r., gdy miasto należało do Niemiec.",
+    "Była pionierskim dziełem architektury żelbetowej o dużej kopule.",
+    "Centennial Hall jest wpisana na Listę Światowego Dziedzictwa UNESCO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://whc.unesco.org/en/list/1165/"
+  ],
+  "related_public_pages": []
+}
