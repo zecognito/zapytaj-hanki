@@ -1,0 +1,21 @@
+{
+  "id": "meldunek-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "documents",
+  "title": "Meldunek w Polsce",
+  "facts": [
+    "Polski system ewidencji ludności przewiduje obowiązek meldunkowy na zasadach określonych prawem.",
+    "Meldunek dotyczy rejestracji miejsca pobytu i nie jest tym samym co prawo własności do mieszkania.",
+    "Praktyczne terminy i zasady meldunku zależą od rodzaju pobytu i statusu osoby, dlatego aktualne procedury należy sprawdzać w gov.pl."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gov/obowiazek-meldunkowy"
+  ],
+  "related_public_pages": []
+}
