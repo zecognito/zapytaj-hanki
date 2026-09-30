@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polish-nook-niagara-falls",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Polish Nook",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2242 Cudaback Ave",
+    "city": "Niagara Falls",
+    "state": "NY",
+    "postal_code": "14303",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 716-282-6712",
+  "email": null,
+  "website": "https://polishnook.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Niagara Falls",
+    "NY"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://polishnook.com/",
+  "last_verified": "2026-09-30"
+}
