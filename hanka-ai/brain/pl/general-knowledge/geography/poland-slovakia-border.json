@@ -1,0 +1,21 @@
+{
+  "id": "poland-slovakia-border",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "borders",
+  "title": "Granica Polski ze Słowacją",
+  "facts": [
+    "Polska graniczy ze Słowacją na południu.",
+    "Granica przebiega przez Karpaty, w tym Tatry.",
+    "Polska i Słowacja należą do UE i strefy Schengen, ale Słowacja używa euro, podczas gdy Polska używa złotego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/"
+  ],
+  "related_public_pages": []
+}
