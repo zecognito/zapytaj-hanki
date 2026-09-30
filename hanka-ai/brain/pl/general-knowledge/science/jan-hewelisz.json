@@ -1,0 +1,21 @@
+{
+  "id": "jan-hewelisz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Jan Heweliusz",
+  "facts": [
+    "Jan Heweliusz był XVII-wiecznym astronomem związanym z Gdańskiem.",
+    "Prowadził obserwatorium astronomiczne i tworzył szczegółowe mapy Księżyca oraz katalogi gwiazd.",
+    "W międzynarodowej literaturze jest znany także jako Johannes Hevelius."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://muzeumgdansk.pl/"
+  ],
+  "related_public_pages": []
+}
