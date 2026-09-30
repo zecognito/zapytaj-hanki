@@ -1,0 +1,21 @@
+{
+  "id": "smigus-dyngus",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Śmigus-Dyngus",
+  "facts": [
+    "Śmigus-Dyngus jest polskim zwyczajem związanym z Poniedziałkiem Wielkanocnym i współcześnie najbardziej kojarzy się z oblewaniem wodą.",
+    "Zwyczaj ma starsze, złożone tradycje ludowe, które z czasem połączyły się w obecną formę.",
+    "W Polish American communities bywa nazywany Dyngus Day i może mieć własne lokalne formy obchodów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-easter-traditions"
+  ],
+  "related_public_pages": []
+}
