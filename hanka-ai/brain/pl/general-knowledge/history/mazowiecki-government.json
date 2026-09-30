@@ -1,0 +1,21 @@
+{
+  "id": "mazowiecki-government",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "transition",
+  "title": "Rząd Tadeusza Mazowieckiego",
+  "facts": [
+    "Tadeusz Mazowiecki został premierem w 1989 r. i stanął na czele pierwszego po II wojnie światowej polskiego rządu kierowanego przez premiera wywodzącego się z opozycji demokratycznej, a nie z rządzącej partii komunistycznej.",
+    "Jego gabinet rozpoczął zasadnicze reformy polityczne i gospodarcze okresu transformacji.",
+    "Polska nadal przechodziła wówczas proces demontażu instytucji systemu PRL."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/premier/tadeusz-mazowiecki"
+  ],
+  "related_public_pages": []
+}
