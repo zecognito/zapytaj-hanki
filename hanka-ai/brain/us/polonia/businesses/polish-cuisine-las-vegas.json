@@ -4,7 +4,7 @@
   "category": "restaurant",
   "name": "Polish Cuisine",
   "aliases": [],
-  "status": "active",
+  "status": "unverified",
   "location": {
     "address": "Las Vegas",
     "city": "Las Vegas",
@@ -30,7 +30,7 @@
     "NV"
   ],
   "notes": [
-    "Polish-food relevance supported by current business or Polonia-community source. Incomplete location/contact fields are intentionally left null rather than inferred; reverification required."
+    "Audited 2026-09-30: Polish-food website exists, but the Brain record still lacks a defensible current physical street address. Downgraded from active to unverified pending location confirmation."
   ],
   "official_source": "https://polishfoodlasvegas.com/",
   "last_verified": "2026-09-30"
