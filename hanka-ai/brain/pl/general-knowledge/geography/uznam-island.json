@@ -1,0 +1,21 @@
+{
+  "id": "uznam-island",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "coast",
+  "title": "Wyspa Uznam",
+  "facts": [
+    "Uznam jest wyspą na pograniczu Polski i Niemiec.",
+    "Polska część obejmuje zachodnią część Świnoujścia, natomiast większa część wyspy znajduje się w Niemczech.",
+    "Uznam leży między Bałtykiem a wodami Zalewu Szczecińskiego i cieśnin."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.swinoujscie.pl/"
+  ],
+  "related_public_pages": []
+}
