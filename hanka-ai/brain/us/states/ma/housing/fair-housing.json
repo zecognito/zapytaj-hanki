@@ -1,0 +1,21 @@
+{
+  "id": "ma-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MA",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową w Massachusetts",
+  "facts": [
+    "Massachusetts law zabrania housing discrimination ze względu na protected classes określone przez stan.",
+    "Ochrona stanowa może być szersza niż federalny Fair Housing Act.",
+    "Massachusetts Commission Against Discrimination przyjmuje kwalifikujące się complaints dotyczące housing discrimination."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mass.gov/info-details/housing-discrimination"
+  ],
+  "related_public_pages": []
+}
