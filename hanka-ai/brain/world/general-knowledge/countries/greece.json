@@ -1,0 +1,21 @@
+{
+  "id": "country-greece",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Grecja",
+  "facts": [
+    "Grecja leży w południowo-wschodniej Europie i obejmuje rozległą część wysp Morza Egejskiego i Jońskiego.",
+    "Stolicą są Ateny, językiem urzędowym grecki, a walutą euro.",
+    "Grecja jest republiką parlamentarną oraz członkiem UE i NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mfa.gr/en/greece/about-greece/"
+  ],
+  "related_public_pages": []
+}
