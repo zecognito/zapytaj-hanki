@@ -1,0 +1,21 @@
+{
+  "id": "boguslaw-linda",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "modern-actors",
+  "title": "Bogusław Linda",
+  "facts": [
+    "Bogusław Linda jest polskim aktorem filmowym i teatralnym oraz reżyserem.",
+    "Stał się ikoną polskiego kina lat 90., szczególnie dzięki roli Franza Maurera w filmach z serii „Psy”.",
+    "Współpracował z wieloma ważnymi polskimi reżyserami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
