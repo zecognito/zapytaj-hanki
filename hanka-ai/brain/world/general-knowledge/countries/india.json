@@ -1,0 +1,21 @@
+{
+  "id": "country-india",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Indie",
+  "facts": [
+    "Indie leżą w Azji Południowej i od 2023 roku są najludniejszym państwem świata według szacunków ONZ.",
+    "Stolicą jest Nowe Delhi, a walutą rupia indyjska.",
+    "Indie są federalną republiką parlamentarną; konstytucja uznaje hindi w piśmie dewanagari za język urzędowy Unii, a angielski jest szeroko używany w administracji zgodnie z prawem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://knowindia.india.gov.in/"
+  ],
+  "related_public_pages": []
+}
