@@ -1,0 +1,21 @@
+{
+  "id": "zus-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "social_insurance",
+  "title": "Co to jest ZUS?",
+  "facts": [
+    "Zakład Ubezpieczeń Społecznych (ZUS) realizuje zadania związane z polskim systemem ubezpieczeń społecznych.",
+    "ZUS obsługuje m.in. składki oraz świadczenia takie jak emerytury, renty i określone zasiłki zgodnie z ustawami.",
+    "ZUS i NFZ pełnią różne funkcje: ZUS dotyczy przede wszystkim ubezpieczeń społecznych, a NFZ finansowania świadczeń zdrowotnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.zus.pl/o-zus/o-nas"
+  ],
+  "related_public_pages": []
+}
