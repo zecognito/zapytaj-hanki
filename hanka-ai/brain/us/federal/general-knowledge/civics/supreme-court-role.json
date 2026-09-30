@@ -1,0 +1,22 @@
+{
+  "id": "supreme-court-role",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "civics",
+  "subtopic": "courts",
+  "title": "Supreme Court — podstawowa rola",
+  "facts": [
+    "Supreme Court of the United States jest najwyższym sądem federalnym.",
+    "Judicial branch interpretuje prawo i rozstrzyga sprawy należące do jurysdykcji federalnej.",
+    "Federal courts i state courts są odrębnymi systemami, choć ich kompetencje mogą się przecinać w określonych sprawach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/branches-of-government",
+    "https://www.uscourts.gov/about-federal-courts/court-role-and-structure"
+  ],
+  "related_public_pages": []
+}
