@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-bankruptcy-chapter7-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "bankruptcy_debt_relief",
+  "subtopic": "chapter_7",
+  "title": "Chapter 7 bankruptcy - basics",
+  "facts": [
+    "Chapter 7 is a federal bankruptcy process involving liquidation rules and can provide eligible individual debtors a discharge of many debts.",
+    "A Chapter 7 trustee administers the case and may liquidate nonexempt property for creditors, while exempt property can be protected under applicable exemption law.",
+    "Many individual Chapter 7 cases are no-asset cases in which there are no nonexempt assets available for distribution, but this depends on the debtor's property and exemptions.",
+    "Chapter 7 does not discharge every type of debt and does not automatically eliminate valid liens on property."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-7-bankruptcy-basics"
+  ],
+  "related_public_pages": []
+}
