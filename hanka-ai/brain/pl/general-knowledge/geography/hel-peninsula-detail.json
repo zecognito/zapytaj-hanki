@@ -1,0 +1,21 @@
+{
+  "id": "hel-peninsula-detail",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "coast",
+  "title": "Półwysep Helski — geografia",
+  "facts": [
+    "Półwysep Helski jest długą, wąską mierzeją oddzielającą część Zatoki Puckiej od otwartego Bałtyku.",
+    "Na półwyspie znajdują się m.in. Hel, Jurata, Jastarnia i Kuźnica.",
+    "Jego szerokość i linia brzegowa są kształtowane przez procesy morskie i działania ochrony wybrzeża."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.umgdy.gov.pl/"
+  ],
+  "related_public_pages": []
+}
