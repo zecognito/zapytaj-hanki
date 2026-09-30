@@ -13,13 +13,13 @@
       ]
     },
     "polish_schools": {
-      "status": "started",
-      "records": 81,
+      "status": "mature",
+      "records": 91,
       "notes": [
-        "Seeded from current ORPEG/gov.pl and Polish Supplementary School Council of America listings.",
-        "Includes ORPEG-operated schools and established community supplementary schools across major Polonia regions; nationwide expansion continues.",
-        "Current geographic seed includes NY, NJ, CT, PA, MA, IL, WI, FL, TX, CA, AZ, WA, NC, TN and VA/DC-area coverage.",
-        "School enrollment, class offerings and contact details are freshness-sensitive and should be periodically reverified."
+        "First-pass national roster seeded from current ORPEG/gov.pl and Polish Supplementary School Council of America listings.",
+        "91 established Polish schools or structured Polish supplementary-education programs are now represented across major Polonia regions.",
+        "Smaller preschool/daycare-only entries and weak/stale listings were deliberately excluded.",
+        "This is a living directory: ORPEG records and school contact/enrollment details should be periodically refreshed, and newly established schools can be added without redesigning the schema."
       ]
     },
     "churches": {
