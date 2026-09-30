@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-st-hedwig-trenton-nj",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła przy Parafii Św. Jadwigi",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "872 Brunswick Ave",
+    "city": "Trenton",
+    "state": "NJ",
+    "postal_code": "08638",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 609 477 3496",
+  "email": "szkolapltrenton@yahoo.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "NJ"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; enrollment and current class offerings should be confirmed directly with the school."
+  ],
+  "official_source": "https://www.centralapolskichszkol.org/index.php/new-jersey/",
+  "last_verified": "2026-09-30"
+}
