@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-healthcare-marketplace-open-enrollment",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "healthcare",
+  "subtopic": "marketplace",
+  "title": "Health Insurance Marketplace - Open Enrollment",
+  "facts": [
+    "HealthCare.gov Marketplace Open Enrollment runs from November 1 through January 15 each year.",
+    "Enrollment or plan changes completed by December 15 can generally start January 1 if the first premium is paid.",
+    "Enrollment completed from December 16 through January 15 generally starts February 1 if the first premium is paid.",
+    "Medicaid and CHIP applications are not limited to the Marketplace Open Enrollment window."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.healthcare.gov/quick-guide/dates-and-deadlines/"
+  ],
+  "related_public_pages": []
+}
