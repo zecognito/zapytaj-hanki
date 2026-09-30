@@ -1,0 +1,21 @@
+{
+  "id": "country-serbia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Serbia",
+  "facts": [
+    "Serbia jest śródlądowym państwem Bałkanów, a jej stolicą jest Belgrad.",
+    "Językiem urzędowym jest serbski, a walutą dinar serbski.",
+    "Serbia jest republiką i państwem kandydującym do Unii Europejskiej; nie należy do NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.srbija.gov.rs/tekst/en/130127/republic-of-serbia.php"
+  ],
+  "related_public_pages": []
+}
