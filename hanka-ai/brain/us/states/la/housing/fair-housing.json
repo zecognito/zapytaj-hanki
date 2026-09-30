@@ -1,0 +1,21 @@
+{
+  "id": "la-fair_housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "LA",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Fair housing w Luizjana",
+  "facts": [
+    "Federalne i stanowe przepisy chronią przed określonymi formami dyskryminacji mieszkaniowej.",
+    "Zakres ochrony i procedury skargowe zależą od właściwych przepisów.",
+    "Skargę można kierować do właściwej agencji lub HUD zależnie od sprawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://gov.louisiana.gov/page/louisiana-commission-on-human-rights"
+  ],
+  "related_public_pages": []
+}
