@@ -1,0 +1,21 @@
+{
+  "id": "snieznik",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "landscapes",
+  "title": "Śnieżnik",
+  "facts": [
+    "Śnieżnik jest najwyższym szczytem Masywu Śnieżnika w polskich Sudetach Wschodnich.",
+    "Leży przy granicy Polski z Czechami i ma 1425 m n.p.m.",
+    "Na szczycie znajduje się współczesna wieża widokowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/"
+  ],
+  "related_public_pages": []
+}
