@@ -1,0 +1,21 @@
+{
+  "id": "ct-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CT",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Connecticut",
+  "facts": [
+    "Nowy mieszkaniec Connecticut musi przenieść kwalifikujący się pojazd do Connecticut registration zgodnie z wymaganiami DMV.",
+    "Proces wymaga odpowiednich ownership documents, Connecticut insurance oraz innych dokumentów zależnych od pojazdu.",
+    "W określonych przypadkach mogą mieć zastosowanie emissions requirements lub VIN verification."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://portal.ct.gov/dmv/vehicle-services/transfer-registration-ct"
+  ],
+  "related_public_pages": []
+}
