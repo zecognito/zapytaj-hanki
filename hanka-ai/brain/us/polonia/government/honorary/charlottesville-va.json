@@ -1,0 +1,36 @@
+{
+  "id": "polonia-gov-honorary-charlottesville-va",
+  "country": "US",
+  "category": "consulate_honorary",
+  "name": "Honorary Consulate of the Republic of Poland in Gordonsville",
+  "aliases": [
+    "Konsulat Honorowy RP w Gordonsville"
+  ],
+  "status": "active",
+  "location": {
+    "address": "513 N. Main Street",
+    "city": "Gordonsville",
+    "state": "VA",
+    "postal_code": "22942",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 434 906 0108",
+  "email": "Robert.joskowiak@polishconsulateva.us",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "honorary consular representation"
+  ],
+  "coverage_area": [
+    "VA"
+  ],
+  "notes": [
+    "Honorary consul: Robert Joskowiak"
+  ],
+  "official_source": "https://www.gov.pl/web/usa/konsulaty-honorowe",
+  "last_verified": "2026-09-30"
+}
