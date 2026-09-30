@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-education-fafsa-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "education",
+  "subtopic": "fafsa",
+  "title": "FAFSA - basics",
+  "facts": [
+    "The Free Application for Federal Student Aid (FAFSA) is the federal application used to determine eligibility for federal student aid and is also used by many states and schools for their own aid.",
+    "Submitting the FAFSA is free; students should use the official StudentAid.gov process rather than paying a company simply to file the federal form.",
+    "A FAFSA normally must be completed for each award year in which the student seeks aid.",
+    "Federal, state and school aid can have different deadlines, and some funds are limited, so the federal deadline should not be treated as the only deadline that matters."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://studentaid.gov/h/apply-for-aid/fafsa"
+  ],
+  "related_public_pages": []
+}
