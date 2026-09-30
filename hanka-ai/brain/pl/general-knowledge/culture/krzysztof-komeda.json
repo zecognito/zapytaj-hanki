@@ -1,0 +1,21 @@
+{
+  "id": "krzysztof-komeda",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "music",
+  "title": "Krzysztof Komeda",
+  "facts": [
+    "Krzysztof Komeda był polskim pianistą jazzowym i kompozytorem.",
+    "Był jedną z kluczowych postaci rozwoju nowoczesnego jazzu w Polsce.",
+    "Komponował również muzykę filmową, m.in. do filmów Romana Polańskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/krzysztof-komeda"
+  ],
+  "related_public_pages": []
+}
