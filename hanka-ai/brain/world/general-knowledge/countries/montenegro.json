@@ -1,0 +1,21 @@
+{
+  "id": "country-montenegro",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Czarnogóra",
+  "facts": [
+    "Czarnogóra leży na Bałkanach nad Morzem Adriatyckim, a jej stolicą jest Podgorica.",
+    "Językiem urzędowym jest czarnogórski, a w użyciu urzędowym są również serbski, bośniacki, albański i chorwacki.",
+    "Czarnogóra używa euro, jest członkiem NATO i państwem kandydującym do Unii Europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.me/en"
+  ],
+  "related_public_pages": []
+}
