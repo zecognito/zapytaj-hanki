@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-cars-vehicle-recalls",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "cars_transportation",
+  "subtopic": "vehicle_safety",
+  "title": "Vehicle safety recalls - federal basics",
+  "facts": [
+    "NHTSA oversees federal motor-vehicle safety recalls and provides VIN-based recall lookup tools.",
+    "When a manufacturer conducts a safety recall, the recall remedy is generally provided to the vehicle owner without charge under federal recall law, subject to applicable statutory limits and circumstances.",
+    "A recall is different from a technical service bulletin, warranty extension or ordinary repair recommendation.",
+    "Owners should use the vehicle identification number to check whether a specific vehicle has an unrepaired safety recall."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nhtsa.gov/recalls"
+  ],
+  "related_public_pages": []
+}
