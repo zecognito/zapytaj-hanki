@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-modrzejewska-yorba-linda-ca",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła im. Heleny Modrzejewskiej",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "3999 Rose Drive",
+    "city": "Yorba Linda",
+    "state": "CA",
+    "postal_code": "92886",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 714 485 5225",
+  "email": "kierownik@szkolapolska-oc.org",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "CA"
+  ],
+  "notes": [
+    "Current ORPEG Polonia-school database record; enrollment and class details should be reconfirmed with the school."
+  ],
+  "official_source": "https://archiwum.orpeg.gov.pl/db/web/database/entry/7428",
+  "last_verified": "2026-09-30"
+}
