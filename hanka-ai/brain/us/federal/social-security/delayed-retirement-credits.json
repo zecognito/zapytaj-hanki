@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-social-security-delayed-retirement-credits",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "social_security",
+  "subtopic": "delayed_retirement_credits",
+  "title": "Social Security delayed retirement credits",
+  "facts": [
+    "Po full retirement age miesięczny retirement benefit może rosnąć za każdy miesiąc opóźnienia rozpoczęcia benefits, do wieku 70 lat.",
+    "Dla osób urodzonych w 1943 lub później delayed retirement credit odpowiada zasadniczo 8% rocznie przy pełnym roku opóźnienia, naliczanym miesięcznie.",
+    "Po wieku 70 lat nie ma dodatkowego wzrostu za dalsze odkładanie rozpoczęcia retirement benefits."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/benefits/retirement/planner/delayret.html"
+  ],
+  "related_public_pages": [
+    "https://zapytajhanki.com/emerytura/social-security/"
+  ]
+}
