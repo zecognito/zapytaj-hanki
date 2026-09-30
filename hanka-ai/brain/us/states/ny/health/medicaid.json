@@ -1,0 +1,21 @@
+{
+  "id": "ny-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NY",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Medicaid w stanie Nowy Jork",
+  "facts": [
+    "New York Medicaid zapewnia coverage kwalifikującym się mieszkańcom o niskich dochodach i innym kwalifikującym się grupom.",
+    "Sposób złożenia wniosku zależy od kategorii osoby; część osób korzysta z NY State of Health, a część z lokalnego Department of Social Services.",
+    "Eligibility zależy m.in. od dochodu, wieku, sytuacji rodzinnej, disability i innych zasad programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.health.ny.gov/health_care/medicaid/"
+  ],
+  "related_public_pages": []
+}
