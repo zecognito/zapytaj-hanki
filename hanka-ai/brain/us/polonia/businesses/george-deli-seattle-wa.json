@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-george-deli-seattle-wa",
+  "country": "US",
+  "category": "store",
+  "name": "George's Sausage & Delicatessen",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "907 Madison St",
+    "city": "Seattle",
+    "state": "WA",
+    "postal_code": "98104",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 206-622-1491",
+  "email": null,
+  "website": "https://www.georgessausageanddeli.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Seattle",
+    "WA"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://www.georgessausageanddeli.com/",
+  "last_verified": "2026-09-30"
+}
