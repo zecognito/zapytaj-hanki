@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polonia-restaurant-longwood",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Polonia Polish Restaurant",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "750 S US Highway 17/92",
+    "city": "Longwood",
+    "state": "FL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 407-331-1933",
+  "email": null,
+  "website": "https://www.polonia-restaurant.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Longwood",
+    "FL"
+  ],
+  "notes": [
+    "Current Polish-food connection supported by an official business source or recent/local Polonia source; commercial details remain freshness-sensitive."
+  ],
+  "official_source": "https://www.polishfloridabiz.net/delis.html",
+  "last_verified": "2026-09-30"
+}
