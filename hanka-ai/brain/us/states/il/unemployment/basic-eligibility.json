@@ -1,0 +1,24 @@
+{
+  "id": "il-unemployment-basic-eligibility",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "benefits",
+  "subtopic": "unemployment",
+  "title": "Illinois unemployment insurance basics",
+  "facts": [
+    "Illinois unemployment insurance can provide partial wage replacement to eligible unemployed workers.",
+    "A claimant generally must have earned at least $1,600 during the applicable base period and at least $440 outside the highest-earning base-period quarter.",
+    "Depending on when the claim was established, regular benefits may be available for up to 26 full weeks in a one-year period.",
+    "Claimants generally must certify every two weeks to receive benefits."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ides.illinois.gov/unemployment/insurance.html",
+    "https://ides.illinois.gov/unemployment/resources/benefits-rights.html",
+    "https://ides.illinois.gov/unemployment/file-a-claim/i-filed-my-claim--what-happens-now-.html"
+  ],
+  "related_public_pages": []
+}
