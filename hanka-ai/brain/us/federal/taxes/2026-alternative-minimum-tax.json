@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-alternative-minimum-tax-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "alternative_minimum_tax",
+  "title": "Alternative Minimum Tax (AMT) — rok podatkowy 2026",
+  "facts": [
+    "Dla tax year 2026 AMT exemption wynosi $90,100 dla Single filers i zaczyna się phase out przy $500,000.",
+    "Dla Married Filing Jointly AMT exemption w 2026 wynosi $140,200 i zaczyna się phase out przy $1,000,000.",
+    "AMT jest równoległym systemem obliczenia federalnego income tax; podatnik porównuje regular tax z tentative minimum tax zgodnie z zasadami IRS i, gdy ma zastosowanie, płaci odpowiednią dodatkową kwotę AMT.",
+    "Kwoty 2026 dotyczą tax year 2026, czyli zasadniczo zeznań składanych w 2027."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/newsroom/working-families-tax-cuts-individuals-and-workers",
+    "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill"
+  ],
+  "related_public_pages": []
+}
