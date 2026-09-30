@@ -1,0 +1,21 @@
+{
+  "id": "pinokio",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Pinokio — Carlo Collodi",
+  "facts": [
+    "Pinokio, autor: Carlo Collodi, jest dziełem silnie obecnym w polskiej kulturze szkolnej i dziecięcej.",
+    "Opowieść o drewnianym pajacyku Pinokiu, jego przygodach, błędach i dojrzewaniu; ważne motywy to prawdomówność, odpowiedzialność i przemiana.",
+    "Hanka powinna znać tytuł, autora, głównych bohaterów, podstawową fabułę i motywy; aktualny status programowy należy wiązać z konkretną wersją podstawy programowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-podstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
