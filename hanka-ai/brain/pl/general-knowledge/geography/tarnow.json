@@ -1,0 +1,21 @@
+{
+  "id": "tarnow",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Tarnów",
+  "facts": [
+    "Tarnów jest miastem w województwie małopolskim, położonym na wschód od Krakowa.",
+    "Ma zachowane historyczne centrum i tradycje sięgające średniowiecza.",
+    "14 czerwca 1940 r. z Tarnowa wyruszył pierwszy masowy transport polskich więźniów politycznych do niemieckiego obozu Auschwitz."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tarnow.pl/"
+  ],
+  "related_public_pages": []
+}
