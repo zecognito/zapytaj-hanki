@@ -1,0 +1,21 @@
+{
+  "id": "ma-pfml",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MA",
+  "topic": "employment",
+  "subtopic": "paid_family_medical_leave",
+  "title": "Paid Family and Medical Leave w Massachusetts",
+  "facts": [
+    "Massachusetts Paid Family and Medical Leave (PFML) zapewnia kwalifikującym się workers płatny leave w określonych sytuacjach rodzinnych i medycznych.",
+    "Program określa różne maksymalne okresy family leave, medical leave i łącznego leave oraz benefit zależny od earnings i statewide average weekly wage.",
+    "Niektórzy employers korzystają z approved private plans zamiast stanowego planu, jeśli spełniają wymagania programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mass.gov/info-details/paid-family-and-medical-leave-pfml-overview-and-benefits"
+  ],
+  "related_public_pages": []
+}
