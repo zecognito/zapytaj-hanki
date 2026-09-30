@@ -1,0 +1,21 @@
+{
+  "id": "carpathians-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "physical",
+  "title": "Karpaty w Polsce",
+  "facts": [
+    "Karpaty są rozległym systemem górskim Europy Środkowej i Wschodniej.",
+    "W Polsce obejmują m.in. Tatry, Beskidy, Pieniny i Bieszczady.",
+    "Tatry są najwyższą częścią Karpat i zawierają najwyższy punkt Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/a/karpaty/D16lyvS65"
+  ],
+  "related_public_pages": []
+}
