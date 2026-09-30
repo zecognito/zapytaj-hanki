@@ -1,0 +1,21 @@
+{
+  "id": "country-grenada",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Grenada",
+  "facts": [
+    "Grenada jest wyspiarskim państwem południowo-wschodnich Karaibów.",
+    "Stolicą jest St. George's, językiem urzędowym angielski, a walutą dolar wschodniokaraibski.",
+    "Grenada jest monarchią konstytucyjną, członkiem CARICOM i jest znana z produkcji gałki muszkatołowej oraz innych przypraw."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.gd/"
+  ],
+  "related_public_pages": []
+}
