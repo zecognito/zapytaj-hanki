@@ -1,0 +1,21 @@
+{
+  "id": "poland-population-data-rule",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "demographics",
+  "subtopic": "population",
+  "title": "Ludność Polski — jak podawać dane",
+  "facts": [
+    "Liczba ludności Polski zmienia się, dlatego Hanka powinna zawsze podawać datę lub rok statystyki.",
+    "Głównym źródłem bieżących oficjalnych danych demograficznych Polski jest Główny Urząd Statystyczny (GUS).",
+    "Danych o ludności według stanu na konkretny dzień nie należy mieszać z census/spisami ani szacunkami dotyczącymi Polonii za granicą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/"
+  ],
+  "related_public_pages": []
+}
