@@ -1,0 +1,21 @@
+{
+  "id": "sanah",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "modern-music",
+  "title": "sanah",
+  "facts": [
+    "sanah, właściwie Zuzanna Grabowska z domu Jurczak, jest polską wokalistką, autorką tekstów i kompozytorką.",
+    "Popularność zdobyła dzięki piosenkom łączącym współczesny pop z charakterystycznym językiem i melodyką.",
+    "W swojej twórczości sięgała także po teksty polskich poetów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sanah.pl/"
+  ],
+  "related_public_pages": []
+}
