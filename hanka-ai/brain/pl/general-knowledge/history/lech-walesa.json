@@ -1,0 +1,21 @@
+{
+  "id": "lech-walesa",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "people",
+  "title": "Lech Wałęsa",
+  "facts": [
+    "Lech Wałęsa był jednym z liderów strajków w Stoczni Gdańskiej i przewodniczącym Solidarności.",
+    "Otrzymał Nobel Peace Prize w 1983 r.",
+    "W latach 1990–1995 był prezydentem Rzeczypospolitej Polskiej; jego późniejsza działalność i część interpretacji jego biografii są przedmiotem sporów politycznych i historycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nobelprize.org/prizes/peace/1983/walesa/biographical/"
+  ],
+  "related_public_pages": []
+}
