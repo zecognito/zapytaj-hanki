@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-united-poles-sayreville-nj",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła Dokształcająca Zjednoczenia Polaków w Ameryce",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "221 MacArthur Ave",
+    "city": "Sayreville",
+    "state": "NJ",
+    "postal_code": "08872",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 732 642 7343",
+  "email": "annajekal@yahoo.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary school"
+  ],
+  "coverage_area": [
+    "NJ"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; verify enrollment details directly with the school."
+  ],
+  "official_source": "https://archiwum.orpeg.gov.pl/db/web/database/entry/8261",
+  "last_verified": "2026-09-30"
+}
