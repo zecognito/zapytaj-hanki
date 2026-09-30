@@ -1,0 +1,36 @@
+{
+  "id": "polonia-prof-doctor-uchicago-polish-american-transplant-center-il",
+  "country": "US",
+  "category": "doctor",
+  "name": "UChicago Medicine Polish-American Transplant Center",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "kidney transplant",
+    "liver transplant",
+    "pancreas and islet transplant",
+    "heart transplant",
+    "lung transplant",
+    "stem cell transplantation",
+    "Polish-language transplant coordination"
+  ],
+  "phone": "+1 773-702-5968",
+  "email": null,
+  "website": "https://www.uchicagomedicine.org/conditions-services/transplant/polish-american-transplant-center",
+  "official_source": "https://www.uchicagomedicine.org/conditions-services/transplant/polish-american-transplant-center",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "UChicago Medicine explicitly states this center serves Polish-speaking patients and families with a Polish-speaking expert team."
+  ]
+}
