@@ -1,0 +1,21 @@
+{
+  "id": "il-sales-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "taxes",
+  "subtopic": "sales_tax",
+  "title": "Illinois sales tax structure",
+  "facts": [
+    "Illinois sales tax paid by consumers is a combination of state and, where applicable, local taxes.",
+    "The general Illinois state rate on qualifying general merchandise is 6.25%, before applicable local additions.",
+    "Actual combined rates vary by location and by the type of item or transaction."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tax.illinois.gov/research/taxrates/sales.html"
+  ],
+  "related_public_pages": []
+}
