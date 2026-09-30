@@ -1,0 +1,21 @@
+{
+  "id": "placki-ziemniaczane",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Placki ziemniaczane",
+  "facts": [
+    "Placki ziemniaczane są smażonymi plackami przygotowywanymi głównie z tartych ziemniaków.",
+    "W Polsce podaje się je na wiele sposobów, m.in. ze śmietaną, cukrem, sosami lub jako część bardziej rozbudowanego dania.",
+    "Preferowane dodatki są silnie zależne od regionu i rodzinnego zwyczaju."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101"
+  ],
+  "related_public_pages": []
+}
