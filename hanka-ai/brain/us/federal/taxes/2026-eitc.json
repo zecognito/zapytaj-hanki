@@ -1,0 +1,24 @@
+{
+  "id": "us-federal-eitc-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "earned_income_tax_credit",
+  "title": "Earned Income Tax Credit (EITC) — rok podatkowy 2026",
+  "facts": [
+    "EITC jest federalnym credit dla kwalifikujących się osób z earned income; wysokość zależy m.in. od income, filing status i liczby qualifying children.",
+    "Dla tax year 2026 maksymalny EITC dla kwalifikującego się podatnika z co najmniej trojgiem qualifying children wynosi $8,231.",
+    "Do earned income dla EITC należą m.in. wages, salaries i tips oraz kwalifikujący się dochód z własnej działalności.",
+    "Dokładna kwalifikacja i kwota EITC zależą od limitów AGI/earned income, filing status, liczby qualifying children i innych wymogów IRS."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill",
+    "https://www.irs.gov/irb/2025-45_IRB",
+    "https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit/earned-income-and-earned-income-tax-credit-eitc-tables"
+  ],
+  "related_public_pages": []
+}
