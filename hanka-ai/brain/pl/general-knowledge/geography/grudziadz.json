@@ -1,0 +1,21 @@
+{
+  "id": "grudziadz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Grudziądz",
+  "facts": [
+    "Grudziądz leży nad Wisłą w województwie kujawsko-pomorskim.",
+    "Jednym z symboli miasta jest zespół historycznych spichlerzy nadwiślańskich.",
+    "Miasto ma długą historię wojskową i handlową związaną z położeniem nad Wisłą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://grudziadz.pl/"
+  ],
+  "related_public_pages": []
+}
