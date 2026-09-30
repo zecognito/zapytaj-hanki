@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-holy-cross-minneapolis-mn",
+  "country": "US",
+  "category": "church",
+  "name": "Holy Cross Catholic Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1621 University Ave NE",
+    "city": "Minneapolis",
+    "state": "MN",
+    "postal_code": "55413",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": "https://ourholycross.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "MN"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify current times on the official parish or diocesan source."
+  ],
+  "official_source": "https://www.archspm.org/location/holy-cross-catholic-church/",
+  "last_verified": "2026-09-30"
+}
