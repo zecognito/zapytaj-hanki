@@ -1,0 +1,21 @@
+{
+  "id": "polish-furniture-industry",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "industries",
+  "title": "Polski przemysł meblarski",
+  "facts": [
+    "Produkcja mebli jest ważną częścią polskiego przemysłu przetwórczego i eksportu.",
+    "Polskie zakłady produkują zarówno pod własnymi markami, jak i dla międzynarodowych sieci i odbiorców.",
+    "Aktualną wartość produkcji i eksportu należy sprawdzać w bieżących danych statystycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://stat.gov.pl/"
+  ],
+  "related_public_pages": []
+}
