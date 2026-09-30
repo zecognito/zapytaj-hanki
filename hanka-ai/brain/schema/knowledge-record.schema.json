@@ -4,20 +4,98 @@
   "title": "Hanka Brain Knowledge Record",
   "type": "object",
   "additionalProperties": false,
-  "required": ["id","country","jurisdiction","region","topic","subtopic","title","facts","effective_from","effective_to","last_verified","official_sources","related_public_pages"],
+  "required": [
+    "id",
+    "country",
+    "jurisdiction",
+    "region",
+    "topic",
+    "subtopic",
+    "title",
+    "facts",
+    "effective_from",
+    "effective_to",
+    "last_verified",
+    "official_sources",
+    "related_public_pages"
+  ],
   "properties": {
-    "id": {"type":"string","pattern":"^[a-z0-9][a-z0-9-]*$"},
-    "country": {"type":"string","minLength":2,"maxLength":2},
-    "jurisdiction": {"enum":["federal","state","local","general"]},
-    "region": {"type":["string","null"]},
-    "topic": {"type":"string","minLength":1},
-    "subtopic": {"type":"string","minLength":1},
-    "title": {"type":"string","minLength":1},
-    "facts": {"type":"array","minItems":1,"items":{"type":"string","minLength":1}},
-    "effective_from": {"type":["string","null"],"format":"date"},
-    "effective_to": {"type":["string","null"],"format":"date"},
-    "last_verified": {"type":"string","format":"date"},
-    "official_sources": {"type":"array","minItems":1,"items":{"type":"string","format":"uri"}},
-    "related_public_pages": {"type":"array","items":{"type":"string","format":"uri"}}
-  }
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$"
+    },
+    "country": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 2
+    },
+    "jurisdiction": {
+      "enum": [
+        "federal",
+        "state",
+        "local",
+        "general"
+      ]
+    },
+    "region": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "topic": {
+      "type": "string",
+      "minLength": 1
+    },
+    "subtopic": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "facts": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "effective_from": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "effective_to": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "last_verified": {
+      "type": "string",
+      "format": "date"
+    },
+    "official_sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    },
+    "related_public_pages": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    }
+  },
+  "description": "Canonical Hanka Brain factual record. Human-facing title and facts MUST be written in natural Polish. Stable machine fields such as id, topic and subtopic remain English identifiers. Preserve common U.S. terms in English where Polish users encounter them naturally (for example REAL ID, Medicaid, SNAP, escrow, 401(k), DMV). Official source URLs remain original."
 }
