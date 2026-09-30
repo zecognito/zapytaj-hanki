@@ -1,0 +1,21 @@
+{
+  "id": "ny-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NY",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w stanie Nowy Jork",
+  "facts": [
+    "Płaca minimalna w New York zależy od regionu i może różnić się między New York City, Long Island/Westchester oraz pozostałą częścią stanu.",
+    "Dla tipped workers i niektórych branż obowiązują dodatkowe zasady.",
+    "Przy ustalaniu aktualnej stawki należy użyć bieżących tabel New York State Department of Labor."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dol.ny.gov/minimum-wage-0"
+  ],
+  "related_public_pages": []
+}
