@@ -1,0 +1,21 @@
+{
+  "id": "polish-higher-education",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "higher_education",
+  "title": "Studia wyższe w Polsce",
+  "facts": [
+    "Polskie szkolnictwo wyższe obejmuje uczelnie publiczne i niepubliczne oraz studia pierwszego stopnia, drugiego stopnia i jednolite studia magisterskie w określonych kierunkach.",
+    "Stopnie i tytuły nie są prostym odpowiednikiem amerykańskich degree names w każdej sytuacji.",
+    "Polska uczestniczy w European Higher Education Area i systemie bolońskim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/nauka/szkolnictwo-wyzsze"
+  ],
+  "related_public_pages": []
+}
