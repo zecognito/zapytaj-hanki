@@ -1,0 +1,21 @@
+{
+  "id": "poland-president-role",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "institutions",
+  "title": "Prezydent RP — rola",
+  "facts": [
+    "Prezydent Rzeczypospolitej Polskiej jest głową państwa.",
+    "Konstytucja określa Prezydenta jako najwyższego przedstawiciela Rzeczypospolitej i gwaranta ciągłości władzy państwowej.",
+    "Kompetencje Prezydenta są konstytucyjnie odrębne od roli Rady Ministrów i Prezesa Rady Ministrów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sejm.gov.pl/prawo/konst/polski/5.htm"
+  ],
+  "related_public_pages": []
+}
