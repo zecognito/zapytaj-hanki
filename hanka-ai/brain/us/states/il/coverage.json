@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "state": "Illinois",
+  "last_verified": "2026-09-30",
+  "status": "started",
+  "description": "Reference coverage map for canonical Illinois state-level Hanka Brain knowledge. State records capture material Illinois deltas from federal rules and practical state administration.",
+  "topics": {
+    "taxes": {
+      "status": "started",
+      "completed": [
+        "income_tax_rate"
+      ],
+      "planned": [
+        "sales_tax",
+        "property_tax",
+        "retirement_income",
+        "tax_deadlines",
+        "credits"
+      ]
+    },
+    "employment": {
+      "status": "started",
+      "completed": [
+        "minimum_wage",
+        "paid_leave",
+        "meal_breaks",
+        "sick_leave",
+        "nicu_leave"
+      ],
+      "planned": [
+        "overtime_state_rules",
+        "wage_payment",
+        "final_paycheck",
+        "child_labor",
+        "equal_pay",
+        "one_day_rest"
+      ]
+    },
+    "unemployment": {
+      "status": "started",
+      "completed": [
+        "basic_eligibility",
+        "payment_methods"
+      ],
+      "planned": [
+        "weekly_benefit_amount",
+        "partial_unemployment",
+        "appeals",
+        "work_search"
+      ]
+    },
+    "documents": {
+      "status": "started",
+      "completed": [
+        "real_id",
+        "new_resident_license"
+      ],
+      "planned": [
+        "standard_id",
+        "visa_nonvisa_license",
+        "name_change",
+        "license_renewal"
+      ]
+    },
+    "vehicles": {
+      "status": "started",
+      "completed": [
+        "liability_insurance",
+        "new_resident_registration"
+      ],
+      "planned": [
+        "emissions",
+        "title_transfer",
+        "sales_tax",
+        "license_plates",
+        "teen_drivers"
+      ]
+    },
+    "health_benefits": {
+      "status": "planned",
+      "completed": [],
+      "planned": [
+        "medicaid",
+        "all_kids",
+        "snap_state_admin",
+        "liheap",
+        "marketplace"
+      ]
+    },
+    "housing": {
+      "status": "planned",
+      "completed": [],
+      "planned": [
+        "security_deposits",
+        "eviction",
+        "renters_rights",
+        "fair_housing",
+        "property_tax_relief"
+      ]
+    },
+    "family": {
+      "status": "planned",
+      "completed": [],
+      "planned": [
+        "child_support",
+        "divorce_basics",
+        "parental_rights",
+        "domestic_violence",
+        "child_care_assistance"
+      ]
+    }
+  }
+}
