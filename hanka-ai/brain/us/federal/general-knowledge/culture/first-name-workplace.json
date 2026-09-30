@@ -1,0 +1,21 @@
+{
+  "id": "first-name-workplace",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "social_conventions",
+  "title": "Imiona w amerykańskim miejscu pracy",
+  "facts": [
+    "W wielu amerykańskich miejscach pracy szybkie przechodzenie na first names jest powszechne, również między osobami o różnym seniority.",
+    "W bardziej formalnych środowiskach mogą być używane titles i nazwiska.",
+    "Najbezpieczniej obserwować sposób przedstawienia się danej osoby i normy konkretnej organizacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://americanenglish.state.gov/resources/everyday-conversations-learning-american-english"
+  ],
+  "related_public_pages": []
+}
