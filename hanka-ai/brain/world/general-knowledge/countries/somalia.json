@@ -1,0 +1,21 @@
+{
+  "id": "country-somalia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Somalia",
+  "facts": [
+    "Somalia leży w Rogu Afryki i posiada najdłuższą linię brzegową kontynentalnej Afryki.",
+    "Stolicą jest Mogadiszu; somalijski i arabski są językami urzędowymi federacji, a walutą jest szyling somalijski.",
+    "Somalia jest republiką federalną i od dziesięcioleci mierzy się z niestabilnością, konfliktem oraz działalnością ugrupowań zbrojnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.somalia.gov.so/"
+  ],
+  "related_public_pages": []
+}
