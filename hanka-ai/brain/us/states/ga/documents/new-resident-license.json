@@ -1,0 +1,21 @@
+{
+  "id": "ga-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "GA",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Georgii",
+  "facts": [
+    "Nowy mieszkaniec Georgia posiadający out-of-state driver license musi uzyskać Georgia driver license zgodnie z wymaganiami DDS.",
+    "Proces wymaga odpowiednich identity, lawful status, Social Security i Georgia residency documents.",
+    "Driver license transfer jest odrębny od Georgia title/registration pojazdu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dds.georgia.gov/georgia-licenseid/new-licenseid/how-do-i-transfer-license"
+  ],
+  "related_public_pages": []
+}
