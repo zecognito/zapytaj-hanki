@@ -1,0 +1,21 @@
+{
+  "id": "makbet-extended-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Makbet — konteksty interpretacyjne — William Shakespeare",
+  "facts": [
+    "Makbet — konteksty interpretacyjne; autor: William Shakespeare; szkolny kontekst literatury: renesans europejski.",
+    "W analizie „Makbeta” ważne są ambicja, pokusa władzy, zbrodnia, wyrzuty sumienia, przepowiednia oraz pytanie o wolną wolę.",
+    "Rekord wspiera rozpoznawanie tytułu, autora, epoki i typowych zagadnień omawianych na języku polskim."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
