@@ -1,0 +1,21 @@
+{
+  "id": "1788-great-sejm",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1788 — początek Sejmu Wielkiego",
+  "facts": [
+    "W 1788 r. rozpoczął obrady Sejm Wielki, zwany też Sejmem Czteroletnim.",
+    "Obrady trwały do 1792 r. i doprowadziły do szerokiego programu reform państwa.",
+    "Najbardziej znanym rezultatem prac sejmu była Konstytucja 3 maja 1791 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
