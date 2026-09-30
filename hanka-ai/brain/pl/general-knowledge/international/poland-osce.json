@@ -1,0 +1,21 @@
+{
+  "id": "poland-osce",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "international",
+  "subtopic": "organizations",
+  "title": "Polska w OBWE",
+  "facts": [
+    "Polska jest państwem uczestniczącym Organizacji Bezpieczeństwa i Współpracy w Europie i brała udział w procesie KBWE od jego początków.",
+    "Polska była jednym z 35 sygnatariuszy Aktu końcowego z Helsinek z 1975 roku.",
+    "W Warszawie ma siedzibę Biuro Instytucji Demokratycznych i Praw Człowieka OBWE (ODIHR). Polska sprawowała przewodnictwo OBWE m.in. w 2022 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.osce.org/country/poland"
+  ],
+  "related_public_pages": []
+}
