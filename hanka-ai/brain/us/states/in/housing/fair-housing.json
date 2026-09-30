@@ -1,0 +1,21 @@
+{
+  "id": "in-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IN",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową w Indianie",
+  "facts": [
+    "Indiana Fair Housing Act zabrania dyskryminacji mieszkaniowej w sytuacjach objętych prawem stanowym.",
+    "Federalny Fair Housing Act zapewnia równoległą ochronę przed określonymi formami dyskryminacji.",
+    "Indiana Civil Rights Commission przyjmuje i bada kwalifikujące się skargi dotyczące housing discrimination."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.in.gov/icrc/filing-a-charge/housing/"
+  ],
+  "related_public_pages": []
+}
