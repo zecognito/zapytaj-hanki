@@ -1,0 +1,21 @@
+{
+  "id": "zamenhof-esperanto",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Ludwik Zamenhof i esperanto",
+  "facts": [
+    "Ludwik Zamenhof urodził się w Białymstoku w 1859 r., wówczas w Imperium Rosyjskim, i był lekarzem oraz twórcą języka esperanto.",
+    "Pierwszy podręcznik języka międzynarodowego opublikował w 1887 r. pod pseudonimem Doktoro Esperanto.",
+    "Jego wielojęzyczne środowisko rodzinnego Białegostoku miało znaczenie dla idei stworzenia języka ułatwiającego komunikację między ludźmi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/ludwik-zamenhof"
+  ],
+  "related_public_pages": []
+}
