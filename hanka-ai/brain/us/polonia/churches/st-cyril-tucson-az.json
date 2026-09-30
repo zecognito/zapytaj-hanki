@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-cyril-tucson-az",
+  "country": "US",
+  "category": "church",
+  "name": "St. Cyril of Alexandria Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "4725 E Pima St",
+    "city": "Tucson",
+    "state": "AZ",
+    "postal_code": "85712",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 520 795 1633",
+  "email": null,
+  "website": "https://stcyrilchurch-tucson.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "AZ"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify current times on the official parish or diocesan source."
+  ],
+  "official_source": "https://stcyrilchurch-tucson.org/",
+  "last_verified": "2026-09-30"
+}
