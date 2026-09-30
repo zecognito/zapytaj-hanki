@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-lifeline-phone-internet",
+  "subtopic": "utilities_household",
+  "title": "Lifeline — pomoc z telefonem lub internetem",
+  "facts": [
+    "Lifeline jest federalnym programem FCC obniżającym koszt kwalifikującej się usługi phone lub broadband dla gospodarstw domowych o niskich dochodach.",
+    "Standardowe wsparcie Lifeline wynosi do 9.25 USD miesięcznie dla kwalifikującej się usługi, a wyższe wsparcie może dotyczyć osób mieszkających na qualifying Tribal lands.",
+    "Kwalifikacja może wynikać z dochodu lub uczestnictwa w określonych federalnych programach pomocowych.",
+    "Lifeline zasadniczo ogranicza się do jednego benefit na household, a nie jednego na każdą osobę."
+  ],
+  "official_sources": [
+    "https://www.fcc.gov/lifeline-consumers",
+    "https://www.lifelinesupport.org/get-started/"
+  ]
+}
