@@ -1,0 +1,21 @@
+{
+  "id": "wolinski-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national_parks",
+  "title": "Woliński Park Narodowy",
+  "facts": [
+    "Woliński Park Narodowy znajduje się na wyspie Wolin nad Morzem Bałtyckim.",
+    "Chroni m.in. klifowe wybrzeże, lasy, deltę Świny i siedliska ptaków.",
+    "Park prowadzi także zagrodę pokazową żubrów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://wopn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
