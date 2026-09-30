@@ -1,0 +1,21 @@
+{
+  "id": "zielona-gora-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Zielona Góra — podstawy",
+  "facts": [
+    "Zielona Góra jest jednym z dwóch głównych ośrodków administracyjnych województwa lubuskiego.",
+    "Jest siedzibą władz samorządowych województwa, podczas gdy wojewoda ma siedzibę w Gorzowie Wielkopolskim.",
+    "Miasto i okolice mają tradycje winiarskie, nietypowe w skali Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.zielona-gora.pl/"
+  ],
+  "related_public_pages": []
+}
