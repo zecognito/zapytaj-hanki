@@ -1,0 +1,21 @@
+{
+  "id": "blik-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "payments",
+  "title": "BLIK",
+  "facts": [
+    "BLIK jest polskim systemem płatności mobilnych umożliwiającym m.in. płatności w sklepach i internecie oraz inne operacje obsługiwane przez uczestniczące banki.",
+    "System wykorzystuje aplikacje bankowe, a jedną z jego charakterystycznych metod autoryzacji są jednorazowe sześciocyfrowe kody.",
+    "Dostępne funkcje zależą od banku i aktualnej wersji systemu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.blik.com/"
+  ],
+  "related_public_pages": []
+}
