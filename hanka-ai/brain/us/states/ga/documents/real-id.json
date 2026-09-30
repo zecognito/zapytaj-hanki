@@ -1,0 +1,21 @@
+{
+  "id": "ga-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "GA",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Georgii",
+  "facts": [
+    "Georgia driver licenses i ID cards wydawane zgodnie z federalnym REAL ID są oznaczone odpowiednim symbolem.",
+    "Georgia DDS wymaga dokumentów potwierdzających identity, lawful status, Social Security number i Georgia residency zgodnie z rodzajem credential.",
+    "Do objętych zastosowań federalnych można użyć REAL ID lub innego dokumentu akceptowanego przez federalne przepisy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dds.georgia.gov/georgia-licenseid/general-license-topics/real-id"
+  ],
+  "related_public_pages": []
+}
