@@ -1,0 +1,21 @@
+{
+  "id": "mizeria",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Mizeria",
+  "facts": [
+    "Mizeria jest polską sałatką z cienko krojonych ogórków, tradycyjnie łączonych ze śmietaną lub innym kwaśnym nabiałem oraz przyprawami.",
+    "Jest częstym dodatkiem do dań obiadowych, szczególnie latem.",
+    "Przepisy rodzinne różnią się m.in. użyciem koperku, cebuli, cukru, octu lub soku z cytryny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101"
+  ],
+  "related_public_pages": []
+}
