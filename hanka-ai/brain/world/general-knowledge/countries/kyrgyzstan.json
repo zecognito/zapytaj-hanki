@@ -1,0 +1,21 @@
+{
+  "id": "country-kyrgyzstan",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Kirgistan",
+  "facts": [
+    "Kirgistan jest górzystym śródlądowym państwem Azji Centralnej, a jego stolicą jest Biszkek.",
+    "Kirgijski jest językiem państwowym, rosyjski ma status języka urzędowego, a walutą jest som.",
+    "Znaczną część kraju zajmują góry Tienszan, a jezioro Issyk-kul jest jednym z jego najważniejszych elementów geograficznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.kg/"
+  ],
+  "related_public_pages": []
+}
