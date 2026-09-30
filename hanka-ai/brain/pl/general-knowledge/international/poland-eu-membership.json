@@ -1,0 +1,21 @@
+{
+  "id": "poland-eu-membership",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "international",
+  "subtopic": "europe",
+  "title": "Polska w Unii Europejskiej",
+  "facts": [
+    "Polska jest członkiem Unii Europejskiej od 1 maja 2004 r.",
+    "Członkostwo w UE nie oznacza, że Polska przestała być suwerennym państwem; kompetencje są wykonywane zgodnie z traktatami UE i prawem krajowym.",
+    "Polska nie przyjęła euro i używa złotego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://european-union.europa.eu/principles-countries-history/country-profiles/poland_en"
+  ],
+  "related_public_pages": []
+}
