@@ -1,0 +1,21 @@
+{
+  "id": "centralny-port-komunikacyjny",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "infrastructure",
+  "title": "Centralny Port Komunikacyjny — CPK",
+  "facts": [
+    "CPK jest państwowym projektem infrastrukturalnym obejmującym rozwój nowego węzła lotniczego oraz powiązanej infrastruktury kolejowej i drogowej.",
+    "Zakres, harmonogram, koszty i rozwiązania projektu zmieniały się w czasie.",
+    "Przy pytaniach o aktualny stan CPK Hanka powinna korzystać z bieżących oficjalnych informacji, a nie traktować planowanych elementów jako już istniejących."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cpk.pl/"
+  ],
+  "related_public_pages": []
+}
