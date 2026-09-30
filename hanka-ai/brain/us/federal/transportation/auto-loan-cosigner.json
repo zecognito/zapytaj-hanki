@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-cars-auto-loan-cosigner",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "cars_transportation",
+  "subtopic": "auto_finance",
+  "title": "Auto loan cosigner - responsibility",
+  "facts": [
+    "A cosigner on an auto loan generally becomes legally responsible for the debt if the primary borrower does not pay according to the contract.",
+    "Late payments and defaults can affect a cosigner's credit as well as the primary borrower's credit when reported.",
+    "Cosigning does not necessarily give the cosigner ownership rights in the vehicle; title ownership and loan liability are separate legal concepts.",
+    "Federal rules require specified cosigner notices in covered consumer credit transactions."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/cosigning-loan-faqs"
+  ],
+  "related_public_pages": []
+}
