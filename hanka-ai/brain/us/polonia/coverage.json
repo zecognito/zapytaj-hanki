@@ -44,13 +44,13 @@
     },
     "businesses": {
       "status": "professionals_in_progress",
-      "records": 203,
+      "records": 222,
       "notes": [
         "Food/retail first-pass audit closed at 167 records; machine schema validation remains mandatory before ingestion.",
-        "Professional-services layer now contains 36 records; total commercial/professional directory is 203. Coverage includes Polish-capable law, dentistry, medical care, tax/accounting, insurance, real estate, auto repair and funeral services.",
-        "Latest batch added 18 verified records: DentalMax, Deerfield Dental Care, Beata deVirion DDS, Portage Park Dental, True Tax & Pro Accounting, Best Financial Group, U.S. Tax and Financial Services Group, Choice International Agency, Konikowski Insurance Agency, Goldstein Ballen O'Rourke & Wildstein, Arkadia Auto Repair, A&A Complete Automotive, two Garage For You locations, two Sierra Tire locations, Wolniak Funeral Home, and Bacon Funeral Home.",
-        "Language rule remains strict: Polish is stored only with explicit current source evidence. Separate physical locations are separate records where useful for near-me retrieval. Clinic/business-level language claims are not imputed to every individual professional.",
-        "Continue filling Chicagoland + NY/NJ professional gaps, especially doctors, accountants, real estate, funeral homes and Polish-community financial institutions; then expand nationally. Vectorize ingestion remains blocked until professional coverage and schema/status-aware ingestion are mature."
+        "Professional/community-service expansion now brings the commercial/professional directory to 222 records. Latest pass added 7 Polish-capable Chicagoland services (real estate, law, rehabilitation/behavioral health, insurance) plus 12 individually geocodable PSFCU branches in IL/NY/NJ.",
+        "PSFCU branches are stored separately because the institution was founded to serve Polish/Slavic immigrant communities and physical branch granularity is important for future near-me retrieval. Current official PSFCU sources confirm its Polish-community mission and branch network.",
+        "Language evidence remains strict for ordinary professionals. For PSFCU, Polish-community relevance is institutional and directly documented; the records do not claim every branch employee individually speaks Polish.",
+        "Continue remaining PSFCU branch coverage and professional gaps, then expand professionals nationally. Vectorize ingestion remains blocked until professional coverage and schema/status-aware ingestion are mature."
       ]
     },
     "media_culture": {
