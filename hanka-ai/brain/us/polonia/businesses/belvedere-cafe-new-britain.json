@@ -1,0 +1,37 @@
+{
+  "id": "polonia-business-belvedere-cafe-new-britain",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Belvedere Cafe & Restaurant",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "82 Broad St",
+    "city": "New Britain",
+    "state": "CT",
+    "postal_code": "06053",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 860-826-1155",
+  "email": null,
+  "website": "https://www.belvederenewbritain.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European cuisine",
+    "dine-in",
+    "catering/private events"
+  ],
+  "coverage_area": [
+    "New Britain",
+    "CT"
+  ],
+  "notes": [
+    "Current Polish-food identity and location supported directly by the business website; commercial details remain freshness-sensitive."
+  ],
+  "official_source": "https://www.belvederenewbritain.com/home",
+  "last_verified": "2026-09-30"
+}
