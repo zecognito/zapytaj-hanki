@@ -1,0 +1,21 @@
+{
+  "id": "bar-confederation",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions",
+  "title": "Konfederacja barska",
+  "facts": [
+    "Konfederacja barska została zawiązana w 1768 r. przez część szlachty przeciw rosyjskim wpływom i królowi Stanisławowi Augustowi Poniatowskiemu.",
+    "Walki trwały do 1772 r. i miały charakter wojny domowej oraz konfliktu z rosyjską interwencją.",
+    "Jej znaczenie i interpretacja historyczna są złożone; nie należy redukować jej do jednego współczesnego hasła politycznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
