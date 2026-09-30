@@ -1,0 +1,21 @@
+{
+  "id": "soviet-invasion-september17",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world_war_ii",
+  "title": "17 września 1939 — agresja ZSRR",
+  "facts": [
+    "17 września 1939 r. Armia Czerwona wkroczyła na terytorium Polski od wschodu, gdy Polska walczyła już z niemiecką inwazją.",
+    "Agresja była związana z ustaleniami niemiecko-sowieckiego paktu Ribbentrop–Mołotow i jego tajnego protokołu.",
+    "Okupacja sowiecka przyniosła represje, deportacje i zmiany terytorialne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
