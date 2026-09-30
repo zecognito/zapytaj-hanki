@@ -1,0 +1,21 @@
+{
+  "id": "polish-academy-of-sciences",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "institutions",
+  "title": "Polska Akademia Nauk",
+  "facts": [
+    "Polska Akademia Nauk jest państwową instytucją naukową działającą poprzez korporację uczonych oraz sieć jednostek naukowych.",
+    "PAN prowadzi i wspiera badania, upowszechnia wyniki nauki oraz pełni funkcje eksperckie i opiniodawcze.",
+    "Akademia została utworzona w 1952 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}
