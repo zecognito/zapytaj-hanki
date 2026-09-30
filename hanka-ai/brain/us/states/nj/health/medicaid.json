@@ -1,0 +1,21 @@
+{
+  "id": "nj-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NJ",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "NJ FamilyCare / Medicaid w New Jersey",
+  "facts": [
+    "NJ FamilyCare jest publicznym programem health coverage w New Jersey obejmującym Medicaid i CHIP dla kwalifikujących się mieszkańców.",
+    "Program obejmuje m.in. kwalifikujące się dzieci, rodziców, dorosłych i osoby w innych grupach eligibility.",
+    "Limity dochodowe i zasady zależą od kategorii wnioskodawcy i mogą się zmieniać."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.njfamilycare.org/"
+  ],
+  "related_public_pages": []
+}
