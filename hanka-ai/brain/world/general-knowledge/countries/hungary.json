@@ -1,0 +1,21 @@
+{
+  "id": "country-hungary",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Węgry",
+  "facts": [
+    "Węgry są śródlądowym państwem Europy Środkowej, a ich stolicą jest Budapeszt.",
+    "Językiem urzędowym jest węgierski, a walutą forint.",
+    "Węgry są republiką parlamentarną oraz członkiem UE i NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://2015-2019.kormany.hu/en/doc/the-hungarian-state"
+  ],
+  "related_public_pages": []
+}
