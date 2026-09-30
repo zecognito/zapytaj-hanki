@@ -1,0 +1,21 @@
+{
+  "id": "hot-dog-us",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Hot dog w kulturze USA",
+  "facts": [
+    "Hot dog to kiełbaska podawana zwykle w podłużnej bułce i jest popularnym amerykańskim stadium, picnic i street food.",
+    "Toppings różnią się regionalnie; Chicago-style hot dog jest jednym z rozpoznawalnych lokalnych wariantów.",
+    "Hot dog ma korzenie w europejskich tradycjach sausage, które zostały rozwinięte w amerykańskiej kulturze imigracyjnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://americanhistory.si.edu/collections/search/object/nmah_1451747"
+  ],
+  "related_public_pages": []
+}
