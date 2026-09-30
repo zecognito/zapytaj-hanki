@@ -1,0 +1,21 @@
+{
+  "id": "twelve-dishes-wigilia",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "everyday-life",
+  "title": "Dwanaście potraw wigilijnych",
+  "facts": [
+    "Popularna polska tradycja mówi o dwunastu potrawach podawanych podczas wieczerzy wigilijnej.",
+    "Zestaw potraw różni się regionalnie i rodzinnie; mogą pojawiać się m.in. barszcz, zupa grzybowa, ryby, pierogi, kapusta i potrawy z makiem.",
+    "Liczba dwanaście jest tradycją kulturową, a nie wymogiem państwowym ani jednolitą praktyką wszystkich rodzin."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
