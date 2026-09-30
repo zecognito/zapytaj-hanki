@@ -1,0 +1,21 @@
+{
+  "id": "oh-homestead-exemption",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OH",
+  "topic": "housing",
+  "subtopic": "property_tax_relief",
+  "title": "Homestead Exemption w Ohio",
+  "facts": [
+    "Ohio Homestead Exemption może zmniejszyć taxable value principal residence dla kwalifikujących się homeowners.",
+    "Program obejmuje określone grupy, w tym kwalifikujących się seniorów i osoby permanently and totally disabled, zgodnie z aktualnymi wymaganiami.",
+    "Application jest administrowana lokalnie przez county auditor zgodnie z zasadami Ohio."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tax.ohio.gov/help-center/faqs/real-property-tax-homestead-means-testing/real-property-tax-homestead-means-testing"
+  ],
+  "related_public_pages": []
+}
