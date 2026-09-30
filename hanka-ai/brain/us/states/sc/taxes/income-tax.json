@@ -1,0 +1,21 @@
+{
+  "id": "sc-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "SC",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Karolinie Południowej",
+  "facts": [
+    "South Carolina pobiera individual income tax od osób fizycznych.",
+    "Od tax year 2026 stan stosuje uproszczoną strukturę dwóch stawek podatku dochodowego; szczegóły zależą od South Carolina taxable income.",
+    "Part-year residents i nonresidents mają odrębne zasady przypisywania dochodu do South Carolina."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dor.sc.gov/iit"
+  ],
+  "related_public_pages": []
+}
