@@ -5,11 +5,11 @@
   "region": "IL",
   "topic": "health",
   "subtopic": "medicaid",
-  "title": "Illinois Medicaid adult coverage",
+  "title": "Medicaid dla dorosłych w Illinois",
   "facts": [
-    "Illinois Medicaid provides health coverage to eligible low-income residents through programs administered by HFS and DHS.",
-    "Illinois covers ACA expansion adults ages 19-64 who meet applicable income and eligibility rules.",
-    "Applications for Medicaid and other Illinois benefits can be made through ABE, the state's Application for Benefits Eligibility system."
+    "Illinois Medicaid zapewnia ubezpieczenie zdrowotne kwalifikującym się mieszkańcom o niskich dochodach poprzez programy administrowane przez HFS i DHS.",
+    "Illinois obejmuje Medicaidem dorosłych w wieku 19–64 lat w ramach rozszerzenia ACA, jeśli spełniają odpowiednie kryteria.",
+    "Wniosek o Medicaid i inne świadczenia w Illinois można składać przez ABE — system Application for Benefits Eligibility."
   ],
   "effective_from": null,
   "effective_to": null,
