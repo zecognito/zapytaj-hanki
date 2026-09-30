@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-our-lady-czestochowa-phoenix-az",
+  "country": "US",
+  "category": "church",
+  "name": "Our Lady of Czestochowa Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2828 W Country Gables Dr",
+    "city": "Phoenix",
+    "state": "AZ",
+    "postal_code": "85053",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 602 212 1172",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "AZ"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify current times on the official parish or diocesan source."
+  ],
+  "official_source": "https://dphx.org/parishes/",
+  "last_verified": "2026-09-30"
+}
