@@ -1,0 +1,25 @@
+{
+  "id": "us-federal-tax-filing-deadline-extension-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "taxes",
+  "subtopic": "deadlines",
+  "title": "Federal tax filing deadline i extension — filing season 2026",
+  "facts": [
+    "Dla większości calendar-year individual filers termin złożenia federalnego zeznania za tax year 2025 oraz zapłaty należnego podatku przypada 15 kwietnia 2026.",
+    "Terminowe złożenie Form 4868 daje automatyczne przedłużenie czasu na złożenie individual income tax return do 15 października 2026.",
+    "Extension przedłuża czas na złożenie zeznania, ale nie przedłuża terminu zapłaty podatku; podatek należny za 2025 trzeba zasadniczo zapłacić do 15 kwietnia 2026, aby ograniczyć penalties i interest.",
+    "Jeżeli zwykły termin przypada w sobotę, niedzielę lub legal holiday, termin przesuwa się na następny business day.",
+    "Specjalne zasady mogą dawać dodatkowy czas m.in. niektórym osobom przebywającym poza USA, członkom wojska w combat zone oraz podatnikom dotkniętym kwalifikującymi się katastrofami."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-29",
+  "official_sources": [
+    "https://www.irs.gov/filing/individuals/when-to-file",
+    "https://www.irs.gov/individual-tax-filing",
+    "https://www.irs.gov/newsroom/need-more-time-to-file-dont-wait-request-an-extension"
+  ],
+  "related_public_pages": []
+}
