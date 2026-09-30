@@ -1,0 +1,21 @@
+{
+  "id": "coupon-promo-code",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday",
+  "subtopic": "shopping",
+  "title": "Coupon i promo code",
+  "facts": [
+    "Coupon daje określoną zniżkę zgodnie z warunkami sprzedawcy lub producenta.",
+    "Promo code jest kodem używanym zwykle przy zakupie online lub w aplikacji do zastosowania promocji.",
+    "Daty ważności, wyłączenia i możliwość łączenia promocji zależą od warunków oferty."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://consumer.ftc.gov/consumer-alerts"
+  ],
+  "related_public_pages": []
+}
