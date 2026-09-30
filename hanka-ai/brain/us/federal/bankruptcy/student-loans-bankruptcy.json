@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-bankruptcy-student-loans",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "bankruptcy_debt_relief",
+  "subtopic": "student_loans",
+  "title": "Student loans in bankruptcy - basics",
+  "facts": [
+    "Student loans covered by Bankruptcy Code section 523(a)(8) are generally not discharged in bankruptcy unless the debtor obtains a court determination that repayment would impose undue hardship.",
+    "A debtor seeking an undue-hardship discharge generally must bring an adversary proceeding in the bankruptcy case.",
+    "Federal guidance provides a standardized Justice Department and Education Department process for evaluating undue-hardship cases involving federal student loans, but the bankruptcy court makes the legal determination.",
+    "Bankruptcy therefore should not be described as automatically erasing federal student loan debt."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.justice.gov/ust/student-loan-guidance",
+    "https://studentaid.gov/manage-loans/forgiveness-cancellation/bankruptcy"
+  ],
+  "related_public_pages": []
+}
