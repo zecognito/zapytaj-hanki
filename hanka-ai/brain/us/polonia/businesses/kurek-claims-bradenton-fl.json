@@ -1,0 +1,34 @@
+{
+  "id": "polonia-prof-insurance-kurek-claims-bradenton-fl",
+  "country": "US",
+  "category": "insurance",
+  "name": "Kurek Claims LLC",
+  "status": "active",
+  "location": {
+    "address": "6904 Manatee Ave W, Apt 10C",
+    "city": "Bradenton",
+    "state": "FL",
+    "postal_code": "34209",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es"
+  ],
+  "services": [
+    "public insurance adjusting",
+    "property insurance claims",
+    "damage documentation",
+    "claim negotiation"
+  ],
+  "phone": "+1 331-701-9922",
+  "email": "bartosz@kurekclaims.com",
+  "website": "https://www.kurekclaims.com/",
+  "official_source": "https://www.kurekclaims.com/why-choose-us",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official company site explicitly states Mówimy po polsku and identifies a licensed public adjuster serving Florida policyholders. This is a public-adjusting firm, not an insurance carrier or insurer's agent."
+  ]
+}
