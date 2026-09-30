@@ -1,0 +1,21 @@
+{
+  "id": "zakopane-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Zakopane",
+  "facts": [
+    "Zakopane leży u podnóża Tatr w województwie małopolskim.",
+    "Jest jednym z najbardziej znanych polskich ośrodków turystyki górskiej i sportów zimowych.",
+    "Kultura Zakopanego jest silnie związana z tradycjami Podhala, ale miasto jest współczesnym ośrodkiem turystycznym, a nie synonimem całej kultury góralskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.zakopane.pl/"
+  ],
+  "related_public_pages": []
+}
