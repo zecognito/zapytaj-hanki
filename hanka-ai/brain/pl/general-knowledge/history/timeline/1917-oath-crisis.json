@@ -1,0 +1,22 @@
+{
+  "id": "1917-oath-crisis",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1917 — kryzys przysięgowy",
+  "facts": [
+    "W 1917 r. doszło do kryzysu przysięgowego wokół żądania złożenia przysięgi wierności sojuszowi z Niemcami i Austro-Węgrami.",
+    "Józef Piłsudski sprzeciwił się przysiędze, a część legionistów odmówiła jej złożenia.",
+    "Piłsudski został aresztowany i osadzony w Magdeburgu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
