@@ -1,0 +1,22 @@
+{
+  "id": "1990-may27-local-elections",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "27 maja 1990 — pierwsze wolne wybory samorządowe",
+  "facts": [
+    "27 maja 1990 r. przeprowadzono pierwsze po upadku komunizmu w pełni wolne wybory do rad gmin.",
+    "Reforma samorządowa przywróciła gminom samodzielność i wybrane demokratycznie władze lokalne.",
+    "Data jest ważnym etapem decentralizacji państwa po 1989 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.senat.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
