@@ -1,0 +1,21 @@
+{
+  "id": "sanepid",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "everyday-government",
+  "title": "Sanepid — Państwowa Inspekcja Sanitarna",
+  "facts": [
+    "Potoczna nazwa „Sanepid” odnosi się do Państwowej Inspekcji Sanitarnej.",
+    "Inspekcja zajmuje się ochroną zdrowia publicznego poprzez nadzór sanitarny i działania przeciwepidemiczne.",
+    "Jej struktura obejmuje Główny Inspektorat Sanitarny oraz stacje sanitarno-epidemiologiczne różnych szczebli."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gis"
+  ],
+  "related_public_pages": []
+}
