@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-benefits-wic-income-guidelines-2026-2027",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "benefits",
+  "subtopic": "wic_federal_rules",
+  "title": "WIC income guidelines - 2026-2027",
+  "facts": [
+    "WIC income eligibility guidelines are generally set at 185% of the federal poverty income guidelines, subject to program rules and adjunctive eligibility.",
+    "The federal WIC income guideline table is updated annually, so dollar thresholds should be treated as time-sensitive.",
+    "State agencies may implement the federal guidelines within WIC rules and determine household income using program definitions."
+  ],
+  "effective_from": "2026-07-01",
+  "effective_to": "2027-06-30",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fns.usda.gov/wic/income-eligibility-guidelines"
+  ],
+  "related_public_pages": []
+}
