@@ -1,0 +1,21 @@
+{
+  "id": "nv-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NV",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Nevadzie",
+  "facts": [
+    "Nevada nie nakłada stanowego individual income tax na wages, salaries ani podobny osobisty dochód.",
+    "Brak Nevada individual income tax nie oznacza braku innych podatków stanowych i lokalnych, takich jak sales tax lub property tax.",
+    "Federalny income tax nadal obowiązuje zgodnie z prawem federalnym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada/"
+  ],
+  "related_public_pages": []
+}
