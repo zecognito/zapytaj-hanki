@@ -1,0 +1,22 @@
+{
+  "id": "1919-versailles-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1919 — traktat wersalski i Polska",
+  "facts": [
+    "28 czerwca 1919 r. przedstawiciele Polski Ignacy Jan Paderewski i Roman Dmowski podpisali traktat wersalski.",
+    "Traktat uznał Polskę w powojennym porządku europejskim i regulował część jej zachodnich granic.",
+    "Nie rozstrzygnął wszystkich sporów terytorialnych odrodzonego państwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
