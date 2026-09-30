@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-travel-currency-reporting",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "travel_border",
+  "subtopic": "customs",
+  "title": "Traveling with more than $10,000 in currency",
+  "facts": [
+    "There is no general federal prohibition on carrying more than $10,000 in currency or monetary instruments into or out of the United States.",
+    "A traveler transporting, mailing or shipping more than $10,000 in covered currency or monetary instruments into or out of the United States generally must file the required FinCEN/CBP report.",
+    "The reporting threshold concerns disclosure, not an automatic tax or confiscation simply because the amount exceeds $10,000.",
+    "Structuring or concealing funds to evade reporting requirements can create serious legal problems."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cbp.gov/travel/international-visitors/money-monetary-instruments"
+  ],
+  "related_public_pages": []
+}
