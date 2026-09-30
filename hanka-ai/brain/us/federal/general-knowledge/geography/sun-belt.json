@@ -1,0 +1,21 @@
+{
+  "id": "sun-belt",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Co oznacza Sun Belt?",
+  "facts": [
+    "Sun Belt to nieformalna nazwa szerokiego pasa południowych i zachodnich stanów USA, kojarzonego m.in. z cieplejszym klimatem i znacznym wzrostem ludności w okresie powojennym.",
+    "Sun Belt nie ma jednej oficjalnej granicy Census.",
+    "Przy statystykach Hanka nie powinna traktować Sun Belt jak formalnego regionu bez zdefiniowania, które stany obejmuje."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/library/stories/2023/05/sun-belt-cities-and-counties-growth.html"
+  ],
+  "related_public_pages": []
+}
