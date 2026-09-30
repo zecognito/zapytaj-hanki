@@ -1,0 +1,21 @@
+{
+  "id": "pa-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "PA",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "SNAP w Pensylwanii",
+  "facts": [
+    "Pennsylvania SNAP pomaga kwalifikującym się gospodarstwom domowym kupować żywność.",
+    "Wniosek można składać przez COMPASS oraz inne kanały Pennsylvania Department of Human Services.",
+    "Eligibility i benefit amount zależą od sytuacji gospodarstwa domowego oraz obowiązujących zasad federalnych i stanowej administracji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pa.gov/agencies/dhs/resources/snap.html"
+  ],
+  "related_public_pages": []
+}
