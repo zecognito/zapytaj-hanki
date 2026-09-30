@@ -1,0 +1,21 @@
+{
+  "id": "19th-amendment",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "history",
+  "subtopic": "milestones",
+  "title": "19th Amendment i prawa wyborcze kobiet",
+  "facts": [
+    "19th Amendment została ratyfikowana w 1920 r.",
+    "Zabrania USA i stanom odmawiania prawa do głosowania ze względu na płeć.",
+    "Formalna poprawka nie usunęła wszystkich innych barier wyborczych, które nadal dotykały część kobiet, szczególnie kobiet należących do mniejszości rasowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.archives.gov/milestone-documents/19th-amendment"
+  ],
+  "related_public_pages": []
+}
