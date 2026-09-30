@@ -1,0 +1,21 @@
+{
+  "id": "apollo-11",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "science",
+  "subtopic": "space_history",
+  "title": "Apollo 11",
+  "facts": [
+    "Apollo 11 był pierwszą misją, podczas której ludzie wylądowali na Księżycu.",
+    "Lunar Module wylądował 20 lipca 1969 r.; Neil Armstrong i Buzz Aldrin chodzili po powierzchni Księżyca, a Michael Collins pozostał na orbicie.",
+    "Apollo 11 był misją NASA."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nasa.gov/mission/apollo-11/"
+  ],
+  "related_public_pages": []
+}
