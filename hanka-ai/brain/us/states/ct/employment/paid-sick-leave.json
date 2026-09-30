@@ -1,0 +1,21 @@
+{
+  "id": "ct-paid-sick-leave",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CT",
+  "topic": "employment",
+  "subtopic": "paid_sick_leave",
+  "title": "Paid Sick Leave w Connecticut",
+  "facts": [
+    "Connecticut rozszerzył stanowe paid sick leave etapami na większą grupę pracodawców i pracowników.",
+    "Objęci pracownicy naliczają paid sick leave zgodnie z ustawową formułą i mogą używać go z powodów określonych prawem.",
+    "Zakres objętych employers i workers zależy od effective-date phase-in oraz ustawowych wyjątków."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://portal.ct.gov/dol/knowledge-base/articles/wage-and-workplace-standards/paid-sick-leave"
+  ],
+  "related_public_pages": []
+}
