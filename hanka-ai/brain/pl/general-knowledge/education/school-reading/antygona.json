@@ -1,0 +1,21 @@
+{
+  "id": "antygona",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Antygona — Sofokles",
+  "facts": [
+    "Antygona, autor: Sofokles, jest lekturą obowiązkowa, całość w liceum ogólnokształcącym i technikum, zakres podstawowy, według podstawy programowej 2025/2026.",
+    "Tragedia antyczna o konflikcie prawa państwowego i moralnego, władzy, obowiązku i odpowiedzialności.",
+    "Hanka powinna znać nie tylko status szkolny, ale autora, epokę, głównych bohaterów, podstawową fabułę, motywy i znaczenie utworu."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
