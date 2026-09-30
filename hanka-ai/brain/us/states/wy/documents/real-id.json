@@ -1,0 +1,21 @@
+{
+  "id": "wy-real_id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WY",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "real id — Wyoming",
+  "facts": [
+    "Jurysdykcja prowadzi lub reguluje ten program albo obowiązek.",
+    "Wymagania zależą od sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dot.state.wy.us/home/driver_license_records/real_id.html"
+  ],
+  "related_public_pages": []
+}
