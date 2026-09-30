@@ -1,0 +1,21 @@
+{
+  "id": "country-madagascar",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Madagaskar",
+  "facts": [
+    "Madagaskar jest dużym państwem wyspiarskim na Oceanie Indyjskim u południowo-wschodnich wybrzeży Afryki.",
+    "Stolicą jest Antananarywa; językami urzędowymi są malgaski i francuski, a walutą ariary.",
+    "Długotrwała izolacja wyspy doprowadziła do rozwoju wyjątkowej bioróżnorodności i wielu gatunków endemicznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.presidence.gov.mg/"
+  ],
+  "related_public_pages": []
+}
