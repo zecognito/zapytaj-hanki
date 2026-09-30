@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-dariusz-toms-river",
+  "country": "US",
+  "category": "store",
+  "name": "Dariusz Polish Deli & Grocery",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "751 NJ-37 W",
+    "city": "Toms River",
+    "state": "NJ",
+    "postal_code": "08755",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 848-480-2803",
+  "email": null,
+  "website": "https://dariuszpolishdeli.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Toms River",
+    "NJ"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://dariuszpolishdeli.com/",
+  "last_verified": "2026-09-30"
+}
