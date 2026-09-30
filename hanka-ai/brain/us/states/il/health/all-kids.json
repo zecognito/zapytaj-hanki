@@ -1,0 +1,22 @@
+{
+  "id": "il-all-kids",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "health",
+  "subtopic": "all_kids",
+  "title": "Illinois All Kids children's health coverage",
+  "facts": [
+    "All Kids is Illinois's health coverage program for eligible children.",
+    "Children can qualify based on household income and other program rules; some families pay premiums or copayments depending on income.",
+    "Applications can be submitted through Illinois ABE."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://hfs.illinois.gov/medicalprograms/allkids.html",
+    "https://abe.illinois.gov/abe/access/"
+  ],
+  "related_public_pages": []
+}
