@@ -1,0 +1,21 @@
+{
+  "id": "jan-czochralski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Jan Czochralski",
+  "facts": [
+    "Jan Czochralski był polskim chemikiem i metaloznawcą.",
+    "W 1916 r. opracował metodę wzrostu monokryształów znaną jako metoda Czochralskiego.",
+    "Rozwinięta później metoda stała się fundamentalna dla produkcji dużych monokryształów krzemu używanych w semiconductor industry."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/nauka/jan-czochralski"
+  ],
+  "related_public_pages": []
+}
