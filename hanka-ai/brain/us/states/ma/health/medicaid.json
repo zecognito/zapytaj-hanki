@@ -1,0 +1,21 @@
+{
+  "id": "ma-masshealth",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MA",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "MassHealth w Massachusetts",
+  "facts": [
+    "MassHealth jest programem Medicaid i CHIP w Massachusetts dla kwalifikujących się mieszkańców.",
+    "Dostępne coverage i eligibility zależą m.in. od dochodu, wieku, pregnancy, disability i innych kategorii.",
+    "Massachusetts Health Connector i MassHealth współdziałają przy ustalaniu dostępnego health coverage."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mass.gov/topics/masshealth"
+  ],
+  "related_public_pages": []
+}
