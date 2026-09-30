@@ -1,0 +1,21 @@
+{
+  "id": "september-campaign-1939",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world_war_ii",
+  "title": "Kampania polska 1939",
+  "facts": [
+    "Niemcy zaatakowały Polskę 1 września 1939 r., rozpoczynając wojnę w Europie.",
+    "17 września 1939 r. od wschodu wkroczyła Armia Czerwona zgodnie z niemiecko-sowieckimi ustaleniami dotyczącymi podziału stref wpływów.",
+    "Regularne działania kampanii trwały przez kilka tygodni, a polskie państwo i siły zbrojne kontynuowały walkę na emigracji i w podziemiu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
