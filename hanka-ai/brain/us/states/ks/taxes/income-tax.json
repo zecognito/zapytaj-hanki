@@ -1,0 +1,21 @@
+{
+  "id": "ks-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "KS",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Kansas",
+  "facts": [
+    "KS pobiera stanowy individual income tax od osób fizycznych zgodnie z własnymi zasadami podatkowymi.",
+    "Sposób obliczenia podatku, deductions i credits zależy od właściwego tax year i statusu podatnika.",
+    "Residents, part-year residents i nonresidents mogą mieć różne obowiązki rozliczeniowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ksrevenue.gov/perstaxtypesii.html"
+  ],
+  "related_public_pages": []
+}
