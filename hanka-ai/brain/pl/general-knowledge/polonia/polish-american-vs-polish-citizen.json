@@ -1,0 +1,22 @@
+{
+  "id": "polish-american-vs-polish-citizen",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL-US",
+  "topic": "polonia",
+  "subtopic": "identity",
+  "title": "Polish American a obywatel Polski",
+  "facts": [
+    "Polish American jest określeniem tożsamości lub pochodzenia i nie oznacza automatycznie posiadania polskiego obywatelstwa.",
+    "Osoba może mieć Polish ancestry bez polskiego paszportu, może być obywatelem Polski mieszkającym w USA albo mieć oba obywatelstwa.",
+    "Przy pytaniach liczbowych Hanka powinna rozróżniać ancestry, citizenship i birthplace."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/topics/population/ancestry/about.html",
+    "https://www.gov.pl/web/usa/obywatelstwo-polskie"
+  ],
+  "related_public_pages": []
+}
