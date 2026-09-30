@@ -1,0 +1,21 @@
+{
+  "id": "fl-fair-housing",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "FL",
+  "topic": "housing",
+  "subtopic": "fair_housing",
+  "title": "Ochrona przed dyskryminacją mieszkaniową na Florydzie",
+  "facts": [
+    "Florida Fair Housing Act zabrania określonych form dyskryminacji mieszkaniowej ze względu na protected classes objęte prawem.",
+    "Federalny Fair Housing Act może zapewniać równoległą ochronę.",
+    "Florida Commission on Human Relations obsługuje kwalifikujące się complaints dotyczące housing discrimination."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://fchr.myflorida.com/fair-housing"
+  ],
+  "related_public_pages": []
+}
