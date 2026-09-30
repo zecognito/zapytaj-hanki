@@ -1,0 +1,21 @@
+{
+  "id": "polonia-term",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL-US",
+  "topic": "polonia",
+  "subtopic": "identity",
+  "title": "Co oznacza Polonia?",
+  "facts": [
+    "W polskim użyciu „Polonia” oznacza społeczności Polaków i osób polskiego pochodzenia mieszkających poza Polską, szczególnie gdy zachowują więź z polską kulturą lub tożsamością.",
+    "Termin nie ma jednej ścisłej definicji statystycznej.",
+    "W danych demograficznych trzeba zamiast samego słowa „Polonia” określić miarę, np. ancestry, country of birth, citizenship albo language spoken at home."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/polonia"
+  ],
+  "related_public_pages": []
+}
