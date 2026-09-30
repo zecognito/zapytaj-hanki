@@ -1,0 +1,21 @@
+{
+  "id": "constitution-1787-1789",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "history",
+  "subtopic": "milestones",
+  "title": "Konstytucja i początek obecnego rządu federalnego",
+  "facts": [
+    "U.S. Constitution została podpisana 17 września 1787 r.",
+    "Po ratyfikacji ustanowiony przez nią nowy rząd federalny rozpoczął działalność w 1789 r.",
+    "Konstytucja zastąpiła wcześniejszy system Articles of Confederation."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.archives.gov/founding-docs/constitution"
+  ],
+  "related_public_pages": []
+}
