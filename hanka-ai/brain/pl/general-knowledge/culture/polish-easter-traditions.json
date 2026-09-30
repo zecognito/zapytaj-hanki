@@ -1,0 +1,21 @@
+{
+  "id": "polish-easter-traditions",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Wielkanocne tradycje w Polsce",
+  "facts": [
+    "Polskie zwyczaje wielkanocne obejmują m.in. święcenie pokarmów w Wielką Sobotę w tradycji katolickiej oraz rodzinne śniadanie wielkanocne.",
+    "Pisanki są tradycyjnie zdobionymi jajkami występującymi w wielu regionalnych technikach.",
+    "Śmigus-dyngus jest zwyczajem związanym z Poniedziałkiem Wielkanocnym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-easter-traditions"
+  ],
+  "related_public_pages": []
+}
