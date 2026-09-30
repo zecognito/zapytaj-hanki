@@ -1,0 +1,21 @@
+{
+  "id": "country-holy-see",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Stolica Apostolska",
+  "facts": [
+    "Stolica Apostolska jest suwerennym podmiotem prawa międzynarodowego reprezentującym papieża i centralne władze Kościoła katolickiego; nie jest tym samym co Państwo Watykańskie.",
+    "Stolica Apostolska utrzymuje stosunki dyplomatyczne z państwami i ma status stałego obserwatora przy Organizacji Narodów Zjednoczonych.",
+    "Państwo Watykańskie zapewnia Stolicy Apostolskiej terytorialną niezależność, ale oba podmioty mają odrębną tożsamość prawną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.vatican.va/content/vatican/en.html"
+  ],
+  "related_public_pages": []
+}
