@@ -1,0 +1,21 @@
+{
+  "id": "lot-polish-airlines",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "transportation",
+  "subtopic": "aviation",
+  "title": "Polskie Linie Lotnicze LOT",
+  "facts": [
+    "Polskie Linie Lotnicze LOT są polskim przewoźnikiem lotniczym działającym od 1929 roku.",
+    "Głównym węzłem przewoźnika jest Lotnisko Chopina w Warszawie.",
+    "LOT obsługuje połączenia krajowe i międzynarodowe, w tym trasy europejskie oraz dalekodystansowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.lot.com/pl/pl/odkrywaj/o-lot/o-nas"
+  ],
+  "related_public_pages": []
+}
