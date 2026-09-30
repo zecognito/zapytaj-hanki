@@ -1,0 +1,21 @@
+{
+  "id": "vt-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "VT",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "snap — Vermont",
+  "facts": [
+    "Stan prowadzi lub reguluje ten program albo obowiązek.",
+    "Wymagania zależą od sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dcf.vermont.gov/benefits/3SquaresVT"
+  ],
+  "related_public_pages": []
+}
