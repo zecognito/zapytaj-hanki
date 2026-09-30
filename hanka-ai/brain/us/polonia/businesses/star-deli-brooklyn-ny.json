@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-star-deli-brooklyn-ny",
+  "country": "US",
+  "category": "bakery",
+  "name": "Star Deli & Bakery",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "176 Nassau Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11222",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 718-383-6948",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish bakery",
+    "Polish foods"
+  ],
+  "coverage_area": [
+    "Brooklyn",
+    "NY"
+  ],
+  "notes": [
+    "Commercial directory record. Business status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://www.google.com/",
+  "last_verified": "2026-09-30"
+}
