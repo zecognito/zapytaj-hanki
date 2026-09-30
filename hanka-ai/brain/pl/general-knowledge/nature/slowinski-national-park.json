@@ -1,0 +1,21 @@
+{
+  "id": "slowinski-national-park",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "national_parks",
+  "title": "Słowiński Park Narodowy",
+  "facts": [
+    "Słowiński Park Narodowy leży nad Bałtykiem w województwie pomorskim.",
+    "Jest szczególnie znany z ruchomych wydm w rejonie Łeby oraz przybrzeżnych jezior.",
+    "Park jest częścią światowej sieci rezerwatów biosfery UNESCO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://slowinskipn.pl/"
+  ],
+  "related_public_pages": []
+}
