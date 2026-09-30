@@ -1,0 +1,21 @@
+{
+  "id": "oh-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OH",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Ohio",
+  "facts": [
+    "Ohio child support program działa poprzez county child support enforcement agencies pod stanowym nadzorem.",
+    "Program pomaga m.in. ustalać parentage, support orders i egzekwować płatności.",
+    "Wysokość support jest ustalana zgodnie z Ohio child support guidelines i informacjami dotyczącymi konkretnej sprawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://jfs.ohio.gov/child-support"
+  ],
+  "related_public_pages": []
+}
