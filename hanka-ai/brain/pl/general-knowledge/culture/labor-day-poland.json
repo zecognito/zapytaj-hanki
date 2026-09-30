@@ -1,0 +1,21 @@
+{
+  "id": "labor-day-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "holidays",
+  "title": "1 maja — Święto Pracy",
+  "facts": [
+    "1 maja jest w Polsce dniem ustawowo wolnym od pracy i jest obchodzony jako Święto Pracy.",
+    "Data ma zarówno międzynarodową historię ruchu pracowniczego, jak i szczególny kontekst obchodów w okresie PRL.",
+    "Współczesne znaczenie dnia nie powinno być automatycznie utożsamiane z poparciem dla dawnego systemu komunistycznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina/dni-wolne-od-pracy"
+  ],
+  "related_public_pages": []
+}
