@@ -1,0 +1,21 @@
+{
+  "id": "poland-24-hour-clock",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "everyday",
+  "title": "Zapis czasu w Polsce",
+  "facts": [
+    "W Polsce w rozkładach jazdy, dokumentach i wielu sytuacjach formalnych powszechnie używa się zegara 24-godzinnego.",
+    "Godzina 18:30 oznacza 6:30 wieczorem.",
+    "W mowie potocznej Polacy mogą również używać form takich jak „szósta trzydzieści” lub „wpół do siódmej”, zależnie od kontekstu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/"
+  ],
+  "related_public_pages": []
+}
