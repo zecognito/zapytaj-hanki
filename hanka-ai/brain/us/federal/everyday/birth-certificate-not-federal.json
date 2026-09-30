@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-birth-certificate-state-local-record",
+  "subtopic": "notary_records",
+  "title": "Akt urodzenia w USA nie pochodzi z jednego federalnego urzędu",
+  "facts": [
+    "U.S. birth certificates są wydawane przez state, territorial lub local vital-records authorities, a nie przez jeden federalny urząd stanu cywilnego.",
+    "Certified copy należy zamawiać od właściwego vital records office dla miejsca zdarzenia zgodnie z jego procedurą.",
+    "Federal government nie przechowuje centralnego zbioru wszystkich state birth certificates do zwykłego wydawania kopii.",
+    "Wymagania dotyczące ID, opłat, eligibility i czasu realizacji różnią się według jurisdiction."
+  ],
+  "official_sources": [
+    "https://www.usa.gov/birth-certificate"
+  ]
+}
