@@ -1,0 +1,21 @@
+{
+  "id": "american-football-not-soccer",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "sports",
+  "title": "Football a soccer w USA",
+  "facts": [
+    "W amerykańskim angielskim „football” zazwyczaj oznacza American football.",
+    "Sport nazywany w Polsce piłką nożną jest w USA zwykle nazywany soccer.",
+    "Określenia mogą różnić się międzynarodowo, dlatego Hanka powinna interpretować je według kontekstu użytkownika."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/sports"
+  ],
+  "related_public_pages": []
+}
