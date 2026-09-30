@@ -1,0 +1,21 @@
+{
+  "id": "1772-first-partition-date",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1772 — I rozbiór Polski",
+  "facts": [
+    "W 1772 r. Rosja, Prusy i Austria dokonały pierwszego rozbioru Rzeczypospolitej.",
+    "Państwo utraciło znaczną część terytorium i ludności.",
+    "Był to pierwszy z trzech rozbiorów, które ostatecznie doprowadziły do likwidacji Rzeczypospolitej w 1795 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
