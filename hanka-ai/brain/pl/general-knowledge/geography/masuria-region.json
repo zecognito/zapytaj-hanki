@@ -1,0 +1,21 @@
+{
+  "id": "masuria-region",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Mazury",
+  "facts": [
+    "Mazury są regionem historyczno-geograficznym w północno-wschodniej Polsce, znanym z licznych jezior.",
+    "Znaczna część Mazur znajduje się w województwie warmińsko-mazurskim.",
+    "Mazury i Warmia są odrębnymi regionami historycznymi, mimo że ich nazwy występują razem w nazwie województwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/uw-warminsko-mazurski/wojewodztwo-warminsko-mazurskie"
+  ],
+  "related_public_pages": []
+}
