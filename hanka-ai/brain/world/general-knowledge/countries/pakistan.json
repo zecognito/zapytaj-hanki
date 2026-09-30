@@ -1,0 +1,21 @@
+{
+  "id": "country-pakistan",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Pakistan",
+  "facts": [
+    "Pakistan leży w Azji Południowej, a jego stolicą jest Islamabad.",
+    "Językami urzędowymi na poziomie federalnym są urdu i angielski, a walutą rupia pakistańska.",
+    "Pakistan jest federalną republiką parlamentarną i państwem posiadającym broń jądrową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://pakistan.gov.pk/"
+  ],
+  "related_public_pages": []
+}
