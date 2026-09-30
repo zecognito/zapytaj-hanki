@@ -1,0 +1,22 @@
+{
+  "id": "1926-may-coup-date",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1926 — przewrót majowy",
+  "facts": [
+    "12–15 maja 1926 r. doszło w Warszawie do zbrojnego przewrotu kierowanego przez Józefa Piłsudskiego.",
+    "W walkach zginęli żołnierze i cywile.",
+    "Prezydent Stanisław Wojciechowski i rząd Wincentego Witosa ustąpili, a wydarzenie rozpoczęło okres dominacji obozu sanacyjnego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
