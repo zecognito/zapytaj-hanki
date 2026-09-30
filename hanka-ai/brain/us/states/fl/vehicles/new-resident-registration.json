@@ -1,0 +1,21 @@
+{
+  "id": "fl-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "FL",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce na Florydę",
+  "facts": [
+    "Nowy mieszkaniec Florida musi uzyskać Florida title i registration dla kwalifikującego się pojazdu zgodnie z wymaganiami FLHSMV.",
+    "Przed rejestracją trzeba posiadać wymagane Florida insurance.",
+    "Procedura może obejmować weryfikację VIN oraz przedstawienie out-of-state title lub innych dokumentów ownership."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.flhsmv.gov/motor-vehicles-tags-titles/license-plates-registration/motor-vehicle-registrations/"
+  ],
+  "related_public_pages": []
+}
