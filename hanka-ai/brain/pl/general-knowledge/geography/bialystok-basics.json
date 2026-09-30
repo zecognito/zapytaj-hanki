@@ -1,0 +1,21 @@
+{
+  "id": "bialystok-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Białystok — podstawy",
+  "facts": [
+    "Białystok jest stolicą województwa podlaskiego w północno-wschodniej Polsce.",
+    "Region ma silne tradycje wielokulturowe i znajduje się blisko granicy z Białorusią.",
+    "Białystok jest największym ośrodkiem miejskim województwa podlaskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bialystok.pl/"
+  ],
+  "related_public_pages": []
+}
