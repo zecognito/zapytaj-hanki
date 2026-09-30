@@ -1,0 +1,35 @@
+{
+  "id": "polonia-prof-insurance-konikowski-ny",
+  "country": "US",
+  "category": "insurance",
+  "name": "Konikowski Insurance Agency",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "homeowners insurance",
+    "renters insurance",
+    "auto insurance",
+    "business insurance",
+    "workers compensation",
+    "surety bonds"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://www.konikowski.com/",
+  "official_source": "https://www.konikowski.com/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official agency site explicitly states Mówimy po polsku and identifies licensed brokers. Exact street location should be confirmed before geospatial recommendations."
+  ]
+}
