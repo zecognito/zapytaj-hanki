@@ -1,0 +1,21 @@
+{
+  "id": "robert-korzeniowski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "modern-sports",
+  "title": "Robert Korzeniowski",
+  "facts": [
+    "Robert Korzeniowski jest polskim chodziarzem lekkoatletycznym.",
+    "Zdobył cztery złote medale olimpijskie w chodzie sportowym.",
+    "Należy do najbardziej utytułowanych polskich olimpijczyków."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://olympics.com/"
+  ],
+  "related_public_pages": []
+}
