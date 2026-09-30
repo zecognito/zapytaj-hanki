@@ -1,0 +1,21 @@
+{
+  "id": "knf",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "national-institutions",
+  "title": "Komisja Nadzoru Finansowego — KNF",
+  "facts": [
+    "Komisja Nadzoru Finansowego sprawuje nadzór nad znaczną częścią polskiego rynku finansowego.",
+    "Zakres obejmuje m.in. sektor bankowy, rynek kapitałowy, ubezpieczenia i emerytalny w granicach określonych ustawami.",
+    "KNF publikuje ostrzeżenia publiczne dotyczące podmiotów, wobec których istnieją określone zastrzeżenia prawne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.knf.gov.pl/"
+  ],
+  "related_public_pages": []
+}
