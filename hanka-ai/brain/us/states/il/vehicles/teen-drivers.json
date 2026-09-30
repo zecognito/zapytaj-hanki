@@ -1,0 +1,21 @@
+{
+  "id": "il-teen-drivers",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "vehicles",
+  "subtopic": "teen_drivers",
+  "title": "Illinois graduated driver licensing for teens",
+  "facts": [
+    "Illinois uses a graduated driver licensing system for drivers under age 21.",
+    "Drivers ages 15-17 generally progress through permit and initial licensing stages with supervised-driving and time-held requirements.",
+    "Passenger, nighttime-driving, cellphone and moving-violation restrictions can apply to teen drivers; current Secretary of State rules should be checked for the driver's exact age and stage."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ilsos.gov/departments/drivers/teen_driver_safety/gdl.html"
+  ],
+  "related_public_pages": []
+}
