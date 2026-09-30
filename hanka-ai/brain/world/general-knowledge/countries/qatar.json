@@ -1,0 +1,21 @@
+{
+  "id": "country-qatar",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Katar",
+  "facts": [
+    "Katar jest niewielkim państwem na półwyspie wysuniętym w Zatokę Perską, a jego stolicą jest Doha.",
+    "Językiem urzędowym jest arabski, a walutą rial katarski.",
+    "Katar jest monarchią i jednym z ważnych światowych eksporterów skroplonego gazu ziemnego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gco.gov.qa/en/about-qatar/"
+  ],
+  "related_public_pages": []
+}
