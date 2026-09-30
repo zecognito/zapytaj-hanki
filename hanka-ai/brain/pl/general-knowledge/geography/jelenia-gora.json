@@ -1,0 +1,21 @@
+{
+  "id": "jelenia-gora",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Jelenia Góra",
+  "facts": [
+    "Jelenia Góra leży w województwie dolnośląskim, w Kotlinie Jeleniogórskiej u podnóża Karkonoszy.",
+    "Jest ważnym ośrodkiem turystycznym regionu i bazą wypadową w Karkonosze.",
+    "W granicach miasta znajduje się uzdrowiskowa dzielnica Cieplice Śląskie-Zdrój."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://jeleniagora.pl/"
+  ],
+  "related_public_pages": []
+}
