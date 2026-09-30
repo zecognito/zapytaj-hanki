@@ -1,0 +1,22 @@
+{
+  "id": "1920-battle-warsaw-date",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1920 — Bitwa Warszawska",
+  "facts": [
+    "W sierpniu 1920 r. rozegrała się Bitwa Warszawska podczas wojny polsko-bolszewickiej.",
+    "Polskie siły zatrzymały ofensywę Armii Czerwonej i przeszły do kontruderzenia.",
+    "Bitwa była jednym z decydujących momentów wojny, która zakończyła się pokojem ryskim w 1921 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://niepodlegla.gov.pl/",
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
