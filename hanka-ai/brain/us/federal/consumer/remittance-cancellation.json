@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-consumer-remittance-cancellation",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "consumer_protection",
+  "subtopic": "remittances",
+  "title": "International remittance - 30-minute cancellation right",
+  "facts": [
+    "For many covered remittance transfers, a sender generally has 30 minutes after payment to cancel without charge if the transferred funds have not yet been picked up or deposited.",
+    "A provider generally must refund canceled funds within three business days after receiving a valid cancellation request.",
+    "Transfers scheduled at least three business days in advance can have different cancellation timing rules."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/rules-policy/regulations/1005/34/"
+  ],
+  "related_public_pages": []
+}
