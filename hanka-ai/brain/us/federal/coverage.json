@@ -95,6 +95,17 @@
         "taxable_maximum",
         "survivor_benefits",
         "disability",
+        "ssi",
+        "delayed_retirement_credits"
+      ],
+      "completed_subtopics": [
+        "credits",
+        "retirement_benefits",
+        "full_retirement_age",
+        "earnings_test",
+        "delayed_retirement_credits",
+        "survivor_benefits",
+        "disability",
         "ssi"
       ]
     },
