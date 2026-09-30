@@ -1,0 +1,21 @@
+{
+  "id": "rybnik",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Rybnik",
+  "facts": [
+    "Rybnik jest miastem na prawach powiatu w województwie śląskim.",
+    "Miasto jest ważnym ośrodkiem Rybnickiego Okręgu Węglowego i historycznie było silnie związane z górnictwem.",
+    "Rybnik pełni funkcję regionalnego centrum usługowego, edukacyjnego i kulturalnego dla południowo-zachodniej części województwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.rybnik.eu/"
+  ],
+  "related_public_pages": []
+}
