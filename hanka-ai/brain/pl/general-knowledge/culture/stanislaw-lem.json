@@ -1,0 +1,21 @@
+{
+  "id": "stanislaw-lem",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "Stanisław Lem",
+  "facts": [
+    "Stanisław Lem był polskim pisarzem science fiction, eseistą i futurologiem.",
+    "Do jego najbardziej znanych utworów należy „Solaris”.",
+    "Jego twórczość często podejmowała tematy technologii, sztucznej inteligencji, komunikacji i granic ludzkiego poznania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/stanislaw-lem"
+  ],
+  "related_public_pages": []
+}
