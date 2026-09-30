@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-cars-vehicle-lease-disclosures",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "cars_transportation",
+  "subtopic": "auto_leasing",
+  "title": "Vehicle leasing - federal disclosure basics",
+  "facts": [
+    "The federal Consumer Leasing Act and Regulation M require disclosures for covered consumer vehicle leases.",
+    "Required disclosures include information such as amounts due at lease signing, payment schedule, other charges, total payments and certain end-of-lease obligations.",
+    "A lease payment is not directly comparable to a loan payment without considering acquisition costs, mileage limits, disposition fees, purchase option and end-of-lease charges.",
+    "Mileage limits and excess-mileage charges are contractual terms and vary by lease."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/rules-policy/regulations/1013/"
+  ],
+  "related_public_pages": []
+}
