@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-usps-missing-mail",
+  "subtopic": "mail",
+  "title": "Zaginiona przesyłka USPS",
+  "facts": [
+    "USPS udostępnia proces Missing Mail dla kwalifikujących się przesyłek, gdy mail lub package nie dotarł zgodnie z oczekiwaniem.",
+    "Przed złożeniem Missing Mail search warto sprawdzić tracking, status dostawy i odpowiedni czas oczekiwania wskazany przez USPS.",
+    "Missing Mail search nie jest tym samym co insurance claim; przy przesyłce ubezpieczonej może istnieć osobna procedura claim dotycząca utraty lub uszkodzenia.",
+    "Terminy i kwalifikacja zależą od rodzaju usługi pocztowej."
+  ],
+  "official_sources": [
+    "https://www.usps.com/help/missing-mail.htm"
+  ]
+}
