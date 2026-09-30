@@ -1,0 +1,21 @@
+{
+  "id": "royal-elections-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "political_systems",
+  "title": "Wolna elekcja",
+  "facts": [
+    "Po wygaśnięciu dynastii Jagiellonów królowie Rzeczypospolitej byli wybierani w systemie wolnej elekcji.",
+    "Prawo udziału w elekcji przysługiwało szlachcie, a kandydaci mogli pochodzić także z zagranicznych dynastii.",
+    "System ten był charakterystycznym elementem ustroju Rzeczypospolitej Obojga Narodów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
