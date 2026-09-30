@@ -1,0 +1,21 @@
+{
+  "id": "country-zimbabwe",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Zimbabwe",
+  "facts": [
+    "Zimbabwe jest śródlądowym państwem południowej Afryki, a jego stolicą jest Harare.",
+    "Konstytucja uznaje wiele języków urzędowych, w tym angielski, shona i ndebele.",
+    "Zimbabwe jest republiką; ruiny Wielkiego Zimbabwe są ważnym dziedzictwem historycznym i źródłem nazwy państwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.zim.gov.zw/"
+  ],
+  "related_public_pages": []
+}
