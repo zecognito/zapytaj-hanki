@@ -1,0 +1,21 @@
+{
+  "id": "marian-smoluchowski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Marian Smoluchowski",
+  "facts": [
+    "Marian Smoluchowski był fizykiem związanym m.in. z uniwersytetami we Lwowie i Krakowie.",
+    "Jego prace nad ruchami Browna i fizyką statystyczną należą do ważnych osiągnięć fizyki początku XX wieku.",
+    "Był profesorem i rektorem Uniwersytetu Jagiellońskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uj.edu.pl/"
+  ],
+  "related_public_pages": []
+}
