@@ -1,0 +1,164 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Hanka Polonia Directory Record",
+  "type": "object",
+  "required": [
+    "id",
+    "country",
+    "category",
+    "name",
+    "status",
+    "location",
+    "languages",
+    "services",
+    "official_source",
+    "last_verified"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "country": {
+      "const": "US"
+    },
+    "category": {
+      "enum": [
+        "embassy",
+        "consulate_general",
+        "consulate_honorary",
+        "polish_school",
+        "church",
+        "organization",
+        "cultural_center",
+        "museum_library",
+        "media",
+        "store",
+        "bakery",
+        "restaurant",
+        "doctor",
+        "dentist",
+        "lawyer",
+        "accountant",
+        "insurance",
+        "real_estate",
+        "mechanic",
+        "funeral_home",
+        "credit_union",
+        "other_business"
+      ]
+    },
+    "name": {
+      "type": "string"
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "status": {
+      "enum": [
+        "active",
+        "vacant",
+        "temporarily_closed",
+        "closed",
+        "unverified"
+      ]
+    },
+    "location": {
+      "type": "object",
+      "required": [
+        "city",
+        "state"
+      ],
+      "properties": {
+        "address": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "city": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "postal_code": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "latitude": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "longitude": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      }
+    },
+    "phone": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "email": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "website": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "services": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "coverage_area": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "official_source": {
+      "type": "string",
+      "format": "uri"
+    },
+    "last_verified": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    }
+  },
+  "additionalProperties": false
+}
