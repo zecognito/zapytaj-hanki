@@ -1,0 +1,22 @@
+{
+  "id": "1939-sep1-german-invasion",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "1 września 1939 — niemiecka agresja na Polskę",
+  "facts": [
+    "1 września 1939 r. Niemcy zaatakowały Polskę bez wypowiedzenia wojny.",
+    "Atak rozpoczął kampanię polską 1939 r. i wojnę w Europie.",
+    "Walki rozpoczęły się m.in. na Westerplatte, a niemieckie lotnictwo bombardowało polskie miasta, w tym Wieluń."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://muzeum1939.pl/"
+  ],
+  "related_public_pages": []
+}
