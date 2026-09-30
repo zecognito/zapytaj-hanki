@@ -1,0 +1,21 @@
+{
+  "id": "ma-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MA",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Massachusetts",
+  "facts": [
+    "Nowy mieszkaniec Massachusetts posiadający out-of-state license musi przenieść swoje prawo jazdy do Massachusetts RMV zgodnie z wymaganiami stanu.",
+    "Proces wymaga odpowiednich identity, lawful presence i residency documents zależnie od credential.",
+    "Transfer license jest odrębny od Massachusetts vehicle title/registration."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mass.gov/how-to/transfer-your-out-of-state-drivers-license-to-massachusetts"
+  ],
+  "related_public_pages": []
+}
