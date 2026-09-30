@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-taste-poland-plano-tx",
+  "country": "US",
+  "category": "store",
+  "name": "Taste of Poland European Market & Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2301 Central Expy Ste 165",
+    "city": "Plano",
+    "state": "TX",
+    "postal_code": "75075",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 972-423-9933",
+  "email": null,
+  "website": "https://tasteofpoland.us/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Plano",
+    "TX"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://tasteofpoland.us/",
+  "last_verified": "2026-09-30"
+}
