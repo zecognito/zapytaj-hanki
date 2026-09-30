@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-social-security-special-earnings-rule-2026",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "social_security",
+  "subtopic": "earnings_test",
+  "title": "Social Security special monthly earnings rule — 2026",
+  "facts": [
+    "Specjalna monthly earnings rule może pozwolić na pełny benefit za miesiące uznane przez SSA za retired mimo przekroczenia annual earnings limit, często w pierwszym roku retirement.",
+    "Jeśli osoba jest poniżej full retirement age przez cały 2026, miesięczny earnings threshold tej reguły wynosi $2,040.",
+    "Jeśli osoba osiąga full retirement age w 2026, miesięczny threshold przed FRA wynosi $5,430.",
+    "Przy self-employment SSA uwzględnia także substantial services, a nie tylko miesięczne earnings."
+  ],
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ssa.gov/benefits/retirement/planner/rule.html",
+    "https://www.ssa.gov/cola/factsheets/2026.html"
+  ],
+  "related_public_pages": []
+}
