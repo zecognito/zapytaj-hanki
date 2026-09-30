@@ -1,0 +1,36 @@
+{
+  "id": "polonia-prof-law-bodyziak-rockaway-nj",
+  "country": "US",
+  "category": "lawyer",
+  "name": "Bodyziak Law",
+  "status": "active",
+  "location": {
+    "address": "100 Enterprise Drive, Suite 301",
+    "city": "Rockaway",
+    "state": "NJ",
+    "postal_code": "07866",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "real estate law",
+    "family law",
+    "landlord-tenant law",
+    "estate planning",
+    "business and contracts",
+    "municipal and criminal law",
+    "family law mediation"
+  ],
+  "phone": "+1 973-494-5236",
+  "email": "beata@bodyziaklaw.com",
+  "website": "https://www.bodyziaklaw.com/",
+  "official_source": "https://www.bodyziaklaw.com/about",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official firm site explicitly states Mówimy po Polsku and provides current Rockaway office details."
+  ]
+}
