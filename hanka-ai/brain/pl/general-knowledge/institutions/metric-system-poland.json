@@ -1,0 +1,21 @@
+{
+  "id": "metric-system-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "measurements",
+  "title": "System metryczny w Polsce",
+  "facts": [
+    "Polska używa Międzynarodowego Układu Jednostek SI w oficjalnych pomiarach.",
+    "Odległości drogowe podaje się w kilometrach, prędkość w kilometrach na godzinę, a temperaturę powszechnie w stopniach Celsjusza.",
+    "To ważna różnica praktyczna względem Stanów Zjednoczonych, gdzie nadal powszechnie używa się mil, mph, funtów i stopni Fahrenheita."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gum.gov.pl/"
+  ],
+  "related_public_pages": []
+}
