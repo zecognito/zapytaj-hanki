@@ -1,0 +1,21 @@
+{
+  "id": "rzeszow-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Rzeszów — podstawy",
+  "facts": [
+    "Rzeszów jest stolicą województwa podkarpackiego w południowo-wschodniej Polsce.",
+    "Miasto jest ważnym regionalnym centrum administracyjnym, akademickim i gospodarczym.",
+    "Podkarpackie ma silny sektor lotniczy skupiony m.in. wokół inicjatywy Aviation Valley/Dolina Lotnicza."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://erzeszow.pl/"
+  ],
+  "related_public_pages": []
+}
