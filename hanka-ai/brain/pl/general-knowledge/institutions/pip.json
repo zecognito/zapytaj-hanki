@@ -1,0 +1,21 @@
+{
+  "id": "pip",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "everyday-government",
+  "title": "Państwowa Inspekcja Pracy",
+  "facts": [
+    "Państwowa Inspekcja Pracy nadzoruje i kontroluje przestrzeganie prawa pracy, w tym przepisów bezpieczeństwa i higieny pracy.",
+    "PIP prowadzi kontrole pracodawców i udziela informacji dotyczących prawa pracy.",
+    "Nie każda forma zatrudnienia cywilnoprawnego podlega dokładnie takim samym zasadom jak umowa o pracę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pip.gov.pl/"
+  ],
+  "related_public_pages": []
+}
