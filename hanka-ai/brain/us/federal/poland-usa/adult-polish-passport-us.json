@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-adult-polish-passport",
+  "subtopic": "pesel_passports",
+  "title": "Polski paszport dla osoby dorosłej mieszkającej w USA",
+  "facts": [
+    "Osoba dorosła może złożyć wniosek o polski paszport w dowolnym urzędzie konsularnym RP, ale wniosek musi być złożony osobiście.",
+    "Wizyta paszportowa jest rezerwowana przez e-konsulat, a konsul może zażądać dodatkowych dokumentów, gdy istnieją wątpliwości co do tożsamości, obywatelstwa lub danych.",
+    "Jeśli dane osobowe w rejestrze PESEL ulegną zmianie, dotychczasowy paszport staje się automatycznie nieważny po 120 dniach od zmiany danych w rejestrze.",
+    "Zagraniczne zdarzenia stanu cywilnego mogą wymagać wcześniejszej rejestracji w Polsce, gdy są potrzebne do wydania polskiego dokumentu tożsamości lub nadania PESEL."
+  ],
+  "official_sources": [
+    "https://www.gov.pl/web/usa/paszport-dla-osoby-pelnoletniej"
+  ]
+}
