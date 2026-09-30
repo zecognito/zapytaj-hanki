@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-federal-holiday-deadline-boundary",
+  "subtopic": "deadlines_documents",
+  "title": "Federal holiday a termin urzędowy",
+  "facts": [
+    "Federal holidays mogą wpływać na działanie federal offices i określone federal deadlines, ale nie tworzą jednej uniwersalnej zasady dla każdego prywatnego, stanowego lub lokalnego terminu.",
+    "W federal tax filing, jeśli deadline przypada w sobotę, niedzielę lub legal holiday, termin może przesunąć się na następny business day zgodnie z federalnymi zasadami.",
+    "State holidays i local closures mogą wpływać na inne procedury niezależnie od federal calendar.",
+    "Hanka powinna ustalić, jaki urząd i jaki konkretny deadline dotyczy pytania, zamiast automatycznie przesuwać każdy termin."
+  ],
+  "official_sources": [
+    "https://www.irs.gov/filing/individuals/when-to-file",
+    "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+  ]
+}
