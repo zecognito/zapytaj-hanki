@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-bankruptcy-exemptions",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "bankruptcy_debt_relief",
+  "subtopic": "exemptions",
+  "title": "Bankruptcy exemptions - federal and state interaction",
+  "facts": [
+    "Bankruptcy exemptions determine what property a debtor may protect from liquidation or creditor claims within the bankruptcy process.",
+    "Federal bankruptcy law contains a federal exemption scheme, but states may opt out and require residents to use state exemptions; some states allow a choice subject to domicile rules.",
+    "Which exemption system applies can depend on where the debtor lived during statutory lookback periods, not simply the debtor's address on filing day.",
+    "A specific property-protection answer therefore requires the debtor's state and domicile history."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-7-bankruptcy-basics",
+    "https://www.law.cornell.edu/uscode/text/11/522"
+  ],
+  "related_public_pages": []
+}
