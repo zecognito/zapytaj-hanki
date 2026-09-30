@@ -1,0 +1,21 @@
+{
+  "id": "paid-leave-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "work",
+  "title": "Urlop wypoczynkowy w Polsce",
+  "facts": [
+    "Pracownik zatrudniony na umowę o pracę ma prawo do corocznego płatnego urlopu wypoczynkowego na zasadach Kodeksu pracy.",
+    "Wymiar urlopu zależy m.in. od stażu uwzględnianego zgodnie z przepisami.",
+    "Aktualne zasady i sposób liczenia należy weryfikować przy poradzie dotyczącej konkretnej osoby."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina/urlopy-pracownicze"
+  ],
+  "related_public_pages": []
+}
