@@ -1,0 +1,34 @@
+{
+  "id": "polonia-bank-bofa-national-polish-interpreter",
+  "country": "US",
+  "category": "bank",
+  "name": "Bank of America - Language Interpretation Support",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "National service",
+    "state": "US",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "en"
+  ],
+  "services": [
+    "banking",
+    "language interpretation assistance"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://www.bankofamerica.com/customer-service/contact-us/",
+  "coverage_area": [
+    "United States"
+  ],
+  "official_source": "https://www.bankofamerica.com/customer-service/contact-us/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Bank of America documents language assistance/interpreter access for customers. This record does NOT assert a dedicated Polish banking program or Polish-speaking staff at every branch.",
+    "Polish should be treated as interpreter-request capability only when confirmed during service; do not rank this record above banks with explicit Polish programs such as PNC or verified Polish-speaking branches."
+  ]
+}
