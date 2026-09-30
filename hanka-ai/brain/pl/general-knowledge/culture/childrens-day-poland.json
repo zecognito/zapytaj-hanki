@@ -1,0 +1,21 @@
+{
+  "id": "childrens-day-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Dzień Dziecka w Polsce",
+  "facts": [
+    "Dzień Dziecka obchodzony jest w Polsce 1 czerwca.",
+    "Nie jest ogólnym dniem ustawowo wolnym od pracy.",
+    "Szkoły, samorządy i rodziny często organizują z tej okazji wydarzenia i atrakcje dla dzieci."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/rodzina"
+  ],
+  "related_public_pages": []
+}
