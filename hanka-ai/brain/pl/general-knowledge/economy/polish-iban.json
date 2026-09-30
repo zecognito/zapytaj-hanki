@@ -1,0 +1,21 @@
+{
+  "id": "polish-iban",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "payments",
+  "title": "Polski IBAN",
+  "facts": [
+    "Polski numer IBAN rozpoczyna się od liter PL, po których występuje 26-cyfrowy krajowy numer rachunku bankowego.",
+    "IBAN służy do jednoznacznego wskazania rachunku w standardzie używanym w płatnościach międzynarodowych i europejskich.",
+    "IBAN nie jest tym samym co kod BIC/SWIFT banku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nbp.pl/home.aspx?f=/systemplatniczy/iban.html"
+  ],
+  "related_public_pages": []
+}
