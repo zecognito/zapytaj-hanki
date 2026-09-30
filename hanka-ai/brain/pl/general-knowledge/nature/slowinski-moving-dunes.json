@@ -1,0 +1,21 @@
+{
+  "id": "slowinski-moving-dunes",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "landscapes",
+  "title": "Ruchome wydmy w Słowińskim Parku Narodowym",
+  "facts": [
+    "Słowiński Park Narodowy na wybrzeżu Bałtyku jest znany z rozległych ruchomych wydm.",
+    "Wiatr stopniowo przesuwa piasek, zmieniając kształt i położenie wydm.",
+    "W parku znajdują się także jeziora przybrzeżne, torfowiska, lasy i siedliska nadmorskie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://slowinskipn.pl/"
+  ],
+  "related_public_pages": []
+}
