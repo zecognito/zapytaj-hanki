@@ -1,0 +1,32 @@
+{
+  "id": "polonia-prof-mechanic-garage-for-you-chicago-il",
+  "country": "US",
+  "category": "mechanic",
+  "name": "Garage For You - Chicago",
+  "status": "active",
+  "location": {
+    "address": "3133 N Hamlin Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60618",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es"
+  ],
+  "services": [
+    "auto repair",
+    "automotive maintenance"
+  ],
+  "phone": "+1 847-299-2221",
+  "email": "garage4u@gmail.com",
+  "website": "https://www.garageforyou.com/",
+  "official_source": "https://www.garageforyou.com/contact-us/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official shop contact page explicitly states Mówimy po polsku and lists this Chicago location. Separate physical locations are stored separately for future near-me retrieval."
+  ]
+}
