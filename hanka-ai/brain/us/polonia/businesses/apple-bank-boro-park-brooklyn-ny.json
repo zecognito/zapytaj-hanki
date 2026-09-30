@@ -1,0 +1,37 @@
+{
+  "id": "polonia-bank-apple-boro-park-brooklyn-ny",
+  "country": "US",
+  "category": "bank",
+  "name": "Apple Bank - 50th Street Brooklyn",
+  "status": "active",
+  "location": {
+    "address": "1575 50th St",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11219",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es",
+    "ru",
+    "uk"
+  ],
+  "services": [
+    "personal accounts",
+    "business accounts",
+    "deposit accounts",
+    "ATM",
+    "safe deposit"
+  ],
+  "phone": "+1 718-436-4582",
+  "email": null,
+  "website": "https://www.applebank.com/contact/locations/1575-50th-st",
+  "official_source": "https://www.applebank.com/contact/locations/1575-50th-st",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official Apple Bank branch page explicitly lists Polish among lobby languages."
+  ]
+}
