@@ -1,0 +1,39 @@
+{
+  "id": "polonia-prof-doctor-ambh-chicago-il",
+  "country": "US",
+  "category": "doctor",
+  "name": "Advanced Medical & Behavioral Health",
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Chicago area",
+    "state": "IL",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en",
+    "es",
+    "ru"
+  ],
+  "services": [
+    "mental health counseling",
+    "individual therapy",
+    "family therapy",
+    "couples therapy",
+    "child and adolescent therapy",
+    "substance-use treatment",
+    "immigration evaluations",
+    "DOT SAP evaluations"
+  ],
+  "phone": null,
+  "email": null,
+  "website": "https://www.ambh.org/",
+  "official_source": "https://www.ambh.org/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official provider site explicitly states Mówimy Po Polsku and offers culturally and linguistically competent behavioral-health services. Exact office location withheld pending first-party confirmation. Category doctor is schema-limited; entity is a behavioral-health provider."
+  ]
+}
