@@ -1,0 +1,21 @@
+{
+  "id": "ky-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "KY",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Kentucky",
+  "facts": [
+    "Nowy mieszkaniec powinien zarejestrować pojazd zgodnie z procedurą i terminem stanowym.",
+    "Proces może wymagać ownership documents, ubezpieczenia, identyfikacji i opłat.",
+    "Dodatkowe wymagania zależą od pojazdu i sytuacji właściciela."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://drive.ky.gov/Vehicles/Pages/Vehicle-Registration-Renewals.aspx"
+  ],
+  "related_public_pages": []
+}
