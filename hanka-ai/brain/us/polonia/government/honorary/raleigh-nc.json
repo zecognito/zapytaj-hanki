@@ -1,0 +1,36 @@
+{
+  "id": "polonia-gov-honorary-raleigh-nc",
+  "country": "US",
+  "category": "consulate_honorary",
+  "name": "Honorary Consulate of the Republic of Poland in Raleigh",
+  "aliases": [
+    "Konsulat Honorowy RP w Raleigh"
+  ],
+  "status": "active",
+  "location": {
+    "address": "2620 Mayview Road",
+    "city": "Raleigh",
+    "state": "NC",
+    "postal_code": "27607",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 919 233 5200",
+  "email": "afountain@mindspring.com",
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "honorary consular representation"
+  ],
+  "coverage_area": [
+    "NC"
+  ],
+  "notes": [
+    "Honorary consul: Alvin Marcus Fountain II"
+  ],
+  "official_source": "https://www.gov.pl/web/usa/konsulaty-honorowe",
+  "last_verified": "2026-09-30"
+}
