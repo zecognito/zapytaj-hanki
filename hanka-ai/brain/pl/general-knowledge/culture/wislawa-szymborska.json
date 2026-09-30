@@ -1,0 +1,21 @@
+{
+  "id": "wislawa-szymborska",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "Wisława Szymborska",
+  "facts": [
+    "Wisława Szymborska była polską poetką i laureatką Nobel Prize in Literature z 1996 r.",
+    "Jej poezja jest znana z precyzyjnego języka, ironii i refleksji nad codziennością, historią i ludzkim doświadczeniem.",
+    "Przez większość dorosłego życia była związana z Krakowem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nobelprize.org/prizes/literature/1996/szymborska/biographical/"
+  ],
+  "related_public_pages": []
+}
