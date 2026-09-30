@@ -345,12 +345,35 @@
     {
       "id": "poland_usa",
       "label": "Polska ↔ USA",
-      "status": "planned",
+      "status": "started",
       "subtopics": [
         "social_security_agreement",
-        "tax_treaty",
         "pensions",
+        "social_security_coverage",
+        "tax_treaty",
+        "tax_residency",
+        "foreign_tax_credit",
+        "fbar",
+        "fatca_form_8938",
+        "money_transfers",
+        "gifts_inheritance",
         "documents",
+        "dual_citizenship",
+        "travel"
+      ],
+      "completed_subtopics": [
+        "social_security_agreement",
+        "pensions",
+        "social_security_coverage",
+        "tax_treaty",
+        "tax_residency",
+        "foreign_tax_credit",
+        "fbar",
+        "fatca_form_8938",
+        "money_transfers",
+        "gifts_inheritance",
+        "documents",
+        "dual_citizenship",
         "travel"
       ]
     },
@@ -514,6 +537,62 @@
         "beneficiaries",
         "probate_boundary",
         "estate_debts"
+      ]
+    },
+    {
+      "id": "moving_life_admin",
+      "label": "Przeprowadzka i administracja życia",
+      "status": "started",
+      "subtopics": [
+        "usps_forwarding",
+        "address_changes",
+        "direct_deposit",
+        "name_changes",
+        "selective_service",
+        "interstate_dmv_tax",
+        "voter_registration_boundary",
+        "benefits_after_moving"
+      ],
+      "completed_subtopics": [
+        "usps_forwarding",
+        "address_changes",
+        "direct_deposit",
+        "name_changes",
+        "selective_service",
+        "interstate_dmv_tax",
+        "voter_registration_boundary",
+        "benefits_after_moving"
+      ]
+    },
+    {
+      "id": "travel_border",
+      "label": "Podróże, TSA, granica i cło",
+      "status": "started",
+      "subtopics": [
+        "real_id",
+        "tsa_liquids_medications",
+        "customs_declarations",
+        "returning_resident_exemption",
+        "currency_reporting",
+        "agriculture",
+        "global_entry",
+        "citizen_lpr_return",
+        "visa_admission",
+        "esta_vwp",
+        "passport_validity"
+      ],
+      "completed_subtopics": [
+        "real_id",
+        "tsa_liquids_medications",
+        "customs_declarations",
+        "returning_resident_exemption",
+        "currency_reporting",
+        "agriculture",
+        "global_entry",
+        "citizen_lpr_return",
+        "visa_admission",
+        "esta_vwp",
+        "passport_validity"
       ]
     }
   ]
