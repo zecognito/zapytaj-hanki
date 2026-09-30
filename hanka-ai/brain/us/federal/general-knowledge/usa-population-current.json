@@ -1,0 +1,21 @@
+{
+  "id": "usa-population-current",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "population",
+  "subtopic": "current_population",
+  "title": "Ile ludzi mieszka w USA?",
+  "facts": [
+    "Według U.S. Census Bureau szacowana ludność Stanów Zjednoczonych 1 lipca 2025 r. wynosiła 341 784 857.",
+    "Spis powszechny z 1 kwietnia 2020 r. wykazał 331 449 281 mieszkańców.",
+    "Przy pytaniu o populację Hanka powinna podać rok danych, ponieważ liczba zmienia się w czasie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/quickfacts/fact/table/US/BZA115222"
+  ],
+  "related_public_pages": []
+}
