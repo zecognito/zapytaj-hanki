@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-healthcare-chip-framework",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "healthcare",
+  "subtopic": "chip_federal_framework",
+  "title": "CHIP - federal/state framework",
+  "facts": [
+    "CHIP is a joint federal-state program providing health coverage primarily to uninsured children in families whose incomes are too high for Medicaid but who meet their state's CHIP rules.",
+    "CHIP eligibility levels vary by state and can also include certain pregnant populations depending on state options.",
+    "States may operate CHIP as a separate program, a Medicaid expansion, or a combination of both.",
+    "Specific CHIP income limits, premiums, cost sharing and enrollment details require current state program information."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicaid.gov/chip/chip-eligibility-enrollment",
+    "https://www.medicaid.gov/chip/state-program-information"
+  ],
+  "related_public_pages": []
+}
