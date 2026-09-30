@@ -1,0 +1,21 @@
+{
+  "id": "polish-gender-grammar",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "language",
+  "title": "Rodzaj gramatyczny w polskim",
+  "facts": [
+    "Polski ma system rodzaju gramatycznego wpływający na odmianę i zgodę wyrazów.",
+    "W liczbie pojedynczej podstawowy podział obejmuje rodzaj męski, żeński i nijaki, z dalszymi ważnymi rozróżnieniami gramatycznymi w obrębie rodzaju męskiego.",
+    "Rodzaj gramatyczny nie jest tym samym co biologiczna płeć osoby lub rzeczy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
