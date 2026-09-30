@@ -1,0 +1,24 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-moving-poland-green-card-holder",
+  "subtopic": "moving_to_poland",
+  "title": "Green card holder przeprowadzający się do Polski",
+  "facts": [
+    "Długotrwała przeprowadzka do Polski może mieć konsekwencje zarówno imigracyjne, jak i podatkowe dla lawful permanent resident USA; tych dwóch systemów nie należy utożsamiać.",
+    "IRS wskazuje, że green card holder zasadniczo nadal ma obowiązek federalnego rozliczenia USA podczas mieszkania za granicą, dopóki status rezydenta podatkowego nie zakończy się zgodnie z właściwymi regułami.",
+    "Formalne porzucenie lawful permanent resident status może obejmować Form I-407 w systemie imigracyjnym; długoletni rezydenci mogą również potrzebować analizy expatriation tax rules i Form 8854.",
+    "Sama fizyczna nieobecność w USA nie jest bezpiecznym substytutem analizy statusu imigracyjnego i podatkowego."
+  ],
+  "official_sources": [
+    "https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-about-international-individual-tax-matters",
+    "https://www.uscis.gov/i-407",
+    "https://www.irs.gov/publications/p519"
+  ]
+}
