@@ -1,0 +1,21 @@
+{
+  "id": "revolutionary-war",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "history",
+  "subtopic": "wars",
+  "title": "American Revolutionary War",
+  "facts": [
+    "American Revolutionary War był konfliktem między zbuntowanymi koloniami brytyjskimi w Ameryce Północnej a Great Britain i jej siłami.",
+    "Declaration of Independence została przyjęta w 1776 r., ale wojna trwała jeszcze kilka lat.",
+    "Treaty of Paris z 1783 r. formalnie uznał niepodległość USA."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://history.state.gov/milestones/1776-1783/treaty"
+  ],
+  "related_public_pages": []
+}
