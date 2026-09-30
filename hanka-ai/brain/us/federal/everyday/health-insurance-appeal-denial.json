@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-health-plan-appeal-denial",
+  "subtopic": "health_insurance_admin",
+  "title": "Odwołanie od odmowy health insurance claim",
+  "facts": [
+    "Osoby objęte wieloma health plans mają federalne prawa do internal appeal po odmowie coverage lub payment oraz, w kwalifikujących się sprawach, do independent external review.",
+    "Explanation of Benefits lub denial notice powinny wyjaśniać przyczynę odmowy i informacje o prawach odwoławczych.",
+    "Terminy na appeal zależą od rodzaju planu i sprawy; konsument powinien używać terminu podanego w plan documents i denial notice.",
+    "Urgent care cases mogą podlegać przyspieszonym procedurom."
+  ],
+  "official_sources": [
+    "https://www.healthcare.gov/appeal-insurance-company-decision/",
+    "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/claims-and-appeals"
+  ]
+}
