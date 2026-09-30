@@ -1,0 +1,21 @@
+{
+  "id": "tn-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TN",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Tennessee",
+  "facts": [
+    "Stanowy program child support pomaga ustalać i egzekwować obowiązek alimentacyjny.",
+    "Wysokość support jest ustalana według stanowych guidelines i faktów konkretnej sprawy.",
+    "Zmiana obowiązującego order wymaga właściwej procedury modyfikacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.tn.gov/humanservices/for-families/child-support-services.html"
+  ],
+  "related_public_pages": []
+}
