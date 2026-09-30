@@ -1,0 +1,21 @@
+{
+  "id": "obwarzanek-krakowski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Obwarzanek krakowski",
+  "facts": [
+    "Obwarzanek krakowski jest tradycyjnym pierścieniowym pieczywem związanym z Krakowem.",
+    "Przed pieczeniem ciasto jest obwarzane, czyli krótko poddawane obróbce w gorącej wodzie.",
+    "Nazwa „obwarzanek krakowski” jest chroniona w unijnym systemie oznaczeń geograficznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-food-and-drink_en"
+  ],
+  "related_public_pages": []
+}
