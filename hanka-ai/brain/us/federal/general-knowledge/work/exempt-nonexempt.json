@@ -1,0 +1,21 @@
+{
+  "id": "exempt-nonexempt",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "employment",
+  "subtopic": "work_terms",
+  "title": "Exempt a nonexempt employee",
+  "facts": [
+    "Nonexempt workers objęci FLSA overtime rules mają prawo do wymaganej płacy za overtime, gdy spełnione są warunki ustawy.",
+    "Exempt oznacza, że pracownik spełnia wymagania konkretnego zwolnienia z określonych FLSA protections.",
+    "Job title ani sam salary nie wystarczają do ustalenia exempt status."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/whd/fact-sheets/17a-overtime"
+  ],
+  "related_public_pages": []
+}
