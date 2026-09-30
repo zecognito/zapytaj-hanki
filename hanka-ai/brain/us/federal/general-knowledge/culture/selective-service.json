@@ -1,0 +1,21 @@
+{
+  "id": "selective-service",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "military",
+  "subtopic": "selective_service",
+  "title": "Selective Service — podstawy",
+  "facts": [
+    "Selective Service System utrzymuje system rejestracji na wypadek, gdyby Congress i prezydent przywrócili pobór.",
+    "Rejestracja nie oznacza, że w USA obecnie trwa draft.",
+    "Obowiązek rejestracji zależy od wieku, płci przypisanej przy urodzeniu i statusu imigracyjnego zgodnie z aktualnym prawem; szczegółowe pytania wymagają aktualnego źródła Selective Service."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sss.gov/register/who-needs-to-register/"
+  ],
+  "related_public_pages": []
+}
