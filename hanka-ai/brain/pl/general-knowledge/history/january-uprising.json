@@ -1,0 +1,21 @@
+{
+  "id": "january-uprising",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions",
+  "title": "Powstanie styczniowe",
+  "facts": [
+    "Powstanie styczniowe wybuchło w 1863 r. przeciw Imperium Rosyjskiemu i miało głównie charakter partyzancki.",
+    "Objęło ziemie dawnej Rzeczypospolitej znajdujące się pod zaborem rosyjskim.",
+    "Po klęsce nastąpiły dalsze represje i nasilona rusyfikacja."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/a/powstanie-styczniowe/D1A7kBG3b"
+  ],
+  "related_public_pages": []
+}
