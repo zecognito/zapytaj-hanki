@@ -1,0 +1,34 @@
+{
+  "id": "polonia-gov-embassy-washington",
+  "country": "US",
+  "category": "embassy",
+  "name": "Embassy of the Republic of Poland in Washington",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2640 16th Street NW",
+    "city": "Washington",
+    "state": "DC",
+    "postal_code": "20009",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 202 499 1700",
+  "email": "washington.amb.sekretariat@msz.gov.pl",
+  "website": "https://www.gov.pl/web/usa-en/embassy-washington",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "diplomatic mission",
+    "Poland-US relations"
+  ],
+  "coverage_area": [
+    "United States",
+    "Bahamas"
+  ],
+  "notes": [],
+  "official_source": "https://www.gov.pl/web/usa-en/embassy-washington",
+  "last_verified": "2026-09-30"
+}
