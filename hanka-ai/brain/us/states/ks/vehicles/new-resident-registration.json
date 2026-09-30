@@ -1,0 +1,21 @@
+{
+  "id": "ks-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "KS",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Kansas",
+  "facts": [
+    "Nowy mieszkaniec powinien zarejestrować pojazd zgodnie z procedurą i terminem stanowym.",
+    "Proces może wymagać ownership documents, ubezpieczenia, identyfikacji i opłat.",
+    "Dodatkowe wymagania zależą od pojazdu i sytuacji właściciela."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ksrevenue.gov/dovtitle.html"
+  ],
+  "related_public_pages": []
+}
