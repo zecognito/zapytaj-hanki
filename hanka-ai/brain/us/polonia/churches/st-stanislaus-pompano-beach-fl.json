@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-stanislaus-pompano-beach-fl",
+  "country": "US",
+  "category": "church",
+  "name": "St. Stanislaus Catholic Mission",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "5100 NE 2nd Ave",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "postal_code": "33064",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 954 785 5900",
+  "email": null,
+  "website": "https://www.ststanislaus.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "FL"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://www.ststanislaus.org",
+  "last_verified": "2026-09-30"
+}
