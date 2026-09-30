@@ -1,0 +1,21 @@
+{
+  "id": "sc-retirement-income-deductions",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "SC",
+  "topic": "taxes",
+  "subtopic": "retirement_income",
+  "title": "Odliczenia od retirement income w Karolinie Południowej",
+  "facts": [
+    "South Carolina przewiduje stanowe deductions dla kwalifikującego się retirement income, zależnie m.in. od wieku podatnika.",
+    "Stan przewiduje także age-65 deduction na zasadach określonych przez South Carolina Department of Revenue.",
+    "Dokładne limity i sposób wykazania odliczeń należy sprawdzać dla właściwego tax year."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dor.sc.gov/iit/retirement"
+  ],
+  "related_public_pages": []
+}
