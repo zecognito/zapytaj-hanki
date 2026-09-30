@@ -1,0 +1,21 @@
+{
+  "id": "urzad-skarbowy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "everyday-government",
+  "title": "Urząd skarbowy",
+  "facts": [
+    "Urząd skarbowy jest jednostką administracji skarbowej obsługującą podatników i realizującą zadania związane m.in. z podatkami.",
+    "Wiele spraw podatkowych można obecnie załatwiać elektronicznie poprzez usługi administracji skarbowej.",
+    "Właściwy urząd lub sposób obsługi zależy od rodzaju podatnika i sprawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.podatki.gov.pl/"
+  ],
+  "related_public_pages": []
+}
