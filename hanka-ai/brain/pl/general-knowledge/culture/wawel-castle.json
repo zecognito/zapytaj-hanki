@@ -1,0 +1,21 @@
+{
+  "id": "wawel-castle",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Wawel",
+  "facts": [
+    "Wzgórze Wawelskie w Krakowie obejmuje Zamek Królewski i katedrę oraz jest jednym z najważniejszych historycznych miejsc Polski.",
+    "Wawel był przez stulecia związany z polską monarchią, koronacjami i pochówkami władców.",
+    "Jest częścią historycznego centrum Krakowa wpisanego na Listę Światowego Dziedzictwa UNESCO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://wawel.krakow.pl/"
+  ],
+  "related_public_pages": []
+}
