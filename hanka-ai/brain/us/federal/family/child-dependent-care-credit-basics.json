@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-family-child-dependent-care-credit",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "family_children",
+  "subtopic": "childcare",
+  "title": "Child and Dependent Care Credit - basics",
+  "facts": [
+    "The federal Child and Dependent Care Credit can help eligible taxpayers with qualifying care expenses paid so they can work or look for work.",
+    "Qualifying-person rules can include a dependent child under age 13 and certain spouses or dependents incapable of self-care, subject to tax-law requirements.",
+    "The credit is based on eligible expenses and earned-income rules and is distinct from the Child Tax Credit.",
+    "Employer dependent-care benefits and other reimbursements can affect the expenses eligible for the credit."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.irs.gov/taxtopics/tc602"
+  ],
+  "related_public_pages": []
+}
