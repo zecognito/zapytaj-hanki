@@ -1,0 +1,21 @@
+{
+  "id": "fl-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "FL",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna na Florydzie",
+  "facts": [
+    "Florida ma konstytucyjny harmonogram podnoszenia płacy minimalnej do 15 USD za godzinę do 30 września 2026 r.",
+    "Od 30 września 2026 r. stanowa minimum wage wynosi 15 USD za godzinę.",
+    "Dla tipped employees może obowiązywać tip credit, ale łączna zapłata musi spełniać wymagania stanowej płacy minimalnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://floridajobs.org/business-growth-and-partnerships/for-employers/display-posters-and-required-notices"
+  ],
+  "related_public_pages": []
+}
