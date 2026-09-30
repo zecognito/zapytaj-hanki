@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-piast-river-garfield-nj",
+  "country": "US",
+  "category": "store",
+  "name": "Piast Meats & Provisions",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "800 River Dr",
+    "city": "Garfield",
+    "state": "NJ",
+    "postal_code": "07026",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 973-340-4722",
+  "email": null,
+  "website": "https://www.piast.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Garfield",
+    "NJ"
+  ],
+  "notes": [
+    "Commercial directory record. Business status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://www.piast.com/",
+  "last_verified": "2026-09-30"
+}
