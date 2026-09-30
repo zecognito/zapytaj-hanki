@@ -1,0 +1,21 @@
+{
+  "id": "wy-snap",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WY",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "snap — Wyoming",
+  "facts": [
+    "Jurysdykcja prowadzi lub reguluje ten program albo obowiązek.",
+    "Wymagania zależą od sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dfs.wyo.gov/assistance-programs/snap/"
+  ],
+  "related_public_pages": []
+}
