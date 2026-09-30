@@ -1,0 +1,21 @@
+{
+  "id": "artysta-mrozek",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Artysta — Sławomir Mrożek",
+  "facts": [
+    "„Artysta” Sławomira Mrożka znajduje się w aktualnej podstawie programowej języka polskiego dla klas IV–VIII w grupie krótkich utworów literackich poznawanych w całości, fragmentach i utworów poetyckich.",
+    "Opowiadanie wykorzystuje groteskę i ironię; kogut pragnący zostać artystą przedstawia się jako lew, co pozwala rozmawiać o ambicji, marzeniach, samoocenie i zderzeniu aspiracji z rzeczywistością.",
+    "Status programowy zweryfikowano 2026-09-30 dla podstawy prezentowanej przez ZPE na rok szkolny 2025/2026."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-podstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
