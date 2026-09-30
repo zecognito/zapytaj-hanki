@@ -1,0 +1,21 @@
+{
+  "id": "bigos",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Bigos",
+  "facts": [
+    "Bigos jest tradycyjnym polskim daniem przygotowywanym przede wszystkim z kapusty kiszonej lub świeżej oraz mięsa, z licznymi wariantami.",
+    "Potrawa jest często nazywana po angielsku hunter's stew.",
+    "Receptury bigosu różnią się regionalnie i rodzinnie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101-bigos"
+  ],
+  "related_public_pages": []
+}
