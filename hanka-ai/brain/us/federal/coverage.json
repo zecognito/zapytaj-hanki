@@ -19,7 +19,9 @@
         "refunds",
         "irs_transcripts",
         "earned_income_tax_credit",
-        "amended_returns"
+        "amended_returns",
+        "alternative_minimum_tax",
+        "gift_estate_tax"
       ],
       "completed_subtopics": [
         "standard_deduction",
@@ -31,7 +33,10 @@
         "irs_transcripts",
         "refunds",
         "earned_income_tax_credit",
-        "amended_returns"
+        "amended_returns",
+        "deadlines",
+        "alternative_minimum_tax",
+        "gift_estate_tax"
       ]
     },
     {
