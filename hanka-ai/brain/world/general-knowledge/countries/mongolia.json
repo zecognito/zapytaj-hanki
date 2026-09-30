@@ -1,0 +1,21 @@
+{
+  "id": "country-mongolia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Mongolia",
+  "facts": [
+    "Mongolia jest rozległym śródlądowym państwem Azji między Rosją a Chinami.",
+    "Stolicą jest Ułan Bator, językiem urzędowym mongolski, a walutą tugrik.",
+    "Mongolia jest republiką i jednym z najrzadziej zaludnionych państw świata."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mfa.gov.mn/en/"
+  ],
+  "related_public_pages": []
+}
