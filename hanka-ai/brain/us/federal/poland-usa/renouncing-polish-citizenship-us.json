@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-renouncing-polish-citizenship",
+  "subtopic": "citizenship_edge_cases",
+  "title": "Zrzeczenie się polskiego obywatelstwa podczas mieszkania w USA",
+  "facts": [
+    "Obywatel polski nie traci obywatelstwa wyłącznie dlatego, że uzyskał obywatelstwo USA lub przez wiele lat mieszka za granicą.",
+    "Zrzeczenie się obywatelstwa polskiego wymaga formalnej procedury i zgody Prezydenta Rzeczypospolitej Polskiej.",
+    "Osoba mieszkająca w USA może składać wniosek za pośrednictwem właściwego konsula zgodnie z procedurą konsularną.",
+    "Posiadanie drugiego obywatelstwa nie pozwala obywatelowi Polski powoływać się wobec władz polskich na to drugie obywatelstwo ze skutkiem traktowania go jak cudzoziemca."
+  ],
+  "official_sources": [
+    "https://www.gov.pl/web/usa/zrzeczenie-sie-obywatelstwa-polskiego",
+    "https://www.gov.pl/web/mswia/utrata-obywatelstwa-polskiego"
+  ]
+}
