@@ -1,0 +1,21 @@
+{
+  "id": "teutonic-grunwald-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "medieval",
+  "title": "Grunwald — znaczenie wojny z zakonem",
+  "facts": [
+    "Bitwa pod Grunwaldem 15 lipca 1410 r. była wielkim zwycięstwem wojsk polsko-litewskich i ich sojuszników nad Zakonem Krzyżackim.",
+    "Dowództwo strony polsko-litewskiej było związane z królem Władysławem Jagiełłą i wielkim księciem Witoldem.",
+    "Zwycięstwo nie zakończyło natychmiast konfliktu z zakonem, który trwał w różnych formach jeszcze przez dziesięciolecia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
