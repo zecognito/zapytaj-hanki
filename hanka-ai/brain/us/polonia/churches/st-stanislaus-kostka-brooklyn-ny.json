@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-stanislaus-kostka-brooklyn-ny",
+  "country": "US",
+  "category": "church",
+  "name": "St. Stanislaus Kostka Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "607 Humboldt St",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11222",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 718 388 0170",
+  "email": null,
+  "website": "https://ststanislauskostka.com",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "NY"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://ststanislauskostka.com",
+  "last_verified": "2026-09-30"
+}
