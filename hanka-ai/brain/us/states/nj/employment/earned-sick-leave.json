@@ -1,0 +1,21 @@
+{
+  "id": "nj-earned-sick-leave",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NJ",
+  "topic": "employment",
+  "subtopic": "earned_sick_leave",
+  "title": "Earned Sick Leave w New Jersey",
+  "facts": [
+    "Objęci pracownicy w New Jersey zasadniczo naliczają 1 godzinę earned sick leave za każde 30 przepracowanych godzin.",
+    "Prawo pozwala zasadniczo zgromadzić do 40 godzin earned sick leave w benefit year, z wyjątkami i szczegółowymi zasadami ustawowymi.",
+    "Leave można wykorzystać w sytuacjach określonych prawem, m.in. dotyczących zdrowia pracownika lub członka rodziny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nj.gov/labor/worker-protections/earnedsick/law.shtml"
+  ],
+  "related_public_pages": []
+}
