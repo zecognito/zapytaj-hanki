@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-jp2-apostolate-lawrenceville-ga",
+  "country": "US",
+  "category": "church",
+  "name": "Polish Catholic Apostolate of St. John Paul II - St. Marguerite d'Youville",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "85 Gloster Rd NW",
+    "city": "Lawrenceville",
+    "state": "GA",
+    "postal_code": "30044",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 770 935 1958",
+  "email": null,
+  "website": "https://pcaaa.org/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "GA"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify current times on the official parish or diocesan source."
+  ],
+  "official_source": "https://pcaaa.org/",
+  "last_verified": "2026-09-30"
+}
