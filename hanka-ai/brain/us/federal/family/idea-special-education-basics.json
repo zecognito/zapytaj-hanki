@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-family-idea-special-education",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "family_children",
+  "subtopic": "school_children",
+  "title": "IDEA special education - federal basics",
+  "facts": [
+    "The Individuals with Disabilities Education Act provides federal rights for eligible children with disabilities, including a free appropriate public education designed to meet their unique needs.",
+    "Part B generally covers eligible children and youth ages 3 through 21 under state implementation rules, while Part C addresses early intervention for eligible infants and toddlers.",
+    "An Individualized Education Program, or IEP, is the written education program used for an eligible child served under IDEA Part B.",
+    "Eligibility under IDEA is not automatic from a medical diagnosis alone; the child must meet applicable disability and educational-need requirements."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sites.ed.gov/idea/about-idea/"
+  ],
+  "related_public_pages": []
+}
