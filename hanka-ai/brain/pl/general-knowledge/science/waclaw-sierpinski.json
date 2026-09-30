@@ -1,0 +1,21 @@
+{
+  "id": "waclaw-sierpinski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Wacław Sierpiński",
+  "facts": [
+    "Wacław Sierpiński był jednym z najwybitniejszych polskich matematyków XX wieku.",
+    "Prowadził badania m.in. w teorii mnogości, teorii liczb i topologii.",
+    "Jego nazwisko noszą znane obiekty matematyczne, w tym trójkąt i dywan Sierpińskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pan.pl/"
+  ],
+  "related_public_pages": []
+}
