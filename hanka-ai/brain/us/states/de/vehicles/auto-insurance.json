@@ -1,0 +1,21 @@
+{
+  "id": "de-auto_insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "DE",
+  "topic": "vehicles",
+  "subtopic": "auto_insurance",
+  "title": "Ubezpieczenie samochodu w Delaware",
+  "facts": [
+    "Stan prowadzi lub reguluje ten program albo obowiązek zgodnie z własnymi przepisami.",
+    "Wymagania zależą od konkretnej sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle stanowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://insurance.delaware.gov/divisions/consumerhp/auto/"
+  ],
+  "related_public_pages": []
+}
