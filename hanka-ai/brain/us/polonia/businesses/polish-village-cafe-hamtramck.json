@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polish-village-cafe-hamtramck",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Polish Village Cafe",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "2990 Yemans St",
+    "city": "Hamtramck",
+    "state": "MI",
+    "postal_code": "48212",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 313-874-5726",
+  "email": null,
+  "website": "https://www.polishvillagecafe.us/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Hamtramck",
+    "MI"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://www.polishvillagecafe.us/",
+  "last_verified": "2026-09-30"
+}
