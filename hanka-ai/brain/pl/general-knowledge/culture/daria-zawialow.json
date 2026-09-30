@@ -1,0 +1,21 @@
+{
+  "id": "daria-zawialow",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "modern-music",
+  "title": "Daria Zawiałow",
+  "facts": [
+    "Daria Zawiałow jest polską wokalistką, autorką tekstów i kompozytorką.",
+    "Jej twórczość łączy elementy popu, rocka i muzyki alternatywnej.",
+    "Zdobyła szeroką popularność dzięki solowym albumom i występom koncertowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
