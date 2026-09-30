@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-stanislaus-woonsocket-ri",
+  "country": "US",
+  "category": "church",
+  "name": "St. Stanislaus Kostka Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "188 Harris Ave",
+    "city": "Woonsocket",
+    "state": "RI",
+    "postal_code": "02895",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 401 762 0021",
+  "email": null,
+  "website": "https://www.dioceseofprovidence.org/parishfinder",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "RI"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish or diocesan source."
+  ],
+  "official_source": "https://www.dioceseofprovidence.org/parishfinder",
+  "last_verified": "2026-09-30"
+}
