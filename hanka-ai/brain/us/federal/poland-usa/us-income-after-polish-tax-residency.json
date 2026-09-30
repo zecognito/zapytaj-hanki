@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "Poland-USA",
+  "topic": "poland_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "poland-usa-us-income-after-polish-tax-residency",
+  "subtopic": "return_to_poland_tax",
+  "title": "Dochody z USA po zostaniu polskim rezydentem podatkowym",
+  "facts": [
+    "Polski rezydent podatkowy zasadniczo podlega w Polsce nieograniczonemu obowiązkowi podatkowemu, więc dochody z USA mogą wymagać polskiego rozliczenia.",
+    "Sposób opodatkowania zależy od rodzaju dochodu oraz umowy podatkowej USA–Polska; nie należy stosować jednej metody do wynagrodzenia, emerytury, dywidend, odsetek i najmu.",
+    "U.S. citizen mieszkający w Polsce może równocześnie mieć federalne obowiązki USA dotyczące worldwide income, dlatego rozliczenie obu państw wymaga koordynacji ulg i treaty rules."
+  ],
+  "official_sources": [
+    "https://www.podatki.gov.pl/podatki-osobiste/pit/informacje-podstawowe/co-jest-opodatkowane/dochody-z-pracy-wykonywanej-za-granica",
+    "https://www.irs.gov/publications/p54",
+    "https://www.irs.gov/businesses/international-businesses/poland-tax-treaty-documents"
+  ]
+}
