@@ -1,0 +1,22 @@
+{
+  "id": "alligator-crocodile-us",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "nature",
+  "subtopic": "wildlife",
+  "title": "Alligator a crocodile w USA",
+  "facts": [
+    "American alligator występuje w południowo-wschodnich USA.",
+    "American crocodile w USA występuje przede wszystkim w południowej Florida.",
+    "To dwa różne gatunki; ich zasięg, wygląd i siedliska częściowo się różnią."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fws.gov/species/american-alligator-alligator-mississippiensis",
+    "https://www.fws.gov/species/american-crocodile-crocodylus-acutus"
+  ],
+  "related_public_pages": []
+}
