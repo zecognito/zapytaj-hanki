@@ -1,0 +1,21 @@
+{
+  "id": "poland-1989-transition",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "communism",
+  "title": "Polska 1989 i koniec systemu komunistycznego",
+  "facts": [
+    "Rozmowy Okrągłego Stołu w 1989 r. doprowadziły do porozumień między władzami komunistycznymi a częścią opozycji.",
+    "4 czerwca 1989 r. odbyły się częściowo wolne wybory parlamentarne, które przyniosły zdecydowane zwycięstwo kandydatom związanym z Solidarnością w miejscach objętych rzeczywistą konkurencją.",
+    "Rok 1989 był procesem transformacji ustrojowej, a nie pojedynczym momentem natychmiastowej zmiany całego systemu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/pl/historia-z-ipn/160238,4-czerwca-1989-roku-Wybory-czerwcowe.html"
+  ],
+  "related_public_pages": []
+}
