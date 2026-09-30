@@ -1,0 +1,21 @@
+{
+  "id": "country-bhutan",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Bhutan",
+  "facts": [
+    "Bhutan is a landlocked Himalayan country between India and China.",
+    "Its capital is Thimphu, its official language is Dzongkha, and its currency is the ngultrum.",
+    "Bhutan is a constitutional monarchy and is known for incorporating the concept of Gross National Happiness into its development philosophy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mfa.gov.bt/"
+  ],
+  "related_public_pages": []
+}
