@@ -1,0 +1,21 @@
+{
+  "id": "shipbuilding-gdansk",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "industries",
+  "title": "Przemysł stoczniowy w Gdańsku",
+  "facts": [
+    "Gdańsk i całe polskie Wybrzeże mają długą tradycję budowy i remontu statków.",
+    "Stocznia Gdańska ma wyjątkowe znaczenie historyczne jako miejsce strajków 1980 r. i narodzin Solidarności.",
+    "Współczesny przemysł morski obejmuje stocznie, porty, logistykę i wyspecjalizowaną produkcję."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/infrastruktura"
+  ],
+  "related_public_pages": []
+}
