@@ -1,0 +1,21 @@
+{
+  "id": "ure",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "national-institutions",
+  "title": "Urząd Regulacji Energetyki — URE",
+  "facts": [
+    "Prezes Urzędu Regulacji Energetyki jest centralnym organem administracji rządowej odpowiedzialnym za regulację sektora energii w zakresie określonym prawem.",
+    "URE zajmuje się m.in. koncesjami, taryfami w regulowanych obszarach i monitorowaniem rynków energii.",
+    "Bieżące ceny energii dla konkretnego odbiorcy nie wynikają wyłącznie z informacji URE i zależą od taryfy, umowy oraz obowiązujących przepisów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ure.gov.pl/"
+  ],
+  "related_public_pages": []
+}
