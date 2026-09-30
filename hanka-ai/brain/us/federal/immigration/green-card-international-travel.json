@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-immigration-green-card-international-travel",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "immigration",
+  "subtopic": "travel_documents",
+  "title": "Permanent resident international travel - basics",
+  "facts": [
+    "Brief travel outside the United States generally does not affect permanent resident status, but extended or fact-specific travel can raise abandonment issues.",
+    "An absence of more than 1 year is an important travel-document threshold for permanent residents and a reentry permit may be relevant before departure.",
+    "Border officers may consider factors beyond trip length when assessing whether permanent residence was abandoned, including ties to the United States and intent.",
+    "Travel rules for maintaining permanent residence are distinct from naturalization continuous-residence rules."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.uscis.gov/green-card/after-we-grant-your-green-card/international-travel-as-a-permanent-resident"
+  ],
+  "related_public_pages": []
+}
