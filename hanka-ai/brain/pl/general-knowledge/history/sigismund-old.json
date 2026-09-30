@@ -1,0 +1,21 @@
+{
+  "id": "sigismund-old",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "rulers",
+  "title": "Zygmunt I Stary",
+  "facts": [
+    "Zygmunt I Stary był królem Polski i wielkim księciem litewskim z dynastii Jagiellonów.",
+    "Jego panowanie w pierwszej połowie XVI wieku przypada na okres rozwoju polskiego renesansu.",
+    "Za jego czasów odbył się hołd pruski w 1525 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/a/polska-za-panowania-ostatnich-jagiellonow/D13cwJVZR"
+  ],
+  "related_public_pages": []
+}
