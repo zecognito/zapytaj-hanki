@@ -1,0 +1,21 @@
+{
+  "id": "polish-immigration-industrial-cities",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL-US",
+  "topic": "polonia",
+  "subtopic": "migration_history",
+  "title": "Polacy i amerykańskie miasta przemysłowe",
+  "facts": [
+    "Polscy imigranci tworzyli duże społeczności w wielu industrial cities i regions, szczególnie w Midwest i Northeast.",
+    "Chicago stało się jednym z najważniejszych centrów Polonii, ale znaczące społeczności rozwinęły się również m.in. w Detroit, Milwaukee, Buffalo, Cleveland, Pittsburgh i innych miastach.",
+    "Wielkość historycznej społeczności nie jest tym samym co współczesna liczba mieszkańców deklarujących Polish ancestry."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.loc.gov/classroom-materials/immigration/polish-russian/"
+  ],
+  "related_public_pages": []
+}
