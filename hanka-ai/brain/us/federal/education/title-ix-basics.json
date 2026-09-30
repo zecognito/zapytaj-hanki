@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-education-title-ix-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "education",
+  "subtopic": "title_ix",
+  "title": "Title IX - education discrimination basics",
+  "facts": [
+    "Title IX prohibits discrimination on the basis of sex in education programs or activities receiving federal financial assistance, subject to the statute and applicable regulations.",
+    "Title IX can apply to areas including admissions in covered contexts, athletics, pregnancy-related protections, sexual harassment and other sex-based discrimination.",
+    "The U.S. Department of Education Office for Civil Rights enforces Title IX for covered education institutions.",
+    "Current Title IX regulatory requirements can change through rulemaking and court decisions, so procedural questions should be checked against current Department of Education guidance."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ed.gov/laws-and-policy/civil-rights-laws/title-ix-and-sex-discrimination"
+  ],
+  "related_public_pages": []
+}
