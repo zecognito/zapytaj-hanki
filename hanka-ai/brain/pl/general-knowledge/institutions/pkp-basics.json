@@ -1,0 +1,21 @@
+{
+  "id": "pkp-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "transportation",
+  "title": "PKP — co oznacza?",
+  "facts": [
+    "PKP historycznie oznacza Polskie Koleje Państwowe i pozostaje nazwą grupy oraz elementem nazw spółek kolejowych.",
+    "Polski transport kolejowy nie jest jedną prostą firmą: przewozy pasażerskie, infrastruktura i inne funkcje wykonują różne spółki i przewoźnicy.",
+    "Przy pytaniu o konkretny bilet lub pociąg Hanka powinna ustalić przewoźnika zamiast zakładać, że wszystko obsługuje jedna spółka PKP."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pkp.pl/"
+  ],
+  "related_public_pages": []
+}
