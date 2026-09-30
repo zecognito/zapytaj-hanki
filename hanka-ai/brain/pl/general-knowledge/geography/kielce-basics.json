@@ -1,0 +1,21 @@
+{
+  "id": "kielce-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Kielce — podstawy",
+  "facts": [
+    "Kielce są stolicą województwa świętokrzyskiego.",
+    "Miasto leży w rejonie Gór Świętokrzyskich, jednego z najstarszych geologicznie obszarów górskich Polski.",
+    "Kielce są regionalnym centrum administracyjnym, gospodarczym, akademickim i targowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.kielce.eu/"
+  ],
+  "related_public_pages": []
+}
