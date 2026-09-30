@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-credit-debt-validation-notice",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "credit_banking",
+  "subtopic": "debt_collection",
+  "title": "Debt validation notice and dispute",
+  "facts": [
+    "A covered debt collector generally must provide validation information about the debt in the initial communication or within five days, unless an exception applies.",
+    "The validation notice includes information about the debt and consumer rights, including a validation period for disputing the debt.",
+    "If a consumer timely disputes the debt in writing or requests original-creditor information as provided by law, collection activity on the disputed amount generally must pause until required verification or information is mailed.",
+    "A consumer should not assume that ignoring a collection notice makes the debt disappear."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-collection-validation-notice-en-2109/",
+    "https://www.consumerfinance.gov/rules-policy/regulations/1006/34/"
+  ],
+  "related_public_pages": []
+}
