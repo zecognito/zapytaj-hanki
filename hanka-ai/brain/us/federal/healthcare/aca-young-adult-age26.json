@@ -1,0 +1,21 @@
+{
+  "id": "us-federal-healthcare-young-adult-age-26",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "healthcare",
+  "subtopic": "aca",
+  "title": "Dependent health coverage through age 26",
+  "facts": [
+    "When a health plan offers dependent coverage, federal ACA rules generally allow an eligible young adult to remain on a parent's plan until age 26.",
+    "This federal protection generally does not depend on the young adult living with the parent, attending school, being financially dependent, or being unmarried.",
+    "The exact date coverage ends around age 26 can depend on the plan, so plan documents should be checked."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.healthcare.gov/young-adults/children-under-26/"
+  ],
+  "related_public_pages": []
+}
