@@ -1,0 +1,21 @@
+{
+  "id": "country-lebanon",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Liban",
+  "facts": [
+    "Liban leży na wschodnim wybrzeżu Morza Śródziemnego, a jego stolicą jest Bejrut.",
+    "Językiem urzędowym jest arabski, a walutą funt libański.",
+    "Liban jest republiką, której system polityczny rozdziela najważniejsze stanowiska państwowe według utrwalonego systemu konfesyjnego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.presidency.gov.lb/English/LebaneseSystem/Pages/LebaneseSystem.aspx"
+  ],
+  "related_public_pages": []
+}
