@@ -1,0 +1,21 @@
+{
+  "id": "polish-police",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "security",
+  "title": "Policja w Polsce",
+  "facts": [
+    "Policja jest umundurowaną i uzbrojoną formacją służącą społeczeństwu, przeznaczoną do ochrony bezpieczeństwa ludzi oraz utrzymywania bezpieczeństwa i porządku publicznego.",
+    "Do jej zadań należą m.in. ochrona życia i zdrowia, zapobieganie przestępstwom i wykroczeniom oraz wykrywanie ich sprawców.",
+    "Ogólnopolski numer alarmowy 112 może służyć do wezwania Policji w sytuacji wymagającej pilnej interwencji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.policja.pl/"
+  ],
+  "related_public_pages": []
+}
