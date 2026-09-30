@@ -1,0 +1,21 @@
+{
+  "id": "un-security-council",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "international",
+  "subtopic": "organizations",
+  "title": "Rada Bezpieczeństwa ONZ",
+  "facts": [
+    "Rada Bezpieczeństwa ONZ ponosi główną odpowiedzialność za utrzymanie międzynarodowego pokoju i bezpieczeństwa w systemie ONZ.",
+    "Ma 15 członków: pięciu stałych i dziesięciu wybieranych na dwuletnie kadencje.",
+    "Stałymi członkami są Chiny, Francja, Rosja, Wielka Brytania i Stany Zjednoczone; posiadają one prawo weta w głosowaniach merytorycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://main.un.org/securitycouncil/en/content/current-members"
+  ],
+  "related_public_pages": []
+}
