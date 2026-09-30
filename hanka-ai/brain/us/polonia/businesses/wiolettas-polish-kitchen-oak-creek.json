@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-wiolettas-polish-kitchen-oak-creek",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Wioletta's Polish Kitchen",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "7135 S 13th St",
+    "city": "Oak Creek",
+    "state": "WI",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Oak Creek",
+    "WI"
+  ],
+  "notes": [
+    "Current Polish-food connection supported by an official business source or recent/local Polonia source; commercial details remain freshness-sensitive."
+  ],
+  "official_source": "https://onmilwaukee.com/articles/wiolettas-polish-kitchen-opening",
+  "last_verified": "2026-09-30"
+}
