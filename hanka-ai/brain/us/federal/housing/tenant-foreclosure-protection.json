@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-housing-tenant-foreclosure-protection",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "housing_mortgages",
+  "subtopic": "rental_federal",
+  "title": "Protecting Tenants at Foreclosure Act - federal basics",
+  "facts": [
+    "Federal law provides certain protections for bona fide tenants when a residential property changes ownership through foreclosure.",
+    "A successor in interest generally must provide at least 90 days' notice to vacate to a bona fide tenant, subject to the statute.",
+    "A bona fide lease may in some circumstances continue through its term, with an exception related to sale to a purchaser who will occupy the property as a primary residence.",
+    "These federal foreclosure protections do not replace broader state or local tenant protections."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/rules-policy/regulations/1024/appendix-ms-3/",
+    "https://www.law.cornell.edu/uscode/text/12/5220/note"
+  ],
+  "related_public_pages": []
+}
