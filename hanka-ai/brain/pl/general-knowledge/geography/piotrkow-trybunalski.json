@@ -1,0 +1,21 @@
+{
+  "id": "piotrkow-trybunalski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Piotrków Trybunalski",
+  "facts": [
+    "Piotrków Trybunalski jest miastem w województwie łódzkim o ważnej historii parlamentarnej i sądowniczej.",
+    "Od XVI wieku działał tu Trybunał Koronny, najwyższy sąd apelacyjny dla szlachty Korony Królestwa Polskiego.",
+    "Nazwa „Trybunalski” nawiązuje właśnie do tej funkcji historycznej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.piotrkow.pl/"
+  ],
+  "related_public_pages": []
+}
