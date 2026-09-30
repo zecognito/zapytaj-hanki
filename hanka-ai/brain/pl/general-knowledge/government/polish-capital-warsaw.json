@@ -1,0 +1,21 @@
+{
+  "id": "polish-capital-warsaw",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "country_basics",
+  "title": "Warszawa jest stolicą Polski",
+  "facts": [
+    "Konstytucja RP stanowi, że stolicą Rzeczypospolitej Polskiej jest Warszawa.",
+    "Warszawa jest siedzibą najważniejszych centralnych organów państwa.",
+    "Status stolicy jest zapisany w Konstytucji, a nie tylko wynika ze zwyczaju."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sejm.gov.pl/prawo/konst/polski/1.htm"
+  ],
+  "related_public_pages": []
+}
