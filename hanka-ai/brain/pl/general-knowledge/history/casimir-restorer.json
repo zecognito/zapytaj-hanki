@@ -1,0 +1,21 @@
+{
+  "id": "casimir-restorer",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "rulers",
+  "title": "Kazimierz I Odnowiciel",
+  "facts": [
+    "Kazimierz I Odnowiciel był władcą z dynastii Piastów w XI wieku.",
+    "Odbudowywał struktury państwa po kryzysie monarchii piastowskiej i najazdach z pierwszej połowy XI wieku.",
+    "Za jego rządów Kraków zyskał szczególne znaczenie jako ośrodek władzy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/a/kryzys-i-odbudowa-panstwa-piastow/Dt5kL94OD"
+  ],
+  "related_public_pages": []
+}
