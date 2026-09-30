@@ -1,0 +1,21 @@
+{
+  "id": "polish-enigma-codebreakers",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "technology_history",
+  "title": "Polscy kryptolodzy i Enigma",
+  "facts": [
+    "Polscy matematycy Marian Rejewski, Jerzy Różycki i Henryk Zygalski dokonali przełomowych prac nad łamaniem niemieckiego szyfru Enigma przed II wojną światową.",
+    "Polskie Biuro Szyfrów przekazało wiedzę i metody sojusznikom francuskim i brytyjskim w 1939 r.",
+    "Późniejsze prace w Bletchley Park rozwinęły te osiągnięcia; historia złamania Enigmy była wspólnym wysiłkiem wielu zespołów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/diplomacy/the-polish-cipher-bureau-and-the-enigma"
+  ],
+  "related_public_pages": []
+}
