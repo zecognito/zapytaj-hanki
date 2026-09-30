@@ -1,0 +1,21 @@
+{
+  "id": "poz-primary-care",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "healthcare",
+  "subtopic": "system",
+  "title": "POZ — podstawowa opieka zdrowotna",
+  "facts": [
+    "POZ, czyli podstawowa opieka zdrowotna, jest podstawowym poziomem publicznego systemu opieki zdrowotnej w Polsce i obejmuje m.in. lekarza, pielęgniarkę oraz położną POZ.",
+    "Pacjent wybiera świadczeniodawcę POZ poprzez deklarację wyboru. Świadczenia mogą być udzielane w przychodni, a w uzasadnionych przypadkach również w domu pacjenta.",
+    "Standardowe godziny działania POZ to dni robocze od 8:00 do 18:00; poza tymi godzinami funkcję doraźnej opieki przejmuje nocna i świąteczna opieka zdrowotna."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nfz.gov.pl/dla-pacjenta/informacje-o-swiadczeniach/podstawowa-opieka-zdrowotna/"
+  ],
+  "related_public_pages": []
+}
