@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-jp2-bridgeport-ct",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Szkoła Kultury i Języka Polskiego im. Jana Pawła II",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "310 Pulaski Street",
+    "city": "Bridgeport",
+    "state": "CT",
+    "postal_code": "06610",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 347 630 6524",
+  "email": "paulinazdanowicz1@gmail.com",
+  "website": "http://www.polskaszkolabridgeport.com",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "CT"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; enrollment and current class offerings should be confirmed directly with the school."
+  ],
+  "official_source": "https://www.centralapolskichszkol.org/index.php/connecticut/",
+  "last_verified": "2026-09-30"
+}
