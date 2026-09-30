@@ -1,0 +1,21 @@
+{
+  "id": "majdanek",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "holocaust",
+  "title": "Majdanek",
+  "facts": [
+    "KL Lublin, powszechnie nazywany Majdankiem, był niemieckim nazistowskim obozem koncentracyjnym i miejscem masowej zagłady na obrzeżach Lublina.",
+    "Funkcjonował podczas niemieckiej okupacji Polski.",
+    "Państwowe Muzeum na Majdanku chroni teren obozu i dokumentuje historię jego ofiar."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.majdanek.eu/"
+  ],
+  "related_public_pages": []
+}
