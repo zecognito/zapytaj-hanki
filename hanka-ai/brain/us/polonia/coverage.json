@@ -43,13 +43,13 @@
       ]
     },
     "businesses": {
-      "status": "started",
-      "records": 172,
+      "status": "audit_in_progress",
+      "records": 170,
       "notes": [
-        "Directory contains 172 Polish-food/retail records or location-level leads. Recent geographic discovery expanded AZ, NV, UT, OR, CO, TX, MN and NC while skipping an already-present Seattle record.",
-        "Confidence is now explicitly mixed: many records are directly supported by current official business sites, while some under-covered-state records are community-source discovery leads with incomplete address/contact data and require reverification before mature status.",
-        "Do not treat the raw count as 172 equally verified businesses. The next phase should audit weak-source/incomplete records, remove stale or insufficiently supported entries, upgrade sources, and continue discovery only where evidence is strong.",
-        "Food/retail remains started. Professional-service directories remain deferred until this audit establishes a trustworthy mature food/retail baseline."
+        "Food/retail audit is in progress. Raw directory count is now 170 after removing two insufficiently supported placeholder leads; seven other targeted weak filenames were already absent by audit time and therefore were not counted as removals.",
+        "Audit corrected three material location errors: Krakus Polish Deli & Bakery is Boardman OH rather than Columbus; Wioletta's Polish Market is Milwaukee WI rather than Chicago; and the Polish Food Store lead is Bremond TX rather than Austin. Corrections are supported by current business/official/community sources.",
+        "Current web evidence also confirms active Polish Market in Troy MI and Wioletta's Polish Market in Milwaukee; official/current sources are being preferred over generic directories.",
+        "Do not ingest this commercial layer into Vectorize until the audit is complete. Remaining weak-source and incomplete records still require review before mature status."
       ]
     },
     "media_culture": {
