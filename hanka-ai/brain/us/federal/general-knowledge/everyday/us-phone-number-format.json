@@ -1,0 +1,21 @@
+{
+  "id": "us-phone-number-format",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "communications",
+  "subtopic": "phone_numbers",
+  "title": "Jak wygląda numer telefonu w USA?",
+  "facts": [
+    "Numery w North American Numbering Plan mają 10 cyfr w formacie area code + central office code + line number.",
+    "Typowy zapis to (312) 555-1234 lub 312-555-1234.",
+    "Kod kraju dla USA w połączeniach międzynarodowych to +1; +1 obejmuje również inne kraje i terytoria należące do NANP."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nationalnanpa.com/about_us/abt_nanp.html"
+  ],
+  "related_public_pages": []
+}
