@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-family-paid-parental-leave-boundary",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "family_children",
+  "subtopic": "parental_leave",
+  "title": "Paid maternity and paternity leave - federal boundary",
+  "facts": [
+    "There is no general federal law requiring every private employer in the United States to provide paid maternity or paternity leave.",
+    "Federal FMLA provides job-protected unpaid leave to eligible employees of covered employers, while some states and employers provide paid family or medical leave.",
+    "Federal employees can have separate paid parental leave rights under federal employment rules.",
+    "A specific paid-parental-leave answer therefore requires the worker's employer type and state."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/whd/fmla",
+    "https://www.opm.gov/policy-data-oversight/pay-leave/paid-parental-leave/"
+  ],
+  "related_public_pages": []
+}
