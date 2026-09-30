@@ -1,0 +1,21 @@
+{
+  "id": "golabki",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Gołąbki",
+  "facts": [
+    "Gołąbki to potrawa z liści kapusty zawijanych wokół farszu, najczęściej zawierającego mięso i ryż lub kaszę.",
+    "Sposób przygotowania, farsz i sos różnią się regionalnie i rodzinnie.",
+    "Nazwa „gołąbki” nie oznacza, że współczesna typowa potrawa jest przygotowywana z mięsa gołębia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101-golabki"
+  ],
+  "related_public_pages": []
+}
