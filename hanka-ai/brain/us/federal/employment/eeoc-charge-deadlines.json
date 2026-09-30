@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-employment-eeoc-charge-deadlines",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "eeoc",
+  "title": "EEOC charge filing deadlines — podstawy",
+  "facts": [
+    "W większości federalnych discrimination claims charge do EEOC musi być złożone w ciągu 180 calendar days od alleged discrimination.",
+    "Termin może zostać przedłużony do 300 calendar days, jeśli state lub local agency egzekwuje prawo zakazujące tego samego rodzaju employment discrimination.",
+    "Dla federal employees obowiązuje odmienny proces; zasadniczo trzeba skontaktować się z agency EEO Counselor w ciągu 45 dni.",
+    "Dokładny deadline zależy od rodzaju claim, jurysdykcji i zdarzenia, dlatego nie należy zakładać automatycznie 300 dni."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.eeoc.gov/time-limits-filing-charge",
+    "https://www.eeoc.gov/federal-sector/overview-federal-sector-eeo-complaint-process"
+  ],
+  "related_public_pages": []
+}
