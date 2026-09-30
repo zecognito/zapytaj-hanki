@@ -1,0 +1,21 @@
+{
+  "id": "co-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CO",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Health First Colorado — Medicaid w Colorado",
+  "facts": [
+    "Health First Colorado jest stanowym programem Medicaid dla kwalifikujących się mieszkańców.",
+    "Eligibility zależy od kategorii programu, dochodu gospodarstwa domowego i innych obowiązujących kryteriów.",
+    "Wniosek i odnowienie coverage prowadzi właściwa administracja stanowa zgodnie z aktualnymi zasadami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://hcpf.colorado.gov/medicaid"
+  ],
+  "related_public_pages": []
+}
