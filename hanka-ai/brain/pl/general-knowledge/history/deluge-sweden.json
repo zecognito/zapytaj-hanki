@@ -1,0 +1,21 @@
+{
+  "id": "deluge-sweden",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "wars",
+  "title": "Potop szwedzki",
+  "facts": [
+    "Potop szwedzki to polskie określenie szwedzkiej inwazji i wojny z Rzecząpospolitą w latach 1655–1660.",
+    "Konflikt spowodował ogromne straty ludnościowe, gospodarcze i materialne.",
+    "Był częścią szerszego okresu wojen, które poważnie osłabiły Rzeczpospolitą w XVII wieku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
