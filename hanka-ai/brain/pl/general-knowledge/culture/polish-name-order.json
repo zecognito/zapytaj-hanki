@@ -1,0 +1,21 @@
+{
+  "id": "polish-name-order",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "everyday",
+  "title": "Polskie imię i nazwisko",
+  "facts": [
+    "W polskim zwyczaju osoba jest najczęściej przedstawiana jako imię, a następnie nazwisko.",
+    "W alfabetycznych spisach nazwisko może być podawane jako pierwsze.",
+    "Polskie nazwiska mogą mieć formy zależne od płci, np. Kowalski/Kowalska, ale nie dotyczy to wszystkich nazwisk."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/poradnia/"
+  ],
+  "related_public_pages": []
+}
