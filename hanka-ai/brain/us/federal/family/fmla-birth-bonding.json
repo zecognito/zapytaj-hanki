@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-family-fmla-birth-bonding",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "family_children",
+  "subtopic": "parental_leave",
+  "title": "FMLA leave for birth and bonding",
+  "facts": [
+    "Eligible employees of covered employers may use FMLA leave for the birth of a child and bonding with the newborn.",
+    "Eligible employees may also use FMLA leave for placement of a child for adoption or foster care and bonding with the newly placed child.",
+    "FMLA bonding leave generally must be completed within 12 months after birth or placement.",
+    "Federal FMLA leave is generally unpaid, although paid employer leave or state paid-leave benefits may overlap when applicable."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/whd/fmla"
+  ],
+  "related_public_pages": []
+}
