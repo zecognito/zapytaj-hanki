@@ -1,0 +1,21 @@
+{
+  "id": "world-bank-group",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "international",
+  "subtopic": "organizations",
+  "title": "Grupa Banku Światowego",
+  "facts": [
+    "Grupa Banku Światowego jest zespołem instytucji zajmujących się finansowaniem rozwoju i ograniczaniem ubóstwa.",
+    "Międzynarodowy Bank Odbudowy i Rozwoju (IBRD) oraz Międzynarodowe Stowarzyszenie Rozwoju (IDA) są wspólnie często określane jako Bank Światowy.",
+    "Siedziba Grupy Banku Światowego znajduje się w Waszyngtonie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.worldbank.org/en/who-we-are"
+  ],
+  "related_public_pages": []
+}
