@@ -1,0 +1,21 @@
+{
+  "id": "wilanow-palace",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Pałac w Wilanowie",
+  "facts": [
+    "Pałac w Wilanowie w Warszawie jest historyczną rezydencją królewską szczególnie związaną z Janem III Sobieskim.",
+    "Kompleks pałacowo-ogrodowy zachował ciągłość historyczną mimo wojen i rozbiorów.",
+    "Dziś działa jako muzeum i ważny zabytek polskiego baroku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.wilanow-palac.pl/"
+  ],
+  "related_public_pages": []
+}
