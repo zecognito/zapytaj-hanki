@@ -1,0 +1,21 @@
+{
+  "id": "bald-eagle-wildlife",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "nature",
+  "subtopic": "wildlife",
+  "title": "Bald eagle",
+  "facts": [
+    "Bald eagle jest dużym ptakiem drapieżnym występującym w Ameryce Północnej i narodowym symbolem USA.",
+    "Gatunek został usunięty z federalnej listy endangered and threatened species w 2007 r. po odbudowie populacji.",
+    "Bald eagles nadal są chronione m.in. przez Bald and Golden Eagle Protection Act oraz Migratory Bird Treaty Act."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fws.gov/species/bald-eagle-haliaeetus-leucocephalus"
+  ],
+  "related_public_pages": []
+}
