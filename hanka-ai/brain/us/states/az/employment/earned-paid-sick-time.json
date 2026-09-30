@@ -1,0 +1,21 @@
+{
+  "id": "az-earned-paid-sick-time",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AZ",
+  "topic": "employment",
+  "subtopic": "paid_sick_leave",
+  "title": "Earned Paid Sick Time w Arizonie",
+  "facts": [
+    "Arizona Fair Wages and Healthy Families Act wymaga earned paid sick time dla objętych employees.",
+    "Pracownicy zasadniczo naliczają co najmniej 1 godzinę earned paid sick time za każde 30 przepracowanych godzin.",
+    "Roczny limit wykorzystania zależy od liczby employees pracodawcy, zgodnie z ustawą i właściwymi rules."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.azica.gov/labor-earned-paid-sick-time-main-page"
+  ],
+  "related_public_pages": []
+}
