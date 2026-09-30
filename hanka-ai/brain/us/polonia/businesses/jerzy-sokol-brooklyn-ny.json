@@ -1,0 +1,35 @@
+{
+  "id": "polonia-prof-law-jerzy-sokol-brooklyn-ny",
+  "country": "US",
+  "category": "lawyer",
+  "name": "Jerzy Sokol Attorney at Law",
+  "status": "active",
+  "location": {
+    "address": "861 Manhattan Ave, Suite 6",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11222",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "immigration law",
+    "criminal law",
+    "civil matters",
+    "bankruptcy",
+    "probate",
+    "Poland-USA legal matters"
+  ],
+  "phone": "+1 718-389-5115",
+  "email": null,
+  "website": "https://adwokatsokol.com/",
+  "official_source": "https://adwokatsokol.com/en/",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official firm site states New York State Bar admission since 1997 and service to the Polish community in NY/NJ/CT, with a parallel Warsaw practice."
+  ]
+}
