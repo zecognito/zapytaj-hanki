@@ -44,13 +44,13 @@
     },
     "businesses": {
       "status": "professionals_national_expansion",
-      "records": 271,
+      "records": 277,
       "notes": [
         "Food/retail first-pass audit closed at 167 records; machine schema validation remains mandatory before ingestion.",
-        "Bank retrieval now has three evidence tiers: (1) explicit national Polish-language program, e.g. PNC; (2) explicit branch-level Polish capability, e.g. verified Byline/Apple branches; (3) generic national language/interpreter assistance, e.g. cautious Bank of America/Chase records. Tier 3 must never be described as a dedicated Polish program without separate evidence.",
-        "Bank of America and Chase national records intentionally omit pl from languages because current evidence supports general language/interpreter assistance, not a verified dedicated Polish program. They should rank below PNC and explicit Polish-capable branches for Polish banking queries.",
-        "Referral-layer professional records may be active only where evidence supports a current provider; weak/placeholder leads are marked unverified and must never outrank verified active providers.",
-        "Continue direct first-party professional discovery and bank-specific Polish support research. Vectorize remains blocked until coverage and schema/status-aware ingestion are mature."
+        "Latest additions strengthen direct insurance and professional referral infrastructure: Maria Budny State Farm, conservative Anna Wanat State Farm lead, Polish-American Medical Society physician network, Polish-American Real Estate Professionals, Polish American Contractors Builders Association, and Polish-American Engineers Association.",
+        "Professional associations are stored as referral/discovery infrastructure, not as substitutes for individually verified providers. Membership never proves Polish-language service or current professional licensing.",
+        "Bank evidence tiers remain locked: explicit national Polish program; explicit branch-level Polish capability; generic interpreter/language assistance. Generic assistance must not be described as a dedicated Polish program.",
+        "Continue direct first-party healthcare, accounting/tax, insurance, real estate and banking discovery. Vectorize remains blocked until coverage and schema/status-aware ingestion are mature."
       ]
     },
     "media_culture": {
