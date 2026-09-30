@@ -1,0 +1,35 @@
+{
+  "id": "polonia-credit-union-psfcu-new-britain-ct",
+  "country": "US",
+  "category": "credit_union",
+  "name": "Polish & Slavic Federal Credit Union - New Britain",
+  "status": "active",
+  "location": {
+    "address": "38 Broad Street",
+    "city": "New Britain",
+    "state": "CT",
+    "postal_code": "06053",
+    "latitude": null,
+    "longitude": null
+  },
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "checking and savings",
+    "consumer loans",
+    "mortgages",
+    "credit and debit cards",
+    "online banking",
+    "member financial services"
+  ],
+  "phone": "+1 862-233-3507",
+  "email": null,
+  "website": "https://www.psfcu.com/",
+  "official_source": "https://www.psfcu.com/our_branches",
+  "last_verified": "2026-09-30",
+  "notes": [
+    "Official PSFCU branch list confirms this physical branch. PSFCU directly documents its mission/history serving Polish and Slavic immigrant communities."
+  ]
+}
