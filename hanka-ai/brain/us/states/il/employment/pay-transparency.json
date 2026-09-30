@@ -1,0 +1,21 @@
+{
+  "id": "il-pay-transparency",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "employment",
+  "subtopic": "pay_transparency",
+  "title": "Pay transparency w ogłoszeniach o pracę w Illinois",
+  "facts": [
+    "Od 1 stycznia 2025 r. objęci Illinois Equal Pay Act pracodawcy zatrudniający co najmniej 15 osób muszą w określonych ogłoszeniach o pracę podawać pay scale lub compensation oraz benefits.",
+    "Wymóg dotyczy objętych ofert pracy wykonywanej przynajmniej częściowo w Illinois albo raportującej do przełożonego, biura lub miejsca pracy w Illinois.",
+    "Prawo nie wymaga od pracodawcy publikowania oferty, ale gdy objęty pracodawca ją publikuje, obowiązują zasady pay transparency."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://labor.illinois.gov/laws-rules/conmed/equal-pay-act-salary-transparency.html"
+  ],
+  "related_public_pages": []
+}
