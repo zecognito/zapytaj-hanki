@@ -1,0 +1,21 @@
+{
+  "id": "roman-polanski-films-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "film",
+  "title": "Roman Polański — twórczość filmowa",
+  "facts": [
+    "Roman Polański jest reżyserem urodzonym w Paryżu i wychowanym w Polsce, którego kariera obejmuje kino polskie, europejskie i amerykańskie.",
+    "Do jego znanych filmów należą m.in. „Nóż w wodzie”, „Chinatown” i „Pianista”.",
+    "Opis twórczości filmowej należy oddzielać od jego sprawy karnej i statusu prawnego w Stanach Zjednoczonych, które wymagają osobnego, precyzyjnego kontekstu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/artist/roman-polanski"
+  ],
+  "related_public_pages": []
+}
