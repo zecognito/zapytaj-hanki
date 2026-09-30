@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-karol-wojtyla-linden-nj",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła Dokształcająca im. Karola Wojtyły",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "705 Clinton St",
+    "city": "Linden",
+    "state": "NJ",
+    "postal_code": "07036",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 908 380 7405",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary school"
+  ],
+  "coverage_area": [
+    "NJ"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; verify enrollment details directly with the school."
+  ],
+  "official_source": "https://archiwum.orpeg.gov.pl/db/web/database/entry/9976",
+  "last_verified": "2026-09-30"
+}
