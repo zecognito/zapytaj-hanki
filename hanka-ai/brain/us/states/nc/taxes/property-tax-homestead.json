@@ -1,0 +1,21 @@
+{
+  "id": "nc-homestead-exclusion",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NC",
+  "topic": "housing",
+  "subtopic": "property_tax_relief",
+  "title": "Property-tax relief dla kwalifikujących się homeowners w Karolinie Północnej",
+  "facts": [
+    "North Carolina oferuje property-tax relief programs dla określonych kwalifikujących się homeowners, w tym elderly/disabled homestead exclusion.",
+    "Eligibility zależy od programu, wieku lub disability, income i statusu principal residence.",
+    "Application składa się do county tax office zgodnie z terminami i dokumentacją programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ncdor.gov/taxes-forms/property-tax/property-tax-relief-programs"
+  ],
+  "related_public_pages": []
+}
