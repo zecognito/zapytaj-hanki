@@ -1,0 +1,21 @@
+{
+  "id": "nc-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NC",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce do Karoliny Północnej",
+  "facts": [
+    "Nowy mieszkaniec North Carolina posiadający out-of-state license powinien uzyskać North Carolina driver license zgodnie z wymaganiami NCDMV.",
+    "Proces wymaga odpowiednich identity, Social Security i North Carolina residency documents oraz spełnienia właściwych licensing requirements.",
+    "Driver license i vehicle title/registration są odrębnymi procesami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ncdot.gov/dmv/help/moving/Pages/new-residents.aspx"
+  ],
+  "related_public_pages": []
+}
