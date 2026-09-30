@@ -1,0 +1,22 @@
+{
+  "id": "il-security-deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Illinois security-deposit rules",
+  "facts": [
+    "Illinois has statewide security-deposit rules, but important requirements can depend on building size and local ordinances.",
+    "The Security Deposit Return Act generally requires covered landlords to provide an itemized statement of damage and estimated or actual repair costs within 30 days after the tenant leaves when deductions are claimed.",
+    "For covered properties, remaining security-deposit money generally must be returned within 45 days after the tenant leaves.",
+    "Chicago and some other municipalities have additional landlord-tenant requirements that must be checked separately."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=2202&ChapterID=62"
+  ],
+  "related_public_pages": []
+}
