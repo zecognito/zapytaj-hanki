@@ -1,0 +1,21 @@
+{
+  "id": "polish-nobel-context",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "science",
+  "title": "Polacy i Nagrody Nobla",
+  "facts": [
+    "Z Polską związanych jest wielu laureatów Nagrody Nobla w dziedzinach naukowych, literaturze i pokojowej.",
+    "Przynależność narodowa części historycznych laureatów może wymagać kontekstu z powodu zmieniających się granic, obywatelstwa i wielokulturowej historii regionu.",
+    "Przy podawaniu liczby „polskich noblistów” Hanka powinna wyjaśnić kryterium zamiast podawać jedną bezkontekstową liczbę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nobelprize.org/prizes/lists/all-nobel-prizes/"
+  ],
+  "related_public_pages": []
+}
