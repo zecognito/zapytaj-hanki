@@ -1,0 +1,21 @@
+{
+  "id": "ia-security_deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IA",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit w Iowa",
+  "facts": [
+    "Prawo stanowe reguluje security deposits przy najmie mieszkań.",
+    "Dozwolone potrącenia i termin zwrotu zależą od obowiązujących przepisów.",
+    "Warto zachować dokumentację najmu i stanu lokalu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.legis.iowa.gov/docs/code/562A.12.pdf"
+  ],
+  "related_public_pages": []
+}
