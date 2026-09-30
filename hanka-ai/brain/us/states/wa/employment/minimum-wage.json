@@ -1,0 +1,21 @@
+{
+  "id": "wa-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WA",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w stanie Waszyngton",
+  "facts": [
+    "Washington minimum wage wynosi $17.13 za godzinę w 2026 roku dla większości objętych pracowników.",
+    "Niektóre lokalne jurysdykcje mają wyższe minimum wage.",
+    "Stawka stanowa jest aktualizowana, więc dla późniejszych okresów trzeba sprawdzać Washington L&I."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.lni.wa.gov/workers-rights/wages/minimum-wage/index"
+  ],
+  "related_public_pages": []
+}
