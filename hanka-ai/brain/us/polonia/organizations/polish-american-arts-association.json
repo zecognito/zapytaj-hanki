@@ -1,0 +1,34 @@
+{
+  "id": "polonia-org-polish-american-arts-association",
+  "country": "US",
+  "category": "organization",
+  "name": "Polish American Arts Association",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Washington",
+    "state": "DC",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": "https://www.paaa.us/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-American arts and cultural programming"
+  ],
+  "coverage_area": [
+    "US"
+  ],
+  "notes": [
+    "Institutional directory record; services, leadership and contact details should be periodically refreshed."
+  ],
+  "official_source": "https://www.paaa.us/",
+  "last_verified": "2026-09-30"
+}
