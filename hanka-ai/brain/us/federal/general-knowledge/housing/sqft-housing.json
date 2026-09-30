@@ -1,0 +1,21 @@
+{
+  "id": "sqft-housing",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "housing",
+  "subtopic": "housing_terms",
+  "title": "Square feet w ogłoszeniach mieszkaniowych",
+  "facts": [
+    "Powierzchnia domu lub mieszkania w USA jest zwykle podawana w square feet (sq ft lub ft²).",
+    "1 square foot odpowiada dokładnie 0,09290304 m².",
+    "Sposób liczenia powierzchni mieszkalnej może różnić się między standardami i źródłami, dlatego listing sqft nie zawsze jest bezpośrednio porównywalne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nist.gov/pml/owm/si-units-area"
+  ],
+  "related_public_pages": []
+}
