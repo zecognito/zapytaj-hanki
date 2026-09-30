@@ -174,11 +174,19 @@
     {
       "id": "immigration",
       "label": "Imigracja",
-      "status": "planned",
+      "status": "started",
       "subtopics": [
         "green_card",
         "citizenship",
         "naturalization",
+        "work_authorization",
+        "travel_documents",
+        "change_of_address"
+      ],
+      "completed_subtopics": [
+        "green_card",
+        "naturalization",
+        "citizenship",
         "work_authorization",
         "travel_documents",
         "change_of_address"
