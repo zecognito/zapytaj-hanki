@@ -1,0 +1,21 @@
+{
+  "id": "flag-day-may-2",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "holidays",
+  "title": "2 maja — Dzień Flagi",
+  "facts": [
+    "Dzień Flagi Rzeczypospolitej Polskiej obchodzony jest 2 maja.",
+    "Tego samego dnia obchodzony jest Dzień Polonii i Polaków za Granicą.",
+    "2 maja sam w sobie nie jest ogólnym dniem ustawowo wolnym od pracy tylko dlatego, że jest Dniem Flagi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/kultura/dzien-flagi-rzeczypospolitej-polskiej"
+  ],
+  "related_public_pages": []
+}
