@@ -1,0 +1,21 @@
+{
+  "id": "kotlet-schabowy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Kotlet schabowy",
+  "facts": [
+    "Kotlet schabowy to panierowany kotlet wieprzowy będący jedną z najbardziej rozpoznawalnych potraw domowej kuchni polskiej.",
+    "Jest zwykle smażony i często podawany z ziemniakami oraz surówką lub kapustą.",
+    "Choć jest mocno zakorzeniony we współczesnej kuchni polskiej, panierowane kotlety mają szersze europejskie pokrewieństwa kulinarne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101-schabowy"
+  ],
+  "related_public_pages": []
+}
