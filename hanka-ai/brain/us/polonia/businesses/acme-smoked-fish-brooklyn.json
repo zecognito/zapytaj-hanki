@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-acme-smoked-fish-brooklyn",
+  "country": "US",
+  "category": "store",
+  "name": "Acme Smoked Fish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "30 Gem St",
+    "city": "Brooklyn",
+    "state": "NY",
+    "postal_code": "11222",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 718-383-8585",
+  "email": null,
+  "website": "https://acmesmokedfish.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/specialty foods"
+  ],
+  "coverage_area": [
+    "Brooklyn",
+    "NY"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://acmesmokedfish.com/",
+  "last_verified": "2026-09-30"
+}
