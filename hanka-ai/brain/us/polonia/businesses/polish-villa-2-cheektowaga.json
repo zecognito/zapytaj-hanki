@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polish-villa-2-cheektowaga",
+  "country": "US",
+  "category": "restaurant",
+  "name": "Polish Villa II",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1085 Harlem Rd",
+    "city": "Cheektowaga",
+    "state": "NY",
+    "postal_code": "14227",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 716-822-4908",
+  "email": null,
+  "website": "https://polishvilla2.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Cheektowaga",
+    "NY"
+  ],
+  "notes": [
+    "Commercial directory record; current status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://polishvilla2.com/",
+  "last_verified": "2026-09-30"
+}
