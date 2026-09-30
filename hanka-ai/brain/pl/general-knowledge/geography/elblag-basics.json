@@ -1,0 +1,21 @@
+{
+  "id": "elblag-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Elbląg",
+  "facts": [
+    "Elbląg jest miastem w północnej Polsce, niedaleko Zalewu Wiślanego.",
+    "Ma średniowieczne korzenie i historyczne związki z handlem bałtyckim.",
+    "Miasto jest kojarzone także z Kanałem Elbląskim, znanym z systemu pochylni umożliwiających transport jednostek między odcinkami kanału o różnych poziomach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://elblag.eu/"
+  ],
+  "related_public_pages": []
+}
