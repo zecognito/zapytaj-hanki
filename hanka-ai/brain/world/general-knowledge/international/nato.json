@@ -1,0 +1,21 @@
+{
+  "id": "nato-basics",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "international",
+  "subtopic": "security-organizations",
+  "title": "NATO",
+  "facts": [
+    "Organizacja Traktatu Północnoatlantyckiego (NATO) jest sojuszem polityczno-wojskowym utworzonym w 1949 roku.",
+    "Podstawą zbiorowej obrony jest artykuł 5 Traktatu Północnoatlantyckiego, zgodnie z którym zbrojna napaść na jednego lub więcej sojuszników jest traktowana jako napaść na wszystkich.",
+    "Siedziba NATO znajduje się w Brukseli."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nato.int/cps/en/natohq/topics_110496.htm"
+  ],
+  "related_public_pages": []
+}
