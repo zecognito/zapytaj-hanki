@@ -1,0 +1,21 @@
+{
+  "id": "polish-rock",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "media-pop-culture",
+  "title": "Polski rock",
+  "facts": [
+    "Polska scena rockowa rozwinęła się szczególnie od lat 60. i 70., a bardzo silną pozycję uzyskała w latach 80.",
+    "Do szeroko rozpoznawalnych wykonawców różnych okresów należą m.in. Czesław Niemen, Perfect, Maanam, Lady Pank i Republika.",
+    "Polski rock obejmuje wiele stylów i nie jest jednym jednolitym gatunkiem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
