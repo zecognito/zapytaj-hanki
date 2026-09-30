@@ -1,0 +1,21 @@
+{
+  "id": "tx-real-id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "TX",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Teksasie",
+  "facts": [
+    "Texas Department of Public Safety wydaje driver license i ID zgodne z REAL ID.",
+    "Dokument zgodny z REAL ID jest oznaczony gwiazdką; do uzyskania potrzebne są wymagane dokumenty potwierdzające identity, lawful presence, Social Security number i Texas residency.",
+    "Standardowe prawo jazdy może służyć do prowadzenia pojazdu, ale do określonych federalnych zastosowań trzeba użyć REAL ID albo innego akceptowanego dokumentu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dps.texas.gov/section/driver-license/federal-real-id-act"
+  ],
+  "related_public_pages": []
+}
