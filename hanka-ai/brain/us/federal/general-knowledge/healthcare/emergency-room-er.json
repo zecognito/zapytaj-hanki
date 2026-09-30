@@ -1,0 +1,21 @@
+{
+  "id": "emergency-room-er",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "healthcare",
+  "subtopic": "health_terms",
+  "title": "ER i emergency department",
+  "facts": [
+    "ER oznacza emergency room; spotyka się też ED — emergency department.",
+    "Emergency department służy do oceny i leczenia nagłych, poważnych stanów medycznych.",
+    "W sytuacji bezpośredniego zagrożenia życia w USA należy dzwonić pod 911."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cms.gov/medical-bill-rights/help/guides/emergency-room"
+  ],
+  "related_public_pages": []
+}
