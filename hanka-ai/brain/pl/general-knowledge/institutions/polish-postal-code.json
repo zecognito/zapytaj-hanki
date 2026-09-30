@@ -1,0 +1,21 @@
+{
+  "id": "polish-postal-code",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "communications",
+  "title": "Polski kod pocztowy",
+  "facts": [
+    "Polskie kody pocztowe mają pięć cyfr zapisywanych zwykle w formacie XX-XXX, np. 00-001.",
+    "Kod pocztowy jest elementem adresu i pomaga kierować przesyłki, ale sam nie definiuje dokładnej granicy administracyjnej miejscowości.",
+    "Aktualny kod konkretnego adresu należy sprawdzać w oficjalnej wyszukiwarce Poczty Polskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.poczta-polska.pl/znajdz-kod-pocztowy/"
+  ],
+  "related_public_pages": []
+}
