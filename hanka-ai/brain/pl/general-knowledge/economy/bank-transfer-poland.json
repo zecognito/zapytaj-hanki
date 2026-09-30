@@ -1,0 +1,21 @@
+{
+  "id": "bank-transfer-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "economy",
+  "subtopic": "payments",
+  "title": "Przelew bankowy w Polsce",
+  "facts": [
+    "Przelewy między rachunkami są jedną z podstawowych form płatności w Polsce.",
+    "Standardowy polski numer rachunku bankowego ma 26 cyfr, a w formacie międzynarodowym IBAN poprzedza go kod kraju PL.",
+    "Czas realizacji zależy od rodzaju przelewu, banków i systemu rozliczeniowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nbp.pl/home.aspx?f=/systemplatniczy/index.html"
+  ],
+  "related_public_pages": []
+}
