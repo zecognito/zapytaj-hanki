@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-travel-customs-declaration",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "travel_border",
+  "subtopic": "customs",
+  "title": "U.S. customs declaration - returning travelers",
+  "facts": [
+    "Travelers entering the United States must comply with CBP declaration requirements for articles acquired abroad and other reportable items.",
+    "Items obtained abroad, gifts and purchases can need to be declared even when the traveler believes they fall within a duty-free exemption.",
+    "Declaring an item does not automatically mean duty will be owed.",
+    "Failure to declare restricted or dutiable goods can lead to seizure, penalties or other enforcement consequences."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.cbp.gov/travel/international-visitors/know-before-you-visit/customs-duty-information"
+  ],
+  "related_public_pages": []
+}
