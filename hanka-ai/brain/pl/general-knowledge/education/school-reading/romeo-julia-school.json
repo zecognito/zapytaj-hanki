@@ -1,0 +1,21 @@
+{
+  "id": "romeo-julia-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Romeo i Julia — William Shakespeare",
+  "facts": [
+    "Romeo i Julia, autor: William Shakespeare; utwór powiązany ze szkolnym kanonem i kontekstami literackimi, epoka/obszar: renesans europejski.",
+    "Tragedia o miłości dwojga młodych ludzi z wrogich rodów, której finałem jest śmierć kochanków i pojednanie rodzin.",
+    "Przy pytaniu o aktualny status jako lektury obowiązkowej, uzupełniającej lub materiału zakresu rozszerzonego Hanka powinna odwołać się do właściwej wersji podstawy programowej."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
