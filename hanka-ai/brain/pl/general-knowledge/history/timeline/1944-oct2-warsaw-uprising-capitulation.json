@@ -1,0 +1,23 @@
+{
+  "id": "1944-oct2-warsaw-uprising-capitulation",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "timeline",
+  "title": "2 października 1944 — kapitulacja Powstania Warszawskiego",
+  "facts": [
+    "Po 63 dniach walk przedstawiciele polskich sił powstańczych podpisali 2 października 1944 r. układ o zaprzestaniu działań wojennych w Warszawie.",
+    "W czasie powstania zginęły dziesiątki tysięcy cywilów oraz tysiące powstańców.",
+    "Po kapitulacji Niemcy wypędzili większość pozostałej ludności i systematycznie niszczyli znaczną część miasta."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://www.1944.pl/",
+    "https://www.auschwitz.org/"
+  ],
+  "related_public_pages": []
+}
