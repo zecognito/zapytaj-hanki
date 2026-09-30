@@ -1,0 +1,21 @@
+{
+  "id": "second-polish-republic",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "modern",
+  "title": "II Rzeczpospolita",
+  "facts": [
+    "II Rzeczpospolita to państwo polskie istniejące od odzyskania niepodległości w 1918 r. do agresji Niemiec i Związku Sowieckiego w 1939 r.",
+    "W tym okresie scalano ziemie wcześniej należące do trzech państw zaborczych i budowano wspólne instytucje.",
+    "Państwo było wieloetniczne i wieloreligijne, a jego system polityczny zmieniał się w czasie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
