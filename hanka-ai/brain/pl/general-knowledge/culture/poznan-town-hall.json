@@ -1,0 +1,21 @@
+{
+  "id": "poznan-town-hall",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Ratusz w Poznaniu",
+  "facts": [
+    "Renesansowy ratusz stoi przy Starym Rynku w Poznaniu.",
+    "Jest znany z mechanicznych koziołków ukazujących się nad zegarem w południe.",
+    "Budynek jest siedzibą Muzeum Historii Miasta Poznania, części Muzeum Narodowego w Poznaniu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://mnp.art.pl/"
+  ],
+  "related_public_pages": []
+}
