@@ -1,0 +1,21 @@
+{
+  "id": "ky-real_id",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "KY",
+  "topic": "documents",
+  "subtopic": "real_id",
+  "title": "REAL ID w Kentucky",
+  "facts": [
+    "Stan wydaje dokumenty zgodne z federalnym REAL ID.",
+    "Wniosek wymaga dokumentów potwierdzających identity i residency zgodnie z zasadami stanowej agencji.",
+    "Dokument niezgodny z REAL ID nie wystarcza do objętych wymogiem zastosowań federalnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://drive.ky.gov/Drivers/Pages/Real-ID.aspx"
+  ],
+  "related_public_pages": []
+}
