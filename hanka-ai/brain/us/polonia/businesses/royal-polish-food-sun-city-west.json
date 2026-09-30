@@ -1,0 +1,38 @@
+{
+  "id": "polonia-business-royal-polish-food-sun-city-west",
+  "country": "US",
+  "category": "store",
+  "name": "Royal Polish Foods",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "13576 W Camino Del Sol Blvd",
+    "city": "Sun City West",
+    "state": "AZ",
+    "postal_code": "85375",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 480-471-6742",
+  "email": null,
+  "website": "https://royalpolishfoodaz.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish market",
+    "Polish deli",
+    "hot Polish food",
+    "catering"
+  ],
+  "coverage_area": [
+    "Sun City West",
+    "AZ"
+  ],
+  "notes": [
+    "Polish-food relevance supported by current official business or Polonia/local source. Commercial status and details remain freshness-sensitive."
+  ],
+  "official_source": "https://royalpolishfoodaz.com/",
+  "last_verified": "2026-09-30"
+}
