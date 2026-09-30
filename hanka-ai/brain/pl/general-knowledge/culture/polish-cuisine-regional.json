@@ -1,0 +1,21 @@
+{
+  "id": "polish-cuisine-regional",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Kuchnia polska jest regionalna",
+  "facts": [
+    "Kuchnia polska nie jest jednolita; wpływały na nią historia regionów, migracje, religie, handel i sąsiednie kultury.",
+    "Potrawy charakterystyczne dla Śląska, Podhala, Kaszub, Wielkopolski, Podlasia czy wschodnich terenów dawnej Rzeczypospolitej mogą znacznie się różnić.",
+    "Hanka nie powinna przedstawiać jednej potrawy jako reprezentującej wszystkie regiony Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101"
+  ],
+  "related_public_pages": []
+}
