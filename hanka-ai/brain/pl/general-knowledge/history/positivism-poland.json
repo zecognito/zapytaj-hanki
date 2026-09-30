@@ -1,0 +1,21 @@
+{
+  "id": "positivism-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "culture",
+  "title": "Pozytywizm polski",
+  "facts": [
+    "Polski pozytywizm rozwinął się szczególnie po klęsce Powstania Styczniowego.",
+    "Podkreślał znaczenie edukacji, pracy społecznej, rozwoju gospodarczego i modernizacji.",
+    "Z epoką kojarzeni są m.in. Bolesław Prus, Eliza Orzeszkowa i Maria Konopnicka."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
