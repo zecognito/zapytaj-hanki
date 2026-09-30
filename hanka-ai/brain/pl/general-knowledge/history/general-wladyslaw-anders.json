@@ -1,0 +1,21 @@
+{
+  "id": "general-wladyslaw-anders",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "people",
+  "title": "Władysław Anders",
+  "facts": [
+    "Władysław Anders był polskim generałem i dowódcą formacji Polskich Sił Zbrojnych podczas II wojny światowej.",
+    "Po zwolnieniu z sowieckiego więzienia organizował armię polską w ZSRR, która została następnie ewakuowana na Bliski Wschód.",
+    "Dowodzony przez niego 2 Korpus Polski odegrał kluczową rolę w zdobyciu Monte Cassino w 1944 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/wlochy/2-korpus-polski"
+  ],
+  "related_public_pages": []
+}
