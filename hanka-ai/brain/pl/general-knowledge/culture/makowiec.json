@@ -1,0 +1,21 @@
+{
+  "id": "makowiec",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "food",
+  "title": "Makowiec",
+  "facts": [
+    "Makowiec jest tradycyjnym polskim wypiekiem z masą makową, często w formie rolady.",
+    "Jest szczególnie kojarzony z Bożym Narodzeniem i innymi świętami.",
+    "Przepisy różnią się m.in. ilością maku, bakalii, lukru i rodzajem ciasta."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/polish-food-101"
+  ],
+  "related_public_pages": []
+}
