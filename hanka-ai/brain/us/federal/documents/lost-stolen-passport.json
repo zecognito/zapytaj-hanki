@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-documents-lost-stolen-passport",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "documents",
+  "subtopic": "passport",
+  "title": "Lost or stolen U.S. passport",
+  "facts": [
+    "A lost or stolen valid U.S. passport should be reported to the State Department as soon as possible to help protect against misuse.",
+    "Once a passport is reported lost or stolen, it is invalidated and cannot be used for international travel even if later found.",
+    "Reporting a passport lost or stolen does not automatically replace it; a separate passport application is required for a replacement.",
+    "Procedures differ depending on whether the person is inside or outside the United States."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://travel.state.gov/content/travel/en/passports/have-passport/lost-stolen.html"
+  ],
+  "related_public_pages": []
+}
