@@ -1,0 +1,21 @@
+{
+  "id": "uokik",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "everyday-government",
+  "title": "UOKiK",
+  "facts": [
+    "UOKiK to Urząd Ochrony Konkurencji i Konsumentów.",
+    "Zajmuje się m.in. ochroną zbiorowych interesów konsumentów oraz ochroną konkurencji.",
+    "Indywidualny spór konsumenta ze sprzedawcą może wymagać pomocy rzecznika konsumentów lub innej właściwej instytucji, a nie bezpośrednio postępowania UOKiK."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://uokik.gov.pl/"
+  ],
+  "related_public_pages": []
+}
