@@ -1,0 +1,21 @@
+{
+  "id": "lwow-school-mathematics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "history",
+  "title": "Lwowska szkoła matematyczna",
+  "facts": [
+    "Lwowska szkoła matematyczna była ważnym środowiskiem matematyków działających w międzywojennym Lwowie.",
+    "Do jej czołowych postaci należeli m.in. Stefan Banach, Hugo Steinhaus i Stanisław Ulam.",
+    "Historia tej szkoły należy do dziedzictwa II Rzeczypospolitej; współczesny Lwów znajduje się w Ukrainie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/the-scottish-book-a-mathematical-legend"
+  ],
+  "related_public_pages": []
+}
