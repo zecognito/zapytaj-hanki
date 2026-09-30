@@ -1,0 +1,21 @@
+{
+  "id": "country-slovenia",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Słowenia",
+  "facts": [
+    "Słowenia leży w Europie Środkowej między Alpami a północnym Adriatykiem, a jej stolicą jest Lublana.",
+    "Językiem urzędowym jest słoweński, a na określonych obszarach także włoski i węgierski; walutą jest euro.",
+    "Słowenia jest republiką oraz członkiem Unii Europejskiej i NATO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.si/en/topics/about-slovenia/"
+  ],
+  "related_public_pages": []
+}
