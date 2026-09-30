@@ -1,0 +1,21 @@
+{
+  "id": "mn-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MN",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Minnesocie",
+  "facts": [
+    "Minnesota minimum wage wynosi $11.41 za godzinę od 1 stycznia 2026.",
+    "Minnesota nie pozwala obniżać minimum wage przez tip credit.",
+    "Minneapolis i St. Paul mogą mieć wyższe lokalne minimum wage."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dli.mn.gov/minwage"
+  ],
+  "related_public_pages": []
+}
