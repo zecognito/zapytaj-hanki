@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-employment-minimum-wage",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Federal minimum wage — FLSA",
+  "facts": [
+    "Federal minimum wage dla covered nonexempt employees wynosi $7.25 za godzinę.",
+    "Jeśli pracownika obejmuje jednocześnie federalne i stanowe/lokalne minimum wage, zasadniczo należy stosować wyższą obowiązującą stawkę.",
+    "Federalna stawka $7.25 jest federalnym floor i nie oznacza, że $7.25 jest legalną stawką w każdym stanie lub mieście."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/whd/minimum-wage",
+    "https://www.dol.gov/agencies/whd/mw-consolidated"
+  ],
+  "related_public_pages": []
+}
