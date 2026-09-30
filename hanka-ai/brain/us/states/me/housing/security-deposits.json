@@ -1,0 +1,21 @@
+{
+  "id": "me-security_deposits",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "ME",
+  "topic": "housing",
+  "subtopic": "security_deposits",
+  "title": "Security deposit — Maine",
+  "facts": [
+    "Prawo stanowe określa wymagania i procedurę w tym obszarze.",
+    "Szczegóły zależą od sytuacji osoby i aktualnych przepisów.",
+    "Aktualne wymagania należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://legislature.maine.gov/statutes/14/title14sec6031.html"
+  ],
+  "related_public_pages": []
+}
