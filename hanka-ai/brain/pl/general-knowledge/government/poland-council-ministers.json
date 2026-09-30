@@ -1,0 +1,21 @@
+{
+  "id": "poland-council-ministers",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "institutions",
+  "title": "Rada Ministrów i premier",
+  "facts": [
+    "Rada Ministrów prowadzi politykę wewnętrzną i zagraniczną Rzeczypospolitej Polskiej w zakresie określonym Konstytucją i ustawami.",
+    "Na czele Rady Ministrów stoi Prezes Rady Ministrów, potocznie premier.",
+    "Polski system nie jest odpowiednikiem amerykańskiego systemu prezydenckiego; funkcje głowy państwa i szefa rządu są rozdzielone."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.sejm.gov.pl/prawo/konst/polski/6.htm"
+  ],
+  "related_public_pages": []
+}
