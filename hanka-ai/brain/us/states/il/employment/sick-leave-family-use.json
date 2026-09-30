@@ -1,0 +1,22 @@
+{
+  "id": "il-sick-leave-family-use",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IL",
+  "topic": "employment",
+  "subtopic": "sick_leave",
+  "title": "Illinois Employee Sick Leave Act family use",
+  "facts": [
+    "Illinois's Employee Sick Leave Act does not itself require employers to create paid or unpaid sick leave.",
+    "If an employer provides personal sick leave, employees must generally be allowed to use at least half of those sick-leave benefits to care for covered family members.",
+    "Covered family members include a child, stepchild, spouse, domestic partner, sibling, parent, parent-in-law, grandchild, grandparent, and stepparent."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://labor.illinois.gov/laws-rules/leave_rights_division/employee-sick-leave-act.html",
+    "https://labor.illinois.gov/faqs/employee-sick-leave-act-faqs.html"
+  ],
+  "related_public_pages": []
+}
