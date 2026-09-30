@@ -1,0 +1,21 @@
+{
+  "id": "ar-homestead-tax-credit",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "AR",
+  "topic": "taxes",
+  "subtopic": "state_specific_high_value",
+  "title": "Homestead Property Tax Credit w Arkansas",
+  "facts": [
+    "To ważny program lub reguła specyficzna dla tego stanu.",
+    "Eligibility, wysokość świadczenia lub zakres ochrony zależy od aktualnych zasad programu.",
+    "Przed podjęciem działania należy sprawdzić bieżące wymagania i daty w oficjalnym źródle stanowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dfa.arkansas.gov/office/taxes/property-tax/"
+  ],
+  "related_public_pages": []
+}
