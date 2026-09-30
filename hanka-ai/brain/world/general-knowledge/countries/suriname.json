@@ -1,0 +1,21 @@
+{
+  "id": "country-suriname",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Surinam",
+  "facts": [
+    "Surinam leży na północnym wybrzeżu Ameryki Południowej między Gujaną, Brazylią i Gujaną Francuską.",
+    "Stolicą jest Paramaribo, językiem urzędowym niderlandzki, a walutą dolar surinamski.",
+    "Surinam jest republiką i najmniejszym suwerennym państwem Ameryki Południowej pod względem powierzchni."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://gov.sr/"
+  ],
+  "related_public_pages": []
+}
