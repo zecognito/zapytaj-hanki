@@ -1,0 +1,21 @@
+{
+  "id": "czochralski-method",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "people",
+  "title": "Metoda Czochralskiego",
+  "facts": [
+    "Jan Czochralski był polskim chemikiem i metaloznawcą.",
+    "Opracowana przez niego metoda wzrostu monokryształów stała się później fundamentalna dla produkcji kryształów krzemu używanych w elektronice.",
+    "Metoda Czochralskiego jest jednym z najważniejszych polskich wkładów w technologiczną podstawę współczesnego przemysłu półprzewodników."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/nauka/jan-czochralski"
+  ],
+  "related_public_pages": []
+}
