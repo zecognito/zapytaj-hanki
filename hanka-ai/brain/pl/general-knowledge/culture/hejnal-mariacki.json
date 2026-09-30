@@ -1,0 +1,21 @@
+{
+  "id": "hejnal-mariacki",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "Hejnał mariacki",
+  "facts": [
+    "Hejnał mariacki jest melodią graną z wieży Kościoła Mariackiego w Krakowie.",
+    "Melodia urywa się nagle; popularna legenda wiąże to z trębaczem trafionym strzałą podczas najazdu tatarskiego, ale legenda nie powinna być przedstawiana jako udokumentowany fakt historyczny.",
+    "Hejnał w południe jest transmitowany przez Polskie Radio."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.krakow.pl/english/visit_krakow/2601,artykul,the_bugle_call.html"
+  ],
+  "related_public_pages": []
+}
