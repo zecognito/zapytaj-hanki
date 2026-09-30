@@ -1,0 +1,21 @@
+{
+  "id": "school-board",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "education",
+  "subtopic": "school_terms",
+  "title": "Co to jest school board?",
+  "facts": [
+    "School board jest organem zarządzającym lub nadzorującym lokalny public school district zgodnie z prawem stanowym.",
+    "Zakres uprawnień, sposób wyboru/powoływania i relacja z superintendent różnią się między stanami i districts.",
+    "School board nie jest federalną agencją edukacyjną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ed.gov/about/ed-overview/federal-role-in-education"
+  ],
+  "related_public_pages": []
+}
