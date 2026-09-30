@@ -1,0 +1,21 @@
+{
+  "id": "russification-partitions",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions",
+  "title": "Rusyfikacja ziem polskich",
+  "facts": [
+    "Władze Imperium Rosyjskiego prowadziły politykę rusyfikacji na ziemiach polskich, szczególnie nasilając ją po nieudanych powstaniach XIX wieku.",
+    "Obejmowała ograniczanie użycia języka polskiego w instytucjach i edukacji oraz wzmacnianie rosyjskiej administracji.",
+    "Zakres rusyfikacji zmieniał się zależnie od okresu i regionu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/"
+  ],
+  "related_public_pages": []
+}
