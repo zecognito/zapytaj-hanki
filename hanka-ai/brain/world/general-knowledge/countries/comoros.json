@@ -1,0 +1,21 @@
+{
+  "id": "country-comoros",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Komory",
+  "facts": [
+    "Komory są archipelagowym państwem na Oceanie Indyjskim między północnym Madagaskarem a wybrzeżem Mozambiku.",
+    "Stolicą jest Moroni; komoryjski, arabski i francuski są językami urzędowymi, a walutą jest frank komoryjski.",
+    "Komory są republiką federalną i jednym z najmniejszych państw Afryki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.un.org/en/about-us/member-states/comoros"
+  ],
+  "related_public_pages": []
+}
