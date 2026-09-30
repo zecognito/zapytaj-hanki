@@ -1,0 +1,21 @@
+{
+  "id": "polonia-ancestry-double-counting",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "demographics",
+  "subtopic": "ancestry_interpretation",
+  "title": "Czy ancestry sumuje się do populacji?",
+  "facts": [
+    "ACS pozwala respondentom zgłaszać więcej niż jedno ancestry.",
+    "Dlatego liczebności różnych ancestry nie są wzajemnie rozłączne i ich suma może przekraczać populację danego obszaru.",
+    "Osoba może być jednocześnie liczona np. w Polish ancestry i Irish ancestry, jeśli zadeklarowała oba pochodzenia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/data/academy/resources/one-pagers/ancestry.html"
+  ],
+  "related_public_pages": []
+}
