@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-john-cantius-chicago-il",
+  "country": "US",
+  "category": "church",
+  "name": "St. John Cantius Church",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "825 N Carpenter St",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60642",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 312 243 7373",
+  "email": null,
+  "website": "https://www.cantius.org",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "IL"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://www.cantius.org",
+  "last_verified": "2026-09-30"
+}
