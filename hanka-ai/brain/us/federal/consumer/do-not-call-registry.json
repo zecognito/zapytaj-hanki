@@ -1,0 +1,23 @@
+{
+  "id": "us-federal-consumer-do-not-call",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "consumer_protection",
+  "subtopic": "telemarketing",
+  "title": "National Do Not Call Registry - basics",
+  "facts": [
+    "Consumers can register eligible personal phone numbers on the National Do Not Call Registry for free.",
+    "Registration does not block every call; categories such as certain political calls, charitable solicitations, debt-collection calls and informational calls can be treated differently under applicable law.",
+    "Scammers may ignore the registry, so registration does not itself verify that an incoming call is legitimate.",
+    "Consumers can report unwanted sales calls and robocalls through federal complaint channels."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.donotcall.gov/",
+    "https://consumer.ftc.gov/articles/national-do-not-call-registry-faqs"
+  ],
+  "related_public_pages": []
+}
