@@ -4,7 +4,7 @@
   "category": "store",
   "name": "International Food & Produce Store",
   "aliases": [],
-  "status": "active",
+  "status": "unverified",
   "location": {
     "address": "13201 Tamiami Trail",
     "city": "North Port",
@@ -30,7 +30,7 @@
     "FL"
   ],
   "notes": [
-    "Polish-food relevance supported by current official business or Polonia/local source. Commercial status and details remain freshness-sensitive."
+    "Audited 2026-09-30: listed by a Florida Polonia business directory under Polish food/delis, but current first-party evidence of Polish specialization was insufficient. Marked unverified pending stronger confirmation."
   ],
   "official_source": "https://www.polishfloridabiz.com/polish-deli/",
   "last_verified": "2026-09-30"
