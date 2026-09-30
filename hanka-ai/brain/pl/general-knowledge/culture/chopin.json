@@ -1,0 +1,21 @@
+{
+  "id": "chopin",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "people",
+  "title": "Fryderyk Chopin",
+  "facts": [
+    "Fryderyk Chopin urodził się w 1810 r. w Żelazowej Woli i dorastał w Warszawie.",
+    "Był kompozytorem i pianistą epoki romantyzmu, którego twórczość jest szczególnie związana z fortepianem.",
+    "Znaczną część dorosłego życia spędził w Paryżu, ale jego muzyka i tożsamość były silnie związane z Polską."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://chopin.nifc.pl/en/chopin/zycie"
+  ],
+  "related_public_pages": []
+}
