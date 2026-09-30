@@ -1,0 +1,21 @@
+{
+  "id": "ma-minimum-wage",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MA",
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Płaca minimalna w Massachusetts",
+  "facts": [
+    "Massachusetts ma statewide minimum wage wyższą od federalnej.",
+    "Dla service employees otrzymujących tips obowiązują szczególne zasady dotyczące service rate i tip credit.",
+    "Pracodawca musi zapewnić, aby compensation spełniało wymagania stanowego minimum wage."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mass.gov/info-details/massachusetts-law-about-minimum-wage"
+  ],
+  "related_public_pages": []
+}
