@@ -1,0 +1,21 @@
+{
+  "id": "mn-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "MN",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Minnesocie",
+  "facts": [
+    "Minnesota ma progresywny individual income tax z kilkoma stawkami zależnymi od taxable income i filing status.",
+    "Progi podatkowe są okresowo korygowane, dlatego do konkretnego roku należy używać aktualnych tabel Minnesota Department of Revenue.",
+    "Part-year residents i nonresidents mogą podlegać Minnesota tax od dochodu przypisanego do Minnesoty zgodnie z zasadami stanowymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.revenue.state.mn.us/income-tax-rates-and-brackets"
+  ],
+  "related_public_pages": []
+}
