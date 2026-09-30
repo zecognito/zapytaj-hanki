@@ -1,0 +1,21 @@
+{
+  "id": "bytom",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Bytom",
+  "facts": [
+    "Bytom jest jednym z historycznych miast Górnego Śląska.",
+    "Rozwój miasta w XIX i XX wieku był silnie związany z górnictwem i hutnictwem.",
+    "Skutki wieloletniej eksploatacji górniczej są ważnym elementem współczesnych wyzwań urbanistycznych miasta."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.bytom.pl/"
+  ],
+  "related_public_pages": []
+}
