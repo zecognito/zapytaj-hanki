@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-employment-tipped-employees",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "employment",
+  "subtopic": "minimum_wage",
+  "title": "Federal tipped employee minimum wage / tip credit",
+  "facts": [
+    "Pod federal FLSA employer może w określonych warunkach użyć tip credit wobec tipped employee.",
+    "Federal direct cash wage przy maksymalnym tip credit może wynosić $2.13 za godzinę, ale cash wage plus tips musi osiągnąć co najmniej federal minimum wage $7.25; employer musi pokryć różnicę, jeśli tips są niewystarczające.",
+    "Employer musi spełnić wymagania tip-credit rules, w tym wymagane notice/information; managers i supervisors podlegają ograniczeniom dotyczącym zatrzymywania tips.",
+    "Stanowe lub lokalne prawo może wymagać wyższej cash wage albo zakazywać tip credit."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.dol.gov/agencies/whd/fact-sheets/15-tipped-employees-flsa"
+  ],
+  "related_public_pages": []
+}
