@@ -1,0 +1,21 @@
+{
+  "id": "wi-child-support",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "WI",
+  "topic": "family",
+  "subtopic": "child_support",
+  "title": "Child support w Wisconsin",
+  "facts": [
+    "Wisconsin child support agencies pomagają m.in. ustalać paternity, support orders i egzekwować płatności.",
+    "Program działa poprzez county i tribal child support agencies pod nadzorem Wisconsin Department of Children and Families.",
+    "Support amount zależy od obowiązujących standardów i sytuacji rodziny; konkretne order może ustalić court lub właściwy organ."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dcf.wisconsin.gov/cs"
+  ],
+  "related_public_pages": []
+}
