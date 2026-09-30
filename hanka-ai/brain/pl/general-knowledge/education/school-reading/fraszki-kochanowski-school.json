@@ -1,0 +1,21 @@
+{
+  "id": "fraszki-kochanowski-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Fraszki — wybór — Jan Kochanowski",
+  "facts": [
+    "Fraszki — wybór, autor: Jan Kochanowski; szkolny kanon literatury, epoka: renesans; zakres: wybór.",
+    "Krótkie utwory Kochanowskiego podejmujące tematy codzienności, człowieka, przemijania, natury i poety.",
+    "Hanka powinna łączyć utwór z epoką, autorem, motywami, formą literacką oraz kontekstem historycznym."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
