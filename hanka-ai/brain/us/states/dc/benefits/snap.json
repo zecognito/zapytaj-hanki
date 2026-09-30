@@ -1,0 +1,21 @@
+{
+  "id": "dc-snap",
+  "country": "US",
+  "jurisdiction": "district",
+  "region": "DC",
+  "topic": "benefits",
+  "subtopic": "snap",
+  "title": "snap — Washington, DC",
+  "facts": [
+    "Jurysdykcja prowadzi lub reguluje ten program albo obowiązek.",
+    "Wymagania zależą od sytuacji.",
+    "Aktualne zasady należy sprawdzić w oficjalnym źródle."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dhs.dc.gov/service/supplemental-nutrition-assistance-snap"
+  ],
+  "related_public_pages": []
+}
