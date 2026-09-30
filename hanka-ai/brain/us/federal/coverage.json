@@ -413,6 +413,31 @@
         "foreclosure",
         "rental_federal"
       ]
+    },
+    {
+      "id": "cars_transportation",
+      "label": "Samochód i transport",
+      "status": "started",
+      "subtopics": [
+        "vehicle_safety",
+        "odometer",
+        "lemon_law",
+        "auto_finance",
+        "auto_leasing",
+        "child_safety",
+        "emissions",
+        "air_travel"
+      ],
+      "completed_subtopics": [
+        "vehicle_safety",
+        "odometer",
+        "lemon_law",
+        "auto_finance",
+        "auto_leasing",
+        "child_safety",
+        "emissions",
+        "air_travel"
+      ]
     }
   ]
 }
