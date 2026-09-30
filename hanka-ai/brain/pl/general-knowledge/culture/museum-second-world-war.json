@@ -1,0 +1,21 @@
+{
+  "id": "museum-second-world-war",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "museums",
+  "title": "Muzeum II Wojny Światowej w Gdańsku",
+  "facts": [
+    "Muzeum II Wojny Światowej w Gdańsku prezentuje historię wojny w szerokim kontekście polskim i międzynarodowym.",
+    "Ekspozycja obejmuje doświadczenia żołnierzy i ludności cywilnej, okupację, terror i skutki wojny.",
+    "Przy bieżących sporach dotyczących wystaw lub polityki pamięci Hanka powinna korzystać z aktualnych źródeł."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://muzeum1939.pl/"
+  ],
+  "related_public_pages": []
+}
