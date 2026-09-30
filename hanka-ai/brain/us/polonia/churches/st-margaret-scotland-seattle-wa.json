@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-margaret-scotland-seattle-wa",
+  "country": "US",
+  "category": "church",
+  "name": "St. Margaret of Scotland Parish - Polish Community",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "3221 14th Ave W",
+    "city": "Seattle",
+    "state": "WA",
+    "postal_code": "98119",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 206 282 1804",
+  "email": null,
+  "website": "https://www.stmargaretseattle.com",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Catholic ministry",
+    "Mass",
+    "sacraments",
+    "parish community"
+  ],
+  "coverage_area": [
+    "WA"
+  ],
+  "notes": [
+    "Polish-language service schedules are freshness-sensitive; verify current Mass/confession times on the official parish source."
+  ],
+  "official_source": "https://www.stmargaretseattle.com",
+  "last_verified": "2026-09-30"
+}
