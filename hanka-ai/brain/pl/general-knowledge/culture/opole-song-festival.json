@@ -1,0 +1,21 @@
+{
+  "id": "opole-song-festival",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "music",
+  "title": "Festiwal Polskiej Piosenki w Opolu",
+  "facts": [
+    "Krajowy Festiwal Polskiej Piosenki w Opolu jest jednym z najważniejszych wieloletnich wydarzeń polskiej muzyki popularnej.",
+    "Festiwal odbywa się w Opolu i jest silnie związany z amfiteatrem oraz historią polskiej telewizji i piosenki.",
+    "Program, organizatorzy i format poszczególnych edycji mogą się zmieniać."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://festiwalopole.tvp.pl/"
+  ],
+  "related_public_pages": []
+}
