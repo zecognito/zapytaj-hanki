@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-medicare-eligibility-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "medicare",
+  "subtopic": "eligibility",
+  "title": "Medicare — podstawowa kwalifikacja",
+  "facts": [
+    "Medicare jest federalnym ubezpieczeniem zdrowotnym przede wszystkim dla osób age 65+ oraz niektórych młodszych osób z disability, ESRD albo ALS.",
+    "Osoba otrzymująca Social Security disability benefits zasadniczo kwalifikuje się do Medicare po 24 miesiącach entitlement do disability benefits; ALS ma specjalne zasady bez standardowego 24-miesięcznego waiting period.",
+    "Kwalifikacja do premium-free Part A zwykle zależy od wystarczającej historii Medicare-covered work podatnika lub spouse; osoby bez wystarczającej historii mogą w określonych warunkach kupić Part A."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.medicare.gov/basics/get-started-with-medicare",
+    "https://www.ssa.gov/medicare/sign-up"
+  ],
+  "related_public_pages": []
+}
