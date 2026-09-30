@@ -1,0 +1,21 @@
+{
+  "id": "poland-voivodeships",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "administration",
+  "title": "16 województw Polski",
+  "facts": [
+    "Polska ma 16 województw: dolnośląskie, kujawsko-pomorskie, lubelskie, lubuskie, łódzkie, małopolskie, mazowieckie, opolskie, podkarpackie, podlaskie, pomorskie, śląskie, świętokrzyskie, warmińsko-mazurskie, wielkopolskie i zachodniopomorskie.",
+    "Województwo jest najwyższym szczeblem zasadniczego podziału terytorialnego Polski.",
+    "Nie należy utożsamiać województwa wyłącznie z jego największym miastem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5501/14/17/1/polska_w_liczbach_2024_pl_pi.pdf"
+  ],
+  "related_public_pages": []
+}
