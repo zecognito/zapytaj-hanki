@@ -1,0 +1,23 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-free-credit-reports",
+  "subtopic": "privacy_records",
+  "title": "Bezpłatne raporty kredytowe",
+  "facts": [
+    "Federal law daje konsumentom prawo do bezpłatnych credit reports od nationwide credit reporting companies przez oficjalny kanał AnnualCreditReport.com.",
+    "Credit report i credit score nie są tym samym; darmowy raport nie musi automatycznie zawierać bezpłatnego score.",
+    "Błędy w credit report można kwestionować zarówno z credit reporting company, jak i information furnisher zgodnie z FCRA procedures.",
+    "Korzystając z darmowego raportu, należy uważać na strony podszywające się pod oficjalny federally authorized service."
+  ],
+  "official_sources": [
+    "https://consumer.ftc.gov/articles/free-credit-reports",
+    "https://www.annualcreditreport.com/index.action"
+  ]
+}
