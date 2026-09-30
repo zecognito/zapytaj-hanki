@@ -1,0 +1,21 @@
+{
+  "id": "apteka-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "healthcare",
+  "subtopic": "everyday",
+  "title": "Apteka w Polsce",
+  "facts": [
+    "Apteka jest placówką uprawnioną do wydawania produktów leczniczych zgodnie z polskim prawem farmaceutycznym.",
+    "Część leków jest dostępna bez recepty, a część wymaga recepty.",
+    "Dyżury, dostępność leków i godziny otwarcia są lokalne i zmienne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/gif"
+  ],
+  "related_public_pages": []
+}
