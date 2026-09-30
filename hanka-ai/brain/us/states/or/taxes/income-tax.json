@@ -1,0 +1,21 @@
+{
+  "id": "or-income-tax",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "OR",
+  "topic": "taxes",
+  "subtopic": "income_tax",
+  "title": "Podatek dochodowy w Oregonie",
+  "facts": [
+    "Oregon pobiera personal income tax i stosuje stanowe zasady do Oregon taxable income.",
+    "Mieszkańcy całoroczni zasadniczo rozliczają dochód ze wszystkich źródeł, a nonresidents dochód ze źródeł w Oregonie.",
+    "Part-year residents używają zasad Oregon dla okresu rezydencji i dochodu ze źródeł Oregon w odpowiednich okresach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.oregon.gov/dor/programs/individuals/pages/pit.aspx"
+  ],
+  "related_public_pages": []
+}
