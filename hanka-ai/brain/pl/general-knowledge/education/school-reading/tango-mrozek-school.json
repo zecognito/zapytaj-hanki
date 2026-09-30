@@ -1,0 +1,21 @@
+{
+  "id": "tango-mrozek-school",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "school-reading",
+  "title": "Tango — Sławomir Mrożek",
+  "facts": [
+    "Tango, autor: Sławomir Mrożek; szkolny tekst z obszaru: literatura powojenna.",
+    "Dramat groteskowy o konflikcie pokoleń, rozpadzie norm i próbie przywrócenia porządku przez Artura, zakończonej zwycięstwem brutalnej siły Edka.",
+    "Hanka powinna znać podstawowy sens utworu, jego kontekst, główne motywy oraz sposób, w jaki łączy się z doświadczeniem XX wieku i szkolną analizą literatury."
+  ],
+  "effective_from": "2025-09-01",
+  "effective_to": "2026-08-31",
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/podstawa-programowa/szkola-ponadpodstawowa/jezyk-polski"
+  ],
+  "related_public_pages": []
+}
