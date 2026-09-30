@@ -1,0 +1,21 @@
+{
+  "id": "bialowieza-unesco",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "unesco",
+  "title": "Puszcza Białowieska — UNESCO",
+  "facts": [
+    "Puszcza Białowieska leży na pograniczu Polski i Białorusi i chroni rozległe kompleksy leśne o wyjątkowej wartości przyrodniczej.",
+    "Białowieża Forest jest transgranicznym obiektem Listy Światowego Dziedzictwa UNESCO.",
+    "Obszar jest szczególnie kojarzony z żubrem europejskim, ale jego znaczenie obejmuje cały ekosystem leśny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://whc.unesco.org/en/list/33/"
+  ],
+  "related_public_pages": []
+}
