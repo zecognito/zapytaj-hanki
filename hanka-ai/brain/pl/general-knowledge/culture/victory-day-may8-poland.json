@@ -1,0 +1,21 @@
+{
+  "id": "victory-day-may8-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "national_memory",
+  "title": "8 maja — Narodowy Dzień Zwycięstwa",
+  "facts": [
+    "8 maja jest w Polsce Narodowym Dniem Zwycięstwa, upamiętniającym zakończenie II wojny światowej w Europie.",
+    "Współczesna Polska obchodzi tę rocznicę 8 maja, zgodnie z datą kapitulacji Niemiec przyjmowaną w większości Europy Zachodniej.",
+    "Nie jest to ogólny dzień ustawowo wolny od pracy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/kultura/narodowy-dzien-zwyciestwa"
+  ],
+  "related_public_pages": []
+}
