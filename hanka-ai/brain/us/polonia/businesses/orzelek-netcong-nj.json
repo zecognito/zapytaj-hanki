@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-orzelek-netcong-nj",
+  "country": "US",
+  "category": "store",
+  "name": "Orzełek Polish Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "57 Main St",
+    "city": "Netcong",
+    "state": "NJ",
+    "postal_code": "07857",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 973-527-3342",
+  "email": null,
+  "website": "https://orzelekpolishdeli.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish and European groceries",
+    "deli/prepared foods"
+  ],
+  "coverage_area": [
+    "Netcong",
+    "NJ"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://orzelekpolishdeli.com/",
+  "last_verified": "2026-09-30"
+}
