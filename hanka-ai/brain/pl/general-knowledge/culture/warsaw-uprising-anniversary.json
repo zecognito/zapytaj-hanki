@@ -1,0 +1,21 @@
+{
+  "id": "warsaw-uprising-anniversary",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "national_memory",
+  "title": "1 sierpnia — rocznica Powstania Warszawskiego",
+  "facts": [
+    "Powstanie Warszawskie rozpoczęło się 1 sierpnia 1944 r. o godzinie 17:00, znanej jako godzina „W”.",
+    "W Warszawie 1 sierpnia o 17:00 tradycyjnie uruchamiane są syreny i odbywają się uroczystości pamięci.",
+    "Rocznica nie jest ogólnopolskim dniem ustawowo wolnym od pracy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.1944.pl/"
+  ],
+  "related_public_pages": []
+}
