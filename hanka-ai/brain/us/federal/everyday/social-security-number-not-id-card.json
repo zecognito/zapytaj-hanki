@@ -1,0 +1,22 @@
+{
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "everyday_usa",
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "related_public_pages": [],
+  "id": "everyday-usa-ssn-card-not-general-id",
+  "subtopic": "identity_admin",
+  "title": "Karta Social Security nie jest ogólnym dokumentem tożsamości",
+  "facts": [
+    "Social Security card służy przede wszystkim do dokumentowania numeru SSN; SSA zaleca przechowywanie jej w bezpiecznym miejscu zamiast codziennego noszenia.",
+    "Karta SSN nie zawiera zdjęcia i nie powinna być automatycznie traktowana jako photo ID.",
+    "W procedurach wymagających dowodu tożsamości instytucja może wymagać osobnego dokumentu, takiego jak state ID, driver's license lub passport.",
+    "Numer SSN należy udostępniać tylko wtedy, gdy istnieje uzasadniona potrzeba, ponieważ jego ujawnienie zwiększa ryzyko identity theft."
+  ],
+  "official_sources": [
+    "https://www.ssa.gov/number-card"
+  ]
+}
