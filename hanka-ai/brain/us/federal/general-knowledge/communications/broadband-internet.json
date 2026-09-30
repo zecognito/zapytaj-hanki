@@ -1,0 +1,21 @@
+{
+  "id": "broadband-internet",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "communications",
+  "subtopic": "phone_internet",
+  "title": "Co oznacza broadband?",
+  "facts": [
+    "Broadband oznacza szybki dostęp do internetu oferowany przez różne technologie, np. fiber, cable, DSL, fixed wireless lub satellite.",
+    "Parametry planu obejmują m.in. download speed, upload speed, latency oraz ewentualne data limits.",
+    "Reklamowana maksymalna prędkość nie gwarantuje identycznej prędkości w każdej chwili i miejscu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.fcc.gov/consumers/guides/getting-broadband"
+  ],
+  "related_public_pages": []
+}
