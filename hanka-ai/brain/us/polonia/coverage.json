@@ -44,12 +44,12 @@
     },
     "businesses": {
       "status": "started",
-      "records": 135,
+      "records": 148,
       "notes": [
-        "Commercial/professional directory now contains 135 Polish-focused food/retail physical-location records, with deepening coverage across Chicagoland, NY/NJ/CT, PA/New England, Buffalo, Midwest and Florida plus the earlier national seed.",
-        "The directory includes Polish markets/delis, bakeries, meat/sausage shops and restaurants. Chains and multi-location businesses are represented per physical location for geographic retrieval.",
-        "Some newly discovered smaller-market records have incomplete address/contact fields and are explicitly flagged for reverification rather than having details invented.",
-        "Food/retail remains started: further metro-by-metro verification and cleanup is needed before maturity, especially to resolve incomplete records and continue dense regional discovery. Professional-service directories remain deferred."
+        "Commercial/professional directory now contains 148 Polish-focused food/retail physical-location records. Recent additions use direct business sites or strong current local/Polonia sources and avoid generic Eastern-European businesses without a demonstrated Polish connection.",
+        "Coverage is increasingly deep in Chicagoland, NY/NJ/CT, PA/New England, Buffalo, Wisconsin/Midwest, Florida and selected Western/Southern metros. Chains and multi-location businesses remain stored per physical location for future geographic retrieval.",
+        "Discovery is now paired with quality cleanup: duplicate candidates are skipped, renamed/current businesses are distinguished from predecessors, and uncertain records are not promoted merely to increase the count.",
+        "Food/retail remains started pending additional discovery plus a later audit of earlier weak-source/incomplete records before mature status. Professional-service directories remain deferred."
       ]
     },
     "media_culture": {
