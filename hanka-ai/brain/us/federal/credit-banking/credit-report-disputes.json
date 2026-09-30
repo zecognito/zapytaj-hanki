@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-credit-report-disputes",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "credit_banking",
+  "subtopic": "credit_reports",
+  "title": "Disputing errors on a credit report",
+  "facts": [
+    "Consumers have federal rights to dispute inaccurate or incomplete information in credit reports.",
+    "A consumer can dispute with the credit reporting company and may also dispute directly with the company that furnished the information.",
+    "Credit reporting companies generally must investigate a dispute within 30 days, subject to statutory exceptions and extensions.",
+    "A dispute should identify the specific item, explain what is wrong, and include supporting documents when available."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/"
+  ],
+  "related_public_pages": []
+}
