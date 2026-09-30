@@ -17,7 +17,9 @@
         "self_employment_tax",
         "deadlines",
         "refunds",
-        "irs_transcripts"
+        "irs_transcripts",
+        "earned_income_tax_credit",
+        "amended_returns"
       ],
       "completed_subtopics": [
         "standard_deduction",
@@ -26,7 +28,10 @@
         "self_employment_tax",
         "filing_status",
         "estimated_taxes",
-        "irs_transcripts"
+        "irs_transcripts",
+        "refunds",
+        "earned_income_tax_credit",
+        "amended_returns"
       ]
     },
     {
