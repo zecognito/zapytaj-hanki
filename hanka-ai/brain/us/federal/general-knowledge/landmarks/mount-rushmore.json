@@ -1,0 +1,21 @@
+{
+  "id": "mount-rushmore",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "culture",
+  "subtopic": "landmarks",
+  "title": "Mount Rushmore",
+  "facts": [
+    "Mount Rushmore National Memorial znajduje się w Black Hills w South Dakota.",
+    "Rzeźba przedstawia George'a Washingtona, Thomasa Jeffersona, Theodore'a Roosevelta i Abrahama Lincolna.",
+    "Miejsce znajduje się na ziemiach Black Hills mających głębokie znaczenie dla Lakota i innych rdzennych narodów; historia pomnika obejmuje również spór o te ziemie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nps.gov/moru/learn/historyculture/index.htm"
+  ],
+  "related_public_pages": []
+}
