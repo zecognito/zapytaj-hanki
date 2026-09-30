@@ -1,0 +1,34 @@
+{
+  "id": "polonia-org-polish-american-social-club-las-vegas",
+  "country": "US",
+  "category": "organization",
+  "name": "Polish American Social Club of Las Vegas",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": null,
+    "city": "Las Vegas",
+    "state": "NV",
+    "postal_code": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": null,
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish community, social and cultural programming"
+  ],
+  "coverage_area": [
+    "NV"
+  ],
+  "notes": [
+    "Listed by the Embassy of the Republic of Poland among Polish institutions operating in the United States; local program/contact details should be periodically refreshed."
+  ],
+  "official_source": "https://www.gov.pl/web/usa/relacje-dwustronne",
+  "last_verified": "2026-09-30"
+}
