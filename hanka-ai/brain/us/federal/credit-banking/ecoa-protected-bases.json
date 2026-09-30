@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-credit-ecoa-protected-bases",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "credit_banking",
+  "subtopic": "fair_credit",
+  "title": "Equal Credit Opportunity Act - protected bases",
+  "facts": [
+    "The Equal Credit Opportunity Act prohibits creditors from discriminating in a credit transaction on prohibited bases including race, color, religion, national origin, sex, marital status and age when the applicant has capacity to contract.",
+    "ECOA also protects applicants regarding receipt of income from public assistance and good-faith exercise of rights under the Consumer Credit Protection Act.",
+    "Creditors may consider legitimate creditworthiness factors permitted by law; ECOA does not require approval of every applicant."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.consumerfinance.gov/rules-policy/regulations/1002/6/",
+    "https://www.justice.gov/crt/equal-credit-opportunity-act-3"
+  ],
+  "related_public_pages": []
+}
