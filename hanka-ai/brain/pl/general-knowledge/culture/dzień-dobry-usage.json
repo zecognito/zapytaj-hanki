@@ -1,0 +1,21 @@
+{
+  "id": "dzień-dobry-usage",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "everyday-life",
+  "title": "„Dzień dobry” w polskiej codzienności",
+  "facts": [
+    "„Dzień dobry” jest standardowym uprzejmym powitaniem w sytuacjach formalnych i wobec osób, z którymi nie jest się na „ty”.",
+    "W praktyce Polacy używają go przez dużą część dnia, nie tylko rano.",
+    "W mniej formalnych relacjach częściej używa się „cześć” lub innych nieformalnych powitań."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://sjp.pwn.pl/"
+  ],
+  "related_public_pages": []
+}
