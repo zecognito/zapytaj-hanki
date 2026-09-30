@@ -1,0 +1,21 @@
+{
+  "id": "poland-local-government",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "government",
+  "subtopic": "local_government",
+  "title": "Samorząd terytorialny w Polsce",
+  "facts": [
+    "Podstawową jednostką samorządu terytorialnego jest gmina.",
+    "System samorządowy obejmuje również powiaty i województwa samorządowe.",
+    "Wojewoda reprezentuje administrację rządową w województwie, natomiast marszałek województwa jest związany z samorządem województwa; to różne funkcje."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.gov.pl/web/mswia/samorzad-terytorialny"
+  ],
+  "related_public_pages": []
+}
