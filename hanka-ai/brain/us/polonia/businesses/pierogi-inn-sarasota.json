@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-pierogi-inn-sarasota",
+  "country": "US",
+  "category": "store",
+  "name": "Pierogi Inn Polish Deli",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "6611 Superior Ave",
+    "city": "Sarasota",
+    "state": "FL",
+    "postal_code": "34231",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 941-929-0101",
+  "email": null,
+  "website": null,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish deli",
+    "Polish prepared foods"
+  ],
+  "coverage_area": [
+    "Sarasota",
+    "FL"
+  ],
+  "notes": [
+    "Current Polish-food connection supported by an official business source or recent/local Polonia source; commercial details remain freshness-sensitive."
+  ],
+  "official_source": "https://www.polishfloridabiz.net/delis.html",
+  "last_verified": "2026-09-30"
+}
