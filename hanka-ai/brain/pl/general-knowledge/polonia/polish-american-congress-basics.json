@@ -1,0 +1,21 @@
+{
+  "id": "polish-american-congress-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL-US",
+  "topic": "polonia",
+  "subtopic": "organizations",
+  "title": "Kongres Polonii Amerykańskiej",
+  "facts": [
+    "Polish American Congress został utworzony w 1944 r. jako organizacja reprezentująca część środowisk polsko-amerykańskich.",
+    "Angażuje się w sprawy dotyczące relacji polsko-amerykańskich i interesów Polonii.",
+    "Nie jest organem państwa polskiego ani USA i nie reprezentuje automatycznie poglądów wszystkich Polaków w Ameryce."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.pac1944.org/"
+  ],
+  "related_public_pages": []
+}
