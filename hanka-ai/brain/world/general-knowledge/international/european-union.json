@@ -1,0 +1,21 @@
+{
+  "id": "european-union-basics",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "international",
+  "subtopic": "regional-organizations",
+  "title": "Unia Europejska",
+  "facts": [
+    "Unia Europejska jest związkiem polityczno-gospodarczym 27 państw europejskich.",
+    "UE posiada wspólne instytucje, jednolity rynek i rozbudowany system prawa unijnego.",
+    "Nie wszystkie państwa UE używają euro i nie wszystkie państwa europejskie należą do Unii Europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://european-union.europa.eu/principles-countries-history/country-profiles_en"
+  ],
+  "related_public_pages": []
+}
