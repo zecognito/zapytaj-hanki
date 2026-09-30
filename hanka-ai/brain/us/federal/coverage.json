@@ -21,7 +21,10 @@
         "earned_income_tax_credit",
         "amended_returns",
         "alternative_minimum_tax",
-        "gift_estate_tax"
+        "gift_estate_tax",
+        "capital_gains",
+        "hsa",
+        "health_fsa"
       ],
       "completed_subtopics": [
         "standard_deduction",
@@ -36,7 +39,10 @@
         "amended_returns",
         "deadlines",
         "alternative_minimum_tax",
-        "gift_estate_tax"
+        "gift_estate_tax",
+        "capital_gains",
+        "hsa",
+        "health_fsa"
       ]
     },
     {
