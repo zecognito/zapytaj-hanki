@@ -1,0 +1,21 @@
+{
+  "id": "polonia-data-source-priority",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "polonia",
+  "subtopic": "demographics",
+  "title": "Jakie źródła są podstawą statystyk Polonii?",
+  "facts": [
+    "Podstawowym źródłem amerykańskich danych demograficznych o ancestry, birthplace i language jest U.S. Census Bureau/ACS.",
+    "Dane organizacji polonijnych mogą opisywać społeczność, ale nie powinny zastępować Census estimate, jeśli pytanie dotyczy porównywalnej statystyki ludności.",
+    "Historyczne szacunki i popularne hasła typu „milion Polaków” wymagają podania definicji, roku i źródła przed użyciem jako fakt."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/data/academy/resources/one-pagers/ancestry.html"
+  ],
+  "related_public_pages": []
+}
