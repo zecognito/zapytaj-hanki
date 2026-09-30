@@ -1,0 +1,21 @@
+{
+  "id": "henryk-sienkiewicz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "literature",
+  "title": "Henryk Sienkiewicz",
+  "facts": [
+    "Henryk Sienkiewicz był polskim pisarzem i laureatem Nobel Prize in Literature z 1905 r.",
+    "Napisał m.in. „Quo Vadis” oraz Trylogię: „Ogniem i mieczem”, „Potop” i „Pan Wołodyjowski”.",
+    "Jego powieści historyczne odegrały ważną rolę w polskiej kulturze okresu zaborów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nobelprize.org/prizes/literature/1905/sienkiewicz/biographical/"
+  ],
+  "related_public_pages": []
+}
