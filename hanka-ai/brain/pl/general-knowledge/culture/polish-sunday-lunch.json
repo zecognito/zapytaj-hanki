@@ -1,0 +1,21 @@
+{
+  "id": "polish-sunday-lunch",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "everyday-life",
+  "title": "Niedzielny obiad",
+  "facts": [
+    "W polskiej kulturze niedzielny obiad bywa tradycyjnie traktowany jako rodzinny posiłek.",
+    "Klasyczny stereotypowy zestaw to rosół, drugie danie oraz deser, ale współczesne zwyczaje są bardzo zróżnicowane.",
+    "Nie jest to obowiązek ani jednolity zwyczaj wszystkich rodzin."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/"
+  ],
+  "related_public_pages": []
+}
