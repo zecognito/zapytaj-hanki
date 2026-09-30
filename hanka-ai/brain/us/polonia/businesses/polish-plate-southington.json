@@ -1,0 +1,36 @@
+{
+  "id": "polonia-business-polish-plate-southington",
+  "country": "US",
+  "category": "restaurant",
+  "name": "PolishPlate",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "1095 West St",
+    "city": "Southington",
+    "state": "CT",
+    "postal_code": "06489",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 860-736-5319",
+  "email": null,
+  "website": "https://polishplate.com/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish cuisine",
+    "dine-in/takeout"
+  ],
+  "coverage_area": [
+    "Southington",
+    "CT"
+  ],
+  "notes": [
+    "Commercial directory record; status, address, hours and services are freshness-sensitive and should be periodically reverified."
+  ],
+  "official_source": "https://polishplate.com/",
+  "last_verified": "2026-09-30"
+}
