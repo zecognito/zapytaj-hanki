@@ -1,0 +1,21 @@
+{
+  "id": "dc-state-equivalent",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "geography",
+  "subtopic": "dc_geography",
+  "title": "Washington, DC w statystykach",
+  "facts": [
+    "District of Columbia nie jest jednym z 50 stanów.",
+    "W wielu produktach statystycznych Census Bureau DC jest traktowane jako state equivalent.",
+    "DC należy do South Region i South Atlantic Division w systemie Census Regions and Divisions."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html"
+  ],
+  "related_public_pages": []
+}
