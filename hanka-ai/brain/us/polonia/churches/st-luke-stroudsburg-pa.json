@@ -1,0 +1,37 @@
+{
+  "id": "polonia-church-st-luke-stroudsburg-pa",
+  "country": "US",
+  "category": "church",
+  "name": "Saint Luke Parish",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "818 Main St",
+    "city": "Stroudsburg",
+    "state": "PA",
+    "postal_code": "18360",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 570 421 9097",
+  "email": null,
+  "website": "https://www.dioceseofscranton.org/find-a-parish/saint-luke-parish-stroudsburg-stroudsburg/",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish-language Christian ministry",
+    "worship",
+    "sacraments",
+    "community"
+  ],
+  "coverage_area": [
+    "PA"
+  ],
+  "notes": [
+    "Current Polish-language service schedules are freshness-sensitive; verify times on the official parish or diocesan source."
+  ],
+  "official_source": "https://www.dioceseofscranton.org/find-a-parish/saint-luke-parish-stroudsburg-stroudsburg/",
+  "last_verified": "2026-09-30"
+}
