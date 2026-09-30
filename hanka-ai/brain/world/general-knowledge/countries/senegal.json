@@ -1,0 +1,21 @@
+{
+  "id": "country-senegal",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Senegal",
+  "facts": [
+    "Senegal leży w Afryce Zachodniej nad Oceanem Atlantyckim, a jego stolicą jest Dakar.",
+    "Językiem urzędowym jest francuski, a szeroko używane są także języki narodowe, w tym wolof; walutą jest frank CFA Afryki Zachodniej.",
+    "Senegal jest republiką i ważnym ośrodkiem politycznym oraz gospodarczym Afryki Zachodniej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.presidence.sn/en/"
+  ],
+  "related_public_pages": []
+}
