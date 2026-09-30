@@ -1,0 +1,21 @@
+{
+  "id": "los-angeles-population-2025",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "population",
+  "subtopic": "city_population",
+  "title": "Populacja Los Angeles — 2025",
+  "facts": [
+    "Census Bureau oszacowało populację Los Angeles na 3 869 089 mieszkańców 1 lipca 2025 r.",
+    "Los Angeles było drugim najludniejszym miastem USA według Vintage 2025 Population Estimates.",
+    "Los Angeles city, Los Angeles County i Los Angeles metro to różne geografie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.census.gov/newsroom/press-releases/2026/vintage-2025-city-town-pop-estimates.html"
+  ],
+  "related_public_pages": []
+}
