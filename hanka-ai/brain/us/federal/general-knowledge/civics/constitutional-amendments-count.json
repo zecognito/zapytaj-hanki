@@ -1,0 +1,22 @@
+{
+  "id": "constitutional-amendments-count",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "civics",
+  "subtopic": "constitution",
+  "title": "Ile amendments ma Konstytucja USA?",
+  "facts": [
+    "Konstytucja USA ma 27 ratyfikowanych amendments.",
+    "Pierwszych 10 tworzy Bill of Rights.",
+    "27th Amendment został ratyfikowany w 1992 r., choć został pierwotnie zaproponowany w 1789 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.archives.gov/founding-docs/amendments-11-27",
+    "https://www.archives.gov/founding-docs/bill-of-rights-transcript"
+  ],
+  "related_public_pages": []
+}
