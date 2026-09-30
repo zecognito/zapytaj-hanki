@@ -1,0 +1,21 @@
+{
+  "id": "ca-unemployment-basics",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "CA",
+  "topic": "benefits",
+  "subtopic": "unemployment",
+  "title": "Unemployment Insurance w Kalifornii",
+  "facts": [
+    "California Unemployment Insurance zapewnia czasowe świadczenia kwalifikującym się osobom, które straciły pracę lub mają ograniczone godziny bez własnej winy.",
+    "Eligibility zależy m.in. od wcześniejszych wages, powodu bezrobocia oraz zdolności i dostępności do pracy.",
+    "Claims i certifications obsługuje California Employment Development Department."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://edd.ca.gov/en/unemployment/"
+  ],
+  "related_public_pages": []
+}
