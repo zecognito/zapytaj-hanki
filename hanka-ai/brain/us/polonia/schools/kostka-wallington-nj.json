@@ -1,0 +1,34 @@
+{
+  "id": "polonia-school-kostka-wallington-nj",
+  "country": "US",
+  "category": "polish_school",
+  "name": "Polska Szkoła im. Św. Stanisława Kostki",
+  "aliases": [],
+  "status": "active",
+  "location": {
+    "address": "127 Paterson Avenue",
+    "city": "Wallington",
+    "state": "NJ",
+    "postal_code": "07057",
+    "latitude": null,
+    "longitude": null
+  },
+  "phone": "+1 201 410 9363",
+  "email": "plszkolamsh@gmail.com",
+  "website": "http://www.polskaszkolawallington.com",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "services": [
+    "Polish supplementary education"
+  ],
+  "coverage_area": [
+    "NJ"
+  ],
+  "notes": [
+    "Community/supplementary Polish school; enrollment and current class offerings should be confirmed directly with the school."
+  ],
+  "official_source": "https://www.centralapolskichszkol.org/index.php/new-jersey/",
+  "last_verified": "2026-09-30"
+}
