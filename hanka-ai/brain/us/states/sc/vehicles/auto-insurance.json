@@ -1,0 +1,21 @@
+{
+  "id": "sc-auto-insurance",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "SC",
+  "topic": "vehicles",
+  "subtopic": "auto_insurance",
+  "title": "Ubezpieczenie samochodu w South Carolina",
+  "facts": [
+    "Kierowca lub właściciel pojazdu musi spełniać stanowe wymagania dotyczące auto insurance lub financial responsibility.",
+    "Zakres obowiązkowego coverage i sposób jego potwierdzania określa prawo stanowe.",
+    "Brak wymaganego coverage może prowadzić do kar lub problemów z rejestracją albo prawem jazdy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://dmv.sc.gov/vehicle-owners/insurance-requirements"
+  ],
+  "related_public_pages": []
+}
