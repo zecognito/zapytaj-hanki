@@ -1,0 +1,21 @@
+{
+  "id": "nc-new-resident-registration",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NC",
+  "topic": "vehicles",
+  "subtopic": "registration",
+  "title": "Rejestracja pojazdu po przeprowadzce do Karoliny Północnej",
+  "facts": [
+    "Nowy mieszkaniec North Carolina musi uzyskać North Carolina title i registration dla kwalifikującego się pojazdu.",
+    "Proces wymaga odpowiednich ownership documents, North Carolina insurance oraz innych wymaganych dokumentów i opłat.",
+    "Vehicle inspection requirements zależą od aktualnych zasad i lokalizacji pojazdu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.ncdot.gov/dmv/title-registration/vehicle/Pages/requirements.aspx"
+  ],
+  "related_public_pages": []
+}
