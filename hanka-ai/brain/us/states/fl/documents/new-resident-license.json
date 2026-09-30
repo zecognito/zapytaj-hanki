@@ -1,0 +1,21 @@
+{
+  "id": "fl-new-resident-license",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "FL",
+  "topic": "documents",
+  "subtopic": "new_resident_license",
+  "title": "Prawo jazdy po przeprowadzce na Florydę",
+  "facts": [
+    "Osoba, która zostaje mieszkańcem Florida, musi uzyskać Florida driver license zgodnie z terminem i wymaganiami FLHSMV.",
+    "Wymagane dokumenty obejmują odpowiednie potwierdzenia identity, Social Security number i residential address zależnie od statusu osoby.",
+    "Proces driver license jest odrębny od Florida title/registration pojazdu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.flhsmv.gov/new-resident/"
+  ],
+  "related_public_pages": []
+}
