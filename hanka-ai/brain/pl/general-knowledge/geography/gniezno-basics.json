@@ -1,0 +1,21 @@
+{
+  "id": "gniezno-basics",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Gniezno — podstawy",
+  "facts": [
+    "Gniezno jest jednym z najważniejszych miast związanych z początkami państwa polskiego.",
+    "W 1000 r. odbył się tam zjazd gnieźnieński związany z Bolesławem Chrobrym i cesarzem Ottonem III.",
+    "Tradycyjne określenie Gniezna jako pierwszej stolicy Polski upraszcza bardziej złożony charakter wczesnopiastowskich ośrodków władzy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://zpe.gov.pl/a/panowanie-boleslawa-chrobrego/DfkbQ2pKn"
+  ],
+  "related_public_pages": []
+}
