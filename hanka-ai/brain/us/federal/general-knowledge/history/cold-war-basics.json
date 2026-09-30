@@ -1,0 +1,21 @@
+{
+  "id": "cold-war-basics",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "history",
+  "subtopic": "modern_history",
+  "title": "Cold War — podstawy",
+  "facts": [
+    "Cold War opisuje długi okres rywalizacji politycznej, militarnej, technologicznej i ideologicznej przede wszystkim między USA a Soviet Union po World War II.",
+    "USA i USSR nie prowadziły bezpośredniej pełnoskalowej wojny przeciw sobie, ale wspierały strony w konfliktach zastępczych i prowadziły nuclear arms race.",
+    "Rozpad Soviet Union w 1991 r. jest powszechnie traktowany jako koniec Cold War."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://history.state.gov/milestones/1989-1992/collapse-soviet-union"
+  ],
+  "related_public_pages": []
+}
