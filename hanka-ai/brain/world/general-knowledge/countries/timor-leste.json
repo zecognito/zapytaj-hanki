@@ -1,0 +1,21 @@
+{
+  "id": "country-timor-leste",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Timor-Leste",
+  "facts": [
+    "Timor-Leste occupies the eastern part of the island of Timor and nearby islands in Southeast Asia.",
+    "Its capital is Dili; Portuguese and Tetum are official languages, and the U.S. dollar is used as the official currency.",
+    "Timor-Leste restored its independence in 2002 after a period of Indonesian occupation and UN administration."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://timor-leste.gov.tl/?lang=en"
+  ],
+  "related_public_pages": []
+}
