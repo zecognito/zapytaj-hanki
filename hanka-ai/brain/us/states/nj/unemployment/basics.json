@@ -1,0 +1,21 @@
+{
+  "id": "nj-unemployment-basics",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "NJ",
+  "topic": "benefits",
+  "subtopic": "unemployment",
+  "title": "Unemployment Insurance w New Jersey",
+  "facts": [
+    "New Jersey Unemployment Insurance zapewnia częściowe zastąpienie wynagrodzenia kwalifikującym się osobom bez pracy.",
+    "Eligibility zależy m.in. od wcześniejszych zarobków, powodu utraty pracy oraz bieżącej zdolności, dostępności i gotowości do pracy.",
+    "New Jersey Department of Labor and Workforce Development prowadzi claims i cotygodniowe certification."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.nj.gov/labor/myunemployment/"
+  ],
+  "related_public_pages": []
+}
