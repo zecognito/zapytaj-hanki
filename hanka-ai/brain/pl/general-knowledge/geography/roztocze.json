@@ -1,0 +1,21 @@
+{
+  "id": "roztocze",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "regions",
+  "title": "Roztocze",
+  "facts": [
+    "Roztocze jest pasem wyżyn rozciągającym się od okolic Kraśnika i Zamościa w Polsce w kierunku Lwowa w Ukrainie.",
+    "Polska część regionu jest znana z lasów, wzgórz, rzek i krajobrazu rolniczego.",
+    "Roztoczański Park Narodowy chroni część najcenniejszych obszarów regionu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://rpn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
