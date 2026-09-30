@@ -1,0 +1,21 @@
+{
+  "id": "sto-lat-song",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "traditions",
+  "title": "„Sto lat”",
+  "facts": [
+    "„Sto lat” jest tradycyjną polską pieśnią życzeniową śpiewaną przy urodzinach, imieninach, weselach i innych uroczystościach.",
+    "Zwrot wyraża życzenie długiego życia i pomyślności.",
+    "Nie jest polskim odpowiednikiem hymnu ani formalną pieśnią państwową; jest elementem zwyczaju społecznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://culture.pl/en/article/how-to-celebrate-a-birthday-in-polish"
+  ],
+  "related_public_pages": []
+}
