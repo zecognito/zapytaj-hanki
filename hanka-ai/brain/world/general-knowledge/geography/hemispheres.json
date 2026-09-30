@@ -1,0 +1,21 @@
+{
+  "id": "earth-hemispheres",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "geography",
+  "subtopic": "earth",
+  "title": "Półkule Ziemi",
+  "facts": [
+    "Równik dzieli Ziemię na półkulę północną i południową.",
+    "Południk zerowy i południk 180° są używane do rozróżniania półkuli wschodniej i zachodniej.",
+    "Polska leży na półkuli północnej i wschodniej, a kontynentalne Stany Zjednoczone na półkuli północnej i zachodniej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://education.nationalgeographic.org/resource/hemisphere/"
+  ],
+  "related_public_pages": []
+}
