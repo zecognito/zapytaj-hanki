@@ -1,0 +1,21 @@
+{
+  "id": "country-bosnia-and-herzegovina",
+  "country": "GLOBAL",
+  "jurisdiction": "general",
+  "region": "WORLD",
+  "topic": "countries",
+  "subtopic": "country-profile",
+  "title": "Bośnia i Hercegowina",
+  "facts": [
+    "Bośnia i Hercegowina leży na Bałkanach, a jej stolicą jest Sarajewo.",
+    "Państwo składa się z dwóch głównych jednostek: Federacji Bośni i Hercegowiny oraz Republiki Serbskiej, a dystrykt Brczko ma odrębny status.",
+    "Walutą jest marka zamienna; ustrój państwa jest silnie związany z porozumieniem pokojowym z Dayton z 1995 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.mvp.gov.ba/"
+  ],
+  "related_public_pages": []
+}
