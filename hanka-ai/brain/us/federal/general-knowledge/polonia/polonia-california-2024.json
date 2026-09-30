@@ -1,0 +1,21 @@
+{
+  "id": "polonia-california-2024",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": "US",
+  "topic": "polonia",
+  "subtopic": "state_demographics",
+  "title": "Polskie pochodzenie w California — 2024",
+  "facts": [
+    "ACS 2024 1-year C04006 oszacował 434 857 mieszkańców California deklarujących Polish ancestry.",
+    "To liczba osób deklarujących polskie pochodzenie, a nie liczba osób urodzonych w Polsce ani obywateli Polski.",
+    "Estimate ma margin of error ±16 293; przy porównaniach należy zachować ten sam rok i typ danych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://data.census.gov/table/ACSDT1Y2024.C04006?g=040XX00US06&t=Ancestry"
+  ],
+  "related_public_pages": []
+}
