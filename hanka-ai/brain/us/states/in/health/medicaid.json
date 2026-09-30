@@ -1,0 +1,21 @@
+{
+  "id": "in-medicaid",
+  "country": "US",
+  "jurisdiction": "state",
+  "region": "IN",
+  "topic": "health",
+  "subtopic": "medicaid",
+  "title": "Indiana Medicaid",
+  "facts": [
+    "Indiana Medicaid zapewnia health coverage kwalifikującym się mieszkańcom poprzez kilka programów.",
+    "Healthy Indiana Plan (HIP) jest jednym z programów coverage dla kwalifikujących się dorosłych.",
+    "Eligibility i sposób coverage zależą od wieku, dochodu, disability, ciąży i innych kategorii programu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.in.gov/medicaid/members/"
+  ],
+  "related_public_pages": []
+}
