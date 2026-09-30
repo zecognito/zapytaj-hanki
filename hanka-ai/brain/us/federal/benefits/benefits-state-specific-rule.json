@@ -1,0 +1,22 @@
+{
+  "id": "us-federal-benefits-state-specific-answering",
+  "country": "US",
+  "jurisdiction": "federal",
+  "region": null,
+  "topic": "benefits",
+  "subtopic": "federal_state_coordination",
+  "title": "Federal benefits - when Hanka needs the state",
+  "facts": [
+    "SNAP, WIC, TANF, LIHEAP and unemployment are administered wholly or partly through state, territorial or tribal systems.",
+    "Federal rules alone are often insufficient to determine exact eligibility, application procedure or benefit amount.",
+    "For a user's specific eligibility question, Hanka should identify the user's state or relevant administering jurisdiction before presenting a state-specific conclusion.",
+    "Federal dollar limits should not be substituted for a state's current rules where state options or separate state thresholds apply."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-09-30",
+  "official_sources": [
+    "https://www.usa.gov/benefits"
+  ],
+  "related_public_pages": []
+}
