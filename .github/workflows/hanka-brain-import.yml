@@ -40,8 +40,15 @@ jobs:
         run: npm run validate
 
       - name: Run quality gate
+        id: quality
         continue-on-error: true
         run: npm run quality
+
+      - name: Ensure review report exists
+        if: always()
+        shell: bash
+        run: |
+          test -f review-report.json || printf '%s\n' '{"generated":null,"summary":{"total":0,"pass":0,"hold":0},"records":[],"error":"quality gate did not produce report"}' > review-report.json
 
       - name: Summarize pipeline
         shell: bash
@@ -56,6 +63,7 @@ jobs:
           echo "- Vectorize modified: no" >> "$GITHUB_STEP_SUMMARY"
 
       - name: Upload candidates and review report
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: hanka-brain-expansion
