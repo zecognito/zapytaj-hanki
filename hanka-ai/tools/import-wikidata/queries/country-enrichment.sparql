@@ -1,7 +1,19 @@
-SELECT ?item ?itemLabel ?countryCode ?area ?capitalLabel ?continentLabel ?officialWebsite WHERE {
-  ?item wdt:P31 wd:Q3624078 ; wdt:P297 ?countryCode ; wdt:P2046 ?area ; wdt:P36 ?capital ; wdt:P30 ?continent ; wdt:P856 ?officialWebsite .
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "pl,en". }
+SELECT ?item ?itemLabel ?countryCode (SAMPLE(?area0) AS ?area) (SAMPLE(?capital0) AS ?capitalLabel) (SAMPLE(?continent0) AS ?continentLabel) (SAMPLE(?website0) AS ?officialWebsite) WHERE {
+  {
+    SELECT DISTINCT ?item ?countryCode WHERE {
+      ?item wdt:P31 wd:Q3624078 ; wdt:P297 ?countryCode .
+    }
+    ORDER BY ?countryCode
+    LIMIT {{LIMIT}}
+    OFFSET {{OFFSET}}
+  }
+  ?item wdt:P2046 ?area0 ; wdt:P36 ?capital ; wdt:P30 ?continent ; wdt:P856 ?website0 .
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "pl,en".
+    ?item rdfs:label ?itemLabel.
+    ?capital rdfs:label ?capital0.
+    ?continent rdfs:label ?continent0.
+  }
 }
+GROUP BY ?item ?itemLabel ?countryCode
 ORDER BY ?countryCode
-LIMIT {{LIMIT}}
-OFFSET {{OFFSET}}
