@@ -1,0 +1,4 @@
+import fs from "node:fs";import path from "node:path";import {ROOT,TOOL,STAGING,writeJson} from "./lib.mjs";
+if(process.argv[2]!=="--approved")throw new Error("Promotion requires explicit --approved.");const reportPath=path.join(TOOL,"review-report.json");if(!fs.existsSync(reportPath))throw new Error("Run quality gate first.");const report=JSON.parse(fs.readFileSync(reportPath,"utf8"));let promoted=0,skipped=0;
+for(const r of report.records.filter(x=>x.status==="pass")){const src=path.join(STAGING,r.file);if(!fs.existsSync(src)){skipped++;continue}const j=JSON.parse(fs.readFileSync(src,"utf8"));const dest=path.join(ROOT,"brain","imported",j.topic,j.subtopic,j.id+".json");if(fs.existsSync(dest)){skipped++;continue}writeJson(dest,j);promoted++;}
+console.log(JSON.stringify({promoted,skipped,destination:path.join(ROOT,"brain","imported")},null,2));
