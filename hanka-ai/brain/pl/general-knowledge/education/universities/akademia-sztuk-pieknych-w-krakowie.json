@@ -1,0 +1,20 @@
+{
+  "id": "akademia-sztuk-pieknych-w-krakowie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "education",
+  "subtopic": "universities",
+  "title": "Akademia Sztuk Pięknych w Krakowie",
+  "facts": [
+    "Akademia Sztuk Pięknych w Krakowie to uczelnia wyższa działająca w miejscowości Kraków.",
+    "Uczelnia należy do polskiego systemu szkolnictwa wyższego i nauki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://radon.nauka.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "zamek-w-radzyniu-chelminskim",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "heritage",
+  "subtopic": "castles-fortresses",
+  "title": "Zamek w Radzyniu Chełmińskim",
+  "facts": [
+    "Zamek w Radzyniu Chełmińskim to zamek, twierdza lub historyczny zespół obronny związany z miejscowością lub regionem Radzyń Chełmiński.",
+    "Obiekt stanowi część materialnego dziedzictwa historycznego Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://zabytek.pl/"
+  ],
+  "related_public_pages": []
+}

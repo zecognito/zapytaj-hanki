@@ -1,0 +1,20 @@
+{
+  "id": "centralne-muzeum-wlokiennictwa",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "museums",
+  "title": "Centralne Muzeum Włókiennictwa",
+  "facts": [
+    "Centralne Muzeum Włókiennictwa to instytucja muzealna związana z miejscowością Łódź.",
+    "Placówka dokumentuje, chroni lub udostępnia dziedzictwo i zbiory związane ze swoim profilem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.gov.pl/web/kultura/instytucje-kultury"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "muzeum-archeologiczne-w-krakowie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "institutions",
+  "subtopic": "museums",
+  "title": "Muzeum Archeologiczne w Krakowie",
+  "facts": [
+    "Muzeum Archeologiczne w Krakowie to instytucja muzealna związana z miejscowością Kraków.",
+    "Placówka dokumentuje, chroni lub udostępnia dziedzictwo i zbiory związane ze swoim profilem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.gov.pl/web/kultura/instytucje-kultury"
+  ],
+  "related_public_pages": []
+}
