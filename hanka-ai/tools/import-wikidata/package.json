@@ -11,7 +11,10 @@
     "validate:config": "node src/validate-config.mjs",
     "quality": "node src/quality-gate.mjs",
     "promote": "node src/promote.mjs --approved",
-    "pipeline": "npm run validate:config && npm run import:all && npm run validate && npm run quality"
+    "pipeline": "npm run validate:config && npm run import:all && npm run validate && npm run quality",
+    "acquire": "node src/acquire-cache.mjs",
+    "build:cache": "node src/build-from-cache.mjs",
+    "pipeline:cache": "npm run validate:config && npm run build:cache && npm run validate && npm run quality"
   },
   "dependencies": {
     "ajv": "^8.17.1",
