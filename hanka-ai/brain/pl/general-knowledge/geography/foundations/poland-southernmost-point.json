@@ -1,0 +1,20 @@
+{
+  "id": "poland-southernmost-point",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Najbardziej na południe wysunięty punkt Polski",
+  "facts": [
+    "Najbardziej na południe wysunięty punkt Polski znajduje się na Opołonku w Bieszczadach Zachodnich.",
+    "Jego szerokość geograficzna wynosi około 49°00′N."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://zpe.gov.pl/a/troche-teorii/DCR5VHAGC"
+  ],
+  "related_public_pages": []
+}

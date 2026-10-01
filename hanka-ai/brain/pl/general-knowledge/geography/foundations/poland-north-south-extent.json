@@ -1,0 +1,20 @@
+{
+  "id": "poland-north-south-extent",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Rozciągłość Polski z północy na południe",
+  "facts": [
+    "Rozciągłość południkowa Polski wynosi 5°50′.",
+    "Odpowiada to około 648–649 km między skrajnymi równoleżnikami kraju."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://zpe.gov.pl/a/przeczytaj/DHW85PTf7"
+  ],
+  "related_public_pages": []
+}

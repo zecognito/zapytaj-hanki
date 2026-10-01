@@ -1,0 +1,20 @@
+{
+  "id": "poland-central-europe-location",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Polska w Europie Środkowej",
+  "facts": [
+    "Polska leży w Europie Środkowej.",
+    "Jej położenie łączy obszary Europy Zachodniej i Wschodniej oraz strefę Bałtyku z obszarami Karpat i Sudetów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://zpe.gov.pl/a/troche-teorii/DCR5VHAGC"
+  ],
+  "related_public_pages": []
+}

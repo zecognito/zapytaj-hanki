@@ -1,0 +1,20 @@
+{
+  "id": "poland-east-west-extent",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Rozciągłość Polski ze wschodu na zachód",
+  "facts": [
+    "Rozciągłość równoleżnikowa Polski wynosi 10°02′.",
+    "Mierzona w przybliżeniu wzdłuż równoleżnika 52°N odpowiada około 689 km."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://zpe.gov.pl/a/przeczytaj/DHW85PTf7"
+  ],
+  "related_public_pages": []
+}
