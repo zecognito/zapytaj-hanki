@@ -1,0 +1,20 @@
+{
+  "name": "country-enrichment",
+  "topic": "countries",
+  "output": "country-enrichment",
+  "query": "country-enrichment.sparql",
+  "defaultLimit": 25,
+  "required": [
+    "item",
+    "itemLabel",
+    "countryCode",
+    "population",
+    "area",
+    "capitalLabel",
+    "continentLabel"
+  ],
+  "modes": [
+    "geography",
+    "demographics"
+  ]
+}
