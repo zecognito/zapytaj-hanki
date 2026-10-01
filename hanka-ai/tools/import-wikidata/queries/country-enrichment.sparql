@@ -1,5 +1,5 @@
-SELECT ?item ?itemLabel ?countryCode ?population ?area ?capitalLabel ?continentLabel WHERE {
-  ?item wdt:P31 wd:Q3624078 ; wdt:P297 ?countryCode ; wdt:P1082 ?population ; wdt:P2046 ?area ; wdt:P36 ?capital ; wdt:P30 ?continent .
+SELECT ?item ?itemLabel ?countryCode ?population ?area ?capitalLabel ?continentLabel ?officialWebsite WHERE {
+  ?item wdt:P31 wd:Q3624078 ; wdt:P297 ?countryCode ; wdt:P1082 ?population ; wdt:P2046 ?area ; wdt:P36 ?capital ; wdt:P30 ?continent ; wdt:P856 ?officialWebsite .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "pl,en". }
 }
 ORDER BY ?itemLabel
