@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "families": {
+    "places": {
+      "description": "Physical and administrative places",
+      "profiles": [
+        "country-enrichment",
+        "cities"
+      ]
+    },
+    "people": {
+      "description": "People and biographies",
+      "profiles": []
+    },
+    "events": {
+      "description": "Historical and dated events",
+      "profiles": []
+    },
+    "organizations": {
+      "description": "Institutions and organizations",
+      "profiles": []
+    },
+    "works": {
+      "description": "Books, films, artworks and cultural works",
+      "profiles": []
+    },
+    "concepts": {
+      "description": "Science, technology and general concepts",
+      "profiles": []
+    },
+    "infrastructure": {
+      "description": "Transport and built infrastructure",
+      "profiles": []
+    },
+    "statistics": {
+      "description": "Dated statistical observations",
+      "profiles": []
+    }
+  }
+}
