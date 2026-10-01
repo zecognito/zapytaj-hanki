@@ -1,0 +1,20 @@
+{
+  "id": "tr-warszawa",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "venues",
+  "title": "TR Warszawa",
+  "facts": [
+    "TR Warszawa to instytucja lub scena kulturalna działająca w miejscowości Warszawa.",
+    "Jest częścią polskiego życia teatralnego, muzycznego lub artystycznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://culture.pl/pl"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "festiwal-legend-rocka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "festivals",
+  "title": "Festiwal Legend Rocka",
+  "facts": [
+    "Festiwal Legend Rocka to festiwal, święto lub cykliczne wydarzenie kulturalne związane z miejscem: Dolina Charlotty.",
+    "Wydarzenie jest elementem współczesnego lub tradycyjnego życia kulturalnego w Polsce."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://culture.pl/pl"
+  ],
+  "related_public_pages": []
+}

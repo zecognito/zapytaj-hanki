@@ -1,0 +1,20 @@
+{
+  "id": "lazanki",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "regional-food",
+  "title": "Łazanki",
+  "facts": [
+    "Łazanki to potrawa, produkt lub specjalność kulinarna kojarzona z regionem: Polska.",
+    "Należy do szeroko rozumianego dziedzictwa kulinarnego Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.gov.pl/web/rolnictwo/lista-produktow-tradycyjnych12"
+  ],
+  "related_public_pages": []
+}

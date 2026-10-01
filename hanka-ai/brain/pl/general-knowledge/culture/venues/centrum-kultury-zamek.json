@@ -1,0 +1,20 @@
+{
+  "id": "centrum-kultury-zamek",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "venues",
+  "title": "Centrum Kultury Zamek",
+  "facts": [
+    "Centrum Kultury Zamek to instytucja lub scena kulturalna działająca w miejscowości Poznań.",
+    "Jest częścią polskiego życia teatralnego, muzycznego lub artystycznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://culture.pl/pl"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "filharmonia-lodzka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "venues",
+  "title": "Filharmonia Łódzka",
+  "facts": [
+    "Filharmonia Łódzka to instytucja lub scena kulturalna działająca w miejscowości Łódź.",
+    "Jest częścią polskiego życia teatralnego, muzycznego lub artystycznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://culture.pl/pl"
+  ],
+  "related_public_pages": []
+}

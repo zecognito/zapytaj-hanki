@@ -1,0 +1,20 @@
+{
+  "id": "festiwal-polskich-filmow-fabularnych",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "festivals",
+  "title": "Festiwal Polskich Filmów Fabularnych",
+  "facts": [
+    "Festiwal Polskich Filmów Fabularnych to festiwal, święto lub cykliczne wydarzenie kulturalne związane z miejscem: Gdynia.",
+    "Wydarzenie jest elementem współczesnego lub tradycyjnego życia kulturalnego w Polsce."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://culture.pl/pl"
+  ],
+  "related_public_pages": []
+}
