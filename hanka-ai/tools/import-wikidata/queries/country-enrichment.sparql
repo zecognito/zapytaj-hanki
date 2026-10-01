@@ -1,11 +1,24 @@
 SELECT ?item ?itemLabel ?countryCode ?population ?populationDate ?area ?capitalLabel ?continentLabel ?officialWebsite WHERE {
-  ?item wdt:P31 wd:Q3624078 ; wdt:P297 ?countryCode ; wdt:P2046 ?area ; wdt:P36 ?capital ; wdt:P30 ?continent ; wdt:P856 ?officialWebsite .
+  {
+    SELECT ?item ?countryCode WHERE {
+      ?item wdt:P31 wd:Q3624078 ; wdt:P297 ?countryCode .
+    }
+    ORDER BY ?countryCode
+    LIMIT {{LIMIT}}
+    OFFSET {{OFFSET}}
+  }
+  ?item wdt:P2046 ?area ; wdt:P36 ?capital ; wdt:P30 ?continent ; wdt:P856 ?officialWebsite .
+  {
+    SELECT ?item (MAX(?datedPoint) AS ?populationDate) WHERE {
+      ?item p:P1082 ?statement .
+      ?statement ps:P1082 ?populationValue ; pq:P585 ?datedPoint .
+      FILTER NOT EXISTS { ?statement wikibase:rank wikibase:DeprecatedRank . }
+    }
+    GROUP BY ?item
+  }
   ?item p:P1082 ?populationStatement .
-  ?populationStatement ps:P1082 ?population .
-  OPTIONAL { ?populationStatement pq:P585 ?populationDate . }
+  ?populationStatement ps:P1082 ?population ; pq:P585 ?populationDate .
   FILTER NOT EXISTS { ?populationStatement wikibase:rank wikibase:DeprecatedRank . }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "pl,en". }
 }
-ORDER BY ?itemLabel DESC(?populationDate)
-LIMIT {{LIMIT}}
-OFFSET {{OFFSET}}
+ORDER BY ?countryCode
