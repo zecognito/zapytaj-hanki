@@ -1,0 +1,20 @@
+{
+  "id": "world-sepsa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "life-science-and-medicine",
+  "title": "Sepsa",
+  "facts": [
+    "Jest zagrażającą życiu dysfunkcją narządów wywołaną nieprawidłową odpowiedzią organizmu na zakażenie.",
+    "Wymaga szybkiego rozpoznania i leczenia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

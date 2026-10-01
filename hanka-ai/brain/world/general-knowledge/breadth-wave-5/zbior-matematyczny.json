@@ -1,0 +1,20 @@
+{
+  "id": "world-zbior-matematyczny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Zbiór matematyczny",
+  "facts": [
+    "Jest kolekcją określonych obiektów nazywanych elementami.",
+    "Teoria mnogości stanowi jeden z fundamentów współczesnej matematyki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

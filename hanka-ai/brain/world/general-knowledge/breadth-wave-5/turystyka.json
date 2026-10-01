@@ -1,0 +1,21 @@
+{
+  "id": "world-turystyka",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Turystyka",
+  "facts": [
+    "Obejmuje podróże poza zwykłe otoczenie w celach wypoczynkowych, zawodowych lub innych.",
+    "Jest ważnym źródłem dochodów i zatrudnienia w wielu gospodarkach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

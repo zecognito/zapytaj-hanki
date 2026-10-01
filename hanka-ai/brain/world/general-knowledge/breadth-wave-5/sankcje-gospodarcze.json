@@ -1,0 +1,21 @@
+{
+  "id": "world-sankcje-gospodarcze",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Sankcje gospodarcze",
+  "facts": [
+    "Ograniczają handel, finanse lub dostęp do aktywów w celu wywarcia presji.",
+    "Mogą obejmować embargo, zamrożenie aktywów i ograniczenia transakcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

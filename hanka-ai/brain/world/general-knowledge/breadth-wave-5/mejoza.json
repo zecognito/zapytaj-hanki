@@ -1,0 +1,20 @@
+{
+  "id": "world-mejoza",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "life-science-and-medicine",
+  "title": "Mejoza",
+  "facts": [
+    "Jest podziałem komórkowym zmniejszającym liczbę chromosomów o połowę.",
+    "U człowieka prowadzi do komórek rozrodczych z 23 chromosomami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-film-dokumentalny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Film dokumentalny",
+  "facts": [
+    "Przedstawia rzeczywiste osoby, wydarzenia lub zjawiska, choć zawiera wybory autora dotyczące narracji i montażu.",
+    "Może mieć charakter obserwacyjny, reporterski, historyczny lub naukowy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

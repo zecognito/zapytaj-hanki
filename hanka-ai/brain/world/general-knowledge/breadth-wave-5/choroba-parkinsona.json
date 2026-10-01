@@ -1,0 +1,20 @@
+{
+  "id": "world-choroba-parkinsona",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "life-science-and-medicine",
+  "title": "Choroba Parkinsona",
+  "facts": [
+    "Jest postępującą chorobą układu nerwowego związaną m.in. z utratą neuronów dopaminergicznych.",
+    "Objawy ruchowe obejmują spowolnienie, sztywność i drżenie spoczynkowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-turbina-wiatrowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Turbina wiatrowa",
+  "facts": [
+    "Przekształca energię kinetyczną wiatru w mechaniczną, a generator w elektryczną.",
+    "Farmy wiatrowe mogą znajdować się na lądzie lub morzu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

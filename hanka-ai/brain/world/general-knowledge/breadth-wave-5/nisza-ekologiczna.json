@@ -1,0 +1,20 @@
+{
+  "id": "world-nisza-ekologiczna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Nisza ekologiczna",
+  "facts": [
+    "Opisuje rolę gatunku w ekosystemie oraz sposób wykorzystywania zasobów.",
+    "Obejmuje m.in. pokarm, siedlisko, aktywność i relacje z innymi organizmami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unep.org/"
+  ],
+  "related_public_pages": []
+}

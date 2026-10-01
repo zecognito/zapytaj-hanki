@@ -1,0 +1,20 @@
+{
+  "id": "world-biom",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Biom",
+  "facts": [
+    "To rozległy zespół ekosystemów o podobnym klimacie i dominującej roślinności.",
+    "Przykładami biomów są tundra, tajga, sawanna i pustynia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unep.org/"
+  ],
+  "related_public_pages": []
+}

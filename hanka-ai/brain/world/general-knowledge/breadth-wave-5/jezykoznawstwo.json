@@ -1,0 +1,20 @@
+{
+  "id": "world-jezykoznawstwo",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Językoznawstwo",
+  "facts": [
+    "Naukowo bada język, jego strukturę, użycie i zmiany.",
+    "Obejmuje m.in. fonetykę, składnię, semantykę i socjolingwistykę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

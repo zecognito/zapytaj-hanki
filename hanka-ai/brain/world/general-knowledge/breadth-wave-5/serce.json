@@ -1,0 +1,20 @@
+{
+  "id": "world-serce",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "life-science-and-medicine",
+  "title": "Serce",
+  "facts": [
+    "Jest mięśniową pompą napędzającą krążenie krwi.",
+    "Ludzkie serce ma cztery jamy: dwa przedsionki i dwie komory."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

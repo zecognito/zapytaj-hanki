@@ -1,0 +1,21 @@
+{
+  "id": "world-inwestycja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Inwestycja",
+  "facts": [
+    "Polega na przeznaczeniu zasobów dziś w oczekiwaniu przyszłych korzyści.",
+    "W gospodarce obejmuje m.in. budowę, maszyny, infrastrukturę i aktywa niematerialne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

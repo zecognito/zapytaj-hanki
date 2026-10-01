@@ -1,0 +1,20 @@
+{
+  "id": "world-smog",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Smog",
+  "facts": [
+    "Jest zanieczyszczonym powietrzem zawierającym mieszaninę cząstek i gazów.",
+    "Smog fotochemiczny powstaje m.in. z tlenków azotu i lotnych związków organicznych przy świetle słonecznym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unep.org/"
+  ],
+  "related_public_pages": []
+}

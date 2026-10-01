@@ -1,0 +1,20 @@
+{
+  "id": "world-przyspieszenie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Przyspieszenie",
+  "facts": [
+    "Opisuje tempo zmiany prędkości w czasie.",
+    "W SI mierzy się je w metrach na sekundę do kwadratu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

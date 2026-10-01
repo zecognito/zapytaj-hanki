@@ -1,0 +1,21 @@
+{
+  "id": "world-oszczednosci",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Oszczędności",
+  "facts": [
+    "To część dochodu nieprzeznaczona na bieżącą konsumpcję.",
+    "Mogą być trzymane w gotówce, depozytach lub inwestowane."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

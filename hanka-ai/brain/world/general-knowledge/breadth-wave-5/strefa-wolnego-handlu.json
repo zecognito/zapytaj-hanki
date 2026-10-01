@@ -1,0 +1,21 @@
+{
+  "id": "world-strefa-wolnego-handlu",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Strefa wolnego handlu",
+  "facts": [
+    "Uczestnicy znoszą lub ograniczają bariery handlowe między sobą.",
+    "Każdy może zachować własną politykę celną wobec państw spoza strefy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

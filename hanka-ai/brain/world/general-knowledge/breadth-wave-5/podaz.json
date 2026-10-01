@@ -1,0 +1,21 @@
+{
+  "id": "world-podaz",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Podaż",
+  "facts": [
+    "Opisuje ilość dobra lub usługi, którą producenci oferują przy różnych cenach.",
+    "Przy innych warunkach bez zmian wyższa cena często zachęca do większej podaży."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

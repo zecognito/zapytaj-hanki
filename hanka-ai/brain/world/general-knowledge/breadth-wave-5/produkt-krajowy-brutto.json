@@ -1,0 +1,21 @@
+{
+  "id": "world-produkt-krajowy-brutto",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Produkt krajowy brutto",
+  "facts": [
+    "PKB mierzy wartość finalnych dóbr i usług wytworzonych na terytorium gospodarki w określonym czasie.",
+    "Może być liczony metodą produkcyjną, dochodową lub wydatkową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

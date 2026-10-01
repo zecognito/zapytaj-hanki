@@ -1,0 +1,21 @@
+{
+  "id": "world-nierownosc-spoleczna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Nierówność społeczna",
+  "facts": [
+    "Opisuje nierówny dostęp do dochodów, majątku, edukacji, zdrowia lub władzy.",
+    "Jej poziom bada się różnymi wskaźnikami zależnie od analizowanego wymiaru."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

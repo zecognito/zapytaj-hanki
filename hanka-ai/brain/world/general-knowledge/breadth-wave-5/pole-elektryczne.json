@@ -1,0 +1,20 @@
+{
+  "id": "world-pole-elektryczne",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Pole elektryczne",
+  "facts": [
+    "Opisuje siłę działającą na dodatni ładunek próbny w danym punkcie.",
+    "Powstaje wokół ładunków elektrycznych i może zmieniać się w czasie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

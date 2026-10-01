@@ -1,0 +1,21 @@
+{
+  "id": "world-ubezpieczenie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Ubezpieczenie",
+  "facts": [
+    "Przenosi określone ryzyko finansowe na ubezpieczyciela w zamian za składkę.",
+    "Polisa określa objęte ryzyka, wyłączenia, limity i warunki wypłaty."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

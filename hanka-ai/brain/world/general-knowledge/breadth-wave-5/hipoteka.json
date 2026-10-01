@@ -1,0 +1,21 @@
+{
+  "id": "world-hipoteka",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Hipoteka",
+  "facts": [
+    "Kredyt hipoteczny jest długoterminowym finansowaniem zabezpieczonym nieruchomością.",
+    "Przy braku spłaty wierzyciel może dochodzić praw z zabezpieczenia zgodnie z prawem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

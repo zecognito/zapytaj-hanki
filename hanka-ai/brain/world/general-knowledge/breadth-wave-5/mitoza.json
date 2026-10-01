@@ -1,0 +1,20 @@
+{
+  "id": "world-mitoza",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "life-science-and-medicine",
+  "title": "Mitoza",
+  "facts": [
+    "Jest podziałem jądra prowadzącym zwykle do dwóch genetycznie podobnych komórek potomnych.",
+    "U organizmów wielokomórkowych umożliwia wzrost i odnowę tkanek."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

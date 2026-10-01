@@ -1,0 +1,20 @@
+{
+  "id": "world-teoria-wzglednosci-szczegolna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Szczególna teoria względności",
+  "facts": [
+    "Zakłada jednakową prędkość światła w próżni dla obserwatorów inercjalnych.",
+    "Prowadzi m.in. do dylatacji czasu i równoważności masy oraz energii E=mc²."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

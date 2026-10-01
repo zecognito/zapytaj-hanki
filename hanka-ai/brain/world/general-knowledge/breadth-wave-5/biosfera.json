@@ -1,0 +1,20 @@
+{
+  "id": "world-biosfera",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Biosfera",
+  "facts": [
+    "Obejmuje wszystkie obszary Ziemi, w których występuje życie.",
+    "Łączy organizmy z atmosferą, hydrosferą i litosferą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unep.org/"
+  ],
+  "related_public_pages": []
+}

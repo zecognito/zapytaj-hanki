@@ -1,0 +1,20 @@
+{
+  "id": "world-nanotechnologia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Nanotechnologia",
+  "facts": [
+    "Bada i wykorzystuje materiały oraz struktury w skali nanometrów.",
+    "W tej skali materiały mogą mieć właściwości odmienne od makroskopowych odpowiedników."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

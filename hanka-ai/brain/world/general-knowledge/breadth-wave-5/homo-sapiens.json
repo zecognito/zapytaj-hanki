@@ -1,0 +1,20 @@
+{
+  "id": "world-homo-sapiens",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "life-science-and-medicine",
+  "title": "Homo sapiens",
+  "facts": [
+    "Homo sapiens jest współczesnym gatunkiem człowieka.",
+    "Najstarsze znane szczątki przypisywane naszemu gatunkowi pochodzą z Afryki i liczą około 300 tysięcy lat."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

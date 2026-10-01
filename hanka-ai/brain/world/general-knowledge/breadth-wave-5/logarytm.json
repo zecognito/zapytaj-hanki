@@ -1,0 +1,20 @@
+{
+  "id": "world-logarytm",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Logarytm",
+  "facts": [
+    "Jest działaniem odwrotnym do potęgowania.",
+    "Jeżeli b do potęgi x daje y, to logarytm y przy podstawie b jest równy x."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

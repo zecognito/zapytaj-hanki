@@ -1,0 +1,20 @@
+{
+  "id": "world-kino",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Kino",
+  "facts": [
+    "Wykorzystuje sekwencje ruchomych obrazów do opowiadania historii lub dokumentowania rzeczywistości.",
+    "Publiczne projekcje filmowe upowszechniły się pod koniec XIX wieku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

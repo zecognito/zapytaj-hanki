@@ -1,0 +1,20 @@
+{
+  "id": "world-teoria-liczb",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Teoria liczb",
+  "facts": [
+    "Bada własności liczb całkowitych.",
+    "Obejmuje zagadnienia takie jak liczby pierwsze, podzielność i równania diofantyczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

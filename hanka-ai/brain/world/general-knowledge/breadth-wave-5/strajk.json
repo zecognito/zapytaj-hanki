@@ -1,0 +1,21 @@
+{
+  "id": "world-strajk",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Strajk",
+  "facts": [
+    "Jest zbiorowym wstrzymaniem pracy w celu wywarcia nacisku w sporze pracowniczym.",
+    "Prawo do strajku i wymagane procedury różnią się między systemami prawnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

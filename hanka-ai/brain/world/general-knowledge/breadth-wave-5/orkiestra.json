@@ -1,0 +1,20 @@
+{
+  "id": "world-orkiestra",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Orkiestra",
+  "facts": [
+    "Jest dużym zespołem instrumentalnym kierowanym zwykle przez dyrygenta.",
+    "Orkiestra symfoniczna obejmuje sekcje smyczkową, dętą i perkusyjną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-kino-nieme",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Kino nieme",
+  "facts": [
+    "Rozwijało się przed upowszechnieniem zsynchronizowanego dźwięku pod koniec lat 20. XX wieku.",
+    "Filmy wykorzystywały plansze tekstowe, ekspresyjną grę i często muzykę na żywo."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

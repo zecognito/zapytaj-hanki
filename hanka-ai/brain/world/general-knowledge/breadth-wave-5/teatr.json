@@ -1,0 +1,20 @@
+{
+  "id": "world-teatr",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Teatr",
+  "facts": [
+    "Jest sztuką przedstawiania historii i działań przed publicznością za pomocą aktorów, przestrzeni, głosu i ruchu.",
+    "Tradycje teatralne rozwijały się w wielu kulturach świata."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

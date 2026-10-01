@@ -1,0 +1,20 @@
+{
+  "id": "world-druk-3d",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Druk 3D",
+  "facts": [
+    "Wytwarza obiekty warstwa po warstwie na podstawie cyfrowego modelu.",
+    "Technologie addytywne są używane m.in. w prototypowaniu, medycynie i produkcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

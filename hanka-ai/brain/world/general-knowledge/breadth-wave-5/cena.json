@@ -1,0 +1,21 @@
+{
+  "id": "world-cena",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Cena",
+  "facts": [
+    "Jest kwotą pieniężną wymienianą za dobro, usługę lub aktywo.",
+    "W gospodarce rynkowej ceny przekazują informacje o względnej rzadkości i popycie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

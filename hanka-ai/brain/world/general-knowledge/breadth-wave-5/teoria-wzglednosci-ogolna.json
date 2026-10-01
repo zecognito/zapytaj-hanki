@@ -1,0 +1,20 @@
+{
+  "id": "world-teoria-wzglednosci-ogolna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Ogólna teoria względności",
+  "facts": [
+    "Opisuje grawitację jako geometrię zakrzywionej czasoprzestrzeni.",
+    "Przewiduje m.in. ugięcie światła, dylatację czasu i fale grawitacyjne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

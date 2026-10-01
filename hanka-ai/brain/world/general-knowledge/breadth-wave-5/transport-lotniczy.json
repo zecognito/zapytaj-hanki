@@ -1,0 +1,21 @@
+{
+  "id": "world-transport-lotniczy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Transport lotniczy",
+  "facts": [
+    "Umożliwia szybkie przewozy pasażerskie i towarowe na duże odległości.",
+    "Opiera się na sieci lotnisk, przewoźników i standardów bezpieczeństwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

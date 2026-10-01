@@ -1,0 +1,20 @@
+{
+  "id": "world-pop-art",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Pop-art",
+  "facts": [
+    "Rozwinął się w latach 50. i 60. XX wieku, szczególnie w Wielkiej Brytanii i USA.",
+    "Wykorzystywał obrazy kultury masowej, reklamy i produktów konsumpcyjnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

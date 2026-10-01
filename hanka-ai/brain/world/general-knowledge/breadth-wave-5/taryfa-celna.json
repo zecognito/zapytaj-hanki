@@ -1,0 +1,21 @@
+{
+  "id": "world-taryfa-celna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Taryfa celna",
+  "facts": [
+    "Cło importowe jest podatkiem nakładanym na towary sprowadzane przez granicę.",
+    "Może chronić producentów krajowych, ale zwykle podnosi koszt importu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

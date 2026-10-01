@@ -1,0 +1,20 @@
+{
+  "id": "world-delta-rzeki",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Delta rzeki",
+  "facts": [
+    "Powstaje przy ujściu rzeki wskutek odkładania niesionych przez nią osadów.",
+    "Rzeka może rozdzielać się tam na liczne ramiona."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unep.org/"
+  ],
+  "related_public_pages": []
+}

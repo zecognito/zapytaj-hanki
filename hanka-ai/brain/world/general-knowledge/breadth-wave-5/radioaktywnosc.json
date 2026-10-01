@@ -1,0 +1,20 @@
+{
+  "id": "world-radioaktywnosc",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Radioaktywność",
+  "facts": [
+    "Jest samorzutnym rozpadem niestabilnych jąder atomowych.",
+    "Rozpad może emitować m.in. cząstki alfa, beta lub promieniowanie gamma."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

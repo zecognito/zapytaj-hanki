@@ -1,0 +1,20 @@
+{
+  "id": "world-pluca",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "life-science-and-medicine",
+  "title": "Płuca",
+  "facts": [
+    "Umożliwiają wymianę gazową między powietrzem a krwią.",
+    "W pęcherzykach płucnych tlen przechodzi do krwi, a dwutlenek węgla jest z niej usuwany."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

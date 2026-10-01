@@ -1,0 +1,20 @@
+{
+  "id": "world-algebra-liniowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Algebra liniowa",
+  "facts": [
+    "Bada wektory, macierze, przestrzenie wektorowe i przekształcenia liniowe.",
+    "Jest podstawowym narzędziem fizyki, grafiki komputerowej, statystyki i uczenia maszynowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

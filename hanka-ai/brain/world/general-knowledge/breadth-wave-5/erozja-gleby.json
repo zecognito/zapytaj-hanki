@@ -1,0 +1,20 @@
+{
+  "id": "world-erozja-gleby",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Erozja gleby",
+  "facts": [
+    "Polega na usuwaniu wierzchniej warstwy gleby przez wodę, wiatr lub działalność człowieka.",
+    "Utrata żyznej warstwy może zmniejszać produktywność rolnictwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unep.org/"
+  ],
+  "related_public_pages": []
+}

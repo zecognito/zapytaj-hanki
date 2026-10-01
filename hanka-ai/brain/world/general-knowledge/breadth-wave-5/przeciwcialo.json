@@ -1,0 +1,20 @@
+{
+  "id": "world-przeciwcialo",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "life-science-and-medicine",
+  "title": "Przeciwciało",
+  "facts": [
+    "Przeciwciała są białkami wytwarzanymi przez limfocyty B i komórki plazmatyczne.",
+    "Rozpoznają określone antygeny i pomagają odporności neutralizować zagrożenia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

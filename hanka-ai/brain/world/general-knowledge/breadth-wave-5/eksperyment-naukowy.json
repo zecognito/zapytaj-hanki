@@ -1,0 +1,20 @@
+{
+  "id": "world-eksperyment-naukowy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Eksperyment naukowy",
+  "facts": [
+    "Celowo zmienia lub kontroluje warunki, aby badać zależności między zjawiskami.",
+    "Dobry projekt ogranicza czynniki zakłócające i umożliwia ocenę hipotezy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

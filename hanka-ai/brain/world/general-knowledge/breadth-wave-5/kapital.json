@@ -1,0 +1,21 @@
+{
+  "id": "world-kapital",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Kapitał",
+  "facts": [
+    "Może oznaczać zasoby wykorzystywane do produkcji lub finansowania działalności.",
+    "Kapitał rzeczowy obejmuje np. maszyny, a finansowy środki i instrumenty finansowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-stan-skupienia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Stan skupienia",
+  "facts": [
+    "Materia może występować m.in. jako ciało stałe, ciecz, gaz i plazma.",
+    "Zmiana temperatury lub ciśnienia może powodować przejścia między stanami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

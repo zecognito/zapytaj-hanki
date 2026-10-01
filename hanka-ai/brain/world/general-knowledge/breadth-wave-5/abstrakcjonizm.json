@@ -1,0 +1,20 @@
+{
+  "id": "world-abstrakcjonizm",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Abstrakcjonizm",
+  "facts": [
+    "Sztuka abstrakcyjna nie musi przedstawiać rozpoznawalnych obiektów rzeczywistości.",
+    "Wykorzystuje kolor, linię, kształt i kompozycję jako samodzielne środki wyrazu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

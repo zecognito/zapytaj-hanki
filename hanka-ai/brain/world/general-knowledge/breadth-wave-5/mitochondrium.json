@@ -1,0 +1,20 @@
+{
+  "id": "world-mitochondrium",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "life-science-and-medicine",
+  "title": "Mitochondrium",
+  "facts": [
+    "Mitochondria wytwarzają większość ATP podczas oddychania komórkowego u eukariontów.",
+    "Mają własne DNA i wywodzą się ewolucyjnie z bakterii endosymbiotycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

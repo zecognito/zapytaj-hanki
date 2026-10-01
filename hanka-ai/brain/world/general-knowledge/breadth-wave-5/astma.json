@@ -1,0 +1,20 @@
+{
+  "id": "world-astma",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "life-science-and-medicine",
+  "title": "Astma",
+  "facts": [
+    "Jest przewlekłą chorobą zapalną dróg oddechowych powodującą zmienne zwężenie oskrzeli.",
+    "Objawy mogą obejmować świszczący oddech, kaszel, duszność i ucisk w klatce piersiowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

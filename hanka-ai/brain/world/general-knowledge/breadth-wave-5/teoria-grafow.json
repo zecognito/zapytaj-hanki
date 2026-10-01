@@ -1,0 +1,20 @@
+{
+  "id": "world-teoria-grafow",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Teoria grafów",
+  "facts": [
+    "Bada struktury złożone z wierzchołków i łączących je krawędzi.",
+    "Grafy modelują m.in. sieci drogowe, internet i relacje społeczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

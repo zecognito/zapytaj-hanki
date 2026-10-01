@@ -1,0 +1,20 @@
+{
+  "id": "world-art-nouveau",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Art nouveau",
+  "facts": [
+    "Rozwinęło się na przełomie XIX i XX wieku.",
+    "Charakterystyczne były płynne linie, motywy roślinne i łączenie sztuki z rzemiosłem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-gaz-ziemny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Gaz ziemny",
+  "facts": [
+    "Jest paliwem kopalnym składającym się głównie z metanu.",
+    "Służy do ogrzewania, produkcji energii i jako surowiec przemysłowy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unep.org/"
+  ],
+  "related_public_pages": []
+}

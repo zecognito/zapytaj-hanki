@@ -1,0 +1,20 @@
+{
+  "id": "world-wirusowe-zapalenie-watroby",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "life-science-and-medicine",
+  "title": "Wirusowe zapalenie wątroby",
+  "facts": [
+    "Może być wywoływane przez wirusy oznaczane literami A, B, C, D i E.",
+    "Typy różnią się drogami transmisji, przebiegiem i możliwością przewlekłego zakażenia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

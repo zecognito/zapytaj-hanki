@@ -1,0 +1,20 @@
+{
+  "id": "world-siec-pokarmowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Sieć pokarmowa",
+  "facts": [
+    "Łączy wiele łańcuchów pokarmowych w ekosystemie.",
+    "Pokazuje, że organizmy mogą mieć wiele źródeł pokarmu i wielu drapieżników."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unep.org/"
+  ],
+  "related_public_pages": []
+}

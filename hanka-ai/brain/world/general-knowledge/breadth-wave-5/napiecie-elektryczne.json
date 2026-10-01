@@ -1,0 +1,20 @@
+{
+  "id": "world-napiecie-elektryczne",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Napięcie elektryczne",
+  "facts": [
+    "Jest różnicą potencjałów elektrycznych między dwoma punktami.",
+    "Jednostką napięcia w SI jest wolt."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

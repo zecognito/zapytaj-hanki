@@ -1,0 +1,20 @@
+{
+  "id": "world-plazy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "life-science-and-medicine",
+  "title": "Płazy",
+  "facts": [
+    "Obejmują żaby, ropuchy, salamandry i płazy beznogie.",
+    "Wiele gatunków przechodzi rozwój larwalny w wodzie i dorosłe życie częściowo na lądzie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

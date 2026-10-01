@@ -1,0 +1,21 @@
+{
+  "id": "world-placa-minimalna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Płaca minimalna",
+  "facts": [
+    "Ustanawia prawne minimum wynagrodzenia dla objętych nią pracowników.",
+    "Jej wysokość i zakres różnią się między państwami i regionami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

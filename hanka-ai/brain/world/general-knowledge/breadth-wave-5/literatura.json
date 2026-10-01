@@ -1,0 +1,20 @@
+{
+  "id": "world-literatura",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Literatura",
+  "facts": [
+    "Obejmuje dzieła językowe o wartości artystycznej lub kulturowej.",
+    "Do głównych form należą poezja, dramat i proza."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

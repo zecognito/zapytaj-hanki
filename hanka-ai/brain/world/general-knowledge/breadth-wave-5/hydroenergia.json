@@ -1,0 +1,20 @@
+{
+  "id": "world-hydroenergia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Hydroenergia",
+  "facts": [
+    "Wykorzystuje energię przepływającej lub spadającej wody.",
+    "Elektrownie wodne przekształcają ruch wody w energię mechaniczną, a następnie elektryczną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unep.org/"
+  ],
+  "related_public_pages": []
+}

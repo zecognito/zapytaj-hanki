@@ -1,0 +1,20 @@
+{
+  "id": "world-hipoteza-naukowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Hipoteza naukowa",
+  "facts": [
+    "Jest proponowanym wyjaśnieniem możliwym do skonfrontowania z obserwacją lub eksperymentem.",
+    "Dane mogą ją wspierać albo podważać."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

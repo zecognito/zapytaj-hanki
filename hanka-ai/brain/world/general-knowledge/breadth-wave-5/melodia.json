@@ -1,0 +1,20 @@
+{
+  "id": "world-melodia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Melodia",
+  "facts": [
+    "Jest uporządkowaną w czasie sekwencją dźwięków postrzeganą jako spójna całość.",
+    "Jej kształt zależy m.in. od wysokości dźwięków, rytmu i frazowania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

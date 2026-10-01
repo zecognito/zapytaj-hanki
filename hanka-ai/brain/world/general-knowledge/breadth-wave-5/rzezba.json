@@ -1,0 +1,20 @@
+{
+  "id": "world-rzezba",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Rzeźba",
+  "facts": [
+    "Tworzy trójwymiarowe formy przez modelowanie, rzeźbienie, odlewanie lub składanie.",
+    "Materiały obejmują m.in. kamień, drewno, metal i glinę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

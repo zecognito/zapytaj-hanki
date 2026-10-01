@@ -1,0 +1,20 @@
+{
+  "id": "world-tango",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Tango",
+  "facts": [
+    "Rozwinęło się pod koniec XIX wieku w regionie Río de la Plata.",
+    "Jest zarówno stylem muzycznym, jak i tańcem partnerskim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

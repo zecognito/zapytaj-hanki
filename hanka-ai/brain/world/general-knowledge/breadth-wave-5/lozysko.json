@@ -1,0 +1,20 @@
+{
+  "id": "world-lozysko",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "life-science-and-medicine",
+  "title": "Łożysko",
+  "facts": [
+    "Jest narządem rozwijającym się w ciąży i łączącym fizjologicznie płód z organizmem ciężarnej.",
+    "Umożliwia wymianę tlenu, składników odżywczych i produktów przemiany materii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

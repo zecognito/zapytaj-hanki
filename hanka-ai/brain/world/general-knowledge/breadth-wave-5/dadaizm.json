@@ -1,0 +1,20 @@
+{
+  "id": "world-dadaizm",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Dadaizm",
+  "facts": [
+    "Narodził się podczas I wojny światowej jako awangardowy ruch kwestionujący tradycyjne pojęcia sztuki.",
+    "Wykorzystywał absurd, przypadek, kolaż i przedmioty codzienne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

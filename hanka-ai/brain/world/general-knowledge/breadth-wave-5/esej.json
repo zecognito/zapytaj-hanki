@@ -1,0 +1,20 @@
+{
+  "id": "world-esej",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Esej",
+  "facts": [
+    "Jest formą prozatorską przedstawiającą refleksję, argumentację lub interpretację autora.",
+    "Może mieć charakter literacki, naukowy, krytyczny lub publicystyczny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

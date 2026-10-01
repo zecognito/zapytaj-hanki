@@ -1,0 +1,20 @@
+{
+  "id": "world-gatunek",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Gatunek",
+  "facts": [
+    "Jest podstawową jednostką klasyfikacji biologicznej.",
+    "W biologicznej koncepcji gatunku jego osobniki mogą krzyżować się i wydawać płodne potomstwo."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unep.org/"
+  ],
+  "related_public_pages": []
+}

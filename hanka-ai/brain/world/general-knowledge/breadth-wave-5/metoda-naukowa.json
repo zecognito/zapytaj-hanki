@@ -1,0 +1,20 @@
+{
+  "id": "world-metoda-naukowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Metoda naukowa",
+  "facts": [
+    "Opiera się na obserwacji, testowalnych hipotezach, danych i analizie wyników.",
+    "Wyniki powinny być możliwe do krytycznej oceny i niezależnej weryfikacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

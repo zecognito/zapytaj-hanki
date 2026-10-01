@@ -1,0 +1,20 @@
+{
+  "id": "world-nadprzewodnictwo",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Nadprzewodnictwo",
+  "facts": [
+    "Jest stanem, w którym materiał ma zerowy opór elektryczny poniżej temperatury krytycznej.",
+    "Nadprzewodniki wykazują też efekt Meissnera."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-archeologia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Archeologia",
+  "facts": [
+    "Bada przeszłe społeczeństwa na podstawie materialnych pozostałości ich działalności.",
+    "Źródłami są m.in. budowle, narzędzia, ceramika i szczątki biologiczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

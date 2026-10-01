@@ -1,0 +1,20 @@
+{
+  "id": "world-biom-tajgi",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Biom tajgi",
+  "facts": [
+    "Tajga to borealny biom leśny północnej Eurazji i Ameryki Północnej.",
+    "Dominują w niej drzewa iglaste przystosowane do długich zim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unep.org/"
+  ],
+  "related_public_pages": []
+}

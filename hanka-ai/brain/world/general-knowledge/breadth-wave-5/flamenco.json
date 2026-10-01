@@ -1,0 +1,20 @@
+{
+  "id": "world-flamenco",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Flamenco",
+  "facts": [
+    "Jest tradycją muzyczno-taneczną silnie związaną z Andaluzją.",
+    "Łączy śpiew, gitarę, taniec i rytmiczne klaskanie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-chemia-nieorganiczna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Chemia nieorganiczna",
+  "facts": [
+    "Bada m.in. sole, minerały, metale, kompleksy i materiały stałe.",
+    "Uzupełnia zakres chemii organicznej skoncentrowanej głównie na związkach węgla."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

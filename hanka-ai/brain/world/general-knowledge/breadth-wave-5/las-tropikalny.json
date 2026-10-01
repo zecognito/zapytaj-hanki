@@ -1,0 +1,20 @@
+{
+  "id": "world-las-tropikalny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Las tropikalny",
+  "facts": [
+    "Tropikalne lasy deszczowe występują w ciepłych, wilgotnych regionach blisko równika.",
+    "Należą do ekosystemów o bardzo wysokiej różnorodności biologicznej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unep.org/"
+  ],
+  "related_public_pages": []
+}

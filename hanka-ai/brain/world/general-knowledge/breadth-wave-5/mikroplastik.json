@@ -1,0 +1,20 @@
+{
+  "id": "world-mikroplastik",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Mikroplastik",
+  "facts": [
+    "To cząstki tworzyw sztucznych mniejsze niż 5 milimetrów.",
+    "Powstają bezpośrednio jako małe cząstki lub przez rozpad większych plastików."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unep.org/"
+  ],
+  "related_public_pages": []
+}

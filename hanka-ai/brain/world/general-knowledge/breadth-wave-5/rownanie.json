@@ -1,0 +1,20 @@
+{
+  "id": "world-rownanie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Równanie",
+  "facts": [
+    "Stwierdza równość dwóch wyrażeń matematycznych.",
+    "Rozwiązaniem jest wartość lub zestaw wartości, dla których ta równość jest prawdziwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

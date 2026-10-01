@@ -1,0 +1,20 @@
+{
+  "id": "world-okres-poltrwania",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Okres półtrwania",
+  "facts": [
+    "To czas, po którym pozostaje średnio połowa początkowej liczby nierozpadłych jąder.",
+    "Jest charakterystyczny dla danego izotopu promieniotwórczego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

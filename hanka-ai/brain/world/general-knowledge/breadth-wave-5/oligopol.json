@@ -1,0 +1,21 @@
+{
+  "id": "world-oligopol",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Oligopol",
+  "facts": [
+    "To rynek zdominowany przez niewielką liczbę dużych firm.",
+    "Decyzje jednej firmy mogą silnie wpływać na strategie konkurentów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

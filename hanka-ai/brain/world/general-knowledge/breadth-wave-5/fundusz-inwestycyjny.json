@@ -1,0 +1,21 @@
+{
+  "id": "world-fundusz-inwestycyjny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "economy-and-society",
+  "title": "Fundusz inwestycyjny",
+  "facts": [
+    "Zbiera kapitał wielu inwestorów i lokuje go według określonej strategii.",
+    "Może dawać zdywersyfikowaną ekspozycję na wiele aktywów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/",
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

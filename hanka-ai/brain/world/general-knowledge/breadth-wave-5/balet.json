@@ -1,0 +1,20 @@
+{
+  "id": "world-balet",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-and-humanities",
+  "title": "Balet",
+  "facts": [
+    "Jest formą tańca scenicznego rozwiniętą na europejskich dworach renesansu i baroku.",
+    "Technika klasyczna wykorzystuje skodyfikowane pozycje i kroki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

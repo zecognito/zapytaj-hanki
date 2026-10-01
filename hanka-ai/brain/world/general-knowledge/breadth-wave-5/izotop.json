@@ -1,0 +1,20 @@
+{
+  "id": "world-izotop",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-mathematics",
+  "title": "Izotop",
+  "facts": [
+    "Izotopy jednego pierwiastka mają tyle samo protonów, ale różną liczbę neutronów.",
+    "Niektóre są stabilne, a inne promieniotwórcze."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}
