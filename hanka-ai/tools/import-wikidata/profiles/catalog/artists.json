@@ -1,0 +1,24 @@
+{
+  "name": "artists",
+  "family": "people",
+  "topic": "people",
+  "subtopic": "artist-profile",
+  "source": "wikidata",
+  "selector": {
+    "instanceOf": "Q483501",
+    "includeSubclasses": true
+  },
+  "properties": [
+    "P569",
+    "P570",
+    "P19",
+    "P106"
+  ],
+  "languagePriority": [
+    "pl",
+    "en"
+  ],
+  "output": "artists",
+  "status": "mapped",
+  "enabled": false
+}
