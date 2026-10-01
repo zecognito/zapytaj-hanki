@@ -15,7 +15,8 @@
       "runner": "import.mjs",
       "enabled": true,
       "batchSize": 100,
-      "maxPages": 20
+      "maxPages": 2,
+      "note": "legacy importer isolated; generic city migration pending"
     },
     {
       "name": "mountains",
