@@ -1,0 +1,20 @@
+{
+  "id": "world-rewolucja-francuska",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Rewolucja francuska",
+  "facts": [
+    "Rewolucja francuska rozpoczęła się w 1789 roku i obaliła monarchię absolutną we Francji.",
+    "Wprowadziła radykalne zmiany polityczne i społeczne, a jej idee wpłynęły na całą Europę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

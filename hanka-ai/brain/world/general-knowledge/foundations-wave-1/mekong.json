@@ -1,0 +1,21 @@
+{
+  "id": "world-mekong",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Mekong",
+  "facts": [
+    "Mekong przepływa przez kilka państw Azji Południowo-Wschodniej i uchodzi deltą w Wietnamie.",
+    "Jego dorzecze jest kluczowe dla rybołówstwa, rolnictwa i życia dziesiątek milionów ludzi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

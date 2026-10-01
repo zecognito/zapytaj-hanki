@@ -1,0 +1,20 @@
+{
+  "id": "world-ateny-starozytne",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Ateny starożytne",
+  "facts": [
+    "Ateny były jednym z najważniejszych polis starożytnej Grecji.",
+    "W V wieku p.n.e. rozwinęły system demokracji bezpośredniej dla części wolnych obywateli płci męskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

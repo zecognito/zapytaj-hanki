@@ -1,0 +1,21 @@
+{
+  "id": "world-nil",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Nil",
+  "facts": [
+    "Nil płynie przez północno-wschodnią Afrykę do Morza Śródziemnego.",
+    "System Nilu Białego i Nilu Błękitnego od tysięcy lat warunkował rozwój rolnictwa i cywilizacji w Egipcie i Sudanie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

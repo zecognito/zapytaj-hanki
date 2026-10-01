@@ -1,0 +1,20 @@
+{
+  "id": "world-world-wide-web",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "World Wide Web",
+  "facts": [
+    "World Wide Web został zaproponowany przez Tima Bernersa-Lee w CERN w 1989 roku jako system połączonych dokumentów hipertekstowych dostępnych przez Internet.",
+    "Web wykorzystuje m.in. adresy URL, HTTP i HTML."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-epoka-wielkich-odkryc-geograficznych",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Epoka wielkich odkryć geograficznych",
+  "facts": [
+    "Od XV do XVII wieku europejscy żeglarze stworzyli trwałe morskie połączenia między Europą, Afryką, Azją i Amerykami.",
+    "Proces ten zapoczątkował globalną wymianę, kolonizację i głębokie przemiany demograficzne oraz gospodarcze."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

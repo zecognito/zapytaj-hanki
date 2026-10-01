@@ -1,0 +1,20 @@
+{
+  "id": "world-porozumienie-paryskie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Porozumienie paryskie",
+  "facts": [
+    "Porozumienie paryskie zostało przyjęte w 2015 roku w ramach konwencji klimatycznej ONZ.",
+    "Państwa zobowiązały się przedstawiać i wzmacniać krajowe działania na rzecz ograniczenia ocieplenia klimatu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

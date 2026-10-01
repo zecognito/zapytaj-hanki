@@ -1,0 +1,20 @@
+{
+  "id": "world-starozytna-grecja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Starożytna Grecja",
+  "facts": [
+    "Starożytna Grecja składała się z licznych polis, takich jak Ateny, Sparta i Korynt.",
+    "Grecka filozofia, polityka, nauka, literatura i sztuka wywarły trwały wpływ na kulturę europejską i śródziemnomorską."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

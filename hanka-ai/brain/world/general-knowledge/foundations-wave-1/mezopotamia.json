@@ -1,0 +1,20 @@
+{
+  "id": "world-mezopotamia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Mezopotamia",
+  "facts": [
+    "Mezopotamia to historyczny region między Tygrysem i Eufratem, głównie na obszarze dzisiejszego Iraku.",
+    "Powstały tam jedne z najwcześniejszych miast, państw i systemów pisma."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-starozytny-egipt",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Starożytny Egipt",
+  "facts": [
+    "Cywilizacja starożytnego Egiptu rozwinęła się w dolinie i delcie Nilu w północno-wschodniej Afryce.",
+    "Przez około trzy tysiąclecia Egiptem rządziły kolejne dynastie faraonów, pozostawiając m.in. piramidy, świątynie i pismo hieroglificzne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

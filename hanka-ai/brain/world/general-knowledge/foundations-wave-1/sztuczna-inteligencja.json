@@ -1,0 +1,20 @@
+{
+  "id": "world-sztuczna-inteligencja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Sztuczna inteligencja",
+  "facts": [
+    "Sztuczna inteligencja obejmuje metody tworzenia systemów wykonujących zadania kojarzone z percepcją, uczeniem, rozumowaniem lub generowaniem treści.",
+    "Współczesny rozwój AI jest silnie związany z uczeniem maszynowym, dużymi zbiorami danych i rosnącą mocą obliczeniową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

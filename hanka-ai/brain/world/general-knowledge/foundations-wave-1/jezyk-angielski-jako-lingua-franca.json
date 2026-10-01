@@ -1,0 +1,20 @@
+{
+  "id": "world-jezyk-angielski-jako-lingua-franca",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Język angielski jako lingua franca",
+  "facts": [
+    "Angielski stał się najważniejszym współczesnym językiem międzynarodowym w nauce, biznesie, lotnictwie, technologii i kulturze popularnej.",
+    "Jego globalna rola wynika historycznie z Imperium Brytyjskiego i późniejszej potęgi gospodarczej oraz kulturowej Stanów Zjednoczonych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

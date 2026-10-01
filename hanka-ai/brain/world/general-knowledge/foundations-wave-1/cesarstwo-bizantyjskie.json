@@ -1,0 +1,20 @@
+{
+  "id": "world-cesarstwo-bizantyjskie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Cesarstwo Bizantyjskie",
+  "facts": [
+    "Cesarstwo Bizantyjskie jest współczesną nazwą wschodniej części Cesarstwa Rzymskiego, która przetrwała średniowiecze.",
+    "Konstantynopol był jego stolicą aż do zdobycia miasta przez Osmanów w 1453 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

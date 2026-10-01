@@ -1,0 +1,20 @@
+{
+  "id": "world-dynastia-qing",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Dynastia Qing",
+  "facts": [
+    "Dynastia Qing była ostatnią cesarską dynastią Chin i rządziła od 1644 do 1912 roku.",
+    "Za Qing terytorium imperium znacznie się rozszerzyło, lecz w XIX wieku państwo znalazło się pod silną presją mocarstw zagranicznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

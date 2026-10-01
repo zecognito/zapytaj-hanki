@@ -1,0 +1,20 @@
+{
+  "id": "world-sputnik-1",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Sputnik 1",
+  "facts": [
+    "Sputnik 1 został wystrzelony przez Związek Sowiecki 4 października 1957 roku jako pierwszy sztuczny satelita Ziemi.",
+    "Jego sukces rozpoczął erę kosmiczną i przyspieszył wyścig technologiczny supermocarstw."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

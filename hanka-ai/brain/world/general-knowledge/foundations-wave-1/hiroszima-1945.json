@@ -1,0 +1,20 @@
+{
+  "id": "world-hiroszima-1945",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Hiroszima 1945",
+  "facts": [
+    "6 sierpnia 1945 roku Stany Zjednoczone zrzuciły bombę atomową na japońską Hiroszimę.",
+    "Eksplozja i jej następstwa zabiły dziesiątki tysięcy ludzi natychmiast oraz wielu kolejnych wskutek obrażeń i promieniowania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-sikhizm",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Sikhizm",
+  "facts": [
+    "Sikhizm powstał w Pendżabie pod koniec XV wieku wraz z nauczaniem Guru Nanaka i kolejnych guru.",
+    "Świętym pismem Sikhów jest Guru Granth Sahib."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

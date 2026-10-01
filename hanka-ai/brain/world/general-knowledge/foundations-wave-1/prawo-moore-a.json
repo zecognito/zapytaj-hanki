@@ -1,0 +1,20 @@
+{
+  "id": "world-prawo-moore-a",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Prawo Moore'a",
+  "facts": [
+    "Prawo Moore'a było obserwacją, że liczba tranzystorów możliwych do umieszczenia ekonomicznie w układach scalonych rosła przez dekady w tempie wykładniczym.",
+    "Nie jest prawem fizyki, lecz opisem historycznego trendu przemysłu półprzewodnikowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

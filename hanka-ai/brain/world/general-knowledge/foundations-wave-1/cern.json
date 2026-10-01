@@ -1,0 +1,20 @@
+{
+  "id": "world-cern",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "CERN",
+  "facts": [
+    "CERN jest europejskim laboratorium fizyki cząstek położonym przy granicy Szwajcarii i Francji.",
+    "Prowadzi Wielki Zderzacz Hadronów i liczne eksperymenty badające podstawową strukturę materii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

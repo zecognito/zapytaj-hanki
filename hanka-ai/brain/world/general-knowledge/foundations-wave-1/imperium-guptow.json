@@ -1,0 +1,20 @@
+{
+  "id": "world-imperium-guptow",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Imperium Guptów",
+  "facts": [
+    "Imperium Guptów dominowało w północnych Indiach od IV do VI wieku n.e.",
+    "Okres ten wiąże się z ważnymi osiągnięciami matematyki, astronomii, literatury i sztuki indyjskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

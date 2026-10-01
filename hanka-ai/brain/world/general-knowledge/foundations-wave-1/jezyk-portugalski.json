@@ -1,0 +1,20 @@
+{
+  "id": "world-jezyk-portugalski",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Język portugalski",
+  "facts": [
+    "Portugalski jest językiem romańskim używanym przede wszystkim w Brazylii, Portugalii i kilku państwach Afryki.",
+    "Globalne rozprzestrzenienie języka wiąże się z dawnym imperium portugalskim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

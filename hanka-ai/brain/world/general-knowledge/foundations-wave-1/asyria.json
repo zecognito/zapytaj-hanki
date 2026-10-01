@@ -1,0 +1,20 @@
+{
+  "id": "world-asyria",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Asyria",
+  "facts": [
+    "Asyria rozwinęła się w północnej Mezopotamii i w I tysiącleciu p.n.e. stworzyła rozległe imperium.",
+    "Asyryjczycy rozwinęli skuteczną administrację i armię, ale ich państwo upadło pod koniec VII wieku p.n.e."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

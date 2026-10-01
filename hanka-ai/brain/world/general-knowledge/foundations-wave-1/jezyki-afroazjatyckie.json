@@ -1,0 +1,20 @@
+{
+  "id": "world-jezyki-afroazjatyckie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Języki afroazjatyckie",
+  "facts": [
+    "Rodzina afroazjatycka obejmuje m.in. języki semickie, berberyjskie i kuszyckie.",
+    "Do języków semickich należą arabski, hebrajski i amharski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

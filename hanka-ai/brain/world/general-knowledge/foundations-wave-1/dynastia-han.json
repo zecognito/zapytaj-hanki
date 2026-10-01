@@ -1,0 +1,20 @@
+{
+  "id": "world-dynastia-han",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Dynastia Han",
+  "facts": [
+    "Dynastia Han rządziła Chinami od 206 roku p.n.e. do 220 roku n.e. z przerwą na początku I wieku.",
+    "Okres Han umocnił scentralizowane państwo, administrację i kontakty handlowe z Azją Środkową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

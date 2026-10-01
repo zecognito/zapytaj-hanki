@@ -1,0 +1,20 @@
+{
+  "id": "world-imperium-songhaj",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Imperium Songhaj",
+  "facts": [
+    "Imperium Songhaj dominowało w części Afryki Zachodniej w XV i XVI wieku.",
+    "Kontrolowało miasta nad Nigrem, w tym Gao i Timbuktu, oraz handel transsaharyjski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

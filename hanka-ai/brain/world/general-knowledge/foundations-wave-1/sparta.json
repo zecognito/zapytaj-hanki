@@ -1,0 +1,20 @@
+{
+  "id": "world-sparta",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Sparta",
+  "facts": [
+    "Sparta była greckim polis znanym z militarnego systemu społecznego i dominacji nad podporządkowaną ludnością helotów.",
+    "W V wieku p.n.e. należała do głównych rywali Aten."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

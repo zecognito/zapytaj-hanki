@@ -1,0 +1,20 @@
+{
+  "id": "world-podwojna-helisa-dna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Podwójna helisa DNA",
+  "facts": [
+    "Model podwójnej helisy DNA przedstawiony w 1953 roku wyjaśnił sposób organizacji dwóch komplementarnych nici cząsteczki.",
+    "Powstał dzięki pracom wielu badaczy, w tym danych rentgenograficznych Rosalind Franklin i Maurice'a Wilkinsa oraz modelowi Jamesa Watsona i Francisa Cricka."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

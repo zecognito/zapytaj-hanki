@@ -1,0 +1,20 @@
+{
+  "id": "world-wojna-w-wietnamie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Wojna w Wietnamie",
+  "facts": [
+    "Wojna w Wietnamie była długim konfliktem między komunistycznym Wietnamem Północnym i jego sojusznikami a Wietnamem Południowym wspieranym głównie przez USA.",
+    "Zakończyła się zdobyciem Sajgonu przez siły północnowietnamskie w 1975 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-aleksander-wielki",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Aleksander Wielki",
+  "facts": [
+    "Aleksander III Macedoński podbił imperium perskie i stworzył państwo rozciągające się od Grecji po Egipt i Indie.",
+    "Po jego śmierci w 323 roku p.n.e. imperium rozpadło się między jego następców."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-cywilizacja-majow",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Cywilizacja Majów",
+  "facts": [
+    "Majowie stworzyli rozwiniętą cywilizację w Mezoameryce z własnym pismem, matematyką i astronomią.",
+    "Ich miasta-państwa rozwijały się szczególnie w okresie klasycznym między około 250 a 900 rokiem n.e."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

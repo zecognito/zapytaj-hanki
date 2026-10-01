@@ -1,0 +1,20 @@
+{
+  "id": "world-silnik-spalinowy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Silnik spalinowy",
+  "facts": [
+    "Silniki spalinowe zamieniają energię chemiczną paliwa na pracę mechaniczną poprzez spalanie wewnątrz cylindra lub komory.",
+    "Ich rozwój w XIX wieku umożliwił powstanie nowoczesnych samochodów, samolotów i wielu maszyn."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

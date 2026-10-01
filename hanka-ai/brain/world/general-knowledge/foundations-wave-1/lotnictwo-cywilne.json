@@ -1,0 +1,20 @@
+{
+  "id": "world-lotnictwo-cywilne",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Lotnictwo cywilne",
+  "facts": [
+    "Regularny transport lotniczy rozwinął się w XX wieku z początkowych tras pocztowych i pasażerskich.",
+    "Samoloty odrzutowe po II wojnie światowej umożliwiły masowe podróże międzykontynentalne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-mikroprocesor",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Mikroprocesor",
+  "facts": [
+    "Mikroprocesor integruje centralną jednostkę przetwarzającą komputera w jednym lub niewielkiej liczbie układów scalonych.",
+    "Jego rozwój od lat 70. umożliwił masową komputeryzację i elektronikę wbudowaną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

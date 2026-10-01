@@ -1,0 +1,20 @@
+{
+  "id": "world-model-standardowy-fizyki-czastek",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Model standardowy fizyki cząstek",
+  "facts": [
+    "Model standardowy opisuje znane cząstki elementarne oraz oddziaływania elektromagnetyczne, słabe i silne.",
+    "Nie obejmuje kompletnej kwantowej teorii grawitacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

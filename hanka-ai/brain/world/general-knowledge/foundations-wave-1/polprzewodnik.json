@@ -1,0 +1,20 @@
+{
+  "id": "world-polprzewodnik",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Półprzewodnik",
+  "facts": [
+    "Półprzewodniki mają właściwości elektryczne pośrednie między przewodnikami a izolatorami, które można kontrolować domieszkowaniem i polami elektrycznymi.",
+    "Krzem jest podstawowym materiałem współczesnej mikroelektroniki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

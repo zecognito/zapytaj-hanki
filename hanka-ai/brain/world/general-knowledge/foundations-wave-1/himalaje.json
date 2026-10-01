@@ -1,0 +1,21 @@
+{
+  "id": "world-himalaje",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Himalaje",
+  "facts": [
+    "Himalaje są najwyższym systemem górskim świata i powstały w wyniku kolizji płyty indyjskiej z eurazjatycką.",
+    "Rozciągają się przez kilka państw Azji, w tym Nepal, Indie, Bhutan, Chiny i Pakistan w szerszym systemie górskim regionu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

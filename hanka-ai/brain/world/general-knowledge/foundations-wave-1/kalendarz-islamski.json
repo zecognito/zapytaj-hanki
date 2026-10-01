@@ -1,0 +1,20 @@
+{
+  "id": "world-kalendarz-islamski",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Kalendarz islamski",
+  "facts": [
+    "Kalendarz islamski jest kalendarzem księżycowym liczącym lata od hidżry Mahometa z Mekki do Medyny.",
+    "Rok ma około 354 lub 355 dni, więc miesiące przesuwają się względem pór roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

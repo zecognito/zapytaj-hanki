@@ -1,0 +1,21 @@
+{
+  "id": "world-la-nina",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "La Niña",
+  "facts": [
+    "La Niña jest chłodną fazą zjawiska ENSO na równikowym Pacyfiku.",
+    "Może wywoływać wzorce pogodowe w wielu regionach świata przeciwne do typowych skutków El Niño."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

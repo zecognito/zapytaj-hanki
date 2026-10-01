@@ -1,0 +1,21 @@
+{
+  "id": "world-morze-srodziemne",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Morze Śródziemne",
+  "facts": [
+    "Morze Śródziemne leży między Europą, Afryką i Azją i łączy się z Atlantykiem przez Cieśninę Gibraltarską.",
+    "Od starożytności było jednym z głównych obszarów wymiany handlowej i kulturowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

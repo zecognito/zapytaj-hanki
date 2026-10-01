@@ -1,0 +1,20 @@
+{
+  "id": "world-penicylina",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Penicylina",
+  "facts": [
+    "Alexander Fleming zaobserwował przeciwbakteryjne działanie pleśni Penicillium w 1928 roku.",
+    "Późniejsze zespoły Howarda Floreya i Ernsta Chaina rozwinęły penicylinę w lek produkowany na dużą skalę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

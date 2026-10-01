@@ -1,0 +1,20 @@
+{
+  "id": "world-fale-grawitacyjne",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Fale grawitacyjne",
+  "facts": [
+    "Fale grawitacyjne są zaburzeniami czasoprzestrzeni przewidzianymi przez ogólną teorię względności.",
+    "LIGO dokonało pierwszej bezpośredniej detekcji fal z połączenia dwóch czarnych dziur w 2015 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

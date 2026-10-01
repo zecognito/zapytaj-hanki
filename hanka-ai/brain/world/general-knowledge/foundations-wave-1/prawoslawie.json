@@ -1,0 +1,20 @@
+{
+  "id": "world-prawoslawie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Prawosławie",
+  "facts": [
+    "Prawosławie obejmuje wspólnotę autokefalicznych Kościołów chrześcijańskich zachowujących wspólną tradycję liturgiczną i doktrynalną.",
+    "Nie posiada jednego zwierzchnika o władzy odpowiadającej papieżowi w katolicyzmie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

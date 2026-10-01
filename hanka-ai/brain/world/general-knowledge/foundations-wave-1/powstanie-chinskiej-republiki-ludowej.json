@@ -1,0 +1,20 @@
+{
+  "id": "world-powstanie-chinskiej-republiki-ludowej",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Powstanie Chińskiej Republiki Ludowej",
+  "facts": [
+    "1 października 1949 roku Mao Zedong ogłosił powstanie Chińskiej Republiki Ludowej po zwycięstwie komunistów w wojnie domowej.",
+    "Rząd Republiki Chińskiej wycofał się na Tajwan."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

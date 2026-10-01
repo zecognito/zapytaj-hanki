@@ -1,0 +1,20 @@
+{
+  "id": "world-zmiana-klimatu",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Zmiana klimatu",
+  "facts": [
+    "Współczesne globalne ocieplenie jest napędzane przede wszystkim przez emisje gazów cieplarnianych wynikające z działalności człowieka.",
+    "Skutki obejmują wzrost temperatur, topnienie lodu, podnoszenie poziomu mórz i zmiany ekstremalnych zjawisk pogodowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

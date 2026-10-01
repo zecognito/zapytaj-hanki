@@ -1,0 +1,20 @@
+{
+  "id": "world-lot-braci-wright",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Lot braci Wright",
+  "facts": [
+    "17 grudnia 1903 roku bracia Wright wykonali w Karolinie Północnej kontrolowane loty samolotem z napędem cięższym od powietrza.",
+    "Wydarzenie jest powszechnie uznawane za początek praktycznego lotnictwa silnikowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

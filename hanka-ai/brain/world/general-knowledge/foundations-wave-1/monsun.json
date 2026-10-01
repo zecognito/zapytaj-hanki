@@ -1,0 +1,21 @@
+{
+  "id": "world-monsun",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Monsun",
+  "facts": [
+    "Monsun to sezonowa zmiana dominujących wiatrów związana z różnicami nagrzewania lądu i oceanu.",
+    "Najbardziej znany system monsunowy kształtuje pory deszczowe i suche w Azji Południowej i Południowo-Wschodniej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

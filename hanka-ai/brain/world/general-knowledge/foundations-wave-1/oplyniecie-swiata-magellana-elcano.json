@@ -1,0 +1,20 @@
+{
+  "id": "world-oplyniecie-swiata-magellana-elcano",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Opłynięcie świata Magellana-Elcano",
+  "facts": [
+    "Ekspedycja rozpoczęta przez Ferdynanda Magellana w 1519 roku i zakończona pod dowództwem Juana Sebastiána Elcano w 1522 roku dokonała pierwszego udokumentowanego opłynięcia Ziemi.",
+    "Wyprawa praktycznie wykazała skalę oceanów i globalne połączenie mórz."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

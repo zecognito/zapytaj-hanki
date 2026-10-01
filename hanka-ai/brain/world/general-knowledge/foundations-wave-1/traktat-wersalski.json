@@ -1,0 +1,20 @@
+{
+  "id": "world-traktat-wersalski",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Traktat wersalski",
+  "facts": [
+    "Traktat wersalski podpisano w 1919 roku jako główny traktat pokojowy między aliantami a Niemcami po I wojnie światowej.",
+    "Zmienił granice Europy, ograniczył niemieckie siły zbrojne i ustanowił Ligę Narodów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

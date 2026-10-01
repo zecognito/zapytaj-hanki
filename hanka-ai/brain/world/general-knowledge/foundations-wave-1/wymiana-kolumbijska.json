@@ -1,0 +1,20 @@
+{
+  "id": "world-wymiana-kolumbijska",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Wymiana kolumbijska",
+  "facts": [
+    "Wymiana kolumbijska oznacza masowy transfer roślin, zwierząt, ludzi, chorób i technologii między Starym i Nowym Światem po 1492 roku.",
+    "Zmieniła diety, gospodarki, środowiska i populacje na całej planecie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

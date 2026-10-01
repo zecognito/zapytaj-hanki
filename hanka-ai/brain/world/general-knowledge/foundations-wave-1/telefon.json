@@ -1,0 +1,20 @@
+{
+  "id": "world-telefon",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Telefon",
+  "facts": [
+    "Telefon przekształca dźwięk mowy w sygnał przesyłany na odległość.",
+    "Wynalazek rozwijany przez wielu badaczy został skomercjalizowany w drugiej połowie XIX wieku i stworzył globalne sieci komunikacyjne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-mandarynski",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Mandaryński",
+  "facts": [
+    "Mandaryński jest największą grupą odmian języka chińskiego i podstawą standardowego języka urzędowego Chin.",
+    "Jest językiem ojczystym setek milionów ludzi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-reformacja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Reformacja",
+  "facts": [
+    "Reformacja była XVI-wiecznym ruchem religijnym, który doprowadził do trwałego podziału zachodniego chrześcijaństwa.",
+    "Wystąpienie Marcina Lutra w 1517 roku stało się jednym z symbolicznych początków tego procesu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

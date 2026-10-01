@@ -1,0 +1,21 @@
+{
+  "id": "world-mount-everest",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Mount Everest",
+  "facts": [
+    "Mount Everest w Himalajach jest najwyższym szczytem Ziemi nad poziomem morza.",
+    "Leży na granicy Nepalu i Chin, w Tybetańskim Regionie Autonomicznym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

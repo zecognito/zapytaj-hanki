@@ -1,0 +1,20 @@
+{
+  "id": "world-kalendarz-hebrajski",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Kalendarz hebrajski",
+  "facts": [
+    "Kalendarz hebrajski jest kalendarzem księżycowo-słonecznym używanym do wyznaczania żydowskich świąt i dat religijnych.",
+    "Dodawane miesiące przestępne utrzymują święta w odpowiednich porach roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

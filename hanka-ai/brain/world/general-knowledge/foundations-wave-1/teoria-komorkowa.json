@@ -1,0 +1,20 @@
+{
+  "id": "world-teoria-komorkowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Teoria komórkowa",
+  "facts": [
+    "Teoria komórkowa stwierdza, że organizmy składają się z komórek, a komórka jest podstawową jednostką życia.",
+    "Współczesna teoria obejmuje także zasadę, że nowe komórki powstają z istniejących komórek."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-rewolucja-naukowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Rewolucja naukowa",
+  "facts": [
+    "Rewolucja naukowa XVI i XVII wieku przyniosła nowe metody badania natury oparte na obserwacji, eksperymencie i matematyce.",
+    "Prace Kopernika, Keplera, Galileusza, Newtona i wielu innych zmieniły obraz Wszechświata i fizyki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

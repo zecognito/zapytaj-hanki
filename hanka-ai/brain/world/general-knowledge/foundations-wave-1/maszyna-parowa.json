@@ -1,0 +1,20 @@
+{
+  "id": "world-maszyna-parowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Maszyna parowa",
+  "facts": [
+    "Udoskonalenie maszyny parowej umożliwiło wykorzystanie energii cieplnej na dużą skalę w przemyśle i transporcie.",
+    "James Watt i inni konstruktorzy XVIII wieku znacznie zwiększyli jej wydajność i zakres zastosowań."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

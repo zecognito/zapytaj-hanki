@@ -1,0 +1,20 @@
+{
+  "id": "world-algebra",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Algebra",
+  "facts": [
+    "Algebra bada struktury, działania i relacje reprezentowane symbolicznie.",
+    "Nazwa wywodzi się z arabskiego słowa al-jabr z dzieła matematyka Al-Chuwarizmiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

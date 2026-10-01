@@ -1,0 +1,20 @@
+{
+  "id": "world-kalifat-abbasydow",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Kalifat Abbasydów",
+  "facts": [
+    "Abbasydzi przejęli kalifat w 750 roku i ustanowili Bagdad głównym centrum politycznym.",
+    "W ich epoce Bagdad stał się ważnym ośrodkiem nauki, handlu i kultury świata islamu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

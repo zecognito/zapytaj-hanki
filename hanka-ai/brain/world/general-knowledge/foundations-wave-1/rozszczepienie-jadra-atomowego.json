@@ -1,0 +1,20 @@
+{
+  "id": "world-rozszczepienie-jadra-atomowego",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Rozszczepienie jądra atomowego",
+  "facts": [
+    "Rozszczepienie jądrowe polega na podziale ciężkiego jądra na lżejsze fragmenty z uwolnieniem energii i neutronów.",
+    "Kontrolowana reakcja łańcuchowa jest podstawą działania reaktorów jądrowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

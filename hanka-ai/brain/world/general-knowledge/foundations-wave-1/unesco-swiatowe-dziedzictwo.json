@@ -1,0 +1,20 @@
+{
+  "id": "world-unesco-swiatowe-dziedzictwo",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "UNESCO światowe dziedzictwo",
+  "facts": [
+    "Lista światowego dziedzictwa UNESCO obejmuje miejsca uznane za posiadające wyjątkową wartość kulturową lub przyrodniczą dla ludzkości.",
+    "Państwa-strony konwencji zgłaszają obiekty i zobowiązują się do ich ochrony."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

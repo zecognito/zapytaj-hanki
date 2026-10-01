@@ -1,0 +1,20 @@
+{
+  "id": "world-czarna-dziura",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Czarna dziura",
+  "facts": [
+    "Czarna dziura jest obszarem czasoprzestrzeni, z którego po przekroczeniu horyzontu zdarzeń nie może wydostać się nawet światło.",
+    "Czarne dziury powstają m.in. po zapadaniu masywnych gwiazd, a supermasywne obiekty znajdują się w centrach wielu galaktyk."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

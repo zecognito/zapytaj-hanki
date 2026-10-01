@@ -1,0 +1,20 @@
+{
+  "id": "world-islam",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Islam",
+  "facts": [
+    "Islam jest religią monoteistyczną powstałą w VII wieku na Półwyspie Arabskim wokół nauczania proroka Mahometa.",
+    "Koran jest świętą księgą islamu, a dwie największe tradycje to sunnizm i szyizm."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

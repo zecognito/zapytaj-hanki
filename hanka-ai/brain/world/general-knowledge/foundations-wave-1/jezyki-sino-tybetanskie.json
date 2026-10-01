@@ -1,0 +1,20 @@
+{
+  "id": "world-jezyki-sino-tybetanskie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Języki sino-tybetańskie",
+  "facts": [
+    "Rodzina sino-tybetańska obejmuje języki chińskie oraz liczne języki Azji Wschodniej i Południowo-Wschodniej.",
+    "Jest jedną z największych rodzin językowych świata pod względem liczby użytkowników."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

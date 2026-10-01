@@ -1,0 +1,20 @@
+{
+  "id": "world-pierwsza-wojna-swiatowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Pierwsza wojna światowa",
+  "facts": [
+    "Pierwsza wojna światowa trwała od 1914 do 1918 roku i objęła przede wszystkim Europę, ale miała zasięg globalny.",
+    "Doprowadziła do upadku kilku imperiów, ogromnych strat ludzkich i głębokiej zmiany mapy politycznej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

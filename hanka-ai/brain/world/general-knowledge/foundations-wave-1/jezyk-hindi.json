@@ -1,0 +1,20 @@
+{
+  "id": "world-jezyk-hindi",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Język hindi",
+  "facts": [
+    "Hindi jest jednym z dwóch języków urzędowych rządu federalnego Indii obok angielskiego.",
+    "Należy do indoaryjskiej gałęzi rodziny indoeuropejskiej i używa pisma dewanagari."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

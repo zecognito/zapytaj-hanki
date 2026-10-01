@@ -1,0 +1,20 @@
+{
+  "id": "world-apartheid",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Apartheid",
+  "facts": [
+    "Apartheid był systemem prawnej segregacji rasowej w Republice Południowej Afryki od 1948 roku.",
+    "System został stopniowo zniesiony na początku lat 90., a pierwsze powszechne wielorasowe wybory odbyły się w 1994 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

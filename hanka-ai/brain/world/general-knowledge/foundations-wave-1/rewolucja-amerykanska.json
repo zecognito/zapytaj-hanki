@@ -1,0 +1,20 @@
+{
+  "id": "world-rewolucja-amerykanska",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Rewolucja amerykańska",
+  "facts": [
+    "Trzynaście brytyjskich kolonii w Ameryce Północnej ogłosiło niepodległość w 1776 roku i po wojnie utworzyło Stany Zjednoczone.",
+    "Pokój paryski z 1783 roku uznał niepodległość nowego państwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

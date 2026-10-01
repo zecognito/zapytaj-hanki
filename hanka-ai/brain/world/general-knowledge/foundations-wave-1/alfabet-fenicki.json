@@ -1,0 +1,20 @@
+{
+  "id": "world-alfabet-fenicki",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Alfabet fenicki",
+  "facts": [
+    "Alfabet fenicki był spółgłoskowym systemem pisma używanym przez Fenicjan.",
+    "Wpłynął na rozwój alfabetu greckiego, a pośrednio także alfabetu łacińskiego i wielu innych systemów pisma."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

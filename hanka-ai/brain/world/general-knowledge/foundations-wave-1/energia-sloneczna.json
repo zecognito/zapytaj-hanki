@@ -1,0 +1,20 @@
+{
+  "id": "world-energia-sloneczna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Energia słoneczna",
+  "facts": [
+    "Fotowoltaika zamienia energię światła bezpośrednio na energię elektryczną w ogniwach półprzewodnikowych.",
+    "Spadek kosztów paneli uczynił energię słoneczną jednym z najszybciej rozwijających się źródeł energii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

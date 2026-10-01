@@ -1,0 +1,20 @@
+{
+  "id": "world-smartfon",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Smartfon",
+  "facts": [
+    "Smartfon łączy funkcje telefonu komórkowego z komputerem, dostępem do Internetu, aparatem, nawigacją i aplikacjami.",
+    "Masowe rozpowszechnienie smartfonów po 2007 roku głęboko zmieniło komunikację i dostęp do informacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

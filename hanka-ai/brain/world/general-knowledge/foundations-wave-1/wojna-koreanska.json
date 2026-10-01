@@ -1,0 +1,20 @@
+{
+  "id": "world-wojna-koreanska",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Wojna koreańska",
+  "facts": [
+    "Wojna koreańska trwała od 1950 do 1953 roku między Koreą Północną wspieraną przez Chiny i ZSRR a Koreą Południową wspieraną przez siły ONZ pod dowództwem USA.",
+    "Rozejm z 1953 roku zakończył walki bez traktatu pokojowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-cesarstwo-rzymskie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Cesarstwo Rzymskie",
+  "facts": [
+    "Cesarstwo Rzymskie wyrosło z republiki po wojnach domowych I wieku p.n.e.",
+    "W okresie największego zasięgu obejmowało większość Europy Zachodniej i Południowej, Afrykę Północną oraz część Bliskiego Wschodu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

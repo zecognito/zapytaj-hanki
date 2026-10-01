@@ -1,0 +1,20 @@
+{
+  "id": "world-imperium-perskie-achemenidow",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Imperium Perskie Achemenidów",
+  "facts": [
+    "Imperium Achemenidów powstało w VI wieku p.n.e. i objęło ogromne obszary od Azji Środkowej po Egipt.",
+    "Władcy perscy zarządzali imperium poprzez prowincje zwane satrapiami i rozbudowaną sieć dróg."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

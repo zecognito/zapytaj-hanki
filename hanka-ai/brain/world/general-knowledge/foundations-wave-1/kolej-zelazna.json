@@ -1,0 +1,20 @@
+{
+  "id": "world-kolej-zelazna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Kolej żelazna",
+  "facts": [
+    "Rozwój kolei w XIX wieku radykalnie skrócił czas transportu ludzi i towarów.",
+    "Sieci kolejowe stały się podstawową infrastrukturą industrializacji i integracji rynków."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

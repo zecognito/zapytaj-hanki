@@ -1,0 +1,20 @@
+{
+  "id": "world-jedwabny-szlak",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Jedwabny Szlak",
+  "facts": [
+    "Jedwabny Szlak był siecią lądowych i morskich szlaków handlowych łączących Azję Wschodnią, Azję Środkową, Bliski Wschód i Europę.",
+    "Przenoszono nimi nie tylko towary, lecz także religie, technologie, idee i choroby."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

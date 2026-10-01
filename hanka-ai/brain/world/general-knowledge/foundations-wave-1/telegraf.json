@@ -1,0 +1,20 @@
+{
+  "id": "world-telegraf",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Telegraf",
+  "facts": [
+    "Telegraf elektryczny umożliwił przesyłanie wiadomości na duże odległości w czasie liczonym w minutach zamiast dni lub tygodni.",
+    "W XIX wieku globalne kable telegraficzne połączyły kontynenty."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

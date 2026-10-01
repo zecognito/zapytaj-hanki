@@ -1,0 +1,21 @@
+{
+  "id": "world-plyty-tektoniczne",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Płyty tektoniczne",
+  "facts": [
+    "Litosfera Ziemi jest podzielona na płyty tektoniczne poruszające się względem siebie.",
+    "Ich ruch powoduje m.in. trzęsienia ziemi, wulkanizm, powstawanie gór i rozsuwanie dna oceanicznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

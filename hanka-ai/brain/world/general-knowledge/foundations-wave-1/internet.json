@@ -1,0 +1,20 @@
+{
+  "id": "world-internet",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Internet",
+  "facts": [
+    "Internet jest globalną siecią sieci komputerowych wykorzystujących zestaw protokołów TCP/IP.",
+    "Wywodzi się z wcześniejszych sieci badawczych, a od lat 90. stał się podstawową infrastrukturą komunikacji i gospodarki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

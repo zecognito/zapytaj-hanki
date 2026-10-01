@@ -1,0 +1,21 @@
+{
+  "id": "world-morze-czerwone",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Morze Czerwone",
+  "facts": [
+    "Morze Czerwone oddziela północno-wschodnią Afrykę od Półwyspu Arabskiego.",
+    "Przez cieśninę Bab al-Mandab łączy się z Zatoką Adeńską i Oceanem Indyjskim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

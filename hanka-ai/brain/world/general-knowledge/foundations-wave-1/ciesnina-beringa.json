@@ -1,0 +1,21 @@
+{
+  "id": "world-ciesnina-beringa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Cieśnina Beringa",
+  "facts": [
+    "Cieśnina Beringa oddziela Azję od Ameryki Północnej i łączy Pacyfik z Oceanem Arktycznym.",
+    "W epoce lodowej obniżony poziom mórz odsłaniał w tym regionie lądowy pomost Beringia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

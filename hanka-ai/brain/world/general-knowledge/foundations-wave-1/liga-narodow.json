@@ -1,0 +1,20 @@
+{
+  "id": "world-liga-narodow",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Liga Narodów",
+  "facts": [
+    "Liga Narodów powstała po I wojnie światowej jako organizacja mająca wspierać bezpieczeństwo zbiorowe i rozwiązywanie sporów.",
+    "Nie zdołała powstrzymać agresji mocarstw w latach 30. i została zastąpiona po II wojnie światowej przez ONZ."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

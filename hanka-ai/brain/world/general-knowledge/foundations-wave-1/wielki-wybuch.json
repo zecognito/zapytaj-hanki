@@ -1,0 +1,20 @@
+{
+  "id": "world-wielki-wybuch",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Wielki Wybuch",
+  "facts": [
+    "Model Wielkiego Wybuchu opisuje ewolucję Wszechświata od bardzo gorącego i gęstego wczesnego stanu.",
+    "Wspierają go m.in. rozszerzanie się Wszechświata, mikrofalowe promieniowanie tła i obserwowane proporcje lekkich pierwiastków."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

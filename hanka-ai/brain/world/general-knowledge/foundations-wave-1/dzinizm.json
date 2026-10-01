@@ -1,0 +1,20 @@
+{
+  "id": "world-dzinizm",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Dżinizm",
+  "facts": [
+    "Dżinizm jest starożytną religią indyjską kładącą szczególny nacisk na zasadę ahimsy, czyli niekrzywdzenia istot żywych.",
+    "Tradycja wiąże się z nauczaniem tirthankarów, z których ostatnim był Mahawira."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

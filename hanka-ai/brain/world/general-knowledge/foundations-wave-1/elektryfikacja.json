@@ -1,0 +1,20 @@
+{
+  "id": "world-elektryfikacja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Elektryfikacja",
+  "facts": [
+    "Rozwój generatorów, sieci przesyłowych i urządzeń elektrycznych pod koniec XIX i w XX wieku zmienił przemysł oraz codzienne życie.",
+    "Elektryczność umożliwiła masowe oświetlenie, silniki, komunikację i późniejszą elektronikę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-pustynia-gobi",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Pustynia Gobi",
+  "facts": [
+    "Gobi jest rozległą pustynią i obszarem półpustynnym w Mongolii i północnych Chinach.",
+    "Charakteryzuje się dużymi wahaniami temperatur i w znacznej części ma podłoże kamieniste, a nie piaszczyste."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

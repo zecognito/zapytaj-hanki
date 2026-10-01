@@ -1,0 +1,20 @@
+{
+  "id": "world-efekt-cieplarniany",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Efekt cieplarniany",
+  "facts": [
+    "Efekt cieplarniany jest naturalnym procesem, w którym gazy atmosferyczne zatrzymują część promieniowania cieplnego emitowanego przez Ziemię.",
+    "Zwiększenie stężenia gazów cieplarnianych wzmacnia ten efekt i prowadzi do ocieplenia klimatu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

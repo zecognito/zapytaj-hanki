@@ -1,0 +1,21 @@
+{
+  "id": "world-pierscien-ognia-pacyfiku",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Pierścień Ognia Pacyfiku",
+  "facts": [
+    "Pacyficzny Pierścień Ognia to strefa intensywnej aktywności wulkanicznej i sejsmicznej wokół Oceanu Spokojnego.",
+    "Jest związany głównie z granicami płyt tektonicznych i strefami subdukcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

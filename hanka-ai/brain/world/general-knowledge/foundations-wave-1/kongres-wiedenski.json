@@ -1,0 +1,20 @@
+{
+  "id": "world-kongres-wiedenski",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Kongres wiedeński",
+  "facts": [
+    "Kongres wiedeński w latach 1814–1815 ustalił nowy porządek europejski po wojnach napoleońskich.",
+    "Mocarstwa dążyły do równowagi sił i odbudowy stabilności politycznej na kontynencie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

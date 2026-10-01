@@ -1,0 +1,20 @@
+{
+  "id": "world-oswiecenie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Oświecenie",
+  "facts": [
+    "Oświecenie było ruchem intelektualnym XVII i XVIII wieku podkreślającym znaczenie rozumu, nauki, debaty i praw jednostki.",
+    "Idee oświeceniowe wpłynęły na reformy państw i rewolucje polityczne w Europie i obu Amerykach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

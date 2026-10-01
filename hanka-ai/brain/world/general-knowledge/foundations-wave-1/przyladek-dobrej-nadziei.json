@@ -1,0 +1,21 @@
+{
+  "id": "world-przyladek-dobrej-nadziei",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Przylądek Dobrej Nadziei",
+  "facts": [
+    "Przylądek Dobrej Nadziei leży na południowo-zachodnim wybrzeżu Republiki Południowej Afryki.",
+    "Historycznie był ważnym punktem na morskiej trasie między Europą a Azją wokół Afryki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

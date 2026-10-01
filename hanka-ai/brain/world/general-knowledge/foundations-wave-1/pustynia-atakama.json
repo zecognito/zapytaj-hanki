@@ -1,0 +1,21 @@
+{
+  "id": "world-pustynia-atakama",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Pustynia Atakama",
+  "facts": [
+    "Atakama leży głównie w północnym Chile i należy do najsuchszych niepolarnych obszarów Ziemi.",
+    "Wyjątkowo suche i wysokie tereny regionu są wykorzystywane przez wielkie obserwatoria astronomiczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

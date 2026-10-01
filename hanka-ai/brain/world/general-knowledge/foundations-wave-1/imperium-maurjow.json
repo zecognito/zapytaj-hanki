@@ -1,0 +1,20 @@
+{
+  "id": "world-imperium-maurjow",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Imperium Maurjów",
+  "facts": [
+    "Imperium Maurjów zjednoczyło znaczną część subkontynentu indyjskiego w IV–II wieku p.n.e.",
+    "Za panowania Aśoki buddyzm otrzymał silne wsparcie państwowe i rozprzestrzeniał się poza Indie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

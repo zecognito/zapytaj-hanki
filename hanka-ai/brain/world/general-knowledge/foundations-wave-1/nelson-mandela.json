@@ -1,0 +1,20 @@
+{
+  "id": "world-nelson-mandela",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Nelson Mandela",
+  "facts": [
+    "Nelson Mandela był przywódcą walki przeciw apartheidowi, więzionym przez 27 lat przez władze RPA.",
+    "W 1994 roku został pierwszym czarnoskórym prezydentem Republiki Południowej Afryki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

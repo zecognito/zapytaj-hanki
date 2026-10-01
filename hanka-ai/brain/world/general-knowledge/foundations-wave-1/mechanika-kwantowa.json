@@ -1,0 +1,20 @@
+{
+  "id": "world-mechanika-kwantowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Mechanika kwantowa",
+  "facts": [
+    "Mechanika kwantowa opisuje zachowanie materii i promieniowania w skalach atomowych i subatomowych.",
+    "Rozwinęła się w pierwszych dekadach XX wieku dzięki pracom wielu uczonych, m.in. Plancka, Einsteina, Bohra, Heisenberga i Schrödingera."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

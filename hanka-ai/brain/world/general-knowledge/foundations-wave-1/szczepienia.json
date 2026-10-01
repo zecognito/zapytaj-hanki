@@ -1,0 +1,20 @@
+{
+  "id": "world-szczepienia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Szczepienia",
+  "facts": [
+    "Szczepienia przygotowują układ odpornościowy do rozpoznawania określonych patogenów lub ich składników.",
+    "Programy szczepień doprowadziły m.in. do eradykacji ospy prawdziwej i ogromnego spadku zachorowań na wiele chorób zakaźnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

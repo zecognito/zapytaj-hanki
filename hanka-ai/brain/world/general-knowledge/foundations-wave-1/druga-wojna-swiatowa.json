@@ -1,0 +1,20 @@
+{
+  "id": "world-druga-wojna-swiatowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Druga wojna światowa",
+  "facts": [
+    "Druga wojna światowa trwała od 1939 do 1945 roku i była najbardziej niszczycielskim konfliktem w historii pod względem skali walk i liczby ofiar.",
+    "Wojna objęła Europę, Azję, Afrykę, oceany i doprowadziła do użycia broni atomowej przeciw Hiroszimie i Nagasaki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

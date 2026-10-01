@@ -1,0 +1,20 @@
+{
+  "id": "world-jezyk-hiszpanski",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Język hiszpański",
+  "facts": [
+    "Hiszpański wywodzi się z łaciny i rozprzestrzenił się globalnie wraz z ekspansją Hiszpanii.",
+    "Jest językiem urzędowym lub dominującym w większości państw Ameryki Łacińskiej oraz w Hiszpanii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

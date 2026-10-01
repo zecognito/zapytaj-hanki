@@ -1,0 +1,20 @@
+{
+  "id": "world-taoizm",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Taoizm",
+  "facts": [
+    "Taoizm jest chińską tradycją filozoficzną i religijną skupioną wokół pojęcia Dao, czyli Drogi.",
+    "Do klasycznych tekstów taoistycznych należą Daodejing i Zhuangzi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

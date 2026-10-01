@@ -1,0 +1,20 @@
+{
+  "id": "world-teoria-wzglednosci",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Teoria względności",
+  "facts": [
+    "Albert Einstein stworzył szczególną teorię względności w 1905 roku i ogólną teorię względności w 1915 roku.",
+    "Ogólna teoria opisuje grawitację jako geometrię czasoprzestrzeni."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

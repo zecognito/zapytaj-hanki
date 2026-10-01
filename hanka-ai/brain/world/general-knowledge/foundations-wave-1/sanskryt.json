@@ -1,0 +1,20 @@
+{
+  "id": "world-sanskryt",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Sanskryt",
+  "facts": [
+    "Sanskryt jest klasycznym językiem indoaryjskim o ogromnym znaczeniu dla literatury, filozofii i religii Azji Południowej.",
+    "W sanskrycie powstały m.in. Wedy i liczne klasyczne dzieła hinduizmu, buddyzmu i dżinizmu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

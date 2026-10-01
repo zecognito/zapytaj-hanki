@@ -1,0 +1,20 @@
+{
+  "id": "world-zloty-wiek-islamu",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Złoty wiek islamu",
+  "facts": [
+    "Określenie złoty wiek islamu odnosi się do wielowiekowego rozwoju nauki, medycyny, matematyki, filozofii i literatury w świecie muzułmańskim.",
+    "Uczeni tłumaczyli i rozwijali wiedzę grecką, perską, indyjską oraz tworzyli własne odkrycia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

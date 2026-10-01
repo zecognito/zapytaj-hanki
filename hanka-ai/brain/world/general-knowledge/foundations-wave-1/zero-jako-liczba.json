@@ -1,0 +1,20 @@
+{
+  "id": "world-zero-jako-liczba",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Zero jako liczba",
+  "facts": [
+    "Koncepcja zera jako liczby i elementu systemu pozycyjnego została szczególnie rozwinięta w matematyce indyjskiej.",
+    "Za pośrednictwem uczonych świata islamu system ten rozpowszechnił się później w Europie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-wielki-kryzys",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Wielki kryzys",
+  "facts": [
+    "Wielki kryzys rozpoczął się pod koniec lat 20. XX wieku i spowodował gwałtowny spadek produkcji, handlu i zatrudnienia w wielu państwach.",
+    "Jego skutki gospodarcze i polityczne trwały przez znaczną część lat 30."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

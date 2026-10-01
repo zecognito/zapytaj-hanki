@@ -1,0 +1,20 @@
+{
+  "id": "world-druk-ruchoma-czcionka",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Druk ruchomą czcionką",
+  "facts": [
+    "Druk z ruchomych elementów był używany w Azji przed Europą, a Johannes Gutenberg rozwinął w XV-wiecznej Europie system druku metalową ruchomą czcionką.",
+    "Masowy druk gwałtownie obniżył koszt kopiowania tekstów i przyspieszył rozpowszechnianie wiedzy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

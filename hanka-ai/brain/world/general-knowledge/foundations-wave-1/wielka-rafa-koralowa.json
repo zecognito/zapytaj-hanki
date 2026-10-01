@@ -1,0 +1,21 @@
+{
+  "id": "world-wielka-rafa-koralowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Wielka Rafa Koralowa",
+  "facts": [
+    "Wielka Rafa Koralowa u północno-wschodnich wybrzeży Australii jest największym systemem raf koralowych świata.",
+    "Składa się z tysięcy raf i wysp i jest wpisana na listę światowego dziedzictwa UNESCO."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

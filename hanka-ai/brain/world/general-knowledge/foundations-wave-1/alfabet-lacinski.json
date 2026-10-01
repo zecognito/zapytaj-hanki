@@ -1,0 +1,20 @@
+{
+  "id": "world-alfabet-lacinski",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Alfabet łaciński",
+  "facts": [
+    "Alfabet łaciński wywodzi się z alfabetów używanych w starożytnej Italii, które miały korzenie greckie i fenickie.",
+    "Dziś jest najpowszechniej używanym systemem alfabetycznym świata."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

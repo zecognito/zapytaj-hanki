@@ -1,0 +1,20 @@
+{
+  "id": "world-apollo-11",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Apollo 11",
+  "facts": [
+    "Apollo 11 był pierwszą misją, która doprowadziła ludzi na powierzchnię Księżyca.",
+    "Neil Armstrong i Buzz Aldrin wylądowali 20 lipca 1969 roku, podczas gdy Michael Collins pozostał na orbicie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

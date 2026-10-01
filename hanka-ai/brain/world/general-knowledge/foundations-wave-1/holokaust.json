@@ -1,0 +1,20 @@
+{
+  "id": "world-holokaust",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Holokaust",
+  "facts": [
+    "Holokaust był systematycznym prześladowaniem i wymordowaniem około sześciu milionów Żydów europejskich przez nazistowskie Niemcy i ich współpracowników.",
+    "Nazistowskie prześladowania i masowe mordy objęły także miliony innych ofiar."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

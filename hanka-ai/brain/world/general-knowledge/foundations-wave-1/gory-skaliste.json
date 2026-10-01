@@ -1,0 +1,21 @@
+{
+  "id": "world-gory-skaliste",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Góry Skaliste",
+  "facts": [
+    "Góry Skaliste tworzą wielki system górski zachodniej części Ameryki Północnej.",
+    "Rozciągają się od Kanady po południowo-zachodnie Stany Zjednoczone."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

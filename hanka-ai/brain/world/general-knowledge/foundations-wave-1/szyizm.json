@@ -1,0 +1,20 @@
+{
+  "id": "world-szyizm",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Szyizm",
+  "facts": [
+    "Szyizm jest jednym z głównych nurtów islamu i historycznie wiąże przywództwo wspólnoty z rodziną Alego i Fatimy.",
+    "Największą gałęzią szyizmu jest imamizm dwunastkowy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

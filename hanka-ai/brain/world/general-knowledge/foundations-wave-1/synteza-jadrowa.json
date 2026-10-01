@@ -1,0 +1,20 @@
+{
+  "id": "world-synteza-jadrowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Synteza jądrowa",
+  "facts": [
+    "Synteza jądrowa łączy lekkie jądra w cięższe i może uwalniać ogromne ilości energii.",
+    "Fuzja zasila gwiazdy, a naukowcy pracują nad jej kontrolowanym wykorzystaniem na Ziemi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

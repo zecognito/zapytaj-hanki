@@ -1,0 +1,20 @@
+{
+  "id": "world-samochod",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Samochód",
+  "facts": [
+    "Samochody z silnikiem spalinowym zaczęły być praktycznie rozwijane pod koniec XIX wieku.",
+    "Produkcja masowa w XX wieku przekształciła transport, miasta, przemysł i styl życia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

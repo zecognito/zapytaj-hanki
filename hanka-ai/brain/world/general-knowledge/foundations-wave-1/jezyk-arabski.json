@@ -1,0 +1,20 @@
+{
+  "id": "world-jezyk-arabski",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Język arabski",
+  "facts": [
+    "Arabski jest językiem semickim używanym w wielu państwach Afryki Północnej i Azji Zachodniej.",
+    "Klasyczny arabski jest językiem Koranu, a współczesny standardowy arabski współistnieje z licznymi odmianami regionalnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

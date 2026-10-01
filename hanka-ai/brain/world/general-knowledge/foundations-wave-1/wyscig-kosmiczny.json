@@ -1,0 +1,20 @@
+{
+  "id": "world-wyscig-kosmiczny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Wyścig kosmiczny",
+  "facts": [
+    "Wyścig kosmiczny był częścią zimnowojennej rywalizacji USA i ZSRR o osiągnięcia w eksploracji kosmosu.",
+    "Obejmował pierwszego satelitę, pierwszego człowieka w kosmosie i zakończone sukcesem amerykańskie lądowanie ludzi na Księżycu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

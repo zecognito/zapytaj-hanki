@@ -1,0 +1,20 @@
+{
+  "id": "world-tablica-okresowa-pierwiastkow",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-knowledge",
+  "title": "Tablica okresowa pierwiastków",
+  "facts": [
+    "Układ okresowy porządkuje pierwiastki chemiczne według liczby atomowej i powtarzających się właściwości.",
+    "Dmitrij Mendelejew opublikował w 1869 roku wpływową wersję tablicy, przewidując istnienie nieznanych wówczas pierwiastków."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

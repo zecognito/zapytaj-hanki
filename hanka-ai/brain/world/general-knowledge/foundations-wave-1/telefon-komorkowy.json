@@ -1,0 +1,20 @@
+{
+  "id": "world-telefon-komorkowy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Telefon komórkowy",
+  "facts": [
+    "Sieci telefonii komórkowej dzielą obszar na komórki obsługiwane przez stacje bazowe.",
+    "Od lat 80. i 90. technologia rozwinęła się od rozmów głosowych do globalnego mobilnego dostępu do danych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

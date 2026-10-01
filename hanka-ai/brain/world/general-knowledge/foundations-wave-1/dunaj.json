@@ -1,0 +1,21 @@
+{
+  "id": "world-dunaj",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Dunaj",
+  "facts": [
+    "Dunaj jest drugą pod względem długości rzeką Europy po Wołdze.",
+    "Przepływa lub tworzy granice dziesięciu państw i uchodzi do Morza Czarnego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

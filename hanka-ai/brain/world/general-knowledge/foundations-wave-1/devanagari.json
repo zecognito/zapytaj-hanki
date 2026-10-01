@@ -1,0 +1,20 @@
+{
+  "id": "world-devanagari",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "religion-language-and-culture",
+  "title": "Devanagari",
+  "facts": [
+    "Dewanagari jest alfabetem sylabicznym używanym m.in. do zapisu hindi, marathi i sanskrytu.",
+    "Znaki posiadają charakterystyczną poziomą linię biegnącą nad literami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

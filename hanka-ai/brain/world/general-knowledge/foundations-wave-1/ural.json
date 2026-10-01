@@ -1,0 +1,21 @@
+{
+  "id": "world-ural",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Ural",
+  "facts": [
+    "Góry Ural rozciągają się z północy na południe przez zachodnią Rosję.",
+    "Są tradycyjnie używane jako część umownej granicy między Europą i Azją."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

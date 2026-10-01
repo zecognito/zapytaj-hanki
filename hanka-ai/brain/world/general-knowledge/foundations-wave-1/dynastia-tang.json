@@ -1,0 +1,20 @@
+{
+  "id": "world-dynastia-tang",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Dynastia Tang",
+  "facts": [
+    "Dynastia Tang rządziła Chinami w latach 618–907.",
+    "Jej epoka jest kojarzona z rozkwitem miast, handlu, literatury i kontaktów międzynarodowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

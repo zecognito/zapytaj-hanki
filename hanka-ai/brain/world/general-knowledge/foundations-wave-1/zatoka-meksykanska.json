@@ -1,0 +1,21 @@
+{
+  "id": "world-zatoka-meksykanska",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Zatoka Meksykańska",
+  "facts": [
+    "Zatoka Meksykańska jest dużym basenem morskim otoczonym przez Stany Zjednoczone, Meksyk i Kubę.",
+    "Łączy się z Atlantykiem przez Cieśninę Florydzką i z Morzem Karaibskim przez Kanał Jukatański."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-upadek-muru-berlinskiego",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "modern-world-and-technology",
+  "title": "Upadek muru berlińskiego",
+  "facts": [
+    "9 listopada 1989 roku władze NRD otworzyły przejścia przez mur berliński po masowych protestach i kryzysie systemu komunistycznego.",
+    "Wydarzenie stało się symbolem końca podziału Europy i zimnej wojny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

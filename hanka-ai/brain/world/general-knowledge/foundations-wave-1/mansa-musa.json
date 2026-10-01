@@ -1,0 +1,20 @@
+{
+  "id": "world-mansa-musa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Mansa Musa",
+  "facts": [
+    "Mansa Musa był XIV-wiecznym władcą imperium Mali znanym z ogromnych zasobów złota.",
+    "Jego pielgrzymka do Mekki w latach 1324–1325 zwróciła uwagę świata śródziemnomorskiego na bogactwo Mali."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

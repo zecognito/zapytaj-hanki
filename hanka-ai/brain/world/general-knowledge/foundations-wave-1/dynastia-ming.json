@@ -1,0 +1,20 @@
+{
+  "id": "world-dynastia-ming",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "world-history",
+  "title": "Dynastia Ming",
+  "facts": [
+    "Dynastia Ming rządziła Chinami od 1368 do 1644 roku.",
+    "W jej czasach rozbudowano Wielki Mur, odbyły się wyprawy Zheng He i powstało Zakazane Miasto w Pekinie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

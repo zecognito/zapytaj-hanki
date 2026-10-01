@@ -1,0 +1,21 @@
+{
+  "id": "world-morze-kaspijskie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-geography",
+  "title": "Morze Kaspijskie",
+  "facts": [
+    "Morze Kaspijskie jest największym śródlądowym zbiornikiem wodnym świata.",
+    "Mimo nazwy geograficznie jest zamkniętym jeziorem słonym między Europą i Azją."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}
