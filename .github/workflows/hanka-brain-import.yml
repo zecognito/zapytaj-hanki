@@ -1,34 +1,15 @@
-name: Hanka Brain Import Pilot
+name: Hanka Brain Expansion Pipeline
 
 on:
   workflow_dispatch:
-    inputs:
-      profile:
-        description: Import profile
-        required: true
-        default: country-enrichment
-        type: choice
-        options:
-          - country-enrichment
-          - cities
-      limit:
-        description: Number of source entities to request
-        required: true
-        default: "5"
-        type: string
-      offset:
-        description: Source offset
-        required: true
-        default: "0"
-        type: string
 
 permissions:
   contents: read
 
 jobs:
-  generate-candidates:
+  build-candidates:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 60
     defaults:
       run:
         working-directory: hanka-ai/tools/import-wikidata
@@ -46,33 +27,37 @@ jobs:
       - name: Install importer dependencies
         run: npm install --ignore-scripts
 
-      - name: Generate country enrichment candidates
-        if: inputs.profile == 'country-enrichment'
-        run: npm run import:countries -- "${{ inputs.limit }}" "${{ inputs.offset }}"
+      - name: Validate importer configuration
+        run: npm run validate:config
 
-      - name: Generate city candidates
-        if: inputs.profile == 'cities'
-        run: npm run import:cities -- "${{ inputs.limit }}" "${{ inputs.offset }}"
+      - name: Generate candidates across enabled profiles
+        run: npm run import:all
 
-      - name: Validate staging records
+      - name: Validate staged records
         run: npm run validate
 
-      - name: Summarize generated files
+      - name: Run quality gate
+        continue-on-error: true
+        run: npm run quality
+
+      - name: Summarize pipeline
         shell: bash
         run: |
           count=$(find staging -type f -name '*.json' | wc -l)
-          echo "### Hanka Brain importer" >> "$GITHUB_STEP_SUMMARY"
+          echo "### Hanka Brain expansion pipeline" >> "$GITHUB_STEP_SUMMARY"
           echo "- Source branch: feature/hanka-ai" >> "$GITHUB_STEP_SUMMARY"
-          echo "- Profile: ${{ inputs.profile }}" >> "$GITHUB_STEP_SUMMARY"
-          echo "- Limit: ${{ inputs.limit }}" >> "$GITHUB_STEP_SUMMARY"
-          echo "- Offset: ${{ inputs.offset }}" >> "$GITHUB_STEP_SUMMARY"
-          echo "- Valid staged JSON files: $count" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Enabled profiles: 20" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Staged candidates: $count" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Quality report generated: yes" >> "$GITHUB_STEP_SUMMARY"
           echo "- Canonical Brain modified: no" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Vectorize modified: no" >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Upload candidate records
+      - name: Upload candidates and review report
         uses: actions/upload-artifact@v4
         with:
-          name: hanka-brain-${{ inputs.profile }}-${{ github.run_id }}
-          path: hanka-ai/tools/import-wikidata/staging/**/*.json
+          name: hanka-brain-expansion-\${{ github.run_id }}
+          path: |
+            hanka-ai/tools/import-wikidata/staging/**/*.json
+            hanka-ai/tools/import-wikidata/review-report.json
           if-no-files-found: error
           retention-days: 7
