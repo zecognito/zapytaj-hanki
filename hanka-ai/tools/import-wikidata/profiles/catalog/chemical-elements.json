@@ -6,7 +6,7 @@
   "source": "wikidata",
   "selector": {
     "instanceOf": "Q11344",
-    "includeSubclasses": true
+    "includeSubclasses": false
   },
   "properties": [
     "P1086",
