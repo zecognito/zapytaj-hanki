@@ -1,0 +1,21 @@
+{
+  "id": "world-skala-metamorficzna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Skała metamorficzna",
+  "facts": [
+    "Skały metamorficzne powstają z wcześniejszych skał zmienionych przez temperaturę, ciśnienie i płyny bez całkowitego stopienia.",
+    "Proces metamorfizmu może tworzyć nowe minerały i tekstury."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

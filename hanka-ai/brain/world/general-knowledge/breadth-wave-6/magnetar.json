@@ -1,0 +1,21 @@
+{
+  "id": "world-magnetar",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Magnetar",
+  "facts": [
+    "Magnetar jest typem gwiazdy neutronowej o wyjątkowo silnym polu magnetycznym.",
+    "Może emitować gwałtowne rozbłyski promieniowania rentgenowskiego i gamma."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

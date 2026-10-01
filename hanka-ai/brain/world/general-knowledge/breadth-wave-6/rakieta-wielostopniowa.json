@@ -1,0 +1,21 @@
+{
+  "id": "world-rakieta-wielostopniowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Rakieta wielostopniowa",
+  "facts": [
+    "Rakieta wielostopniowa składa się z kolejnych stopni odrzucanych po zużyciu paliwa.",
+    "Odrzucanie pustych stopni zmniejsza masę pojazdu i ułatwia osiąganie dużych prędkości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

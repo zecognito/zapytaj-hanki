@@ -1,0 +1,21 @@
+{
+  "id": "world-roj-meteorow",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Rój meteorów",
+  "facts": [
+    "Rój meteorów występuje, gdy Ziemia przechodzi przez strumień drobin pozostawionych zwykle przez kometę lub asteroidę.",
+    "Meteory roju wydają się wybiegać z jednego obszaru nieba zwanego radiantem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

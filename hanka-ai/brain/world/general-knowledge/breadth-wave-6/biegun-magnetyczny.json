@@ -1,0 +1,21 @@
+{
+  "id": "world-biegun-magnetyczny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Biegun magnetyczny",
+  "facts": [
+    "Bieguny magnetyczne Ziemi są obszarami, gdzie linie pola magnetycznego są niemal pionowe.",
+    "Ich położenie zmienia się w czasie i nie pokrywa się dokładnie z biegunami geograficznymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

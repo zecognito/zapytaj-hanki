@@ -1,0 +1,21 @@
+{
+  "id": "world-tajfun",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Tajfun",
+  "facts": [
+    "Tajfun jest nazwą silnego cyklonu tropikalnego używaną w północno-zachodniej części Oceanu Spokojnego.",
+    "To ten sam rodzaj zjawiska fizycznego, który w Atlantyku i północno-wschodnim Pacyfiku nazywa się huraganem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

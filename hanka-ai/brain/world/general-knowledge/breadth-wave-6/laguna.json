@@ -1,0 +1,21 @@
+{
+  "id": "world-laguna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Laguna",
+  "facts": [
+    "Laguna jest płytkim akwenem oddzielonym od większego morza barierą, mierzeją, rafą lub wyspami.",
+    "Może mieć wodę słoną, słonawą albo zmienną w zależności od dopływu wód."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

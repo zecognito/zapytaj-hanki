@@ -1,0 +1,21 @@
+{
+  "id": "world-horyzont-zdarzen",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Horyzont zdarzeń",
+  "facts": [
+    "Horyzont zdarzeń jest granicą wokół czarnej dziury, zza której światło nie może wydostać się na zewnątrz.",
+    "Nie jest materialną powierzchnią, lecz granicą przyczynową czasoprzestrzeni."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

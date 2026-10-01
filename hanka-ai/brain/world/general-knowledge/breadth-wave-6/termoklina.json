@@ -1,0 +1,21 @@
+{
+  "id": "world-termoklina",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Termoklina",
+  "facts": [
+    "Termoklina jest warstwą wody, w której temperatura szybko zmienia się wraz z głębokością.",
+    "Może ograniczać mieszanie wód powierzchniowych z głębszymi warstwami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

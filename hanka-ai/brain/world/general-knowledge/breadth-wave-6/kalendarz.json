@@ -1,0 +1,20 @@
+{
+  "id": "world-kalendarz",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Kalendarz",
+  "facts": [
+    "Kalendarz jest systemem organizowania dni w większe jednostki, takie jak tygodnie, miesiące i lata.",
+    "Kalendarz gregoriański stosuje lata przestępne, aby utrzymywać rok kalendarzowy blisko długości roku zwrotnikowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

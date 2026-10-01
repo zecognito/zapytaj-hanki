@@ -1,0 +1,20 @@
+{
+  "id": "world-archiwum",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Archiwum",
+  "facts": [
+    "Archiwum przechowuje dokumenty i materiały zachowane ze względu na ich wartość administracyjną, prawną, historyczną lub badawczą.",
+    "Zasada proweniencji pomaga zachować informacje o twórcy i pierwotnym kontekście dokumentów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

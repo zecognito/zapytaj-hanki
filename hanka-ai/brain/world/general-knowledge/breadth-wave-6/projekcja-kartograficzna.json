@@ -1,0 +1,21 @@
+{
+  "id": "world-projekcja-kartograficzna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Projekcja kartograficzna",
+  "facts": [
+    "Projekcja kartograficzna przekształca zakrzywioną powierzchnię Ziemi na płaszczyznę mapy.",
+    "Każde takie odwzorowanie zniekształca przynajmniej część właściwości, na przykład powierzchnie, kąty lub odległości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

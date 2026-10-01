@@ -1,0 +1,20 @@
+{
+  "id": "world-eksplozja-demograficzna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Eksplozja demograficzna",
+  "facts": [
+    "Eksplozja demograficzna oznacza bardzo szybki wzrost liczby ludności w stosunkowo krótkim okresie.",
+    "Może wystąpić, gdy śmiertelność spada szybciej niż dzietność w procesie transformacji demograficznej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

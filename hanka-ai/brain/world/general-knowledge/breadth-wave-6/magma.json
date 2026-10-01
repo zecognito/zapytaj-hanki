@@ -1,0 +1,21 @@
+{
+  "id": "world-magma",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Magma",
+  "facts": [
+    "Magma jest stopioną lub częściowo stopioną skałą znajdującą się pod powierzchnią Ziemi.",
+    "Może zawierać kryształy i rozpuszczone gazy oraz tworzyć skały magmowe po zastygnięciu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

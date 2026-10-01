@@ -1,0 +1,20 @@
+{
+  "id": "world-pszczola-miodna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Pszczoła miodna",
+  "facts": [
+    "Pszczoła miodna, Apis mellifera, żyje w społecznych koloniach z królową, robotnicami i trutniami.",
+    "Jest ważnym zapylaczem wielu upraw, choć nie jest jedynym gatunkiem odpowiedzialnym za zapylanie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-dwujezycznosc",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Dwujęzyczność",
+  "facts": [
+    "Dwujęzyczność oznacza używanie lub znajomość dwóch języków przez osobę albo społeczność.",
+    "Poziom biegłości nie musi być identyczny w obu językach i może różnić się zależnie od sytuacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

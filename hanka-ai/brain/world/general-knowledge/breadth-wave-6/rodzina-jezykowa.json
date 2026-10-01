@@ -1,0 +1,20 @@
+{
+  "id": "world-rodzina-jezykowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Rodzina językowa",
+  "facts": [
+    "Rodzina językowa obejmuje języki wywodzące się ze wspólnego języka przodka.",
+    "Do rodziny indoeuropejskiej należą między innymi języki słowiańskie, germańskie i romańskie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

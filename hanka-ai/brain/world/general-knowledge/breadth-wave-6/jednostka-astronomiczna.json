@@ -1,0 +1,21 @@
+{
+  "id": "world-jednostka-astronomiczna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Jednostka astronomiczna",
+  "facts": [
+    "Jednostka astronomiczna, AU, jest jednostką długości równą dokładnie 149 597 870 700 metrów.",
+    "W przybliżeniu odpowiada średniej odległości Ziemi od Słońca."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-poziomica",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Poziomica",
+  "facts": [
+    "Poziomica na mapie łączy punkty o tej samej wysokości.",
+    "Gęsto ułożone poziomice zwykle oznaczają stromy stok, a szeroko rozstawione łagodniejszy teren."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

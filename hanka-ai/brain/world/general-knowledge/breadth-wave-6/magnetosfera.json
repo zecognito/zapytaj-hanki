@@ -1,0 +1,21 @@
+{
+  "id": "world-magnetosfera",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Magnetosfera",
+  "facts": [
+    "Magnetosfera to obszar wokół ciała niebieskiego, w którym ruch naładowanych cząstek jest silnie kontrolowany przez jego pole magnetyczne.",
+    "Ziemska magnetosfera odchyla dużą część wiatru słonecznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

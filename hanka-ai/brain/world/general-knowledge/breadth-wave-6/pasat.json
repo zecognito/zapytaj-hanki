@@ -1,0 +1,21 @@
+{
+  "id": "world-pasat",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Pasat",
+  "facts": [
+    "Pasaty są stałymi wiatrami wiejącymi w tropikach ku strefie równikowego niskiego ciśnienia.",
+    "Na półkuli północnej mają zwykle składową północno-wschodnią, a na południowej południowo-wschodnią."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

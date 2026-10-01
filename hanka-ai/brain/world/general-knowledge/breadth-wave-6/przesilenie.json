@@ -1,0 +1,21 @@
+{
+  "id": "world-przesilenie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Przesilenie",
+  "facts": [
+    "Przesilenie występuje dwa razy w roku, gdy położenie Słońca względem równika niebieskiego osiąga skrajne wartości.",
+    "W danej półkuli wyznacza okolice najdłuższego albo najkrótszego dnia roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

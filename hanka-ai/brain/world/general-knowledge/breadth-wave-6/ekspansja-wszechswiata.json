@@ -1,0 +1,21 @@
+{
+  "id": "world-ekspansja-wszechswiata",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Ekspansja Wszechświata",
+  "facts": [
+    "W dużej skali odległości między niezwiązanymi grawitacyjnie galaktykami rosną wraz z ekspansją przestrzeni.",
+    "Obserwacje przesunięć ku czerwieni odległych galaktyk były kluczowym dowodem tej ekspansji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

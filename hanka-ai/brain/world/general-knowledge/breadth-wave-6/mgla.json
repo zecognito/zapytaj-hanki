@@ -1,0 +1,21 @@
+{
+  "id": "world-mgla",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Mgła",
+  "facts": [
+    "Mgła jest zawiesiną drobnych kropelek wody lub kryształków lodu przy powierzchni, która ogranicza widzialność.",
+    "Powstaje, gdy powietrze przy ziemi osiąga lub zbliża się do nasycenia parą wodną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

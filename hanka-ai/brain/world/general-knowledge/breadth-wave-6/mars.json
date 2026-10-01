@@ -1,0 +1,21 @@
+{
+  "id": "world-mars",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Mars",
+  "facts": [
+    "Mars jest czwartą planetą od Słońca i ma skalistą powierzchnię bogatą w związki żelaza.",
+    "Ma dwa małe księżyce, Fobosa i Deimosa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-fala-morska",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Fala morska",
+  "facts": [
+    "Większość fal powierzchniowych na morzu powstaje wskutek przekazywania energii z wiatru do wody.",
+    "Fala transportuje przede wszystkim energię, podczas gdy cząstki wody wykonują ruchy oscylacyjne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

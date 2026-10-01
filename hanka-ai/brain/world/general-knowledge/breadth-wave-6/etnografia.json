@@ -1,0 +1,20 @@
+{
+  "id": "world-etnografia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Etnografia",
+  "facts": [
+    "Etnografia jest metodą badania kultur i życia społecznego poprzez długotrwałą obserwację, uczestnictwo i rozmowy z ludźmi.",
+    "Jej wyniki opisują praktyki i znaczenia w konkretnym kontekście społecznym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

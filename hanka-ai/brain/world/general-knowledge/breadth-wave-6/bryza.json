@@ -1,0 +1,21 @@
+{
+  "id": "world-bryza",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Bryza",
+  "facts": [
+    "Bryza morska powstaje w dzień, gdy ląd nagrzewa się szybciej niż woda i chłodniejsze powietrze napływa od morza.",
+    "Nocą kontrast temperatur może odwrócić cyrkulację i wytworzyć bryzę lądową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

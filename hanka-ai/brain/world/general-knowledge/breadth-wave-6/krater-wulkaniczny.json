@@ -1,0 +1,21 @@
+{
+  "id": "world-krater-wulkaniczny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Krater wulkaniczny",
+  "facts": [
+    "Krater wulkaniczny jest zagłębieniem wokół otworu, przez który mogą wydobywać się lawa, popiół i gazy.",
+    "Może powstawać wskutek eksplozji, zapadania lub nagromadzenia materiału wokół komina."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

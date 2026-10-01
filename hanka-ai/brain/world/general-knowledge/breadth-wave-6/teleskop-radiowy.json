@@ -1,0 +1,21 @@
+{
+  "id": "world-teleskop-radiowy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Teleskop radiowy",
+  "facts": [
+    "Teleskop radiowy odbiera fale radiowe pochodzące z obiektów astronomicznych.",
+    "Duże anteny lub zespoły anten pozwalają badać między innymi pulsary, obłoki gazu i aktywne galaktyki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

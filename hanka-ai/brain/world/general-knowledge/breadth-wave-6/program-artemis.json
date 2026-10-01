@@ -1,0 +1,21 @@
+{
+  "id": "world-program-artemis",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Program Artemis",
+  "facts": [
+    "Artemis to prowadzony przez NASA program eksploracji Księżyca z udziałem partnerów międzynarodowych i komercyjnych.",
+    "Jego długoterminowym celem jest rozwijanie trwałej obecności człowieka na Księżycu i przygotowanie doświadczeń potrzebnych do przyszłych misji na Marsa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

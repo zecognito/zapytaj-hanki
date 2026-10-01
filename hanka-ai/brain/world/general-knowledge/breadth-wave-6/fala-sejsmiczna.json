@@ -1,0 +1,21 @@
+{
+  "id": "world-fala-sejsmiczna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Fala sejsmiczna",
+  "facts": [
+    "Fale sejsmiczne przenoszą energię uwolnioną podczas trzęsienia ziemi lub innego gwałtownego źródła.",
+    "Fale P i S przemieszczają się przez wnętrze Ziemi, a fale powierzchniowe wzdłuż jej powierzchni."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-front-atmosferyczny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Front atmosferyczny",
+  "facts": [
+    "Front atmosferyczny jest granicą między masami powietrza o różnych właściwościach.",
+    "W pobliżu frontów często rozwijają się chmury, opady i szybkie zmiany pogody."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

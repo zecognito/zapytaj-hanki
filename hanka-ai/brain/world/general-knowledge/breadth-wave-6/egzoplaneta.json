@@ -1,0 +1,21 @@
+{
+  "id": "world-egzoplaneta",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Egzoplaneta",
+  "facts": [
+    "Egzoplaneta jest planetą krążącą wokół gwiazdy innej niż Słońce.",
+    "Wykrywa się je między innymi metodą tranzytów i pomiarami prędkości radialnej gwiazd."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

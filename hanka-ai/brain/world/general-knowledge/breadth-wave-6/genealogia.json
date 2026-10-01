@@ -1,0 +1,20 @@
+{
+  "id": "world-genealogia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Genealogia",
+  "facts": [
+    "Genealogia bada pokrewieństwo i historię rodzin oraz rodów.",
+    "Wykorzystuje źródła takie jak akty stanu cywilnego, księgi parafialne, spisy, testamenty i dokumenty migracyjne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-bialy-karzel",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Biały karzeł",
+  "facts": [
+    "Biały karzeł jest gęstą pozostałością po ewolucji gwiazdy o małej lub średniej masie.",
+    "Nie prowadzi już normalnej syntezy jądrowej i stopniowo stygnie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-dialekt",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Dialekt",
+  "facts": [
+    "Dialekt jest odmianą języka związaną z określoną społecznością lub regionem.",
+    "Może różnić się od innych odmian wymową, słownictwem i gramatyką."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

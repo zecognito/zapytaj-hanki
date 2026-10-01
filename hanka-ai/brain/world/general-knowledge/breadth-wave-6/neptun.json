@@ -1,0 +1,21 @@
+{
+  "id": "world-neptun",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Neptun",
+  "facts": [
+    "Neptun jest ósmą i najdalszą planetą Układu Słonecznego.",
+    "W jego atmosferze występują jedne z najszybszych wiatrów obserwowanych na planetach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

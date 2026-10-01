@@ -1,0 +1,21 @@
+{
+  "id": "world-front-chlodny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Front chłodny",
+  "facts": [
+    "Front chłodny powstaje, gdy chłodniejsza masa powietrza wypiera cieplejszą.",
+    "Jego przejściu mogą towarzyszyć gwałtowne opady, burze i spadek temperatury."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

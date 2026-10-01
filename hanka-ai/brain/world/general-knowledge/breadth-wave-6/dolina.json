@@ -1,0 +1,21 @@
+{
+  "id": "world-dolina",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Dolina",
+  "facts": [
+    "Dolina jest podłużnym obniżeniem terenu między wyżej położonymi obszarami.",
+    "Doliny mogą być kształtowane przez rzeki, lodowce i procesy tektoniczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

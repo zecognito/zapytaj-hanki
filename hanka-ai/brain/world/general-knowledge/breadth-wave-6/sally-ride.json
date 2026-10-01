@@ -1,0 +1,21 @@
+{
+  "id": "world-sally-ride",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Sally Ride",
+  "facts": [
+    "Sally Ride została w 1983 roku pierwszą Amerykanką w kosmosie.",
+    "Była astronautką NASA i uczestniczyła w dwóch misjach wahadłowca Challenger."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

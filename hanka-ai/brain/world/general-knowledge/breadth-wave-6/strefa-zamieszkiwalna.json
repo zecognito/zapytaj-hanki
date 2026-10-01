@@ -1,0 +1,21 @@
+{
+  "id": "world-strefa-zamieszkiwalna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Strefa zamieszkiwalna",
+  "facts": [
+    "Strefa zamieszkiwalna wokół gwiazdy to zakres odległości, w którym na powierzchni odpowiedniej planety mogłaby istnieć ciekła woda.",
+    "Samo położenie w tej strefie nie oznacza, że planeta rzeczywiście jest zamieszkana."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

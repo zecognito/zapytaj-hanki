@@ -1,0 +1,20 @@
+{
+  "id": "world-spis-powszechny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Spis powszechny",
+  "facts": [
+    "Spis powszechny jest systematycznym liczeniem i opisem ludności, a często także gospodarstw domowych i mieszkań.",
+    "Dane spisowe służą planowaniu usług publicznych, analizie demograficznej i tworzeniu statystyk."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

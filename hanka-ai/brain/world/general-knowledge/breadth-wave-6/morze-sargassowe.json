@@ -1,0 +1,20 @@
+{
+  "id": "world-morze-sargassowe",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Morze Sargassowe",
+  "facts": [
+    "Morze Sargassowe jest obszarem północnego Atlantyku ograniczonym głównie przez prądy oceaniczne, a nie ląd.",
+    "Nazwa pochodzi od pływających brunatnic Sargassum występujących tam w dużych ilościach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

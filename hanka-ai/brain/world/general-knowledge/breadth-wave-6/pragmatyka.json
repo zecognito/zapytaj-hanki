@@ -1,0 +1,20 @@
+{
+  "id": "world-pragmatyka",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Pragmatyka",
+  "facts": [
+    "Pragmatyka bada, jak kontekst wpływa na znaczenie wypowiedzi i sposób jej rozumienia.",
+    "Obejmuje między innymi implikatury, akty mowy i znaczenia zależne od sytuacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

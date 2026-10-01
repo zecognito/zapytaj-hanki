@@ -1,0 +1,21 @@
+{
+  "id": "world-wyspa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Wyspa",
+  "facts": [
+    "Wyspa jest obszarem lądu otoczonym wodą i mniejszym od kontynentu.",
+    "Wyspy mogą powstawać między innymi przez wulkanizm, ruchy tektoniczne, akumulację osadów lub działalność koralowców."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

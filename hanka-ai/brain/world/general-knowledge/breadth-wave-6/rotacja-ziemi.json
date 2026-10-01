@@ -1,0 +1,21 @@
+{
+  "id": "world-rotacja-ziemi",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Rotacja Ziemi",
+  "facts": [
+    "Ziemia obraca się wokół własnej osi z zachodu na wschód.",
+    "Rotacja powoduje następstwo dnia i nocy i trwa względem gwiazd około 23 godzin 56 minut."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

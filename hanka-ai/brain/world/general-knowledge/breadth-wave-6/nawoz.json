@@ -1,0 +1,20 @@
+{
+  "id": "world-nawoz",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Nawóz",
+  "facts": [
+    "Nawóz dostarcza roślinom składników odżywczych, takich jak azot, fosfor i potas.",
+    "Nadmierne nawożenie może prowadzić do spływu biogenów do wód i eutrofizacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

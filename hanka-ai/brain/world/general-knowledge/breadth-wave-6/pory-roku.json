@@ -1,0 +1,21 @@
+{
+  "id": "world-pory-roku",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Pory roku",
+  "facts": [
+    "Pory roku wynikają głównie z nachylenia osi obrotu Ziemi względem płaszczyzny jej orbity.",
+    "Nie są powodowane przede wszystkim zmianami odległości Ziemi od Słońca."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

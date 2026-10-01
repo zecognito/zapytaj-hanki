@@ -1,0 +1,21 @@
+{
+  "id": "world-solnisko",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Solnisko",
+  "facts": [
+    "Solnisko jest płaskim obszarem pokrytym osadami soli, często pozostałością po wyschniętym jeziorze w suchym klimacie.",
+    "Sole gromadzą się, gdy parowanie przewyższa dopływ wody i rozpuszczone minerały pozostają na powierzchni."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

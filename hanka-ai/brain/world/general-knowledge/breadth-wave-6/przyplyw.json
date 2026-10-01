@@ -1,0 +1,20 @@
+{
+  "id": "world-przyplyw",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Przypływ",
+  "facts": [
+    "Przypływ jest fazą pływu, podczas której poziom morza podnosi się ku lokalnemu maksimum.",
+    "Jego czas i wysokość zależą od grawitacji Księżyca i Słońca oraz lokalnej geometrii wybrzeża i dna."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-uran",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Uran",
+  "facts": [
+    "Uran jest lodowym olbrzymem i siódmą planetą od Słońca.",
+    "Jego oś obrotu jest nachylona tak silnie, że planeta obraca się niemal „na boku” względem płaszczyzny orbity."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

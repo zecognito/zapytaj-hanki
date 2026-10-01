@@ -1,0 +1,20 @@
+{
+  "id": "world-skladnia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Składnia",
+  "facts": [
+    "Składnia bada zasady łączenia wyrazów i fraz w większe konstrukcje, zwłaszcza zdania.",
+    "Różne języki mogą mieć odmienne typowe szyki wyrazów i reguły zależności gramatycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-suburbanizacja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Suburbanizacja",
+  "facts": [
+    "Suburbanizacja jest procesem wzrostu ludności i zabudowy na obrzeżach miasta oraz w strefie podmiejskiej.",
+    "Może wiązać się z rozlewaniem zabudowy, dojazdami do pracy i zmianą użytkowania gruntów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

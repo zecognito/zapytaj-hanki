@@ -1,0 +1,20 @@
+{
+  "id": "world-jezyk-ojczysty",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Język ojczysty",
+  "facts": [
+    "Język ojczysty to język nabywany we wczesnym dzieciństwie jako pierwszy lub jeden z pierwszych.",
+    "Osoba może mieć więcej niż jeden język pierwszy, jeśli od dzieciństwa wychowuje się wielojęzycznie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-tlumaczenie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Tłumaczenie",
+  "facts": [
+    "Tłumaczenie polega na przekazywaniu treści tekstu z jednego języka do drugiego.",
+    "Dobre tłumaczenie uwzględnia nie tylko słowa, lecz także kontekst, rejestr i konwencje języka docelowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

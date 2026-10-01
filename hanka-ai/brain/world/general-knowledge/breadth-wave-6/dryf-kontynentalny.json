@@ -1,0 +1,21 @@
+{
+  "id": "world-dryf-kontynentalny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Dryf kontynentalny",
+  "facts": [
+    "Hipoteza dryfu kontynentalnego zakładała, że kontynenty przemieszczają się względem siebie w czasie geologicznym.",
+    "Współczesna tektonika płyt wyjaśnia mechanizm tego ruchu przez przemieszczanie płyt litosfery."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

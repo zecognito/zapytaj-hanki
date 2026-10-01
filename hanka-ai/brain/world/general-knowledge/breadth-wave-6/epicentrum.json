@@ -1,0 +1,21 @@
+{
+  "id": "world-epicentrum",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Epicentrum",
+  "facts": [
+    "Epicentrum trzęsienia ziemi jest punktem na powierzchni Ziemi położonym pionowo nad ogniskiem w głębi.",
+    "Nie musi być miejscem największych szkód, ponieważ wpływają na nie także warunki lokalne i konstrukcja zabudowy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-jadro-ziemi",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Jądro Ziemi",
+  "facts": [
+    "Jądro Ziemi składa się głównie z żelaza i niklu.",
+    "Zewnętrzne jądro jest ciekłe, a wewnętrzne stałe; ruch ciekłego metalu pomaga wytwarzać pole magnetyczne Ziemi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

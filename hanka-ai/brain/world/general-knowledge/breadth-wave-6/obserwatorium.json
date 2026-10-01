@@ -1,0 +1,21 @@
+{
+  "id": "world-obserwatorium",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Obserwatorium",
+  "facts": [
+    "Obserwatorium astronomiczne jest miejscem lub instalacją wyposażoną do systematycznych obserwacji nieba.",
+    "Obserwatoria mogą działać na powierzchni Ziemi, w powietrzu lub w przestrzeni kosmicznej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

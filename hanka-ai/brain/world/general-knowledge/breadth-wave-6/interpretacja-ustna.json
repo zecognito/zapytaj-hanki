@@ -1,0 +1,20 @@
+{
+  "id": "world-interpretacja-ustna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Tłumaczenie ustne",
+  "facts": [
+    "Tłumaczenie ustne przekazuje wypowiedź mówioną lub migową między językami w czasie rzeczywistym lub z krótkim opóźnieniem.",
+    "Główne tryby obejmują tłumaczenie symultaniczne i konsekutywne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

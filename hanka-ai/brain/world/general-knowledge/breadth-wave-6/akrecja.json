@@ -1,0 +1,21 @@
+{
+  "id": "world-akrecja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Akrecja",
+  "facts": [
+    "Akrecja to gromadzenie materii przez ciało pod wpływem grawitacji.",
+    "Proces ten uczestniczy w powstawaniu planet, gwiazd oraz zasilaniu czarnych dziur."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

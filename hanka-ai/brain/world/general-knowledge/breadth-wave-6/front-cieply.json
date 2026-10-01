@@ -1,0 +1,21 @@
+{
+  "id": "world-front-cieply",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Front ciepły",
+  "facts": [
+    "Front ciepły powstaje, gdy cieplejsze powietrze nasuwa się nad chłodniejsze.",
+    "Często przynosi rozległe zachmurzenie i długotrwałe opady przed przejściem frontu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

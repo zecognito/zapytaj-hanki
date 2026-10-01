@@ -1,0 +1,21 @@
+{
+  "id": "world-uskok-geologiczny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Uskok geologiczny",
+  "facts": [
+    "Uskok jest pęknięciem lub strefą pęknięć w skałach, wzdłuż której nastąpiło przemieszczenie.",
+    "Nagły ruch na uskoku może generować trzęsienie ziemi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

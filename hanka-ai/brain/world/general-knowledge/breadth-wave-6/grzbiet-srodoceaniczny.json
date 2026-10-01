@@ -1,0 +1,21 @@
+{
+  "id": "world-grzbiet-srodoceaniczny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Grzbiet śródoceaniczny",
+  "facts": [
+    "Grzbiety śródoceaniczne są podmorskimi łańcuchami górskimi na rozbieżnych granicach płyt.",
+    "Powstaje tam nowa skorupa oceaniczna w wyniku wynoszenia i zastygania magmy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

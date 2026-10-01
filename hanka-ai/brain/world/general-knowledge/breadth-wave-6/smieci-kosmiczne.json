@@ -1,0 +1,21 @@
+{
+  "id": "world-smieci-kosmiczne",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Śmieci kosmiczne",
+  "facts": [
+    "Śmieci kosmiczne to nieczynne satelity, fragmenty rakiet i inne sztuczne obiekty pozostające na orbicie.",
+    "Przy dużych prędkościach orbitalnych nawet małe fragmenty mogą uszkodzić działające statki kosmiczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

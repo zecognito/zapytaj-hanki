@@ -1,0 +1,20 @@
+{
+  "id": "world-imigracja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Imigracja",
+  "facts": [
+    "Imigracja oznacza przyjazd do kraju lub obszaru w celu zamieszkania.",
+    "Statystyki imigracji zależą od definicji pobytu i okresu stosowanych przez dane państwo lub organizację."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

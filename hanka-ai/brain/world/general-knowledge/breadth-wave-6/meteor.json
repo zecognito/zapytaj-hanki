@@ -1,0 +1,21 @@
+{
+  "id": "world-meteor",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Meteor",
+  "facts": [
+    "Meteor to zjawisko świetlne powstające, gdy meteoroid wpada w atmosferę i silnie się nagrzewa.",
+    "Potocznie nazywa się go spadającą gwiazdą, choć nie jest gwiazdą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

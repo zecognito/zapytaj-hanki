@@ -1,0 +1,21 @@
+{
+  "id": "world-gromada-gwiazd",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Gromada gwiazd",
+  "facts": [
+    "Gromada gwiazd to grupa gwiazd związanych wspólnym pochodzeniem, a często także grawitacją.",
+    "Wyróżnia się między innymi gromady otwarte i gromady kuliste."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

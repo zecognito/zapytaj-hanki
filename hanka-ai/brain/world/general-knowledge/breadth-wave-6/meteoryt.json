@@ -1,0 +1,21 @@
+{
+  "id": "world-meteoryt",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Meteoryt",
+  "facts": [
+    "Meteoryt to fragment naturalnego ciała kosmicznego, który przetrwał przejście przez atmosferę i dotarł do powierzchni.",
+    "Badanie meteorytów dostarcza informacji o składzie i historii wczesnego Układu Słonecznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

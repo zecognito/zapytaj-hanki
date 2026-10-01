@@ -1,0 +1,21 @@
+{
+  "id": "world-atol",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Atol",
+  "facts": [
+    "Atol jest pierścieniową rafą koralową lub zespołem wysp otaczających lagunę.",
+    "Wiele atoli rozwija się wokół stopniowo zapadających się dawnych wysp wulkanicznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

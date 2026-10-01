@@ -1,0 +1,21 @@
+{
+  "id": "world-upwelling",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Upwelling",
+  "facts": [
+    "Upwelling jest wynoszeniem chłodnej, bogatej w składniki odżywcze wody z głębi ku powierzchni.",
+    "Strefy upwellingu należą do najbardziej produktywnych biologicznie obszarów oceanów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

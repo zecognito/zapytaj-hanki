@@ -1,0 +1,20 @@
+{
+  "id": "world-konserwacja-zabytkow",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Konserwacja zabytków",
+  "facts": [
+    "Konserwacja zabytków ma na celu zachowanie materialnego dziedzictwa i spowolnienie jego degradacji.",
+    "Działania powinny uwzględniać materiał, historię obiektu i możliwie odwracalne metody ingerencji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

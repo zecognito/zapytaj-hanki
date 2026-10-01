@@ -1,0 +1,21 @@
+{
+  "id": "world-oblok-oorta",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Obłok Oorta",
+  "facts": [
+    "Obłok Oorta jest hipotetycznym, bardzo odległym rezerwuarem lodowych ciał otaczającym Układ Słoneczny.",
+    "Uważa się go za źródło wielu komet długookresowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

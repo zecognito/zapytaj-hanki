@@ -1,0 +1,21 @@
+{
+  "id": "world-wododzial",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Wododział",
+  "facts": [
+    "Wododział jest granicą rozdzielającą sąsiednie dorzecza lub zlewiska.",
+    "Woda opadowa spływająca po przeciwnych stronach wododziału trafia do różnych systemów odpływu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

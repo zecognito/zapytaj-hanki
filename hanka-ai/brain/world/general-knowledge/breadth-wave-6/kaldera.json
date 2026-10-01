@@ -1,0 +1,21 @@
+{
+  "id": "world-kaldera",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Kaldera",
+  "facts": [
+    "Kaldera jest dużym zagłębieniem wulkanicznym powstającym zwykle wskutek zapadnięcia się podłoża po opróżnieniu części komory magmowej.",
+    "Jest zazwyczaj znacznie większa od typowego krateru wulkanicznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

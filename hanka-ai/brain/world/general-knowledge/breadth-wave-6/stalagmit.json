@@ -1,0 +1,21 @@
+{
+  "id": "world-stalagmit",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Stalagmit",
+  "facts": [
+    "Stalagmit jest naciekiem mineralnym rosnącym od dna jaskini ku górze.",
+    "Powstaje z minerałów wytrącanych z kropel spadających ze stropu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

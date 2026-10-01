@@ -1,0 +1,21 @@
+{
+  "id": "world-ladowanie-na-ksiezycu",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Lądowanie na Księżycu",
+  "facts": [
+    "Pierwsze załogowe lądowanie ludzi na Księżycu odbyło się podczas misji Apollo 11 w lipcu 1969 roku.",
+    "Neil Armstrong i Buzz Aldrin chodzili po powierzchni, podczas gdy Michael Collins pozostawał na orbicie księżycowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

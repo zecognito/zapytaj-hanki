@@ -1,0 +1,20 @@
+{
+  "id": "world-sejsmologia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Sejsmologia",
+  "facts": [
+    "Sejsmologia bada trzęsienia ziemi i fale sprężyste rozchodzące się we wnętrzu Ziemi.",
+    "Analiza fal sejsmicznych pozwala także wnioskować o budowie głębokich warstw planety."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

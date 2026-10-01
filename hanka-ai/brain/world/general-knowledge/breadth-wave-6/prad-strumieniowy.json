@@ -1,0 +1,21 @@
+{
+  "id": "world-prad-strumieniowy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Prąd strumieniowy",
+  "facts": [
+    "Prądy strumieniowe są wąskimi pasami bardzo silnych wiatrów w górnej troposferze.",
+    "Ich położenie i kształt wpływają na przemieszczanie układów pogodowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-geodezja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Geodezja",
+  "facts": [
+    "Geodezja zajmuje się pomiarem kształtu, rozmiarów, pola grawitacyjnego i orientacji Ziemi oraz dokładnym wyznaczaniem położeń.",
+    "Jest podstawą systemów odniesienia używanych w mapowaniu, nawigacji i pomiarach satelitarnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

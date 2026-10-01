@@ -1,0 +1,20 @@
+{
+  "id": "world-jezyk-urzedowy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Język urzędowy",
+  "facts": [
+    "Język urzędowy ma formalny status w państwie, regionie lub instytucji i jest używany w określonych działaniach administracyjnych.",
+    "Państwo może mieć jeden, kilka albo nie mieć konstytucyjnie wskazanego języka urzędowego na poziomie krajowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

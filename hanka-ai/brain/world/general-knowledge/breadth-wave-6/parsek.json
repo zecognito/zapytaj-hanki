@@ -1,0 +1,21 @@
+{
+  "id": "world-parsek",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Parsek",
+  "facts": [
+    "Parsek jest astronomiczną jednostką odległości równą około 3,26 roku świetlnego.",
+    "Definicja wiąże go z paralaksą jednej sekundy łuku przy bazie jednej jednostki astronomicznej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

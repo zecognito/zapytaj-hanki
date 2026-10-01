@@ -1,0 +1,20 @@
+{
+  "id": "world-biblioteka",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Biblioteka",
+  "facts": [
+    "Biblioteka gromadzi, organizuje i udostępnia książki, dokumenty oraz inne zasoby informacyjne.",
+    "Współczesne biblioteki często zapewniają także dostęp cyfrowy, edukację informacyjną i przestrzeń do nauki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

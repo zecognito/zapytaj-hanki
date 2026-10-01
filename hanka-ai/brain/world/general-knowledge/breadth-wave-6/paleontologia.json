@@ -1,0 +1,21 @@
+{
+  "id": "world-paleontologia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Paleontologia",
+  "facts": [
+    "Paleontologia bada dawne życie na podstawie skamieniałości i kontekstu geologicznego.",
+    "Pomaga rekonstruować ewolucję organizmów i zmiany środowisk w historii Ziemi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

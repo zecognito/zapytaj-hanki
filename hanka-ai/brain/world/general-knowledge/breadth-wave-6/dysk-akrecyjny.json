@@ -1,0 +1,21 @@
+{
+  "id": "world-dysk-akrecyjny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Dysk akrecyjny",
+  "facts": [
+    "Dysk akrecyjny powstaje, gdy materia opadająca na masywny obiekt tworzy obracającą się strukturę.",
+    "Tarcie i procesy magnetyczne mogą silnie ogrzewać materię w takim dysku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

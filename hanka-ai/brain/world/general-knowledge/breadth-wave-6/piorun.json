@@ -1,0 +1,21 @@
+{
+  "id": "world-piorun",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Piorun",
+  "facts": [
+    "Piorun jest gwałtownym wyładowaniem elektrycznym w atmosferze lub między chmurą a powierzchnią.",
+    "Kanał wyładowania bardzo szybko ogrzewa powietrze, co prowadzi do powstania grzmotu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

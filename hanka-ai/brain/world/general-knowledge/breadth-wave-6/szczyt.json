@@ -1,0 +1,21 @@
+{
+  "id": "world-szczyt",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Szczyt",
+  "facts": [
+    "Szczyt jest najwyższym punktem góry lub wyraźnego wzniesienia.",
+    "Wysokość szczytu podaje się zwykle względem przyjętego poziomu morza."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

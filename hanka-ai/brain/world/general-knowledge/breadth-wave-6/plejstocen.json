@@ -1,0 +1,21 @@
+{
+  "id": "world-plejstocen",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Plejstocen",
+  "facts": [
+    "Plejstocen to epoka geologiczna trwająca od około 2,58 miliona do 11,7 tysiąca lat temu.",
+    "Charakteryzowała się wielokrotnymi zlodowaceniami i obejmowała znaczną część ewolucji rodzaju Homo."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

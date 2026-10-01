@@ -1,0 +1,21 @@
+{
+  "id": "world-wiatr-sloneczny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Wiatr słoneczny",
+  "facts": [
+    "Wiatr słoneczny jest strumieniem naładowanych cząstek wypływających z korony Słońca.",
+    "Oddziałuje z magnetosferami planet i uczestniczy w powstawaniu zórz polarnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

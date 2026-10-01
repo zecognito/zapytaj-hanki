@@ -1,0 +1,20 @@
+{
+  "id": "world-brajl",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Brajl",
+  "facts": [
+    "Brajl jest dotykowym systemem pisma opartym na układach wypukłych punktów.",
+    "Umożliwia osobom niewidomym i słabowidzącym czytanie i zapisywanie tekstu, liczb oraz innych symboli."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

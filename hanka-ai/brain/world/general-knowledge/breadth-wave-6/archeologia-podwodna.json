@@ -1,0 +1,20 @@
+{
+  "id": "world-archeologia-podwodna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Archeologia podwodna",
+  "facts": [
+    "Archeologia podwodna bada ślady działalności człowieka znajdujące się pod wodą.",
+    "Obejmuje między innymi wraki statków, zatopione osady, porty i krajobrazy zalane przez wzrost poziomu morza."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

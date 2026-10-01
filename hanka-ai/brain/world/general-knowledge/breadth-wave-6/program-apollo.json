@@ -1,0 +1,21 @@
+{
+  "id": "world-program-apollo",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Program Apollo",
+  "facts": [
+    "Apollo był amerykańskim programem załogowych lotów kosmicznych NASA prowadzonym w latach 60. i 70. XX wieku.",
+    "Sześć misji Apollo zakończyło się lądowaniem astronautów na Księżycu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

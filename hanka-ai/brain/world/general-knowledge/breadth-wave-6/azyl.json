@@ -1,0 +1,20 @@
+{
+  "id": "world-azyl",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Azyl",
+  "facts": [
+    "Azyl międzynarodowy służy ochronie osób, które spełniają określone prawem kryteria ochrony przed prześladowaniem lub poważnym zagrożeniem.",
+    "Procedury i status prawny różnią się między państwami, choć istnieją wspólne ramy prawa uchodźczego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

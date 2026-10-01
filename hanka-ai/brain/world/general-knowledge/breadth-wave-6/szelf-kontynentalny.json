@@ -1,0 +1,20 @@
+{
+  "id": "world-szelf-kontynentalny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Szelf kontynentalny",
+  "facts": [
+    "Szelf kontynentalny jest płytką, zanurzoną częścią obrzeża kontynentu rozciągającą się od wybrzeża do wyraźniejszego spadku dna.",
+    "Szelfy są ważnymi obszarami produktywności biologicznej i działalności rybackiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

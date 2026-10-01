@@ -1,0 +1,20 @@
+{
+  "id": "world-heraldyka",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Heraldyka",
+  "facts": [
+    "Heraldyka zajmuje się herbami, ich historią, budową i zasadami używania.",
+    "Herby wykorzystują określone figury, barwy i kompozycje identyfikujące osoby, rody, instytucje lub wspólnoty."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

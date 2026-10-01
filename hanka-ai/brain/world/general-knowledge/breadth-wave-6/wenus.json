@@ -1,0 +1,21 @@
+{
+  "id": "world-wenus",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Wenus",
+  "facts": [
+    "Wenus jest drugą planetą od Słońca i ma skalistą powierzchnię.",
+    "Jej gęsta atmosfera bogata w dwutlenek węgla powoduje silny efekt cieplarniany, dzięki czemu Wenus jest najgorętszą planetą Układu Słonecznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

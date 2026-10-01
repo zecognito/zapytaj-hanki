@@ -1,0 +1,21 @@
+{
+  "id": "world-pulsar",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Pulsar",
+  "facts": [
+    "Pulsar jest szybko obracającą się gwiazdą neutronową emitującą regularne impulsy promieniowania.",
+    "Impulsy obserwujemy, gdy wiązka promieniowania okresowo przecina kierunek ku Ziemi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

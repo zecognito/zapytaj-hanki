@@ -1,0 +1,21 @@
+{
+  "id": "world-antycyklon",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Antycyklon",
+  "facts": [
+    "Antycyklon jest układem wysokiego ciśnienia z opadającym ruchem powietrza.",
+    "Często sprzyja spokojniejszej, suchej pogodzie, choć zimą może utrwalać mgły i zanieczyszczenia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

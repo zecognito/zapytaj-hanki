@@ -1,0 +1,20 @@
+{
+  "id": "world-antropologia-forensyczna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Antropologia sądowa",
+  "facts": [
+    "Antropologia sądowa wykorzystuje wiedzę o ludzkim szkielecie w kontekście prawnym i identyfikacyjnym.",
+    "Może pomagać w ocenie profilu biologicznego szczątków i dokumentowaniu urazów, ale jej wnioski mają określone granice niepewności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

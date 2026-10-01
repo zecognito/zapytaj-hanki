@@ -1,0 +1,20 @@
+{
+  "id": "world-odplyw",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Odpływ",
+  "facts": [
+    "Odpływ jest fazą pływu, podczas której poziom morza obniża się ku lokalnemu minimum.",
+    "Nie jest tym samym co prąd odpływowy, choć zmianom poziomu często towarzyszą przepływy wody."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

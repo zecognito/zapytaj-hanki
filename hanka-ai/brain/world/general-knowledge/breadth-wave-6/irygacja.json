@@ -1,0 +1,20 @@
+{
+  "id": "world-irygacja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Irygacja",
+  "facts": [
+    "Irygacja jest sztucznym dostarczaniem wody uprawom, gdy opady są niewystarczające lub nieregularne.",
+    "Niewłaściwie prowadzona może przyczyniać się do zasolenia gleby i nadmiernego zużycia zasobów wodnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

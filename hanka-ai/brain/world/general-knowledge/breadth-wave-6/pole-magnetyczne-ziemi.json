@@ -1,0 +1,21 @@
+{
+  "id": "world-pole-magnetyczne-ziemi",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Pole magnetyczne Ziemi",
+  "facts": [
+    "Ziemskie pole magnetyczne jest wytwarzane głównie przez ruch przewodzącego płynnego żelaza w zewnętrznym jądrze.",
+    "Pole tworzy magnetosferę i pomaga odchylać naładowane cząstki wiatru słonecznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

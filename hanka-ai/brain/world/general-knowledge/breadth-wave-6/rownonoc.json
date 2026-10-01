@@ -1,0 +1,21 @@
+{
+  "id": "world-rownonoc",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Równonoc",
+  "facts": [
+    "Równonoc występuje, gdy Słońce przechodzi przez równik niebieski.",
+    "W jej pobliżu długość dnia i nocy jest zbliżona na większości Ziemi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

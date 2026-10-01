@@ -1,0 +1,21 @@
+{
+  "id": "world-prad-oceaniczny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Prąd oceaniczny",
+  "facts": [
+    "Prąd oceaniczny jest trwałym lub okresowym przepływem mas wody w oceanie.",
+    "Prądy napędzają wiatr, różnice gęstości, rotacja Ziemi i kształt basenów oceanicznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

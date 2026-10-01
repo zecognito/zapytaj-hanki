@@ -1,0 +1,21 @@
+{
+  "id": "world-grzmot",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "earth-and-environment",
+  "title": "Grzmot",
+  "facts": [
+    "Grzmot jest falą dźwiękową wywołaną gwałtownym rozszerzeniem powietrza ogrzanego przez piorun.",
+    "Światło dociera do obserwatora szybciej niż dźwięk, dlatego błysk widzimy przed usłyszeniem grzmotu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

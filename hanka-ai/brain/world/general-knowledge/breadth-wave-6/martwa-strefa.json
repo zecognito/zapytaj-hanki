@@ -1,0 +1,20 @@
+{
+  "id": "world-martwa-strefa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Martwa strefa",
+  "facts": [
+    "Martwa strefa to obszar wody o bardzo niskiej zawartości tlenu, w którym wiele organizmów nie może normalnie żyć.",
+    "Często wiąże się z eutrofizacją spowodowaną nadmiarem składników odżywczych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/"
+  ],
+  "related_public_pages": []
+}

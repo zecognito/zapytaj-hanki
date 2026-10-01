@@ -1,0 +1,20 @@
+{
+  "id": "world-wielojezycznosc",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-language-and-culture",
+  "title": "Wielojęzyczność",
+  "facts": [
+    "Wielojęzyczność oznacza funkcjonowanie w więcej niż dwóch językach na poziomie osoby, społeczności lub instytucji.",
+    "Języki mogą pełnić różne role w domu, edukacji, pracy i życiu publicznym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

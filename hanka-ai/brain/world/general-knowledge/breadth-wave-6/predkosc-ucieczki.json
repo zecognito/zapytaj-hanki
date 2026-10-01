@@ -1,0 +1,21 @@
+{
+  "id": "world-predkosc-ucieczki",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-and-earth",
+  "title": "Prędkość ucieczki",
+  "facts": [
+    "Prędkość ucieczki to minimalna prędkość potrzebna, by bez dalszego napędu oddalić się z pola grawitacyjnego danego ciała.",
+    "Dla powierzchni Ziemi wynosi około 11,2 kilometra na sekundę, jeśli pomija się opór atmosfery."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://science.nasa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}
