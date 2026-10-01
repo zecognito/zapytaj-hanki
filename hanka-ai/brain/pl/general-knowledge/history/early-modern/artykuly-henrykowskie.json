@@ -1,0 +1,20 @@
+{
+  "id": "artykuly-henrykowskie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Artykuły henrykowskie",
+  "facts": [
+    "Artykuły henrykowskie — podstawowe zasady ustroju Rzeczypospolitej w historii Polski.",
+    "Temat pomaga umieścić wydarzenia, postacie i instytucje w szerszej chronologii dziejów Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

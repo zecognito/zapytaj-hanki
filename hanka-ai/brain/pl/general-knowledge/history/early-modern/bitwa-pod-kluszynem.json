@@ -1,0 +1,20 @@
+{
+  "id": "bitwa-pod-kluszynem",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Bitwa pod Kłuszynem",
+  "facts": [
+    "Bitwa pod Kłuszynem — zwycięstwo 1610 roku w historii Polski.",
+    "Temat pomaga umieścić wydarzenia, postacie i instytucje w szerszej chronologii dziejów Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

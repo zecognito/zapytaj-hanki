@@ -1,0 +1,20 @@
+{
+  "id": "statut-boleslawa-krzywoustego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "medieval",
+  "title": "Statut Bolesława Krzywoustego",
+  "facts": [
+    "Statut Bolesława Krzywoustego — zasady sukcesji z 1138 roku w historii Polski.",
+    "Temat pomaga umieścić wydarzenia, postacie i instytucje w szerszej chronologii dziejów Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
