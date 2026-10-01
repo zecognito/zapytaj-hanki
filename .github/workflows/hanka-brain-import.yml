@@ -1,0 +1,77 @@
+name: Hanka Brain Import Pilot
+
+on:
+  workflow_dispatch:
+    inputs:
+      profile:
+        description: Import profile
+        required: true
+        default: country-enrichment
+        type: choice
+        options:
+          - country-enrichment
+          - cities
+      limit:
+        description: Number of source entities to request
+        required: true
+        default: "5"
+        type: string
+      offset:
+        description: Source offset
+        required: true
+        default: "0"
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  generate-candidates:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: hanka-ai/tools/import-wikidata
+    steps:
+      - name: Check out selected branch
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: hanka-ai/tools/import-wikidata/package.json
+
+      - name: Install importer dependencies
+        run: npm install --ignore-scripts
+
+      - name: Generate country enrichment candidates
+        if: inputs.profile == 'country-enrichment'
+        run: npm run import:countries -- "${{ inputs.limit }}" "${{ inputs.offset }}"
+
+      - name: Generate city candidates
+        if: inputs.profile == 'cities'
+        run: npm run import:cities -- "${{ inputs.limit }}" "${{ inputs.offset }}"
+
+      - name: Validate staging records
+        run: npm run validate
+
+      - name: Summarize generated files
+        shell: bash
+        run: |
+          count=$(find staging -type f -name '*.json' | wc -l)
+          echo "### Hanka Brain importer" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Profile: ${{ inputs.profile }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Limit: ${{ inputs.limit }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Offset: ${{ inputs.offset }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Valid staged JSON files: $count" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Canonical Brain modified: no" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload candidate records
+        uses: actions/upload-artifact@v4
+        with:
+          name: hanka-brain-${{ inputs.profile }}-${{ github.run_id }}
+          path: hanka-ai/tools/import-wikidata/staging/**/*.json
+          if-no-files-found: error
+          retention-days: 7
