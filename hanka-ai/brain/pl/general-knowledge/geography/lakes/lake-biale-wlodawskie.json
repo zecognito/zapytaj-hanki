@@ -1,0 +1,20 @@
+{
+  "id": "lake-biale-wlodawskie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "lakes",
+  "title": "Białe Włodawskie",
+  "facts": [
+    "Jezioro Białe Włodawskie leży w województwie lubelskie.",
+    "Jest jednym z nazwanych jezior uwzględnianych w państwowych danych hydrograficznych Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://wody.isok.gov.pl/imap_kzgw/?gpmap=gpSIGW"
+  ],
+  "related_public_pages": []
+}

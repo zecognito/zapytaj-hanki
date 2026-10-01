@@ -1,0 +1,20 @@
+{
+  "id": "lake-biale-augustowskie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "lakes",
+  "title": "Białe Augustowskie",
+  "facts": [
+    "Jezioro Białe Augustowskie leży w województwie podlaskie.",
+    "Jest jednym z nazwanych jezior uwzględnianych w państwowych danych hydrograficznych Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://wody.isok.gov.pl/imap_kzgw/?gpmap=gpSIGW"
+  ],
+  "related_public_pages": []
+}

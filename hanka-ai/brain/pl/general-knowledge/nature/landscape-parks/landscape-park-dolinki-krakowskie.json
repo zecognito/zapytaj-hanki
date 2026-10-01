@@ -1,0 +1,20 @@
+{
+  "id": "landscape-park-dolinki-krakowskie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "nature",
+  "subtopic": "landscape-parks",
+  "title": "Dolinki Krakowskie Park Krajobrazowy",
+  "facts": [
+    "Dolinki Krakowskie Park Krajobrazowy jest obszarem chronionego krajobrazu związanym z województwem lub województwami: małopolskie.",
+    "Parki krajobrazowe chronią wartości przyrodnicze, historyczne i kulturowe oraz walory krajobrazowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.gov.pl/web/gdos/formy-ochrony-przyrody"
+  ],
+  "related_public_pages": []
+}

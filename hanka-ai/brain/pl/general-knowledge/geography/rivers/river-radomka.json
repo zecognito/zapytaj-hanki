@@ -1,0 +1,20 @@
+{
+  "id": "river-radomka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "rivers",
+  "title": "Radomka",
+  "facts": [
+    "Radomka jest rzeką w Polsce; w tym zestawieniu jej odbiornikiem jest Wisła.",
+    "Rzeka należy do sieci hydrograficznej Polski ujmowanej w państwowych danych o wodach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://wody.isok.gov.pl/imap_kzgw/?gpmap=gpSIGW"
+  ],
+  "related_public_pages": []
+}

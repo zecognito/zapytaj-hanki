@@ -1,0 +1,20 @@
+{
+  "id": "range-gory-izerskie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "mountain-ranges",
+  "title": "Góry Izerskie",
+  "facts": [
+    "Góry Izerskie to pasmo lub grupa górska należąca do regionu Sudety.",
+    "Jest częścią fizycznogeograficznego krajobrazu Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.gov.pl/web/gdos/geoserwis"
+  ],
+  "related_public_pages": []
+}
