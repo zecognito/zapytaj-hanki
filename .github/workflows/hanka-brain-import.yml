@@ -44,13 +44,15 @@ jobs:
         continue-on-error: true
         run: npm run quality
 
-      - name: Ensure review report exists
+      - name: Verify quality report
         if: always()
         shell: bash
         run: |
-          test -f review-report.json || printf '%s\n' '{"generated":null,"summary":{"total":0,"pass":0,"hold":0},"records":[],"error":"quality gate did not produce report"}' > review-report.json
+          test -s review-report.json || { echo "::error::Quality gate did not produce review-report.json"; exit 1; }
+          node -e 'const r=require("./review-report.json"); if(!r.summary || r.summary.total<1) { console.error("Empty quality report"); process.exit(1) } console.log(r.summary)'
 
       - name: Summarize pipeline
+        if: always()
         shell: bash
         run: |
           count=$(find staging -type f -name '*.json' | wc -l)
@@ -58,7 +60,7 @@ jobs:
           echo "- Source branch: feature/hanka-ai" >> "$GITHUB_STEP_SUMMARY"
           echo "- Acquisition: bounded cache-first" >> "$GITHUB_STEP_SUMMARY"
           echo "- Staged candidates: $count" >> "$GITHUB_STEP_SUMMARY"
-          echo "- Quality report generated: yes" >> "$GITHUB_STEP_SUMMARY"
+          if test -s review-report.json; then node -e 'const r=require("./review-report.json"); console.log("- Quality: "+r.summary.pass+" PASS / "+r.summary.hold+" HOLD / "+r.summary.total+" total")' >> "$GITHUB_STEP_SUMMARY"; else echo "- Quality report: FAILED" >> "$GITHUB_STEP_SUMMARY"; fi
           echo "- Canonical Brain modified: no" >> "$GITHUB_STEP_SUMMARY"
           echo "- Vectorize modified: no" >> "$GITHUB_STEP_SUMMARY"
 
