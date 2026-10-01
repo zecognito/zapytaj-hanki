@@ -1,1 +1,14 @@
-{"name":"hanka-brain-wikidata-importer","private":true,"type":"module","scripts":{"import:cities":"node src/import.mjs cities","validate":"node src/validate-staging.mjs"},"dependencies":{"ajv":"^8.17.1","ajv-formats":"^3.0.1"}}
+{
+  "name": "hanka-brain-wikidata-importer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "import:cities": "node src/import.mjs cities",
+    "import:countries": "node src/country-enrichment.mjs",
+    "validate": "node src/validate-staging.mjs"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
+}
