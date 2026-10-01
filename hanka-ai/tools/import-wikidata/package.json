@@ -5,7 +5,9 @@
   "scripts": {
     "import:cities": "node src/import.mjs cities",
     "import:countries": "node src/country-enrichment.mjs",
-    "validate": "node src/validate-staging.mjs"
+    "validate": "node src/validate-staging.mjs",
+    "import:all": "node src/orchestrate.mjs",
+    "import:family": "node src/orchestrate.mjs"
   },
   "dependencies": {
     "ajv": "^8.17.1",
