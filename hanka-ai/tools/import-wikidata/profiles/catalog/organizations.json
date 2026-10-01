@@ -1,0 +1,24 @@
+{
+  "name": "organizations",
+  "family": "organizations",
+  "topic": "international",
+  "subtopic": "organization-profile",
+  "source": "wikidata",
+  "selector": {
+    "instanceOf": "Q43229",
+    "includeSubclasses": true
+  },
+  "properties": [
+    "P571",
+    "P159",
+    "P17",
+    "P856"
+  ],
+  "languagePriority": [
+    "pl",
+    "en"
+  ],
+  "output": "organizations",
+  "status": "mapped",
+  "enabled": false
+}
