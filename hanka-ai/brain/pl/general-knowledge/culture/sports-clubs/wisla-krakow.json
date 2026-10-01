@@ -1,0 +1,20 @@
+{
+  "id": "wisla-krakow",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "sports-clubs",
+  "title": "Wisła Kraków",
+  "facts": [
+    "Wisła Kraków to klub piłkarski związany z Polską.",
+    "Ten temat stanowi część polskiej historii i kultury sportowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.gov.pl/web/sport"
+  ],
+  "related_public_pages": []
+}

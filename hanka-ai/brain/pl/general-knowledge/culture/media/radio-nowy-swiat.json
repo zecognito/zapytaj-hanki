@@ -1,0 +1,20 @@
+{
+  "id": "radio-nowy-swiat",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "media",
+  "title": "Radio Nowy Świat",
+  "facts": [
+    "Radio Nowy Świat to radio internetowe związany z Polską.",
+    "Ten temat stanowi część polskiej historii mediów i komunikacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.gov.pl/web/krrit"
+  ],
+  "related_public_pages": []
+}

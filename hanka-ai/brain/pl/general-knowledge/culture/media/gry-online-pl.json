@@ -1,0 +1,20 @@
+{
+  "id": "gry-online-pl",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "media",
+  "title": "Gry-Online.pl",
+  "facts": [
+    "Gry-Online.pl to portal o grach związany z Polską.",
+    "Ten temat stanowi część polskiej historii mediów i komunikacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.gov.pl/web/krrit"
+  ],
+  "related_public_pages": []
+}

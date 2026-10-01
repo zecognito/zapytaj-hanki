@@ -1,0 +1,20 @@
+{
+  "id": "metoda-czochralskiego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "technology-and-products",
+  "title": "Metoda Czochralskiego",
+  "facts": [
+    "Metoda Czochralskiego to metoda technologiczna związany z Polską.",
+    "Ten temat stanowi część polskiej historii techniki, przemysłu lub innowacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.gov.pl/web/nauka"
+  ],
+  "related_public_pages": []
+}

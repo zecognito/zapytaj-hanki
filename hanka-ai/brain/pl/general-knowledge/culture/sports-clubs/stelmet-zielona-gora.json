@@ -1,0 +1,20 @@
+{
+  "id": "stelmet-zielona-gora",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "sports-clubs",
+  "title": "Stelmet Zielona Góra",
+  "facts": [
+    "Stelmet Zielona Góra to klub koszykarski związany z Polską.",
+    "Ten temat stanowi część polskiej historii i kultury sportowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.gov.pl/web/sport"
+  ],
+  "related_public_pages": []
+}

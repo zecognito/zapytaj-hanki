@@ -1,0 +1,20 @@
+{
+  "id": "norbert-ozimek",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "culture",
+  "subtopic": "sports-history",
+  "title": "Norbert Ozimek",
+  "facts": [
+    "Norbert Ozimek to sztangista związany z Polską.",
+    "Ten temat stanowi część polskiej historii i kultury sportowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://olimpijski.pl/"
+  ],
+  "related_public_pages": []
+}
