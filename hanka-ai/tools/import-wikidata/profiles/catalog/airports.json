@@ -1,0 +1,23 @@
+{
+  "name": "airports",
+  "family": "infrastructure",
+  "topic": "transportation",
+  "subtopic": "airport-profile",
+  "source": "wikidata",
+  "selector": {
+    "instanceOf": "Q1248784",
+    "includeSubclasses": true
+  },
+  "properties": [
+    "P17",
+    "P238",
+    "P625"
+  ],
+  "languagePriority": [
+    "pl",
+    "en"
+  ],
+  "output": "airports",
+  "status": "mapped",
+  "enabled": false
+}
