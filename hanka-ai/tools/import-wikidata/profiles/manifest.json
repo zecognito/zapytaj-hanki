@@ -5,9 +5,10 @@
       "name": "country-enrichment",
       "family": "places",
       "runner": "country-enrichment.mjs",
-      "enabled": true,
+      "enabled": false,
       "batchSize": 25,
-      "maxPages": 20
+      "maxPages": 20,
+      "note": "graduated test bed; excluded from mass expansion pipeline"
     },
     {
       "name": "cities",
