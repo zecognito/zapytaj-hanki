@@ -1,0 +1,24 @@
+{
+  "name": "writers",
+  "family": "people",
+  "topic": "people",
+  "subtopic": "writer-profile",
+  "source": "wikidata",
+  "selector": {
+    "instanceOf": "Q49757",
+    "includeSubclasses": true
+  },
+  "properties": [
+    "P569",
+    "P570",
+    "P19",
+    "P106"
+  ],
+  "languagePriority": [
+    "pl",
+    "en"
+  ],
+  "output": "writers",
+  "status": "mapped",
+  "enabled": false
+}
