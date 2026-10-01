@@ -1,3 +1,5 @@
 node_modules/
 staging/**/*.json
 !staging/.gitkeep
+cache/**/*.json
+!cache/.gitkeep
