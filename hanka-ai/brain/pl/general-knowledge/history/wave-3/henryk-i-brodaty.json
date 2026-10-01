@@ -1,0 +1,21 @@
+{
+  "id": "henryk-i-brodaty",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Henryk I Brodaty",
+  "facts": [
+    "Henryk I Brodaty był księciem śląskim i jednym z najpotężniejszych Piastów pierwszej połowy XIII wieku.",
+    "Rozszerzył swoje wpływy na Kraków i Wielkopolskę, wzmacniając tzw. monarchię Henryków śląskich."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

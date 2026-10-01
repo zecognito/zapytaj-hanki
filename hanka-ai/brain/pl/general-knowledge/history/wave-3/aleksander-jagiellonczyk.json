@@ -1,0 +1,21 @@
+{
+  "id": "aleksander-jagiellonczyk",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Aleksander Jagiellończyk",
+  "facts": [
+    "Aleksander Jagiellończyk był wielkim księciem litewskim, a od 1501 roku królem Polski.",
+    "Za jego panowania uchwalono konstytucję Nihil novi w 1505 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rzad-rp-na-uchodzstwie-w-londynie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Rząd RP na uchodźstwie w Londynie",
+  "facts": [
+    "Po upadku Francji w 1940 roku polskie władze przeniosły siedzibę do Londynu.",
+    "Rząd kierował polskim wysiłkiem wojennym na Zachodzie i utrzymywał łączność z Polskim Państwem Podziemnym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

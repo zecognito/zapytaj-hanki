@@ -1,0 +1,21 @@
+{
+  "id": "korona-krolestwa-polskiego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Korona Królestwa Polskiego",
+  "facts": [
+    "Korona Królestwa Polskiego oznaczała państwo jako trwałą wspólnotę prawną, odrębną od osoby aktualnego monarchy.",
+    "Koncepcja ta rozwijała się w późnym średniowieczu i wzmacniała ideę niepodzielności terytorium państwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "krolestwo-polskie-po-1815",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Królestwo Polskie po 1815",
+  "facts": [
+    "Królestwo Polskie utworzono na kongresie wiedeńskim i połączono unią personalną z Imperium Rosyjskim.",
+    "Otrzymało konstytucję, własny sejm, administrację i wojsko, lecz jego autonomia była stopniowo ograniczana."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

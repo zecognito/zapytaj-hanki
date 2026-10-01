@@ -1,0 +1,21 @@
+{
+  "id": "przywilej-koszycki-1374",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Przywilej koszycki 1374",
+  "facts": [
+    "Ludwik Węgierski wydał przywilej koszycki w 1374 roku dla polskiej szlachty.",
+    "W zamian za zgodę na sukcesję jednej z jego córek ograniczył m.in. podatek poradlnego nakładany na dobra szlacheckie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

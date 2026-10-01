@@ -1,0 +1,21 @@
+{
+  "id": "tadeusz-kosciuszko-jako-naczelnik",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Tadeusz Kościuszko jako Naczelnik",
+  "facts": [
+    "24 marca 1794 roku Tadeusz Kościuszko złożył na rynku w Krakowie przysięgę jako Najwyższy Naczelnik Siły Zbrojnej Narodowej.",
+    "Skupiał najwyższe dowództwo wojskowe i władzę wykonawczą insurekcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

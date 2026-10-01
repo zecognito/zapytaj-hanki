@@ -1,0 +1,21 @@
+{
+  "id": "autorament-narodowy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Autorament narodowy",
+  "facts": [
+    "Autorament narodowy obejmował tradycyjne formacje Rzeczypospolitej, przede wszystkim jazdę taką jak husaria i pancerni.",
+    "Funkcjonował równolegle z autoramentem cudzoziemskim opartym na zachodnioeuropejskich wzorcach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

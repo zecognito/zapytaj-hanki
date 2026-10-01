@@ -1,0 +1,21 @@
+{
+  "id": "pokoj-kaliski-1343",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Pokój kaliski 1343",
+  "facts": [
+    "Pokój zawarty w Kaliszu w 1343 roku zakończył konflikt Kazimierza Wielkiego z zakonem krzyżackim.",
+    "Polska odzyskała Kujawy i ziemię dobrzyńską, a Pomorze Gdańskie pozostało przy zakonie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

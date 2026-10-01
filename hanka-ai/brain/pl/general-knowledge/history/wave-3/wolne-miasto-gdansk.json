@@ -1,0 +1,21 @@
+{
+  "id": "wolne-miasto-gdansk",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Wolne Miasto Gdańsk",
+  "facts": [
+    "Wolne Miasto Gdańsk utworzono w 1920 roku pod ochroną Ligi Narodów.",
+    "Polska otrzymała w nim określone prawa dotyczące m.in. polityki zagranicznej, kolei, poczty i korzystania z portu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

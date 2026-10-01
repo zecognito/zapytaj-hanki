@@ -1,0 +1,21 @@
+{
+  "id": "kuznica-kollatajowska",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Kuźnica Kołłątajowska",
+  "facts": [
+    "Kuźnica Kołłątajowska była środowiskiem publicystów skupionych wokół Hugona Kołłątaja podczas Sejmu Wielkiego.",
+    "Jej autorzy propagowali reformy ustrojowe i rozszerzenie praw mieszczaństwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

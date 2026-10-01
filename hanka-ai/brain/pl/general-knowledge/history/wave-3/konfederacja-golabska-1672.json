@@ -1,0 +1,21 @@
+{
+  "id": "konfederacja-golabska-1672",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Konfederacja gołąbska 1672",
+  "facts": [
+    "Konfederacja gołąbska powstała w 1672 roku w obronie króla Michała Korybuta Wiśniowieckiego.",
+    "Była elementem ostrego konfliktu między dworem a opozycją magnacką."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

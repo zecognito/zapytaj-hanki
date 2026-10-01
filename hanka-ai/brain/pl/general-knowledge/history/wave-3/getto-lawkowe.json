@@ -1,0 +1,21 @@
+{
+  "id": "getto-lawkowe",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Getto ławkowe",
+  "facts": [
+    "Getto ławkowe było praktyką segregowania studentów żydowskich w wydzielonych miejscach sal wykładowych.",
+    "Wprowadzano je na części polskich uczelni od 1937 roku w atmosferze narastającego antysemityzmu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

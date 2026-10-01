@@ -1,0 +1,21 @@
+{
+  "id": "liberum-veto",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Liberum veto",
+  "facts": [
+    "Liberum veto umożliwiało posłowi sprzeciw wobec kontynuowania obrad sejmu i przyjętych uchwał.",
+    "Praktyka ta szczególnie destabilizowała parlamentaryzm Rzeczypospolitej w drugiej połowie XVII i XVIII wieku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

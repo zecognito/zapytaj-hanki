@@ -1,0 +1,21 @@
+{
+  "id": "ms-batory",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "MS Batory",
+  "facts": [
+    "MS Batory był transatlantykiem wprowadzonym do służby w 1936 roku.",
+    "Przed wojną obsługiwał połączenia z Ameryką Północną, a podczas wojny służył jako transportowiec aliancki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

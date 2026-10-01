@@ -1,0 +1,21 @@
+{
+  "id": "organizacja-ukrainskich-nacjonalistow",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Organizacja Ukraińskich Nacjonalistów",
+  "facts": [
+    "OUN powstała w 1929 roku z połączenia kilku ukraińskich organizacji nacjonalistycznych.",
+    "Stosowała także przemoc polityczną i terroryzm przeciw przedstawicielom państwa polskiego oraz przeciwnikom politycznym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

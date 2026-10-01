@@ -1,0 +1,21 @@
+{
+  "id": "wladyslaw-iii-warnenczyk",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Władysław III Warneńczyk",
+  "facts": [
+    "Władysław III był królem Polski od 1434 roku, a od 1440 także królem Węgier.",
+    "Zginął w 1444 roku w bitwie pod Warną przeciw armii osmańskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "generalny-inspektorat-sil-zbrojnych",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Generalny Inspektorat Sił Zbrojnych",
+  "facts": [
+    "Generalny Inspektorat Sił Zbrojnych utworzono po przewrocie majowym jako organ przygotowujący państwo do wojny.",
+    "Generalny Inspektor miał w razie konfliktu objąć funkcję Naczelnego Wodza."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

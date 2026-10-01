@@ -1,0 +1,21 @@
+{
+  "id": "incydent-orla-w-tallinnie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Incydent Orła w Tallinnie",
+  "facts": [
+    "We wrześniu 1939 roku estońskie władze internowały ORP Orzeł w Tallinnie.",
+    "Polska załoga odzyskała kontrolę nad okrętem i uciekła z portu w nocy z 17 na 18 września."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

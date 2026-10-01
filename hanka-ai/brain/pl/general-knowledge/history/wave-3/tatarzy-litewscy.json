@@ -1,0 +1,21 @@
+{
+  "id": "tatarzy-litewscy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Tatarzy litewscy",
+  "facts": [
+    "Tatarzy osiedlali się w Wielkim Księstwie Litewskim od średniowiecza i zachowali islam.",
+    "Służyli również wojskowo Rzeczypospolitej, tworząc własne chorągwie jazdy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

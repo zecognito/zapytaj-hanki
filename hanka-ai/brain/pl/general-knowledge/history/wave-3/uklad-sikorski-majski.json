@@ -1,0 +1,21 @@
+{
+  "id": "uklad-sikorski-majski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Układ Sikorski–Majski",
+  "facts": [
+    "30 lipca 1941 roku rząd RP i ZSRR podpisały układ przywracający stosunki dyplomatyczne.",
+    "Porozumienie umożliwiło zwolnienie wielu obywateli polskich z sowieckich więzień i łagrów oraz utworzenie Armii Polskiej w ZSRR."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

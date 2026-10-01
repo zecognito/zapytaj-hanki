@@ -1,0 +1,21 @@
+{
+  "id": "sojusz-polsko-francuski-1921",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Sojusz polsko-francuski 1921",
+  "facts": [
+    "Polska i Francja zawarły w 1921 roku układ polityczny i konwencję wojskową.",
+    "Sojusz był jednym z głównych elementów polskiego systemu bezpieczeństwa w okresie międzywojennym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

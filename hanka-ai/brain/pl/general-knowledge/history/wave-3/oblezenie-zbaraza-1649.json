@@ -1,0 +1,21 @@
+{
+  "id": "oblezenie-zbaraza-1649",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Oblężenie Zbaraża 1649",
+  "facts": [
+    "Latem 1649 roku wojska kozacko-tatarskie oblegały polski obóz w Zbarażu.",
+    "Oblężenie zakończyło się w związku z kampanią Jana Kazimierza i ugodą zborowską."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

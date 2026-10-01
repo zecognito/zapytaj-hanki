@@ -1,0 +1,21 @@
+{
+  "id": "zygmunt-sierakowski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Zygmunt Sierakowski",
+  "facts": [
+    "Zygmunt Sierakowski był oficerem armii rosyjskiej i dowódcą powstania styczniowego na Litwie.",
+    "Po klęsce został schwytany i stracony w Wilnie w czerwcu 1863 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

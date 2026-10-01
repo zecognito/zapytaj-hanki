@@ -1,0 +1,21 @@
+{
+  "id": "bitwa-o-ankone-1944",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Bitwa o Ankonę 1944",
+  "facts": [
+    "W lipcu 1944 roku 2 Korpus Polski przeprowadził operację zakończoną zdobyciem Ankony.",
+    "Zdobycie portu poprawiło zaopatrzenie alianckich wojsk walczących we Włoszech."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

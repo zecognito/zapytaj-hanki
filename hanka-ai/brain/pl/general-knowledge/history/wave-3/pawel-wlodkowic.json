@@ -1,0 +1,21 @@
+{
+  "id": "pawel-wlodkowic",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Paweł Włodkowic",
+  "facts": [
+    "Paweł Włodkowic był prawnikiem i rektorem Akademii Krakowskiej.",
+    "Na soborze w Konstancji argumentował przeciw przymusowemu nawracaniu pogan i bronił stanowiska Polski w sporze z zakonem krzyżackim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

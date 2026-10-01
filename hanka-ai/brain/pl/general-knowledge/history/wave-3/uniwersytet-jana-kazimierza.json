@@ -1,0 +1,21 @@
+{
+  "id": "uniwersytet-jana-kazimierza",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Uniwersytet Jana Kazimierza",
+  "facts": [
+    "Uniwersytet Jana Kazimierza we Lwowie należał do największych uczelni II RP.",
+    "Był ważnym ośrodkiem nauki, w tym matematyki, medycyny i prawa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

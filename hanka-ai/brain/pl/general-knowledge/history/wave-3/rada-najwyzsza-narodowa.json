@@ -1,0 +1,21 @@
+{
+  "id": "rada-najwyzsza-narodowa",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Rada Najwyższa Narodowa",
+  "facts": [
+    "Rada Najwyższa Narodowa została utworzona w maju 1794 roku jako centralny organ cywilny insurekcji kościuszkowskiej.",
+    "Kierowała administracją powstańczą pod zwierzchnictwem Tadeusza Kościuszki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

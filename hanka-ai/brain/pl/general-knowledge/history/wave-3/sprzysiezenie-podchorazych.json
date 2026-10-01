@@ -1,0 +1,21 @@
+{
+  "id": "sprzysiezenie-podchorazych",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Sprzysiężenie Podchorążych",
+  "facts": [
+    "Sprzysiężenie Podchorążych było tajną organizacją wojskową założoną w 1828 roku w Warszawie.",
+    "Jej członkowie pod wodzą Piotra Wysockiego rozpoczęli noc listopadową w 1830 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

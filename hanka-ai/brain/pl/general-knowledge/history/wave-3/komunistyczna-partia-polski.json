@@ -1,0 +1,21 @@
+{
+  "id": "komunistyczna-partia-polski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Komunistyczna Partia Polski",
+  "facts": [
+    "Komunistyczna Partia Polski działała nielegalnie w II Rzeczypospolitej i była związana z Międzynarodówką Komunistyczną.",
+    "W 1938 roku została rozwiązana decyzją Kominternu, a wielu jej działaczy padło wcześniej ofiarą stalinowskich czystek."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "wladyslaw-grabski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Władysław Grabski",
+  "facts": [
+    "Władysław Grabski był ekonomistą i premierem, który w 1924 roku przeprowadził reformę skarbowo-walutową.",
+    "Reforma ustabilizowała finanse państwa i wprowadziła złotego w miejsce marki polskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "autorament-cudzoziemski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Autorament cudzoziemski",
+  "facts": [
+    "Autorament cudzoziemski obejmował piechotę, rajtarię i dragonów organizowanych według zachodnioeuropejskich wzorców.",
+    "Rozwijał się szczególnie w XVII wieku jako część modernizacji armii Rzeczypospolitej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

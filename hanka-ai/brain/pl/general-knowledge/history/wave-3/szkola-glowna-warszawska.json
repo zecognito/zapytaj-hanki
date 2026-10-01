@@ -1,0 +1,21 @@
+{
+  "id": "szkola-glowna-warszawska",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Szkoła Główna Warszawska",
+  "facts": [
+    "Szkoła Główna Warszawska działała w latach 1862–1869 jako polskojęzyczna uczelnia w Warszawie.",
+    "Wykształciła pokolenie późniejszych naukowców, lekarzy, prawników i pisarzy polskiego pozytywizmu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

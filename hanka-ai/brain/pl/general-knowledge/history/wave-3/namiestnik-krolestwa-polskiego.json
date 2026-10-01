@@ -1,0 +1,21 @@
+{
+  "id": "namiestnik-krolestwa-polskiego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Namiestnik Królestwa Polskiego",
+  "facts": [
+    "Namiestnik reprezentował króla Polski, którym był car rosyjski, w administracji Królestwa Polskiego.",
+    "Pierwszym namiestnikiem został generał Józef Zajączek."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

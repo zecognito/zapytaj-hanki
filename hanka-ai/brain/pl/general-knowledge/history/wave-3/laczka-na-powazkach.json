@@ -1,0 +1,21 @@
+{
+  "id": "laczka-na-powazkach",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Łączka na Powązkach",
+  "facts": [
+    "Na obszarze zwanym Łączką na Cmentarzu Wojskowym na Powązkach potajemnie grzebano część osób straconych przez komunistyczny aparat bezpieczeństwa.",
+    "W XXI wieku prowadzono tam ekshumacje i identyfikacje genetyczne ofiar."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

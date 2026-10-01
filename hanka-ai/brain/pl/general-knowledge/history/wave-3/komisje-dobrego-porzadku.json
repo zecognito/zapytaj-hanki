@@ -1,0 +1,21 @@
+{
+  "id": "komisje-dobrego-porzadku",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Komisje dobrego porządku",
+  "facts": [
+    "Komisje dobrego porządku powoływano w XVIII wieku dla poprawy zarządzania miastami królewskimi.",
+    "Zajmowały się m.in. finansami miejskimi, zabudową, porządkiem, drogami i sprawami sanitarnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

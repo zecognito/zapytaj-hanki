@@ -1,0 +1,21 @@
+{
+  "id": "bitwa-pod-chelmem-1794",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Bitwa pod Chełmem 1794",
+  "facts": [
+    "8 czerwca 1794 roku wojska polskie generała Józefa Zajączka walczyły pod Chełmem z armią rosyjską.",
+    "Starcie zakończyło się porażką strony polskiej podczas insurekcji kościuszkowskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

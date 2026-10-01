@@ -1,0 +1,21 @@
+{
+  "id": "autonomia-wojewodztwa-slaskiego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Autonomia województwa śląskiego",
+  "facts": [
+    "Województwo śląskie posiadało w II RP autonomię opartą na Statucie Organicznym z 1920 roku.",
+    "Miało własny Sejm Śląski i Skarb Śląski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

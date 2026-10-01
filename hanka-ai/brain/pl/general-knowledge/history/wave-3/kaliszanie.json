@@ -1,0 +1,21 @@
+{
+  "id": "kaliszanie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Kaliszanie",
+  "facts": [
+    "Kaliszanie byli liberalną opozycją sejmową w Królestwie Polskim, skupioną wokół braci Wincentego i Bonawentury Niemojowskich.",
+    "Domagali się przestrzegania konstytucji z 1815 roku i praw parlamentu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

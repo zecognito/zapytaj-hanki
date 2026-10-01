@@ -1,0 +1,21 @@
+{
+  "id": "polskie-sily-zbrojne-na-zachodzie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Polskie Siły Zbrojne na Zachodzie",
+  "facts": [
+    "Polskie Siły Zbrojne na Zachodzie walczyły u boku aliantów w Europie, Afryce i na morzu.",
+    "Obejmowały jednostki lądowe, lotnictwo i marynarkę, a ich żołnierze walczyli m.in. pod Narwikiem, Tobrukiem, Monte Cassino, Falaise i Arnhem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

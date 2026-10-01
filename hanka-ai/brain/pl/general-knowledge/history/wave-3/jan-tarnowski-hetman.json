@@ -1,0 +1,21 @@
+{
+  "id": "jan-tarnowski-hetman",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Jan Tarnowski hetman",
+  "facts": [
+    "Jan Tarnowski był hetmanem wielkim koronnym i jednym z najwybitniejszych dowódców XVI-wiecznej Polski.",
+    "Dowodził zwycięską armią pod Obertynem w 1531 roku i rozwijał polską sztukę wojenną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ms-pilsudski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "MS Piłsudski",
+  "facts": [
+    "MS Piłsudski był polskim transatlantykiem zbudowanym dla linii Gdynia–Ameryka.",
+    "Wszedł do służby w 1935 roku i był symbolem rozwoju polskiej żeglugi pasażerskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

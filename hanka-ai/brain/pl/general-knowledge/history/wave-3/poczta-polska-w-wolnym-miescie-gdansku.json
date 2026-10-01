@@ -1,0 +1,21 @@
+{
+  "id": "poczta-polska-w-wolnym-miescie-gdansku",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Poczta Polska w Wolnym Mieście Gdańsku",
+  "facts": [
+    "Polska prowadziła własną służbę pocztową na terenie Wolnego Miasta Gdańska.",
+    "1 września 1939 roku pracownicy Poczty Polskiej bronili gmachu przed niemieckim atakiem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

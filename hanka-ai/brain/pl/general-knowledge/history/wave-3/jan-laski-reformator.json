@@ -1,0 +1,21 @@
+{
+  "id": "jan-laski-reformator",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Jan Łaski reformator",
+  "facts": [
+    "Jan Łaski był polskim duchownym i reformátorem protestanckim działającym w kilku krajach Europy.",
+    "Po powrocie do Polski próbował doprowadzić do porozumienia różnych nurtów reformacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

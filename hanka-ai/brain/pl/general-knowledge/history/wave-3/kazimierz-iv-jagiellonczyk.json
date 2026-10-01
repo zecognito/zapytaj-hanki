@@ -1,0 +1,21 @@
+{
+  "id": "kazimierz-iv-jagiellonczyk",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Kazimierz IV Jagiellończyk",
+  "facts": [
+    "Kazimierz IV Jagiellończyk był królem Polski w latach 1447–1492.",
+    "Za jego panowania Polska wygrała wojnę trzynastoletnią z zakonem krzyżackim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

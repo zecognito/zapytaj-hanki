@@ -1,0 +1,21 @@
+{
+  "id": "pierwsze-powstanie-slaskie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Pierwsze powstanie śląskie",
+  "facts": [
+    "Pierwsze powstanie śląskie wybuchło w sierpniu 1919 roku przeciw niemieckiej administracji i represjom.",
+    "Zostało stłumione po kilku dniach, ale umiędzynarodowiło problem Górnego Śląska."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

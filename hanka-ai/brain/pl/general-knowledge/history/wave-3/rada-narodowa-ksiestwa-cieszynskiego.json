@@ -1,0 +1,21 @@
+{
+  "id": "rada-narodowa-ksiestwa-cieszynskiego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Rada Narodowa Księstwa Cieszyńskiego",
+  "facts": [
+    "Rada Narodowa Księstwa Cieszyńskiego powstała w październiku 1918 roku jako polski organ polityczny na Śląsku Cieszyńskim.",
+    "Przejęła lokalną administrację i opowiadała się za przyłączeniem regionu do odradzającej się Polski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

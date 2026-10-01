@@ -1,0 +1,21 @@
+{
+  "id": "ordynacje-magnackie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Ordynacje magnackie",
+  "facts": [
+    "Ordynacje były wielkimi kompleksami dóbr rodowych, których nie można było swobodnie dzielić ani sprzedawać.",
+    "Służyły utrzymaniu potęgi majątkowej najważniejszych rodzin magnackich przez kolejne pokolenia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

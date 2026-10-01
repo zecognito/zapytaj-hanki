@@ -1,0 +1,21 @@
+{
+  "id": "plebiscyt-na-warmii-i-mazurach",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Plebiscyt na Warmii i Mazurach",
+  "facts": [
+    "11 lipca 1920 roku przeprowadzono plebiscyt na Warmii, Mazurach i Powiślu.",
+    "Zdecydowana większość głosujących opowiedziała się za pozostaniem tych terenów w Niemczech."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

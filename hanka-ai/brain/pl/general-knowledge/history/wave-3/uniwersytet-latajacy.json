@@ -1,0 +1,21 @@
+{
+  "id": "uniwersytet-latajacy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Uniwersytet Latający",
+  "facts": [
+    "Uniwersytet Latający prowadził od końca XIX wieku tajne wykłady w Warszawie poza kontrolą władz rosyjskich.",
+    "Szczególnie ważny był dla edukacji kobiet, które nie miały pełnego dostępu do studiów uniwersyteckich."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

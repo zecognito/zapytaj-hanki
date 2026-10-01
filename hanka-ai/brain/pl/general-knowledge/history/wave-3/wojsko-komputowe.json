@@ -1,0 +1,21 @@
+{
+  "id": "wojsko-komputowe",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Wojsko komputowe",
+  "facts": [
+    "Wojsko komputowe było stałą armią Rzeczypospolitej utrzymywaną z podatków uchwalanych przez sejm.",
+    "Komput określał liczebność i strukturę jednostek opłacanych przez państwo."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

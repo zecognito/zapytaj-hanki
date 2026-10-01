@@ -1,0 +1,21 @@
+{
+  "id": "konfederacja-szczebrzeszynska-1672",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Konfederacja szczebrzeszyńska 1672",
+  "facts": [
+    "Konfederacja szczebrzeszyńska skupiała przeciwników obozu królewskiego w 1672 roku.",
+    "Jej powstanie było odpowiedzią polityczną na konfederację gołąbską."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

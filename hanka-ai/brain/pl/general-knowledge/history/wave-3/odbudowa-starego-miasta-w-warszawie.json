@@ -1,0 +1,21 @@
+{
+  "id": "odbudowa-starego-miasta-w-warszawie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Odbudowa Starego Miasta w Warszawie",
+  "facts": [
+    "Warszawskie Stare Miasto zostało po wojnie pieczołowicie zrekonstruowane po niemal całkowitym zniszczeniu.",
+    "Rekonstrukcję oparto na dokumentacji architektonicznej, zachowanych fragmentach i źródłach ikonograficznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

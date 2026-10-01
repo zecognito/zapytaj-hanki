@@ -1,0 +1,21 @@
+{
+  "id": "bitwa-o-narwik-i-polacy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Bitwa o Narwik i Polacy",
+  "facts": [
+    "Polska Brygada Podhalańska uczestniczyła w maju 1940 roku w walkach o Narwik w Norwegii.",
+    "Był to jeden z pierwszych większych sukcesów bojowych polskich wojsk lądowych po kampanii wrześniowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

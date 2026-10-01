@@ -1,0 +1,21 @@
+{
+  "id": "handel-zbozem-przez-gdansk",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Handel zbożem przez Gdańsk",
+  "facts": [
+    "Gdańsk był najważniejszym portem eksportowym Rzeczypospolitej w XVI i XVII wieku.",
+    "Zboże spławiane Wisłą trafiało przez Gdańsk na rynki Europy Zachodniej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "reforma-walutowa-grabskiego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Reforma walutowa Grabskiego",
+  "facts": [
+    "Reforma z 1924 roku zastąpiła zdewaluowaną markę polską nowym złotym.",
+    "Jednocześnie utworzono Bank Polski SA jako bank emisyjny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

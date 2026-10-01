@@ -1,0 +1,21 @@
+{
+  "id": "zegluga-polska",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Żegluga Polska",
+  "facts": [
+    "Państwowe przedsiębiorstwo Żegluga Polska utworzono w 1926 roku.",
+    "Rozwijało polską flotę handlową i regularne połączenia morskie z Gdyni."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

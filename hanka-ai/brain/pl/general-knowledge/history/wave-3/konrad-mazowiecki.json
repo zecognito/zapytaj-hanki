@@ -1,0 +1,21 @@
+{
+  "id": "konrad-mazowiecki",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Konrad Mazowiecki",
+  "facts": [
+    "Konrad Mazowiecki był księciem mazowieckim i kujawskim w XIII wieku.",
+    "W 1226 roku związał się z zakonem krzyżackim, licząc na jego pomoc w walce z Prusami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "panstwowy-urzad-repatriacyjny",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Państwowy Urząd Repatriacyjny",
+  "facts": [
+    "Państwowy Urząd Repatriacyjny powstał w 1944 roku i organizował masowe przemieszczenia ludności po wojnie.",
+    "Pomagał m.in. przesiedleńcom z Kresów i osadnikom kierowanym na ziemie zachodnie i północne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

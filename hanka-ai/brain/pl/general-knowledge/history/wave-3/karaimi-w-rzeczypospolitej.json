@@ -1,0 +1,21 @@
+{
+  "id": "karaimi-w-rzeczypospolitej",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Karaimi w Rzeczypospolitej",
+  "facts": [
+    "Karaimi tworzyli niewielkie wspólnoty religijne m.in. w Trokach, Łucku i Haliczu.",
+    "Ich obecność była częścią wielowyznaniowego charakteru dawnej Rzeczypospolitej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

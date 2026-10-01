@@ -1,0 +1,21 @@
+{
+  "id": "polskie-linie-lotnicze-lot-1929",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Polskie Linie Lotnicze LOT 1929",
+  "facts": [
+    "Polskie Linie Lotnicze LOT rozpoczęły działalność 1 stycznia 1929 roku.",
+    "Przedsiębiorstwo połączyło krajowe linie lotnicze i rozwijało sieć połączeń międzynarodowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

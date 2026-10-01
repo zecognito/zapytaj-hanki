@@ -1,0 +1,21 @@
+{
+  "id": "gwarancje-brytyjskie-dla-polski-1939",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Gwarancje brytyjskie dla Polski 1939",
+  "facts": [
+    "31 marca 1939 roku premier Neville Chamberlain ogłosił brytyjską gwarancję pomocy dla Polski w razie zagrożenia jej niepodległości.",
+    "Była odpowiedzią na rosnącą presję III Rzeszy w Europie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

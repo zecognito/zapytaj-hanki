@@ -1,0 +1,21 @@
+{
+  "id": "powstanie-wilenskie-1794",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Powstanie wileńskie 1794",
+  "facts": [
+    "W nocy z 22 na 23 kwietnia 1794 roku powstańcy pod wodzą Jakuba Jasińskiego opanowali Wilno.",
+    "Wydarzenie rozszerzyło insurekcję kościuszkowską na Wielkie Księstwo Litewskie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "demokracja-szlachecka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Demokracja szlachecka",
+  "facts": [
+    "Demokracja szlachecka była systemem politycznym, w którym stan szlachecki posiadał szerokie prawa udziału w rządzeniu.",
+    "Jej instytucjami były m.in. sejm walny, sejmiki ziemskie i wolna elekcja."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

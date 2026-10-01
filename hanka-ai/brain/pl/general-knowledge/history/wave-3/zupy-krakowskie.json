@@ -1,0 +1,21 @@
+{
+  "id": "zupy-krakowskie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Żupy krakowskie",
+  "facts": [
+    "Kopalnie soli w Wieliczce i Bochni tworzyły królewskie przedsiębiorstwo znane jako żupy krakowskie.",
+    "Dochody z soli stanowiły ważną część finansów monarchii Kazimierza Wielkiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

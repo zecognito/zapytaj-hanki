@@ -1,0 +1,21 @@
+{
+  "id": "jan-i-olbracht",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Jan I Olbracht",
+  "facts": [
+    "Jan I Olbracht był królem Polski w latach 1492–1501.",
+    "Jego panowanie zapamiętano m.in. z nieudanej wyprawy mołdawskiej w 1497 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

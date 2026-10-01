@@ -1,0 +1,21 @@
+{
+  "id": "o-poprawie-rzeczypospolitej",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "O poprawie Rzeczypospolitej",
+  "facts": [
+    "O poprawie Rzeczypospolitej Andrzeja Frycza Modrzewskiego ukazało się w XVI wieku.",
+    "Dzieło przedstawiało szeroki program reform państwa, prawa, obyczajów, Kościoła i edukacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kazimierz-ii-sprawiedliwy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Kazimierz II Sprawiedliwy",
+  "facts": [
+    "Kazimierz II Sprawiedliwy był najmłodszym synem Bolesława Krzywoustego i od 1177 roku księciem krakowskim.",
+    "Jego przejęcie Krakowa osłabiło zasadę senioratu ustanowioną testamentem Krzywoustego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

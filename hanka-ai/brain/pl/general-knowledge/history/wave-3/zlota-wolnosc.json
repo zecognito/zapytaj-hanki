@@ -1,0 +1,21 @@
+{
+  "id": "zlota-wolnosc",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Złota wolność",
+  "facts": [
+    "Złota wolność oznaczała zespół praw politycznych szlachty Rzeczypospolitej.",
+    "Obejmowała m.in. udział w elekcji króla, reprezentację sejmową i prawo do konfederacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

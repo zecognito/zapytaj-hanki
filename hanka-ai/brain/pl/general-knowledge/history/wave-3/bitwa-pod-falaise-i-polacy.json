@@ -1,0 +1,21 @@
+{
+  "id": "bitwa-pod-falaise-i-polacy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Bitwa pod Falaise i Polacy",
+  "facts": [
+    "W sierpniu 1944 roku 1 Dywizja Pancerna generała Maczka walczyła w kotle Falaise.",
+    "Polacy bronili kluczowych pozycji na wzgórzu Mont Ormel, pomagając zamknąć drogę odwrotu niemieckim oddziałom."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

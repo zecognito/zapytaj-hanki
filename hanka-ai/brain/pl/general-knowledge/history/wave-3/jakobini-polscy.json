@@ -1,0 +1,21 @@
+{
+  "id": "jakobini-polscy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Jakobini polscy",
+  "facts": [
+    "Polscy jakobini tworzyli radykalny nurt polityczny podczas insurekcji kościuszkowskiej.",
+    "Domagali się głębszych reform społecznych i zdecydowanej walki z przeciwnikami powstania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

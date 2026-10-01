@@ -1,0 +1,21 @@
+{
+  "id": "boleslaw-iv-kedzierzawy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Bolesław IV Kędzierzawy",
+  "facts": [
+    "Bolesław IV Kędzierzawy był księciem mazowieckim i seniorem Polski w okresie rozbicia dzielnicowego.",
+    "Objął władzę senioralną po wygnaniu Władysława II w 1146 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

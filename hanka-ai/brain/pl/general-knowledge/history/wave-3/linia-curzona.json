@@ -1,0 +1,21 @@
+{
+  "id": "linia-curzona",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Linia Curzona",
+  "facts": [
+    "Linia Curzona była propozycją linii rozgraniczenia między Polską a Rosją przedstawioną w czasie wojny polsko-bolszewickiej.",
+    "Podczas II wojny światowej alianci wykorzystali jej zmodyfikowany przebieg jako podstawę powojennej granicy polsko-sowieckiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

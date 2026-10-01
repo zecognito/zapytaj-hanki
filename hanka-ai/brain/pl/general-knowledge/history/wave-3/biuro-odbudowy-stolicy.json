@@ -1,0 +1,21 @@
+{
+  "id": "biuro-odbudowy-stolicy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Biuro Odbudowy Stolicy",
+  "facts": [
+    "Biuro Odbudowy Stolicy utworzono w 1945 roku do planowania odbudowy zniszczonej Warszawy.",
+    "Instytucja przygotowywała plany urbanistyczne i dokumentowała skalę wojennych zniszczeń."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

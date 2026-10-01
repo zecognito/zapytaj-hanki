@@ -1,0 +1,21 @@
+{
+  "id": "kanclerz-wielki-koronny",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Kanclerz wielki koronny",
+  "facts": [
+    "Kanclerz wielki koronny należał do najwyższych urzędników Korony.",
+    "Kierował kancelarią królewską i odgrywał ważną rolę w polityce zagranicznej państwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "unia-krakowsko-wilenska-1499",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Unia krakowsko-wileńska 1499",
+  "facts": [
+    "Porozumienie z 1499 roku odnawiało sojusz Polski i Litwy.",
+    "Oba państwa zobowiązywały się m.in. do wzajemnej pomocy i konsultowania wyboru władcy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "piotr-wysocki",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Piotr Wysocki",
+  "facts": [
+    "Piotr Wysocki był instruktorem Szkoły Podchorążych Piechoty w Warszawie i przywódcą konspiracji wojskowej.",
+    "29 listopada 1830 roku dał sygnał do rozpoczęcia powstania listopadowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

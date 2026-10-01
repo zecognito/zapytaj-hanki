@@ -1,0 +1,21 @@
+{
+  "id": "orp-orzel",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "ORP Orzeł",
+  "facts": [
+    "ORP Orzeł był nowoczesnym polskim okrętem podwodnym, który we wrześniu 1939 roku uciekł z internowania w Tallinnie.",
+    "Bez map nawigacyjnych dotarł do Wielkiej Brytanii i później uczestniczył w działaniach wojennych na Morzu Północnym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

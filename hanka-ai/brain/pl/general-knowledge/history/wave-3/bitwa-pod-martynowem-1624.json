@@ -1,0 +1,21 @@
+{
+  "id": "bitwa-pod-martynowem-1624",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Bitwa pod Martynowem 1624",
+  "facts": [
+    "W 1624 roku hetman Stanisław Koniecpolski pokonał Tatarów pod Martynowem.",
+    "Zwycięstwo pozwoliło odbić część jasyru uprowadzonego podczas najazdu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

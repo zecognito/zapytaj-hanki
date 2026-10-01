@@ -1,0 +1,21 @@
+{
+  "id": "port-w-gdyni",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Port w Gdyni",
+  "facts": [
+    "Budowę nowoczesnego portu w Gdyni rozpoczęto po odzyskaniu przez Polskę dostępu do morza.",
+    "W latach 30. Gdynia stała się jednym z największych portów Bałtyku i kluczowym oknem handlowym II RP."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

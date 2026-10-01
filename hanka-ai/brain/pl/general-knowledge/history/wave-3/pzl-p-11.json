@@ -1,0 +1,21 @@
+{
+  "id": "pzl-p-11",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "PZL P.11",
+  "facts": [
+    "PZL P.11 był polskim myśliwcem skonstruowanym przez zespół Zygmunta Puławskiego.",
+    "We wrześniu 1939 roku stanowił podstawowy typ myśliwca polskiego lotnictwa, choć był już technologicznie przestarzały."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

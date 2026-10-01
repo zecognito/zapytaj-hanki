@@ -1,0 +1,21 @@
+{
+  "id": "bulla-gnieznienska-1136",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Bulla gnieźnieńska 1136",
+  "facts": [
+    "Bulla papieża Innocentego II z 1136 roku potwierdzała dobra arcybiskupstwa gnieźnieńskiego.",
+    "Dokument zawiera setki polskich nazw osobowych i miejscowych, dlatego jest również ważnym zabytkiem historii języka polskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

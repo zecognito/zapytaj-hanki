@@ -1,0 +1,21 @@
+{
+  "id": "traktat-buczacki-1672",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Traktat buczacki 1672",
+  "facts": [
+    "Traktat buczacki zawarto po polskich porażkach w wojnie z Imperium Osmańskim.",
+    "Rzeczpospolita utraciła Podole i zobowiązała się do płacenia haraczu, czego sejm nie zaakceptował."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

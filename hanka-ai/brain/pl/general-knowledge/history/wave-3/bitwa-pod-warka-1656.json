@@ -1,0 +1,21 @@
+{
+  "id": "bitwa-pod-warka-1656",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Bitwa pod Warką 1656",
+  "facts": [
+    "7 kwietnia 1656 roku Stefan Czarniecki pokonał pod Warką szwedzki korpus.",
+    "Było to jedno z pierwszych większych polskich zwycięstw w fazie odwracania losów potopu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

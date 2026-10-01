@@ -1,0 +1,21 @@
+{
+  "id": "ludwik-wegierski-jako-krol-polski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Ludwik Węgierski jako król Polski",
+  "facts": [
+    "Ludwik Andegaweński został królem Polski po śmierci Kazimierza Wielkiego w 1370 roku.",
+    "Jego panowanie połączyło Polskę i Węgry unią personalną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bitwa-pod-polonka-1660",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Bitwa pod Połonką 1660",
+  "facts": [
+    "28 czerwca 1660 roku wojska Rzeczypospolitej pokonały armię rosyjską pod Połonką.",
+    "Zwycięstwo było częścią ofensywy podczas wojny polsko-rosyjskiej 1654–1667."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

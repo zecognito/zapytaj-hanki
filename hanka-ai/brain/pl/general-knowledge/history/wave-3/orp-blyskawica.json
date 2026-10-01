@@ -1,0 +1,21 @@
+{
+  "id": "orp-blyskawica",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "ORP Błyskawica",
+  "facts": [
+    "ORP Błyskawica był niszczycielem Polskiej Marynarki Wojennej ewakuowanym do Wielkiej Brytanii przed wybuchem wojny.",
+    "Walcząc u boku Royal Navy uczestniczył m.in. w kampanii norweskiej, operacjach atlantyckich i lądowaniu w Normandii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

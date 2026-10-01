@@ -1,0 +1,21 @@
+{
+  "id": "stanislaw-wigura",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Stanisław Wigura",
+  "facts": [
+    "Stanisław Wigura był inżynierem i konstruktorem samolotów zespołu RWD.",
+    "Jako mechanik i pilot sportowy współtworzył zwycięstwo Polski w Challenge 1932."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

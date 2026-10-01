@@ -1,0 +1,21 @@
+{
+  "id": "waclaw-ii-jako-krol-polski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Wacław II jako król Polski",
+  "facts": [
+    "Wacław II z dynastii Przemyślidów został koronowany na króla Polski w Gnieźnie w 1300 roku.",
+    "Jego władza objęła znaczną część ziem polskich, lecz dynastia Przemyślidów utraciła polską koronę po śmierci Wacława III w 1306 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

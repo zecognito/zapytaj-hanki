@@ -1,0 +1,21 @@
+{
+  "id": "bitwa-o-handel",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Bitwa o handel",
+  "facts": [
+    "Bitwa o handel była kampanią władz komunistycznych rozpoczętą w 1947 roku przeciw prywatnemu handlowi i przedsiębiorczości.",
+    "Za pomocą podatków, kontroli i regulacji państwo szybko zwiększało udział sektora uspołecznionego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

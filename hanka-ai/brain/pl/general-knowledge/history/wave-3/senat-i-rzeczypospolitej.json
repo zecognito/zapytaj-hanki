@@ -1,0 +1,21 @@
+{
+  "id": "senat-i-rzeczypospolitej",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Senat I Rzeczypospolitej",
+  "facts": [
+    "Senat skupiał najwyższych dostojników świeckich i duchownych Rzeczypospolitej.",
+    "Po unii lubelskiej był jedną z dwóch izb wspólnego parlamentu obok Izby Poselskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

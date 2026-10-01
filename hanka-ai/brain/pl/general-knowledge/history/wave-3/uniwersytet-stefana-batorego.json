@@ -1,0 +1,21 @@
+{
+  "id": "uniwersytet-stefana-batorego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Uniwersytet Stefana Batorego",
+  "facts": [
+    "Uniwersytet Stefana Batorego został reaktywowany w Wilnie w 1919 roku.",
+    "Był jednym z ważnych ośrodków akademickich II Rzeczypospolitej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

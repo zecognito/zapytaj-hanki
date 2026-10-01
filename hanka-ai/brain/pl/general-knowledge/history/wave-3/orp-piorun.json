@@ -1,0 +1,21 @@
+{
+  "id": "orp-piorun",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "ORP Piorun",
+  "facts": [
+    "ORP Piorun był niszczycielem przekazanym Polskiej Marynarce Wojennej przez Wielką Brytanię.",
+    "W maju 1941 roku uczestniczył w pościgu za niemieckim pancernikiem Bismarck i nawiązał z nim kontakt bojowy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

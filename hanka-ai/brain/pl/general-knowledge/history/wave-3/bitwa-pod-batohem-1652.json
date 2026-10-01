@@ -1,0 +1,21 @@
+{
+  "id": "bitwa-pod-batohem-1652",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Bitwa pod Batohem 1652",
+  "facts": [
+    "W czerwcu 1652 roku armia koronna poniosła ciężką klęskę pod Batohem w starciu z Kozakami i Tatarami.",
+    "Po bitwie doszło do masowego zabijania polskich jeńców."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

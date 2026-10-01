@@ -1,0 +1,21 @@
+{
+  "id": "scipione-piattoli",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Scipione Piattoli",
+  "facts": [
+    "Scipione Piattoli był włoskim duchownym i sekretarzem związanym z dworem Stanisława Augusta.",
+    "Uczestniczył w pracach nad projektem Konstytucji 3 maja."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

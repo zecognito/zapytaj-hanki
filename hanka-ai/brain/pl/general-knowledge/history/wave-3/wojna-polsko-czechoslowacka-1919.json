@@ -1,0 +1,21 @@
+{
+  "id": "wojna-polsko-czechoslowacka-1919",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Wojna polsko-czechosłowacka 1919",
+  "facts": [
+    "W styczniu 1919 roku wojska czechosłowackie zaatakowały obszary Śląska Cieszyńskiego kontrolowane przez stronę polską.",
+    "Walki przerwano pod naciskiem Ententy, a ostateczny podział regionu nastąpił w 1920 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

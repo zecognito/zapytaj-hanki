@@ -1,0 +1,21 @@
+{
+  "id": "sojusz-polsko-rumunski-1921",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Sojusz polsko-rumuński 1921",
+  "facts": [
+    "Polska i Rumunia zawarły w 1921 roku konwencję obronną skierowaną przede wszystkim przeciw zagrożeniu ze wschodu.",
+    "Współpraca obu państw była ważnym elementem polskiej polityki bezpieczeństwa między wojnami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

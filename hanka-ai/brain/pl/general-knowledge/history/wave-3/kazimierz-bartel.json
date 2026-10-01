@@ -1,0 +1,21 @@
+{
+  "id": "kazimierz-bartel",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Kazimierz Bartel",
+  "facts": [
+    "Kazimierz Bartel był matematykiem, profesorem Politechniki Lwowskiej i kilkakrotnym premierem po przewrocie majowym.",
+    "W 1941 roku został zamordowany przez Niemców we Lwowie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

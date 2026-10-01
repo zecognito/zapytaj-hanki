@@ -1,0 +1,21 @@
+{
+  "id": "obrona-tobruku-i-polacy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Obrona Tobruku i Polacy",
+  "facts": [
+    "Polska Samodzielna Brygada Strzelców Karpackich walczyła w oblężonym Tobruku w 1941 roku.",
+    "Jej żołnierze przez kilka miesięcy bronili twierdzy razem z oddziałami alianckimi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

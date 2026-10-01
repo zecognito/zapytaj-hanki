@@ -1,0 +1,21 @@
+{
+  "id": "towarzystwo-gimnastyczne-sokol",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Towarzystwo Gimnastyczne Sokół",
+  "facts": [
+    "Towarzystwo Gimnastyczne Sokół rozwijało kulturę fizyczną i wychowanie patriotyczne od drugiej połowy XIX wieku.",
+    "Przed 1914 rokiem jego struktury odegrały rolę w przygotowaniu części młodzieży do działalności niepodległościowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

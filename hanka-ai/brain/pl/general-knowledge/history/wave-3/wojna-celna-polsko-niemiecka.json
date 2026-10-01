@@ -1,0 +1,21 @@
+{
+  "id": "wojna-celna-polsko-niemiecka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Wojna celna polsko-niemiecka",
+  "facts": [
+    "Wojna celna rozpoczęła się w 1925 roku po ograniczeniu przez Niemcy importu części polskich towarów.",
+    "Konflikt skłonił Polskę do szukania nowych rynków i przyspieszył rozwój połączenia Śląska z Gdynią."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

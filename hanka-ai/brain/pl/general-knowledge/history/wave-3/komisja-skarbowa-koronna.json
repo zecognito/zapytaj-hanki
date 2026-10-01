@@ -1,0 +1,21 @@
+{
+  "id": "komisja-skarbowa-koronna",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Komisja Skarbowa Koronna",
+  "facts": [
+    "Komisja Skarbowa Koronna została utworzona w 1764 roku jako kolegialny organ zarządzający finansami Korony.",
+    "Nadzorowała m.in. dochody skarbowe, cła, mennice i część infrastruktury."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

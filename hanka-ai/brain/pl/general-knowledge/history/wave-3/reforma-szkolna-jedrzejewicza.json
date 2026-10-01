@@ -1,0 +1,21 @@
+{
+  "id": "reforma-szkolna-jedrzejewicza",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Reforma szkolna Jędrzejewicza",
+  "facts": [
+    "Reforma oświaty z 1932 roku ujednoliciła strukturę szkolnictwa II Rzeczypospolitej.",
+    "Wprowadziła m.in. sześcioletnią szkołę powszechną, gimnazjum i liceum w nowym układzie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

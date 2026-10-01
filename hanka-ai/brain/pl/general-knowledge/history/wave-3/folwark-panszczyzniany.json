@@ -1,0 +1,21 @@
+{
+  "id": "folwark-panszczyzniany",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Folwark pańszczyźniany",
+  "facts": [
+    "Folwark był gospodarstwem nastawionym na produkcję rynkową, wykorzystującym pracę pańszczyźnianą chłopów.",
+    "Rozwój folwarków wiązał się z eksportem zboża przez porty bałtyckie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

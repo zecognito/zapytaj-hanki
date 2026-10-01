@@ -1,0 +1,21 @@
+{
+  "id": "samodzielna-brygada-strzelcow-karpackich",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Samodzielna Brygada Strzelców Karpackich",
+  "facts": [
+    "Samodzielna Brygada Strzelców Karpackich została sformowana w 1940 roku na Bliskim Wschodzie.",
+    "W 1941 roku uczestniczyła w obronie Tobruku przed wojskami Osi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

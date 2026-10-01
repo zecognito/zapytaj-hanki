@@ -1,0 +1,21 @@
+{
+  "id": "bitwa-pod-legnica-1241",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Bitwa pod Legnicą 1241",
+  "facts": [
+    "9 kwietnia 1241 roku pod Legnicą wojska Henryka II Pobożnego starły się z armią mongolską.",
+    "Bitwa zakończyła się klęską wojsk Henryka i śmiercią księcia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

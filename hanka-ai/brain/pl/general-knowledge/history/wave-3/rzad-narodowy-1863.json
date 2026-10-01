@@ -1,0 +1,21 @@
+{
+  "id": "rzad-narodowy-1863",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Rząd Narodowy 1863",
+  "facts": [
+    "Rząd Narodowy był tajną władzą powstania styczniowego, posiadającą rozbudowaną administrację podziemną.",
+    "Wydawał dekrety, pobierał podatki i kierował walką partyzancką przeciw Imperium Rosyjskiemu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

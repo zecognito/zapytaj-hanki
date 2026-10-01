@@ -1,0 +1,21 @@
+{
+  "id": "marszalek-wielki-koronny",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Marszałek wielki koronny",
+  "facts": [
+    "Marszałek wielki koronny odpowiadał m.in. za porządek na dworze królewskim i bezpieczeństwo monarchy.",
+    "Był jednym z centralnych ministrów dawnej Rzeczypospolitej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

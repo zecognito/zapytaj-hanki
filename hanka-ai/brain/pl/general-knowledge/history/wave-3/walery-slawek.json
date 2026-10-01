@@ -1,0 +1,21 @@
+{
+  "id": "walery-slawek",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Walery Sławek",
+  "facts": [
+    "Walery Sławek był bliskim współpracownikiem Józefa Piłsudskiego i trzykrotnym premierem.",
+    "Odegrał ważną rolę w obozie sanacyjnym oraz pracach nad Konstytucją kwietniową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

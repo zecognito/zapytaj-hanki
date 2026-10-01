@@ -1,0 +1,21 @@
+{
+  "id": "samodzielna-brygada-strzelcow-podhalanskich",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Samodzielna Brygada Strzelców Podhalańskich",
+  "facts": [
+    "Samodzielna Brygada Strzelców Podhalańskich została sformowana we Francji w 1940 roku.",
+    "Uczestniczyła w alianckiej kampanii norweskiej i walkach o Narwik."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "plan-trzyletni-1947-1949",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Plan trzyletni 1947–1949",
+  "facts": [
+    "Plan trzyletni był pierwszym powojennym planem gospodarczym Polski, realizowanym w latach 1947–1949.",
+    "Koncentrował się na odbudowie produkcji, infrastruktury i poziomu życia po zniszczeniach wojennych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

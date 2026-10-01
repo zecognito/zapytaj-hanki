@@ -1,0 +1,21 @@
+{
+  "id": "wyprawa-moldawska-1497",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Wyprawa mołdawska 1497",
+  "facts": [
+    "Jan Olbracht poprowadził w 1497 roku wyprawę do Mołdawii.",
+    "Kampania zakończyła się odwrotem i ciężkimi stratami polskiego wojska, m.in. w lasach bukowińskich."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

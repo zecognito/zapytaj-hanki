@@ -1,0 +1,21 @@
+{
+  "id": "konfederacja-tyszowiecka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Konfederacja tyszowiecka",
+  "facts": [
+    "Konfederacja tyszowiecka została zawiązana pod koniec 1655 roku przeciw szwedzkiej okupacji.",
+    "Skupiła wojsko koronne wokół powracającego Jana Kazimierza i stała się ważnym elementem oporu podczas potopu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

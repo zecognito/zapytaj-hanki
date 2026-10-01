@@ -1,0 +1,21 @@
+{
+  "id": "zajecie-zaolzia-1938",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Zajęcie Zaolzia 1938",
+  "facts": [
+    "W październiku 1938 roku Polska zajęła Zaolzie po ultimatum skierowanym do Czechosłowacji.",
+    "Wydarzenie nastąpiło bezpośrednio po układzie monachijskim i pozostaje ważnym elementem oceny polskiej polityki zagranicznej przed wojną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

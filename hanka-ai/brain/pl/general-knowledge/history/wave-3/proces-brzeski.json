@@ -1,0 +1,21 @@
+{
+  "id": "proces-brzeski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Proces brzeski",
+  "facts": [
+    "W procesie brzeskim w latach 1931–1932 sądzono przywódców opozycyjnego Centrolewu.",
+    "Oskarżeni wcześniej byli więzieni w Twierdzy Brzeskiej po aresztowaniach zarządzonych przed wyborami 1930 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

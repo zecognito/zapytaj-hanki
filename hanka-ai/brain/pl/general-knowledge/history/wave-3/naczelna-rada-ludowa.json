@@ -1,0 +1,21 @@
+{
+  "id": "naczelna-rada-ludowa",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Naczelna Rada Ludowa",
+  "facts": [
+    "Naczelna Rada Ludowa była polskim ośrodkiem politycznym w zaborze pruskim w okresie odzyskiwania niepodległości.",
+    "Podczas powstania wielkopolskiego przejęła władzę cywilną na opanowanych terenach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "socrealizm-w-polsce",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Socrealizm w Polsce",
+  "facts": [
+    "Socrealizm został oficjalnie narzucony polskiej kulturze pod koniec lat 40. jako doktryna zgodna z ideologią komunistyczną.",
+    "Dominował w oficjalnej sztuce, literaturze i architekturze do politycznej odwilży połowy lat 50."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "arnhem-i-polscy-spadochroniarze",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Arnhem i polscy spadochroniarze",
+  "facts": [
+    "Polska 1 Samodzielna Brygada Spadochronowa została zrzucona w rejonie Driel podczas operacji Market Garden.",
+    "Polacy próbowali wesprzeć odcięte oddziały brytyjskie walczące pod Arnhem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

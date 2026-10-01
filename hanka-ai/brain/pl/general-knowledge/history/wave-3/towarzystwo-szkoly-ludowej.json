@@ -1,0 +1,21 @@
+{
+  "id": "towarzystwo-szkoly-ludowej",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Towarzystwo Szkoły Ludowej",
+  "facts": [
+    "Towarzystwo Szkoły Ludowej powstało w Galicji w 1891 roku.",
+    "Zakładało szkoły, biblioteki i czytelnie oraz wspierało polską oświatę ludową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

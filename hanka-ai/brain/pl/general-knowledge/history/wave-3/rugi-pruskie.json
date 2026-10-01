@@ -1,0 +1,21 @@
+{
+  "id": "rugi-pruskie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Rugi pruskie",
+  "facts": [
+    "W latach 1885–1890 władze Prus usuwały z państwa część Polaków nieposiadających obywatelstwa niemieckiego.",
+    "Akcja objęła dziesiątki tysięcy osób i stała się symbolem polityki germanizacyjnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

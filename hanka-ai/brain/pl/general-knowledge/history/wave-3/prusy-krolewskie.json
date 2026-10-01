@@ -1,0 +1,21 @@
+{
+  "id": "prusy-krolewskie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Prusy Królewskie",
+  "facts": [
+    "Prusy Królewskie powstały po drugim pokoju toruńskim w 1466 roku.",
+    "Obejmowały m.in. Pomorze Gdańskie, ziemię chełmińską, Malbork, Elbląg i Warmię, pozostając związane z Koroną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

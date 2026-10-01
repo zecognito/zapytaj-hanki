@@ -1,0 +1,21 @@
+{
+  "id": "bitwa-o-bolonie-1945",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Bitwa o Bolonię 1945",
+  "facts": [
+    "21 kwietnia 1945 roku oddziały 2 Korpusu Polskiego weszły do Bolonii.",
+    "Była to jedna z ostatnich dużych operacji polskich wojsk lądowych na froncie włoskim."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

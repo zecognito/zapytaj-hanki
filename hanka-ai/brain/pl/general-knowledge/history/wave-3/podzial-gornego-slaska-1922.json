@@ -1,0 +1,21 @@
+{
+  "id": "podzial-gornego-slaska-1922",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Podział Górnego Śląska 1922",
+  "facts": [
+    "Po plebiscycie i trzecim powstaniu śląskim Liga Narodów zdecydowała o podziale Górnego Śląska.",
+    "Polska otrzymała mniejszą część terytorium, ale znaczną część przemysłu regionu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

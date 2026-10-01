@@ -1,0 +1,21 @@
+{
+  "id": "przemysl-ii",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Przemysł II",
+  "facts": [
+    "Przemysł II był księciem wielkopolskim, który zjednoczył część ziem polskich.",
+    "W 1295 roku został koronowany w Gnieźnie na króla Polski, przywracając koronę królewską po ponad dwóch stuleciach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

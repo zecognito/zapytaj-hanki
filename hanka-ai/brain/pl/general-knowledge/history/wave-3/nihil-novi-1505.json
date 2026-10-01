@@ -1,0 +1,21 @@
+{
+  "id": "nihil-novi-1505",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Nihil novi 1505",
+  "facts": [
+    "Konstytucja Nihil novi została uchwalona na sejmie w Radomiu w 1505 roku.",
+    "Ograniczała możliwość stanowienia nowych praw przez króla bez zgody senatu i izby poselskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

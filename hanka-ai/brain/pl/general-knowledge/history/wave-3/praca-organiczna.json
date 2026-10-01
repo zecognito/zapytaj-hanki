@@ -1,0 +1,21 @@
+{
+  "id": "praca-organiczna",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Praca organiczna",
+  "facts": [
+    "Praca organiczna zakładała wzmacnianie polskiego społeczeństwa przez rozwój gospodarki, edukacji i instytucji społecznych.",
+    "Program zyskał szczególne znaczenie w zaborze pruskim i po klęskach powstań narodowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

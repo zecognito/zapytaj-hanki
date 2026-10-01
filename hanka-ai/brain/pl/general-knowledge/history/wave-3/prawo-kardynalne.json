@@ -1,0 +1,21 @@
+{
+  "id": "prawo-kardynalne",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Prawo kardynalne",
+  "facts": [
+    "Prawa kardynalne miały określać nienaruszalne podstawy ustroju Rzeczypospolitej.",
+    "W 1768 roku pod rosyjską gwarancją utrwalono wśród nich m.in. wolną elekcję i liberum veto."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

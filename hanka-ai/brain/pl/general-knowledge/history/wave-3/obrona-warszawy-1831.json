@@ -1,0 +1,21 @@
+{
+  "id": "obrona-warszawy-1831",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Obrona Warszawy 1831",
+  "facts": [
+    "6–7 września 1831 roku armia rosyjska szturmowała Warszawę.",
+    "Po utracie Woli i ciężkich walkach polskie władze zdecydowały o opuszczeniu stolicy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

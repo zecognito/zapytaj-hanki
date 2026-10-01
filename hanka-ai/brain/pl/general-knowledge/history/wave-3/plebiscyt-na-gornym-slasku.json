@@ -1,0 +1,21 @@
+{
+  "id": "plebiscyt-na-gornym-slasku",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Plebiscyt na Górnym Śląsku",
+  "facts": [
+    "20 marca 1921 roku mieszkańcy obszaru plebiscytowego Górnego Śląska głosowali nad przynależnością państwową.",
+    "Wynik i spór o podział regionu poprzedziły wybuch trzeciego powstania śląskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

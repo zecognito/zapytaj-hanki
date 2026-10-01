@@ -1,0 +1,21 @@
+{
+  "id": "henryk-ii-pobozny",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "institutions-and-medieval",
+  "title": "Henryk II Pobożny",
+  "facts": [
+    "Henryk II Pobożny przejął rozległe władztwo po Henryku Brodatym.",
+    "Polegał 9 kwietnia 1241 roku w bitwie pod Legnicą podczas najazdu mongolskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

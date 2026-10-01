@@ -1,0 +1,21 @@
+{
+  "id": "panstwowe-zaklady-lotnicze",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Państwowe Zakłady Lotnicze",
+  "facts": [
+    "Państwowe Zakłady Lotnicze powstały w Warszawie w 1928 roku.",
+    "PZL projektowały i produkowały samoloty wojskowe oraz cywilne dla II Rzeczypospolitej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

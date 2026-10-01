@@ -1,0 +1,21 @@
+{
+  "id": "panszczyzna",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Pańszczyzna",
+  "facts": [
+    "Pańszczyzna była obowiązkową pracą chłopa na rzecz właściciela ziemskiego.",
+    "Jej wymiar wzrastał w wielu dobrach od XVI wieku wraz z rozwojem gospodarki folwarcznej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

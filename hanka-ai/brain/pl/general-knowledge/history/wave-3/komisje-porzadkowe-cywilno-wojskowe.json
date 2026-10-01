@@ -1,0 +1,21 @@
+{
+  "id": "komisje-porzadkowe-cywilno-wojskowe",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Komisje porządkowe cywilno-wojskowe",
+  "facts": [
+    "Komisje porządkowe cywilno-wojskowe utworzono podczas Sejmu Wielkiego jako lokalne organy administracji.",
+    "Zajmowały się m.in. wojskiem, podatkami, drogami, porządkiem publicznym i statystyką ludności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

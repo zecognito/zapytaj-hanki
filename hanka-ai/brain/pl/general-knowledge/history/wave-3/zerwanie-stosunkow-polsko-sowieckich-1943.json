@@ -1,0 +1,21 @@
+{
+  "id": "zerwanie-stosunkow-polsko-sowieckich-1943",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Zerwanie stosunków polsko-sowieckich 1943",
+  "facts": [
+    "25 kwietnia 1943 roku ZSRR zerwał stosunki dyplomatyczne z rządem RP na uchodźstwie.",
+    "Stało się to po polskim wniosku do Międzynarodowego Czerwonego Krzyża o zbadanie grobów oficerów w Katyniu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

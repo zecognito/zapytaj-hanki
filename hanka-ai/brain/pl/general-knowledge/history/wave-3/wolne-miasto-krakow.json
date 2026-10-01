@@ -1,0 +1,21 @@
+{
+  "id": "wolne-miasto-krakow",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Wolne Miasto Kraków",
+  "facts": [
+    "Wolne Miasto Kraków utworzono decyzją kongresu wiedeńskiego w 1815 roku.",
+    "Niewielka republika pozostawała pod kontrolą Austrii, Prus i Rosji do jej wcielenia do Austrii w 1846 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

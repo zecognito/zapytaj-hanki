@@ -1,0 +1,21 @@
+{
+  "id": "adam-jerzy-czartoryski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions-and-19th-century",
+  "title": "Adam Jerzy Czartoryski",
+  "facts": [
+    "Adam Jerzy Czartoryski był dyplomatą i przywódcą konserwatywnego obozu emigracyjnego Hotel Lambert.",
+    "Jego środowisko prowadziło aktywną dyplomację na rzecz sprawy polskiej w Europie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://muzhp.pl/"
+  ],
+  "related_public_pages": []
+}

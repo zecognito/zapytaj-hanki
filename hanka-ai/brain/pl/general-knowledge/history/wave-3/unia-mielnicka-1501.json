@@ -1,0 +1,21 @@
+{
+  "id": "unia-mielnicka-1501",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Unia mielnicka 1501",
+  "facts": [
+    "Akt unii mielnickiej z 1501 roku zakładał ściślejsze połączenie Polski i Litwy.",
+    "Nie został w pełni wprowadzony w życie, a relacje obu państw nadal opierały się na unii dynastycznej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

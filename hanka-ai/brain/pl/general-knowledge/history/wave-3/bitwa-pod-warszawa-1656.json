@@ -1,0 +1,21 @@
+{
+  "id": "bitwa-pod-warszawa-1656",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Bitwa pod Warszawą 1656",
+  "facts": [
+    "W dniach 28–30 lipca 1656 roku armia polsko-litewska walczyła pod Warszawą ze Szwedami i Brandenburczykami.",
+    "Starcie zakończyło się zwycięstwem wojsk Karola X Gustawa, ale nie przesądziło o wyniku potopu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

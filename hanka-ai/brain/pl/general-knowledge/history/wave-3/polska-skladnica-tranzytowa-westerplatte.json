@@ -1,0 +1,21 @@
+{
+  "id": "polska-skladnica-tranzytowa-westerplatte",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Polska Składnica Tranzytowa Westerplatte",
+  "facts": [
+    "Polska uzyskała prawo do wojskowej składnicy tranzytowej na Westerplatte w Wolnym Mieście Gdańsku.",
+    "Placówka stała się miejscem jednego z pierwszych starć kampanii 1939 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

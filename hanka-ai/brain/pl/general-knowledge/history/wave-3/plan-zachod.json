@@ -1,0 +1,21 @@
+{
+  "id": "plan-zachod",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "Plan Zachód",
+  "facts": [
+    "Plan Zachód był polskim planem operacyjnym przygotowanym na wypadek wojny z Niemcami.",
+    "W 1939 roku zakładał obronę rozległych granic i oczekiwanie na ofensywę zachodnich sojuszników."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

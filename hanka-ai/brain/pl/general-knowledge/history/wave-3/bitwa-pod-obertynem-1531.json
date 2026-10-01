@@ -1,0 +1,21 @@
+{
+  "id": "bitwa-pod-obertynem-1531",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "early-modern",
+  "title": "Bitwa pod Obertynem 1531",
+  "facts": [
+    "22 sierpnia 1531 roku wojska Jana Tarnowskiego pokonały znacznie liczniejszą armię mołdawską pod Obertynem.",
+    "Zwycięstwo umocniło polskie panowanie nad Pokuciem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://muzhp.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

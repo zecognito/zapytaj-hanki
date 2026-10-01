@@ -1,0 +1,21 @@
+{
+  "id": "stronnictwo-ludowe-1931",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Stronnictwo Ludowe 1931",
+  "facts": [
+    "Stronnictwo Ludowe powstało w 1931 roku z połączenia PSL Piast, PSL Wyzwolenie i Stronnictwa Chłopskiego.",
+    "Stało się główną partią ruchu ludowego w latach 30."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

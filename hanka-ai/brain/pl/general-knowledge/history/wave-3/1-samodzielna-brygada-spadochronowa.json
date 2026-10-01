@@ -1,0 +1,21 @@
+{
+  "id": "1-samodzielna-brygada-spadochronowa",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "twentieth-century",
+  "title": "1 Samodzielna Brygada Spadochronowa",
+  "facts": [
+    "1 Samodzielna Brygada Spadochronowa została utworzona pod dowództwem generała Stanisława Sosabowskiego.",
+    "We wrześniu 1944 roku uczestniczyła w operacji Market Garden w Holandii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/",
+    "https://pamiecpolski.archiwa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

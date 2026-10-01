@@ -1,0 +1,21 @@
+{
+  "id": "wolna-wszechnica-polska",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "second-republic",
+  "title": "Wolna Wszechnica Polska",
+  "facts": [
+    "Wolna Wszechnica Polska była prywatną uczelnią działającą w Warszawie i Łodzi.",
+    "Kontynuowała tradycje niezależnego kształcenia i przyjmowała wielu studentów spoza tradycyjnych elit akademickich."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pamiecpolski.archiwa.gov.pl/",
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}
