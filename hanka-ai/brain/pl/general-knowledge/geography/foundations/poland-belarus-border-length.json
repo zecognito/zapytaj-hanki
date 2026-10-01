@@ -1,0 +1,20 @@
+{
+  "id": "poland-belarus-border-length",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Długość granicy Polski z Białorusią",
+  "facts": [
+    "Straż Graniczna podawała w lipcu 2026 r., że granica Polski z Białorusią ma 430 km.",
+    "Wartość ta pochodzi z aktualizacji Straży Granicznej z 7 lipca 2026 r."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/pl/granica/granice-rp"
+  ],
+  "related_public_pages": []
+}

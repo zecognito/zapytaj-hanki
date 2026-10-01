@@ -1,0 +1,20 @@
+{
+  "id": "poland-coastline-vs-maritime-border",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Linia brzegowa a granica morska Polski",
+  "facts": [
+    "Linia brzegowa i granica morska nie są tym samym pojęciem, dlatego ich długości nie należy używać zamiennie.",
+    "Straż Graniczna podaje długość granicy morskiej Polski jako 501 km według danych z lipca 2026 r.; linia brzegowa opisuje natomiast fizyczny styk lądu z morzem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/pl/granica/granice-rp"
+  ],
+  "related_public_pages": []
+}

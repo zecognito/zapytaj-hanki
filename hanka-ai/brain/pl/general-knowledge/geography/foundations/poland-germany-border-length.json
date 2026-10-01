@@ -1,0 +1,20 @@
+{
+  "id": "poland-germany-border-length",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Długość granicy Polski z Niemcami",
+  "facts": [
+    "Straż Graniczna podawała w lipcu 2026 r. 468 km granicy lądowej Polski z Niemcami.",
+    "Łącznie z 22-kilometrowym odcinkiem rozgraniczającym morze terytorialne długość wynosi 490 km."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/pl/granica/granice-rp"
+  ],
+  "related_public_pages": []
+}

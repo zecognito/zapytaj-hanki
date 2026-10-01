@@ -1,0 +1,20 @@
+{
+  "id": "poland-czechia-border-length",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Długość granicy Polski z Czechami",
+  "facts": [
+    "Straż Graniczna podawała w lipcu 2026 r., że granica Polski z Czechami ma 796 km.",
+    "Jest to najdłuższa lądowa granica Polski z jednym państwem według tych danych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/pl/granica/granice-rp"
+  ],
+  "related_public_pages": []
+}

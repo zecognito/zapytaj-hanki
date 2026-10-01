@@ -1,0 +1,20 @@
+{
+  "id": "poland-russia-border-length",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Długość granicy Polski z Rosją",
+  "facts": [
+    "Straż Graniczna podawała w lipcu 2026 r. 210 km granicy lądowej Polski z Federacją Rosyjską.",
+    "Łącznie z 22-kilometrowym odcinkiem rozgraniczającym morze terytorialne długość wynosi 232 km; granica dotyczy obwodu kaliningradzkiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/pl/granica/granice-rp"
+  ],
+  "related_public_pages": []
+}

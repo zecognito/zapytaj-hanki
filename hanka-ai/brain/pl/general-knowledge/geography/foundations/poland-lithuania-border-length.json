@@ -1,0 +1,20 @@
+{
+  "id": "poland-lithuania-border-length",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Długość granicy Polski z Litwą",
+  "facts": [
+    "Straż Graniczna podawała w lipcu 2026 r., że granica Polski z Litwą ma 104 km.",
+    "Jest to najkrótsza lądowa granica Polski z sąsiednim państwem według tych danych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/pl/granica/granice-rp"
+  ],
+  "related_public_pages": []
+}

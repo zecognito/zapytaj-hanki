@@ -1,0 +1,20 @@
+{
+  "id": "poland-land-area",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Obszar lądowy Polski",
+  "facts": [
+    "Według GUS obszar lądowy Polski, łącznie z wodami śródlądowymi, wynosił 311 901 km² według stanu na 1 stycznia 2025 r.",
+    "Jest to składnik powierzchni ogólnej Polski wynoszącej 313 933 km² w tej metodologii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://stat.gov.pl/obszary-tematyczne/roczniki-statystyczne/roczniki-statystyczne/maly-rocznik-statystyczny-polski-2025,1,27.html"
+  ],
+  "related_public_pages": []
+}

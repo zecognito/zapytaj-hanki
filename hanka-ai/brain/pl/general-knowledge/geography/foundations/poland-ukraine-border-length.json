@@ -1,0 +1,20 @@
+{
+  "id": "poland-ukraine-border-length",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Długość granicy Polski z Ukrainą",
+  "facts": [
+    "Straż Graniczna podawała w lipcu 2026 r., że granica Polski z Ukrainą ma 535 km.",
+    "Jest to wschodnia i południowo-wschodnia granica zewnętrzna Unii Europejskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/pl/granica/granice-rp"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poland-exclusive-economic-zone",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Polska wyłączna strefa ekonomiczna",
+  "facts": [
+    "Polska posiada wyłączną strefę ekonomiczną na Morzu Bałtyckim.",
+    "Wyłączna strefa ekonomiczna jest jednym z polskich obszarów morskich obok morskich wód wewnętrznych, morza terytorialnego i strefy przyległej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.morski.strazgraniczna.pl/mor/komenda/struktura-i-zasieg/"
+  ],
+  "related_public_pages": []
+}

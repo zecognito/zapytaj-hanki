@@ -1,0 +1,20 @@
+{
+  "id": "poland-maritime-zones",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Polskie obszary morskie",
+  "facts": [
+    "Do polskich obszarów morskich należą morskie wody wewnętrzne, morze terytorialne, strefa przyległa i wyłączna strefa ekonomiczna.",
+    "Morski Oddział Straży Granicznej podaje, że obszar tych wód to około 30 tys. km²."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.morski.strazgraniczna.pl/mor/komenda/struktura-i-zasieg/"
+  ],
+  "related_public_pages": []
+}

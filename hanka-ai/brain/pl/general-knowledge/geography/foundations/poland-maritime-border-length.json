@@ -1,0 +1,20 @@
+{
+  "id": "poland-maritime-border-length",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Długość granicy morskiej Polski",
+  "facts": [
+    "Straż Graniczna podawała w lipcu 2026 r., że granica morska Polski ma 501 km.",
+    "Obejmuje ona zewnętrzną granicę morza terytorialnego oraz odcinki rozgraniczające morze terytorialne z Niemcami i Rosją."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.strazgraniczna.pl/pl/granica/granice-rp"
+  ],
+  "related_public_pages": []
+}

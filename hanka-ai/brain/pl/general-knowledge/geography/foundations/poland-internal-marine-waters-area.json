@@ -1,0 +1,20 @@
+{
+  "id": "poland-internal-marine-waters-area",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "foundations",
+  "title": "Morskie wody wewnętrzne w powierzchni Polski",
+  "facts": [
+    "Według GUS 2 032 km² powierzchni ogólnej Polski stanowiła część morskich wód wewnętrznych według stanu na 1 stycznia 2025 r.",
+    "Obejmuje ona m.in. części Zalewu Szczecińskiego, Zatoki Gdańskiej i Zalewu Wiślanego określone w metodologii GUS."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://stat.gov.pl/obszary-tematyczne/roczniki-statystyczne/roczniki-statystyczne/maly-rocznik-statystyczny-polski-2025,1,27.html"
+  ],
+  "related_public_pages": []
+}
