@@ -1,0 +1,23 @@
+{
+  "name": "chemical-elements",
+  "family": "concepts",
+  "topic": "science",
+  "subtopic": "chemical-element",
+  "source": "wikidata",
+  "selector": {
+    "instanceOf": "Q11344",
+    "includeSubclasses": true
+  },
+  "properties": [
+    "P1086",
+    "P246",
+    "P274"
+  ],
+  "languagePriority": [
+    "pl",
+    "en"
+  ],
+  "output": "chemical-elements",
+  "status": "mapped",
+  "enabled": false
+}
