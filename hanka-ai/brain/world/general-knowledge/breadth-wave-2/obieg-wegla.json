@@ -1,0 +1,20 @@
+{
+  "id": "world-obieg-wegla",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-nature-and-technology",
+  "title": "Obieg węgla",
+  "facts": [
+    "Obieg węgla jest podstawowym pojęciem globalnej wiedzy naukowej, przyrodniczej lub technologicznej.",
+    "Rekord breadth-first pozwala Hance rozpoznawać Obieg węgla jako odrębny koncept przed późniejszym pogłębieniem wiedzy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

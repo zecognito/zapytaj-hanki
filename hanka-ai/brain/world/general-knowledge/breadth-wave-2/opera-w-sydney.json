@@ -1,0 +1,20 @@
+{
+  "id": "world-opera-w-sydney",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "culture-landmarks-and-global-life",
+  "title": "Opera w Sydney",
+  "facts": [
+    "Opera w Sydney jest globalnie rozpoznawalnym miejscem, instytucją, wydarzeniem lub pojęciem kultury światowej.",
+    "Rekord breadth-first ustanawia Opera w Sydney jako osobny koncept Hanka Brain do późniejszego rozwinięcia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

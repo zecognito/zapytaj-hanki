@@ -1,0 +1,20 @@
+{
+  "id": "world-pablo-picasso",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "major-people",
+  "title": "Pablo Picasso",
+  "facts": [
+    "Pablo Picasso jest postacią o znaczeniu światowym w historii, nauce, kulturze, eksploracji lub życiu społecznym.",
+    "Rekord breadth-first pozwala Hance rozpoznać Pablo Picasso jako osobny globalny koncept i powiązać go później z właściwymi dziedzinami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

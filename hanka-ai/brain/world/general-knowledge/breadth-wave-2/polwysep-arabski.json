@@ -1,0 +1,21 @@
+{
+  "id": "world-polwysep-arabski",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "geography",
+  "title": "Półwysep Arabski",
+  "facts": [
+    "Półwysep Arabski jest ważnym pojęciem geografii świata i pomaga Hance rozpoznawać główne regiony, formy terenu lub systemy wodne Ziemi.",
+    "Rekord ustanawia Półwysep Arabski jako odrębny koncept globalnej wiedzy geograficznej do późniejszego pogłębienia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

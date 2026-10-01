@@ -1,0 +1,20 @@
+{
+  "id": "world-james-cook",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "major-people",
+  "title": "James Cook",
+  "facts": [
+    "James Cook jest postacią o znaczeniu światowym w historii, nauce, kulturze, eksploracji lub życiu społecznym.",
+    "Rekord breadth-first pozwala Hance rozpoznać James Cook jako osobny globalny koncept i powiązać go później z właściwymi dziedzinami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}
