@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "profiles": [
+    {
+      "name": "country-enrichment",
+      "family": "places",
+      "runner": "country-enrichment.mjs",
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 20
+    },
+    {
+      "name": "cities",
+      "family": "places",
+      "runner": "import.mjs",
+      "enabled": true,
+      "batchSize": 100,
+      "maxPages": 20
+    }
+  ]
+}
