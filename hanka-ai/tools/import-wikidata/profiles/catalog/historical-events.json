@@ -1,0 +1,23 @@
+{
+  "name": "historical-events",
+  "family": "events",
+  "topic": "history",
+  "subtopic": "historical-event",
+  "source": "wikidata",
+  "selector": {
+    "instanceOf": "Q13418847",
+    "includeSubclasses": true
+  },
+  "properties": [
+    "P585",
+    "P276",
+    "P17"
+  ],
+  "languagePriority": [
+    "pl",
+    "en"
+  ],
+  "output": "historical-events",
+  "status": "mapped",
+  "enabled": false
+}
