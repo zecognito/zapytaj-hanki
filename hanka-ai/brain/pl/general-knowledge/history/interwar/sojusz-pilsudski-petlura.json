@@ -1,0 +1,20 @@
+{
+  "id": "sojusz-pilsudski-petlura",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "interwar",
+  "title": "Sojusz Piłsudski-Petlura",
+  "facts": [
+    "Porozumienie Józefa Piłsudskiego z Symonem Petlurą w 1920 roku łączyło współpracę polityczną i wojskową Polski z Ukraińską Republiką Ludową.",
+    "Rekord dodano jako odrębny koncept w fazie breadth Hanka Brain."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://archiwa.gov.pl/o-nas/archiwa-panstwowe/o-archiwach-panstwowych/"
+  ],
+  "related_public_pages": []
+}

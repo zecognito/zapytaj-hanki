@@ -1,0 +1,20 @@
+{
+  "id": "koronacja-przemysla-ii-1295",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "medieval",
+  "title": "Koronacja Przemysła II 1295",
+  "facts": [
+    "Przemysł II został koronowany na króla Polski w 1295 roku.",
+    "Rekord dodano jako odrębny koncept w fazie breadth Hanka Brain."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://archiwa.gov.pl/o-nas/archiwa-panstwowe/o-archiwach-panstwowych/"
+  ],
+  "related_public_pages": []
+}

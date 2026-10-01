@@ -1,0 +1,20 @@
+{
+  "id": "bitwa-pod-iganiami",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "partitions",
+  "title": "Bitwa pod Iganiami",
+  "facts": [
+    "Bitwa pod Iganiami w kwietniu 1831 roku zakończyła się zwycięstwem wojsk polskich.",
+    "Rekord dodano jako odrębny koncept w fazie breadth Hanka Brain."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://archiwa.gov.pl/o-nas/archiwa-panstwowe/o-archiwach-panstwowych/"
+  ],
+  "related_public_pages": []
+}

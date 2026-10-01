@@ -1,0 +1,20 @@
+{
+  "id": "boleslaw-pobozny",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "medieval",
+  "title": "Bolesław Pobożny",
+  "facts": [
+    "Bolesław Pobożny był księciem wielkopolskim i wystawcą statutu kaliskiego.",
+    "Rekord dodano jako odrębny koncept w fazie breadth Hanka Brain."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://archiwa.gov.pl/o-nas/archiwa-panstwowe/o-archiwach-panstwowych/"
+  ],
+  "related_public_pages": []
+}

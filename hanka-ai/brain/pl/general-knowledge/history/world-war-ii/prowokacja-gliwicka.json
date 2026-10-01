@@ -1,0 +1,20 @@
+{
+  "id": "prowokacja-gliwicka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world-war-ii",
+  "title": "Prowokacja gliwicka",
+  "facts": [
+    "Niemiecka prowokacja w Gliwicach 31 sierpnia 1939 roku była elementem propagandowego uzasadniania agresji na Polskę.",
+    "Rekord dodano jako odrębny koncept w fazie breadth Hanka Brain."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

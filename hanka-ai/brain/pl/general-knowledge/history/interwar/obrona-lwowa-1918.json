@@ -1,0 +1,20 @@
+{
+  "id": "obrona-lwowa-1918",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "interwar",
+  "title": "Obrona Lwowa 1918",
+  "facts": [
+    "Walki o Lwów w listopadzie 1918 roku były częścią wojny polsko-ukraińskiej.",
+    "Rekord dodano jako odrębny koncept w fazie breadth Hanka Brain."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://archiwa.gov.pl/o-nas/archiwa-panstwowe/o-archiwach-panstwowych/"
+  ],
+  "related_public_pages": []
+}

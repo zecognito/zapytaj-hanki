@@ -1,0 +1,20 @@
+{
+  "id": "bataliony-chlopskie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world-war-ii",
+  "title": "Bataliony Chłopskie",
+  "facts": [
+    "Bataliony Chłopskie były konspiracyjną organizacją zbrojną ruchu ludowego.",
+    "Rekord dodano jako odrębny koncept w fazie breadth Hanka Brain."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

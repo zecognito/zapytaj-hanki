@@ -1,0 +1,20 @@
+{
+  "id": "obrona-modlina-1939",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "world-war-ii",
+  "title": "Obrona Modlina 1939",
+  "facts": [
+    "Twierdza Modlin broniła się przed Niemcami do 29 września 1939 roku.",
+    "Rekord dodano jako odrębny koncept w fazie breadth Hanka Brain."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "wolne-zwiazki-zawodowe-wybrzeza",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "prl",
+  "title": "Wolne Związki Zawodowe Wybrzeża",
+  "facts": [
+    "WZZ Wybrzeża powstały w 1978 roku i skupiały działaczy późniejszej Solidarności.",
+    "Rekord dodano jako odrębny koncept w fazie breadth Hanka Brain."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

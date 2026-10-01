@@ -1,0 +1,20 @@
+{
+  "id": "salomea-z-bergu",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "medieval",
+  "title": "Salomea z Bergu",
+  "facts": [
+    "Salomea z Bergu była żoną Bolesława Krzywoustego i ważną postacią sporów dynastycznych po jego śmierci.",
+    "Rekord dodano jako odrębny koncept w fazie breadth Hanka Brain."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://archiwa.gov.pl/o-nas/archiwa-panstwowe/o-archiwach-panstwowych/"
+  ],
+  "related_public_pages": []
+}

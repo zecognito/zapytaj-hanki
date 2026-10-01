@@ -1,0 +1,20 @@
+{
+  "id": "zrzeszenie-wolnosc-i-niezawislosc",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "postwar",
+  "title": "Zrzeszenie Wolność i Niezawisłość",
+  "facts": [
+    "WiN było cywilno-wojskową organizacją antykomunistyczną działającą po II wojnie światowej.",
+    "Rekord dodano jako odrębny koncept w fazie breadth Hanka Brain."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

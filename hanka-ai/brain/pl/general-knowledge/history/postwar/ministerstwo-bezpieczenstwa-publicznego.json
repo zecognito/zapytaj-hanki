@@ -1,0 +1,20 @@
+{
+  "id": "ministerstwo-bezpieczenstwa-publicznego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "postwar",
+  "title": "Ministerstwo Bezpieczeństwa Publicznego",
+  "facts": [
+    "Ministerstwo Bezpieczeństwa Publicznego było centralnym organem aparatu represji w Polsce stalinowskiej.",
+    "Rekord dodano jako odrębny koncept w fazie breadth Hanka Brain."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://ipn.gov.pl/"
+  ],
+  "related_public_pages": []
+}

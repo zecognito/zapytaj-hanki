@@ -1,0 +1,20 @@
+{
+  "id": "chrzest-jagielly-1386",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "history",
+  "subtopic": "medieval",
+  "title": "Chrzest Jagiełły 1386",
+  "facts": [
+    "Władysław Jagiełło przyjął chrzest przed małżeństwem z Jadwigą i koronacją na króla Polski.",
+    "Rekord dodano jako odrębny koncept w fazie breadth Hanka Brain."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://archiwa.gov.pl/o-nas/archiwa-panstwowe/o-archiwach-panstwowych/"
+  ],
+  "related_public_pages": []
+}
