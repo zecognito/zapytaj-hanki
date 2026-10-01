@@ -1,0 +1,20 @@
+{
+  "id": "world-modernizm",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "ideas-literature-and-arts",
+  "title": "Modernizm",
+  "facts": [
+    "Modernizm jest ważnym pojęciem światowej filozofii, literatury, sztuki lub muzyki i stanowi część globalnego dziedzictwa kulturowego.",
+    "Hanka Brain rozpoznaje Modernizm jako odrębny koncept breadth-first, bez rozbudowywania go jeszcze w szczegółową monografię."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

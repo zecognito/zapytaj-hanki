@@ -1,0 +1,20 @@
+{
+  "id": "world-atmosfera-ziemi",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "foundational-science-and-earth",
+  "title": "Atmosfera Ziemi",
+  "facts": [
+    "Atmosfera Ziemi jest podstawowym pojęciem naukowym potrzebnym do rozumienia świata fizycznego, Ziemi lub metod ilościowych.",
+    "Hanka Brain ustanawia Atmosfera Ziemi jako odrębny koncept breadth-first do późniejszego pogłębiania i łączenia z bardziej szczegółową wiedzą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

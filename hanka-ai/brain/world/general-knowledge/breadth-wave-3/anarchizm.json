@@ -1,0 +1,20 @@
+{
+  "id": "world-anarchizm",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "civics-and-political-systems",
+  "title": "Anarchizm",
+  "facts": [
+    "Anarchizm jest ważnym pojęciem służącym do opisu państw, systemów politycznych, praw lub stosunków międzynarodowych.",
+    "Rekord daje Hance neutralny koncept Anarchizm do rozpoznawania w pytaniach o historię i współczesny świat."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

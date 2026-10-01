@@ -1,0 +1,21 @@
+{
+  "id": "world-recesja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "human-geography-and-economy",
+  "title": "Recesja",
+  "facts": [
+    "Recesja jest podstawowym pojęciem pomagającym opisywać społeczeństwa, ludność lub gospodarkę w skali świata.",
+    "Hanka Brain traktuje Recesja jako osobny koncept globalnej wiedzy, który może później zostać pogłębiony i połączony z przykładami krajowymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.worldbank.org/"
+  ],
+  "related_public_pages": []
+}

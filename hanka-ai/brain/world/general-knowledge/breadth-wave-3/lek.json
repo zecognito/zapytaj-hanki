@@ -1,0 +1,20 @@
+{
+  "id": "world-lek",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "medicine-and-health",
+  "title": "Lęk",
+  "facts": [
+    "Lęk jest podstawowym pojęciem medycyny, biologii człowieka lub zdrowia publicznego o znaczeniu globalnym.",
+    "Rekord breadth-first daje Hance osobny punkt wiedzy dla Lęk, który w fazie depth może otrzymać mechanizmy, historię i praktyczne konteksty."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}
