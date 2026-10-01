@@ -1,0 +1,21 @@
+{
+  "id": "world-siarka",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Siarka",
+  "facts": [
+    "Siarka jest pierwiastkiem występującym w minerałach, gazach wulkanicznych i organizmach.",
+    "Wchodzi w skład niektórych aminokwasów, a jej związki uczestniczą w globalnym obiegu siarki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

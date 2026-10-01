@@ -1,0 +1,21 @@
+{
+  "id": "world-limfocyt",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Limfocyt",
+  "facts": [
+    "Limfocyty są białymi krwinkami odgrywającymi kluczową rolę w odporności adaptacyjnej.",
+    "Do głównych grup należą limfocyty B i T, a komórki NK pełnią ważną funkcję w odporności wrodzonej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

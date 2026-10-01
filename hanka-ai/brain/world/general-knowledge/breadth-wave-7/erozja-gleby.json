@@ -1,0 +1,21 @@
+{
+  "id": "world-erozja-gleby",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Erozja gleby",
+  "facts": [
+    "Erozja gleby usuwa jej powierzchniową warstwę przez wodę lub wiatr.",
+    "Może przyspieszać po usunięciu roślinności, nadmiernym wypasie i niewłaściwej uprawie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

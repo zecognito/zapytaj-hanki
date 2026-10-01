@@ -1,0 +1,21 @@
+{
+  "id": "world-metan",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Metan",
+  "facts": [
+    "Metan jest najprostszym węglowodorem o wzorze CH4 i głównym składnikiem gazu ziemnego.",
+    "Jest silnym gazem cieplarnianym emitowanym zarówno ze źródeł naturalnych, jak i działalności człowieka."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

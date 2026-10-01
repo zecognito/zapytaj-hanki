@@ -1,0 +1,21 @@
+{
+  "id": "world-ciecz",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Ciecz",
+  "facts": [
+    "Ciecz zachowuje prawie stałą objętość, ale przyjmuje kształt naczynia.",
+    "Jej cząstki pozostają blisko siebie, lecz mogą przemieszczać się względem siebie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

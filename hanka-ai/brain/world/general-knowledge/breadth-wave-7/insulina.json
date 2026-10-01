@@ -1,0 +1,21 @@
+{
+  "id": "world-insulina",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Insulina",
+  "facts": [
+    "Insulina jest hormonem wytwarzanym przez komórki beta trzustki.",
+    "Pomaga obniżać stężenie glukozy we krwi, zwiększając jej pobieranie i magazynowanie w tkankach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

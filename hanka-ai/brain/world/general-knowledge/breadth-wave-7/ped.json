@@ -1,0 +1,21 @@
+{
+  "id": "world-ped",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Pęd",
+  "facts": [
+    "Pęd jest wielkością wektorową równą iloczynowi masy i prędkości w mechanice klasycznej.",
+    "Całkowity pęd izolowanego układu jest zachowany."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

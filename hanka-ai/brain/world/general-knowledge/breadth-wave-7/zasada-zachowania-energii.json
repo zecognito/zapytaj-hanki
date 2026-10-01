@@ -1,0 +1,21 @@
+{
+  "id": "world-zasada-zachowania-energii",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Zasada zachowania energii",
+  "facts": [
+    "Zasada zachowania energii mówi, że energia nie powstaje ani nie ginie, lecz może zmieniać formę i być przenoszona.",
+    "W układzie izolowanym całkowita energia pozostaje stała."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

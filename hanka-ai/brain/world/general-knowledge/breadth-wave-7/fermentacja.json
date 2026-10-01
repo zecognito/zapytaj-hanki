@@ -1,0 +1,21 @@
+{
+  "id": "world-fermentacja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Fermentacja",
+  "facts": [
+    "Fermentacja pozwala komórkom uzyskiwać energię bez użycia tlenu jako końcowego akceptora elektronów.",
+    "Różne szlaki fermentacyjne mogą wytwarzać między innymi mleczan albo etanol."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

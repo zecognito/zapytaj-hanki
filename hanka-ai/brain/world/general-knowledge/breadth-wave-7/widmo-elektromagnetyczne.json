@@ -1,0 +1,21 @@
+{
+  "id": "world-widmo-elektromagnetyczne",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Widmo elektromagnetyczne",
+  "facts": [
+    "Widmo elektromagnetyczne obejmuje wszystkie zakresy promieniowania od fal radiowych po promieniowanie gamma.",
+    "Wszystkie te fale w próżni poruszają się z tą samą prędkością światła, lecz różnią częstotliwością i długością fali."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

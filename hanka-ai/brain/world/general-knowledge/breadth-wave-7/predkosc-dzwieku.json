@@ -1,0 +1,21 @@
+{
+  "id": "world-predkosc-dzwieku",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Prędkość dźwięku",
+  "facts": [
+    "Prędkość dźwięku zależy od właściwości ośrodka, zwłaszcza jego sprężystości, gęstości i temperatury.",
+    "W powietrzu o temperaturze około 20°C wynosi w przybliżeniu 343 metry na sekundę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-rybosom",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Rybosom",
+  "facts": [
+    "Rybosomy są strukturami komórkowymi, na których zachodzi synteza białek na podstawie informacji zapisanej w mRNA.",
+    "Składają się z RNA rybosomowego i białek oraz występują we wszystkich komórkach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

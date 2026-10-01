@@ -1,0 +1,21 @@
+{
+  "id": "world-bilans-energetyczny-ziemi",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Bilans energetyczny Ziemi",
+  "facts": [
+    "Bilans energetyczny Ziemi porównuje energię słoneczną docierającą do systemu Ziemi z energią wypromieniowywaną w przestrzeń.",
+    "Długotrwała nierównowaga tego bilansu prowadzi do zmiany ilości energii zgromadzonej w systemie klimatycznym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-homo-sapiens",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Homo sapiens",
+  "facts": [
+    "Homo sapiens jest gatunkiem, do którego należą wszyscy współcześni ludzie.",
+    "Najstarsze znane skamieniałości przypisywane naszemu gatunkowi pochodzą z Afryki i mają około 300 tysięcy lat."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

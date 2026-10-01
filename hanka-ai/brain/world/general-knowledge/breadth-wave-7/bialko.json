@@ -1,0 +1,21 @@
+{
+  "id": "world-bialko",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Białko",
+  "facts": [
+    "Białka są makrocząsteczkami zbudowanymi z łańcuchów aminokwasów.",
+    "Pełnią funkcje między innymi enzymatyczne, strukturalne, transportowe, sygnałowe i odpornościowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

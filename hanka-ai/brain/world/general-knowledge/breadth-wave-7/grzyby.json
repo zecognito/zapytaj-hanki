@@ -1,0 +1,21 @@
+{
+  "id": "world-grzyby",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Grzyby",
+  "facts": [
+    "Grzyby tworzą odrębne królestwo organizmów eukariotycznych obejmujące między innymi drożdże, pleśnie i grzyby kapeluszowe.",
+    "Pobierają składniki odżywcze przez absorpcję i mają ściany komórkowe zawierające chitynę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

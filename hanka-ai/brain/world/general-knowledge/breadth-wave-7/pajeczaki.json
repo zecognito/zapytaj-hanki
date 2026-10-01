@@ -1,0 +1,21 @@
+{
+  "id": "world-pajeczaki",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Pajęczaki",
+  "facts": [
+    "Pajęczaki są stawonogami obejmującymi pająki, skorpiony, roztocze i kleszcze.",
+    "Typowo mają cztery pary odnóży krocznych i nie mają czułków."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

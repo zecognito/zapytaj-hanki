@@ -1,0 +1,21 @@
+{
+  "id": "world-obwod-elektryczny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Obwód elektryczny",
+  "facts": [
+    "Obwód elektryczny jest połączonym układem elementów umożliwiającym przepływ prądu.",
+    "Do działania prostego obwodu potrzebna jest zamknięta droga przepływu ładunku i źródło energii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

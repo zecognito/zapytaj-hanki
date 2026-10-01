@@ -1,0 +1,21 @@
+{
+  "id": "world-mosiadz",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Mosiądz",
+  "facts": [
+    "Mosiądz jest stopem miedzi i cynku.",
+    "Proporcje składników wpływają na barwę, twardość i podatność stopu na obróbkę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

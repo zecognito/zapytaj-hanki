@@ -1,0 +1,21 @@
+{
+  "id": "world-neuroprzekaznik",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Neuroprzekaźnik",
+  "facts": [
+    "Neuroprzekaźniki są cząsteczkami chemicznymi uwalnianymi przez neurony do przekazywania sygnałów między komórkami.",
+    "Działają przez wiązanie się z receptorami komórki docelowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

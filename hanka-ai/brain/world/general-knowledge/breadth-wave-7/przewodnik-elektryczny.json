@@ -1,0 +1,21 @@
+{
+  "id": "world-przewodnik-elektryczny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Przewodnik elektryczny",
+  "facts": [
+    "Przewodnik elektryczny umożliwia stosunkowo łatwy przepływ ładunku elektrycznego.",
+    "Metale przewodzą dzięki ruchliwym elektronom, a roztwory elektrolitów dzięki ruchowi jonów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

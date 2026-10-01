@@ -1,0 +1,21 @@
+{
+  "id": "world-polimer",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Polimer",
+  "facts": [
+    "Polimer jest dużą cząsteczką zbudowaną z wielu powtarzających się lub powiązanych jednostek monomerowych.",
+    "Polimery mogą być naturalne, jak celuloza i DNA, albo syntetyczne, jak polietylen."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

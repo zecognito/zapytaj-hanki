@@ -1,0 +1,21 @@
+{
+  "id": "world-enzym",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Enzym",
+  "facts": [
+    "Enzym jest katalizatorem biologicznym przyspieszającym reakcję chemiczną bez trwałego zużycia w tej reakcji.",
+    "Większość enzymów jest białkami, choć katalityczne właściwości mogą mieć także niektóre cząsteczki RNA."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

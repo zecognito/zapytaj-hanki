@@ -1,0 +1,21 @@
+{
+  "id": "world-promieniotworczosc",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Promieniotwórczość",
+  "facts": [
+    "Promieniotwórczość jest samorzutną przemianą niestabilnych jąder atomowych połączoną z emisją promieniowania.",
+    "Tempo rozpadu danego izotopu opisuje jego okres półtrwania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

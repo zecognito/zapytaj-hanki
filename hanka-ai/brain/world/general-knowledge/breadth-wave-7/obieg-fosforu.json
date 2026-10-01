@@ -1,0 +1,21 @@
+{
+  "id": "world-obieg-fosforu",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Obieg fosforu",
+  "facts": [
+    "Obieg fosforu przenosi fosfor między skałami, glebą, wodą i organizmami.",
+    "Wietrzenie skał uwalnia fosforany, które mogą zostać pobrane przez organizmy i później wrócić do osadów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

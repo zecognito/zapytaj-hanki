@@ -1,0 +1,21 @@
+{
+  "id": "world-skamienialosc",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Skamieniałość",
+  "facts": [
+    "Skamieniałość jest zachowanym śladem lub pozostałością dawnego organizmu w zapisie geologicznym.",
+    "Skamieniałości obejmują kości i muszle, ale także odciski, tropy, nory i skamieniałe odchody."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

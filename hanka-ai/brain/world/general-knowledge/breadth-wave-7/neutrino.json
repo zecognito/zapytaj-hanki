@@ -1,0 +1,21 @@
+{
+  "id": "world-neutrino",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Neutrino",
+  "facts": [
+    "Neutrina są bardzo lekkimi, elektrycznie obojętnymi cząstkami elementarnymi oddziałującymi bardzo słabo z materią.",
+    "Występują w trzech typach i podczas ruchu mogą zmieniać obserwowany typ w zjawisku oscylacji neutrin."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-echolokacja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Echolokacja",
+  "facts": [
+    "Echolokacja polega na określaniu położenia obiektów na podstawie echa emitowanych dźwięków.",
+    "Wykorzystują ją między innymi liczne nietoperze i zębowce, a techniczne systemy działają na podobnej zasadzie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

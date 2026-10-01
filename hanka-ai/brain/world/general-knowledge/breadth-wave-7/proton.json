@@ -1,0 +1,21 @@
+{
+  "id": "world-proton",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Proton",
+  "facts": [
+    "Proton jest dodatnio naładowaną cząstką znajdującą się w jądrze atomowym.",
+    "Liczba protonów w jądrze, czyli liczba atomowa, określa pierwiastek chemiczny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

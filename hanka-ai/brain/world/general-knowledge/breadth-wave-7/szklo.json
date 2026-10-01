@@ -1,0 +1,21 @@
+{
+  "id": "world-szklo",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Szkło",
+  "facts": [
+    "Szkło jest amorficznym materiałem stałym powstającym zwykle przez ochłodzenie stopionej mieszaniny bez krystalizacji.",
+    "Najpowszechniejsze szkła użytkowe opierają się na krzemionce z dodatkami modyfikującymi właściwości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

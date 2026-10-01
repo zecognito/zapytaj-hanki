@@ -1,0 +1,21 @@
+{
+  "id": "world-transformator",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Transformator",
+  "facts": [
+    "Transformator przenosi energię elektryczną między obwodami za pomocą indukcji elektromagnetycznej.",
+    "W sieciach prądu przemiennego służy między innymi do podwyższania lub obniżania napięcia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

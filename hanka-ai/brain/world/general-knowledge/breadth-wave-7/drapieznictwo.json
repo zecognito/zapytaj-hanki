@@ -1,0 +1,21 @@
+{
+  "id": "world-drapieznictwo",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Drapieżnictwo",
+  "facts": [
+    "Drapieżnictwo jest interakcją, w której jeden organizm poluje na inny i go zjada.",
+    "Wpływa na liczebność populacji, zachowanie ofiar i strukturę ekosystemów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

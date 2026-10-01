@@ -1,0 +1,21 @@
+{
+  "id": "world-oddychanie-komorkowe",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Oddychanie komórkowe",
+  "facts": [
+    "Oddychanie komórkowe to zespół procesów, dzięki którym komórki pozyskują energię chemiczną z substancji odżywczych.",
+    "W oddychaniu tlenowym tlen pełni rolę końcowego akceptora elektronów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

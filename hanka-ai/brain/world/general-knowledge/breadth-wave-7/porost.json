@@ -1,0 +1,21 @@
+{
+  "id": "world-porost",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Porost",
+  "facts": [
+    "Porost jest trwałym układem symbiotycznym grzyba z organizmem fotosyntetyzującym, zwykle glonem lub sinicą.",
+    "Porosty mogą kolonizować surowe środowiska i uczestniczyć w wietrzeniu skał."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

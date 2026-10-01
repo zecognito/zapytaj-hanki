@@ -1,0 +1,21 @@
+{
+  "id": "world-pyl-zawieszony",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Pył zawieszony",
+  "facts": [
+    "Pył zawieszony obejmuje drobne stałe i ciekłe cząstki unoszące się w powietrzu.",
+    "PM2.5 może przenikać głęboko do płuc i wiąże się z poważnymi skutkami zdrowotnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

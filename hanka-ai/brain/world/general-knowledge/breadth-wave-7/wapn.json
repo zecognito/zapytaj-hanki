@@ -1,0 +1,21 @@
+{
+  "id": "world-wapn",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Wapń",
+  "facts": [
+    "Wapń jest pierwiastkiem ważnym dla budowy kości i zębów oraz sygnalizacji komórkowej.",
+    "W przyrodzie występuje powszechnie w minerałach, na przykład węglanie wapnia budującym wapień."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

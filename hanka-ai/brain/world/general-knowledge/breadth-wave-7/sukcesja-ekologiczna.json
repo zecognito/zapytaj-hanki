@@ -1,0 +1,21 @@
+{
+  "id": "world-sukcesja-ekologiczna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Sukcesja ekologiczna",
+  "facts": [
+    "Sukcesja ekologiczna jest stopniową zmianą składu społeczności organizmów na danym obszarze.",
+    "Sukcesja pierwotna zaczyna się bez rozwiniętej gleby, a wtórna po zaburzeniu istniejącego ekosystemu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

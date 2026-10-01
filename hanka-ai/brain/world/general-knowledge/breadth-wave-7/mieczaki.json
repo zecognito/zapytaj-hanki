@@ -1,0 +1,21 @@
+{
+  "id": "world-mieczaki",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Mięczaki",
+  "facts": [
+    "Mięczaki są zróżnicowanym typem zwierząt obejmującym ślimaki, małże i głowonogi.",
+    "Ich plan budowy zwykle obejmuje płaszcz, nogę mięśniową i masę trzewiową, choć elementy te są silnie zmodyfikowane w różnych grupach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

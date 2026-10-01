@@ -1,0 +1,21 @@
+{
+  "id": "world-elektrownia-wodna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Elektrownia wodna",
+  "facts": [
+    "Elektrownia wodna wykorzystuje energię wody do wytwarzania elektryczności.",
+    "Może korzystać z zapory i zbiornika albo z przepływu rzeki bez dużego magazynowania wody."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

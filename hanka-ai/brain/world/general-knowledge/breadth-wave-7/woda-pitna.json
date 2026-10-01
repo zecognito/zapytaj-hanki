@@ -1,0 +1,21 @@
+{
+  "id": "world-woda-pitna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Woda pitna",
+  "facts": [
+    "Woda pitna musi spełniać wymagania jakościowe ograniczające zagrożenia mikrobiologiczne i chemiczne.",
+    "Bezpieczna woda może pochodzić z wód powierzchniowych, podziemnych lub źródeł odsalanych po odpowiednim uzdatnieniu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

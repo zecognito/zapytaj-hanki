@@ -1,0 +1,21 @@
+{
+  "id": "world-siec-pokarmowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Sieć pokarmowa",
+  "facts": [
+    "Sieć pokarmowa pokazuje liczne powiązane relacje pokarmowe w ekosystemie.",
+    "Lepiej niż pojedynczy łańcuch odzwierciedla fakt, że organizmy często mają wiele źródeł pokarmu i drapieżników."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

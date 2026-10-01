@@ -1,0 +1,21 @@
+{
+  "id": "world-ropa-naftowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Ropa naftowa",
+  "facts": [
+    "Ropa naftowa jest naturalną mieszaniną ciekłych węglowodorów powstałą z materii organicznej przekształcanej przez miliony lat.",
+    "Rafinacja rozdziela i przetwarza ją na paliwa oraz surowce petrochemiczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

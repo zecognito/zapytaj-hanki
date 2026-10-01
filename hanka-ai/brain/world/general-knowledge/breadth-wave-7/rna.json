@@ -1,0 +1,21 @@
+{
+  "id": "world-rna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "RNA",
+  "facts": [
+    "RNA jest kwasem nukleinowym uczestniczącym między innymi w odczytywaniu i regulacji informacji genetycznej.",
+    "mRNA, tRNA i rRNA pełnią różne role w syntezie białek."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

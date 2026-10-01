@@ -1,0 +1,21 @@
+{
+  "id": "world-silnik-elektryczny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Silnik elektryczny",
+  "facts": [
+    "Silnik elektryczny przekształca energię elektryczną w ruch mechaniczny dzięki oddziaływaniom pól magnetycznych i prądu.",
+    "Stosuje się go od małych urządzeń po pojazdy i maszyny przemysłowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

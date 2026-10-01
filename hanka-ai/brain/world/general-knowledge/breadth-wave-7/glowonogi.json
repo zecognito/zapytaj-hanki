@@ -1,0 +1,21 @@
+{
+  "id": "world-glowonogi",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Głowonogi",
+  "facts": [
+    "Głowonogi są mięczakami obejmującymi ośmiornice, kałamarnice, mątwy i łodziki.",
+    "Mają dobrze rozwinięty układ nerwowy i ramiona lub macki otaczające otwór gębowy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

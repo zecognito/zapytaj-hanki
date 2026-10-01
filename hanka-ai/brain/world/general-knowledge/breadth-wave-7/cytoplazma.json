@@ -1,0 +1,21 @@
+{
+  "id": "world-cytoplazma",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Cytoplazma",
+  "facts": [
+    "Cytoplazma obejmuje zawartość komórki między błoną komórkową a jądrem, wraz z cytozolem i organellami.",
+    "Jest środowiskiem wielu reakcji metabolicznych i transportu wewnątrzkomórkowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

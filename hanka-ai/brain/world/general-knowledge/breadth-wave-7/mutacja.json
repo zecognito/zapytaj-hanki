@@ -1,0 +1,21 @@
+{
+  "id": "world-mutacja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Mutacja",
+  "facts": [
+    "Mutacja jest trwałą zmianą sekwencji materiału genetycznego.",
+    "Może być neutralna, szkodliwa lub korzystna, a jej skutki zależą od miejsca i kontekstu zmiany."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

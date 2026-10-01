@@ -1,0 +1,21 @@
+{
+  "id": "world-osmiornica",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Ośmiornica",
+  "facts": [
+    "Ośmiornice są głowonogami mającymi osiem ramion z przyssawkami.",
+    "Potrafią zmieniać barwę i teksturę skóry, a wiele gatunków wykazuje złożone zachowania poznawcze."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

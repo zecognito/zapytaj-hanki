@@ -1,0 +1,21 @@
+{
+  "id": "world-antymateria",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Antymateria",
+  "facts": [
+    "Antymateria składa się z antycząstek mających taką samą masę jak odpowiadające im cząstki, ale przeciwne niektóre liczby kwantowe, w tym ładunek elektryczny.",
+    "Spotkanie cząstki z antycząstką może prowadzić do anihilacji i przekształcenia ich energii w inne cząstki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

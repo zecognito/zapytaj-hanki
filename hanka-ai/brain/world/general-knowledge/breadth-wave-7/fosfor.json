@@ -1,0 +1,21 @@
+{
+  "id": "world-fosfor",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Fosfor",
+  "facts": [
+    "Fosfor jest pierwiastkiem niezbędnym dla życia i składnikiem DNA, RNA, ATP oraz fosfolipidów.",
+    "W środowisku krąży głównie w postaci fosforanów i nie ma dużej gazowej fazy obiegu podobnej do azotu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

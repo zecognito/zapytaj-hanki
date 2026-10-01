@@ -1,0 +1,21 @@
+{
+  "id": "world-elektrownia-geotermalna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Elektrownia geotermalna",
+  "facts": [
+    "Elektrownia geotermalna wykorzystuje ciepło wnętrza Ziemi do produkcji energii elektrycznej.",
+    "Najlepsze warunki występują tam, gdzie gorące skały i płyny są dostępne na osiągalnej głębokości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

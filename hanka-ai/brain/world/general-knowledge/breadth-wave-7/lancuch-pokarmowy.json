@@ -1,0 +1,21 @@
+{
+  "id": "world-lancuch-pokarmowy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Łańcuch pokarmowy",
+  "facts": [
+    "Łańcuch pokarmowy przedstawia uproszczony przepływ energii i materii między organizmami przez zjadanie.",
+    "W rzeczywistych ekosystemach wiele łańcuchów łączy się w sieci pokarmowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-siedlisko",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Siedlisko",
+  "facts": [
+    "Siedlisko jest środowiskiem, w którym żyje dany organizm lub populacja.",
+    "Zapewnia zasoby i warunki potrzebne do przeżycia oraz rozmnażania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

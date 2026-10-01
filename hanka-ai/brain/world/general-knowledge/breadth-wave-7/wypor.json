@@ -1,0 +1,21 @@
+{
+  "id": "world-wypor",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Siła wyporu",
+  "facts": [
+    "Siła wyporu działa na ciało zanurzone w płynie i jest skierowana przeciwnie do efektywnego kierunku ciężaru.",
+    "Zgodnie z prawem Archimedesa jej wartość odpowiada ciężarowi wypartego płynu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

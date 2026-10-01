@@ -1,0 +1,21 @@
+{
+  "id": "world-ogniwo-paliwowe",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Ogniwo paliwowe",
+  "facts": [
+    "Ogniwo paliwowe przekształca energię chemiczną paliwa bezpośrednio w energię elektryczną w reakcji elektrochemicznej.",
+    "W ogniwie wodorowym głównym produktem reakcji z tlenem jest woda."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

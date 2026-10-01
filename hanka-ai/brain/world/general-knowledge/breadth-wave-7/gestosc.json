@@ -1,0 +1,21 @@
+{
+  "id": "world-gestosc",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Gęstość",
+  "facts": [
+    "Gęstość jest stosunkiem masy substancji do zajmowanej przez nią objętości.",
+    "Wpływa między innymi na zachowanie ciał w płynach i cyrkulację atmosfery oraz oceanów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-sublimacja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Sublimacja",
+  "facts": [
+    "Sublimacja jest bezpośrednim przejściem substancji ze stanu stałego do gazowego bez fazy ciekłej.",
+    "Lód i śnieg mogą sublimować w suchym powietrzu nawet przy temperaturze poniżej zera."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

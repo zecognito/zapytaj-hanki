@@ -1,0 +1,21 @@
+{
+  "id": "world-homeostaza",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Homeostaza",
+  "facts": [
+    "Homeostaza oznacza utrzymywanie względnie stabilnych warunków wewnętrznych organizmu mimo zmian otoczenia.",
+    "Regulacja temperatury, pH i stężenia glukozy są przykładami procesów homeostatycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

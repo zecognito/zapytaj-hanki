@@ -1,0 +1,21 @@
+{
+  "id": "world-receptor",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Receptor komórkowy",
+  "facts": [
+    "Receptor komórkowy jest białkiem lub kompleksem białkowym rozpoznającym określone cząsteczki sygnałowe.",
+    "Związanie ligandu może uruchomić zmianę aktywności komórki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-odwrocona-osmoza",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Odwrócona osmoza",
+  "facts": [
+    "Odwrócona osmoza wykorzystuje ciśnienie do przepychania wody przez półprzepuszczalną membranę przeciwnie do naturalnego kierunku osmozy.",
+    "Pozwala usuwać znaczną część rozpuszczonych soli i innych zanieczyszczeń."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

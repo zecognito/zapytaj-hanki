@@ -1,0 +1,21 @@
+{
+  "id": "world-turbina-wodna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Turbina wodna",
+  "facts": [
+    "Turbina wodna przekształca energię przepływającej lub spadającej wody w ruch obrotowy.",
+    "W elektrowniach wodnych ruch turbiny napędza generator elektryczny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

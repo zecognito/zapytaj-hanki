@@ -1,0 +1,21 @@
+{
+  "id": "world-cement",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Cement",
+  "facts": [
+    "Cement jest hydraulicznym spoiwem, które po zmieszaniu z wodą wiąże i twardnieje.",
+    "Cement portlandzki jest najczęściej używanym rodzajem cementu do produkcji betonu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

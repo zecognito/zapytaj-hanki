@@ -1,0 +1,21 @@
+{
+  "id": "world-odbicie-swiatla",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Odbicie światła",
+  "facts": [
+    "Odbicie światła zachodzi, gdy fala wraca od granicy ośrodków zamiast przejść przez nią w całości.",
+    "Dla gładkiej powierzchni kąt odbicia jest równy kątowi padania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

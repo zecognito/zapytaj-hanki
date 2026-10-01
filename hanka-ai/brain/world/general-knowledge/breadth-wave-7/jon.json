@@ -1,0 +1,21 @@
+{
+  "id": "world-jon",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Jon",
+  "facts": [
+    "Jon jest atomem lub cząsteczką mającą netto ładunek elektryczny wskutek utraty albo przyjęcia elektronów.",
+    "Dodatni jon to kation, a ujemny to anion."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

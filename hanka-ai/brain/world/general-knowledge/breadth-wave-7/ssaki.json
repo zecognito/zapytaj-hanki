@@ -1,0 +1,21 @@
+{
+  "id": "world-ssaki",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Ssaki",
+  "facts": [
+    "Ssaki są kręgowcami charakteryzującymi się między innymi włosami i gruczołami mlecznymi.",
+    "Większość rodzi żywe młode, ale stekowce składają jaja."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

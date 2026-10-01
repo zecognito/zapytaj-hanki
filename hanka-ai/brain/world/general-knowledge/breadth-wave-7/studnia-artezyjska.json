@@ -1,0 +1,21 @@
+{
+  "id": "world-studnia-artezyjska",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Studnia artezyjska",
+  "facts": [
+    "Studnia artezyjska czerpie wodę z warstwy wodonośnej znajdującej się pod ciśnieniem.",
+    "Po przewierceniu warstwy izolującej woda może podnosić się w studni powyżej stropu warstwy wodonośnej, a czasem wypływać samoczynnie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

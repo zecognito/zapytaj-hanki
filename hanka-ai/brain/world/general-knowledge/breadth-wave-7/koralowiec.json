@@ -1,0 +1,21 @@
+{
+  "id": "world-koralowiec",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Koralowiec",
+  "facts": [
+    "Koralowce są zwierzętami z typu parzydełkowców, zwykle żyjącymi jako polipy.",
+    "Wiele gatunków rafotwórczych żyje w symbiozie z fotosyntetyzującymi glonami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

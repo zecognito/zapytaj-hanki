@@ -1,0 +1,21 @@
+{
+  "id": "world-wymieranie-masowe",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Wymieranie masowe",
+  "facts": [
+    "Wymieranie masowe jest geologicznie krótkim okresem, w którym zanika wyjątkowo duża część globalnej różnorodności gatunkowej.",
+    "W zapisie kopalnym wyróżnia się pięć szczególnie wielkich wymierań fanerozoiku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

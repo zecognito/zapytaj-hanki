@@ -1,0 +1,21 @@
+{
+  "id": "world-homininy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Homininy",
+  "facts": [
+    "Homininy obejmują ludzi oraz wymarłe linie bliżej spokrewnione z człowiekiem niż z szympansem.",
+    "Do tej grupy należą między innymi rodzaje Australopithecus i Homo."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

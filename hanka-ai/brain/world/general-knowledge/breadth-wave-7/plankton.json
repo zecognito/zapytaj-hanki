@@ -1,0 +1,21 @@
+{
+  "id": "world-plankton",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Plankton",
+  "facts": [
+    "Plankton obejmuje organizmy unoszące się w wodzie, których ruch jest w dużej mierze zależny od prądów.",
+    "Fitoplankton prowadzi fotosyntezę, a zooplankton obejmuje liczne organizmy cudzożywne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-moment-pedu",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Moment pędu",
+  "facts": [
+    "Moment pędu opisuje ruch obrotowy i zależy od rozkładu masy oraz ruchu względem wybranego punktu lub osi.",
+    "W izolowanym układzie całkowity moment pędu jest zachowany."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

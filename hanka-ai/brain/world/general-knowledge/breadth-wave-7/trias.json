@@ -1,0 +1,21 @@
+{
+  "id": "world-trias",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Trias",
+  "facts": [
+    "Trias był pierwszym okresem mezozoiku, około 252–201 milionów lat temu.",
+    "Pojawiły się w nim pierwsze dinozaury i pierwsze ssaki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

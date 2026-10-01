@@ -1,0 +1,21 @@
+{
+  "id": "world-smog",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Smog",
+  "facts": [
+    "Smog jest zanieczyszczeniem powietrza powstającym z mieszaniny różnych związków i cząstek.",
+    "Smog fotochemiczny tworzy się, gdy tlenki azotu i lotne związki organiczne reagują pod wpływem światła słonecznego, tworząc między innymi ozon przyziemny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

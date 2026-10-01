@@ -1,0 +1,21 @@
+{
+  "id": "world-prawo-ohma",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Prawo Ohma",
+  "facts": [
+    "Prawo Ohma dla elementu omowego wiąże napięcie, natężenie prądu i opór zależnością V=IR.",
+    "Nie wszystkie materiały i urządzenia zachowują stały opór w szerokim zakresie warunków."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

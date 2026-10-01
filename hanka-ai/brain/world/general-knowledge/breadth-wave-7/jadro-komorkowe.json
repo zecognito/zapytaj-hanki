@@ -1,0 +1,21 @@
+{
+  "id": "world-jadro-komorkowe",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Jądro komórkowe",
+  "facts": [
+    "Jądro komórkowe przechowuje większość DNA komórek eukariotycznych.",
+    "Otacza je podwójna otoczka jądrowa z porami regulującymi transport cząsteczek."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

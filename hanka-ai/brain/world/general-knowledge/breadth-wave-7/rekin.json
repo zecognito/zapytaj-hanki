@@ -1,0 +1,21 @@
+{
+  "id": "world-rekin",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Rekin",
+  "facts": [
+    "Rekiny są rybami chrzęstnoszkieletowymi o szkielecie zbudowanym głównie z chrząstki.",
+    "Istnieją setki gatunków rekinów, od małych form dennych po ogromnego rekina wielorybiego żywiącego się planktonem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

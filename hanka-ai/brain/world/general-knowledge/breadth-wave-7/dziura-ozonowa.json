@@ -1,0 +1,21 @@
+{
+  "id": "world-dziura-ozonowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Dziura ozonowa",
+  "facts": [
+    "Dziura ozonowa oznacza silne sezonowe zmniejszenie ilości ozonu stratosferycznego, szczególnie nad Antarktydą.",
+    "Główną przyczyną były związki uwalniające chlor i brom, w tym historyczne emisje CFC."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

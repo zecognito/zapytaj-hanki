@@ -1,0 +1,21 @@
+{
+  "id": "world-chromosom",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Chromosom",
+  "facts": [
+    "Chromosom jest strukturą z DNA i białek, która organizuje materiał genetyczny komórki.",
+    "Liczba chromosomów jest charakterystyczna dla gatunku, ale nie określa jego złożoności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

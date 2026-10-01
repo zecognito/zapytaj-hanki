@@ -1,0 +1,21 @@
+{
+  "id": "world-adrenalina",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Adrenalina",
+  "facts": [
+    "Adrenalina, czyli epinefryna, jest hormonem i neuroprzekaźnikiem związanym z szybką reakcją organizmu na stres.",
+    "Zwiększa między innymi częstość pracy serca i mobilizację dostępnej energii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

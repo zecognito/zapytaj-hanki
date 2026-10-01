@@ -1,0 +1,21 @@
+{
+  "id": "world-datowanie-radiometryczne",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Datowanie radiometryczne",
+  "facts": [
+    "Datowanie radiometryczne określa wiek materiału na podstawie znanego tempa rozpadu izotopów promieniotwórczych.",
+    "Różne układy izotopowe nadają się do materiałów i przedziałów wieku o różnych właściwościach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

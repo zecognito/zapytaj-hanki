@@ -1,0 +1,21 @@
+{
+  "id": "world-kondensacja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Kondensacja",
+  "facts": [
+    "Kondensacja jest przejściem substancji z fazy gazowej do ciekłej.",
+    "W atmosferze kondensacja pary wodnej uczestniczy w tworzeniu chmur, rosy i opadów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

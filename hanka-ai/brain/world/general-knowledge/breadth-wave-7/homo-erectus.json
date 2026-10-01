@@ -1,0 +1,21 @@
+{
+  "id": "world-homo-erectus",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Homo erectus",
+  "facts": [
+    "Homo erectus był gatunkiem lub zespołem blisko spokrewnionych populacji człowieka żyjących od około 2 milionów lat temu.",
+    "Był jednym z pierwszych homininów szeroko rozprzestrzenionych poza Afrykę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

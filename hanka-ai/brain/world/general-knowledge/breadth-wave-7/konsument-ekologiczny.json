@@ -1,0 +1,21 @@
+{
+  "id": "world-konsument-ekologiczny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Konsument w ekosystemie",
+  "facts": [
+    "Konsument uzyskuje energię i materię przez zjadanie innych organizmów lub ich produktów.",
+    "Konsumenci mogą być roślinożercami, mięsożercami, wszystkożercami lub detrytusożercami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

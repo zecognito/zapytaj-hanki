@@ -1,0 +1,21 @@
+{
+  "id": "world-cisnienie-fizyka",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Ciśnienie w fizyce",
+  "facts": [
+    "Ciśnienie jest siłą działającą prostopadle na jednostkę powierzchni.",
+    "Jednostką SI jest paskal, czyli niuton na metr kwadratowy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

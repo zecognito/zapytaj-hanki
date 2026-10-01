@@ -1,0 +1,21 @@
+{
+  "id": "world-ozon",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "science-environment-and-materials",
+  "title": "Ozon",
+  "facts": [
+    "Ozon jest cząsteczką złożoną z trzech atomów tlenu.",
+    "W stratosferze pochłania znaczną część szkodliwego promieniowania ultrafioletowego, natomiast przy powierzchni jest zanieczyszczeniem powietrza."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.noaa.gov/",
+    "https://www.usgs.gov/"
+  ],
+  "related_public_pages": []
+}

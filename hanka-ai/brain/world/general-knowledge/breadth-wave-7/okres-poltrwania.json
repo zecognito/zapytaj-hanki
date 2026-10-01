@@ -1,0 +1,21 @@
+{
+  "id": "world-okres-poltrwania",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "physical-science-and-earth",
+  "title": "Okres półtrwania",
+  "facts": [
+    "Okres półtrwania jest czasem, po którym średnio połowa jąder danego izotopu promieniotwórczego ulega rozpadowi.",
+    "Nie oznacza czasu życia pojedynczego atomu, ponieważ rozpad ma charakter probabilistyczny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/",
+    "https://www.energy.gov/"
+  ],
+  "related_public_pages": []
+}

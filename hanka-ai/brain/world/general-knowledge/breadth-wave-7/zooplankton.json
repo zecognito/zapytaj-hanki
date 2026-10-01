@@ -1,0 +1,21 @@
+{
+  "id": "world-zooplankton",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Zooplankton",
+  "facts": [
+    "Zooplankton obejmuje planktoniczne organizmy cudzożywne, od mikroskopijnych protistów po larwy większych zwierząt.",
+    "Żywi się fitoplanktonem lub innymi organizmami i przenosi energię w morskich sieciach pokarmowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-gady",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Gady",
+  "facts": [
+    "Gady są owodniowcami obejmującymi między innymi żółwie, krokodyle, jaszczurki i węże.",
+    "W nowoczesnej systematyce ptaki również należą do ewolucyjnej linii gadów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}

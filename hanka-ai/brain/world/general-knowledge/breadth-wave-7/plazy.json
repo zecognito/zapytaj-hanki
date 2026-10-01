@@ -1,0 +1,21 @@
+{
+  "id": "world-plazy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "biology-and-life",
+  "title": "Płazy",
+  "facts": [
+    "Płazy są kręgowcami obejmującymi żaby, salamandry i płazy beznogie.",
+    "Wiele gatunków przechodzi rozwój larwalny w wodzie i jest silnie zależnych od wilgotnego środowiska."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nih.gov/",
+    "https://www.si.edu/"
+  ],
+  "related_public_pages": []
+}
