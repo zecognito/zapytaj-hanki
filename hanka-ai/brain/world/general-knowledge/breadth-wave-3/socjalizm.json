@@ -4,18 +4,17 @@
   "jurisdiction": "global",
   "region": "WORLD",
   "topic": "world-general-knowledge",
-  "subtopic": "human-geography-and-economy",
+  "subtopic": "civics-and-political-systems",
   "title": "Socjalizm",
   "facts": [
-    "Socjalizm jest podstawowym pojęciem pomagającym opisywać społeczeństwa, ludność lub gospodarkę w skali świata.",
-    "Hanka Brain traktuje Socjalizm jako osobny koncept globalnej wiedzy, który może później zostać pogłębiony i połączony z przykładami krajowymi."
+    "Socjalizm obejmuje doktryny podkreślające społeczną lub publiczną kontrolę nad istotną częścią gospodarki.",
+    "Nurty socjalistyczne różnią się podejściem do rynku, własności i demokracji."
   ],
   "effective_from": null,
   "effective_to": null,
   "last_verified": "2026-10-01",
   "official_sources": [
-    "https://www.un.org/",
-    "https://www.worldbank.org/"
+    "https://www.un.org/"
   ],
   "related_public_pages": []
 }

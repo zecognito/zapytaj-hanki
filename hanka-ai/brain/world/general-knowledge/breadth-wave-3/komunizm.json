@@ -4,18 +4,17 @@
   "jurisdiction": "global",
   "region": "WORLD",
   "topic": "world-general-knowledge",
-  "subtopic": "human-geography-and-economy",
+  "subtopic": "civics-and-political-systems",
   "title": "Komunizm",
   "facts": [
-    "Komunizm jest podstawowym pojęciem pomagającym opisywać społeczeństwa, ludność lub gospodarkę w skali świata.",
-    "Hanka Brain traktuje Komunizm jako osobny koncept globalnej wiedzy, który może później zostać pogłębiony i połączony z przykładami krajowymi."
+    "W teorii marksistowskiej komunizm zakłada społeczeństwo bezklasowe i wspólną własność środków produkcji.",
+    "XX-wieczne państwa komunistyczne często tworzyły systemy jednopartyjne i gospodarki planowe."
   ],
   "effective_from": null,
   "effective_to": null,
   "last_verified": "2026-10-01",
   "official_sources": [
-    "https://www.un.org/",
-    "https://www.worldbank.org/"
+    "https://www.un.org/"
   ],
   "related_public_pages": []
 }

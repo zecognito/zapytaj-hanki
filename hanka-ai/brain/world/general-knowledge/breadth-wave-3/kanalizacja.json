@@ -4,17 +4,18 @@
   "jurisdiction": "global",
   "region": "WORLD",
   "topic": "world-general-knowledge",
-  "subtopic": "medicine-and-health",
+  "subtopic": "human-geography-and-economy",
   "title": "Kanalizacja",
   "facts": [
-    "Kanalizacja jest podstawowym pojęciem medycyny, biologii człowieka lub zdrowia publicznego o znaczeniu globalnym.",
-    "Rekord breadth-first daje Hance osobny punkt wiedzy dla Kanalizacja, który w fazie depth może otrzymać mechanizmy, historię i praktyczne konteksty."
+    "Kanalizacja zbiera i odprowadza ścieki do systemów oczyszczania lub unieszkodliwiania.",
+    "Jej rozwój ograniczył transmisję wielu chorób przenoszonych przez skażoną wodę."
   ],
   "effective_from": null,
   "effective_to": null,
   "last_verified": "2026-10-01",
   "official_sources": [
-    "https://www.who.int/"
+    "https://www.un.org/",
+    "https://www.worldbank.org/"
   ],
   "related_public_pages": []
 }
