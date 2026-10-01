@@ -39,6 +39,9 @@ jobs:
       - name: Validate staged records
         run: npm run validate
 
+      - name: Syntax-check quality gate
+        run: node --check src/quality-gate.mjs
+
       - name: Run quality gate
         id: quality
         continue-on-error: true
