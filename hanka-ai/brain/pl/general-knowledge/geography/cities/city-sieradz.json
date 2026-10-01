@@ -1,0 +1,20 @@
+{
+  "id": "city-sieradz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "geography",
+  "subtopic": "cities",
+  "title": "Sieradz",
+  "facts": [
+    "Sieradz jest miastem w województwie łódzkim.",
+    "Miasto jest ujmowane w polskim systemie jednostek terytorialnych rejestru TERYT."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://stat.gov.pl/statystyka-regionalna/jednostki-terytorialne/podzial-administracyjny-polski/"
+  ],
+  "related_public_pages": []
+}
