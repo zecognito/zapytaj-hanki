@@ -5,36 +5,61 @@
       "description": "Physical and administrative places",
       "profiles": [
         "country-enrichment",
-        "cities"
+        "cities",
+        "mountains",
+        "rivers",
+        "lakes",
+        "islands"
       ]
     },
     "people": {
       "description": "People and biographies",
-      "profiles": []
+      "profiles": [
+        "scientists",
+        "writers",
+        "artists"
+      ]
     },
     "events": {
       "description": "Historical and dated events",
-      "profiles": []
+      "profiles": [
+        "historical-events",
+        "wars"
+      ]
     },
     "organizations": {
       "description": "Institutions and organizations",
-      "profiles": []
+      "profiles": [
+        "organizations",
+        "universities"
+      ]
     },
     "works": {
       "description": "Books, films, artworks and cultural works",
-      "profiles": []
+      "profiles": [
+        "books",
+        "films"
+      ]
     },
     "concepts": {
       "description": "Science, technology and general concepts",
-      "profiles": []
+      "profiles": [
+        "chemical-elements",
+        "planets"
+      ]
     },
     "infrastructure": {
       "description": "Transport and built infrastructure",
-      "profiles": []
+      "profiles": [
+        "airports",
+        "bridges"
+      ]
     },
     "statistics": {
       "description": "Dated statistical observations",
-      "profiles": []
+      "profiles": [
+        "population-observations"
+      ]
     }
   }
 }
