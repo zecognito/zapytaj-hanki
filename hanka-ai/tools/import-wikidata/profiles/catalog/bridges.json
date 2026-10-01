@@ -1,0 +1,23 @@
+{
+  "name": "bridges",
+  "family": "infrastructure",
+  "topic": "transportation",
+  "subtopic": "bridge-profile",
+  "source": "wikidata",
+  "selector": {
+    "instanceOf": "Q12280",
+    "includeSubclasses": true
+  },
+  "properties": [
+    "P17",
+    "P131",
+    "P2043"
+  ],
+  "languagePriority": [
+    "pl",
+    "en"
+  ],
+  "output": "bridges",
+  "status": "mapped",
+  "enabled": false
+}
