@@ -55,7 +55,7 @@ jobs:
       - name: Upload candidates and review report
         uses: actions/upload-artifact@v4
         with:
-          name: hanka-brain-expansion-\${{ github.run_id }}
+          name: hanka-brain-expansion
           path: |
             hanka-ai/tools/import-wikidata/staging/**/*.json
             hanka-ai/tools/import-wikidata/review-report.json
