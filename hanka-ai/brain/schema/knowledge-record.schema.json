@@ -26,12 +26,13 @@
     },
     "country": {
       "type": "string",
-      "minLength": 2,
-      "maxLength": 2
+      "pattern": "^(?:[A-Z]{2}|GLOBAL)$",
+      "description": "ISO 3166-1 alpha-2 code for country-bound knowledge, or GLOBAL for knowledge that is not truthfully attributable to one country."
     },
     "jurisdiction": {
       "enum": [
         "federal",
+        "national",
         "state",
         "local",
         "general"
@@ -97,5 +98,5 @@
       }
     }
   },
-  "description": "Canonical Hanka Brain factual record. Human-facing title and facts MUST be written in natural Polish. Stable machine fields such as id, topic and subtopic remain English identifiers. Preserve common U.S. terms in English where Polish users encounter them naturally (for example REAL ID, Medicaid, SNAP, escrow, 401(k), DMV). Official source URLs remain original."
+  "description": "Canonical Hanka Brain factual record. Human-facing title and facts MUST be written in natural Polish. Stable machine fields such as id, topic and subtopic remain English identifiers. Preserve common U.S. terms in English where Polish users encounter them naturally (for example REAL ID, Medicaid, SNAP, escrow, 401(k), DMV). Official source URLs remain original. Country-bound records use ISO alpha-2 country codes; genuinely transnational or non-country knowledge uses GLOBAL. Jurisdiction national is valid for country-level systems outside the U.S. federal model."
 }
