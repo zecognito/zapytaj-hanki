@@ -16,6 +16,168 @@
       "enabled": true,
       "batchSize": 100,
       "maxPages": 20
+    },
+    {
+      "name": "mountains",
+      "family": "places",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "rivers",
+      "family": "places",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "lakes",
+      "family": "places",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "islands",
+      "family": "places",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "scientists",
+      "family": "people",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "writers",
+      "family": "people",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "artists",
+      "family": "people",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "historical-events",
+      "family": "events",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "wars",
+      "family": "events",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "organizations",
+      "family": "organizations",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "universities",
+      "family": "organizations",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "books",
+      "family": "works",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "films",
+      "family": "works",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "chemical-elements",
+      "family": "concepts",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "planets",
+      "family": "concepts",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "airports",
+      "family": "infrastructure",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "bridges",
+      "family": "infrastructure",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
+    },
+    {
+      "name": "population-observations",
+      "family": "statistics",
+      "runner": "generic-profile.mjs",
+      "enabled": false,
+      "batchSize": 100,
+      "maxPages": 20,
+      "blockedBy": "source-and-country-quality-gates"
     }
   ]
 }
