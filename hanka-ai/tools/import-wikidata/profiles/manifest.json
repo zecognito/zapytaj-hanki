@@ -21,163 +21,145 @@
       "name": "mountains",
       "family": "places",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "rivers",
       "family": "places",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "lakes",
       "family": "places",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "islands",
       "family": "places",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "scientists",
       "family": "people",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "writers",
       "family": "people",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "artists",
       "family": "people",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "historical-events",
       "family": "events",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "wars",
       "family": "events",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "organizations",
       "family": "organizations",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "universities",
       "family": "organizations",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "books",
       "family": "works",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "films",
       "family": "works",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "chemical-elements",
       "family": "concepts",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "planets",
       "family": "concepts",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "airports",
       "family": "infrastructure",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "bridges",
       "family": "infrastructure",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     },
     {
       "name": "population-observations",
       "family": "statistics",
       "runner": "generic-profile.mjs",
-      "enabled": false,
-      "batchSize": 100,
-      "maxPages": 20,
-      "blockedBy": "source-and-country-quality-gates"
+      "enabled": true,
+      "batchSize": 25,
+      "maxPages": 4
     }
   ]
 }
