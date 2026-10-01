@@ -58,5 +58,6 @@ jobs:
           path: |
             hanka-ai/tools/import-wikidata/staging/**/*.json
             hanka-ai/tools/import-wikidata/review-report.json
+            hanka-ai/tools/import-wikidata/orchestration-report.json
           if-no-files-found: error
           retention-days: 7
