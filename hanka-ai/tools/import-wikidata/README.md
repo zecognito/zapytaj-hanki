@@ -1,34 +1,48 @@
-# Hanka Brain Wikidata importer
+# Hanka Brain structured-data importer
 
-Candidate-record generator for Hanka Brain. GitHub remains canonical; Wikidata is an upstream structured-data source, never the runtime Brain.
+Reusable candidate-record pipeline for Hanka Brain. GitHub remains canonical; upstream structured sources are inputs, never the runtime Brain.
 
-## Safety model
+## Architecture
 
-1. Fetch structured source data.
-2. Normalize into Hanka's schema and natural Polish facts.
-3. Write only to local `staging/` (ignored by Git).
-4. Deduplicate against existing Brain IDs.
-5. Validate candidates against `brain/schema/knowledge-record.schema.json`.
-6. Review candidates before any Brain commit.
-7. Never overwrite curated Brain records automatically.
+One engine is shared across knowledge domains:
 
-## First profile: cities
+`entity families -> profile manifest -> source query -> enrichment -> normalization -> quality gates -> dedupe -> schema validation -> staging`
 
-Requires Node.js 20+.
+Entity families live in `families/registry.json`. Profiles live in `profiles/manifest.json`. A profile supplies subject-specific mapping/query rules; it does not create a new import engine.
+
+## Automatic orchestration
 
 ```bash
 cd hanka-ai/tools/import-wikidata
 npm install
-npm run import:cities -- 100 0
+npm run import:all
 npm run validate
 ```
 
-Arguments after the profile are `limit` and `offset`. Increase them only after reviewing the previous batch. The city query requires an official website and an ISO 3166-1 alpha-2 country code, so generated records can satisfy the current canonical schema.
+The orchestrator runs every enabled profile, advances offsets automatically, stops when a source page is exhausted, and respects each profile's batch/page safety limits.
 
-## Scaling
+A family or profile can also be targeted without manually managing offsets:
 
-Additional profiles should live in `profiles/` with matching SPARQL in `queries/`. Keep import, validation, staging and canonical commit as separate stages. Large batches should be committed with Git tree/commit operations rather than thousands of one-file connector writes.
+```bash
+npm run import:family -- places
+npm run import:family -- country-enrichment
+```
 
-## Known schema note
+## Safety model
 
-The current canonical schema requires a two-character `country` value. Some manually curated World records use `GLOBAL`; this pre-existing mismatch is intentionally not changed by the importer. New entity records should use ISO alpha-2 country codes where a country exists.
+1. Select source entities.
+2. Enrich and normalize into Hanka records.
+3. Write only to ignored `staging/`.
+4. Deduplicate against canonical Brain IDs.
+5. Validate against `brain/schema/knowledge-record.schema.json`.
+6. Produce reviewable candidates/artifacts.
+7. Never overwrite curated Brain records automatically.
+8. Never write to canonical Brain or Vectorize from the importer.
+
+## Scaling rule
+
+Do not create a bespoke importer for every Brain category. Reuse a small number of entity families and add declarative profiles/mappings. Change the shared engine only for genuine cross-category infrastructure bugs.
+
+## Schema note
+
+The current canonical schema requires a two-character `country` value. Some existing World records use `GLOBAL`; this pre-existing mismatch is not changed by this importer.
