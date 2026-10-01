@@ -1,0 +1,20 @@
+{
+  "id": "world-informatyka",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "technology-and-engineering",
+  "title": "Informatyka",
+  "facts": [
+    "Informatyka bada obliczenia, algorytmy, dane oraz systemy przetwarzające informacje.",
+    "Obejmuje m.in. programowanie, teorię obliczeń, bazy danych, sieci i sztuczną inteligencję."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.itu.int/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-sztuczny-satelita",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "technology-and-engineering",
+  "title": "Sztuczny satelita",
+  "facts": [
+    "Sztuczny satelita jest obiektem zbudowanym przez człowieka i umieszczonym na orbicie.",
+    "Satelity służą m.in. komunikacji, nawigacji, obserwacji Ziemi, meteorologii i badaniom naukowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.itu.int/"
+  ],
+  "related_public_pages": []
+}

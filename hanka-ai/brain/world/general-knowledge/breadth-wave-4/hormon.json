@@ -1,0 +1,20 @@
+{
+  "id": "world-hormon",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "medicine-and-health",
+  "title": "Hormon",
+  "facts": [
+    "Hormony są chemicznymi sygnałami wytwarzanymi przez komórki lub gruczoły i wpływającymi na inne tkanki.",
+    "Regulują m.in. wzrost, metabolizm, rozmnażanie, reakcję na stres i gospodarkę wodną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

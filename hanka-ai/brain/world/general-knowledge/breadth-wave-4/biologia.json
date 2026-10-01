@@ -1,0 +1,20 @@
+{
+  "id": "world-biologia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "foundational-science-and-earth",
+  "title": "Biologia",
+  "facts": [
+    "Biologia jest nauką o życiu i organizmach żywych.",
+    "Obejmuje m.in. genetykę, ewolucję, ekologię, fizjologię i biologię komórki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

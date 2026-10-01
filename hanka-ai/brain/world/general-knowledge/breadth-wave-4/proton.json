@@ -1,0 +1,20 @@
+{
+  "id": "world-proton",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "foundational-science-and-earth",
+  "title": "Proton",
+  "facts": [
+    "Proton ma dodatni ładunek elektryczny i znajduje się w jądrze atomowym.",
+    "Liczba protonów w jądrze określa liczbę atomową i tożsamość pierwiastka."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

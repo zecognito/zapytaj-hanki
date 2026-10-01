@@ -1,0 +1,20 @@
+{
+  "id": "world-technologia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "technology-and-engineering",
+  "title": "Technologia",
+  "facts": [
+    "Technologia obejmuje praktyczne zastosowanie wiedzy, narzędzi i metod do rozwiązywania problemów i wykonywania zadań.",
+    "Może obejmować zarówno proste narzędzia, jak i elektronikę, biotechnologię i systemy cyfrowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.itu.int/"
+  ],
+  "related_public_pages": []
+}

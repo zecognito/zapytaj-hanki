@@ -1,0 +1,21 @@
+{
+  "id": "world-ekonomia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "human-geography-and-economy",
+  "title": "Ekonomia",
+  "facts": [
+    "Ekonomia bada sposób podejmowania decyzji o wykorzystaniu ograniczonych zasobów.",
+    "Mikroekonomia analizuje m.in. gospodarstwa domowe i firmy, a makroekonomia całą gospodarkę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.worldbank.org/"
+  ],
+  "related_public_pages": []
+}

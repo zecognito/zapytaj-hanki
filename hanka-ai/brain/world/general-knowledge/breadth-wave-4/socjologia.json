@@ -1,0 +1,21 @@
+{
+  "id": "world-socjologia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "human-geography-and-economy",
+  "title": "Socjologia",
+  "facts": [
+    "Socjologia bada społeczeństwo, grupy społeczne, instytucje i wzorce relacji między ludźmi.",
+    "Analizuje m.in. rodzinę, edukację, nierówności, organizacje, kulturę i zmiany społeczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.worldbank.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "world-inflacja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "human-geography-and-economy",
+  "title": "Inflacja",
+  "facts": [
+    "Inflacja oznacza trwały wzrost ogólnego poziomu cen dóbr i usług w gospodarce.",
+    "Wysoka inflacja zmniejsza siłę nabywczą pieniądza, jeśli dochody nie rosną równie szybko."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.worldbank.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-uklad-nerwowy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "medicine-and-health",
+  "title": "Układ nerwowy",
+  "facts": [
+    "Układ nerwowy odbiera informacje, przetwarza je i koordynuje reakcje organizmu.",
+    "U człowieka obejmuje ośrodkowy układ nerwowy, czyli mózg i rdzeń kręgowy, oraz układ obwodowy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

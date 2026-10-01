@@ -1,0 +1,20 @@
+{
+  "id": "world-uklad-pokarmowy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "medicine-and-health",
+  "title": "Układ pokarmowy",
+  "facts": [
+    "Układ pokarmowy rozkłada pokarm, wchłania składniki odżywcze i usuwa niestrawione pozostałości.",
+    "Obejmuje m.in. jamę ustną, przełyk, żołądek, jelita oraz współpracujące narządy takie jak wątroba i trzustka."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

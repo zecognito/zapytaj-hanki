@@ -1,0 +1,20 @@
+{
+  "id": "world-pierwiastek-radioaktywny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "foundational-science-and-earth",
+  "title": "Pierwiastek radioaktywny",
+  "facts": [
+    "Radioaktywne izotopy mają niestabilne jądra, które samorzutnie ulegają rozpadowi.",
+    "Rozpad może emitować m.in. promieniowanie alfa, beta lub gamma."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-ekologia-populacji",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "foundational-science-and-earth",
+  "title": "Ekologia populacji",
+  "facts": [
+    "Ekologia populacji bada liczebność, zagęszczenie, rozmieszczenie i dynamikę populacji organizmów.",
+    "Zmiany populacji zależą od urodzeń, zgonów, imigracji, emigracji i dostępności zasobów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

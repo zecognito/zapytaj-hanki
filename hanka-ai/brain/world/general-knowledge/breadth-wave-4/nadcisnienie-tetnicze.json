@@ -1,0 +1,20 @@
+{
+  "id": "world-nadcisnienie-tetnicze",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "medicine-and-health",
+  "title": "Nadciśnienie tętnicze",
+  "facts": [
+    "Nadciśnienie oznacza utrzymujące się zbyt wysokie ciśnienie krwi w tętnicach.",
+    "Nieleczone zwiększa ryzyko m.in. udaru, chorób serca i uszkodzenia nerek."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

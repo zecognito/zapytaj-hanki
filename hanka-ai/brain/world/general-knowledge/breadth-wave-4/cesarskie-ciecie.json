@@ -1,0 +1,20 @@
+{
+  "id": "world-cesarskie-ciecie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "medicine-and-health",
+  "title": "Cesarskie cięcie",
+  "facts": [
+    "Cesarskie cięcie jest operacyjnym sposobem porodu przez nacięcie brzucha i macicy.",
+    "Może być planowane lub wykonywane pilnie, gdy poród drogami natury stanowi zwiększone ryzyko."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

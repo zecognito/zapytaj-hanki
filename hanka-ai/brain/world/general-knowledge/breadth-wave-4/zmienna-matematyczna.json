@@ -1,0 +1,20 @@
+{
+  "id": "world-zmienna-matematyczna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "foundational-science-and-earth",
+  "title": "Zmienna matematyczna",
+  "facts": [
+    "Zmienna jest symbolem reprezentującym wartość, która może być nieznana lub zmieniać się.",
+    "Zmienne pozwalają zapisywać ogólne zależności w algebrze, funkcjach i równaniach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

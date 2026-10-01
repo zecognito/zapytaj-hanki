@@ -1,0 +1,20 @@
+{
+  "id": "world-robotyka",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "technology-and-engineering",
+  "title": "Robotyka",
+  "facts": [
+    "Robotyka zajmuje się projektowaniem, budową, sterowaniem i zastosowaniem robotów.",
+    "Łączy mechanikę, elektronikę, informatykę, automatykę i coraz częściej sztuczną inteligencję."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.itu.int/"
+  ],
+  "related_public_pages": []
+}

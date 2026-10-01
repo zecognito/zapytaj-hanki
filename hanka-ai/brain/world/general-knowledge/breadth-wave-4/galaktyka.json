@@ -1,0 +1,20 @@
+{
+  "id": "world-galaktyka",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "foundational-science-and-earth",
+  "title": "Galaktyka",
+  "facts": [
+    "Galaktyka jest ogromnym układem gwiazd, gazu, pyłu i ciemnej materii związanym grawitacyjnie.",
+    "Droga Mleczna jest galaktyką, w której znajduje się Układ Słoneczny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-szczepionka",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "medicine-and-health",
+  "title": "Szczepionka",
+  "facts": [
+    "Szczepionka przygotowuje układ odpornościowy do rozpoznania określonego patogenu lub jego składników.",
+    "Szczepienia zmniejszyły zachorowalność i śmiertelność z powodu wielu chorób zakaźnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

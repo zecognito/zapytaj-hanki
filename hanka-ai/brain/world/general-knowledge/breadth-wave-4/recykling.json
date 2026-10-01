@@ -1,0 +1,21 @@
+{
+  "id": "world-recykling",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "human-geography-and-economy",
+  "title": "Recykling",
+  "facts": [
+    "Recykling przetwarza zużyte materiały w surowce lub nowe produkty.",
+    "Może ograniczać zużycie części surowców pierwotnych, choć korzyści zależą od materiału i procesu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.worldbank.org/"
+  ],
+  "related_public_pages": []
+}

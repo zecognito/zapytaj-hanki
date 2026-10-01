@@ -1,0 +1,20 @@
+{
+  "id": "world-dializa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "medicine-and-health",
+  "title": "Dializa",
+  "facts": [
+    "Dializa zastępuje część funkcji nerek poprzez usuwanie produktów przemiany materii i nadmiaru płynu z organizmu.",
+    "Główne metody to hemodializa i dializa otrzewnowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

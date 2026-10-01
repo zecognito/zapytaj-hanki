@@ -1,0 +1,20 @@
+{
+  "id": "world-inzynieria",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "technology-and-engineering",
+  "title": "Inżynieria",
+  "facts": [
+    "Inżynieria wykorzystuje wiedzę naukową i matematyczną do projektowania oraz budowy urządzeń, konstrukcji i systemów.",
+    "Główne dziedziny obejmują m.in. inżynierię mechaniczną, elektryczną, lądową i chemiczną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.itu.int/"
+  ],
+  "related_public_pages": []
+}

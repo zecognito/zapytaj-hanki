@@ -1,0 +1,20 @@
+{
+  "id": "world-wulkanizm",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "foundational-science-and-earth",
+  "title": "Wulkanizm",
+  "facts": [
+    "Wulkanizm obejmuje procesy związane z przemieszczaniem magmy i wydostawaniem się materiału z wnętrza Ziemi.",
+    "Aktywność wulkaniczna koncentruje się często przy granicach płyt tektonicznych i nad plamami gorąca."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

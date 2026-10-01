@@ -1,0 +1,20 @@
+{
+  "id": "world-farmakologia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "medicine-and-health",
+  "title": "Farmakologia",
+  "facts": [
+    "Farmakologia bada działanie leków i innych substancji na organizmy.",
+    "Obejmuje farmakodynamikę, czyli wpływ leku na organizm, oraz farmakokinetykę, czyli los leku w organizmie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/"
+  ],
+  "related_public_pages": []
+}

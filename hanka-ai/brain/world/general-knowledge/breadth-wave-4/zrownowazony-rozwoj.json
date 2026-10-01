@@ -1,0 +1,21 @@
+{
+  "id": "world-zrownowazony-rozwoj",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "human-geography-and-economy",
+  "title": "Zrównoważony rozwój",
+  "facts": [
+    "Zrównoważony rozwój dąży do zaspokajania obecnych potrzeb bez podważania możliwości przyszłych pokoleń.",
+    "Łączy kwestie gospodarcze, społeczne i środowiskowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/",
+    "https://www.worldbank.org/"
+  ],
+  "related_public_pages": []
+}

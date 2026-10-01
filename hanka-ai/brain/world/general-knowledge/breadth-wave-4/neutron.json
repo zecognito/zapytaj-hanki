@@ -1,0 +1,20 @@
+{
+  "id": "world-neutron",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "foundational-science-and-earth",
+  "title": "Neutron",
+  "facts": [
+    "Neutron jest elektrycznie obojętną cząstką znajdującą się w jądrach większości atomów.",
+    "Liczba neutronów może różnić się między izotopami tego samego pierwiastka."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-mutacja-genetyczna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "foundational-science-and-earth",
+  "title": "Mutacja genetyczna",
+  "facts": [
+    "Mutacja jest trwałą zmianą sekwencji materiału genetycznego.",
+    "Mutacje mogą być neutralne, szkodliwe lub korzystne i stanowią źródło zmienności wykorzystywanej przez ewolucję."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/"
+  ],
+  "related_public_pages": []
+}
