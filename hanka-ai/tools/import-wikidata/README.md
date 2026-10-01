@@ -46,3 +46,11 @@ Do not create a bespoke importer for every Brain category. Reuse a small number 
 ## Schema note
 
 The current canonical schema requires a two-character `country` value. Some existing World records use `GLOBAL`; this pre-existing mismatch is not changed by this importer.
+
+## Quality and promotion
+
+`npm run quality` writes `review-report.json` and holds candidates that fail schema, collide with canonical IDs, strongly overlap an existing title/topic, rely only on weak discovery sources, or still contain generic placeholder prose.
+
+`npm run pipeline` runs configuration validation, enabled imports, schema validation and the quality gate. It does **not** promote anything.
+
+Promotion is a separate explicit action: `npm run promote`. It only copies records marked `pass` in the current review report, never overwrites an existing destination, and writes under `brain/imported/<topic>/<subtopic>/`. Promotion is not part of automatic orchestration and must only be run after review/approval.
