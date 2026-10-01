@@ -14,154 +14,154 @@
       "name": "cities",
       "family": "places",
       "runner": "import.mjs",
-      "enabled": true,
+      "enabled": false,
       "batchSize": 100,
       "maxPages": 2,
-      "note": "legacy importer isolated; generic city migration pending"
+      "note": "legacy importer retired from mass expansion; migrate to generic profile separately"
     },
     {
       "name": "mountains",
       "family": "places",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "rivers",
       "family": "places",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "lakes",
       "family": "places",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "islands",
       "family": "places",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "scientists",
       "family": "people",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "writers",
       "family": "people",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "artists",
       "family": "people",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "historical-events",
       "family": "events",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "wars",
       "family": "events",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "organizations",
       "family": "organizations",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "universities",
       "family": "organizations",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "books",
       "family": "works",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "films",
       "family": "works",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "chemical-elements",
       "family": "concepts",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "planets",
       "family": "concepts",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "airports",
       "family": "infrastructure",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "bridges",
       "family": "infrastructure",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     },
     {
       "name": "population-observations",
       "family": "statistics",
       "runner": "generic-profile.mjs",
       "enabled": true,
-      "batchSize": 25,
-      "maxPages": 4
+      "batchSize": 20,
+      "maxPages": 2
     }
   ]
 }
