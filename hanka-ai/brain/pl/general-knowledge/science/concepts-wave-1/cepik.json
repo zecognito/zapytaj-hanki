@@ -1,0 +1,21 @@
+{
+  "id": "cepik",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "CEPIK",
+  "facts": [
+    "Centralna Ewidencja Pojazdów i Kierowców gromadzi dane dotyczące pojazdów, właścicieli i uprawnień kierowców.",
+    "CEPiK jest jednym z kluczowych rejestrów informatycznych polskiej administracji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

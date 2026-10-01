@@ -1,0 +1,21 @@
+{
+  "id": "polvad",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "POLVAD",
+  "facts": [
+    "POLVAD jest polskim systemem pozaustrojowego wspomagania komór serca rozwijanym w Zabrzu.",
+    "Urządzenia tego typu mogą podtrzymywać krążenie podczas oczekiwania na regenerację serca lub transplantację."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

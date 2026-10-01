@@ -1,0 +1,21 @@
+{
+  "id": "obserwatorium-astronomiczne-uj",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Obserwatorium Astronomiczne UJ",
+  "facts": [
+    "Obserwatorium Astronomiczne Uniwersytetu Jagiellońskiego kontynuuje wielowiekową tradycję astronomii krakowskiej.",
+    "Prowadzi badania m.in. galaktyk, radioastronomii i astrofizyki wysokich energii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

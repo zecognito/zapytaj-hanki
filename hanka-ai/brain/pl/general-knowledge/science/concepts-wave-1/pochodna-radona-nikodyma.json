@@ -1,0 +1,20 @@
+{
+  "id": "pochodna-radona-nikodyma",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Pochodna Radona-Nikodyma",
+  "facts": [
+    "Pochodna Radona-Nikodyma jest funkcją reprezentującą jedną miarę względem drugiej przy spełnieniu warunku absolutnej ciągłości.",
+    "Pojęcie jest fundamentalne w teorii miary, prawdopodobieństwie i analizie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

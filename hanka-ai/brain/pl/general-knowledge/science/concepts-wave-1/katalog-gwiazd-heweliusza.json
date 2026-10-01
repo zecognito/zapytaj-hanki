@@ -1,0 +1,21 @@
+{
+  "id": "katalog-gwiazd-heweliusza",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Katalog gwiazd Heweliusza",
+  "facts": [
+    "Jan Heweliusz stworzył obszerny katalog pozycji gwiazd na podstawie własnych obserwacji.",
+    "Katalog został opublikowany po jego śmierci wraz z atlasem Firmamentum Sobiescianum."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

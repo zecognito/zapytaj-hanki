@@ -1,0 +1,21 @@
+{
+  "id": "mupus",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "MUPUS",
+  "facts": [
+    "MUPUS był instrumentem naukowym lądownika Philae misji Rosetta, z istotnym udziałem polskich inżynierów z CBK PAN.",
+    "Badał właściwości mechaniczne i termiczne powierzchni komety 67P."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "instytut-chemii-bioorganicznej-pan",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Instytut Chemii Bioorganicznej PAN",
+  "facts": [
+    "Instytut Chemii Bioorganicznej PAN w Poznaniu prowadzi badania nad kwasami nukleinowymi, biologią molekularną i bioinformatyką.",
+    "Z instytutem związane jest Poznańskie Centrum Superkomputerowo-Sieciowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

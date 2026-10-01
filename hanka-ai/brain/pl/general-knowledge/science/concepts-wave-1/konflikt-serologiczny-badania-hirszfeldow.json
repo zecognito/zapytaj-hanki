@@ -1,0 +1,21 @@
+{
+  "id": "konflikt-serologiczny-badania-hirszfeldow",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Konflikt serologiczny badania Hirszfeldów",
+  "facts": [
+    "Ludwik i Hanna Hirszfeldowie rozwijali w Polsce immunologię i serologię.",
+    "Ich środowisko badawcze przyczyniło się do rozwoju diagnostyki konfliktu serologicznego i transfuzjologii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

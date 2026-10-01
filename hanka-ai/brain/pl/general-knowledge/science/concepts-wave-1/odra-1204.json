@@ -1,0 +1,21 @@
+{
+  "id": "odra-1204",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Odra 1204",
+  "facts": [
+    "Odra 1204 była polskim komputerem tranzystorowym produkowanym przez Elwro.",
+    "Była wykorzystywana do obliczeń naukowych, technicznych i gospodarczych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

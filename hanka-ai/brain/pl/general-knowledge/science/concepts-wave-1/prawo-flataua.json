@@ -1,0 +1,21 @@
+{
+  "id": "prawo-flataua",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Prawo Flataua",
+  "facts": [
+    "Edward Flatau prowadził eksperymentalne badania lokalizacji włókien w rdzeniu kręgowym.",
+    "Sformułowane przez niego obserwacje dotyczące układu włókien weszły do historii neuroanatomii jako prawo Flataua."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

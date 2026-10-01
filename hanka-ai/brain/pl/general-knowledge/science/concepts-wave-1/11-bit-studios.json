@@ -1,0 +1,21 @@
+{
+  "id": "11-bit-studios",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "11 bit studios",
+  "facts": [
+    "11 bit studios jest warszawskim producentem i wydawcą gier komputerowych.",
+    "Studio zdobyło międzynarodową rozpoznawalność dzięki This War of Mine i Frostpunk."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

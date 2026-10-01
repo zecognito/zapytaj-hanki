@@ -1,0 +1,21 @@
+{
+  "id": "astronomia-kopernikanska",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Astronomia Kopernikańska",
+  "facts": [
+    "Model heliocentryczny Mikołaja Kopernika umieścił Słońce blisko centrum układu planetarnego, a Ziemię uczynił jedną z planet.",
+    "Praca Kopernika stała się punktem zwrotnym rewolucji naukowej w astronomii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

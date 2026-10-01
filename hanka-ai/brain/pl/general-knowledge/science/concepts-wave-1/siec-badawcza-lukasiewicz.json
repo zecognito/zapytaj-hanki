@@ -1,0 +1,21 @@
+{
+  "id": "siec-badawcza-lukasiewicz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Sieć Badawcza Łukasiewicz",
+  "facts": [
+    "Sieć Badawcza Łukasiewicz skupia polskie instytuty badawcze pracujące dla nauki i przemysłu.",
+    "Prowadzi projekty m.in. w materiałach, automatyce, chemii, lotnictwie, energetyce i technologiach cyfrowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

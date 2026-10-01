@@ -1,0 +1,21 @@
+{
+  "id": "maszyny-tkackie-szczepanika",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Maszyny tkackie Szczepanika",
+  "facts": [
+    "Jan Szczepanik opracował rozwiązania automatyzujące wykonywanie wzorzystych tkanin i gobelinów.",
+    "Technika fotograficznego przygotowania wzorów znacząco przyspieszała proces produkcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

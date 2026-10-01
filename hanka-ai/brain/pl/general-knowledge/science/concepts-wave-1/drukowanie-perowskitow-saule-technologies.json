@@ -1,0 +1,21 @@
+{
+  "id": "drukowanie-perowskitow-saule-technologies",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Drukowanie perowskitów Saule Technologies",
+  "facts": [
+    "Saule Technologies rozwijała metodę wytwarzania cienkich modułów perowskitowych przy użyciu procesów drukarskich.",
+    "Celem technologii jest produkcja lekkich źródeł energii działających także przy sztucznym oświetleniu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

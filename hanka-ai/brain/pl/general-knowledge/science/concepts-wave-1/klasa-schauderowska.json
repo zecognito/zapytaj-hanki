@@ -1,0 +1,20 @@
+{
+  "id": "klasa-schauderowska",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Klasa Schauderowska",
+  "facts": [
+    "Nazwisko Juliusza Schaudera wiąże się z fundamentalnymi metodami analizy funkcjonalnej i równań różniczkowych.",
+    "Jego prace nad punktami stałymi i bazami funkcjonalnymi są używane w analizie do dziś."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

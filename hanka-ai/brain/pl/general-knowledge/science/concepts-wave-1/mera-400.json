@@ -1,0 +1,21 @@
+{
+  "id": "mera-400",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "MERA-400",
+  "facts": [
+    "MERA-400 była polskim minikomputerem rozwijanym w latach 70. jako następca idei K-202.",
+    "System był produkowany seryjnie i stosowany w przemyśle, nauce oraz automatyce."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

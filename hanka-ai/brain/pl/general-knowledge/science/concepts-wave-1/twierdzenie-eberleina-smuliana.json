@@ -1,0 +1,20 @@
+{
+  "id": "twierdzenie-eberleina-smuliana",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Twierdzenie Eberleina-Šmuliana",
+  "facts": [
+    "Władysław Orlicz i polska szkoła analizy rozwijali badania nad słabą zbieżnością i strukturą przestrzeni Banacha.",
+    "Analiza funkcjonalna pozostaje jedną z dziedzin najmocniej kojarzonych z historycznym wkładem polskiej matematyki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "akat-1",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "AKAT-1",
+  "facts": [
+    "AKAT-1 był tranzystorowym analizatorem równań różniczkowych skonstruowanym przez Jacka Karpińskiego w 1959 roku.",
+    "Urządzenie jest uznawane za jeden z charakterystycznych zabytków wczesnej polskiej informatyki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

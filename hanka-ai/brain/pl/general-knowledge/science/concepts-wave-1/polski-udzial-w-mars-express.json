@@ -1,0 +1,21 @@
+{
+  "id": "polski-udzial-w-mars-express",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Polski udział w Mars Express",
+  "facts": [
+    "Polskie instytucje uczestniczyły w europejskiej misji Mars Express poprzez prace nad aparaturą i analizą danych.",
+    "Misja od 2003 roku bada atmosferę, powierzchnię i otoczenie Marsa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

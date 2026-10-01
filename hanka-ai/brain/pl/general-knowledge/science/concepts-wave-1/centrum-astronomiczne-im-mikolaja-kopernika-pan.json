@@ -1,0 +1,21 @@
+{
+  "id": "centrum-astronomiczne-im-mikolaja-kopernika-pan",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Centrum Astronomiczne im. Mikołaja Kopernika PAN",
+  "facts": [
+    "Centrum Astronomiczne im. Mikołaja Kopernika PAN prowadzi badania z astrofizyki teoretycznej i obserwacyjnej.",
+    "CAMK należy do najważniejszych polskich instytutów astronomicznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

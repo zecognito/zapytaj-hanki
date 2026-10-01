@@ -1,0 +1,21 @@
+{
+  "id": "topgan",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "TopGaN",
+  "facts": [
+    "TopGaN jest polską firmą rozwijającą półprzewodnikowe lasery oparte na azotku galu.",
+    "Firma wyrosła z warszawskiego środowiska badań nad technologiami wysokociśnieniowymi i GaN."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

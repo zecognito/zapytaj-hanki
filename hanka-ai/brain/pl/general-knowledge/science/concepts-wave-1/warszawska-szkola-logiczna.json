@@ -1,0 +1,20 @@
+{
+  "id": "warszawska-szkola-logiczna",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Warszawska szkoła logiczna",
+  "facts": [
+    "Warszawska szkoła logiczna była jednym z najważniejszych światowych ośrodków logiki matematycznej okresu międzywojennego.",
+    "Związani z nią byli m.in. Jan Łukasiewicz, Stanisław Leśniewski i Alfred Tarski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "zam-41",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "ZAM-41",
+  "facts": [
+    "ZAM-41 był polskim komputerem drugiej generacji przeznaczonym do przetwarzania danych i obliczeń.",
+    "Powstał w latach 60. w warszawskim środowisku Zakładu Aparatów Matematycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

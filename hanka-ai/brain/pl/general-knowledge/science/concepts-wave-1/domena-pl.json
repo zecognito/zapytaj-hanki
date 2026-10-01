@@ -1,0 +1,21 @@
+{
+  "id": "domena-pl",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Domena .pl",
+  "facts": [
+    "Krajowa domena najwyższego poziomu .pl została utworzona dla Polski w 1990 roku.",
+    "Rejestrem domeny .pl zarządza NASK."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

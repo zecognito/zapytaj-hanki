@@ -1,0 +1,21 @@
+{
+  "id": "pet-w-polsce",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "PET w Polsce",
+  "facts": [
+    "Pozytonowa tomografia emisyjna jest stosowana w polskich ośrodkach przede wszystkim w onkologii, neurologii i kardiologii.",
+    "Badanie łączy obrazowanie rozkładu radioznacznika z tomografią komputerową lub rezonansem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

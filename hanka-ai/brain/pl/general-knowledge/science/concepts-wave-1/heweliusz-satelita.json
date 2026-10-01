@@ -1,0 +1,21 @@
+{
+  "id": "heweliusz-satelita",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Heweliusz satelita",
+  "facts": [
+    "Heweliusz był drugim polskim satelitą naukowym programu BRITE-PL.",
+    "Został wyniesiony na orbitę w 2014 roku i prowadził obserwacje fotometryczne gwiazd."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

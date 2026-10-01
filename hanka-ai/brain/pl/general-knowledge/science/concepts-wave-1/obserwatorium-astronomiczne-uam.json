@@ -1,0 +1,21 @@
+{
+  "id": "obserwatorium-astronomiczne-uam",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Obserwatorium Astronomiczne UAM",
+  "facts": [
+    "Obserwatorium Astronomiczne Uniwersytetu im. Adama Mickiewicza w Poznaniu prowadzi badania astronomiczne i edukację.",
+    "Ośrodek specjalizuje się m.in. w dynamice małych ciał Układu Słonecznego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

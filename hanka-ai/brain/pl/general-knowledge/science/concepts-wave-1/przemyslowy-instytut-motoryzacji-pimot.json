@@ -1,0 +1,21 @@
+{
+  "id": "przemyslowy-instytut-motoryzacji-pimot",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Przemysłowy Instytut Motoryzacji PIMOT",
+  "facts": [
+    "PIMOT prowadził badania nad pojazdami, bezpieczeństwem transportu i technologiami motoryzacyjnymi.",
+    "Instytut został włączony do struktur Sieci Badawczej Łukasiewicz."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

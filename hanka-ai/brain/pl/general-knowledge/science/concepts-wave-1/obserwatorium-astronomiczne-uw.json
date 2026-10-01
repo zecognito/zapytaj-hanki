@@ -1,0 +1,21 @@
+{
+  "id": "obserwatorium-astronomiczne-uw",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Obserwatorium Astronomiczne UW",
+  "facts": [
+    "Obserwatorium Astronomiczne Uniwersytetu Warszawskiego jest jednym z głównych polskich ośrodków badań astronomicznych.",
+    "Jego zespoły prowadzą m.in. projekt OGLE i badania gwiazd zmiennych, soczewkowania oraz struktury Galaktyki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

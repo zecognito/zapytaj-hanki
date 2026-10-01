@@ -1,0 +1,20 @@
+{
+  "id": "kawiarnia-szkocka-i-matematycy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Kawiarnia Szkocka i matematycy",
+  "facts": [
+    "Kawiarnia Szkocka we Lwowie była miejscem regularnych spotkań matematyków związanych z Uniwersytetem Jana Kazimierza i Politechniką Lwowską.",
+    "Dyskusje prowadzone przy stolikach współtworzyły kulturę lwowskiej szkoły matematycznej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "polska-szkola-kardiologii-interwencyjnej",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Polska szkoła kardiologii interwencyjnej",
+  "facts": [
+    "Polskie ośrodki kardiologiczne rozwinęły szeroki system leczenia zawału serca metodami przezskórnymi.",
+    "Sieć pracowni hemodynamicznych umożliwiła stosowanie angioplastyki wieńcowej w trybie całodobowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poznanskie-centrum-superkomputerowo-sieciowe",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Poznańskie Centrum Superkomputerowo-Sieciowe",
+  "facts": [
+    "PCSS jest centrum badawczo-rozwojowym afiliowanym przy Instytucie Chemii Bioorganicznej PAN.",
+    "Rozwija infrastrukturę sieciową, superkomputery, usługi cyfrowe i projekty europejskiej e-infrastruktury."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "terramechanika-bekkera",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Terramechanika Bekkera",
+  "facts": [
+    "Mieczysław Bekker współtworzył terramechanikę, naukę o współdziałaniu pojazdów z podłożem.",
+    "Dziedzina ma znaczenie dla pojazdów terenowych, wojskowych i planetarnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

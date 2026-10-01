@@ -1,0 +1,21 @@
+{
+  "id": "szd-9-bocian",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "SZD-9 Bocian",
+  "facts": [
+    "SZD-9 Bocian jest polskim dwumiejscowym szybowcem szkolno-treningowym.",
+    "Konstrukcja stała się jednym z najbardziej rozpoznawalnych szybowców używanych w polskich aeroklubach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

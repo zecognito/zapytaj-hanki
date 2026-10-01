@@ -1,0 +1,21 @@
+{
+  "id": "polska-szkola-neurofizjologii",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Polska szkoła neurofizjologii",
+  "facts": [
+    "Polscy badacze w XX wieku wnieśli istotny wkład do neurofizjologii i badań zachowania.",
+    "Do ważnych postaci należeli m.in. Jerzy Konorski, Liliana Lubińska i wcześniejsi pionierzy Adolf Beck oraz Napoleon Cybulski."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

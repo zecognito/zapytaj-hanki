@@ -1,0 +1,21 @@
+{
+  "id": "radioteleskop-rt4-w-piwnicach",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Radioteleskop RT4 w Piwnicach",
+  "facts": [
+    "32-metrowy radioteleskop RT4 w Piwnicach jest największym polskim radioteleskopem.",
+    "Uczestniczy w obserwacjach pulsarów, maserów, aktywnych galaktyk i europejskich sieciach interferometrii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

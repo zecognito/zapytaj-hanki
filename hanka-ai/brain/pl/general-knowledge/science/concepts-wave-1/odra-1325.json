@@ -1,0 +1,21 @@
+{
+  "id": "odra-1325",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Odra 1325",
+  "facts": [
+    "Odra 1325 należała do późniejszych modeli rodziny komputerów Odra.",
+    "Maszyny tej rodziny pracowały w Polsce jeszcze długo po zakończeniu ich produkcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

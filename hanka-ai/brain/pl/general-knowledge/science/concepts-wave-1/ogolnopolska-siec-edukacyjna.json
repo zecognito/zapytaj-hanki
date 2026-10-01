@@ -1,0 +1,21 @@
+{
+  "id": "ogolnopolska-siec-edukacyjna",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Ogólnopolska Sieć Edukacyjna",
+  "facts": [
+    "Ogólnopolska Sieć Edukacyjna zapewnia szkołom szerokopasmowy dostęp do Internetu i usługi bezpieczeństwa.",
+    "Operatorem OSE jest NASK."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "robot-piap-ibis",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Robot PIAP IBIS",
+  "facts": [
+    "PIAP IBIS jest ciężkim polskim robotem mobilnym do zadań specjalnych.",
+    "Może przenosić wyposażenie, manipulatory i narzędzia do neutralizacji zagrożeń."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "polska-siec-biobankow",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Polska Sieć Biobanków",
+  "facts": [
+    "Polska Sieć Biobanków integruje krajowe jednostki gromadzące materiał biologiczny do badań.",
+    "Sieć wspiera standaryzację jakości, procedur i współpracę z europejską infrastrukturą biobankową."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

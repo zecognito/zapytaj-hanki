@@ -1,0 +1,21 @@
+{
+  "id": "walcarka-sendzimira",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Walcarka Sendzimira",
+  "facts": [
+    "Walcarka typu Sendzimira wykorzystuje układ wielu rolek podpierających małe walce robocze.",
+    "Pozwala precyzyjnie walcować cienkie taśmy, w tym stale nierdzewne i materiały trudno odkształcalne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

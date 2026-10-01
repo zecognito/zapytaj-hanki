@@ -1,0 +1,21 @@
+{
+  "id": "ack-cyfronet-agh",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "ACK Cyfronet AGH",
+  "facts": [
+    "ACK Cyfronet AGH jest jednym z najważniejszych polskich centrów obliczeń dużej mocy.",
+    "Centrum w Krakowie udostępnia nauce superkomputery i infrastrukturę danych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

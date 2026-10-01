@@ -1,0 +1,20 @@
+{
+  "id": "twierdzenie-interpolacyjne-marcinkiewicza",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Twierdzenie interpolacyjne Marcinkiewicza",
+  "facts": [
+    "Twierdzenie interpolacyjne Marcinkiewicza pozwala uzyskiwać oszacowania operatorów pomiędzy przestrzeniami Lp.",
+    "Jest jednym z najważniejszych wyników związanych z Józefem Marcinkiewiczem."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

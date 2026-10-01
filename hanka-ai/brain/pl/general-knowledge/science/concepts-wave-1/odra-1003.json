@@ -1,0 +1,21 @@
+{
+  "id": "odra-1003",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Odra 1003",
+  "facts": [
+    "Odra 1003 była jednym z pierwszych komputerów z rodziny Odra opracowywanych we wrocławskich zakładach Elwro.",
+    "Seria Odra stała się najważniejszą rodziną komputerów produkowanych seryjnie w PRL."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

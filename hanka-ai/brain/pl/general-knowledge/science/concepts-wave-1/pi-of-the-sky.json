@@ -1,0 +1,21 @@
+{
+  "id": "pi-of-the-sky",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Pi of the Sky",
+  "facts": [
+    "Pi of the Sky był polskim projektem automatycznych kamer astronomicznych obserwujących duże obszary nieba.",
+    "System projektowano przede wszystkim do szybkiego wykrywania optycznych odpowiedników rozbłysków gamma."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

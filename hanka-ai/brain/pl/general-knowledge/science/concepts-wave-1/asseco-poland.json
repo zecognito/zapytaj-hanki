@@ -1,0 +1,21 @@
+{
+  "id": "asseco-poland",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Asseco Poland",
+  "facts": [
+    "Asseco Poland jest polską firmą informatyczną rozwijającą oprogramowanie dla bankowości, administracji, energetyki i innych sektorów.",
+    "Firma wyrosła z rzeszowskiego COMP Rzeszów i rozwinęła międzynarodową grupę informatyczną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

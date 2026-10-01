@@ -1,0 +1,20 @@
+{
+  "id": "twierdzenie-kaczmarza",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Twierdzenie Kaczmarza",
+  "facts": [
+    "Stefan Kaczmarz opracował w 1937 roku iteracyjną metodę rozwiązywania układów równań liniowych.",
+    "Metoda Kaczmarza znalazła później zastosowania m.in. w tomografii komputerowej i rekonstrukcji obrazów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

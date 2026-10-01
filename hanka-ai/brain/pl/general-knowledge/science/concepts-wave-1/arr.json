@@ -1,0 +1,21 @@
+{
+  "id": "arr",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "ARR",
+  "facts": [
+    "ARR była jedną z wczesnych polskich maszyn cyfrowych rozwijanych w środowisku naukowym PAN.",
+    "Prace nad takimi konstrukcjami stworzyły kadry dla późniejszego przemysłu komputerowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "twierdzenie-nikodyma",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Twierdzenie Nikodyma",
+  "facts": [
+    "Otton Nikodym wniósł istotny wkład do teorii miary i analizy funkcjonalnej.",
+    "Jego nazwisko występuje w kilku klasycznych twierdzeniach i konstrukcjach matematycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

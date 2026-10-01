@@ -1,0 +1,21 @@
+{
+  "id": "il-2-smiglowiec-eksperymentalny",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "IL-2 śmigłowiec eksperymentalny",
+  "facts": [
+    "Polskie instytuty lotnicze po wojnie prowadziły liczne programy eksperymentalnych samolotów i śmigłowców.",
+    "Prace te budowały krajowe kompetencje w aerodynamice, konstrukcji i badaniach napędów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

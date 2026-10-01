@@ -1,0 +1,20 @@
+{
+  "id": "twierdzenie-schaudera-o-punkcie-stalym",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Twierdzenie Schaudera o punkcie stałym",
+  "facts": [
+    "Twierdzenie Schaudera gwarantuje punkt stały dla odpowiednich ciągłych odwzorowań zbiorów wypukłych.",
+    "Juliusz Schauder stworzył wynik szeroko stosowany w teorii równań różniczkowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

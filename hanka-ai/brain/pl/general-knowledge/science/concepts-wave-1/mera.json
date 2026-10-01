@@ -1,0 +1,21 @@
+{
+  "id": "mera",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "MERA",
+  "facts": [
+    "Zjednoczenie MERA skupiało w PRL przedsiębiorstwa produkujące urządzenia automatyki, pomiarów i techniki komputerowej.",
+    "Marka MERA była związana z polskimi minikomputerami, terminalami, drukarkami i urządzeniami peryferyjnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

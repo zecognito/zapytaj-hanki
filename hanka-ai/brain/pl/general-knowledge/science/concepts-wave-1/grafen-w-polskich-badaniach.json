@@ -1,0 +1,21 @@
+{
+  "id": "grafen-w-polskich-badaniach",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Grafen w polskich badaniach",
+  "facts": [
+    "Polskie instytuty prowadziły badania nad wzrostem, charakteryzacją i zastosowaniami grafenu.",
+    "Prace obejmowały m.in. grafen na węgliku krzemu oraz materiały do elektroniki i sensorów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

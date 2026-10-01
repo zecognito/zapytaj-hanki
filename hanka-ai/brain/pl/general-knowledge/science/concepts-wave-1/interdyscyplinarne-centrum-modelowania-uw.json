@@ -1,0 +1,21 @@
+{
+  "id": "interdyscyplinarne-centrum-modelowania-uw",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Interdyscyplinarne Centrum Modelowania UW",
+  "facts": [
+    "ICM Uniwersytetu Warszawskiego rozwija obliczenia wielkiej skali, modelowanie i analizę danych.",
+    "Ośrodek udostępnia zasoby obliczeniowe badaczom z wielu dziedzin nauki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

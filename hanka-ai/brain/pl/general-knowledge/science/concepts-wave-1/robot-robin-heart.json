@@ -1,0 +1,21 @@
+{
+  "id": "robot-robin-heart",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Robot Robin Heart",
+  "facts": [
+    "Robin Heart jest rodziną polskich prototypów robotów chirurgicznych rozwijanych w Zabrzu.",
+    "Projekt miał stworzyć krajowe technologie robotycznego wspomagania operacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

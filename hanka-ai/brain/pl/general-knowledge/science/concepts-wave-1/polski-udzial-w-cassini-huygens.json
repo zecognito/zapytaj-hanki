@@ -1,0 +1,21 @@
+{
+  "id": "polski-udzial-w-cassini-huygens",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Polski udział w Cassini-Huygens",
+  "facts": [
+    "Polskie zespoły naukowe uczestniczyły w przygotowaniu elementów aparatury misji Cassini-Huygens do Saturna i Tytana.",
+    "Był to jeden z przykładów udziału Polski w dużych międzynarodowych misjach planetarnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

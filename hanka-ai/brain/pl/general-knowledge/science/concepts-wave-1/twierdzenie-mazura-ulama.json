@@ -1,0 +1,20 @@
+{
+  "id": "twierdzenie-mazura-ulama",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Twierdzenie Mazura-Ulama",
+  "facts": [
+    "Twierdzenie Mazura-Ulama mówi, że każda surjektywna izometria między rzeczywistymi przestrzeniami unormowanymi jest afiniczna.",
+    "Wynik nosi nazwiska Stanisława Mazura i Stanisława Ulama."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

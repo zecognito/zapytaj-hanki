@@ -1,0 +1,21 @@
+{
+  "id": "odruchy-warunkowe-ii-typu-konorskiego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Odruchy warunkowe II typu Konorskiego",
+  "facts": [
+    "Jerzy Konorski badał uczenie instrumentalne i odruchy zależne od działania organizmu.",
+    "Jego koncepcje pomogły odróżnić warunkowanie instrumentalne od klasycznego warunkowania Pawłowa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

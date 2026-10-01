@@ -1,0 +1,20 @@
+{
+  "id": "twierdzenie-knastera-tarskiego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Twierdzenie Knastera-Tarskiego",
+  "facts": [
+    "Twierdzenie Knastera-Tarskiego gwarantuje istnienie punktów stałych dla funkcji monotonicznych na kratach zupełnych.",
+    "Nazwa upamiętnia Bronisława Knastera i Alfreda Tarskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

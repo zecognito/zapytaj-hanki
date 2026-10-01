@@ -1,0 +1,21 @@
+{
+  "id": "ivona-syntezator-mowy",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Ivona syntezator mowy",
+  "facts": [
+    "IVONA była polską technologią syntezy mowy rozwijaną przez firmę Ivona Software.",
+    "Technologia zdobyła międzynarodowe zastosowania, a spółkę przejął Amazon w 2013 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

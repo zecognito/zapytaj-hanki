@@ -1,0 +1,21 @@
+{
+  "id": "adrenalina-badania-cybulskiego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Adrenalina badania Cybulskiego",
+  "facts": [
+    "Napoleon Cybulski i Władysław Szymonowicz wykazali w 1895 roku silne działanie fizjologiczne wyciągu z rdzenia nadnerczy.",
+    "Badania należały do pionierskich prac prowadzących do poznania hormonów nadnerczy i adrenaliny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tarcza-sobieskiego-gwiazdozbior",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Tarcza Sobieskiego gwiazdozbiór",
+  "facts": [
+    "Jan Heweliusz wprowadził gwiazdozbiór Scutum Sobiescianum na cześć króla Jana III Sobieskiego.",
+    "Dzisiejsza Tarcza, Scutum, należy do oficjalnych 88 gwiazdozbiorów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

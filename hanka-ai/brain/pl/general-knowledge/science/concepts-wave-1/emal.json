@@ -1,0 +1,21 @@
+{
+  "id": "emal",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "EMAL",
+  "facts": [
+    "EMAL był jednym z pierwszych polskich projektów elektronicznej maszyny liczącej rozwijanym w latach 50.",
+    "Choć projekt nie doprowadził do stabilnej maszyny użytkowej, dostarczył doświadczeń zespołowi budującemu później komputer XYZ."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

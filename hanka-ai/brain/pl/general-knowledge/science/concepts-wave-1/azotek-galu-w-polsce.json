@@ -1,0 +1,21 @@
+{
+  "id": "azotek-galu-w-polsce",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Azotek galu w Polsce",
+  "facts": [
+    "Polskie laboratoria prowadzą badania nad azotkiem galu i pokrewnymi półprzewodnikami szerokoprzerwowym.",
+    "Materiały GaN są używane w laserach, diodach LED i elektronice dużej mocy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

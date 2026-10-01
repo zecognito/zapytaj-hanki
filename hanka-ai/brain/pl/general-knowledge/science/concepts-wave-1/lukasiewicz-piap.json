@@ -1,0 +1,21 @@
+{
+  "id": "lukasiewicz-piap",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Łukasiewicz PIAP",
+  "facts": [
+    "Przemysłowy Instytut Automatyki i Pomiarów PIAP rozwija robotykę, automatykę i systemy pomiarowe.",
+    "Ośrodek tworzy m.in. roboty mobilne do zastosowań przemysłowych i bezpieczeństwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

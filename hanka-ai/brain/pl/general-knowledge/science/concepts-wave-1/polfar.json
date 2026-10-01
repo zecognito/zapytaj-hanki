@@ -1,0 +1,21 @@
+{
+  "id": "polfar",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "POLFAR",
+  "facts": [
+    "POLFAR jest polską częścią europejskiego radioteleskopu LOFAR pracującego na niskich częstotliwościach radiowych.",
+    "Polskie stacje LOFAR uczestniczą w badaniach kosmosu oraz zjawisk związanych ze Słońcem i jonosferą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

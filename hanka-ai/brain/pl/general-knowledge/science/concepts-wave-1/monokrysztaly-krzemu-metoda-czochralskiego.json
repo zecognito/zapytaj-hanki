@@ -1,0 +1,21 @@
+{
+  "id": "monokrysztaly-krzemu-metoda-czochralskiego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Monokryształy krzemu metodą Czochralskiego",
+  "facts": [
+    "Większość klasycznych wafli krzemowych dla przemysłu półprzewodnikowego powstaje z monokryształów hodowanych metodą Czochralskiego.",
+    "Technika wywodzi się z odkrycia Jana Czochralskiego z 1916 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

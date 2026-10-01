@@ -1,0 +1,21 @@
+{
+  "id": "ts-11-iskra",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "TS-11 Iskra",
+  "facts": [
+    "TS-11 Iskra był pierwszym polskim odrzutowym samolotem szkolno-treningowym produkowanym seryjnie.",
+    "Przez dziesięciolecia służył do szkolenia pilotów polskiego lotnictwa wojskowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

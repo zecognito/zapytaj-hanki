@@ -1,0 +1,21 @@
+{
+  "id": "pesel-system-informatyczny",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "PESEL system informatyczny",
+  "facts": [
+    "PESEL jest państwowym rejestrem ludności i systemem identyfikacji osób poprzez unikalny numer.",
+    "System rozwijano od lat 70. jako jeden z największych projektów informatycznych polskiej administracji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

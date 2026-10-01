@@ -1,0 +1,21 @@
+{
+  "id": "lofar-stacje-w-polsce",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "LOFAR stacje w Polsce",
+  "facts": [
+    "W Polsce działa kilka stacji międzynarodowej sieci LOFAR.",
+    "Połączenie danych z wielu krajów pozwala tworzyć wirtualny radioteleskop o bardzo dużej rozdzielczości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

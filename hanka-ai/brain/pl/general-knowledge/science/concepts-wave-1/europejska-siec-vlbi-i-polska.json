@@ -1,0 +1,21 @@
+{
+  "id": "europejska-siec-vlbi-i-polska",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Europejska sieć VLBI i Polska",
+  "facts": [
+    "Polski 32-metrowy radioteleskop w Piwnicach uczestniczy w European VLBI Network.",
+    "Połączenie sygnałów z odległych anten daje rozdzielczość odpowiadającą teleskopowi o rozmiarze międzykontynentalnym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "instytut-hematologii-i-transfuzjologii",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Instytut Hematologii i Transfuzjologii",
+  "facts": [
+    "Instytut Hematologii i Transfuzjologii w Warszawie jest centralnym polskim ośrodkiem badań i leczenia chorób krwi.",
+    "Prowadzi także działalność związaną z bezpieczeństwem krwi i transfuzjologią."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

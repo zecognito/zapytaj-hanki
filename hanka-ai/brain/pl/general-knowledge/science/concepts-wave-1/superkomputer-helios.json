@@ -1,0 +1,21 @@
+{
+  "id": "superkomputer-helios",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Superkomputer Helios",
+  "facts": [
+    "Helios to superkomputer uruchomiony w krakowskim Cyfronecie w 2024 roku.",
+    "System wspiera obliczenia naukowe, analizę danych i zadania związane ze sztuczną inteligencją."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

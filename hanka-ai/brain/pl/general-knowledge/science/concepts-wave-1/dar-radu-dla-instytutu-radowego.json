@@ -1,0 +1,21 @@
+{
+  "id": "dar-radu-dla-instytutu-radowego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Dar radu dla Instytutu Radowego",
+  "facts": [
+    "Maria Skłodowska-Curie zabiegała o pozyskanie radu dla warszawskiego Instytutu Radowego.",
+    "Wsparcie społeczne i międzynarodowe umożliwiło wyposażenie placówki w materiał potrzebny do terapii i badań."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

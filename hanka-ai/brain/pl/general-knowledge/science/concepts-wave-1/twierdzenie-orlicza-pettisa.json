@@ -1,0 +1,20 @@
+{
+  "id": "twierdzenie-orlicza-pettisa",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Twierdzenie Orlicza-Pettisa",
+  "facts": [
+    "Twierdzenie Orlicza-Pettisa dotyczy zbieżności szeregów w przestrzeniach Banacha.",
+    "Nazwa upamiętnia Władysława Orlicza i Billy'ego Jamesa Pettisa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

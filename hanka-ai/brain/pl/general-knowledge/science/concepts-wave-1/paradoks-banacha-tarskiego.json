@@ -1,0 +1,20 @@
+{
+  "id": "paradoks-banacha-tarskiego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Paradoks Banacha-Tarskiego",
+  "facts": [
+    "Paradoks Banacha-Tarskiego pokazuje, że w matematycznym modelu kulę można rozłożyć na skończoną liczbę niemierzalnych części i złożyć z nich dwie kule tej samej wielkości.",
+    "Wynik opublikowali Stefan Banach i Alfred Tarski w 1924 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "robot-piap-gryf",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Robot PIAP GRYF",
+  "facts": [
+    "PIAP GRYF jest polskim robotem mobilnym przeznaczonym do rozpoznania i działań pirotechnicznych.",
+    "Konstrukcja umożliwia zdalne manipulowanie niebezpiecznymi obiektami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

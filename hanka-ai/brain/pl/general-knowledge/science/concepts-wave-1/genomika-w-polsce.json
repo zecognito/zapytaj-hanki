@@ -1,0 +1,21 @@
+{
+  "id": "genomika-w-polsce",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Genomika w Polsce",
+  "facts": [
+    "Polskie laboratoria uczestniczą w badaniach genomowych człowieka, roślin, mikroorganizmów i populacji.",
+    "Rozwój sekwencjonowania wysokoprzepustowego połączył genetykę z bioinformatyką i medycyną precyzyjną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

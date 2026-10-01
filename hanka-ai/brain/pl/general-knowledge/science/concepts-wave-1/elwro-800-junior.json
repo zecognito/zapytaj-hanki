@@ -1,0 +1,21 @@
+{
+  "id": "elwro-800-junior",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Elwro 800 Junior",
+  "facts": [
+    "Elwro 800 Junior był polskim mikrokomputerem przeznaczonym przede wszystkim dla szkół.",
+    "W drugiej połowie lat 80. miał wspierać informatyzację polskiej edukacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

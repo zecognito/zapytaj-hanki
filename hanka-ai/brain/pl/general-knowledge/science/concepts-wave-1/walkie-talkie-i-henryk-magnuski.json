@@ -1,0 +1,21 @@
+{
+  "id": "walkie-talkie-i-henryk-magnuski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Walkie-talkie i Henryk Magnuski",
+  "facts": [
+    "Henryk Magnuski uczestniczył w rozwoju przenośnej łączności radiowej w Motoroli.",
+    "Jego prace nad wojskowymi radiostacjami FM przyczyniły się do popularyzacji koncepcji przenośnego radia dwukierunkowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

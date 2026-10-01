@@ -1,0 +1,20 @@
+{
+  "id": "gra-banacha-mazura",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Gra Banacha-Mazura",
+  "facts": [
+    "Gra Banacha-Mazura jest jedną z najwcześniejszych gier nieskończonych badanych w matematyce.",
+    "Jej nazwa wiąże się ze Stefanem Banachem i Stanisławem Mazurem ze szkoły lwowskiej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

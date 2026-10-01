@@ -1,0 +1,21 @@
+{
+  "id": "pzl-130-orlik",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "PZL-130 Orlik",
+  "facts": [
+    "PZL-130 Orlik jest polskim turbośmigłowym samolotem szkolnym.",
+    "Został opracowany w PZL Warszawa-Okęcie i jest używany do szkolenia pilotów wojskowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

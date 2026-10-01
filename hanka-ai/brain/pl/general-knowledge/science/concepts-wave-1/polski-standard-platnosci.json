@@ -1,0 +1,21 @@
+{
+  "id": "polski-standard-platnosci",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Polski Standard Płatności",
+  "facts": [
+    "Polski Standard Płatności jest operatorem systemu BLIK.",
+    "Spółkę utworzyły największe polskie banki w celu stworzenia wspólnego standardu płatności mobilnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

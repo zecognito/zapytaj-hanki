@@ -1,0 +1,21 @@
+{
+  "id": "pzl-104-wilga",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "PZL-104 Wilga",
+  "facts": [
+    "PZL-104 Wilga był polskim samolotem wielozadaniowym o właściwościach krótkiego startu i lądowania.",
+    "Produkowany w wielu wersjach, był używany m.in. w aeroklubach, rolnictwie i lotnictwie łącznikowym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

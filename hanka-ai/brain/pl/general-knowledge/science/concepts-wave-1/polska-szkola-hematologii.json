@@ -1,0 +1,21 @@
+{
+  "id": "polska-szkola-hematologii",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Polska szkoła hematologii",
+  "facts": [
+    "Polscy lekarze i naukowcy rozwijali hematologię kliniczną, transfuzjologię i badania nad krwią w XX wieku.",
+    "Do ważnych tradycji tej dziedziny należą prace Ludwika Hirszfelda i rozwój wyspecjalizowanych instytutów hematologicznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "smiglo-drzewieckiego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Śmigło Drzewieckiego",
+  "facts": [
+    "Stefan Drzewiecki prowadził pionierskie badania teorii śmigła i napędu lotniczego.",
+    "Jego prace miały wpływ na rozwój aerodynamiki śmigieł na przełomie XIX i XX wieku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "metoda-czochralskiego-zastosowania-polprzewodnikowe",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Metoda Czochralskiego zastosowania półprzewodnikowe",
+  "facts": [
+    "Metoda Czochralskiego pozwala hodować duże monokryształy przez wyciąganie zarodka z roztopionego materiału.",
+    "Stała się podstawową techniką produkcji monokrystalicznego krzemu używanego w mikroelektronice."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

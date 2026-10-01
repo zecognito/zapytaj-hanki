@@ -1,0 +1,20 @@
+{
+  "id": "przestrzen-banacha",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Przestrzeń Banacha",
+  "facts": [
+    "Przestrzeń Banacha to zupełna przestrzeń unormowana.",
+    "Nazwa upamiętnia Stefana Banacha, współtwórcę nowoczesnej analizy funkcjonalnej i lwowskiej szkoły matematycznej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

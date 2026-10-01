@@ -1,0 +1,21 @@
+{
+  "id": "radiostacja-scr-300-magnuski",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Radiostacja SCR-300 Magnuski",
+  "facts": [
+    "Henryk Magnuski był jednym z głównych inżynierów Motoroli pracujących nad radiostacją SCR-300 podczas II wojny światowej.",
+    "Przenośny zestaw FM stał się ważnym środkiem łączności amerykańskiej piechoty."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "polski-udzial-w-rosetta",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Polski udział w Rosetta",
+  "facts": [
+    "Polscy naukowcy i inżynierowie uczestniczyli w misji Rosetta Europejskiej Agencji Kosmicznej.",
+    "CBK PAN współtworzyło instrumenty badające kometę 67P/Czuriumow-Gierasimienko."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "profil-zaufany",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Profil Zaufany",
+  "facts": [
+    "Profil Zaufany umożliwia potwierdzanie tożsamości w internetowych usługach administracji publicznej.",
+    "Pozwala elektronicznie podpisywać część dokumentów i wniosków urzędowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

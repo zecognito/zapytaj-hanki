@@ -1,0 +1,21 @@
+{
+  "id": "spawanie-konstrukcji-stalowych-bryly",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Spawanie konstrukcji stalowych Bryły",
+  "facts": [
+    "Stefan Bryła należał do pionierów stosowania spawania w dużych konstrukcjach stalowych.",
+    "Jego projekty i przepisy techniczne pomagały zastępować ciężkie połączenia nitowane spawanymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

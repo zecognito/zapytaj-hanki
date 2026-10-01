@@ -1,0 +1,21 @@
+{
+  "id": "lem-satelita",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Lem satelita",
+  "facts": [
+    "Lem był pierwszym polskim satelitą naukowym, wyniesionym na orbitę w 2013 roku.",
+    "Należał do konstelacji BRITE badającej zmienność najjaśniejszych gwiazd."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

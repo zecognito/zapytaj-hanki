@@ -1,0 +1,20 @@
+{
+  "id": "krzywa-sierpinskiego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Krzywa Sierpińskiego",
+  "facts": [
+    "Krzywe Sierpińskiego to konstrukcje fraktalne związane z pracami Wacława Sierpińskiego.",
+    "Pokazują, jak proste reguły iteracyjne mogą prowadzić do złożonych struktur geometrycznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

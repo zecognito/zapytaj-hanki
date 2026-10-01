@@ -1,0 +1,21 @@
+{
+  "id": "ortopedia-poznanska",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Ortopedia poznańska",
+  "facts": [
+    "Poznań stał się jednym z najważniejszych polskich ośrodków ortopedii i rehabilitacji dzięki pracy zespołu Wiktora Degi.",
+    "Ośrodek łączył leczenie operacyjne z systematyczną rehabilitacją pacjentów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

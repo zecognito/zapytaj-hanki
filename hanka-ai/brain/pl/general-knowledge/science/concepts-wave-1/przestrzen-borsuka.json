@@ -1,0 +1,20 @@
+{
+  "id": "przestrzen-borsuka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Przestrzeń Borsuka",
+  "facts": [
+    "W matematyce nazwisko Karola Borsuka wiąże się z fundamentalnymi konstrukcjami topologicznymi i teorią kształtu.",
+    "Polska szkoła topologii należała w XX wieku do światowej czołówki tej dziedziny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

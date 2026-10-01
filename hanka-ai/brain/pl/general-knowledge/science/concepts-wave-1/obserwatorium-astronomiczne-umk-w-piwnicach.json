@@ -1,0 +1,21 @@
+{
+  "id": "obserwatorium-astronomiczne-umk-w-piwnicach",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Obserwatorium Astronomiczne UMK w Piwnicach",
+  "facts": [
+    "Obserwatorium UMK w Piwnicach pod Toruniem jest ważnym polskim ośrodkiem astronomii optycznej i radiowej.",
+    "Znajduje się tam największy w Polsce radioteleskop o średnicy 32 metrów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

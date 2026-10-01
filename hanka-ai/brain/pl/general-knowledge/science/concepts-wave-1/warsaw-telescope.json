@@ -1,0 +1,21 @@
+{
+  "id": "warsaw-telescope",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Warsaw Telescope",
+  "facts": [
+    "Warsaw Telescope jest 1,3-metrowym teleskopem polskiego projektu OGLE w Obserwatorium Las Campanas w Chile.",
+    "Teleskop prowadzi wieloletnie przeglądy gęstych pól gwiazdowych Drogi Mlecznej i Obłoków Magellana."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

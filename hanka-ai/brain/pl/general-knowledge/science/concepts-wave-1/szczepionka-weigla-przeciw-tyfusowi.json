@@ -1,0 +1,21 @@
+{
+  "id": "szczepionka-weigla-przeciw-tyfusowi",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Szczepionka Weigla przeciw tyfusowi",
+  "facts": [
+    "Rudolf Weigl opracował metodę produkcji szczepionki przeciw tyfusowi plamistemu z wykorzystaniem wszy laboratoryjnych.",
+    "Technologia była używana przed i podczas II wojny światowej do ochrony ludzi przed groźną chorobą epidemiczną."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

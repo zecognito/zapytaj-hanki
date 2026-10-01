@@ -1,0 +1,21 @@
+{
+  "id": "polskie-sztuczne-serce",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Polskie sztuczne serce",
+  "facts": [
+    "Fundacja Rozwoju Kardiochirurgii w Zabrzu rozwijała polskie systemy mechanicznego wspomagania serca.",
+    "Rodzina urządzeń POLVAD służyła do czasowego wspomagania krążenia u pacjentów z ciężką niewydolnością serca."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tablice-rudolfinskie-a-heweliusz",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Tablice rudolfińskie a Heweliusz",
+  "facts": [
+    "Jan Heweliusz należał do najważniejszych astronomów obserwacyjnych XVII wieku i tworzył własne katalogi gwiazd.",
+    "Jego gdańskie obserwatorium było jednym z najlepiej wyposażonych prywatnych obserwatoriów epoki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

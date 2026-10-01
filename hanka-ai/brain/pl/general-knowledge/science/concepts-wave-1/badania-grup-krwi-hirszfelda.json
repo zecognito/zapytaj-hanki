@@ -1,0 +1,21 @@
+{
+  "id": "badania-grup-krwi-hirszfelda",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Badania grup krwi Hirszfelda",
+  "facts": [
+    "Ludwik Hirszfeld prowadził fundamentalne badania nad grupami krwi i ich dziedziczeniem.",
+    "Wraz z Emilem von Dungernem wprowadził oznaczenia grup A, B, AB i O, które stały się podstawą późniejszej nomenklatury."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

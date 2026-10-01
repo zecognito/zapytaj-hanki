@@ -1,0 +1,21 @@
+{
+  "id": "swiatowid-satelita",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Światowid satelita",
+  "facts": [
+    "Światowid był polskim nanosatelitą obserwacyjnym zbudowanym przez firmę SatRevolution.",
+    "Należał do pierwszych komercyjnych polskich prób budowy małych satelitów obrazujących Ziemię."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

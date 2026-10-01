@@ -1,0 +1,21 @@
+{
+  "id": "okrety-podwodne-drzewieckiego",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Okręty podwodne Drzewieckiego",
+  "facts": [
+    "Stefan Drzewiecki projektował w XIX wieku eksperymentalne okręty podwodne napędzane siłą mięśni i później napędem mechanicznym.",
+    "Należał do pionierów praktycznej konstrukcji łodzi podwodnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

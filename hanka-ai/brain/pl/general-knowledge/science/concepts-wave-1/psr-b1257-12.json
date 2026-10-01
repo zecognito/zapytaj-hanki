@@ -1,0 +1,21 @@
+{
+  "id": "psr-b1257-12",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "PSR B1257+12",
+  "facts": [
+    "PSR B1257+12 jest pulsarem, wokół którego Aleksander Wolszczan odkrył układ planetarny.",
+    "Obiekt stał się jednym z najważniejszych punktów w historii badań egzoplanet."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

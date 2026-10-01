@@ -1,0 +1,21 @@
+{
+  "id": "eksperymenty-polskie-na-salut-6",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Eksperymenty polskie na Salut 6",
+  "facts": [
+    "Podczas misji Mirosława Hermaszewskiego na stacji Salut 6 wykonywano eksperymenty przygotowane przez polskie ośrodki naukowe.",
+    "Dotyczyły m.in. materiałoznawstwa, fizjologii i obserwacji Ziemi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

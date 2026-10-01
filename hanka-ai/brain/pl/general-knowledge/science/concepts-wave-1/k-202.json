@@ -1,0 +1,21 @@
+{
+  "id": "k-202",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "K-202",
+  "facts": [
+    "K-202 był polskim minikomputerem zaprojektowanym przez zespół Jacka Karpińskiego na początku lat 70.",
+    "Maszyna wykorzystywała układy scalone i miała modułową architekturę, lecz powstała tylko w krótkiej serii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

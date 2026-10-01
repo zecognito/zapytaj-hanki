@@ -1,0 +1,21 @@
+{
+  "id": "odra-1305",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Odra 1305",
+  "facts": [
+    "Odra 1305 była komputerem zgodnym programowo z brytyjską serią ICL 1900.",
+    "Produkowano ją we wrocławskim Elwro i wykorzystywano w wielu polskich ośrodkach obliczeniowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

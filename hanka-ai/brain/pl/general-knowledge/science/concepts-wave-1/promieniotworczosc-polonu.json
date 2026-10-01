@@ -1,0 +1,21 @@
+{
+  "id": "promieniotworczosc-polonu",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Promieniotwórczość polonu",
+  "facts": [
+    "Maria Skłodowska-Curie i Pierre Curie ogłosili odkrycie polonu w 1898 roku podczas badań blendy smolistej.",
+    "Nazwa pierwiastka pochodzi od Polski i miała zwracać uwagę na kraj nieobecny wówczas na mapie politycznej Europy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

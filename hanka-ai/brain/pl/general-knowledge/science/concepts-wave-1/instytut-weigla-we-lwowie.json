@@ -1,0 +1,21 @@
+{
+  "id": "instytut-weigla-we-lwowie",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Instytut Weigla we Lwowie",
+  "facts": [
+    "Instytut Rudolfa Weigla we Lwowie produkował szczepionkę przeciw tyfusowi plamistemu.",
+    "Podczas okupacji niemieckiej zatrudnienie przy hodowli wszy dawało ochronę wielu przedstawicielom lwowskiej inteligencji i podziemia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

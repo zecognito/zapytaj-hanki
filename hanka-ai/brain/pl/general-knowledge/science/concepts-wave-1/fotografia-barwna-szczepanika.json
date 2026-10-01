@@ -1,0 +1,21 @@
+{
+  "id": "fotografia-barwna-szczepanika",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Fotografia barwna Szczepanika",
+  "facts": [
+    "Jan Szczepanik pracował nad technikami fotografii i filmu barwnego.",
+    "Jego patenty obejmowały systemy rozdzielania i odtwarzania barw w obrazie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

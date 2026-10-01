@@ -1,0 +1,20 @@
+{
+  "id": "twierdzenie-tarskiego-o-niedefiniowalnosci",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Twierdzenie Tarskiego o niedefiniowalności",
+  "facts": [
+    "Twierdzenie Tarskiego pokazuje ograniczenia definiowania pojęcia prawdy wewnątrz dostatecznie bogatego języka formalnego.",
+    "Jest jednym z fundamentalnych wyników metalogiki XX wieku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

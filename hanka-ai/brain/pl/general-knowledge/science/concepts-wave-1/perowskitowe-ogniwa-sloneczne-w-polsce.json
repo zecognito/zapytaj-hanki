@@ -1,0 +1,21 @@
+{
+  "id": "perowskitowe-ogniwa-sloneczne-w-polsce",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Perowskitowe ogniwa słoneczne w Polsce",
+  "facts": [
+    "Polskie zespoły badawcze i firmy rozwijają cienkowarstwowe ogniwa fotowoltaiczne oparte na perowskitach.",
+    "Technologia może być nanoszona na lekkie i elastyczne podłoża oraz integrowana z elektroniką i budynkami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "centrum-zdrowia-matki-polki",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Centrum Zdrowia Matki Polki",
+  "facts": [
+    "Instytut Centrum Zdrowia Matki Polki w Łodzi jest jednym z największych polskich ośrodków medycyny matki i dziecka.",
+    "Łączy opiekę kliniczną z badaniami w położnictwie, neonatologii, pediatrii i ginekologii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

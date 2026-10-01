@@ -1,0 +1,21 @@
+{
+  "id": "proces-sendzimira",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Proces Sendzimira",
+  "facts": [
+    "Proces Sendzimira umożliwił przemysłowe cynkowanie stalowej taśmy w sposób ciągły.",
+    "Technologia Tadeusza Sendzimira znalazła szerokie zastosowanie w światowym hutnictwie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

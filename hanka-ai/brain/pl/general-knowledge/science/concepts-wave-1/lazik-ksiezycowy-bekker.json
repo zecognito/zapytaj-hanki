@@ -1,0 +1,21 @@
+{
+  "id": "lazik-ksiezycowy-bekker",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Łazik księżycowy Bekker",
+  "facts": [
+    "Mieczysław Bekker był specjalistą mechaniki pojazdów terenowych i uczestniczył w projektowaniu Lunar Roving Vehicle.",
+    "Jego badania nad ruchem pojazdów po gruncie pomogły rozwiązywać problemy jazdy po powierzchni Księżyca."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

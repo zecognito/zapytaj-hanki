@@ -1,0 +1,21 @@
+{
+  "id": "umc-1",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "UMC-1",
+  "facts": [
+    "UMC-1 był polskim komputerem lampowym zaprojektowanym na Politechnice Warszawskiej.",
+    "Produkcję niewielkiej serii rozpoczęto na początku lat 60."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

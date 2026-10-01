@@ -1,0 +1,21 @@
+{
+  "id": "model-rehabilitacji-wiktora-degi",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Model rehabilitacji Wiktora Degi",
+  "facts": [
+    "Wiktor Dega promował wczesną, kompleksową, ciągłą i powszechnie dostępną rehabilitację.",
+    "Model ten wpłynął na organizację rehabilitacji medycznej w Polsce."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

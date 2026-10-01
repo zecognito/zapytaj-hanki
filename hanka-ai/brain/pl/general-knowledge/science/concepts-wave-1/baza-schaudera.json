@@ -1,0 +1,20 @@
+{
+  "id": "baza-schaudera",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Baza Schaudera",
+  "facts": [
+    "Baza Schaudera pozwala przedstawiać elementy nieskończenie wymiarowej przestrzeni jako granice kombinacji liniowych elementów bazy.",
+    "Pojęcie nazwano od polskiego matematyka Juliusza Schaudera."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

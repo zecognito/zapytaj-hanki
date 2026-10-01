@@ -1,0 +1,21 @@
+{
+  "id": "odkrycie-radu",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Odkrycie radu",
+  "facts": [
+    "Maria Skłodowska-Curie i Pierre Curie ogłosili istnienie radu w 1898 roku.",
+    "Dalsza izolacja i badania radu odegrały fundamentalną rolę w rozwoju nauki o promieniotwórczości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

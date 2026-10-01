@@ -1,0 +1,21 @@
+{
+  "id": "medycyna-nuklearna-w-polsce",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Medycyna nuklearna w Polsce",
+  "facts": [
+    "Polskie ośrodki medycyny nuklearnej wykorzystują radioizotopy do diagnostyki i leczenia.",
+    "Dziedzina obejmuje m.in. scyntygrafię, PET oraz terapie radioizotopowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

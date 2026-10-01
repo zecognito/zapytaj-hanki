@@ -1,0 +1,21 @@
+{
+  "id": "superkomputer-prometheus",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Superkomputer Prometheus",
+  "facts": [
+    "Prometheus był superkomputerem uruchomionym w ACK Cyfronet AGH w 2015 roku.",
+    "W chwili uruchomienia należał do najpotężniejszych systemów obliczeniowych w Polsce."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

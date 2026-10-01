@@ -1,0 +1,21 @@
+{
+  "id": "polska-radioastronomia",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Polska radioastronomia",
+  "facts": [
+    "Polska radioastronomia rozwija się przede wszystkim w Toruniu, Krakowie, Poznaniu i innych ośrodkach akademickich.",
+    "Polskie radioteleskopy uczestniczą w międzynarodowych sieciach interferometrii i badaniach pulsarów, maserów oraz galaktyk."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

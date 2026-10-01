@@ -1,0 +1,21 @@
+{
+  "id": "polski-udzial-w-juice",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "astronomy-and-space",
+  "title": "Polski udział w JUICE",
+  "facts": [
+    "Polskie instytucje uczestniczą w misji ESA JUICE do układu Jowisza.",
+    "CBK PAN i partnerzy dostarczyli elementy instrumentów przeznaczonych do badań Jowisza i jego lodowych księżyców."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://cbkpan.pl/",
+    "https://polsa.gov.pl/"
+  ],
+  "related_public_pages": []
+}

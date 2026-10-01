@@ -1,0 +1,21 @@
+{
+  "id": "pzl-m28",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "PZL M28",
+  "facts": [
+    "PZL M28 jest polskim samolotem transportowym rozwiniętym z konstrukcji An-28.",
+    "Produkowany w Mielcu samolot może operować z krótkich i nieutwardzonych pasów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

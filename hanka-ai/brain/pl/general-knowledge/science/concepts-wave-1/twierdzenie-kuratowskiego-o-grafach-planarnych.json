@@ -1,0 +1,20 @@
+{
+  "id": "twierdzenie-kuratowskiego-o-grafach-planarnych",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Twierdzenie Kuratowskiego o grafach planarnych",
+  "facts": [
+    "Twierdzenie Kuratowskiego charakteryzuje grafy planarne przez brak podgrafów będących podziałami K5 lub K3,3.",
+    "Kazimierz Kuratowski opublikował ten fundamentalny wynik teorii grafów w 1930 roku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

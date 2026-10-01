@@ -1,0 +1,21 @@
+{
+  "id": "bineg",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "BINEG",
+  "facts": [
+    "BINEG był eksperymentalnym polskim komputerem zbudowanym w latach 50.",
+    "Należał do pionierskiego okresu rozwoju elektroniki cyfrowej i automatyki w Polsce."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

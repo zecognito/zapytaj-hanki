@@ -1,0 +1,21 @@
+{
+  "id": "pierwszy-udany-przeszczep-nerki-w-polsce",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "medicine-and-life-sciences",
+  "title": "Pierwszy udany przeszczep nerki w Polsce",
+  "facts": [
+    "Pierwszy udany przeszczep nerki w Polsce wykonano w Warszawie w 1966 roku.",
+    "Operacja stała się początkiem rozwoju nowoczesnej transplantologii w kraju."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://www.gov.pl/web/zdrowie"
+  ],
+  "related_public_pages": []
+}

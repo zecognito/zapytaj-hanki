@@ -1,0 +1,20 @@
+{
+  "id": "odwrotna-notacja-polska",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Odwrotna notacja polska",
+  "facts": [
+    "Odwrotna notacja polska zapisuje operator po argumentach i umożliwia łatwe obliczanie wyrażeń za pomocą stosu.",
+    "Jej nazwa nawiązuje do wcześniejszej notacji polskiej Jana Łukasiewicza."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

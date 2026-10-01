@@ -1,0 +1,20 @@
+{
+  "id": "problem-borsuka",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "mathematics-and-logic",
+  "title": "Problem Borsuka",
+  "facts": [
+    "Problem Borsuka dotyczy dzielenia ograniczonego zbioru w przestrzeni euklidesowej na części o mniejszej średnicy.",
+    "Karol Borsuk postawił go w 1933 roku; później wykazano, że jego ogólna hipoteza nie jest prawdziwa we wszystkich wymiarach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

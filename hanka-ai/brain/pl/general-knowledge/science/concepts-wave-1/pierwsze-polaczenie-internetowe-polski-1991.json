@@ -1,0 +1,21 @@
+{
+  "id": "pierwsze-polaczenie-internetowe-polski-1991",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "Pierwsze połączenie internetowe Polski 1991",
+  "facts": [
+    "W 1991 roku polskie ośrodki akademickie uzyskały pełne połączenie z globalnym Internetem.",
+    "Rozwój sieci był związany z NASK i środowiskiem Uniwersytetu Warszawskiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}

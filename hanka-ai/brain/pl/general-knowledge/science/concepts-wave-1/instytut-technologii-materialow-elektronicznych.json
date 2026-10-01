@@ -1,0 +1,21 @@
+{
+  "id": "instytut-technologii-materialow-elektronicznych",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "physics-engineering-and-inventions",
+  "title": "Instytut Technologii Materiałów Elektronicznych",
+  "facts": [
+    "ITME w Warszawie przez dziesięciolecia rozwijał technologie materiałów dla elektroniki, optoelektroniki i fotoniki.",
+    "Instytut prowadził m.in. prace nad kryształami, półprzewodnikami i grafenem, a później został włączony do Sieci Badawczej Łukasiewicz."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://pan.pl/",
+    "https://lukasiewicz.gov.pl/"
+  ],
+  "related_public_pages": []
+}

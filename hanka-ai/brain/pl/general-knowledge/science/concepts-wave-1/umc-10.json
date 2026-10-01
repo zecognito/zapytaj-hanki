@@ -1,0 +1,21 @@
+{
+  "id": "umc-10",
+  "country": "PL",
+  "jurisdiction": "national",
+  "region": "PL",
+  "topic": "science",
+  "subtopic": "computing-and-digital-technology",
+  "title": "UMC-10",
+  "facts": [
+    "UMC-10 był tranzystorowym następcą komputera UMC-1.",
+    "Projekt rozwijano na Politechnice Warszawskiej jako część krajowych prac nad maszynami cyfrowymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://nask.pl/",
+    "https://pan.pl/"
+  ],
+  "related_public_pages": []
+}
