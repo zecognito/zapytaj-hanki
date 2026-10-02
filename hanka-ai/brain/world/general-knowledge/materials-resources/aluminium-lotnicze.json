@@ -1,0 +1,20 @@
+{
+  "id": "world-aluminium-lotnicze",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "materials-and-resources",
+  "title": "Stop aluminium lotniczego",
+  "facts": [
+    "Stop aluminium lotniczego jest wyspecjalizowanym materiałem lub klasą materiałów projektowaną albo dobieraną do określonych właściwości użytkowych.",
+    "Właściwości takich materiałów wynikają ze składu, mikrostruktury i procesu wytwarzania, co decyduje o ich zastosowaniu technicznym."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.usgs.gov/centers/national-minerals-information-center"
+  ],
+  "related_public_pages": []
+}

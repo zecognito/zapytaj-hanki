@@ -1,0 +1,20 @@
+{
+  "id": "world-pole-namiotowe",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "tourism-and-hospitality",
+  "title": "Pole namiotowe",
+  "facts": [
+    "Pole namiotowe jest elementem podróżowania, pobytu poza miejscem zamieszkania albo obsługi osób podróżujących.",
+    "Turystyka łączy transport, noclegi, gastronomię, atrakcje, informację i usługi, a jej organizacja zależy od celu podróży, miejsca oraz lokalnych przepisów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unwto.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-wytwarzanie-przyrostowe",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "manufacturing-and-industry",
+  "title": "Wytwarzanie przyrostowe",
+  "facts": [
+    "Wytwarzanie przyrostowe obejmuje procesy budowania elementu warstwa po warstwie na podstawie cyfrowego modelu.",
+    "Do metod przyrostowych należą różne technologie druku 3D stosowane w prototypowaniu i produkcji części."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unido.org/"
+  ],
+  "related_public_pages": []
+}

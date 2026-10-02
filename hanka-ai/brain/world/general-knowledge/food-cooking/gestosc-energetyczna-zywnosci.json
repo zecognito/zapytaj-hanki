@@ -1,0 +1,20 @@
+{
+  "id": "world-gestosc-energetyczna-zywnosci",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "food-and-cooking",
+  "title": "Gęstość energetyczna żywności",
+  "facts": [
+    "Gęstość energetyczna żywności opisuje ilość energii dostarczanej przez żywność w odniesieniu do jej masy lub objętości.",
+    "Produkty o większej zawartości tłuszczu lub cukrów mogą mieć wyższą gęstość energetyczną niż produkty zawierające dużo wody lub błonnika."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/food-safety/en/"
+  ],
+  "related_public_pages": []
+}

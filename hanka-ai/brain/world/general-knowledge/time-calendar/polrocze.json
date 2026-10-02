@@ -1,0 +1,20 @@
+{
+  "id": "world-polrocze",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "time-and-calendar",
+  "title": "Półrocze",
+  "facts": [
+    "Półrocze jest pojęciem służącym do mierzenia, porządkowania albo opisywania następstwa zdarzeń i okresów.",
+    "Systemy czasu i kalendarze pozwalają synchronizować działalność społeczną, naukową i techniczną, choć zasady kalendarzowe i strefy czasowe mogą różnić się regionalnie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.bipm.org/en/time-frequency"
+  ],
+  "related_public_pages": []
+}

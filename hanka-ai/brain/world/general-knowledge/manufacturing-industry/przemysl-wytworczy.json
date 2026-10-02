@@ -1,0 +1,20 @@
+{
+  "id": "world-przemysl-wytworczy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "manufacturing-and-industry",
+  "title": "Przemysł wytwórczy",
+  "facts": [
+    "Przemysł wytwórczy jest pojęciem związanym z przekształcaniem surowców i komponentów w produkty przy użyciu procesów, maszyn i organizacji produkcji.",
+    "Produkcja przemysłowa łączy projekt, materiały, narzędzia, kontrolę procesu, jakość, bezpieczeństwo oraz planowanie przepływu pracy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unido.org/"
+  ],
+  "related_public_pages": []
+}

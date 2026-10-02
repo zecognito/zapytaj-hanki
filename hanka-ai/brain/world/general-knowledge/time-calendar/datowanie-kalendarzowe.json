@@ -1,0 +1,20 @@
+{
+  "id": "world-datowanie-kalendarzowe",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "time-and-calendar",
+  "title": "Datowanie kalendarzowe",
+  "facts": [
+    "Datowanie kalendarzowe jest sposobem porządkowania albo przypisywania dat zdarzeniom na podstawie określonego systemu czasu.",
+    "Różne systemy kalendarzowe wykorzystują cykle astronomiczne i reguły rachuby czasu, dlatego ich daty nie zawsze pokrywają się bezpośrednio."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.bipm.org/en/time-frequency"
+  ],
+  "related_public_pages": []
+}
