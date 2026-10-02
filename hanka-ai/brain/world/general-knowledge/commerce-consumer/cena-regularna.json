@@ -1,0 +1,20 @@
+{
+  "id": "world-cena-regularna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "commerce-and-consumer",
+  "title": "Cena regularna",
+  "facts": [
+    "Cena regularna jest ceną towaru lub usługi obowiązującą poza czasową promocją albo specjalnym rabatem.",
+    "Porównanie ceny regularnej z ceną promocyjną pozwala określić deklarowaną skalę obniżki, ale zasady prezentowania takich cen zależą od rynku i prawa konsumenckiego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unctad.org/topic/competition-and-consumer-protection"
+  ],
+  "related_public_pages": []
+}

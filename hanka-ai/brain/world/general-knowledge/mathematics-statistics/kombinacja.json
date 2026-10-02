@@ -1,0 +1,20 @@
+{
+  "id": "world-kombinacja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "mathematics-and-statistics",
+  "title": "Kombinacja",
+  "facts": [
+    "Kombinacja jest pojęciem matematycznym służącym do opisu liczb, struktur, kombinacji, grafów albo rozkładów danych.",
+    "Takie pojęcia pozwalają formalnie analizować zależności, liczyć możliwe konfiguracje lub opisywać własności zbiorów danych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.britannica.com/science/mathematics"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-kurier",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "commerce-and-consumer",
+  "title": "Kurier",
+  "facts": [
+    "Kurier jest pojęciem związanym z handlem, zakupem, płatnością albo relacją między sprzedawcą i konsumentem.",
+    "Transakcje konsumenckie łączą informacje o cenie i produkcie z warunkami płatności, dostawy, reklamacji oraz ochrony kupującego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unctad.org/topic/competition-and-consumer-protection"
+  ],
+  "related_public_pages": []
+}

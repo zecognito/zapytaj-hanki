@@ -1,0 +1,20 @@
+{
+  "id": "world-retoryka",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "communication-and-social-interaction",
+  "title": "Retoryka",
+  "facts": [
+    "Retoryka jest elementem komunikacji międzyludzkiej, interpretowania przekazu albo funkcjonowania relacji społecznych.",
+    "Znaczenie wypowiedzi zależy nie tylko od słów, lecz także od kontekstu, tonu, norm społecznych, intencji i reakcji rozmówców."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/en/communication-information"
+  ],
+  "related_public_pages": []
+}

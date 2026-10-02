@@ -1,0 +1,20 @@
+{
+  "id": "world-protokol-sieciowy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "computing-and-digital-systems",
+  "title": "Protokół sieciowy",
+  "facts": [
+    "Protokół sieciowy jest elementem sprzętu, oprogramowania lub komunikacji potrzebnym do działania systemów cyfrowych.",
+    "Warstwy systemu komputerowego współpracują od sprzętu i oprogramowania układowego po system operacyjny, sieć i aplikacje."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nist.gov/topics/information-technology"
+  ],
+  "related_public_pages": []
+}

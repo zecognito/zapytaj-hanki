@@ -1,0 +1,20 @@
+{
+  "id": "world-struktura-danych",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "computing-and-digital-systems",
+  "title": "Struktura danych",
+  "facts": [
+    "Struktura danych jest elementem informatyki, systemów cyfrowych, sieci albo bezpieczeństwa informacji.",
+    "Systemy komputerowe przetwarzają dane według instrukcji, a ich niezawodność i bezpieczeństwo zależą od sprzętu, oprogramowania, protokołów oraz kontroli dostępu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.nist.gov/topics/information-technology"
+  ],
+  "related_public_pages": []
+}

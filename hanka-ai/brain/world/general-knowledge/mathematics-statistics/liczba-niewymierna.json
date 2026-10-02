@@ -1,0 +1,20 @@
+{
+  "id": "world-liczba-niewymierna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "mathematics-and-statistics",
+  "title": "Liczba niewymierna",
+  "facts": [
+    "Liczba niewymierna jest pojęciem matematycznym lub statystycznym używanym do opisu liczb, struktur, zależności albo danych.",
+    "Matematyka formalizuje zależności za pomocą definicji i dowodów, a statystyka wykorzystuje dane do opisu zmienności i wnioskowania przy uwzględnieniu niepewności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.britannica.com/science/mathematics"
+  ],
+  "related_public_pages": []
+}
