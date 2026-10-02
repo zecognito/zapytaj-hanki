@@ -1,0 +1,20 @@
+{
+  "id": "world-antonymy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Antonimia",
+  "facts": [
+    "Antonimy wyrażają znaczenia pozostające w określonej relacji przeciwieństwa.",
+    "Przeciwieństwo może być stopniowalne, komplementarne albo kierunkowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

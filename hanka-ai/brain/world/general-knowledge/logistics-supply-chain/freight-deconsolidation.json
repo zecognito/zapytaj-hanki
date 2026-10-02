@@ -1,0 +1,20 @@
+{
+  "id": "world-freight-deconsolidation",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Dekonsolidacja ładunków",
+  "facts": [
+    "Dekonsolidacja rozdziela większą skonsolidowaną przesyłkę na mniejsze partie przeznaczone do różnych odbiorców.",
+    "Często odbywa się w terminalu lub centrum dystrybucyjnym blisko rynku docelowego."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

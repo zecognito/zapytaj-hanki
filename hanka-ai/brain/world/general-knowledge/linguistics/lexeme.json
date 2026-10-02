@@ -1,0 +1,20 @@
+{
+  "id": "world-lexeme",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Leksem",
+  "facts": [
+    "Leksem jest abstrakcyjną jednostką słownika obejmującą powiązane formy fleksyjne jednego wyrazu.",
+    "Formy „dom”, „domu” i „domem” reprezentują różne formy gramatyczne tego samego leksemu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-syllable",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Sylaba",
+  "facts": [
+    "Sylaba jest jednostką organizacji dźwięków mowy skupioną zwykle wokół samogłoski lub innego jądra sylaby.",
+    "Języki różnią się tym, jakie zbitki spółgłosek dopuszczają na początku i końcu sylaby."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

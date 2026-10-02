@@ -1,0 +1,20 @@
+{
+  "id": "world-derivation-linguistics",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Derywacja słowotwórcza",
+  "facts": [
+    "Derywacja tworzy nowy leksem na podstawie istniejącej jednostki, często przez dodanie afiksu.",
+    "Nowy wyraz może należeć do innej części mowy lub mieć zmienione znaczenie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

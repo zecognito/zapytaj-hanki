@@ -1,0 +1,20 @@
+{
+  "id": "world-food-security",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Bezpieczeństwo żywnościowe",
+  "facts": [
+    "Bezpieczeństwo żywnościowe oznacza trwały fizyczny i ekonomiczny dostęp ludzi do wystarczającej, bezpiecznej i odżywczej żywności.",
+    "Obejmuje dostępność żywności, dostęp do niej, jej wykorzystanie oraz stabilność tych warunków w czasie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

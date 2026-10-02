@@ -1,0 +1,20 @@
+{
+  "id": "world-cold-chain-food",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Łańcuch chłodniczy żywności",
+  "facts": [
+    "Łańcuch chłodniczy utrzymuje produkty łatwo psujące się w kontrolowanej temperaturze podczas magazynowania i transportu.",
+    "Przerwanie wymaganej temperatury może skrócić trwałość produktu i zwiększyć ryzyko strat."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

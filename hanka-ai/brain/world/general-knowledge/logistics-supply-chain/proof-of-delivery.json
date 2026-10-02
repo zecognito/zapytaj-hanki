@@ -1,0 +1,20 @@
+{
+  "id": "world-proof-of-delivery",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Potwierdzenie dostawy",
+  "facts": [
+    "Proof of delivery dokumentuje, że przesyłka została dostarczona do określonego odbiorcy lub miejsca.",
+    "Może zawierać podpis, znacznik czasu, zdjęcie, lokalizację lub inne dane potwierdzające wykonanie dostawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

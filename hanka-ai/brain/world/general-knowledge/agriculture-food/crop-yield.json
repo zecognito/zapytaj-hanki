@@ -1,0 +1,20 @@
+{
+  "id": "world-crop-yield",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Plon uprawy",
+  "facts": [
+    "Plon opisuje ilość produktu roślinnego uzyskaną z określonej powierzchni uprawy.",
+    "Zależy między innymi od genetyki odmiany, pogody, gleby, wody, nawożenia i presji organizmów szkodliwych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

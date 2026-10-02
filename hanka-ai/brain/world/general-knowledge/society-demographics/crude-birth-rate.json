@@ -1,0 +1,20 @@
+{
+  "id": "world-crude-birth-rate",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Surowy współczynnik urodzeń",
+  "facts": [
+    "Surowy współczynnik urodzeń odnosi liczbę żywych urodzeń w roku do całej populacji, zwykle na tysiąc mieszkańców.",
+    "Na jego wartość wpływa struktura wieku populacji, dlatego nie jest tym samym co współczynnik dzietności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-plant-nursery",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Szkółka roślin",
+  "facts": [
+    "Szkółka roślin rozmnaża i pielęgnuje młode rośliny przed ich przesadzeniem lub sprzedażą.",
+    "Kontrolowane warunki ułatwiają produkcję zdrowych sadzonek o wyrównanej jakości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

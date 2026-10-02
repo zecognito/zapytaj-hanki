@@ -1,0 +1,20 @@
+{
+  "id": "world-food-fortification",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Wzbogacanie żywności",
+  "facts": [
+    "Wzbogacanie żywności polega na celowym dodawaniu witamin lub składników mineralnych do produktu.",
+    "Stosuje się je między innymi do ograniczania niedoborów mikroelementów w populacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

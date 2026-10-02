@@ -1,0 +1,20 @@
+{
+  "id": "world-community-supported-agriculture",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Rolnictwo wspierane przez społeczność",
+  "facts": [
+    "W modelu CSA konsumenci zwykle kupują z góry udział w sezonowej produkcji gospodarstwa.",
+    "Model zapewnia producentowi wcześniejszy przepływ środków, a uczestnicy dzielą część ryzyka zmiennych zbiorów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

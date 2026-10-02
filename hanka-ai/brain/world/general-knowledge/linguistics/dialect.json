@@ -1,0 +1,20 @@
+{
+  "id": "world-dialect",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Dialekt",
+  "facts": [
+    "Dialekt jest systematyczną odmianą języka z własnymi cechami wymowy, słownictwa i gramatyki.",
+    "Z językoznawczego punktu widzenia dialekty nie są z definicji „gorszymi” formami języka."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

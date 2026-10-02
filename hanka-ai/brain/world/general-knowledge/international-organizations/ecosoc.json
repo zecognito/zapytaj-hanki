@@ -1,0 +1,20 @@
+{
+  "id": "world-ecosoc",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Rada Gospodarcza i Społeczna ONZ",
+  "facts": [
+    "ECOSOC koordynuje prace gospodarcze, społeczne i rozwojowe w systemie Narodów Zjednoczonych.",
+    "Stanowi forum współpracy między państwami, wyspecjalizowanymi agencjami i innymi podmiotami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

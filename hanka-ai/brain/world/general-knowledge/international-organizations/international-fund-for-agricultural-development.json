@@ -1,0 +1,20 @@
+{
+  "id": "world-international-fund-for-agricultural-development",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Międzynarodowy Fundusz Rozwoju Rolnictwa",
+  "facts": [
+    "IFAD finansuje projekty i programy ukierunkowane na rozwój obszarów wiejskich i ograniczanie ubóstwa.",
+    "Koncentruje się szczególnie na drobnych producentach rolnych i społecznościach wiejskich."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

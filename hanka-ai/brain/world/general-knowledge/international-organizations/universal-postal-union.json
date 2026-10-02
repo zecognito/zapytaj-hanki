@@ -1,0 +1,20 @@
+{
+  "id": "world-universal-postal-union",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Światowy Związek Pocztowy",
+  "facts": [
+    "UPU tworzy ramy współpracy między operatorami pocztowymi państw członkowskich.",
+    "Ułatwia funkcjonowanie międzynarodowej sieci wymiany przesyłek pocztowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

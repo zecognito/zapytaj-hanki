@@ -1,0 +1,20 @@
+{
+  "id": "world-silage",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Kiszonka",
+  "facts": [
+    "Kiszonka to zakonserwowana pasza powstająca przez fermentację wilgotnego materiału roślinnego przy ograniczonym dostępie tlenu.",
+    "Zakwaszenie masy pomaga zahamować rozwój wielu mikroorganizmów powodujących psucie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

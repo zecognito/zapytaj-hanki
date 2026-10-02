@@ -1,0 +1,20 @@
+{
+  "id": "world-grammatical-person",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Osoba gramatyczna",
+  "facts": [
+    "Osoba gramatyczna rozróżnia role uczestników wypowiedzi, takie jak mówiący, adresat i inne osoby lub rzeczy.",
+    "Rozróżnienie może być oznaczane w zaimkach oraz odmianie czasownika."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

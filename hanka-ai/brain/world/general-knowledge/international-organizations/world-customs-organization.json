@@ -1,0 +1,20 @@
+{
+  "id": "world-world-customs-organization",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Światowa Organizacja Celna",
+  "facts": [
+    "Światowa Organizacja Celna jest międzyrządową organizacją zajmującą się współpracą administracji celnych.",
+    "Opracowuje instrumenty i standardy dotyczące klasyfikacji towarów, procedur celnych i ułatwień w handlu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.wcoomd.org/"
+  ],
+  "related_public_pages": []
+}

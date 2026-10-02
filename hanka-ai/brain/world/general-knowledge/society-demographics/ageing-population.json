@@ -1,0 +1,20 @@
+{
+  "id": "world-ageing-population",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Starzenie się ludności",
+  "facts": [
+    "Starzenie się ludności oznacza wzrost udziału starszych grup wieku w populacji.",
+    "Głównymi mechanizmami są spadek dzietności i wydłużanie życia, a migracja może dodatkowo zmieniać strukturę wieku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

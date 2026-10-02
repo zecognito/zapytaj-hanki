@@ -1,0 +1,20 @@
+{
+  "id": "world-inflection",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Fleksja",
+  "facts": [
+    "Fleksja zmienia formę wyrazu, aby wyrazić kategorie gramatyczne bez tworzenia nowego podstawowego leksemu.",
+    "Może oznaczać między innymi liczbę, przypadek, osobę, czas lub rodzaj."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

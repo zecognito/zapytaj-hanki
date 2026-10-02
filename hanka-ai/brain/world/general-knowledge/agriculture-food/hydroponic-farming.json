@@ -1,0 +1,20 @@
+{
+  "id": "world-hydroponic-farming",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Uprawa hydroponiczna",
+  "facts": [
+    "Hydroponika prowadzi rośliny bez tradycyjnej gleby, dostarczając składniki pokarmowe w roztworze wodnym.",
+    "Korzenie mogą znajdować się bezpośrednio w roztworze albo w obojętnym podłożu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

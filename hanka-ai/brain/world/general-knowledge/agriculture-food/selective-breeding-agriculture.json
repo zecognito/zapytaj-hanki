@@ -1,0 +1,20 @@
+{
+  "id": "world-selective-breeding-agriculture",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Hodowla selekcyjna",
+  "facts": [
+    "Hodowla selekcyjna wybiera osobniki o pożądanych cechach jako rodziców kolejnych pokoleń.",
+    "W rolnictwie służy między innymi poprawie plonu, odporności, jakości lub cech użytkowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

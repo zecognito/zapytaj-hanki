@@ -1,0 +1,20 @@
+{
+  "id": "world-informal-economy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Gospodarka nieformalna",
+  "facts": [
+    "Gospodarka nieformalna obejmuje działalność zarobkową, która nie jest w pełni objęta formalnymi regulacjami, rejestracją lub ochroną.",
+    "Nie jest tożsama z działalnością przestępczą, choć może pozostawać poza częścią obowiązków administracyjnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

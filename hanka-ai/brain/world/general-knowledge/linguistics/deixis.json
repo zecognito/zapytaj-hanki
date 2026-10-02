@@ -1,0 +1,20 @@
+{
+  "id": "world-deixis",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Deiksa",
+  "facts": [
+    "Deiksa obejmuje wyrażenia, których interpretacja zależy bezpośrednio od sytuacji mówienia.",
+    "Słowa takie jak „ja”, „tu” i „jutro” wymagają znajomości osoby, miejsca lub czasu wypowiedzi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

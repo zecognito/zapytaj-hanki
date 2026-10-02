@@ -1,0 +1,20 @@
+{
+  "id": "world-third-party-logistics",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Operator 3PL",
+  "facts": [
+    "Operator 3PL wykonuje dla klienta zewnętrzne usługi logistyczne, takie jak magazynowanie, transport lub fulfillment.",
+    "Outsourcing pozwala korzystać z infrastruktury i specjalizacji operatora bez budowania całej sieci we własnej firmie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

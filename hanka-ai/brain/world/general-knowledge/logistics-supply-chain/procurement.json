@@ -1,0 +1,20 @@
+{
+  "id": "world-procurement",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Zaopatrzenie zakupowe",
+  "facts": [
+    "Procurement obejmuje pozyskiwanie towarów i usług potrzebnych organizacji od zewnętrznych dostawców.",
+    "Proces może obejmować specyfikację potrzeb, wybór dostawcy, negocjacje, zamówienie i ocenę wykonania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

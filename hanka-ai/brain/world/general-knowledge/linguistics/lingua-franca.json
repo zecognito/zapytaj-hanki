@@ -1,0 +1,20 @@
+{
+  "id": "world-lingua-franca",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Lingua franca",
+  "facts": [
+    "Lingua franca to język używany do komunikacji między osobami, które mają różne języki ojczyste.",
+    "Może być językiem rodzimym części użytkowników albo językiem dodatkowym dla wszystkich stron."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

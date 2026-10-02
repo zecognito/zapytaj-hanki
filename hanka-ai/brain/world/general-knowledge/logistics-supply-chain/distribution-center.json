@@ -1,0 +1,20 @@
+{
+  "id": "world-distribution-center",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Centrum dystrybucyjne",
+  "facts": [
+    "Centrum dystrybucyjne jest obiektem nastawionym na szybki przepływ i rozdział towarów do odbiorców lub kolejnych punktów sieci.",
+    "W porównaniu z magazynem długoterminowe składowanie często ma mniejsze znaczenie niż sortowanie i realizacja zamówień."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

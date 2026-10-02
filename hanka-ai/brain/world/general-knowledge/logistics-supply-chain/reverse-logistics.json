@@ -1,0 +1,20 @@
+{
+  "id": "world-reverse-logistics",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Logistyka zwrotna",
+  "facts": [
+    "Logistyka zwrotna zarządza przepływem produktów od użytkownika z powrotem do sprzedawcy, producenta lub punktu odzysku.",
+    "Obejmuje zwroty, naprawy, regenerację, recykling i zagospodarowanie produktów po użyciu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

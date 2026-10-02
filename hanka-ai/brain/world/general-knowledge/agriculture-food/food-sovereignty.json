@@ -1,0 +1,20 @@
+{
+  "id": "world-food-sovereignty",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Suwerenność żywnościowa",
+  "facts": [
+    "Suwerenność żywnościowa to koncepcja podkreślająca prawo społeczności do współdecydowania o własnych systemach żywnościowych.",
+    "Akcentuje lokalną kontrolę nad produkcją, zasobami i sposobami wytwarzania żywności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-european-central-bank",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Europejski Bank Centralny",
+  "facts": [
+    "EBC jest bankiem centralnym strefy euro i odpowiada za politykę pieniężną wspólnej waluty.",
+    "Jego podstawowym celem traktatowym jest utrzymanie stabilności cen."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-undp",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Program Narodów Zjednoczonych do spraw Rozwoju",
+  "facts": [
+    "UNDP wspiera państwa w ograniczaniu ubóstwa, wzmacnianiu instytucji i realizacji celów zrównoważonego rozwoju.",
+    "Zapewnia pomoc techniczną i realizuje programy rozwojowe w wielu krajach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

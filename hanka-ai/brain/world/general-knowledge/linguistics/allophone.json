@@ -1,0 +1,20 @@
+{
+  "id": "world-allophone",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Allofon",
+  "facts": [
+    "Allofon jest wariantem realizacji tego samego fonemu, który nie zmienia znaczenia wyrazu.",
+    "Występowanie allofonów często zależy od sąsiednich dźwięków lub pozycji w wyrazie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

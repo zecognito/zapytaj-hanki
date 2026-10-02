@@ -1,0 +1,20 @@
+{
+  "id": "world-ibrd",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Międzynarodowy Bank Odbudowy i Rozwoju",
+  "facts": [
+    "IBRD jest częścią Grupy Banku Światowego i udziela finansowania oraz wsparcia państwom o określonym poziomie dochodu i zdolności kredytowej.",
+    "Środki są wykorzystywane między innymi na projekty rozwojowe i reformy instytucjonalne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

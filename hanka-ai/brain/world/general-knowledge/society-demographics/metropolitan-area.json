@@ -1,0 +1,20 @@
+{
+  "id": "world-metropolitan-area",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Obszar metropolitalny",
+  "facts": [
+    "Obszar metropolitalny obejmuje duży ośrodek miejski oraz powiązane z nim funkcjonalnie otoczenie.",
+    "Granice statystyczne często opierają się na przepływach do pracy i integracji gospodarczej, a nie tylko na granicach administracyjnych miasta."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

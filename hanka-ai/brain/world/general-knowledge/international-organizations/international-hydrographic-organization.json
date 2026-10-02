@@ -1,0 +1,20 @@
+{
+  "id": "world-international-hydrographic-organization",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Międzynarodowa Organizacja Hydrograficzna",
+  "facts": [
+    "IHO koordynuje współpracę krajowych służb hydrograficznych i rozwój standardów danych morskich.",
+    "Jej prace wspierają tworzenie spójnych map i informacji nawigacyjnych potrzebnych bezpiecznej żegludze."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://iho.int/"
+  ],
+  "related_public_pages": []
+}

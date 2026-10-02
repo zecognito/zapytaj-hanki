@@ -1,0 +1,20 @@
+{
+  "id": "world-soil-compaction-agriculture",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Zagęszczenie gleby",
+  "facts": [
+    "Zagęszczenie gleby zmniejsza przestrzenie porowe pod wpływem nacisku maszyn, zwierząt lub innych obciążeń.",
+    "Może ograniczać infiltrację wody, napowietrzenie i wzrost korzeni."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

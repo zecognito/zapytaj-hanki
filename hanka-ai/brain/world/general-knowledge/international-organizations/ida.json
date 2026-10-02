@@ -1,0 +1,20 @@
+{
+  "id": "world-ida",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Międzynarodowe Stowarzyszenie Rozwoju",
+  "facts": [
+    "IDA jest częścią Grupy Banku Światowego wspierającą najuboższe państwa.",
+    "Zapewnia preferencyjne kredyty i granty na cele rozwojowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

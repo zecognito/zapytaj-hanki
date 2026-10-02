@@ -1,0 +1,20 @@
+{
+  "id": "world-backorder",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Zamówienie oczekujące",
+  "facts": [
+    "Backorder to zamówienie klienta przyjęte mimo chwilowego braku produktu w magazynie.",
+    "Realizacja następuje po uzupełnieniu zapasu, więc klient doświadcza dłuższego czasu oczekiwania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

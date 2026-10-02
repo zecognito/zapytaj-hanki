@@ -1,0 +1,20 @@
+{
+  "id": "world-active-voice",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Strona czynna",
+  "facts": [
+    "W stronie czynnej typowy wykonawca czynności jest kodowany jako centralny argument zdania.",
+    "Kontrast ze stroną bierną dotyczy organizacji informacji i relacji składniowych, a nie samego zdarzenia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

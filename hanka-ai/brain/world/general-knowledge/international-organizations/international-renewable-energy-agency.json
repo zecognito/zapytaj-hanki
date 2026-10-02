@@ -1,0 +1,20 @@
+{
+  "id": "world-international-renewable-energy-agency",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Międzynarodowa Agencja Energii Odnawialnej",
+  "facts": [
+    "IRENA jest międzyrządową organizacją wspierającą transformację energetyczną i rozwój energii odnawialnej.",
+    "Publikuje dane, analizy i zalecenia dotyczące technologii, kosztów oraz wdrażania odnawialnych źródeł energii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.irena.org/"
+  ],
+  "related_public_pages": []
+}

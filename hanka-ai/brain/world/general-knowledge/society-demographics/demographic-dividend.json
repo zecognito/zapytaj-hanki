@@ -1,0 +1,20 @@
+{
+  "id": "world-demographic-dividend",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Dywidenda demograficzna",
+  "facts": [
+    "Dywidenda demograficzna to potencjalna korzyść gospodarcza wynikająca ze wzrostu udziału ludności w wieku produkcyjnym względem grup zależnych.",
+    "Nie powstaje automatycznie: zależy między innymi od edukacji, zdrowia, zatrudnienia i instytucji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

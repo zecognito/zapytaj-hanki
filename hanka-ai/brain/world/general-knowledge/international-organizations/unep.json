@@ -1,0 +1,20 @@
+{
+  "id": "world-unep",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Program Narodów Zjednoczonych do spraw Środowiska",
+  "facts": [
+    "UNEP koordynuje działania środowiskowe w systemie ONZ i wspiera państwa w polityce ochrony środowiska.",
+    "Publikuje oceny naukowe i wspiera rozwój międzynarodowych porozumień środowiskowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

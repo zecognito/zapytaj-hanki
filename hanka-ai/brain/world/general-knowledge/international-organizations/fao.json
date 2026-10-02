@@ -1,0 +1,20 @@
+{
+  "id": "world-fao",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Organizacja Narodów Zjednoczonych do spraw Wyżywienia i Rolnictwa",
+  "facts": [
+    "FAO wspiera międzynarodową współpracę w rolnictwie, żywności, leśnictwie, rybołówstwie i bezpieczeństwie żywnościowym.",
+    "Gromadzi i publikuje globalne dane dotyczące produkcji i systemów żywnościowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

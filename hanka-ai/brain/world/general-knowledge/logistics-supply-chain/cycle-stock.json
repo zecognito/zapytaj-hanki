@@ -1,0 +1,20 @@
+{
+  "id": "world-cycle-stock",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Zapas cykliczny",
+  "facts": [
+    "Zapas cykliczny wynika z kupowania lub produkowania towaru partiami zamiast dokładnie po jednej jednostce na bieżące zapotrzebowanie.",
+    "Jego przeciętny poziom rośnie wraz z wielkością typowej partii przy innych warunkach niezmienionych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

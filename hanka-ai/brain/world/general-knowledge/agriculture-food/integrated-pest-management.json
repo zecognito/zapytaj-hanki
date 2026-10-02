@@ -1,0 +1,20 @@
+{
+  "id": "world-integrated-pest-management",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Integrowana ochrona roślin",
+  "facts": [
+    "Integrowana ochrona roślin łączy monitoring oraz metody biologiczne, agrotechniczne, fizyczne i chemiczne.",
+    "Środki chemiczne stosuje się w niej jako jeden z elementów kontroli, a nie automatycznie jako jedyne rozwiązanie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

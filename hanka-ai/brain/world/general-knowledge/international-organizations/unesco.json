@@ -1,0 +1,20 @@
+{
+  "id": "world-unesco",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "UNESCO",
+  "facts": [
+    "UNESCO jest agencją ONZ zajmującą się edukacją, nauką, kulturą i komunikacją.",
+    "Prowadzi między innymi program Listy Światowego Dziedzictwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-international-olympic-committee",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Międzynarodowy Komitet Olimpijski",
+  "facts": [
+    "MKOl jest organizacją stojącą na czele Ruchu Olimpijskiego i właścicielem praw do igrzysk olimpijskich.",
+    "Wybiera gospodarzy igrzysk i współpracuje z międzynarodowymi federacjami sportowymi oraz narodowymi komitetami olimpijskimi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

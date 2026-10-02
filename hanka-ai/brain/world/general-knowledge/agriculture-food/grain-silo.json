@@ -1,0 +1,20 @@
+{
+  "id": "world-grain-silo",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Silos zbożowy",
+  "facts": [
+    "Silos zbożowy służy do masowego przechowywania suchego ziarna.",
+    "Kontrola wilgotności, temperatury i szkodników jest kluczowa dla ograniczenia pleśni i utraty jakości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

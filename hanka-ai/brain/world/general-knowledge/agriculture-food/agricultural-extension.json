@@ -1,0 +1,20 @@
+{
+  "id": "world-agricultural-extension",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Doradztwo rolnicze",
+  "facts": [
+    "Doradztwo rolnicze przekazuje producentom praktyczną wiedzę, szkolenia i wyniki badań przydatne w gospodarstwie.",
+    "Może obejmować produkcję, ochronę roślin, zarządzanie gospodarstwem i adaptację nowych technologii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

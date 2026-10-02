@@ -1,0 +1,20 @@
+{
+  "id": "world-supply-chain",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Łańcuch dostaw",
+  "facts": [
+    "Łańcuch dostaw obejmuje przepływ materiałów, produktów, informacji i środków finansowych od dostawców do końcowego odbiorcy.",
+    "Obejmuje nie tylko transport, lecz także zakupy, produkcję, magazynowanie, planowanie i dystrybucję."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

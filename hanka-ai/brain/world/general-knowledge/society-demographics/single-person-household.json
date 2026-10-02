@@ -1,0 +1,20 @@
+{
+  "id": "world-single-person-household",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Jednoosobowe gospodarstwo domowe",
+  "facts": [
+    "Jednoosobowe gospodarstwo domowe tworzy osoba mieszkająca samodzielnie w swojej jednostce mieszkalnej.",
+    "Wzrost ich udziału wpływa na zapotrzebowanie mieszkaniowe inaczej niż sama zmiana liczby ludności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

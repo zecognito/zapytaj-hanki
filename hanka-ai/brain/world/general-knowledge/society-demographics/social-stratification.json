@@ -1,0 +1,20 @@
+{
+  "id": "world-social-stratification",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Stratyfikacja społeczna",
+  "facts": [
+    "Stratyfikacja społeczna oznacza trwałe różnice w dostępie grup do zasobów, statusu i możliwości.",
+    "Systemy stratyfikacji mogą opierać się na klasie, kastach, zawodzie lub innych społecznie istotnych podziałach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-demand-forecasting-supply-chain",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Prognozowanie popytu",
+  "facts": [
+    "Prognozowanie popytu szacuje przyszłe zapotrzebowanie na produkty na podstawie danych i założeń.",
+    "Błędy prognozy wpływają na zapasy, zdolności produkcyjne, zakupy i poziom obsługi klienta."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

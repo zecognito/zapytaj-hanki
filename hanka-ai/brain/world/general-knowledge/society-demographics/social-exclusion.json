@@ -1,0 +1,20 @@
+{
+  "id": "world-social-exclusion",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Wykluczenie społeczne",
+  "facts": [
+    "Wykluczenie społeczne to wielowymiarowy proces ograniczający udział osób lub grup w podstawowych obszarach życia społecznego.",
+    "Może obejmować jednocześnie ubóstwo, izolację, brak dostępu do usług i ograniczone możliwości działania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

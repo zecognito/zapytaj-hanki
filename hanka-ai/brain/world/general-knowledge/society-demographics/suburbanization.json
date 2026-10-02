@@ -1,0 +1,20 @@
+{
+  "id": "world-suburbanization",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Suburbanizacja",
+  "facts": [
+    "Suburbanizacja to wzrost ludności i zabudowy na obszarach otaczających centralne miasto.",
+    "Często wiąże się z dojazdami do pracy oraz rozwojem infrastruktury transportowej poza rdzeniem miasta."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

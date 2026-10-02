@@ -1,0 +1,20 @@
+{
+  "id": "world-unit-load",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Jednostka ładunkowa",
+  "facts": [
+    "Jednostka ładunkowa łączy wiele pojedynczych opakowań w jeden element obsługiwany jako całość.",
+    "Paleta z kartonami lub kontener są typowymi sposobami tworzenia większych jednostek ładunkowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

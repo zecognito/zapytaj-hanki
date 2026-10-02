@@ -1,0 +1,20 @@
+{
+  "id": "world-survey-sampling",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Badanie reprezentacyjne",
+  "facts": [
+    "Badanie reprezentacyjne zbiera dane od części populacji dobranej tak, aby wnioskować o większej zbiorowości.",
+    "Jakość wniosków zależy od schematu doboru próby, odpowiedzi respondentów i właściwego ważenia danych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

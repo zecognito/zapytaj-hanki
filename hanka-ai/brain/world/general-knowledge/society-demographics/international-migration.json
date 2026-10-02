@@ -1,0 +1,20 @@
+{
+  "id": "world-international-migration",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Migracja międzynarodowa",
+  "facts": [
+    "Migracja międzynarodowa wiąże się ze zmianą kraju zwykłego zamieszkania.",
+    "Statystyki mogą różnić się zależnie od przyjętej definicji długości pobytu i statusu migranta."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

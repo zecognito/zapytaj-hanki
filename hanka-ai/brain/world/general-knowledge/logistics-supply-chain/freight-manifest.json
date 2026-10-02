@@ -1,0 +1,20 @@
+{
+  "id": "world-freight-manifest",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Manifest ładunkowy",
+  "facts": [
+    "Manifest ładunkowy zestawia przesyłki lub towary przewożone danym środkiem transportu.",
+    "Ułatwia kontrolę operacyjną, odprawę i sprawdzenie, co powinno znajdować się w pojeździe, statku lub samolocie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

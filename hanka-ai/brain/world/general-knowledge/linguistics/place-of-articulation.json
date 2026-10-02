@@ -1,0 +1,20 @@
+{
+  "id": "world-place-of-articulation",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Miejsce artykulacji",
+  "facts": [
+    "Miejsce artykulacji określa, gdzie w torze głosowym powstaje główne zwężenie przy wymowie spółgłoski.",
+    "Kategorie obejmują między innymi spółgłoski wargowe, zębowe, dziąsłowe i welarne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

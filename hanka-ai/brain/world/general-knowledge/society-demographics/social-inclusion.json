@@ -1,0 +1,20 @@
+{
+  "id": "world-social-inclusion",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Włączenie społeczne",
+  "facts": [
+    "Włączenie społeczne oznacza zwiększanie możliwości uczestnictwa ludzi w życiu gospodarczym, społecznym i publicznym.",
+    "Dotyczy usuwania barier ograniczających dostęp do usług, edukacji, pracy i relacji społecznych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

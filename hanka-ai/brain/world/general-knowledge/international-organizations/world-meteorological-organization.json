@@ -1,0 +1,20 @@
+{
+  "id": "world-world-meteorological-organization",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Światowa Organizacja Meteorologiczna",
+  "facts": [
+    "WMO koordynuje międzynarodową współpracę w meteorologii, klimatologii i hydrologii operacyjnej.",
+    "Wspiera wymianę obserwacji pogodowych i klimatycznych między krajowymi służbami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-vowel",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Samogłoska",
+  "facts": [
+    "Samogłoska jest dźwiękiem mowy wytwarzanym bez istotnego zwężenia przepływu powietrza w kanale głosowym.",
+    "Samogłoski opisuje się między innymi według położenia języka i zaokrąglenia warg."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

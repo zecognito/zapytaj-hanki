@@ -1,0 +1,20 @@
+{
+  "id": "world-united-nations-general-assembly",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Zgromadzenie Ogólne ONZ",
+  "facts": [
+    "Zgromadzenie Ogólne jest głównym organem obradującym ONZ, w którym reprezentowane są wszystkie państwa członkowskie.",
+    "Każde państwo członkowskie ma w Zgromadzeniu jeden głos."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

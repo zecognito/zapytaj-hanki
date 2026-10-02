@@ -1,0 +1,20 @@
+{
+  "id": "world-response-rate",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Wskaźnik odpowiedzi",
+  "facts": [
+    "Wskaźnik odpowiedzi określa udział wybranych jednostek, od których uzyskano wymaganą odpowiedź.",
+    "Niski wskaźnik nie musi automatycznie oznaczać dużego błędu, ale zwiększa ryzyko obciążenia wyników, jeśli brak odpowiedzi jest systematyczny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-buffer-stock",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Zapas buforowy",
+  "facts": [
+    "Zapas buforowy chroni proces przed krótkotrwałymi wahaniami podaży, popytu lub tempa produkcji.",
+    "Może być umieszczany między etapami procesu, aby jedno zakłócenie nie zatrzymało natychmiast kolejnego etapu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

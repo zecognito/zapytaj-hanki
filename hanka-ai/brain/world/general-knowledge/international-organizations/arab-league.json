@@ -1,0 +1,20 @@
+{
+  "id": "world-arab-league",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Liga Państw Arabskich",
+  "facts": [
+    "Liga Państw Arabskich jest regionalną organizacją współpracy państw arabskich.",
+    "Stanowi forum koordynacji stanowisk i współpracy między państwami członkowskimi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

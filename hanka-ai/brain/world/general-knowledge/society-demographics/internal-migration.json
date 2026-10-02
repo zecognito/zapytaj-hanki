@@ -1,0 +1,20 @@
+{
+  "id": "world-internal-migration",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Migracja wewnętrzna",
+  "facts": [
+    "Migracja wewnętrzna oznacza zmianę miejsca zamieszkania w granicach tego samego państwa.",
+    "Może obejmować przepływy między wsią i miastem, regionami albo różnymi obszarami metropolitalnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

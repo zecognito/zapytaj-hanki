@@ -1,0 +1,20 @@
+{
+  "id": "world-social-mobility",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Mobilność społeczna",
+  "facts": [
+    "Mobilność społeczna opisuje zmianę pozycji społeczno-ekonomicznej osoby lub rodziny.",
+    "Może być mierzona między pokoleniami albo w trakcie życia jednej osoby."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-palletization",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Paletyzacja",
+  "facts": [
+    "Paletyzacja grupuje towary na palecie w jednostkę łatwiejszą do przenoszenia wózkiem widłowym lub innym sprzętem.",
+    "Stabilność ładunku zależy od rozmieszczenia opakowań, ich wytrzymałości i właściwego zabezpieczenia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

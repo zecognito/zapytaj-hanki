@@ -1,0 +1,20 @@
+{
+  "id": "world-international-red-cross-red-crescent-movement",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Międzynarodowy Ruch Czerwonego Krzyża i Czerwonego Półksiężyca",
+  "facts": [
+    "Ruch łączy MKCK, Międzynarodową Federację oraz krajowe stowarzyszenia Czerwonego Krzyża i Czerwonego Półksiężyca.",
+    "Jego komponenty pełnią różne role w konfliktach zbrojnych, katastrofach i pomocy humanitarnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

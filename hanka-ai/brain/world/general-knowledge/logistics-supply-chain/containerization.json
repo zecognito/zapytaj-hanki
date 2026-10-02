@@ -1,0 +1,20 @@
+{
+  "id": "world-containerization",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Konteneryzacja",
+  "facts": [
+    "Konteneryzacja przewozi towary w standaryzowanych kontenerach, które można przenosić między środkami transportu bez przeładunku samego ładunku.",
+    "Znacznie ułatwiła transport intermodalny i mechanizację operacji portowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

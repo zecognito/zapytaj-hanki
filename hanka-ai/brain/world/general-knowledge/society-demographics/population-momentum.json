@@ -1,0 +1,20 @@
+{
+  "id": "world-population-momentum",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Pęd demograficzny",
+  "facts": [
+    "Pęd demograficzny sprawia, że populacja może nadal rosnąć po spadku dzietności do poziomu zastępowalności pokoleń.",
+    "Dzieje się tak, gdy liczne młode roczniki wchodzą w wiek reprodukcyjny."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

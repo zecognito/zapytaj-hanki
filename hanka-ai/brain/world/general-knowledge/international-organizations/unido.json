@@ -1,0 +1,20 @@
+{
+  "id": "world-unido",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Organizacja Narodów Zjednoczonych do spraw Rozwoju Przemysłowego",
+  "facts": [
+    "UNIDO wspiera zrównoważony i inkluzywny rozwój przemysłowy.",
+    "Jej działania obejmują pomoc techniczną, rozwój zdolności produkcyjnych i efektywne wykorzystanie zasobów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

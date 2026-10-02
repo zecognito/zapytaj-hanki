@@ -1,0 +1,20 @@
+{
+  "id": "world-sku",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "SKU",
+  "facts": [
+    "SKU jest wewnętrznym identyfikatorem konkretnej pozycji magazynowej lub wariantu produktu.",
+    "Różne rozmiary, kolory lub konfiguracje tego samego produktu mogą być prowadzone jako odrębne SKU."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

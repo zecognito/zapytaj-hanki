@@ -1,0 +1,20 @@
+{
+  "id": "world-abc-inventory-analysis",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Analiza ABC zapasów",
+  "facts": [
+    "Analiza ABC dzieli pozycje zapasowe na klasy według ich znaczenia, często wartości rocznego zużycia.",
+    "Pozycje klasy A otrzymują zwykle najściślejszą kontrolę mimo że stanowią mniejszą część liczby indeksów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

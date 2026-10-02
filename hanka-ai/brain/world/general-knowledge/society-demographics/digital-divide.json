@@ -1,0 +1,20 @@
+{
+  "id": "world-digital-divide",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Wykluczenie cyfrowe",
+  "facts": [
+    "Wykluczenie cyfrowe opisuje nierówności w dostępie do internetu, urządzeń, umiejętności i możliwości korzystania z usług cyfrowych.",
+    "Sam fizyczny dostęp do sieci nie usuwa różnic wynikających z ceny, jakości połączenia lub kompetencji cyfrowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

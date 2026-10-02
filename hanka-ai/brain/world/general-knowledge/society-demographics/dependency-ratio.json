@@ -1,0 +1,20 @@
+{
+  "id": "world-dependency-ratio",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Współczynnik obciążenia demograficznego",
+  "facts": [
+    "Współczynnik obciążenia demograficznego porównuje liczebność grup zwykle uznawanych za zależne ekonomicznie z populacją w wieku produkcyjnym.",
+    "Jest wskaźnikiem struktury wieku, a nie bezpośrednim pomiarem liczby osób faktycznie pracujących i utrzymywanych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

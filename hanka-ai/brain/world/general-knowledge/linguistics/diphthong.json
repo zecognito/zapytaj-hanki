@@ -1,0 +1,20 @@
+{
+  "id": "world-diphthong",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Dyftong",
+  "facts": [
+    "Dyftong jest samogłoską złożoną, w której artykulacja przesuwa się między dwiema jakościami w obrębie jednej sylaby.",
+    "To, które połączenia uznaje się za dyftongi, zależy od systemu fonologicznego języka."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

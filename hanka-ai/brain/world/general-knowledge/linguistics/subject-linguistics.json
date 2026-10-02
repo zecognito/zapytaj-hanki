@@ -1,0 +1,20 @@
+{
+  "id": "world-subject-linguistics",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Podmiot gramatyczny",
+  "facts": [
+    "Podmiot jest składnikiem zdania związanym z określonymi właściwościami składniowymi, które różnią się między językami.",
+    "W wielu językach wpływa na zgodę formy czasownika, ale nie jest po prostu synonimem wykonawcy czynności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

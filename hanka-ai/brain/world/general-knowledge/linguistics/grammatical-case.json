@@ -1,0 +1,20 @@
+{
+  "id": "world-grammatical-case",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Przypadek gramatyczny",
+  "facts": [
+    "Przypadek gramatyczny oznacza relację rzeczownika lub zaimka do innych elementów wypowiedzi.",
+    "Może być wyrażany końcówką, zmianą formy albo innymi środkami morfosyntaktycznymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

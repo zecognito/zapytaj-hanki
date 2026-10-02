@@ -1,0 +1,20 @@
+{
+  "id": "world-morpheme",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Morfem",
+  "facts": [
+    "Morfem to najmniejsza jednostka języka niosąca znaczenie lub funkcję gramatyczną.",
+    "Wyraz może składać się z jednego morfemu albo z rdzenia i kilku afiksów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

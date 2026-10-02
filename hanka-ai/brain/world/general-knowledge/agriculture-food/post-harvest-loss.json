@@ -1,0 +1,20 @@
+{
+  "id": "world-post-harvest-loss",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Straty pożniwne",
+  "facts": [
+    "Straty pożniwne powstają między zbiorem a konsumpcją wskutek uszkodzeń, psucia, szkodników lub niewłaściwego przechowywania.",
+    "Lepsze suszenie, chłodzenie, transport i magazynowanie mogą ograniczać takie straty."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-reorder-point",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Punkt ponownego zamówienia",
+  "facts": [
+    "Punkt ponownego zamówienia określa poziom zapasu, przy którym należy uruchomić kolejne uzupełnienie.",
+    "Zwykle uwzględnia popyt podczas czasu dostawy oraz ewentualny zapas bezpieczeństwa."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

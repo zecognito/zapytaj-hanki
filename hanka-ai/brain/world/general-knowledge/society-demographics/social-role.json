@@ -1,0 +1,20 @@
+{
+  "id": "world-social-role",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Rola społeczna",
+  "facts": [
+    "Rola społeczna obejmuje oczekiwania wiązane z określoną pozycją lub funkcją osoby w grupie.",
+    "Jedna osoba może jednocześnie pełnić wiele ról, których oczekiwania czasem pozostają w konflikcie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

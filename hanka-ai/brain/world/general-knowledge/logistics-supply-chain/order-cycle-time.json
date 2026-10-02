@@ -1,0 +1,20 @@
+{
+  "id": "world-order-cycle-time",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Cykl realizacji zamówienia",
+  "facts": [
+    "Cykl realizacji zamówienia mierzy czas od przyjęcia zamówienia klienta do jego dostarczenia lub innego zdefiniowanego końca procesu.",
+    "Składają się na niego między innymi przetwarzanie, kompletacja, pakowanie i transport."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

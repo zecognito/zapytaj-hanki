@@ -1,0 +1,20 @@
+{
+  "id": "world-ifrc",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Międzynarodowa Federacja Stowarzyszeń Czerwonego Krzyża i Czerwonego Półksiężyca",
+  "facts": [
+    "IFRC koordynuje i wspiera działania krajowych stowarzyszeń w odpowiedzi na katastrofy i kryzysy humanitarne.",
+    "Federacja działa przede wszystkim poza specyficznym mandatem MKCK dotyczącym konfliktów zbrojnych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-inbound-logistics",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Logistyka zaopatrzenia",
+  "facts": [
+    "Logistyka zaopatrzenia dotyczy przepływu materiałów i komponentów od dostawców do zakładu lub magazynu odbiorcy.",
+    "Obejmuje między innymi transport przychodzący, harmonogram dostaw, przyjęcie i kontrolę zapasów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

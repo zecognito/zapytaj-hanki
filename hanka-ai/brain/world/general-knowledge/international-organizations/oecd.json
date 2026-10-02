@@ -1,0 +1,20 @@
+{
+  "id": "world-oecd",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Organizacja Współpracy Gospodarczej i Rozwoju",
+  "facts": [
+    "OECD jest międzyrządowym forum współpracy nad politykami gospodarczymi i społecznymi.",
+    "Publikuje porównawcze dane, analizy i standardy wykorzystywane przez administracje publiczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

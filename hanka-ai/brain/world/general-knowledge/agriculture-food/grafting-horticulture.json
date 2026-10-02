@@ -1,0 +1,20 @@
+{
+  "id": "world-grafting-horticulture",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Szczepienie roślin",
+  "facts": [
+    "Szczepienie łączy pęd jednej rośliny ze zgodną podkładką tak, aby ich tkanki się zrosły.",
+    "Pozwala łączyć cechy odmiany owocującej z cechami systemu korzeniowego podkładki."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

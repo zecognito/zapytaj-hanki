@@ -1,0 +1,20 @@
+{
+  "id": "world-international-court-of-justice",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Międzynarodowy Trybunał Sprawiedliwości",
+  "facts": [
+    "Międzynarodowy Trybunał Sprawiedliwości jest głównym organem sądowym ONZ i ma siedzibę w Hadze.",
+    "Rozstrzyga spory prawne między państwami, które podlegają jego jurysdykcji, oraz wydaje opinie doradcze."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

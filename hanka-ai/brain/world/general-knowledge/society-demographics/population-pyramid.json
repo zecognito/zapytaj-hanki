@@ -1,0 +1,20 @@
+{
+  "id": "world-population-pyramid",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Piramida ludności",
+  "facts": [
+    "Piramida ludności przedstawia strukturę populacji według wieku i zwykle także płci.",
+    "Jej kształt pomaga zobaczyć skutki zmian dzietności, umieralności i migracji między pokoleniami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

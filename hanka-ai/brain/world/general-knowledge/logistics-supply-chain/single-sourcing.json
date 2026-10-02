@@ -1,0 +1,20 @@
+{
+  "id": "world-single-sourcing",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Single sourcing",
+  "facts": [
+    "Single sourcing oznacza celowe kupowanie określonego produktu lub komponentu od jednego wybranego dostawcy mimo istnienia alternatyw.",
+    "Może upraszczać współpracę i zwiększać skalę zamówień, ale koncentruje ryzyko dostaw."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

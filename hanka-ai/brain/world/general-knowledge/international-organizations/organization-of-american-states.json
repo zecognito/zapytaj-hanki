@@ -1,0 +1,20 @@
+{
+  "id": "world-organization-of-american-states",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Organizacja Państw Amerykańskich",
+  "facts": [
+    "OPA jest regionalną organizacją państw obu Ameryk.",
+    "Jej działalność obejmuje demokrację, prawa człowieka, bezpieczeństwo i rozwój."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

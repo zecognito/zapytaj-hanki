@@ -1,0 +1,20 @@
+{
+  "id": "world-urbanization",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Urbanizacja",
+  "facts": [
+    "Urbanizacja oznacza wzrost udziału ludności mieszkającej na obszarach miejskich.",
+    "Może wynikać z migracji, przyrostu naturalnego miast oraz administracyjnego przeklasyfikowania miejscowości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

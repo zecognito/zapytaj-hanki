@@ -1,0 +1,20 @@
+{
+  "id": "world-polysemy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Polisemia",
+  "facts": [
+    "Polisemia występuje, gdy jeden wyraz ma kilka powiązanych ze sobą znaczeń.",
+    "Odróżnia się ją od przypadkowej zbieżności form wyrazów o niepowiązanych znaczeniach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

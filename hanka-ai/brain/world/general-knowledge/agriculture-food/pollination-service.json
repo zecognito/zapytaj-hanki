@@ -1,0 +1,20 @@
+{
+  "id": "world-pollination-service",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Usługa zapylania",
+  "facts": [
+    "Usługa zapylania polega na dostarczaniu zapylaczy do upraw wymagających lub korzystających z zapylenia przez zwierzęta.",
+    "W sadownictwie i innych uprawach często wykorzystuje się w tym celu zarządzane rodziny pszczele."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

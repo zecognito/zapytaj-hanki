@@ -1,0 +1,20 @@
+{
+  "id": "world-grapheme",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Grafem",
+  "facts": [
+    "Grafem to najmniejsza funkcjonalna jednostka systemu pisma.",
+    "Może być reprezentowany przez literę, znak lub określoną kombinację znaków zależnie od ortografii."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

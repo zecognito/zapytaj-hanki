@@ -1,0 +1,20 @@
+{
+  "id": "world-livestock-feed",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Pasza dla zwierząt",
+  "facts": [
+    "Pasza dostarcza zwierzętom hodowlanym energii, białka, składników mineralnych i innych składników odżywczych.",
+    "Dawki pokarmowe dobiera się do gatunku, wieku, stanu fizjologicznego i celu produkcji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-economic-order-quantity",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Ekonomiczna wielkość zamówienia",
+  "facts": [
+    "EOQ jest klasycznym modelem wyznaczającym wielkość partii równoważącą koszty składania zamówień i utrzymywania zapasu.",
+    "Podstawowy model zakłada między innymi stabilny popyt i przewidywalne uzupełnianie, więc w praktyce wymaga ostrożnego stosowania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

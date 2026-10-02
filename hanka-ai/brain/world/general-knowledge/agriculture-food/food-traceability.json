@@ -1,0 +1,20 @@
+{
+  "id": "world-food-traceability",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Identyfikowalność żywności",
+  "facts": [
+    "Identyfikowalność żywności umożliwia śledzenie produktu, składników lub partii przez kolejne etapy łańcucha dostaw.",
+    "Ułatwia lokalizowanie źródła problemu i wycofywanie określonych partii z rynku."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

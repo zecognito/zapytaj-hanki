@@ -1,0 +1,20 @@
+{
+  "id": "world-european-court-of-human-rights",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Europejski Trybunał Praw Człowieka",
+  "facts": [
+    "ETPC rozpatruje skargi dotyczące naruszeń Europejskiej Konwencji Praw Człowieka przez państwa będące jej stronami.",
+    "Trybunał ma siedzibę w Strasburgu i działa w ramach systemu Rady Europy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-last-mile-delivery",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Dostawa ostatniej mili",
+  "facts": [
+    "Ostatnia mila to końcowy etap dostawy z lokalnego punktu dystrybucji do odbiorcy.",
+    "Jest kosztowna ze względu na dużą liczbę rozproszonych przystanków, małe przesyłki i wymagania czasowe klientów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

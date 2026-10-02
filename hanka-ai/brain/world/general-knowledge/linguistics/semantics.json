@@ -1,0 +1,20 @@
+{
+  "id": "world-semantics",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Semantyka",
+  "facts": [
+    "Semantyka bada znaczenie wyrażeń językowych i relacje znaczeniowe między nimi.",
+    "Obejmuje znaczenie słów, zdań oraz sposób składania znaczeń mniejszych elementów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-maternal-mortality-ratio",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Wskaźnik umieralności matek",
+  "facts": [
+    "Wskaźnik umieralności matek odnosi zgony związane z ciążą i porodem do liczby żywych urodzeń.",
+    "Służy do oceny bezpieczeństwa opieki nad kobietami w ciąży i podczas porodu na poziomie populacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-manner-of-articulation",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Sposób artykulacji",
+  "facts": [
+    "Sposób artykulacji opisuje, jak przepływ powietrza jest ograniczany podczas tworzenia spółgłoski.",
+    "Przykładowe klasy to zwarte, szczelinowe, nosowe i aproksymanty."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

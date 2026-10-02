@@ -1,0 +1,20 @@
+{
+  "id": "world-world-organisation-for-animal-health",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Światowa Organizacja Zdrowia Zwierząt",
+  "facts": [
+    "WOAH jest międzyrządową organizacją odpowiedzialną za poprawę zdrowia i dobrostanu zwierząt na świecie.",
+    "Państwa członkowskie zgłaszają jej ważne choroby zwierząt, a organizacja publikuje międzynarodowe standardy weterynaryjne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.woah.org/"
+  ],
+  "related_public_pages": []
+}

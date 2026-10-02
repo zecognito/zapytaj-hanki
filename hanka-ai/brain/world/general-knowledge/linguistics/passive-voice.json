@@ -1,0 +1,20 @@
+{
+  "id": "world-passive-voice",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Strona bierna",
+  "facts": [
+    "Strona bierna pozwala wysunąć na pozycję centralną uczestnika, który w stronie czynnej często byłby dopełnieniem.",
+    "Wykonawca czynności może zostać pominięty lub wyrażony dodatkową frazą."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

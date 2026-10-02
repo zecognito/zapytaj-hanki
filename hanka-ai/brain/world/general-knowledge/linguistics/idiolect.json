@@ -1,0 +1,20 @@
+{
+  "id": "world-idiolect",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Idiolekt",
+  "facts": [
+    "Idiolekt to indywidualny sposób używania języka przez konkretną osobę.",
+    "Kształtują go między innymi region, środowisko społeczne, doświadczenia i osobiste nawyki językowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

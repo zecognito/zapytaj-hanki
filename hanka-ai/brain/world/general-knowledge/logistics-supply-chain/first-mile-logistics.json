@@ -1,0 +1,20 @@
+{
+  "id": "world-first-mile-logistics",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Logistyka pierwszej mili",
+  "facts": [
+    "Pierwsza mila obejmuje początkowy odcinek przepływu towaru od producenta, sprzedawcy lub nadawcy do sieci transportowej.",
+    "Sprawny odbiór i konsolidacja na tym etapie wpływają na dalszy czas oraz koszt dostawy."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

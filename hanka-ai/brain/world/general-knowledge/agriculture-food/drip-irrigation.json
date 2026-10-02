@@ -1,0 +1,20 @@
+{
+  "id": "world-drip-irrigation",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Nawadnianie kroplowe",
+  "facts": [
+    "Nawadnianie kroplowe dostarcza wodę małymi porcjami bezpośrednio w okolice korzeni roślin.",
+    "Zmniejsza straty przez parowanie i może precyzyjniej dawkować wodę niż wiele metod powierzchniowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

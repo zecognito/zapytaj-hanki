@@ -1,0 +1,20 @@
+{
+  "id": "world-social-network",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Sieć społeczna",
+  "facts": [
+    "Sieć społeczna składa się z osób lub organizacji połączonych relacjami społecznymi.",
+    "Analiza sieci bada między innymi liczbę połączeń, ich strukturę oraz pozycję poszczególnych węzłów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-safety-stock",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Zapas bezpieczeństwa",
+  "facts": [
+    "Zapas bezpieczeństwa jest dodatkowym buforem utrzymywanym na wypadek niepewności popytu lub dostaw.",
+    "Jego poziom zależy między innymi od zmienności popytu, czasu realizacji i oczekiwanego poziomu obsługi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

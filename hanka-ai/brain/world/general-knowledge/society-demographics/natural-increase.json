@@ -1,0 +1,20 @@
+{
+  "id": "world-natural-increase",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Przyrost naturalny",
+  "facts": [
+    "Przyrost naturalny jest różnicą między liczbą urodzeń i zgonów w populacji.",
+    "Nie uwzględnia migracji, więc całkowita zmiana liczby ludności może mieć inny kierunek."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

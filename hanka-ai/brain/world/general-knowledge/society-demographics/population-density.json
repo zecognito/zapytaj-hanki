@@ -1,0 +1,20 @@
+{
+  "id": "world-population-density",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Gęstość zaludnienia",
+  "facts": [
+    "Gęstość zaludnienia określa liczbę mieszkańców przypadającą na jednostkę powierzchni.",
+    "Średnia dla dużego obszaru może ukrywać silne skupienie ludności w miastach i bardzo słabe zaludnienie poza nimi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

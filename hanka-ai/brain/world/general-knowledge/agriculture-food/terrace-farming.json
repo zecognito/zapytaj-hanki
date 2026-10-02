@@ -1,0 +1,20 @@
+{
+  "id": "world-terrace-farming",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Uprawa tarasowa",
+  "facts": [
+    "Uprawa tarasowa przekształca stoki w serię bardziej płaskich poziomów użytkowanych rolniczo.",
+    "Tarasy spowalniają spływ wody i mogą ograniczać erozję gleby na stromym terenie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

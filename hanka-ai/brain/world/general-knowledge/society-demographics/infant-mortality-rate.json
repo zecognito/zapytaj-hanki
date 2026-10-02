@@ -1,0 +1,20 @@
+{
+  "id": "world-infant-mortality-rate",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Współczynnik umieralności niemowląt",
+  "facts": [
+    "Współczynnik umieralności niemowląt mierzy zgony dzieci przed pierwszymi urodzinami względem liczby żywych urodzeń.",
+    "Jest wrażliwy na warunki zdrowotne, opiekę okołoporodową, żywienie i warunki społeczne."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

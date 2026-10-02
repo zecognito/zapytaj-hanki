@@ -1,0 +1,20 @@
+{
+  "id": "world-freight-consolidation",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Konsolidacja ładunków",
+  "facts": [
+    "Konsolidacja łączy kilka mniejszych przesyłek w większy ładunek na wspólnym odcinku transportu.",
+    "Pozwala lepiej wykorzystać pojemność pojazdu lub kontenera i obniżyć koszt jednostkowy przewozu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

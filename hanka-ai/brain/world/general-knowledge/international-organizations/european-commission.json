@@ -1,0 +1,20 @@
+{
+  "id": "world-european-commission",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "international-organizations",
+  "title": "Komisja Europejska",
+  "facts": [
+    "Komisja Europejska jest instytucją UE, która między innymi proponuje akty prawne i nadzoruje stosowanie prawa Unii.",
+    "Zarządza również programami i wykonuje budżet UE w granicach przyznanych kompetencji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/"
+  ],
+  "related_public_pages": []
+}

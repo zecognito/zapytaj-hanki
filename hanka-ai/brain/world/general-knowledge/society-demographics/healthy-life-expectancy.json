@@ -1,0 +1,20 @@
+{
+  "id": "world-healthy-life-expectancy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "society-demographics",
+  "title": "Oczekiwana długość życia w zdrowiu",
+  "facts": [
+    "Oczekiwana długość życia w zdrowiu łączy informacje o umieralności z czasem przeżywanym w dobrym stanie zdrowia.",
+    "Może być niższa od całkowitej oczekiwanej długości życia o lata przeżywane z chorobą lub ograniczeniami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/development/desa/pd/"
+  ],
+  "related_public_pages": []
+}

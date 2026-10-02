@@ -1,0 +1,20 @@
+{
+  "id": "world-sprinkler-irrigation",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Nawadnianie deszczowniane",
+  "facts": [
+    "Nawadnianie deszczowniane rozprowadza wodę pod ciśnieniem przez dysze imitujące opad.",
+    "Wiatr i parowanie mogą obniżać równomierność oraz efektywność podlewania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

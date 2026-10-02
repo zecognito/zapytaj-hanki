@@ -1,0 +1,20 @@
+{
+  "id": "world-bill-of-lading",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Konosament",
+  "facts": [
+    "Konosament w transporcie morskim dokumentuje przyjęcie ładunku przez przewoźnika i warunki jego przewozu.",
+    "W zależności od formy może również pełnić funkcję dokumentu reprezentującego prawo do wydania towaru."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}

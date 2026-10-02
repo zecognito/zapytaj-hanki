@@ -1,0 +1,20 @@
+{
+  "id": "world-stress-linguistics",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "linguistics",
+  "title": "Akcent wyrazowy",
+  "facts": [
+    "Akcent wyrazowy wyróżnia jedną sylabę względem innych przez cechy takie jak głośność, długość lub wysokość tonu.",
+    "W niektórych językach miejsce akcentu może odróżniać znaczenie wyrazów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.internationalphoneticassociation.org/"
+  ],
+  "related_public_pages": []
+}

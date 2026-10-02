@@ -1,0 +1,20 @@
+{
+  "id": "world-intercropping",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "agriculture-food",
+  "title": "Uprawa współrzędna",
+  "facts": [
+    "Uprawa współrzędna polega na jednoczesnym uprawianiu co najmniej dwóch gatunków na tej samej powierzchni.",
+    "Odpowiedni dobór roślin może lepiej wykorzystywać światło, wodę i składniki pokarmowe."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.fao.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-order-picking",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "logistics-supply-chain",
+  "title": "Kompletacja zamówień",
+  "facts": [
+    "Kompletacja polega na pobieraniu z lokalizacji magazynowych pozycji potrzebnych do konkretnych zamówień.",
+    "Jest często jednym z najbardziej pracochłonnych procesów w magazynie i silnie wpływa na koszt fulfillmentu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/trade/uncefact"
+  ],
+  "related_public_pages": []
+}
