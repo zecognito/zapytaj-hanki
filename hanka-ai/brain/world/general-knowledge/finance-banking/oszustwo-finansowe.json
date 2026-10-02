@@ -1,0 +1,20 @@
+{
+  "id": "world-oszustwo-finansowe",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "finance-and-banking",
+  "title": "Oszustwo finansowe",
+  "facts": [
+    "Oszustwo finansowe jest pojęciem związanym z zarządzaniem pieniędzmi, bankowością, kredytem, oszczędzaniem albo inwestowaniem.",
+    "Decyzje finansowe zwykle łączą koszt pieniądza, czas, ryzyko, płynność oraz warunki umowy, dlatego podobne produkty mogą działać inaczej na różnych rynkach."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.worldbank.org/en/topic/financialinclusion"
+  ],
+  "related_public_pages": []
+}

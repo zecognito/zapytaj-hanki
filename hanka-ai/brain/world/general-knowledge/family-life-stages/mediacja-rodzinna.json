@@ -1,0 +1,20 @@
+{
+  "id": "world-mediacja-rodzinna",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "family-and-life-stages",
+  "title": "Mediacja rodzinna",
+  "facts": [
+    "Mediacja rodzinna jest pojęciem dotyczącym relacji rodzinnych, opieki albo etapu życia człowieka.",
+    "Potrzeby i obowiązki rodzinne zmieniają się wraz z wiekiem, strukturą gospodarstwa domowego, sytuacją opiekuńczą oraz lokalnymi normami i systemami wsparcia."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unicef.org/parenting"
+  ],
+  "related_public_pages": []
+}

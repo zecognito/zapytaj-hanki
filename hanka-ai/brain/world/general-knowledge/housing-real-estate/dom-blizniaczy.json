@@ -1,0 +1,20 @@
+{
+  "id": "world-dom-blizniaczy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "housing-and-real-estate",
+  "title": "Dom bliźniaczy",
+  "facts": [
+    "Dom bliźniaczy jest budynkiem mieszkalnym składającym się z dwóch przylegających części mieszkalnych, zwykle mających osobne wejścia.",
+    "Taki układ pozwala łączyć częściowo wspólną konstrukcję budynku z odrębnym użytkowaniem dwóch gospodarstw domowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unhabitat.org/topic/housing"
+  ],
+  "related_public_pages": []
+}

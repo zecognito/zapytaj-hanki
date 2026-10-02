@@ -1,0 +1,20 @@
+{
+  "id": "world-dostep-do-sanitariatow",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "water-and-sanitation",
+  "title": "Dostęp do urządzeń sanitarnych",
+  "facts": [
+    "Dostęp do urządzeń sanitarnych jest elementem zaopatrzenia w wodę, sanitacji, oczyszczania ścieków albo higieny.",
+    "Bezpieczne systemy wodno-sanitarne ograniczają kontakt ludzi z patogenami i zanieczyszczeniami oraz wymagają ochrony źródła, infrastruktury i kontroli jakości."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.who.int/health-topics/water-sanitation-and-hygiene-wash"
+  ],
+  "related_public_pages": []
+}

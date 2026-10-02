@@ -1,0 +1,20 @@
+{
+  "id": "world-agent-nieruchomosci",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "housing-and-real-estate",
+  "title": "Agent nieruchomości",
+  "facts": [
+    "Agent nieruchomości jest pojęciem związanym z mieszkaniem, własnością, najmem, transakcją albo zarządzaniem nieruchomością.",
+    "Rynek mieszkaniowy łączy cechy budynku i lokalizacji z prawami do nieruchomości, finansowaniem, kosztami utrzymania oraz lokalnymi regulacjami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unhabitat.org/topic/housing"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-obuwie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "clothing-and-textiles",
+  "title": "Obuwie",
+  "facts": [
+    "Obuwie jest pojęciem związanym z włóknami, tkaninami, konstrukcją, użytkowaniem albo pielęgnacją odzieży.",
+    "Właściwości ubrania zależą od materiału, sposobu wykonania, kroju i wykończenia, a właściwa pielęgnacja wpływa na jego trwałość."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unep.org/explore-topics/resource-efficiency/what-we-do/sustainable-and-circular-textiles"
+  ],
+  "related_public_pages": []
+}
