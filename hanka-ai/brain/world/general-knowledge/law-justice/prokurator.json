@@ -1,0 +1,20 @@
+{
+  "id": "world-prokurator",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "law-and-justice",
+  "title": "Prokurator",
+  "facts": [
+    "Reprezentuje interes publiczny w ściganiu przestępstw i wykonuje kompetencje określone przez system prawa karnego danego państwa.",
+    "Szczegółowe przesłanki i skutki tej instytucji zależą od procedury i jurysdykcji, w której jest stosowana."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/ruleoflaw/"
+  ],
+  "related_public_pages": []
+}

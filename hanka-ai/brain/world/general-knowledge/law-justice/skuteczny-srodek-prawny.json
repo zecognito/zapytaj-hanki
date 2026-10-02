@@ -1,0 +1,20 @@
+{
+  "id": "world-skuteczny-srodek-prawny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "law-and-justice",
+  "title": "Prawo do skutecznego środka prawnego",
+  "facts": [
+    "Wymaga dostępności realnego mechanizmu dochodzenia ochrony po naruszeniu praw.",
+    "Dokładny zakres, procedury i skutki prawne tego pojęcia mogą różnić się między państwami i systemami prawnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/ruleoflaw/"
+  ],
+  "related_public_pages": []
+}

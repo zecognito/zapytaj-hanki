@@ -1,0 +1,20 @@
+{
+  "id": "world-ksztalcenie-nauczycieli",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "education",
+  "title": "Kształcenie nauczycieli",
+  "facts": [
+    "Przygotowuje nauczycieli do pracy zawodowej i rozwija ich kompetencje w trakcie kariery.",
+    "Sposób organizacji i stosowania tego elementu edukacji różni się między systemami szkolnymi, poziomami kształcenia i państwami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/en/education"
+  ],
+  "related_public_pages": []
+}

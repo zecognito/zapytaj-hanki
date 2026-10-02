@@ -1,0 +1,20 @@
+{
+  "id": "world-lyzwiarstwo-szybkie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "sports-and-recreation",
+  "title": "Łyżwiarstwo szybkie",
+  "facts": [
+    "Polega na pokonaniu określonego dystansu na lodowym torze w możliwie najkrótszym czasie.",
+    "Szczegółowe zasady rywalizacji i klasyfikacji wyników określają przepisy właściwych organizacji sportowych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://olympics.com/ioc/"
+  ],
+  "related_public_pages": []
+}

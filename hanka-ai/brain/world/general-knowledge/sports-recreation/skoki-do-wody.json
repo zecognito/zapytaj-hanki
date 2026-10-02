@@ -1,0 +1,20 @@
+{
+  "id": "world-skoki-do-wody",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "sports-and-recreation",
+  "title": "Skoki do wody",
+  "facts": [
+    "Oceniają wykonanie akrobatycznego skoku z trampoliny lub platformy do wody.",
+    "Szczegółowe zasady rywalizacji, sprzęt i sposób klasyfikowania wyników określają przepisy właściwe dla danej dyscypliny i organizacji sportowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://olympics.com/ioc/"
+  ],
+  "related_public_pages": []
+}

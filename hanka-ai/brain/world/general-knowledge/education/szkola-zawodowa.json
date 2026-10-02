@@ -1,0 +1,20 @@
+{
+  "id": "world-szkola-zawodowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "education",
+  "title": "Szkoła zawodowa",
+  "facts": [
+    "Koncentruje się na przygotowaniu uczniów do konkretnych zawodów lub sektorów gospodarki.",
+    "Sposób organizacji i stosowania tego elementu edukacji różni się między systemami szkolnymi, poziomami kształcenia i państwami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/en/education"
+  ],
+  "related_public_pages": []
+}

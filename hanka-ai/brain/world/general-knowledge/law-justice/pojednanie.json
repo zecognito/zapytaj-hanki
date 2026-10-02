@@ -1,0 +1,20 @@
+{
+  "id": "world-pojednanie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "law-and-justice",
+  "title": "Koncyliacja",
+  "facts": [
+    "Jest metodą pokojowego rozwiązywania sporów z udziałem neutralnej strony, która może aktywnie proponować rozwiązania.",
+    "Dokładny zakres, procedury i skutki prawne tego pojęcia mogą różnić się między państwami i systemami prawnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/ruleoflaw/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-jurysdykcja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "law-and-justice",
+  "title": "Jurysdykcja",
+  "facts": [
+    "Oznacza prawnie uznaną kompetencję sądu lub innego organu do rozpoznania określonej sprawy.",
+    "Dokładny zakres, procedury i skutki prawne tego pojęcia mogą różnić się między państwami i systemami prawnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/ruleoflaw/"
+  ],
+  "related_public_pages": []
+}

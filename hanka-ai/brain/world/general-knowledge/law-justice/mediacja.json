@@ -1,0 +1,20 @@
+{
+  "id": "world-mediacja",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "law-and-justice",
+  "title": "Mediacja",
+  "facts": [
+    "Jest dobrowolnym procesem, w którym neutralna osoba pomaga stronom szukać porozumienia bez narzucania rozstrzygnięcia.",
+    "Dokładny zakres, procedury i skutki prawne tego pojęcia mogą różnić się między państwami i systemami prawnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/ruleoflaw/"
+  ],
+  "related_public_pages": []
+}

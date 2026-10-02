@@ -1,0 +1,20 @@
+{
+  "id": "world-prawo-wlasnosci-intelektualnej",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "law-and-justice",
+  "title": "Prawo własności intelektualnej",
+  "facts": [
+    "Chroni określone rezultaty twórczości i innowacji poprzez m.in. prawa autorskie, patenty i znaki towarowe.",
+    "Dokładny zakres, procedury i skutki prawne tego pojęcia mogą różnić się między państwami i systemami prawnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/ruleoflaw/"
+  ],
+  "related_public_pages": []
+}

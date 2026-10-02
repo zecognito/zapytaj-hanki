@@ -1,0 +1,20 @@
+{
+  "id": "world-ocenianie-ksztaltujace",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "education",
+  "title": "Ocenianie kształtujące",
+  "facts": [
+    "Wykorzystuje informacje o postępach ucznia do bieżącego dostosowywania nauczania i wspierania dalszej nauki.",
+    "Sposób organizacji i stosowania tego elementu edukacji różni się między systemami szkolnymi, poziomami kształcenia i państwami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/en/education"
+  ],
+  "related_public_pages": []
+}

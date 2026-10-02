@@ -1,0 +1,20 @@
+{
+  "id": "world-kontrola-konstytucyjnosci",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "law-and-justice",
+  "title": "Kontrola konstytucyjności prawa",
+  "facts": [
+    "Polega na badaniu zgodności ustaw lub innych aktów prawnych z konstytucją przez uprawniony sąd lub organ.",
+    "Szczegółowe przesłanki i skutki tej instytucji zależą od procedury i jurysdykcji, w której jest stosowana."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/ruleoflaw/"
+  ],
+  "related_public_pages": []
+}

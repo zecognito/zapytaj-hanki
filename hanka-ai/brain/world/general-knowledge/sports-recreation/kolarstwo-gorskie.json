@@ -1,0 +1,20 @@
+{
+  "id": "world-kolarstwo-gorskie",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "sports-and-recreation",
+  "title": "Kolarstwo górskie",
+  "facts": [
+    "Obejmuje jazdę i wyścigi rowerowe w terenie, często na nierównych i stromych trasach.",
+    "Szczegółowe zasady rywalizacji, sprzęt i sposób klasyfikowania wyników określają przepisy właściwe dla danej dyscypliny i organizacji sportowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://olympics.com/ioc/"
+  ],
+  "related_public_pages": []
+}

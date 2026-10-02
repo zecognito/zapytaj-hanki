@@ -1,0 +1,20 @@
+{
+  "id": "world-wioslarstwo",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "sports-and-recreation",
+  "title": "Wioślarstwo",
+  "facts": [
+    "Jest sportem wodnym, w którym zawodnicy napędzają łódź wiosłami, siedząc tyłem do kierunku ruchu.",
+    "Szczegółowe zasady rywalizacji, sprzęt i sposób klasyfikowania wyników określają przepisy właściwe dla danej dyscypliny i organizacji sportowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://olympics.com/ioc/"
+  ],
+  "related_public_pages": []
+}

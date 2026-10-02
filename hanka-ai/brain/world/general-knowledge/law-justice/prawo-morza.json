@@ -1,0 +1,20 @@
+{
+  "id": "world-prawo-morza",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "law-and-justice",
+  "title": "Prawo morza",
+  "facts": [
+    "Określa prawa i obowiązki państw na morzach, w tym zasady dotyczące wód terytorialnych, stref ekonomicznych i żeglugi.",
+    "Dokładny zakres, procedury i skutki prawne tego pojęcia mogą różnić się między państwami i systemami prawnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/ruleoflaw/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-mentoring-edukacyjny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "education",
+  "title": "Mentoring edukacyjny",
+  "facts": [
+    "Opiera się na dłuższej relacji, w której bardziej doświadczona osoba wspiera rozwój ucznia lub początkującego profesjonalisty.",
+    "Sposób organizacji i stosowania tego elementu edukacji różni się między systemami szkolnymi, poziomami kształcenia i państwami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/en/education"
+  ],
+  "related_public_pages": []
+}

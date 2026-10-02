@@ -1,0 +1,20 @@
+{
+  "id": "world-rezerwacja-do-traktatu",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "law-and-justice",
+  "title": "Zastrzeżenie do traktatu",
+  "facts": [
+    "To jednostronne oświadczenie, którym państwo zmierza do wyłączenia lub zmiany skutku prawnego określonych postanowień traktatu wobec siebie.",
+    "Dokładny zakres, procedury i skutki prawne tego pojęcia mogą różnić się między państwami i systemami prawnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/ruleoflaw/"
+  ],
+  "related_public_pages": []
+}

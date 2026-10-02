@@ -1,0 +1,20 @@
+{
+  "id": "world-pchniecie-kula",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "sports-and-recreation",
+  "title": "Pchnięcie kulą",
+  "facts": [
+    "Polega na wypchnięciu metalowej kuli z barku na jak największą odległość.",
+    "Szczegółowe zasady rywalizacji, sprzęt i sposób klasyfikowania wyników określają przepisy właściwe dla danej dyscypliny i organizacji sportowej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://olympics.com/ioc/"
+  ],
+  "related_public_pages": []
+}

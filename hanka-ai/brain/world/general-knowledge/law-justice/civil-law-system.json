@@ -1,0 +1,20 @@
+{
+  "id": "world-civil-law-system",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "law-and-justice",
+  "title": "System prawa kontynentalnego",
+  "facts": [
+    "Opiera się w dużej mierze na skodyfikowanych ustawach i kodeksach, choć orzecznictwo również wpływa na praktykę.",
+    "Dokładny zakres, procedury i skutki prawne tego pojęcia mogą różnić się między państwami i systemami prawnymi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/ruleoflaw/"
+  ],
+  "related_public_pages": []
+}
