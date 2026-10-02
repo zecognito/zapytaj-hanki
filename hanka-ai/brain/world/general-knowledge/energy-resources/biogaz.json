@@ -1,0 +1,20 @@
+{
+  "id": "world-biogaz",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "energy-and-resources",
+  "title": "Biogaz",
+  "facts": [
+    "Biogaz jest pojęciem związanym z pozyskiwaniem, przetwarzaniem, przesyłaniem, magazynowaniem lub wykorzystywaniem energii.",
+    "Systemy energetyczne łączą źródła energii, infrastrukturę, odbiorców i regulacje, a ich działanie wpływa na koszty, bezpieczeństwo dostaw oraz środowisko."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.iea.org/topics/energy-security"
+  ],
+  "related_public_pages": []
+}

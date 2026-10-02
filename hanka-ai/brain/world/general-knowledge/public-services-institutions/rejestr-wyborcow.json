@@ -1,0 +1,20 @@
+{
+  "id": "world-rejestr-wyborcow",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "public-services-and-institutions",
+  "title": "Rejestr wyborców",
+  "facts": [
+    "Rejestr wyborców jest elementem lokalnej administracji albo publicznego systemu ewidencji.",
+    "Zakres kompetencji i zasady działania takich instytucji zależą od prawa i organizacji administracji w danym państwie."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://publicadministration.desa.un.org/"
+  ],
+  "related_public_pages": []
+}

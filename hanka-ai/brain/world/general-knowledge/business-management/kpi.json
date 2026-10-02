@@ -1,0 +1,20 @@
+{
+  "id": "world-kpi",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "business-and-management",
+  "title": "Kluczowy wskaźnik efektywności",
+  "facts": [
+    "Kluczowy wskaźnik efektywności opisuje element organizowania, finansowania, rozwijania albo oceny działalności gospodarczej.",
+    "W praktyce decyzje biznesowe łączą zasoby, ludzi, koszty, ryzyko i potrzeby klientów, aby organizacja mogła dostarczać produkty lub usługi."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.oecd.org/industry/"
+  ],
+  "related_public_pages": []
+}

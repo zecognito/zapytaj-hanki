@@ -1,0 +1,20 @@
+{
+  "id": "world-opieka-nad-osoba-starsza",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "everyday-life",
+  "title": "Opieka nad osobą starszą",
+  "facts": [
+    "Opieka nad osobą starszą należy do codziennych praktyk gospodarstwa domowego, konsumpcji, relacji lub organizacji życia.",
+    "Sposób wykonywania takich czynności zależy od lokalnych zwyczajów, kosztów, dostępnych usług, technologii oraz sytuacji rodzinnej."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/en/global-issues"
+  ],
+  "related_public_pages": []
+}

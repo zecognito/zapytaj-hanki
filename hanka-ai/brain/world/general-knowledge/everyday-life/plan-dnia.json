@@ -1,0 +1,20 @@
+{
+  "id": "world-plan-dnia",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "everyday-life",
+  "title": "Plan dnia",
+  "facts": [
+    "Plan dnia jest sposobem organizowania czynności i obowiązków w ciągu dnia.",
+    "Plan dnia może porządkować pracę, naukę, odpoczynek, opiekę i inne powtarzalne aktywności."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.un.org/en/global-issues"
+  ],
+  "related_public_pages": []
+}

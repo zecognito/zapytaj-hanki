@@ -1,0 +1,20 @@
+{
+  "id": "world-elektrownia-przeplywowa",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "energy-and-resources",
+  "title": "Elektrownia przepływowa",
+  "facts": [
+    "Elektrownia przepływowa jest elementem technologii, infrastruktury albo organizacji systemu energetycznego.",
+    "Takie rozwiązania wpływają na sposób wytwarzania, magazynowania, przesyłania lub bilansowania energii oraz na bezpieczeństwo dostaw."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.iea.org/topics/energy-security"
+  ],
+  "related_public_pages": []
+}

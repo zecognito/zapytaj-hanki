@@ -1,0 +1,20 @@
+{
+  "id": "world-rytual",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "anthropology-and-archaeology",
+  "title": "Rytuał",
+  "facts": [
+    "Rytuał jest pojęciem używanym do badania człowieka, kultur, społeczeństw albo materialnych śladów przeszłości.",
+    "Antropologia i archeologia rekonstruują zachowania oraz przemiany społeczne przez łączenie obserwacji, źródeł materialnych, kontekstu i metod datowania."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/en/culture"
+  ],
+  "related_public_pages": []
+}

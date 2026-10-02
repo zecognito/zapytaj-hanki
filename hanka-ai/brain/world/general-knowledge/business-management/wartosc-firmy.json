@@ -1,0 +1,20 @@
+{
+  "id": "world-wartosc-firmy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "business-and-management",
+  "title": "Wartość przedsiębiorstwa",
+  "facts": [
+    "Wartość przedsiębiorstwa opisuje ekonomiczną ocenę przedsiębiorstwa i jego zdolności do tworzenia przyszłych korzyści.",
+    "Na wartość firmy wpływają m.in. przepływy pieniężne, aktywa, zadłużenie, perspektywy wzrostu i ryzyko."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.oecd.org/industry/"
+  ],
+  "related_public_pages": []
+}
