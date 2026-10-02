@@ -1,0 +1,20 @@
+{
+  "id": "world-komunikat-prasowy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "media-and-information",
+  "title": "Komunikat prasowy",
+  "facts": [
+    "Komunikat prasowy należy do ekosystemu tworzenia, rozpowszechniania, odbierania lub oceny informacji i przekazów medialnych.",
+    "Wiarygodność informacji zależy m.in. od jakości źródeł, przejrzystości procesu publikacji i możliwości niezależnej weryfikacji."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/en/media-information-literacy"
+  ],
+  "related_public_pages": []
+}

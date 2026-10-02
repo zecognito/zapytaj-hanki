@@ -1,0 +1,20 @@
+{
+  "id": "world-ocena-potrzeb-kryzysowych",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "disasters-and-emergency-management",
+  "title": "Ocena potrzeb po katastrofie",
+  "facts": [
+    "Ocena potrzeb po katastrofie jest narzędziem lub elementem przygotowania i reagowania na sytuacje kryzysowe.",
+    "Skuteczne zarządzanie kryzysowe wymaga wcześniejszego planowania, jasnej komunikacji, koordynacji służb i ochrony osób najbardziej narażonych."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.undrr.org/"
+  ],
+  "related_public_pages": []
+}

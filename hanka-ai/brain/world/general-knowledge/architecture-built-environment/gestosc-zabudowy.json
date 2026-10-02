@@ -1,0 +1,20 @@
+{
+  "id": "world-gestosc-zabudowy",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "architecture-and-built-environment",
+  "title": "Gęstość zabudowy",
+  "facts": [
+    "Gęstość zabudowy jest elementem środowiska zbudowanego, planowania przestrzeni albo infrastruktury potrzebnej do funkcjonowania osiedli i miast.",
+    "Projektowanie środowiska zbudowanego wpływa na bezpieczeństwo, dostępność, zużycie zasobów i codzienne funkcjonowanie mieszkańców."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unhabitat.org/"
+  ],
+  "related_public_pages": []
+}

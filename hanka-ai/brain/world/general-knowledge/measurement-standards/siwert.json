@@ -1,0 +1,20 @@
+{
+  "id": "world-siwert",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "measurement-and-standards",
+  "title": "Siwert",
+  "facts": [
+    "Siwert jest pojęciem związanym z pomiarem, jednostkami, wzorcami albo standaryzacją potrzebną do porównywania wyników.",
+    "Wspólne definicje jednostek i procedury pomiarowe pozwalają porównywać wyniki badań, produkcji i handlu między laboratoriami oraz państwami."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.bipm.org/en/measurement-units"
+  ],
+  "related_public_pages": []
+}

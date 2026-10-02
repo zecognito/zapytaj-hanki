@@ -1,0 +1,20 @@
+{
+  "id": "world-przesiadka",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "transportation-and-mobility",
+  "title": "Przesiadka",
+  "facts": [
+    "Przesiadka jest rozwiązaniem organizującym dostęp, przesiadki lub współdzielenie środków transportu.",
+    "Integracja usług transportowych może skracać podróże i ułatwiać łączenie różnych środków przemieszczania się."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unece.org/transport"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-plan-awaryjny",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "disasters-and-emergency-management",
+  "title": "Plan awaryjny",
+  "facts": [
+    "Plan awaryjny jest pojęciem związanym z zagrożeniami, katastrofami, gotowością, reagowaniem albo odbudową po zdarzeniach kryzysowych.",
+    "Ograniczanie skutków katastrof obejmuje ocenę ryzyka, przygotowanie ludności i instytucji, wczesne ostrzeganie, reagowanie oraz odbudowę."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.undrr.org/"
+  ],
+  "related_public_pages": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "world-fasada",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "architecture-and-built-environment",
+  "title": "Fasada budynku",
+  "facts": [
+    "Fasada budynku jest elementem projektowania budynków lub przestrzeni zbudowanej.",
+    "Rozwiązania architektoniczne wpływają na sposób użytkowania przestrzeni, dostępność, komfort i zużycie zasobów."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://unhabitat.org/"
+  ],
+  "related_public_pages": []
+}

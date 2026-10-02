@@ -1,0 +1,20 @@
+{
+  "id": "world-newsletter",
+  "country": "WORLD",
+  "jurisdiction": "global",
+  "region": "WORLD",
+  "topic": "world-general-knowledge",
+  "subtopic": "media-and-information",
+  "title": "Newsletter",
+  "facts": [
+    "Newsletter jest formatem służącym regularnemu przekazywaniu wybranych informacji określonej grupie odbiorców.",
+    "Sposób doboru źródeł, redagowania i dystrybucji wpływa na użyteczność oraz wiarygodność przekazu."
+  ],
+  "effective_from": null,
+  "effective_to": null,
+  "last_verified": "2026-10-01",
+  "official_sources": [
+    "https://www.unesco.org/en/media-information-literacy"
+  ],
+  "related_public_pages": []
+}
