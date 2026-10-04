@@ -9,7 +9,7 @@
   "vectorize": [
     {
       "binding": "VECTORIZE",
-      "index_name": "hanka-brain-v1"
+      "index_name": "hanka-v1"
     }
   ],
   "vars": {
