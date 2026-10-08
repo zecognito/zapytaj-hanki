@@ -120,7 +120,11 @@
       try { return new URL(link.href, location.origin).pathname === path; } catch (_) { return false; }
     })
   );
-  if (hasStaticTrustLinks) {\n    const hasTerms = existingTrustLinks.some((link) => { try { return new URL(link.href, location.origin).pathname === '/regulamin/'; } catch (_) { return false; } });\n    if (!hasTerms) footer.querySelector('.wrap')?.insertAdjacentHTML('beforeend', ' · <a href="/regulamin/">Regulamin</a>');\n    return;\n  }
+  if (hasStaticTrustLinks) {
+    const hasTerms = existingTrustLinks.some((link) => { try { return new URL(link.href, location.origin).pathname === '/regulamin/'; } catch (_) { return false; } });
+    if (!hasTerms) footer.querySelector('.wrap')?.insertAdjacentHTML('beforeend', ' · <a href="/regulamin/">Regulamin</a>');
+    return;
+  }
 
   const wrap = footer.querySelector('.wrap');
   if (!wrap) return;
