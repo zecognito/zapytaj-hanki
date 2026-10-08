@@ -120,14 +120,14 @@
       try { return new URL(link.href, location.origin).pathname === path; } catch (_) { return false; }
     })
   );
-  if (hasStaticTrustLinks) return;
+  if (hasStaticTrustLinks) {\n    const hasTerms = existingTrustLinks.some((link) => { try { return new URL(link.href, location.origin).pathname === '/regulamin/'; } catch (_) { return false; } });\n    if (!hasTerms) footer.querySelector('.wrap')?.insertAdjacentHTML('beforeend', ' · <a href="/regulamin/">Regulamin</a>');\n    return;\n  }
 
   const wrap = footer.querySelector('.wrap');
   if (!wrap) return;
   const nav = document.createElement('div');
   nav.className = 'footer-trust';
   nav.setAttribute('aria-label', 'Informacje o serwisie');
-  nav.innerHTML = '<a href="/o-nas/">O nas</a><span aria-hidden="true">·</span><a href="/kontakt/">Kontakt</a><span aria-hidden="true">·</span><a href="/zrodla/">Źródła</a><span aria-hidden="true">·</span><a href="/prywatnosc/">Prywatność</a>';
+  nav.innerHTML = '<a href="/o-nas/">O nas</a><span aria-hidden="true">·</span><a href="/kontakt/">Kontakt</a><span aria-hidden="true">·</span><a href="/zrodla/">Źródła</a><span aria-hidden="true">·</span><a href="/prywatnosc/">Prywatność</a><span aria-hidden="true">·</span><a href="/regulamin/">Regulamin</a>';
   wrap.appendChild(nav);
 })();
 
