@@ -183,9 +183,9 @@
       "isStarred": false,
       "questionPl": "Wymień dwie ważne idee zawarte w Deklaracji Niepodległości i Konstytucji USA.",
       "distractors": [
-        "Monarchy and hereditary rule",
-        "Censorship and martial law",
-        "Absolute presidential power"
+        "Absolute monarchy",
+        "Military dictatorship",
+        "Censorship"
       ],
       "requiredAnswers": 2,
       "answerMode": "multi",
@@ -434,7 +434,7 @@
       "id": 24,
       "question": "How many voting members are in the House of Representatives?",
       "acceptedAnswers": [
-        "Four hundred thirty-five"
+        "435"
       ],
       "isStarred": false,
       "questionPl": "Ilu członków z prawem głosu zasiada w Izbie Reprezentantów?",
@@ -883,9 +883,9 @@
       "isStarred": false,
       "questionPl": "Wymień dwa stanowiska na szczeblu gabinetu prezydenta.",
       "distractors": [
-        "Secretary of State and Chief Justice",
-        "Governor and mayor",
-        "Speaker and senator"
+        "Chief Justice",
+        "Governor",
+        "Speaker of the House"
       ],
       "requiredAnswers": 2,
       "answerMode": "multi",
@@ -1199,9 +1199,9 @@
       "isStarred": false,
       "questionPl": "Wymień trzy prawa przysługujące każdemu, kto mieszka w Stanach Zjednoczonych.",
       "distractors": [
-        "The right to appoint senators",
-        "The right to ignore all laws",
-        "The right to veto federal bills"
+        "Right to appoint senators",
+        "Right to ignore laws",
+        "Right to veto bills"
       ],
       "requiredAnswers": 3,
       "answerMode": "multi",
@@ -1284,9 +1284,9 @@
       "isStarred": false,
       "questionPl": "Podaj dwa przykłady udziału obywatelskiego w Stanach Zjednoczonych.",
       "distractors": [
-        "Appointing federal judges personally",
-        "Issuing passports",
-        "Declaring war independently"
+        "Appoint federal judges",
+        "Issue passports",
+        "Declare war"
       ],
       "requiredAnswers": 2,
       "answerMode": "multi",
@@ -1532,9 +1532,9 @@
       "isStarred": false,
       "questionPl": "Istniało 13 pierwotnych stanów. Wymień pięć.",
       "distractors": [
-        "California, Texas, Alaska, Hawaii, Arizona",
-        "Florida, Ohio, Michigan, Illinois, Indiana",
-        "Oregon, Washington, Nevada, Utah, Idaho"
+        "California",
+        "Texas",
+        "Florida"
       ],
       "requiredAnswers": 5,
       "answerMode": "multi",
@@ -2417,9 +2417,9 @@
       "isStarred": true,
       "questionPl": "Wymień trzy święta państwowe USA.",
       "distractors": [
-        "Valentine's Day, Halloween, April Fools' Day",
-        "Mother's Day, Father's Day, Groundhog Day",
-        "Earth Day, Flag Day, Arbor Day"
+        "Valentine's Day",
+        "Halloween",
+        "Mother's Day"
       ],
       "requiredAnswers": 3,
       "answerMode": "multi",
