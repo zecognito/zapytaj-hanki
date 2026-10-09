@@ -108,12 +108,12 @@
 
 
 (() => {
-  // One shared article footer, matching the homepage's concise layout.
-  // Keep the existing footer element and avoid injecting a second link row.
-  const footer = document.querySelector('footer.footer');
+  // Reuse the homepage footer markup on all pages that load site.js.
+  const footer = document.querySelector('footer');
   if (!footer) return;
-  footer.classList.add('zh-article-footer');
-  footer.innerHTML = '<div class="wrap"><strong>Zapytaj Hanki</strong><nav aria-label="Stopka"><a href="/o-nas/">O nas</a><a href="/kontakt/">Kontakt</a><a href="/zrodla/">Źródła</a><a href="/prywatnosc/">Prywatność</a></nav><div class="zh-footer-copy">© 2026 Zapytaj Hanki</div></div>';
+  const nav = '<a href="/o-nas/">O nas</a><a href="/kontakt/">Kontakt</a><a href="/zrodla/">Źródła</a><a href="/prywatnosc/">Prywatność</a><a href="/regulamin/">Regulamin</a>';
+  footer.className = 'hb-footer';
+  footer.innerHTML = '<div class="hx-shell"><div class="hbf-main"><div class="hbf-brand"><img src="/hanka-favicon-usa.png" alt="" width="38" height="38"><div><strong>Zapytaj Hanki</strong><span>Ameryka po polsku.</span></div></div><nav aria-label="Stopka">' + nav + '</nav></div><div class="hbf-copy">© 2026 Zapytaj Hanki</div></div>';
 })();
 
 // Zapytaj Hanki favicon — use a new URL to bypass stale browser favicon caches.
