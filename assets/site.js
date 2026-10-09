@@ -108,33 +108,13 @@
 
 
 (() => {
+  // One shared article footer, matching the homepage's concise layout.
+  // Keep the existing footer element and avoid injecting a second link row.
   const footer = document.querySelector('footer.footer');
-  if (!footer || footer.querySelector('.footer-trust')) return;
-
-  // Some pages already include the approved trust links as static footer markup.
-  // Treat that existing block as authoritative instead of injecting a duplicate.
-  const trustPaths = ['/o-nas/', '/kontakt/', '/zrodla/', '/prywatnosc/'];
-  const existingTrustLinks = Array.from(footer.querySelectorAll('a[href]'));
-  const hasStaticTrustLinks = trustPaths.every((path) =>
-    existingTrustLinks.some((link) => {
-      try { return new URL(link.href, location.origin).pathname === path; } catch (_) { return false; }
-    })
-  );
-  if (hasStaticTrustLinks) {
-    const hasTerms = existingTrustLinks.some((link) => { try { return new URL(link.href, location.origin).pathname === '/regulamin/'; } catch (_) { return false; } });
-    if (!hasTerms) footer.querySelector('.wrap')?.insertAdjacentHTML('beforeend', ' · <a href="/regulamin/">Regulamin</a>');
-    return;
-  }
-
-  const wrap = footer.querySelector('.wrap');
-  if (!wrap) return;
-  const nav = document.createElement('div');
-  nav.className = 'footer-trust';
-  nav.setAttribute('aria-label', 'Informacje o serwisie');
-  nav.innerHTML = '<a href="/o-nas/">O nas</a><span aria-hidden="true">·</span><a href="/kontakt/">Kontakt</a><span aria-hidden="true">·</span><a href="/zrodla/">Źródła</a><span aria-hidden="true">·</span><a href="/prywatnosc/">Prywatność</a><span aria-hidden="true">·</span><a href="/regulamin/">Regulamin</a>';
-  wrap.appendChild(nav);
+  if (!footer) return;
+  footer.classList.add('zh-article-footer');
+  footer.innerHTML = '<div class="wrap"><strong>Zapytaj Hanki</strong><nav aria-label="Stopka"><a href="/o-nas/">O nas</a><a href="/kontakt/">Kontakt</a><a href="/zrodla/">Źródła</a><a href="/prywatnosc/">Prywatność</a></nav><div class="zh-footer-copy">© 2026 Zapytaj Hanki</div></div>';
 })();
-
 
 // Zapytaj Hanki favicon — use a new URL to bypass stale browser favicon caches.
 (() => {
