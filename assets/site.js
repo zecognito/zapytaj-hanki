@@ -148,3 +148,41 @@
   icon.type = 'image/png';
   icon.href = href;
 })();
+
+
+// Accessible, automatically generated table of contents for substantial guides.
+(() => {
+  const article = document.querySelector('main.article .article-layout > article.prose');
+  if (!article || article.querySelector('.guide-toc')) return;
+  const headings = Array.from(article.querySelectorAll('h2')).filter(h =>
+    !h.closest('.answer, .summary, .sources, .related, .warning, .guide-toc') &&
+    !/^powiązane przewodniki$/i.test(h.textContent.trim())
+  );
+  if (headings.length < 4) return;
+  const toc = document.createElement('details');
+  toc.className = 'guide-toc';
+  const summary = document.createElement('summary');
+  summary.textContent = 'W tym przewodniku';
+  toc.appendChild(summary);
+  const list = document.createElement('ol');
+  headings.forEach((heading, i) => {
+    if (!heading.id) {
+      let id = 'sekcja-' + (i + 1);
+      while (document.getElementById(id)) id += '-a';
+      heading.id = id;
+    }
+    const item = document.createElement('li');
+    const link = document.createElement('a');
+    link.href = '#' + heading.id;
+    link.textContent = heading.textContent.trim();
+    item.appendChild(link);
+    list.appendChild(item);
+  });
+  toc.appendChild(list);
+  const anchor = article.querySelector('.summary') || article.querySelector('.answer');
+  if (anchor) anchor.insertAdjacentElement('afterend', toc);
+  else article.prepend(toc);
+  toc.addEventListener('click', event => {
+    if (event.target.closest('a[href^="#"]')) toc.open = false;
+  });
+})();
