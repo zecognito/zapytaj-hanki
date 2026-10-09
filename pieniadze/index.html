@@ -136,7 +136,16 @@ body{background:#fff;color:#284634}
  .topbar .zh-unified-nav.is-open>a:nth-of-type(10),.topbar .zh-unified-nav.is-open>a.zh-all-topics{border-bottom:0!important}
 }
 @media(max-width:560px){.topbar .shell{padding-left:14px!important;padding-right:14px!important}}
-</style></head><body><header class="topbar">
+</style>
+<style>/* Money hub card overflow fix: content-driven height, no overlapping cards. */
+.money-grid .money-card{box-sizing:border-box;height:auto!important;min-height:0!important;display:flex!important;flex-direction:column!important;align-items:flex-start!important;overflow:hidden!important;padding:20px 20px 18px!important}
+.money-grid .money-card .tag{flex:0 0 auto;max-width:100%;white-space:normal;line-height:1.35}
+.money-grid .money-card h2{margin:15px 0 8px!important;overflow-wrap:break-word}
+.money-grid .money-card p{margin:0!important;padding-right:0!important;overflow-wrap:break-word}
+.money-grid .money-card .arrow{position:static!important;display:block!important;align-self:flex-end!important;margin-top:10px!important;line-height:1!important;flex:0 0 auto!important}
+@media(max-width:700px){.money-grid{gap:16px!important}.money-grid .money-card{height:auto!important;min-height:0!important;padding:20px!important}}
+</style>
+</head><body><header class="topbar">
   <div class="shell nav">
     <a class="brand hanka-state-brand" href="/" aria-label="Zapytaj Hanki"><img src="/assets/a_clean_high_resolution_vector_cartoon_style_logo.png" alt="Zapytaj Hanki — Ameryka po polsku"></a>
     <nav class="links zh-unified-nav" id="siteNav" aria-label="Główna nawigacja"><a href="/pieniadze/">Pieniądze</a><a href="/dom/">Dom</a><a href="/samochod/">Samochód</a><a href="/praca/">Praca</a><a href="/zdrowie/">Zdrowie</a><a href="/dzieci-i-rodzina/">Dzieci i rodzina</a><a href="/emerytura/">Emerytura</a><a href="/podatki/">Podatki</a><a href="/palcem-po-mapie/">Palcem po mapie</a><a class="zh-all-topics" href="/#tematy">Wszystkie tematy</a></nav>
