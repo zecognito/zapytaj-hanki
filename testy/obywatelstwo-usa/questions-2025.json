@@ -11,7 +11,12 @@
         "Representative democracy"
       ],
       "isStarred": false,
-      "questionPl": "Jaka jest forma rządów w Stanach Zjednoczonych?"
+      "questionPl": "Jaka jest forma rządów w Stanach Zjednoczonych?",
+      "distractors": [
+        "Direct democracy",
+        "Constitutional monarchy",
+        "Military dictatorship"
+      ]
     },
     {
       "id": 2,
@@ -20,7 +25,12 @@
         "(U.S.) Constitution"
       ],
       "isStarred": true,
-      "questionPl": "Jakie jest najwyższe prawo w kraju?"
+      "questionPl": "Jakie jest najwyższe prawo w kraju?",
+      "distractors": [
+        "Declaration of Independence",
+        "Bill of Rights",
+        "Articles of Confederation"
+      ]
     },
     {
       "id": 3,
@@ -32,7 +42,12 @@
         "Protects the rights of the people"
       ],
       "isStarred": false,
-      "questionPl": "Wymień jedną funkcję Konstytucji USA."
+      "questionPl": "Wymień jedną funkcję Konstytucji USA.",
+      "distractors": [
+        "Elects the president directly",
+        "Sets state sales taxes",
+        "Appoints governors"
+      ]
     },
     {
       "id": 4,
@@ -45,7 +60,12 @@
         "(Example of) social contract"
       ],
       "isStarred": false,
-      "questionPl": "Konstytucja USA zaczyna się od słów „My, Naród”. Co one oznaczają?"
+      "questionPl": "Konstytucja USA zaczyna się od słów „My, Naród”. Co one oznaczają?",
+      "distractors": [
+        "The president has unlimited power",
+        "Only Congress can vote",
+        "States are independent countries"
+      ]
     },
     {
       "id": 5,
@@ -55,7 +75,12 @@
         "The amendment process"
       ],
       "isStarred": false,
-      "questionPl": "W jaki sposób wprowadza się zmiany do Konstytucji USA?"
+      "questionPl": "W jaki sposób wprowadza się zmiany do Konstytucji USA?",
+      "distractors": [
+        "By presidential decree",
+        "By Supreme Court order alone",
+        "By a national referendum alone"
+      ]
     },
     {
       "id": 6,
@@ -65,7 +90,12 @@
         "(The basic) rights of people living in the United States"
       ],
       "isStarred": false,
-      "questionPl": "Co chroni Karta Praw (Bill of Rights)?"
+      "questionPl": "Co chroni Karta Praw (Bill of Rights)?",
+      "distractors": [
+        "Only the president's powers",
+        "Only the military",
+        "Only state borders"
+      ]
     },
     {
       "id": 7,
@@ -74,7 +104,12 @@
         "Twenty-seven (27)"
       ],
       "isStarred": true,
-      "questionPl": "Ile poprawek ma Konstytucja USA?"
+      "questionPl": "Ile poprawek ma Konstytucja USA?",
+      "distractors": [
+        "Ten (10)",
+        "Twenty-six (26)",
+        "Thirty (30)"
+      ]
     },
     {
       "id": 8,
@@ -86,7 +121,12 @@
         "It identifies individual freedoms."
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego Deklaracja Niepodległości jest ważna?"
+      "questionPl": "Dlaczego Deklaracja Niepodległości jest ważna?",
+      "distractors": [
+        "It created the Supreme Court",
+        "It ended the Civil War",
+        "It established the Federal Reserve"
+      ]
     },
     {
       "id": 9,
@@ -95,7 +135,12 @@
         "Declaration of Independence"
       ],
       "isStarred": false,
-      "questionPl": "Który dokument założycielski ogłosił niezależność amerykańskich kolonii od Wielkiej Brytanii?"
+      "questionPl": "Który dokument założycielski ogłosił niezależność amerykańskich kolonii od Wielkiej Brytanii?",
+      "distractors": [
+        "Bill of Rights",
+        "Federalist Papers",
+        "Emancipation Proclamation"
+      ]
     },
     {
       "id": 10,
@@ -109,7 +154,12 @@
         "Self-government"
       ],
       "isStarred": false,
-      "questionPl": "Wymień dwie ważne idee zawarte w Deklaracji Niepodległości i Konstytucji USA."
+      "questionPl": "Wymień dwie ważne idee zawarte w Deklaracji Niepodległości i Konstytucji USA.",
+      "distractors": [
+        "Monarchy and hereditary rule",
+        "Censorship and martial law",
+        "Absolute presidential power"
+      ]
     },
     {
       "id": 11,
@@ -118,7 +168,12 @@
         "Declaration of Independence"
       ],
       "isStarred": false,
-      "questionPl": "W którym dokumencie założycielskim znajdują się słowa „Życie, wolność i dążenie do szczęścia”?"
+      "questionPl": "W którym dokumencie założycielskim znajdują się słowa „Życie, wolność i dążenie do szczęścia”?",
+      "distractors": [
+        "U.S. Constitution",
+        "Articles of Confederation",
+        "Gettysburg Address"
+      ]
     },
     {
       "id": 12,
@@ -128,7 +183,12 @@
         "Free market economy"
       ],
       "isStarred": true,
-      "questionPl": "Jaki system gospodarczy obowiązuje w Stanach Zjednoczonych?"
+      "questionPl": "Jaki system gospodarczy obowiązuje w Stanach Zjednoczonych?",
+      "distractors": [
+        "Socialism with no private property",
+        "Feudalism",
+        "A centrally planned economy"
+      ]
     },
     {
       "id": 13,
@@ -140,7 +200,12 @@
         "No one is above the law."
       ],
       "isStarred": false,
-      "questionPl": "Na czym polega zasada praworządności?"
+      "questionPl": "Na czym polega zasada praworządności?",
+      "distractors": [
+        "Only citizens must follow laws",
+        "The president is above the law",
+        "Courts cannot review government actions"
+      ]
     },
     {
       "id": 14,
@@ -156,7 +221,12 @@
         "Iroquois Great Law of Peace"
       ],
       "isStarred": false,
-      "questionPl": "Wiele dokumentów wpłynęło na Konstytucję USA. Wymień jeden."
+      "questionPl": "Wiele dokumentów wpłynęło na Konstytucję USA. Wymień jeden.",
+      "distractors": [
+        "Treaty of Versailles",
+        "Emancipation Proclamation",
+        "Monroe Doctrine"
+      ]
     },
     {
       "id": 15,
@@ -167,7 +237,12 @@
         "Separation of powers"
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego istnieją trzy gałęzie władzy?"
+      "questionPl": "Dlaczego istnieją trzy gałęzie władzy?",
+      "distractors": [
+        "To give the president all power",
+        "To abolish elections",
+        "To let Congress control all courts"
+      ]
     },
     {
       "id": 16,
@@ -177,7 +252,12 @@
         "Congress, president, and the courts"
       ],
       "isStarred": false,
-      "questionPl": "Wymień trzy gałęzie władzy."
+      "questionPl": "Wymień trzy gałęzie władzy.",
+      "distractors": [
+        "Federal, state, and local",
+        "President, governors, and mayors",
+        "Army, Navy, and Air Force"
+      ]
     },
     {
       "id": 17,
@@ -186,7 +266,12 @@
         "Executive branch"
       ],
       "isStarred": false,
-      "questionPl": "Którą gałęzią władzy kieruje prezydent USA?"
+      "questionPl": "Którą gałęzią władzy kieruje prezydent USA?",
+      "distractors": [
+        "Legislative branch",
+        "Judicial branch",
+        "State government"
+      ]
     },
     {
       "id": 18,
@@ -197,7 +282,12 @@
         "Legislative branch"
       ],
       "isStarred": false,
-      "questionPl": "Która część rządu federalnego uchwala ustawy?"
+      "questionPl": "Która część rządu federalnego uchwala ustawy?",
+      "distractors": [
+        "Supreme Court",
+        "President alone",
+        "State governors"
+      ]
     },
     {
       "id": 19,
@@ -206,7 +296,12 @@
         "Senate and House (of Representatives)"
       ],
       "isStarred": false,
-      "questionPl": "Z jakich dwóch izb składa się Kongres USA?"
+      "questionPl": "Z jakich dwóch izb składa się Kongres USA?",
+      "distractors": [
+        "Supreme Court and Cabinet",
+        "President and Senate",
+        "Senate and Supreme Court"
+      ]
     },
     {
       "id": 20,
@@ -217,7 +312,12 @@
         "Makes the federal budget"
       ],
       "isStarred": true,
-      "questionPl": "Wymień jedno uprawnienie Kongresu USA."
+      "questionPl": "Wymień jedno uprawnienie Kongresu USA.",
+      "distractors": [
+        "Appoint state governors",
+        "Elect Supreme Court justices directly",
+        "Issue driver's licenses nationwide"
+      ]
     },
     {
       "id": 21,
@@ -226,7 +326,12 @@
         "One hundred (100)"
       ],
       "isStarred": false,
-      "questionPl": "Ilu senatorów jest w Senacie USA?"
+      "questionPl": "Ilu senatorów jest w Senacie USA?",
+      "distractors": [
+        "50",
+        "435",
+        "538"
+      ]
     },
     {
       "id": 22,
@@ -235,7 +340,12 @@
         "Six (6) years"
       ],
       "isStarred": false,
-      "questionPl": "Ile trwa kadencja senatora USA?"
+      "questionPl": "Ile trwa kadencja senatora USA?",
+      "distractors": [
+        "Two years",
+        "Four years",
+        "Eight years"
+      ]
     },
     {
       "id": 23,
@@ -244,7 +354,12 @@
         "Answers will vary. [District of Columbia residents and residents of U.S. territories should answer that D.C. (or the territory where the applicant lives) has no U.S. senators.]"
       ],
       "isStarred": false,
-      "questionPl": "Kto jest obecnie jednym z senatorów reprezentujących twój stan?"
+      "questionPl": "Kto jest obecnie jednym z senatorów reprezentujących twój stan?",
+      "distractors": [
+        "The Vice President",
+        "The Chief Justice",
+        "The Secretary of State"
+      ]
     },
     {
       "id": 24,
@@ -253,7 +368,12 @@
         "Four hundred thirty-five (435)"
       ],
       "isStarred": false,
-      "questionPl": "Ilu członków z prawem głosu zasiada w Izbie Reprezentantów?"
+      "questionPl": "Ilu członków z prawem głosu zasiada w Izbie Reprezentantów?",
+      "distractors": [
+        "100",
+        "50",
+        "538"
+      ]
     },
     {
       "id": 25,
@@ -262,7 +382,12 @@
         "Two (2) years"
       ],
       "isStarred": false,
-      "questionPl": "Ile trwa kadencja członka Izby Reprezentantów?"
+      "questionPl": "Ile trwa kadencja członka Izby Reprezentantów?",
+      "distractors": [
+        "Four years",
+        "Six years",
+        "Eight years"
+      ]
     },
     {
       "id": 26,
@@ -271,7 +396,12 @@
         "To more closely follow public opinion"
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego kadencje członków Izby Reprezentantów są krótsze niż senatorów?"
+      "questionPl": "Dlaczego kadencje członków Izby Reprezentantów są krótsze niż senatorów?",
+      "distractors": [
+        "Because senators are appointed",
+        "Because states have no elections",
+        "Because the president chooses representatives"
+      ]
     },
     {
       "id": 27,
@@ -280,7 +410,12 @@
         "Two (2)"
       ],
       "isStarred": false,
-      "questionPl": "Ilu senatorów ma każdy stan?"
+      "questionPl": "Ilu senatorów ma każdy stan?",
+      "distractors": [
+        "One",
+        "Three",
+        "Four"
+      ]
     },
     {
       "id": 28,
@@ -290,7 +425,12 @@
         "The Great Compromise (Connecticut Compromise)"
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego każdy stan ma dwóch senatorów?"
+      "questionPl": "Dlaczego każdy stan ma dwóch senatorów?",
+      "distractors": [
+        "Because every state has equal population",
+        "Because each state has two capitals",
+        "Because the president appoints them"
+      ]
     },
     {
       "id": 29,
@@ -299,7 +439,12 @@
         "Answers will vary. [Residents of territories with nonvoting Delegates or Resident Commissioners may provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has no (voting) representatives in Congress.]"
       ],
       "isStarred": false,
-      "questionPl": "Kto reprezentuje cię w Izbie Reprezentantów USA?"
+      "questionPl": "Kto reprezentuje cię w Izbie Reprezentantów USA?",
+      "distractors": [
+        "Your state's governor",
+        "The Chief Justice",
+        "The Vice President"
+      ]
     },
     {
       "id": 30,
@@ -308,7 +453,12 @@
         "Visit uscis.gov/citizenship/testupdates for the name of the Speaker of the House of Representatives."
       ],
       "isStarred": true,
-      "questionPl": "Jak nazywa się obecny przewodniczący Izby Reprezentantów?"
+      "questionPl": "Jak nazywa się obecny przewodniczący Izby Reprezentantów?",
+      "distractors": [
+        "Chief Justice of the United States",
+        "Senate Majority Leader",
+        "Secretary of State"
+      ]
     },
     {
       "id": 31,
@@ -318,7 +468,12 @@
         "People of their state"
       ],
       "isStarred": false,
-      "questionPl": "Kogo reprezentuje senator USA?"
+      "questionPl": "Kogo reprezentuje senator USA?",
+      "distractors": [
+        "Only the president",
+        "Only the governor",
+        "Only federal judges"
+      ]
     },
     {
       "id": 32,
@@ -327,7 +482,12 @@
         "Citizens from their state"
       ],
       "isStarred": false,
-      "questionPl": "Kto wybiera senatorów USA?"
+      "questionPl": "Kto wybiera senatorów USA?",
+      "distractors": [
+        "The president",
+        "The Supreme Court",
+        "State governors"
+      ]
     },
     {
       "id": 33,
@@ -339,7 +499,12 @@
         "People in their district"
       ],
       "isStarred": false,
-      "questionPl": "Kogo reprezentuje członek Izby Reprezentantów?"
+      "questionPl": "Kogo reprezentuje członek Izby Reprezentantów?",
+      "distractors": [
+        "Only senators",
+        "Only the president",
+        "Only state governors"
+      ]
     },
     {
       "id": 34,
@@ -348,7 +513,12 @@
         "Citizens from their (congressional) district"
       ],
       "isStarred": false,
-      "questionPl": "Kto wybiera członków Izby Reprezentantów?"
+      "questionPl": "Kto wybiera członków Izby Reprezentantów?",
+      "distractors": [
+        "The president",
+        "The Cabinet",
+        "The Supreme Court"
+      ]
     },
     {
       "id": 35,
@@ -359,7 +529,12 @@
         "(Because) some states have more people"
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego niektóre stany mają więcej reprezentantów niż inne?"
+      "questionPl": "Dlaczego niektóre stany mają więcej reprezentantów niż inne?",
+      "distractors": [
+        "Because of their land area alone",
+        "Because of the number of counties",
+        "Because of the number of senators"
+      ]
     },
     {
       "id": 36,
@@ -368,7 +543,12 @@
         "Four (4) years"
       ],
       "isStarred": true,
-      "questionPl": "Na ile lat wybiera się prezydenta USA?"
+      "questionPl": "Na ile lat wybiera się prezydenta USA?",
+      "distractors": [
+        "Two years",
+        "Six years",
+        "Eight years"
+      ]
     },
     {
       "id": 37,
@@ -378,7 +558,12 @@
         "To keep the president from becoming too powerful"
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego prezydent USA może sprawować urząd tylko przez dwie kadencje?"
+      "questionPl": "Dlaczego prezydent USA może sprawować urząd tylko przez dwie kadencje?",
+      "distractors": [
+        "Because of a Supreme Court tradition",
+        "Because of the First Amendment",
+        "Because Congress votes on every term"
+      ]
     },
     {
       "id": 38,
@@ -387,7 +572,12 @@
         "Visit uscis.gov/citizenship/testupdates for the name of the President of the United States."
       ],
       "isStarred": true,
-      "questionPl": "Jak nazywa się obecny prezydent USA?"
+      "questionPl": "Jak nazywa się obecny prezydent USA?",
+      "distractors": [
+        "The Chief Justice",
+        "The Speaker of the House",
+        "The Vice President"
+      ]
     },
     {
       "id": 39,
@@ -396,7 +586,12 @@
         "Visit uscis.gov/citizenship/testupdates for the name of the Vice President of the United States."
       ],
       "isStarred": true,
-      "questionPl": "Jak nazywa się obecny wiceprezydent USA?"
+      "questionPl": "Jak nazywa się obecny wiceprezydent USA?",
+      "distractors": [
+        "The Secretary of State",
+        "The Senate Majority Leader",
+        "The Attorney General"
+      ]
     },
     {
       "id": 40,
@@ -405,7 +600,12 @@
         "The Vice President (of the United States)"
       ],
       "isStarred": false,
-      "questionPl": "Kto zostaje prezydentem, jeśli urzędujący prezydent nie może dalej pełnić funkcji?"
+      "questionPl": "Kto zostaje prezydentem, jeśli urzędujący prezydent nie może dalej pełnić funkcji?",
+      "distractors": [
+        "The Chief Justice",
+        "The Speaker of the House",
+        "The Secretary of Defense"
+      ]
     },
     {
       "id": 41,
@@ -419,7 +619,12 @@
         "Appoints federal judges"
       ],
       "isStarred": false,
-      "questionPl": "Wymień jedno uprawnienie prezydenta."
+      "questionPl": "Wymień jedno uprawnienie prezydenta.",
+      "distractors": [
+        "Write Supreme Court decisions",
+        "Appoint state mayors",
+        "Set every city's tax rate"
+      ]
     },
     {
       "id": 42,
@@ -428,7 +633,12 @@
         "The President (of the United States)"
       ],
       "isStarred": false,
-      "questionPl": "Kto jest naczelnym dowódcą sił zbrojnych USA?"
+      "questionPl": "Kto jest naczelnym dowódcą sił zbrojnych USA?",
+      "distractors": [
+        "The Vice President",
+        "The Secretary of Defense",
+        "The Chief Justice"
+      ]
     },
     {
       "id": 43,
@@ -437,7 +647,12 @@
         "The President (of the United States)"
       ],
       "isStarred": false,
-      "questionPl": "Kto podpisuje projekty ustaw, nadając im moc prawa?"
+      "questionPl": "Kto podpisuje projekty ustaw, nadając im moc prawa?",
+      "distractors": [
+        "The Chief Justice",
+        "The Speaker of the House",
+        "The Vice President"
+      ]
     },
     {
       "id": 44,
@@ -446,7 +661,12 @@
         "The President (of the United States)"
       ],
       "isStarred": true,
-      "questionPl": "Kto wetuje projekty ustaw?"
+      "questionPl": "Kto wetuje projekty ustaw?",
+      "distractors": [
+        "The Supreme Court",
+        "State governors",
+        "The Senate Majority Leader"
+      ]
     },
     {
       "id": 45,
@@ -455,7 +675,12 @@
         "The President (of the United States)"
       ],
       "isStarred": false,
-      "questionPl": "Kto mianuje sędziów federalnych?"
+      "questionPl": "Kto mianuje sędziów federalnych?",
+      "distractors": [
+        "State legislatures",
+        "The Supreme Court",
+        "County sheriffs"
+      ]
     },
     {
       "id": 46,
@@ -466,7 +691,12 @@
         "Federal departments and agencies"
       ],
       "isStarred": false,
-      "questionPl": "Władza wykonawcza składa się z wielu części. Wymień jedną."
+      "questionPl": "Władza wykonawcza składa się z wielu części. Wymień jedną.",
+      "distractors": [
+        "State legislatures",
+        "The Senate",
+        "Local school boards"
+      ]
     },
     {
       "id": 47,
@@ -475,7 +705,12 @@
         "Advises the President (of the United States)"
       ],
       "isStarred": false,
-      "questionPl": "Czym zajmuje się gabinet prezydenta?"
+      "questionPl": "Czym zajmuje się gabinet prezydenta?",
+      "distractors": [
+        "Pass constitutional amendments alone",
+        "Elect state governors",
+        "Set county property taxes"
+      ]
     },
     {
       "id": 48,
@@ -505,7 +740,12 @@
         "United States Trade Representative"
       ],
       "isStarred": false,
-      "questionPl": "Wymień dwa stanowiska na szczeblu gabinetu prezydenta."
+      "questionPl": "Wymień dwa stanowiska na szczeblu gabinetu prezydenta.",
+      "distractors": [
+        "Secretary of State and Chief Justice",
+        "Governor and mayor",
+        "Speaker and senator"
+      ]
     },
     {
       "id": 49,
@@ -515,7 +755,12 @@
         "It provides a compromise between the popular election of the president and congressional selection."
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego Kolegium Elektorów jest ważne?"
+      "questionPl": "Dlaczego Kolegium Elektorów jest ważne?",
+      "distractors": [
+        "It elects Supreme Court justices",
+        "It writes federal laws",
+        "It appoints senators"
+      ]
     },
     {
       "id": 50,
@@ -525,7 +770,12 @@
         "Federal Courts"
       ],
       "isStarred": false,
-      "questionPl": "Wymień jeden element władzy sądowniczej."
+      "questionPl": "Wymień jeden element władzy sądowniczej.",
+      "distractors": [
+        "The Department of Education",
+        "The Federal Reserve",
+        "The U.S. Senate"
+      ]
     },
     {
       "id": 51,
@@ -537,7 +787,12 @@
         "Decides if a law goes against the (U.S.) Constitution"
       ],
       "isStarred": false,
-      "questionPl": "Czym zajmuje się władza sądownicza?"
+      "questionPl": "Czym zajmuje się władza sądownicza?",
+      "distractors": [
+        "It commands the armed forces",
+        "It writes federal budgets",
+        "It elects senators"
+      ]
     },
     {
       "id": 52,
@@ -546,7 +801,12 @@
         "Supreme Court"
       ],
       "isStarred": true,
-      "questionPl": "Jaki jest najwyższy sąd w Stanach Zjednoczonych?"
+      "questionPl": "Jaki jest najwyższy sąd w Stanach Zjednoczonych?",
+      "distractors": [
+        "The U.S. Senate",
+        "The Court of Appeals",
+        "The House of Representatives"
+      ]
     },
     {
       "id": 53,
@@ -555,7 +815,12 @@
         "Nine (9)"
       ],
       "isStarred": false,
-      "questionPl": "Ile stanowisk sędziowskich jest w Sądzie Najwyższym?"
+      "questionPl": "Ile stanowisk sędziowskich jest w Sądzie Najwyższym?",
+      "distractors": [
+        "Seven (7)",
+        "Eleven (11)",
+        "Thirteen (13)"
+      ]
     },
     {
       "id": 54,
@@ -564,7 +829,12 @@
         "Five (5)"
       ],
       "isStarred": false,
-      "questionPl": "Ilu sędziów Sądu Najwyższego zwykle potrzeba do rozstrzygnięcia sprawy?"
+      "questionPl": "Ilu sędziów Sądu Najwyższego zwykle potrzeba do rozstrzygnięcia sprawy?",
+      "distractors": [
+        "Three (3)",
+        "Seven (7)",
+        "Nine (9)"
+      ]
     },
     {
       "id": 55,
@@ -575,7 +845,12 @@
         "(Until) retirement"
       ],
       "isStarred": false,
-      "questionPl": "Jak długo urzędują sędziowie Sądu Najwyższego?"
+      "questionPl": "Jak długo urzędują sędziowie Sądu Najwyższego?",
+      "distractors": [
+        "Four years",
+        "Six years",
+        "Ten years"
+      ]
     },
     {
       "id": 56,
@@ -585,7 +860,12 @@
         "To limit outside (political) influence"
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego sędziowie Sądu Najwyższego pełnią urząd dożywotnio?"
+      "questionPl": "Dlaczego sędziowie Sądu Najwyższego pełnią urząd dożywotnio?",
+      "distractors": [
+        "So they can run for president",
+        "So Congress cannot pass laws",
+        "So governors cannot appoint judges"
+      ]
     },
     {
       "id": 57,
@@ -594,7 +874,12 @@
         "Visit uscis.gov/citizenship/testupdates for the name of the Chief Justice of the United States."
       ],
       "isStarred": false,
-      "questionPl": "Jak nazywa się obecny prezes Sądu Najwyższego USA?"
+      "questionPl": "Jak nazywa się obecny prezes Sądu Najwyższego USA?",
+      "distractors": [
+        "The Speaker of the House",
+        "The Attorney General",
+        "The Vice President"
+      ]
     },
     {
       "id": 58,
@@ -608,7 +893,12 @@
         "Set foreign policy"
       ],
       "isStarred": false,
-      "questionPl": "Wymień jedno uprawnienie przysługujące wyłącznie rządowi federalnemu."
+      "questionPl": "Wymień jedno uprawnienie przysługujące wyłącznie rządowi federalnemu.",
+      "distractors": [
+        "Issue state driver's licenses",
+        "Choose state capitals",
+        "Run city schools"
+      ]
     },
     {
       "id": 59,
@@ -621,7 +911,12 @@
         "Approve zoning and land use"
       ],
       "isStarred": false,
-      "questionPl": "Wymień jedno uprawnienie przysługujące wyłącznie stanom."
+      "questionPl": "Wymień jedno uprawnienie przysługujące wyłącznie stanom.",
+      "distractors": [
+        "Declare war on other states",
+        "Print U.S. currency",
+        "Make treaties with foreign countries"
+      ]
     },
     {
       "id": 60,
@@ -630,7 +925,12 @@
         "(It states that the) powers not given to the federal government belong to the states or to the people."
       ],
       "isStarred": false,
-      "questionPl": "Jaki jest cel 10. poprawki do Konstytucji?"
+      "questionPl": "Jaki jest cel 10. poprawki do Konstytucji?",
+      "distractors": [
+        "To abolish state governments",
+        "To give all powers to Congress",
+        "To limit freedom of speech"
+      ]
     },
     {
       "id": 61,
@@ -639,7 +939,12 @@
         "Answers will vary. [District of Columbia residents should answer that D.C. does not have a governor.]"
       ],
       "isStarred": true,
-      "questionPl": "Kto jest obecnie gubernatorem twojego stanu?"
+      "questionPl": "Kto jest obecnie gubernatorem twojego stanu?",
+      "distractors": [
+        "The president of your state",
+        "Your U.S. senator",
+        "The Chief Justice"
+      ]
     },
     {
       "id": 62,
@@ -648,7 +953,12 @@
         "Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a capital. Residents of U.S. territories should name the capital of the territory.]"
       ],
       "isStarred": false,
-      "questionPl": "Jakie miasto jest stolicą twojego stanu?"
+      "questionPl": "Jakie miasto jest stolicą twojego stanu?",
+      "distractors": [
+        "Washington, D.C. for every state",
+        "New York City for every state",
+        "The state's largest city in every case"
+      ]
     },
     {
       "id": 63,
@@ -660,7 +970,12 @@
         "A male citizen of any race (can vote)."
       ],
       "isStarred": false,
-      "questionPl": "Cztery poprawki do Konstytucji USA dotyczą prawa głosu. Opisz jedną z nich."
+      "questionPl": "Cztery poprawki do Konstytucji USA dotyczą prawa głosu. Opisz jedną z nich.",
+      "distractors": [
+        "Only landowners may vote",
+        "Only senators may vote",
+        "Voting requires military service"
+      ]
     },
     {
       "id": 64,
@@ -671,7 +986,12 @@
         "U.S. citizens"
       ],
       "isStarred": false,
-      "questionPl": "Kto w Stanach Zjednoczonych może głosować w wyborach federalnych, kandydować na urząd federalny i zasiadać w ławie przysięgłych?"
+      "questionPl": "Kto w Stanach Zjednoczonych może głosować w wyborach federalnych, kandydować na urząd federalny i zasiadać w ławie przysięgłych?",
+      "distractors": [
+        "All tourists",
+        "Only elected officials",
+        "Only federal employees"
+      ]
     },
     {
       "id": 65,
@@ -685,7 +1005,12 @@
         "The right to bear arms"
       ],
       "isStarred": false,
-      "questionPl": "Wymień trzy prawa przysługujące każdemu, kto mieszka w Stanach Zjednoczonych."
+      "questionPl": "Wymień trzy prawa przysługujące każdemu, kto mieszka w Stanach Zjednoczonych.",
+      "distractors": [
+        "The right to appoint senators",
+        "The right to ignore all laws",
+        "The right to veto federal bills"
+      ]
     },
     {
       "id": 66,
@@ -695,7 +1020,12 @@
         "The flag"
       ],
       "isStarred": true,
-      "questionPl": "Czemu okazujemy lojalność, wypowiadając przysięgę wierności fladze?"
+      "questionPl": "Czemu okazujemy lojalność, wypowiadając przysięgę wierności fladze?",
+      "distractors": [
+        "Only the president",
+        "Only the Supreme Court",
+        "Only state governors"
+      ]
     },
     {
       "id": 67,
@@ -709,7 +1039,12 @@
         "Be loyal to the United States"
       ],
       "isStarred": false,
-      "questionPl": "Wymień dwie obietnice składane przez nowych obywateli w przysiędze obywatelskiej."
+      "questionPl": "Wymień dwie obietnice składane przez nowych obywateli w przysiędze obywatelskiej.",
+      "distractors": [
+        "Promise to end elections",
+        "Promise to obey only state laws",
+        "Promise to reject the Constitution"
+      ]
     },
     {
       "id": 68,
@@ -720,7 +1055,12 @@
         "Derive citizenship (under conditions set by Congress)"
       ],
       "isStarred": false,
-      "questionPl": "W jaki sposób można zostać obywatelem Stanów Zjednoczonych?"
+      "questionPl": "W jaki sposób można zostać obywatelem Stanów Zjednoczonych?",
+      "distractors": [
+        "By buying property",
+        "By getting a driver's license",
+        "By paying sales tax"
+      ]
     },
     {
       "id": 69,
@@ -738,7 +1078,12 @@
         "Write to a newspaper"
       ],
       "isStarred": false,
-      "questionPl": "Podaj dwa przykłady udziału obywatelskiego w Stanach Zjednoczonych."
+      "questionPl": "Podaj dwa przykłady udziału obywatelskiego w Stanach Zjednoczonych.",
+      "distractors": [
+        "Appointing federal judges personally",
+        "Issuing passports",
+        "Declaring war independently"
+      ]
     },
     {
       "id": 70,
@@ -752,7 +1097,12 @@
         "Work for local, state, or federal government"
       ],
       "isStarred": false,
-      "questionPl": "W jaki sposób Amerykanie mogą służyć swojemu krajowi? Wymień jeden."
+      "questionPl": "W jaki sposób Amerykanie mogą służyć swojemu krajowi? Wymień jeden.",
+      "distractors": [
+        "Refusing all jury service",
+        "Ignoring elections",
+        "Issuing federal laws"
+      ]
     },
     {
       "id": 71,
@@ -764,7 +1114,12 @@
         "Civic duty"
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego płacenie podatków federalnych jest ważne?"
+      "questionPl": "Dlaczego płacenie podatków federalnych jest ważne?",
+      "distractors": [
+        "Only to pay for elections",
+        "Only to fund state parks",
+        "Only to support political parties"
+      ]
     },
     {
       "id": 72,
@@ -775,7 +1130,12 @@
         "Makes the draft fair, if needed"
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego ważne jest, aby wszyscy mężczyźni w wieku od 18 do 25 lat rejestrowali się w Selective Service? Wymień jeden powód."
+      "questionPl": "Dlaczego ważne jest, aby wszyscy mężczyźni w wieku od 18 do 25 lat rejestrowali się w Selective Service? Wymień jeden powód.",
+      "distractors": [
+        "To register to vote",
+        "To get a passport",
+        "To receive a driver's license"
+      ]
     },
     {
       "id": 73,
@@ -788,7 +1148,12 @@
         "Escape persecution"
       ],
       "isStarred": false,
-      "questionPl": "Koloniści przybywali do Ameryki z wielu powodów. Wymień jeden."
+      "questionPl": "Koloniści przybywali do Ameryki z wielu powodów. Wymień jeden.",
+      "distractors": [
+        "To join the U.S. Senate",
+        "To become Supreme Court justices",
+        "To vote in presidential elections"
+      ]
     },
     {
       "id": 74,
@@ -798,7 +1163,12 @@
         "Native Americans"
       ],
       "isStarred": true,
-      "questionPl": "Kto mieszkał w Ameryce przed przybyciem Europejczyków?"
+      "questionPl": "Kto mieszkał w Ameryce przed przybyciem Europejczyków?",
+      "distractors": [
+        "Only European kings",
+        "Only U.S. presidents",
+        "Only British soldiers"
+      ]
     },
     {
       "id": 75,
@@ -808,7 +1178,12 @@
         "People from Africa"
       ],
       "isStarred": false,
-      "questionPl": "Którą grupę ludzi porywano i sprzedawano jako niewolników?"
+      "questionPl": "Którą grupę ludzi porywano i sprzedawano jako niewolników?",
+      "distractors": [
+        "French nobles",
+        "Roman senators",
+        "Spanish governors"
+      ]
     },
     {
       "id": 76,
@@ -819,7 +1194,12 @@
         "War for (American) Independence"
       ],
       "isStarred": false,
-      "questionPl": "Jaką wojnę stoczyli Amerykanie, aby uzyskać niepodległość od Wielkiej Brytanii?"
+      "questionPl": "Jaką wojnę stoczyli Amerykanie, aby uzyskać niepodległość od Wielkiej Brytanii?",
+      "distractors": [
+        "War of 1812",
+        "Civil War",
+        "World War I"
+      ]
     },
     {
       "id": 77,
@@ -837,7 +1217,12 @@
         "Intolerable (Coercive) Acts"
       ],
       "isStarred": false,
-      "questionPl": "Wymień jeden powód ogłoszenia niepodległości od Wielkiej Brytanii."
+      "questionPl": "Wymień jeden powód ogłoszenia niepodległości od Wielkiej Brytanii.",
+      "distractors": [
+        "Because Britain gave them voting rights",
+        "Because the colonies wanted a king",
+        "Because Britain ended all taxes"
+      ]
     },
     {
       "id": 78,
@@ -846,7 +1231,12 @@
         "(Thomas) Jefferson"
       ],
       "isStarred": true,
-      "questionPl": "Kto napisał Deklarację Niepodległości?"
+      "questionPl": "Kto napisał Deklarację Niepodległości?",
+      "distractors": [
+        "George Washington",
+        "Benjamin Franklin",
+        "Abraham Lincoln"
+      ]
     },
     {
       "id": 79,
@@ -855,7 +1245,12 @@
         "July 4, 1776"
       ],
       "isStarred": false,
-      "questionPl": "Kiedy przyjęto Deklarację Niepodległości?"
+      "questionPl": "Kiedy przyjęto Deklarację Niepodległości?",
+      "distractors": [
+        "July 4, 1787",
+        "January 1, 1776",
+        "September 17, 1787"
+      ]
     },
     {
       "id": 80,
@@ -869,7 +1264,12 @@
         "(Battle of) Yorktown (British surrender at Yorktown)"
       ],
       "isStarred": false,
-      "questionPl": "W czasie rewolucji amerykańskiej miało miejsce wiele ważnych wydarzeń. Wymień jedno."
+      "questionPl": "W czasie rewolucji amerykańskiej miało miejsce wiele ważnych wydarzeń. Wymień jedno.",
+      "distractors": [
+        "The attack on Pearl Harbor",
+        "The moon landing",
+        "The fall of the Berlin Wall"
+      ]
     },
     {
       "id": 81,
@@ -890,7 +1290,12 @@
         "Georgia"
       ],
       "isStarred": false,
-      "questionPl": "Istniało 13 pierwotnych stanów. Wymień pięć."
+      "questionPl": "Istniało 13 pierwotnych stanów. Wymień pięć.",
+      "distractors": [
+        "California, Texas, Alaska, Hawaii, Arizona",
+        "Florida, Ohio, Michigan, Illinois, Indiana",
+        "Oregon, Washington, Nevada, Utah, Idaho"
+      ]
     },
     {
       "id": 82,
@@ -899,7 +1304,12 @@
         "(U.S.) Constitution"
       ],
       "isStarred": false,
-      "questionPl": "Jaki dokument założycielski napisano w 1787 roku?"
+      "questionPl": "Jaki dokument założycielski napisano w 1787 roku?",
+      "distractors": [
+        "Bill of Rights",
+        "Emancipation Proclamation",
+        "Declaration of Independence"
+      ]
     },
     {
       "id": 83,
@@ -911,7 +1321,12 @@
         "Publius"
       ],
       "isStarred": false,
-      "questionPl": "Artykuły Federalisty popierały przyjęcie Konstytucji USA. Wymień jednego z ich autorów."
+      "questionPl": "Artykuły Federalisty popierały przyjęcie Konstytucji USA. Wymień jednego z ich autorów.",
+      "distractors": [
+        "Abraham Lincoln",
+        "Thomas Edison",
+        "Franklin D. Roosevelt"
+      ]
     },
     {
       "id": 84,
@@ -921,7 +1336,12 @@
         "They supported passing the (U.S.) Constitution."
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego Artykuły Federalisty były ważne?"
+      "questionPl": "Dlaczego Artykuły Federalisty były ważne?",
+      "distractors": [
+        "They ended World War II",
+        "They abolished Congress",
+        "They established the Federal Reserve"
+      ]
     },
     {
       "id": 85,
@@ -934,7 +1354,12 @@
         "U.S. diplomat"
       ],
       "isStarred": false,
-      "questionPl": "Benjamin Franklin zasłynął z wielu rzeczy. Wymień jedną."
+      "questionPl": "Benjamin Franklin zasłynął z wielu rzeczy. Wymień jedną.",
+      "distractors": [
+        "He was the first astronaut",
+        "He led the Confederate army",
+        "He was the 16th president"
+      ]
     },
     {
       "id": 86,
@@ -946,7 +1371,12 @@
         "President of the Constitutional Convention"
       ],
       "isStarred": true,
-      "questionPl": "George Washington zasłynął z wielu rzeczy. Wymień jedną."
+      "questionPl": "George Washington zasłynął z wielu rzeczy. Wymień jedną.",
+      "distractors": [
+        "He wrote the Emancipation Proclamation",
+        "He was president during World War II",
+        "He founded the United Nations"
+      ]
     },
     {
       "id": 87,
@@ -960,7 +1390,12 @@
         "Writer of the Virginia Statute on Religious Freedom"
       ],
       "isStarred": false,
-      "questionPl": "Thomas Jefferson zasłynął z wielu rzeczy. Wymień jedną."
+      "questionPl": "Thomas Jefferson zasłynął z wielu rzeczy. Wymień jedną.",
+      "distractors": [
+        "He was the first Chief Justice",
+        "He led the Union Army",
+        "He invented the telephone"
+      ]
     },
     {
       "id": 88,
@@ -972,7 +1407,12 @@
         "One of the writers of the Federalist Papers"
       ],
       "isStarred": false,
-      "questionPl": "James Madison zasłynął z wielu rzeczy. Wymień jedną."
+      "questionPl": "James Madison zasłynął z wielu rzeczy. Wymień jedną.",
+      "distractors": [
+        "He was president during the Civil War",
+        "He wrote the Gettysburg Address",
+        "He founded the Republican Party"
+      ]
     },
     {
       "id": 89,
@@ -985,7 +1425,12 @@
         "Member of the Continental Congress B: 1800s"
       ],
       "isStarred": false,
-      "questionPl": "Alexander Hamilton zasłynął z wielu rzeczy. Wymień jedną."
+      "questionPl": "Alexander Hamilton zasłynął z wielu rzeczy. Wymień jedną.",
+      "distractors": [
+        "He was the first U.S. president",
+        "He led the Confederate Army",
+        "He invented the light bulb"
+      ]
     },
     {
       "id": 90,
@@ -995,7 +1440,12 @@
         "Louisiana"
       ],
       "isStarred": false,
-      "questionPl": "Jakie terytorium Stany Zjednoczone kupiły od Francji w 1803 roku?"
+      "questionPl": "Jakie terytorium Stany Zjednoczone kupiły od Francji w 1803 roku?",
+      "distractors": [
+        "Alaska",
+        "California",
+        "Florida"
+      ]
     },
     {
       "id": 91,
@@ -1007,7 +1457,12 @@
         "Spanish-American War"
       ],
       "isStarred": false,
-      "questionPl": "Wymień jedną wojnę, w której USA walczyły w XIX wieku."
+      "questionPl": "Wymień jedną wojnę, w której USA walczyły w XIX wieku.",
+      "distractors": [
+        "World War II",
+        "Korean War",
+        "Vietnam War"
+      ]
     },
     {
       "id": 92,
@@ -1016,7 +1471,12 @@
         "The Civil War"
       ],
       "isStarred": false,
-      "questionPl": "Jak nazywała się wojna w USA między Północą a Południem?"
+      "questionPl": "Jak nazywała się wojna w USA między Północą a Południem?",
+      "distractors": [
+        "Revolutionary War",
+        "War of 1812",
+        "Spanish-American War"
+      ]
     },
     {
       "id": 93,
@@ -1032,7 +1492,12 @@
         "Lincoln was assassinated."
       ],
       "isStarred": false,
-      "questionPl": "W czasie wojny secesyjnej miało miejsce wiele ważnych wydarzeń. Wymień jedno."
+      "questionPl": "W czasie wojny secesyjnej miało miejsce wiele ważnych wydarzeń. Wymień jedno.",
+      "distractors": [
+        "The moon landing",
+        "The attack on Pearl Harbor",
+        "The Boston Tea Party"
+      ]
     },
     {
       "id": 94,
@@ -1045,7 +1510,12 @@
         "Delivered the Gettysburg Address"
       ],
       "isStarred": true,
-      "questionPl": "Abraham Lincoln zasłynął z wielu rzeczy. Wymień jedną."
+      "questionPl": "Abraham Lincoln zasłynął z wielu rzeczy. Wymień jedną.",
+      "distractors": [
+        "He was the first man on the moon",
+        "He was president during World War I",
+        "He wrote the Constitution"
+      ]
     },
     {
       "id": 95,
@@ -1057,7 +1527,12 @@
         "Freed slaves in most Southern states"
       ],
       "isStarred": false,
-      "questionPl": "Co zrobiła Proklamacja Emancypacji?"
+      "questionPl": "Co zrobiła Proklamacja Emancypacji?",
+      "distractors": [
+        "It declared independence from Britain",
+        "It created the Federal Reserve",
+        "It granted women voting rights"
+      ]
     },
     {
       "id": 96,
@@ -1066,7 +1541,12 @@
         "The Civil War"
       ],
       "isStarred": false,
-      "questionPl": "Która wojna w USA doprowadziła do zniesienia niewolnictwa?"
+      "questionPl": "Która wojna w USA doprowadziła do zniesienia niewolnictwa?",
+      "distractors": [
+        "World War I",
+        "Revolutionary War",
+        "Korean War"
+      ]
     },
     {
       "id": 97,
@@ -1075,7 +1555,12 @@
         "14th Amendment"
       ],
       "isStarred": false,
-      "questionPl": "Która poprawka stanowi, że osoby urodzone lub naturalizowane w USA i podlegające ich jurysdykcji są obywatelami USA?"
+      "questionPl": "Która poprawka stanowi, że osoby urodzone lub naturalizowane w USA i podlegające ich jurysdykcji są obywatelami USA?",
+      "distractors": [
+        "First Amendment",
+        "Tenth Amendment",
+        "Nineteenth Amendment"
+      ]
     },
     {
       "id": 98,
@@ -1087,7 +1572,12 @@
         "1870"
       ],
       "isStarred": false,
-      "questionPl": "Kiedy wszyscy mężczyźni uzyskali prawo głosu?"
+      "questionPl": "Kiedy wszyscy mężczyźni uzyskali prawo głosu?",
+      "distractors": [
+        "1776",
+        "1920",
+        "1965"
+      ]
     },
     {
       "id": 99,
@@ -1101,7 +1591,12 @@
         "Lucy Stone"
       ],
       "isStarred": false,
-      "questionPl": "Wymień jedną przywódczynię ruchu praw kobiet w XIX wieku."
+      "questionPl": "Wymień jedną przywódczynię ruchu praw kobiet w XIX wieku.",
+      "distractors": [
+        "Rosa Parks",
+        "Eleanor Roosevelt",
+        "Sandra Day O'Connor"
+      ]
     },
     {
       "id": 100,
@@ -1114,7 +1609,12 @@
         "(Persian) Gulf War"
       ],
       "isStarred": false,
-      "questionPl": "Wymień jedną wojnę, w której USA walczyły w XX wieku."
+      "questionPl": "Wymień jedną wojnę, w której USA walczyły w XX wieku.",
+      "distractors": [
+        "Revolutionary War",
+        "Civil War",
+        "War of 1812"
+      ]
     },
     {
       "id": 101,
@@ -1125,7 +1625,12 @@
         "To oppose the Central Powers (Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria)"
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego Stany Zjednoczone przystąpiły do I wojny światowej?"
+      "questionPl": "Dlaczego Stany Zjednoczone przystąpiły do I wojny światowej?",
+      "distractors": [
+        "To fight in the American Revolution",
+        "To purchase Louisiana",
+        "To end the Cold War"
+      ]
     },
     {
       "id": 102,
@@ -1136,7 +1641,12 @@
         "(With the) 19 th Amendment"
       ],
       "isStarred": false,
-      "questionPl": "Kiedy wszystkie kobiety uzyskały prawo głosu?"
+      "questionPl": "Kiedy wszystkie kobiety uzyskały prawo głosu?",
+      "distractors": [
+        "1865",
+        "1776",
+        "1965"
+      ]
     },
     {
       "id": 103,
@@ -1145,7 +1655,12 @@
         "Longest economic recession in modern history"
       ],
       "isStarred": false,
-      "questionPl": "Czym był Wielki Kryzys?"
+      "questionPl": "Czym był Wielki Kryzys?",
+      "distractors": [
+        "A period of rapid economic growth",
+        "A military conflict with Britain",
+        "A constitutional convention"
+      ]
     },
     {
       "id": 104,
@@ -1155,7 +1670,12 @@
         "Stock market crash of 1929"
       ],
       "isStarred": false,
-      "questionPl": "Kiedy rozpoczął się Wielki Kryzys?"
+      "questionPl": "Kiedy rozpoczął się Wielki Kryzys?",
+      "distractors": [
+        "1776",
+        "1861",
+        "1945"
+      ]
     },
     {
       "id": 105,
@@ -1164,7 +1684,12 @@
         "(Franklin) Roosevelt"
       ],
       "isStarred": false,
-      "questionPl": "Kto był prezydentem podczas Wielkiego Kryzysu i II wojny światowej?"
+      "questionPl": "Kto był prezydentem podczas Wielkiego Kryzysu i II wojny światowej?",
+      "distractors": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Theodore Roosevelt"
+      ]
     },
     {
       "id": 106,
@@ -1176,7 +1701,12 @@
         "To oppose the Axis Powers (Germany, Italy, and Japan)"
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego Stany Zjednoczone przystąpiły do II wojny światowej?"
+      "questionPl": "Dlaczego Stany Zjednoczone przystąpiły do II wojny światowej?",
+      "distractors": [
+        "To fight the Soviet Union",
+        "To purchase Alaska",
+        "To support the Confederacy"
+      ]
     },
     {
       "id": 107,
@@ -1188,7 +1718,12 @@
         "Signed the Federal-Aid Highway Act of 1956 (Created the Interstate System)"
       ],
       "isStarred": false,
-      "questionPl": "Dwight Eisenhower zasłynął z wielu rzeczy. Wymień jedną."
+      "questionPl": "Dwight Eisenhower zasłynął z wielu rzeczy. Wymień jedną.",
+      "distractors": [
+        "He wrote the Declaration of Independence",
+        "He led the Confederate army",
+        "He was the first president"
+      ]
     },
     {
       "id": 108,
@@ -1199,7 +1734,12 @@
         "Russia"
       ],
       "isStarred": false,
-      "questionPl": "Kto był głównym rywalem Stanów Zjednoczonych podczas zimnej wojny?"
+      "questionPl": "Kto był głównym rywalem Stanów Zjednoczonych podczas zimnej wojny?",
+      "distractors": [
+        "Great Britain",
+        "France",
+        "Germany"
+      ]
     },
     {
       "id": 109,
@@ -1209,7 +1749,12 @@
         "Nuclear war"
       ],
       "isStarred": false,
-      "questionPl": "Co było jednym z głównych zmartwień USA podczas zimnej wojny?"
+      "questionPl": "Co było jednym z głównych zmartwień USA podczas zimnej wojny?",
+      "distractors": [
+        "Expansion of the British Empire",
+        "Independence from France",
+        "Rebuilding the Confederacy"
+      ]
     },
     {
       "id": 110,
@@ -1218,7 +1763,12 @@
         "To stop the spread of communism"
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego Stany Zjednoczone przystąpiły do wojny koreańskiej?"
+      "questionPl": "Dlaczego Stany Zjednoczone przystąpiły do wojny koreańskiej?",
+      "distractors": [
+        "To win independence from Britain",
+        "To end World War II",
+        "To annex Canada"
+      ]
     },
     {
       "id": 111,
@@ -1227,7 +1777,12 @@
         "To stop the spread of communism"
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego Stany Zjednoczone przystąpiły do wojny w Wietnamie?"
+      "questionPl": "Dlaczego Stany Zjednoczone przystąpiły do wojny w Wietnamie?",
+      "distractors": [
+        "To fight the American Revolution",
+        "To defend Britain in World War II",
+        "To purchase Louisiana"
+      ]
     },
     {
       "id": 112,
@@ -1236,7 +1791,12 @@
         "Fought to end racial discrimination"
       ],
       "isStarred": false,
-      "questionPl": "Co osiągnął ruch praw obywatelskich?"
+      "questionPl": "Co osiągnął ruch praw obywatelskich?",
+      "distractors": [
+        "It created the Electoral College",
+        "It established the Federal Reserve",
+        "It ended World War I"
+      ]
     },
     {
       "id": 113,
@@ -1247,7 +1807,12 @@
         "Worked to ensure that people would \"not be judged by the color of their skin, but by the content of their character\""
       ],
       "isStarred": true,
-      "questionPl": "Martin Luther King Jr. zasłynął z wielu rzeczy. Wymień jedną."
+      "questionPl": "Martin Luther King Jr. zasłynął z wielu rzeczy. Wymień jedną.",
+      "distractors": [
+        "He wrote the U.S. Constitution",
+        "He was president during the Civil War",
+        "He invented the telephone"
+      ]
     },
     {
       "id": 114,
@@ -1256,7 +1821,12 @@
         "To force the Iraqi military from Kuwait"
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego Stany Zjednoczone przystąpiły do wojny w Zatoce Perskiej?"
+      "questionPl": "Dlaczego Stany Zjednoczone przystąpiły do wojny w Zatoce Perskiej?",
+      "distractors": [
+        "To gain independence from Britain",
+        "To end the Cold War",
+        "To annex Canada"
+      ]
     },
     {
       "id": 115,
@@ -1268,7 +1838,12 @@
         "Terrorists took over a plane originally aimed at Washington, D.C., and crashed in a field in Pennsylvania"
       ],
       "isStarred": true,
-      "questionPl": "Jakie ważne wydarzenie miało miejsce w USA 11 września 2001 roku?"
+      "questionPl": "Jakie ważne wydarzenie miało miejsce w USA 11 września 2001 roku?",
+      "distractors": [
+        "A presidential election",
+        "The signing of the Constitution",
+        "The Louisiana Purchase"
+      ]
     },
     {
       "id": 116,
@@ -1279,7 +1854,12 @@
         "War in Iraq"
       ],
       "isStarred": false,
-      "questionPl": "Wymień jeden konflikt zbrojny USA po zamachach z 11 września 2001 roku."
+      "questionPl": "Wymień jeden konflikt zbrojny USA po zamachach z 11 września 2001 roku.",
+      "distractors": [
+        "The American Revolution",
+        "The Civil War",
+        "The War of 1812"
+      ]
     },
     {
       "id": 117,
@@ -1312,7 +1892,12 @@
         "Tuscarora For a complete list of tribes, please visit bia.gov."
       ],
       "isStarred": false,
-      "questionPl": "Wymień jedno plemię rdzennych Amerykanów w Stanach Zjednoczonych."
+      "questionPl": "Wymień jedno plemię rdzennych Amerykanów w Stanach Zjednoczonych.",
+      "distractors": [
+        "Only European countries",
+        "Only U.S. presidents",
+        "Only Supreme Court justices"
+      ]
     },
     {
       "id": 118,
@@ -1327,7 +1912,12 @@
         "Integrated circuit (IC) SYMBOLS AND HOLIDAYS A: Symbols"
       ],
       "isStarred": false,
-      "questionPl": "Podaj jeden przykład amerykańskiego wynalazku lub innowacji."
+      "questionPl": "Podaj jeden przykład amerykańskiego wynalazku lub innowacji.",
+      "distractors": [
+        "A European monarchy",
+        "A state tax",
+        "A U.S. holiday"
+      ]
     },
     {
       "id": 119,
@@ -1336,7 +1926,12 @@
         "Washington, D.C."
       ],
       "isStarred": false,
-      "questionPl": "Jakie miasto jest stolicą Stanów Zjednoczonych?"
+      "questionPl": "Jakie miasto jest stolicą Stanów Zjednoczonych?",
+      "distractors": [
+        "New York City",
+        "Philadelphia",
+        "Boston"
+      ]
     },
     {
       "id": 120,
@@ -1346,7 +1941,12 @@
         "Liberty Island [Also acceptable are New Jersey, near New York City, and on the Hudson (River).]"
       ],
       "isStarred": false,
-      "questionPl": "Gdzie znajduje się Statua Wolności?"
+      "questionPl": "Gdzie znajduje się Statua Wolności?",
+      "distractors": [
+        "Washington, D.C.",
+        "Los Angeles",
+        "Chicago"
+      ]
     },
     {
       "id": 121,
@@ -1356,7 +1956,12 @@
         "(Because the stripes) represent the original colonies"
       ],
       "isStarred": true,
-      "questionPl": "Dlaczego flaga USA ma 13 pasów?"
+      "questionPl": "Dlaczego flaga USA ma 13 pasów?",
+      "distractors": [
+        "Because there were 13 presidents",
+        "Because there are 13 courts",
+        "Because there are 13 amendments"
+      ]
     },
     {
       "id": 122,
@@ -1367,7 +1972,12 @@
         "(Because there are) 50 states"
       ],
       "isStarred": false,
-      "questionPl": "Dlaczego flaga USA ma 50 gwiazd?"
+      "questionPl": "Dlaczego flaga USA ma 50 gwiazd?",
+      "distractors": [
+        "Because there are 50 senators",
+        "Because there are 50 counties",
+        "Because there were 50 colonies"
+      ]
     },
     {
       "id": 123,
@@ -1376,7 +1986,12 @@
         "The Star-Spangled Banner"
       ],
       "isStarred": false,
-      "questionPl": "Jak nazywa się hymn narodowy USA?"
+      "questionPl": "Jak nazywa się hymn narodowy USA?",
+      "distractors": [
+        "America the Beautiful",
+        "God Bless America",
+        "My Country, 'Tis of Thee"
+      ]
     },
     {
       "id": 124,
@@ -1386,7 +2001,12 @@
         "We all become one B: Holidays"
       ],
       "isStarred": false,
-      "questionPl": "Pierwszym mottem narodu było „E Pluribus Unum”. Co ono oznacza?"
+      "questionPl": "Pierwszym mottem narodu było „E Pluribus Unum”. Co ono oznacza?",
+      "distractors": [
+        "One Nation Under One President",
+        "Liberty for the President",
+        "The States Are Separate"
+      ]
     },
     {
       "id": 125,
@@ -1396,7 +2016,12 @@
         "The country's birthday"
       ],
       "isStarred": false,
-      "questionPl": "Czym jest Dzień Niepodległości?"
+      "questionPl": "Czym jest Dzień Niepodległości?",
+      "distractors": [
+        "A holiday honoring veterans only",
+        "A holiday for the Constitution's signing",
+        "A holiday for the end of the Civil War"
+      ]
     },
     {
       "id": 126,
@@ -1415,7 +2040,12 @@
         "Christmas Day"
       ],
       "isStarred": true,
-      "questionPl": "Wymień trzy święta państwowe USA."
+      "questionPl": "Wymień trzy święta państwowe USA.",
+      "distractors": [
+        "Valentine's Day, Halloween, April Fools' Day",
+        "Mother's Day, Father's Day, Groundhog Day",
+        "Earth Day, Flag Day, Arbor Day"
+      ]
     },
     {
       "id": 127,
@@ -1424,7 +2054,12 @@
         "A holiday to honor soldiers who died in military service"
       ],
       "isStarred": false,
-      "questionPl": "Czym jest Memorial Day?"
+      "questionPl": "Czym jest Memorial Day?",
+      "distractors": [
+        "A holiday honoring all current politicians",
+        "A holiday celebrating the Constitution",
+        "A holiday celebrating the first president"
+      ]
     },
     {
       "id": 128,
@@ -1434,7 +2069,12 @@
         "A holiday to honor people who have served (in the U.S. military)"
       ],
       "isStarred": false,
-      "questionPl": "Czym jest Veterans Day?"
+      "questionPl": "Czym jest Veterans Day?",
+      "distractors": [
+        "A holiday honoring only soldiers who died",
+        "A holiday marking independence from Britain",
+        "A holiday celebrating the first Congress"
+      ]
     }
   ]
 }
