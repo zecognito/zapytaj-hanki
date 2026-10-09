@@ -150,6 +150,27 @@
 })();
 
 
+// Upgrade existing editorial tables of contents into compact native dropdowns.
+(() => {
+  document.querySelectorAll('main.article .article-layout > article.prose nav[aria-label="Spis treści"]').forEach(nav => {
+    if (nav.querySelector('details')) return;
+    const heading = Array.from(nav.children).find(el => /^H[2-6]$/.test(el.tagName) && /^w tym przewodniku$/i.test(el.textContent.trim()));
+    const list = Array.from(nav.children).find(el => el.tagName === 'OL');
+    if (!heading || !list) return;
+    const details = document.createElement('details');
+    details.className = 'guide-toc';
+    const summary = document.createElement('summary');
+    summary.textContent = heading.textContent.trim();
+    details.append(summary, list);
+    heading.remove();
+    nav.append(details);
+    nav.classList.add('guide-toc-container');
+    nav.addEventListener('click', event => {
+      if (event.target.closest('a[href^="#"]')) details.open = false;
+    });
+  });
+})();
+
 // Accessible, automatically generated table of contents for substantial guides.
 (() => {
   const article = document.querySelector('main.article .article-layout > article.prose');
