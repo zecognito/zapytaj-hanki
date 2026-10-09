@@ -154,6 +154,8 @@
 (() => {
   const article = document.querySelector('main.article .article-layout > article.prose');
   if (!article || article.querySelector('.guide-toc')) return;
+  // Respect an editorially authored table of contents. Never show two.
+  if (Array.from(article.querySelectorAll('h2, h3, summary')).some(h => /^w tym przewodniku\s*$/i.test(h.textContent.trim()))) return;
   const headings = Array.from(article.querySelectorAll('h2')).filter(h =>
     !h.closest('.answer, .summary, .sources, .related, .warning, .guide-toc') &&
     !/^powiązane przewodniki$/i.test(h.textContent.trim())
