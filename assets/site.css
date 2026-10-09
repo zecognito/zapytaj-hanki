@@ -202,3 +202,8 @@ main.article .guide-toc li{padding:4px 0;color:#355348}
 main.article .guide-toc a{color:#b73d70;text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}
 main.article .prose h2[id]{scroll-margin-top:110px}
 @media(max-width:600px){main.article .guide-toc{margin:24px 0}main.article .guide-toc>summary{font-size:1rem;padding:16px 45px 16px 16px}main.article .guide-toc ol{padding-left:37px;padding-right:14px}}
+
+/* Existing authored contents converted to a single compact dropdown. */
+main.article .guide-toc-container{margin:24px 0!important;padding:0!important;border:0!important;background:transparent!important}
+main.article .guide-toc-container>.guide-toc{margin:0!important}
+main.article .guide-toc-container>.guide-toc ol{display:block}
