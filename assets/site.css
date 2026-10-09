@@ -207,3 +207,12 @@ main.article .prose h2[id]{scroll-margin-top:110px}
 main.article .guide-toc-container{margin:24px 0!important;padding:0!important;border:0!important;background:transparent!important}
 main.article .guide-toc-container>.guide-toc{margin:0!important}
 main.article .guide-toc-container>.guide-toc ol{display:block}
+
+/* Standard article footer: concise homepage-inspired layout. */
+footer.footer.zh-article-footer{padding:34px 0 24px;margin-top:64px;background:#fff;border-top:1px solid #e7e9e6}
+footer.footer.zh-article-footer .wrap{display:flex;flex-direction:column;align-items:flex-start;gap:0}
+footer.footer.zh-article-footer strong{display:block;font-size:1.2rem;line-height:1.35;color:#d65486;font-weight:750}
+footer.footer.zh-article-footer nav{display:flex;flex-wrap:wrap;gap:12px 20px;margin-top:20px}
+footer.footer.zh-article-footer nav a{font-size:14px;color:#737b79;text-decoration:none}
+footer.footer.zh-article-footer nav a:hover,footer.footer.zh-article-footer nav a:focus-visible{text-decoration:underline}
+footer.footer.zh-article-footer .zh-footer-copy{width:100%;border-top:1px solid #eceeed;margin-top:24px;padding-top:20px;font-size:13px;color:#929998}
