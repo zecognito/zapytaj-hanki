@@ -16,7 +16,10 @@
         "Direct democracy",
         "Constitutional monarchy",
         "Military dictatorship"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 2,
@@ -30,7 +33,10 @@
         "Declaration of Independence",
         "Bill of Rights",
         "Articles of Confederation"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 3,
@@ -47,7 +53,10 @@
         "Elects the president directly",
         "Sets state sales taxes",
         "Appoints governors"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 4,
@@ -65,7 +74,10 @@
         "The president has unlimited power",
         "Only Congress can vote",
         "States are independent countries"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 5,
@@ -80,7 +92,10 @@
         "By presidential decree",
         "By Supreme Court order alone",
         "By a national referendum alone"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 6,
@@ -95,21 +110,27 @@
         "Only the president's powers",
         "Only the military",
         "Only state borders"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 7,
       "question": "How many amendments does the U.S. Constitution have?",
       "acceptedAnswers": [
-        "Twenty-seven (27)"
+        "Twenty-seven"
       ],
       "isStarred": true,
       "questionPl": "Ile poprawek ma Konstytucja USA?",
       "distractors": [
-        "Ten (10)",
-        "Twenty-six (26)",
-        "Thirty (30)"
-      ]
+        "Ten",
+        "Twenty-six",
+        "Thirty"
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 8,
@@ -126,7 +147,10 @@
         "It created the Supreme Court",
         "It ended the Civil War",
         "It established the Federal Reserve"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 9,
@@ -140,7 +164,10 @@
         "Bill of Rights",
         "Federalist Papers",
         "Emancipation Proclamation"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 10,
@@ -159,7 +186,10 @@
         "Monarchy and hereditary rule",
         "Censorship and martial law",
         "Absolute presidential power"
-      ]
+      ],
+      "requiredAnswers": 2,
+      "answerMode": "multi",
+      "reviewStatus": "pending"
     },
     {
       "id": 11,
@@ -173,7 +203,10 @@
         "U.S. Constitution",
         "Articles of Confederation",
         "Gettysburg Address"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 12,
@@ -188,7 +221,10 @@
         "Socialism with no private property",
         "Feudalism",
         "A centrally planned economy"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 13,
@@ -205,7 +241,10 @@
         "Only citizens must follow laws",
         "The president is above the law",
         "Courts cannot review government actions"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 14,
@@ -226,7 +265,10 @@
         "Treaty of Versailles",
         "Emancipation Proclamation",
         "Monroe Doctrine"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 15,
@@ -242,7 +284,10 @@
         "To give the president all power",
         "To abolish elections",
         "To let Congress control all courts"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 16,
@@ -257,7 +302,10 @@
         "Federal, state, and local",
         "President, governors, and mayors",
         "Army, Navy, and Air Force"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 17,
@@ -271,7 +319,10 @@
         "Legislative branch",
         "Judicial branch",
         "State government"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 18,
@@ -287,7 +338,10 @@
         "Supreme Court",
         "President alone",
         "State governors"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 19,
@@ -301,7 +355,10 @@
         "Supreme Court and Cabinet",
         "President and Senate",
         "Senate and Supreme Court"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 20,
@@ -317,13 +374,16 @@
         "Appoint state governors",
         "Elect Supreme Court justices directly",
         "Issue driver's licenses nationwide"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 21,
       "question": "How many U.S. senators are there?",
       "acceptedAnswers": [
-        "One hundred (100)"
+        "One hundred"
       ],
       "isStarred": false,
       "questionPl": "Ilu senatorów jest w Senacie USA?",
@@ -331,13 +391,16 @@
         "50",
         "435",
         "538"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 22,
       "question": "How long is a term for a U.S. senator?",
       "acceptedAnswers": [
-        "Six (6) years"
+        "Six years"
       ],
       "isStarred": false,
       "questionPl": "Ile trwa kadencja senatora USA?",
@@ -345,7 +408,10 @@
         "Two years",
         "Four years",
         "Eight years"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 23,
@@ -359,13 +425,16 @@
         "The Vice President",
         "The Chief Justice",
         "The Secretary of State"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "dynamic",
+      "reviewStatus": "pending"
     },
     {
       "id": 24,
       "question": "How many voting members are in the House of Representatives?",
       "acceptedAnswers": [
-        "Four hundred thirty-five (435)"
+        "Four hundred thirty-five"
       ],
       "isStarred": false,
       "questionPl": "Ilu członków z prawem głosu zasiada w Izbie Reprezentantów?",
@@ -373,13 +442,16 @@
         "100",
         "50",
         "538"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 25,
       "question": "How long is a term for a member of the House of Representatives?",
       "acceptedAnswers": [
-        "Two (2) years"
+        "Two years"
       ],
       "isStarred": false,
       "questionPl": "Ile trwa kadencja członka Izby Reprezentantów?",
@@ -387,7 +459,10 @@
         "Four years",
         "Six years",
         "Eight years"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 26,
@@ -401,13 +476,16 @@
         "Because senators are appointed",
         "Because states have no elections",
         "Because the president chooses representatives"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 27,
       "question": "How many senators does each state have?",
       "acceptedAnswers": [
-        "Two (2)"
+        "Two"
       ],
       "isStarred": false,
       "questionPl": "Ilu senatorów ma każdy stan?",
@@ -415,7 +493,10 @@
         "One",
         "Three",
         "Four"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 28,
@@ -430,7 +511,10 @@
         "Because every state has equal population",
         "Because each state has two capitals",
         "Because the president appoints them"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 29,
@@ -444,7 +528,10 @@
         "Your state's governor",
         "The Chief Justice",
         "The Vice President"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "dynamic",
+      "reviewStatus": "pending"
     },
     {
       "id": 30,
@@ -458,7 +545,10 @@
         "Chief Justice of the United States",
         "Senate Majority Leader",
         "Secretary of State"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "dynamic",
+      "reviewStatus": "pending"
     },
     {
       "id": 31,
@@ -473,7 +563,10 @@
         "Only the president",
         "Only the governor",
         "Only federal judges"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 32,
@@ -487,7 +580,10 @@
         "The president",
         "The Supreme Court",
         "State governors"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 33,
@@ -504,7 +600,10 @@
         "Only senators",
         "Only the president",
         "Only state governors"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 34,
@@ -518,7 +617,10 @@
         "The president",
         "The Cabinet",
         "The Supreme Court"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 35,
@@ -534,13 +636,16 @@
         "Because of their land area alone",
         "Because of the number of counties",
         "Because of the number of senators"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 36,
       "question": "The President of the United States is elected for how many years?",
       "acceptedAnswers": [
-        "Four (4) years"
+        "Four years"
       ],
       "isStarred": true,
       "questionPl": "Na ile lat wybiera się prezydenta USA?",
@@ -548,7 +653,10 @@
         "Two years",
         "Six years",
         "Eight years"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 37,
@@ -563,7 +671,10 @@
         "Because of a Supreme Court tradition",
         "Because of the First Amendment",
         "Because Congress votes on every term"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 38,
@@ -577,7 +688,10 @@
         "The Chief Justice",
         "The Speaker of the House",
         "The Vice President"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "dynamic",
+      "reviewStatus": "pending"
     },
     {
       "id": 39,
@@ -591,7 +705,10 @@
         "The Secretary of State",
         "The Senate Majority Leader",
         "The Attorney General"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "dynamic",
+      "reviewStatus": "pending"
     },
     {
       "id": 40,
@@ -605,7 +722,10 @@
         "The Chief Justice",
         "The Speaker of the House",
         "The Secretary of Defense"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 41,
@@ -624,7 +744,10 @@
         "Write Supreme Court decisions",
         "Appoint state mayors",
         "Set every city's tax rate"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 42,
@@ -638,7 +761,10 @@
         "The Vice President",
         "The Secretary of Defense",
         "The Chief Justice"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 43,
@@ -652,7 +778,10 @@
         "The Chief Justice",
         "The Speaker of the House",
         "The Vice President"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 44,
@@ -666,7 +795,10 @@
         "The Supreme Court",
         "State governors",
         "The Senate Majority Leader"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 45,
@@ -680,7 +812,10 @@
         "State legislatures",
         "The Supreme Court",
         "County sheriffs"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 46,
@@ -696,7 +831,10 @@
         "State legislatures",
         "The Senate",
         "Local school boards"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 47,
@@ -710,7 +848,10 @@
         "Pass constitutional amendments alone",
         "Elect state governors",
         "Set county property taxes"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 48,
@@ -745,7 +886,10 @@
         "Secretary of State and Chief Justice",
         "Governor and mayor",
         "Speaker and senator"
-      ]
+      ],
+      "requiredAnswers": 2,
+      "answerMode": "multi",
+      "reviewStatus": "pending"
     },
     {
       "id": 49,
@@ -760,7 +904,10 @@
         "It elects Supreme Court justices",
         "It writes federal laws",
         "It appoints senators"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 50,
@@ -775,7 +922,10 @@
         "The Department of Education",
         "The Federal Reserve",
         "The U.S. Senate"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 51,
@@ -792,7 +942,10 @@
         "It commands the armed forces",
         "It writes federal budgets",
         "It elects senators"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 52,
@@ -806,35 +959,44 @@
         "The U.S. Senate",
         "The Court of Appeals",
         "The House of Representatives"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 53,
       "question": "How many seats are on the Supreme Court?",
       "acceptedAnswers": [
-        "Nine (9)"
+        "Nine"
       ],
       "isStarred": false,
       "questionPl": "Ile stanowisk sędziowskich jest w Sądzie Najwyższym?",
       "distractors": [
-        "Seven (7)",
-        "Eleven (11)",
-        "Thirteen (13)"
-      ]
+        "Seven",
+        "Eleven",
+        "Thirteen"
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 54,
       "question": "How many Supreme Court justices are usually needed to decide a case?",
       "acceptedAnswers": [
-        "Five (5)"
+        "Five"
       ],
       "isStarred": false,
       "questionPl": "Ilu sędziów Sądu Najwyższego zwykle potrzeba do rozstrzygnięcia sprawy?",
       "distractors": [
-        "Three (3)",
-        "Seven (7)",
-        "Nine (9)"
-      ]
+        "Three",
+        "Seven",
+        "Nine"
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 55,
@@ -850,7 +1012,10 @@
         "Four years",
         "Six years",
         "Ten years"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 56,
@@ -865,7 +1030,10 @@
         "So they can run for president",
         "So Congress cannot pass laws",
         "So governors cannot appoint judges"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 57,
@@ -879,7 +1047,10 @@
         "The Speaker of the House",
         "The Attorney General",
         "The Vice President"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "dynamic",
+      "reviewStatus": "pending"
     },
     {
       "id": 58,
@@ -898,7 +1069,10 @@
         "Issue state driver's licenses",
         "Choose state capitals",
         "Run city schools"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 59,
@@ -916,7 +1090,10 @@
         "Declare war on other states",
         "Print U.S. currency",
         "Make treaties with foreign countries"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 60,
@@ -930,7 +1107,10 @@
         "To abolish state governments",
         "To give all powers to Congress",
         "To limit freedom of speech"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 61,
@@ -944,7 +1124,10 @@
         "The president of your state",
         "Your U.S. senator",
         "The Chief Justice"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "dynamic",
+      "reviewStatus": "pending"
     },
     {
       "id": 62,
@@ -958,13 +1141,16 @@
         "Washington, D.C. for every state",
         "New York City for every state",
         "The state's largest city in every case"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "dynamic",
+      "reviewStatus": "pending"
     },
     {
       "id": 63,
       "question": "There are four amendments to the U.S. Constitution about who can vote. Describe one of them.",
       "acceptedAnswers": [
-        "Citizens eighteen (18) and older (can vote).",
+        "Citizens eighteen and older (can vote).",
         "You don't have to pay (a poll tax) to vote.",
         "Any citizen can vote. (Women and men can vote.)",
         "A male citizen of any race (can vote)."
@@ -975,7 +1161,10 @@
         "Only landowners may vote",
         "Only senators may vote",
         "Voting requires military service"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 64,
@@ -991,7 +1180,10 @@
         "All tourists",
         "Only elected officials",
         "Only federal employees"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 65,
@@ -1010,7 +1202,10 @@
         "The right to appoint senators",
         "The right to ignore all laws",
         "The right to veto federal bills"
-      ]
+      ],
+      "requiredAnswers": 3,
+      "answerMode": "multi",
+      "reviewStatus": "pending"
     },
     {
       "id": 66,
@@ -1025,7 +1220,10 @@
         "Only the president",
         "Only the Supreme Court",
         "Only state governors"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 67,
@@ -1044,7 +1242,10 @@
         "Promise to end elections",
         "Promise to obey only state laws",
         "Promise to reject the Constitution"
-      ]
+      ],
+      "requiredAnswers": 2,
+      "answerMode": "multi",
+      "reviewStatus": "pending"
     },
     {
       "id": 68,
@@ -1060,7 +1261,10 @@
         "By buying property",
         "By getting a driver's license",
         "By paying sales tax"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 69,
@@ -1083,7 +1287,10 @@
         "Appointing federal judges personally",
         "Issuing passports",
         "Declaring war independently"
-      ]
+      ],
+      "requiredAnswers": 2,
+      "answerMode": "multi",
+      "reviewStatus": "pending"
     },
     {
       "id": 70,
@@ -1102,7 +1309,10 @@
         "Refusing all jury service",
         "Ignoring elections",
         "Issuing federal laws"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 71,
@@ -1119,7 +1329,10 @@
         "Only to pay for elections",
         "Only to fund state parks",
         "Only to support political parties"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 72,
@@ -1135,7 +1348,10 @@
         "To register to vote",
         "To get a passport",
         "To receive a driver's license"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 73,
@@ -1153,7 +1369,10 @@
         "To join the U.S. Senate",
         "To become Supreme Court justices",
         "To vote in presidential elections"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 74,
@@ -1168,7 +1387,10 @@
         "Only European kings",
         "Only U.S. presidents",
         "Only British soldiers"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 75,
@@ -1183,7 +1405,10 @@
         "French nobles",
         "Roman senators",
         "Spanish governors"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 76,
@@ -1199,7 +1424,10 @@
         "War of 1812",
         "Civil War",
         "World War I"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 77,
@@ -1222,7 +1450,10 @@
         "Because Britain gave them voting rights",
         "Because the colonies wanted a king",
         "Because Britain ended all taxes"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 78,
@@ -1236,7 +1467,10 @@
         "George Washington",
         "Benjamin Franklin",
         "Abraham Lincoln"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 79,
@@ -1250,7 +1484,10 @@
         "July 4, 1787",
         "January 1, 1776",
         "September 17, 1787"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 80,
@@ -1269,7 +1506,10 @@
         "The attack on Pearl Harbor",
         "The moon landing",
         "The fall of the Berlin Wall"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 81,
@@ -1295,7 +1535,10 @@
         "California, Texas, Alaska, Hawaii, Arizona",
         "Florida, Ohio, Michigan, Illinois, Indiana",
         "Oregon, Washington, Nevada, Utah, Idaho"
-      ]
+      ],
+      "requiredAnswers": 5,
+      "answerMode": "multi",
+      "reviewStatus": "pending"
     },
     {
       "id": 82,
@@ -1309,7 +1552,10 @@
         "Bill of Rights",
         "Emancipation Proclamation",
         "Declaration of Independence"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 83,
@@ -1326,7 +1572,10 @@
         "Abraham Lincoln",
         "Thomas Edison",
         "Franklin D. Roosevelt"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 84,
@@ -1341,7 +1590,10 @@
         "They ended World War II",
         "They abolished Congress",
         "They established the Federal Reserve"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 85,
@@ -1359,7 +1611,10 @@
         "He was the first astronaut",
         "He led the Confederate army",
         "He was the 16th president"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 86,
@@ -1376,7 +1631,10 @@
         "He wrote the Emancipation Proclamation",
         "He was president during World War II",
         "He founded the United Nations"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 87,
@@ -1395,7 +1653,10 @@
         "He was the first Chief Justice",
         "He led the Union Army",
         "He invented the telephone"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 88,
@@ -1412,7 +1673,10 @@
         "He was president during the Civil War",
         "He wrote the Gettysburg Address",
         "He founded the Republican Party"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 89,
@@ -1430,7 +1694,10 @@
         "He was the first U.S. president",
         "He led the Confederate Army",
         "He invented the light bulb"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 90,
@@ -1445,7 +1712,10 @@
         "Alaska",
         "California",
         "Florida"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 91,
@@ -1462,7 +1732,10 @@
         "World War II",
         "Korean War",
         "Vietnam War"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 92,
@@ -1476,7 +1749,10 @@
         "Revolutionary War",
         "War of 1812",
         "Spanish-American War"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 93,
@@ -1497,7 +1773,10 @@
         "The moon landing",
         "The attack on Pearl Harbor",
         "The Boston Tea Party"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 94,
@@ -1515,7 +1794,10 @@
         "He was the first man on the moon",
         "He was president during World War I",
         "He wrote the Constitution"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 95,
@@ -1532,7 +1814,10 @@
         "It declared independence from Britain",
         "It created the Federal Reserve",
         "It granted women voting rights"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 96,
@@ -1546,7 +1831,10 @@
         "World War I",
         "Revolutionary War",
         "Korean War"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 97,
@@ -1560,7 +1848,10 @@
         "First Amendment",
         "Tenth Amendment",
         "Nineteenth Amendment"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 98,
@@ -1577,7 +1868,10 @@
         "1776",
         "1920",
         "1965"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 99,
@@ -1596,7 +1890,10 @@
         "Rosa Parks",
         "Eleanor Roosevelt",
         "Sandra Day O'Connor"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 100,
@@ -1614,7 +1911,10 @@
         "Revolutionary War",
         "Civil War",
         "War of 1812"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 101,
@@ -1630,7 +1930,10 @@
         "To fight in the American Revolution",
         "To purchase Louisiana",
         "To end the Cold War"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 102,
@@ -1646,7 +1949,10 @@
         "1865",
         "1776",
         "1965"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 103,
@@ -1660,13 +1966,16 @@
         "A period of rapid economic growth",
         "A military conflict with Britain",
         "A constitutional convention"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 104,
       "question": "When did the Great Depression start?",
       "acceptedAnswers": [
-        "The Great Crash (1929)",
+        "The Great Crash",
         "Stock market crash of 1929"
       ],
       "isStarred": false,
@@ -1675,7 +1984,10 @@
         "1776",
         "1861",
         "1945"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 105,
@@ -1689,7 +2001,10 @@
         "Abraham Lincoln",
         "George Washington",
         "Theodore Roosevelt"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 106,
@@ -1706,7 +2021,10 @@
         "To fight the Soviet Union",
         "To purchase Alaska",
         "To support the Confederacy"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 107,
@@ -1723,7 +2041,10 @@
         "He wrote the Declaration of Independence",
         "He led the Confederate army",
         "He was the first president"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 108,
@@ -1739,7 +2060,10 @@
         "Great Britain",
         "France",
         "Germany"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 109,
@@ -1754,7 +2078,10 @@
         "Expansion of the British Empire",
         "Independence from France",
         "Rebuilding the Confederacy"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 110,
@@ -1768,7 +2095,10 @@
         "To win independence from Britain",
         "To end World War II",
         "To annex Canada"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 111,
@@ -1782,7 +2112,10 @@
         "To fight the American Revolution",
         "To defend Britain in World War II",
         "To purchase Louisiana"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 112,
@@ -1796,7 +2129,10 @@
         "It created the Electoral College",
         "It established the Federal Reserve",
         "It ended World War I"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 113,
@@ -1812,7 +2148,10 @@
         "He wrote the U.S. Constitution",
         "He was president during the Civil War",
         "He invented the telephone"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 114,
@@ -1826,7 +2165,10 @@
         "To gain independence from Britain",
         "To end the Cold War",
         "To annex Canada"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 115,
@@ -1843,7 +2185,10 @@
         "A presidential election",
         "The signing of the Constitution",
         "The Louisiana Purchase"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 116,
@@ -1859,7 +2204,10 @@
         "The American Revolution",
         "The Civil War",
         "The War of 1812"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 117,
@@ -1897,7 +2245,10 @@
         "Only European countries",
         "Only U.S. presidents",
         "Only Supreme Court justices"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 118,
@@ -1917,7 +2268,10 @@
         "A European monarchy",
         "A state tax",
         "A U.S. holiday"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 119,
@@ -1931,7 +2285,10 @@
         "New York City",
         "Philadelphia",
         "Boston"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 120,
@@ -1946,7 +2303,10 @@
         "Washington, D.C.",
         "Los Angeles",
         "Chicago"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 121,
@@ -1961,7 +2321,10 @@
         "Because there were 13 presidents",
         "Because there are 13 courts",
         "Because there are 13 amendments"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 122,
@@ -1977,7 +2340,10 @@
         "Because there are 50 senators",
         "Because there are 50 counties",
         "Because there were 50 colonies"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 123,
@@ -1991,7 +2357,10 @@
         "America the Beautiful",
         "God Bless America",
         "My Country, 'Tis of Thee"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 124,
@@ -2006,7 +2375,10 @@
         "One Nation Under One President",
         "Liberty for the President",
         "The States Are Separate"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 125,
@@ -2021,7 +2393,10 @@
         "A holiday honoring veterans only",
         "A holiday for the Constitution's signing",
         "A holiday for the end of the Civil War"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 126,
@@ -2045,7 +2420,10 @@
         "Valentine's Day, Halloween, April Fools' Day",
         "Mother's Day, Father's Day, Groundhog Day",
         "Earth Day, Flag Day, Arbor Day"
-      ]
+      ],
+      "requiredAnswers": 3,
+      "answerMode": "multi",
+      "reviewStatus": "pending"
     },
     {
       "id": 127,
@@ -2059,7 +2437,10 @@
         "A holiday honoring all current politicians",
         "A holiday celebrating the Constitution",
         "A holiday celebrating the first president"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     },
     {
       "id": 128,
@@ -2074,7 +2455,10 @@
         "A holiday honoring only soldiers who died",
         "A holiday marking independence from Britain",
         "A holiday celebrating the first Congress"
-      ]
+      ],
+      "requiredAnswers": 1,
+      "answerMode": "single",
+      "reviewStatus": "pending"
     }
   ]
 }
