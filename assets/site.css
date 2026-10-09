@@ -216,3 +216,18 @@ footer.footer.zh-article-footer nav{display:flex;flex-wrap:wrap;gap:12px 20px;ma
 footer.footer.zh-article-footer nav a{font-size:14px;color:#737b79;text-decoration:none}
 footer.footer.zh-article-footer nav a:hover,footer.footer.zh-article-footer nav a:focus-visible{text-decoration:underline}
 footer.footer.zh-article-footer .zh-footer-copy{width:100%;border-top:1px solid #eceeed;margin-top:24px;padding-top:20px;font-size:13px;color:#929998}
+
+/* Canonical footer — exact homepage structure and visual language on every page. */
+footer.hb-footer{margin:0!important;padding:34px 0 24px!important;background:#fff!important;border-top:1px solid #eee7ea!important;color:#747d79!important;font-family:inherit}
+footer.hb-footer .hx-shell{width:min(100% - 48px,1160px);margin-inline:auto}
+footer.hb-footer .hbf-main{display:flex;justify-content:space-between;align-items:center;gap:24px}
+footer.hb-footer .hbf-brand{display:flex;align-items:center;gap:11px}
+footer.hb-footer .hbf-brand img{border-radius:50%;width:38px;height:38px}
+footer.hb-footer .hbf-brand div{display:flex;flex-direction:column}
+footer.hb-footer .hbf-brand strong{color:#ec5a8e;font-size:17px;line-height:1.4;font-weight:700}
+footer.hb-footer .hbf-brand span{color:#49685c;font-size:13px;font-weight:700}
+footer.hb-footer .hbf-main nav{display:flex;flex-wrap:wrap;gap:12px 20px;color:#747d79;font-size:13px}
+footer.hb-footer .hbf-main nav a{color:inherit;text-decoration:none}
+footer.hb-footer .hbf-main nav a:hover,footer.hb-footer .hbf-main nav a:focus-visible{text-decoration:underline}
+footer.hb-footer .hbf-copy{margin-top:22px;padding-top:16px;border-top:1px solid #f0ecee;color:#a19b9e;font-size:12px}
+@media(max-width:700px){footer.hb-footer .hbf-main{display:block}footer.hb-footer .hbf-main nav{margin-top:24px;gap:14px 20px}}
