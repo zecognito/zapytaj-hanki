@@ -4,8 +4,10 @@ let bank=[],state=null,recognizer=null,speaking=false;const $=id=>document.getEl
 const shuffle=a=>{const b=[...a];for(let i=b.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[b[i],b[j]]=[b[j],b[i]]}return b};
 const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(state))}catch(e){}};
 const stop=()=>{try{recognizer?.abort()}catch(e){}recognizer=null;try{speechSynthesis.cancel()}catch(e){}speaking=false};
+const numberWords={"zero":"0","one":"1","two":"2","three":"3","four":"4","five":"5","six":"6","seven":"7","eight":"8","nine":"9","ten":"10","eleven":"11","twelve":"12","thirteen":"13","fourteen":"14","fifteen":"15","sixteen":"16","seventeen":"17","eighteen":"18","nineteen":"19","twenty":"20","thirty":"30","forty":"40","fifty":"50","sixty":"60","seventy":"70","eighty":"80","ninety":"90"};
+const numberize=s=>s.replace(/\b(zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)\b/g,w=>numberWords[w]);
 const norm=s=>String(s||'').toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/\([^)]*\)/g,' ').replace(/\b(the|a|an|us|u s|united states of america)\b/g,' ').replace(/[^a-z0-9 ]/g,' ').replace(/\s+/g,' ').trim();
-const valid=(said,answer)=>{const a=norm(answer),s=norm(said);return !!s&&(s===a||s.split(' ').length>1&&a.length>=5&&s.includes(a))};
+const valid=(said,answer)=>{const a=numberize(norm(answer)),s=numberize(norm(said));return !!s&&(s===a||s.split(' ').length>1&&a.length>=5&&s.includes(a))};
 const qnow=()=>bank.find(q=>q.id===state.ids[state.index]);
 const voice=()=>{const list=speechSynthesis.getVoices();return list.find(v=>v.lang==='en-US'&&/natural|neural|premium|google|samantha/i.test(v.name))||list.find(v=>v.lang==='en-US')||list.find(v=>v.lang.startsWith('en'))};
 const say=txt=>{if(!('speechSynthesis'in window))return;try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(txt);u.lang='en-US';u.rate=.87;u.pitch=1;const v=voice();if(v)u.voice=v;speechSynthesis.speak(u)}catch(e){}};
