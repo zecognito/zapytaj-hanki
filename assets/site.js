@@ -261,3 +261,6 @@
   sheet.href = '/assets/hanka-charcoal-theme.css?v=20261012-v2';
   document.head.append(sheet);
 })();
+
+// Floating Hanka chat launcher v1
+(() => {const install=()=>{if(document.querySelector('.zh-chat-float'))return;const a=document.createElement('a');a.className='zh-chat-float';a.href='https://hanka.zapytajhanki.com/';a.setAttribute('aria-label','Porozmawiaj z Hanką AI');a.title='Zapytaj Hankę';const img=document.createElement('img');img.src='/hanka-favicon-usa.png';img.alt='';img.width=60;img.height=60;a.appendChild(img);document.body.appendChild(a)};if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',install,{once:true});else install()})();
