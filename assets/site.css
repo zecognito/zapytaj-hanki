@@ -428,3 +428,17 @@ footer.hb-footer .hbf-copy{margin-top:22px;padding-top:16px;border-top:1px solid
   body .topbar nav.zh-home-nav-test.is-open > a:last-child,
   body > nav.zh-home-nav-test.is-open > a:last-child {border-bottom:0!important}
 }
+
+/* Palcem po mapie: consistent charcoal theme for all 49 directory pages */
+html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body,html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-hero,html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-guides{background:#202124!important;background-image:none!important;color:#f7f7f8!important}
+html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-hero{border-bottom:1px solid #45484e!important}
+html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-hero h1,html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-guides h2,html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-guides .zh-card h2,html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-guides .zh-card h3{color:#f7f7f8!important;-webkit-text-fill-color:#f7f7f8!important;opacity:1!important;text-shadow:none!important}
+html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-hero .zh-lede,html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-hero p,html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-guides .zh-head p,html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-guides .zh-card p,html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-guides .zh-card address{color:#c4c6ca!important;opacity:1!important}
+html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-hero .zh-crumb{color:#c4c6ca!important}
+html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-hero .zh-crumb a,html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-hero .zh-eye,html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-guides .zh-eye{color:#ed5f91!important}
+html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-hero .zh-count{background:#292c30!important;border:1px solid #45484e!important;border-radius:8px!important;color:#f7f7f8!important;box-shadow:none!important}
+html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-guides .zh-card{background:#292c30!important;background-image:none!important;border:1px solid #45484e!important;border-radius:10px!important;box-shadow:none!important;color:#f7f7f8!important}
+html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-guides .zh-card .zh-tag{background:#3a2c34!important;color:#ff8db4!important;border-radius:6px!important}
+html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-guides .zh-card .zh-arrow,html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-guides .zh-card a:not(.zh-card){color:#ff8db4!important}
+html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-guides .zh-card:hover{border-color:#ed5f91!important}
+html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .hanka-footer,html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body footer.footer{background:#202124!important;color:#c4c6ca!important;border-top:1px solid #45484e!important}
