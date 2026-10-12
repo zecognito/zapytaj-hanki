@@ -147,3 +147,22 @@ color:#d7d9dc!important;text-decoration:none!important;
 }
 html body footer:not(.state-footer) a:hover{color:#f46a9e!important}
 html body footer:not(.state-footer) img{max-width:56px!important;height:auto!important}
+
+/* Mobile footer: all five legal/navigation links in one horizontal row. */
+@media(max-width:700px){
+html body footer:not(.state-footer) nav,
+html body footer:not(.state-footer) .footer-links,
+html body footer:not(.state-footer) .links{
+display:flex!important;flex-direction:row!important;flex-wrap:nowrap!important;
+justify-content:space-between!important;align-items:center!important;
+gap:4px!important;width:100%!important;max-width:100%!important;
+margin:12px 0!important;padding:0!important;
+}
+html body footer:not(.state-footer) nav a,
+html body footer:not(.state-footer) .footer-links a,
+html body footer:not(.state-footer) .links a{
+display:inline-block!important;flex:0 1 auto!important;white-space:nowrap!important;
+margin:0!important;padding:0!important;font-size:clamp(11px,3.05vw,14px)!important;
+letter-spacing:-.015em!important;line-height:1.4!important;
+}
+}
