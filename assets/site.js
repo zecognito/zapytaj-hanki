@@ -193,14 +193,14 @@
 
 /* State article navigation: portal the menu outside legacy positioned ancestors. */
 (() => {
-  const header = document.querySelector('header.site-header');
+  const header = document.querySelector('header.topbar');
   const nav = header?.querySelector('nav.zh-home-nav-test');
   if (!nav) return;
   const mobile = () => window.matchMedia('(max-width: 820px)').matches;
   const parent = nav.parentNode;
   const anchor = document.createComment('state guide nav original position');
   parent.insertBefore(anchor,nav);
-  const props = ['position','inset','left','right','top','width','max-width','min-width','transform','display','flex-direction','align-items','grid-template-columns','gap','margin','padding','border','border-radius','background','box-shadow','z-index','box-sizing','max-height','overflow-y','overflow-x'];
+  const props = ['color','font-size','font-weight','position','inset','left','right','top','width','max-width','min-width','transform','display','flex-direction','align-items','grid-template-columns','gap','margin','padding','border','border-radius','background','box-shadow','z-index','box-sizing','max-height','overflow-y','overflow-x'];
   const apply = () => {
     if (!mobile()) {
       if (nav.parentNode !== parent) parent.insertBefore(nav,anchor.nextSibling);
@@ -211,7 +211,7 @@
     const open = nav.classList.contains('is-open');
     const bottom = Math.max(0,Math.round(header.getBoundingClientRect().bottom));
     const values = {
-      position:'fixed',inset:'auto',left:'auto',right:'16px',top:bottom+'px',
+      color:'#fff','font-size':'16px','font-weight':'700',position:'fixed',inset:'auto',left:'auto',right:'16px',top:bottom+'px',
       width:'min(330px, calc(100vw - 32px))','max-width':'calc(100vw - 32px)',
       'min-width':'0',transform:'none',display:open?'flex':'none',
       'flex-direction':'column','align-items':'stretch','grid-template-columns':'none',
@@ -223,6 +223,9 @@
     };
     for(const [prop,value] of Object.entries(values)) nav.style.setProperty(prop,value,'important');
   };
+  const style = document.createElement('style');
+  style.textContent = '@media(max-width:820px){body>nav.zh-home-nav-test{visibility:visible!important;opacity:1!important}body>nav.zh-home-nav-test>a{display:flex!important;align-items:center!important;justify-content:space-between!important;position:relative!important;min-height:48px!important;padding:12px 12px!important;margin:0!important;width:100%!important;box-sizing:border-box!important;background:#292c30!important;color:#fff!important;border:0!important;border-bottom:1px solid #45484e!important;border-radius:0!important;text-decoration:none!important;font-weight:750!important;font-size:16px!important;transform:none!important}body>nav.zh-home-nav-test>a:before{content:none!important}body>nav.zh-home-nav-test>a:after{content:"→"!important;position:static!important;color:#ed5f91!important;background:none!important}body>nav.zh-home-nav-test>a.zh-all-topics{color:#ed5f91!important}}';
+  document.head.appendChild(style);
   new MutationObserver(apply).observe(nav,{attributes:true,attributeFilter:['class']});
   window.addEventListener('resize',apply,{passive:true});
   window.addEventListener('scroll',()=>{if(nav.classList.contains('is-open'))apply()},{passive:true});
