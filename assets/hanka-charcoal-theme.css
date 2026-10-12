@@ -47,3 +47,25 @@ body .search,body .search input{background:#292c30!important;color:#f5f5f6!impor
 body .search button,body .nav-cta{background:#f46a9e!important;color:#17191b!important;border-radius:0!important}
 body .reading-progress span{background:#f46a9e!important}
 @media(max-width:700px){body .article-head,body .answer,body .summary,body .warning,body .sources,body .guide-toc{border-radius:0!important}}
+
+/* State hubs: shared state-hero/state-main layout, including legacy inline color rules. */
+body .state-hero{background:#202225!important;background-image:none!important;border-bottom:1px solid #45484e!important;color:#f5f5f6!important}
+body .state-hero h1,body .state-main h2,body .state-main h3{color:#f5f5f6!important}
+body .state-hero .state-code{color:rgba(244,106,158,.10)!important}
+body .state-hero .state-kicker,body .state-main .section-number,body .state-main .mini{color:#f46a9e!important}
+body .state-hero .state-lead,body .state-main .state-intro>p{color:#bcbec2!important}
+body .state-main,body .state-main .shell{background:#151719!important;color:#e8e9ea!important}
+body .state-main .state-note{background:#292c30!important;background-image:none!important;border:1px solid #45484e!important;border-radius:0!important;color:#f5f5f6!important;box-shadow:none!important}
+body .state-main .state-note strong{color:#f5f5f6!important}
+body .state-main .state-note p{color:#d7d9dc!important}
+body .state-main .state-card,body .state-main .agency-grid,body .state-main .agency-grid>div,body .state-main .state-search,body .state-main .state-guides,body .state-main .state-guide{background:#292c30!important;background-image:none!important;border:1px solid #45484e!important;border-radius:0!important;box-shadow:none!important;color:#f5f5f6!important}
+body .state-main .state-card h3,body .state-main .agency-grid strong{color:#f5f5f6!important}
+body .state-main .state-card p,body .state-main .agency-grid span{color:#bcbec2!important}
+body .state-main .state-card b,body .state-main .state-card .mini{color:#f46a9e!important}
+body .state-main .mini{background:#34373b!important;border-radius:0!important}
+body .state-main .state-grid{gap:14px!important}
+body .state-main .state-card:hover{border-color:#f46a9e!important;box-shadow:none!important}
+body .state-main .state-intro{color:#f5f5f6!important}
+body .state-footer{background:#202225!important;border-top:1px solid #45484e!important;color:#bcbec2!important}
+body .state-footer strong{color:#f5f5f6!important}
+body .state-footer span{color:#bcbec2!important}
