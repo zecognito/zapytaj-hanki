@@ -388,9 +388,9 @@
       "isStarred": false,
       "questionPl": "Ilu senatorów jest w Senacie USA?",
       "distractors": [
-        "50",
-        "435",
-        "538"
+        "Fifty",
+        "Four hundred thirty-five",
+        "Five hundred thirty-eight"
       ],
       "requiredAnswers": 1,
       "answerMode": "single",
@@ -1845,9 +1845,9 @@
       "isStarred": false,
       "questionPl": "Która poprawka stanowi, że osoby urodzone lub naturalizowane w USA i podlegające ich jurysdykcji są obywatelami USA?",
       "distractors": [
-        "First Amendment",
-        "Tenth Amendment",
-        "Nineteenth Amendment"
+        "1st Amendment",
+        "10th Amendment",
+        "19th Amendment"
       ],
       "requiredAnswers": 1,
       "answerMode": "single",
@@ -1865,9 +1865,9 @@
       "isStarred": false,
       "questionPl": "Kiedy wszyscy mężczyźni uzyskali prawo głosu?",
       "distractors": [
-        "1776",
-        "1920",
-        "1965"
+        "Before the American Revolution",
+        "During the Great Depression",
+        "After World War II"
       ],
       "requiredAnswers": 1,
       "answerMode": "single",
@@ -1981,9 +1981,9 @@
       "isStarred": false,
       "questionPl": "Kiedy rozpoczął się Wielki Kryzys?",
       "distractors": [
-        "1776",
-        "1861",
-        "1945"
+        "The signing of the Declaration of Independence",
+        "The end of the Civil War",
+        "The end of World War II"
       ],
       "requiredAnswers": 1,
       "answerMode": "single",
