@@ -216,6 +216,6 @@
   }
   const sheet = document.createElement('link');
   sheet.rel = 'stylesheet';
-  sheet.href = '/assets/hanka-charcoal-theme.css?v=20261012-v1';
+  sheet.href = '/assets/hanka-charcoal-theme.css?v=20261012-v2';
   document.head.append(sheet);
 })();
