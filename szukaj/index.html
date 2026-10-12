@@ -1,5 +1,30 @@
 <!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Wyniki wyszukiwania | Zapytaj Hanki</title><meta name="robots" content="noindex,follow"><link rel="stylesheet" href="/assets/site.css"><style>
 body{background:#fffaf8;color:#16263f}.search-page{max-width:980px;margin:0 auto;padding:18px 20px 72px}.back{display:inline-flex;align-items:center;gap:6px;text-decoration:none;font-size:15px;font-weight:800;color:#315d43;margin:0 0 16px}.search-head{padding:20px 22px 18px;border:1px solid #f0dde3;border-radius:24px;background:linear-gradient(145deg,#fff,#fff6f8);box-shadow:0 12px 32px rgba(70,43,53,.06)}.eyebrow{font-size:11px;font-weight:900;letter-spacing:.12em;color:#d65383;text-transform:uppercase}.search-head h1{font-size:clamp(28px,5.8vw,42px);line-height:1.04;margin:6px 0 6px;letter-spacing:-.035em}.search-head>p{margin:0;color:#716a70;font-size:15px;line-height:1.5}.search-box{display:flex;gap:0;margin:20px 0 0;min-height:64px;padding:6px;border:1px solid #eadde1;border-radius:999px;background:#fff;box-shadow:0 12px 28px rgba(70,43,53,.08)}.search-box:focus-within{border-color:#e8cbd5;box-shadow:0 12px 30px rgba(70,43,53,.10)}.search-box input{flex:1;min-width:0;padding:13px 16px 13px 20px;border:0;background:transparent;font:inherit;font-size:16px;outline:none}.search-box input:focus{box-shadow:none}.search-box button{border:0;border-radius:999px;min-height:52px;min-width:116px;padding:0 24px;background:#ef5d91;color:#fff;font-size:16px;font-weight:850;box-shadow:none}.results-wrap{margin-top:28px}.count{color:#766f74;font-size:14px;font-weight:700;margin:0 3px 12px}.result{display:grid;grid-template-columns:46px 1fr auto;align-items:center;gap:14px;margin:10px 0;padding:16px;border:1px solid #eee3e6;border-radius:18px;background:#fff;text-decoration:none;color:inherit;box-shadow:0 5px 18px rgba(65,45,52,.04)}.result-icon{width:46px;height:46px;border-radius:14px;display:grid;place-items:center;background:#f7edf0;color:#315d43;font-size:20px}.result h2{font-size:17px;line-height:1.2;margin:0 0 5px;letter-spacing:-.01em}.result p{margin:0;color:#81777d;font-size:13px}.arrow{font-size:25px;color:#db668f}.result.directory{border-color:#cfe3d5;background:linear-gradient(135deg,#f2fbf4,#fffaf8);box-shadow:0 8px 24px rgba(49,93,67,.08)}.result.directory .result-icon{background:#315d43;color:#fff;font-size:21px}.result.directory h2{color:#315d43;font-size:18px}.result.directory .result-type{display:inline-block;margin-bottom:5px;color:#d65383;font-size:10px;font-weight:900;letter-spacing:.1em;text-transform:uppercase}.result.directory p{color:#617269}.result.directory .arrow{color:#315d43}.empty{padding:24px;border:1px solid #f0dde3;border-radius:20px;background:#fff;box-shadow:0 8px 24px rgba(83,48,59,.05)}@media(max-width:560px){.search-page{padding:14px 16px 60px}.back{font-size:14px;margin-bottom:12px}.search-head{padding:18px 18px 16px;border-radius:20px}.search-head h1{font-size:30px}.search-head>p{font-size:14px}.search-box{display:flex;min-height:56px;padding:5px;margin-top:15px;border-radius:999px}.search-box input{font-size:15px;padding:10px 10px 10px 14px}.search-box button{min-height:46px;min-width:96px;padding:0 16px;font-size:15px}.result{grid-template-columns:42px 1fr auto;padding:14px 13px;gap:11px}.result-icon{width:42px;height:42px}.result h2{font-size:16px}}
+
+/* Zapytaj Hanki dark search theme */
+html,body{background:#17181a!important;color:#f5f5f6!important;color-scheme:dark}
+.search-page{max-width:1050px;padding-top:34px}
+.back{color:#f17aa6!important;font-weight:750}
+.search-head{background:#292c30!important;border:1px solid #45484e!important;border-radius:14px!important;box-shadow:none!important;padding:28px!important}
+.eyebrow{color:#f17aa6!important}
+.search-head h1{color:#fff!important;letter-spacing:-.035em}
+.search-head>p{color:#c5c6ca!important}
+.search-box{background:#34373d!important;border:1px solid #555962!important;border-radius:10px!important;box-shadow:none!important}
+.search-box:focus-within{border-color:#f17aa6!important;box-shadow:0 0 0 2px #f17aa625!important}
+.search-box input{color:#fff!important;background:transparent!important}
+.search-box input::placeholder{color:#aeb0b6!important}
+.search-box button{background:#ed5f91!important;color:#191a1d!important;border-radius:8px!important;font-weight:800!important}
+.count{color:#bfc0c5!important}
+.result,.result.directory{background:#292c30!important;background-image:none!important;border:1px solid #45484e!important;border-radius:12px!important;box-shadow:none!important;color:#f7f7f8!important;transition:border-color .18s,transform .18s}
+.result:hover,.result:focus-visible{border-color:#ed5f91!important;transform:translateY(-1px)}
+.result-icon,.result.directory .result-icon{background:#3c3038!important;color:#f17aa6!important;border-radius:9px!important}
+.result h2,.result.directory h2{color:#f7f7f8!important}
+.result p,.result.directory p{color:#bfc0c5!important;overflow-wrap:anywhere}
+.result.directory .result-type{color:#f17aa6!important}
+.arrow,.result.directory .arrow{color:#f17aa6!important}
+.empty{background:#292c30!important;border:1px solid #45484e!important;border-radius:12px!important;box-shadow:none!important;color:#f7f7f8!important}
+.empty h2{color:#fff!important}.empty p{color:#c5c6ca!important}
+@media(max-width:560px){.search-page{padding:22px 16px 64px}.search-head{padding:22px 18px!important;border-radius:12px!important}.search-head h1{font-size:31px}.search-box{margin-top:20px}.search-box button{min-width:95px!important;padding:0 12px!important}.result{padding:15px 13px!important;grid-template-columns:42px minmax(0,1fr) 14px!important;gap:11px!important}.result h2{font-size:16px}.result p{font-size:12px}.arrow{font-size:23px}}
 </style><style id="search-square-home-v1">
 .search-box{min-height:58px!important;padding:5px!important;border-radius:10px!important;box-shadow:none!important}
 .search-box:focus-within{box-shadow:none!important}
