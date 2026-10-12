@@ -189,3 +189,33 @@
     if (event.target.closest('a[href^="#"]')) toc.open = false;
   });
 })();
+
+/* Charcoal site-wide rollout. Homepage and approved pilot already own their styles. */
+(() => {
+  const path = location.pathname.replace(/\/+/g, '/');
+  if (path === '/' || path === '/index.html' || path === '/pieniadze/credit-score/' || path === '/pieniadze/credit-score/index.html') return;
+  const header = document.querySelector('header.topbar,header.site-header');
+  if (!header) return;
+  const brand = header.querySelector('a.brand');
+  if (brand) {
+    brand.classList.add('zh-global-brand');
+    brand.setAttribute('aria-label', 'Zapytaj Hanki — strona główna');
+    brand.replaceChildren();
+    const title = document.createElement('span');
+    title.append('Zapytaj ');
+    const pink = document.createElement('b');
+    pink.append('Hanki');
+    const heart = document.createElement('span');
+    heart.textContent = '♥';
+    heart.setAttribute('aria-hidden','true');
+    pink.append(heart);
+    title.append(pink);
+    const tagline = document.createElement('small');
+    tagline.textContent = 'AMERYKA PO POLSKU';
+    brand.append(title,tagline);
+  }
+  const sheet = document.createElement('link');
+  sheet.rel = 'stylesheet';
+  sheet.href = '/assets/hanka-charcoal-theme.css?v=20261012-v1';
+  document.head.append(sheet);
+})();
