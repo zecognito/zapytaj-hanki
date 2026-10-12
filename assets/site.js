@@ -190,6 +190,35 @@
   });
 })();
 
+
+/* State guide dropdown: pin to viewport instead of legacy centered/translated nav. */
+(() => {
+  const header = document.querySelector('header.site-header');
+  const nav = header?.querySelector('nav.zh-home-nav-test');
+  if (!nav) return;
+  const apply = () => {
+    const open = nav.classList.contains('is-open');
+    if (!open || window.innerWidth > 820) {
+      for (const prop of ['position','left','right','top','width','max-width','min-width','transform','display','flex-direction','grid-template-columns','margin','border-radius','background','z-index','box-sizing']) nav.style.removeProperty(prop);
+      return;
+    }
+    const headerBottom = Math.round(header.getBoundingClientRect().bottom);
+    const values = {
+      position:'fixed',left:'auto',right:'16px',top:headerBottom+'px',
+      width:'min(330px, calc(100vw - 32px))', 'max-width':'calc(100vw - 32px)',
+      'min-width':'0',transform:'none',display:'flex','flex-direction':'column',
+      'grid-template-columns':'none',margin:'0','border-radius':'0',
+      background:'#292c30','z-index':'10000','box-sizing':'border-box'
+    };
+    for (const [prop,value] of Object.entries(values)) nav.style.setProperty(prop,value,'important');
+  };
+  const observer = new MutationObserver(apply);
+  observer.observe(nav,{attributes:true,attributeFilter:['class']});
+  window.addEventListener('resize',apply,{passive:true});
+  window.addEventListener('scroll',() => { if (nav.classList.contains('is-open')) apply(); },{passive:true});
+  apply();
+})();
+
 /* Charcoal site-wide rollout. Homepage and approved pilot already own their styles. */
 (() => {
   const path = location.pathname.replace(/\/+/g, '/');
