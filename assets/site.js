@@ -191,31 +191,41 @@
 })();
 
 
-/* State guide dropdown: pin to viewport instead of legacy centered/translated nav. */
+/* State article navigation: portal the menu outside legacy positioned ancestors. */
 (() => {
   const header = document.querySelector('header.site-header');
   const nav = header?.querySelector('nav.zh-home-nav-test');
   if (!nav) return;
+  const mobile = () => window.matchMedia('(max-width: 820px)').matches;
+  const parent = nav.parentNode;
+  const anchor = document.createComment('state guide nav original position');
+  parent.insertBefore(anchor,nav);
+  const props = ['position','inset','left','right','top','width','max-width','min-width','transform','display','flex-direction','align-items','grid-template-columns','gap','margin','padding','border','border-radius','background','box-shadow','z-index','box-sizing','max-height','overflow-y','overflow-x'];
   const apply = () => {
-    const open = nav.classList.contains('is-open');
-    if (!open || window.innerWidth > 820) {
-      for (const prop of ['position','left','right','top','width','max-width','min-width','transform','display','flex-direction','grid-template-columns','margin','border-radius','background','z-index','box-sizing']) nav.style.removeProperty(prop);
+    if (!mobile()) {
+      if (nav.parentNode !== parent) parent.insertBefore(nav,anchor.nextSibling);
+      for (const prop of props) nav.style.removeProperty(prop);
       return;
     }
-    const headerBottom = Math.round(header.getBoundingClientRect().bottom);
+    if (nav.parentNode !== document.body) document.body.appendChild(nav);
+    const open = nav.classList.contains('is-open');
+    const bottom = Math.max(0,Math.round(header.getBoundingClientRect().bottom));
     const values = {
-      position:'fixed',left:'auto',right:'16px',top:headerBottom+'px',
-      width:'min(330px, calc(100vw - 32px))', 'max-width':'calc(100vw - 32px)',
-      'min-width':'0',transform:'none',display:'flex','flex-direction':'column',
-      'grid-template-columns':'none',margin:'0','border-radius':'0',
-      background:'#292c30','z-index':'10000','box-sizing':'border-box'
+      position:'fixed',inset:'auto',left:'auto',right:'16px',top:bottom+'px',
+      width:'min(330px, calc(100vw - 32px))','max-width':'calc(100vw - 32px)',
+      'min-width':'0',transform:'none',display:open?'flex':'none',
+      'flex-direction':'column','align-items':'stretch','grid-template-columns':'none',
+      gap:'0',margin:'0',padding:'8px 14px',border:'1px solid #45484e',
+      'border-radius':'0',background:'#292c30','box-shadow':'0 18px 40px #0008',
+      'z-index':'2147483000','box-sizing':'border-box',
+      'max-height':Math.max(120,window.innerHeight-bottom-12)+'px',
+      'overflow-y':'auto','overflow-x':'hidden'
     };
-    for (const [prop,value] of Object.entries(values)) nav.style.setProperty(prop,value,'important');
+    for(const [prop,value] of Object.entries(values)) nav.style.setProperty(prop,value,'important');
   };
-  const observer = new MutationObserver(apply);
-  observer.observe(nav,{attributes:true,attributeFilter:['class']});
+  new MutationObserver(apply).observe(nav,{attributes:true,attributeFilter:['class']});
   window.addEventListener('resize',apply,{passive:true});
-  window.addEventListener('scroll',() => { if (nav.classList.contains('is-open')) apply(); },{passive:true});
+  window.addEventListener('scroll',()=>{if(nav.classList.contains('is-open'))apply()},{passive:true});
   apply();
 })();
 
