@@ -1976,14 +1976,15 @@
       "question": "When did the Great Depression start?",
       "acceptedAnswers": [
         "The Great Crash",
-        "Stock market crash of 1929"
+        "Stock market crash of 1929",
+        "1929"
       ],
       "isStarred": false,
       "questionPl": "Kiedy rozpoczął się Wielki Kryzys?",
       "distractors": [
-        "The signing of the Declaration of Independence",
-        "The end of the Civil War",
-        "The end of World War II"
+        "1945",
+        "1776",
+        "1861"
       ],
       "requiredAnswers": 1,
       "answerMode": "single",
