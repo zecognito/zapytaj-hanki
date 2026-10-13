@@ -1,3 +1,34 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "slug": "huragany-pazdziernik-2026-floryda-poludnie",
+      "title": "Huragany uderzyły w południe USA. Co robić, gdy znika prąd?",
+      "date": "2026-10-13",
+      "summary": "Huragany, zalane drogi i setki tysięcy domów bez prądu. Sprawdzamy, co naprawdę warto zrobić po przejściu burzy."
+    },
+    {
+      "slug": "ropa-powyzej-100-dolarow-ceny-paliwa-usa",
+      "title": "Ropa droga, a na stacji znowu nerwy. Dlaczego ceny paliwa nie chcą odpuścić?",
+      "date": "2026-10-13",
+      "summary": "Ropa utrzymuje się powyżej 100 dolarów. Wyjaśniamy, dlaczego nie oznacza to jednej ceny benzyny w całych USA."
+    },
+    {
+      "slug": "ai-gospodarka-imf-pazdziernik-2026",
+      "title": "Sztuczna inteligencja ciągnie gospodarkę. MFW ostrzega jednak przed rachunkiem",
+      "date": "2026-10-13",
+      "summary": "MFW wskazuje AI jako ważny motor wzrostu, ale ostrzega przed drogą ropą, długiem i rozczarowaniem inwestorów."
+    },
+    {
+      "slug": "centra-danych-ai-rachunki-za-prad",
+      "title": "Centrum danych za płotem? Boom na AI może dotknąć twojego rachunku za prąd",
+      "date": "2026-10-13",
+      "summary": "Centra danych przyciągają miliardy dolarów, ale mieszkańcy pytają o ceny energii i wpływ na okolicę."
+    },
+    {
+      "slug": "dzieci-chatboty-ai-bezpieczenstwo-2026",
+      "title": "Dziecko rozmawia z chatbotem jak z przyjacielem? Eksperci biją na alarm",
+      "date": "2026-10-13",
+      "summary": "AI staje się codziennym rozmówcą dzieci. Co rodzice powinni wiedzieć o prywatności, błędach i emocjonalnym przywiązaniu?"
+    }
+  ]
 }
