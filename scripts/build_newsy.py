@@ -21,12 +21,17 @@ def escape(value):
 def path(page):
     return "/newsy/" if page == 1 else f"/newsy/strona/{page}/"
 
+def polish_date(value):
+    year, month, day = map(int, value.split("-"))
+    months = ("stycznia", "lutego", "marca", "kwietnia", "maja", "czerwca", "lipca", "sierpnia", "września", "października", "listopada", "grudnia")
+    return f"{day} {months[month - 1]} {year}"
+
 def cards(items):
     output = []
     for item in items:
         image = ('<img class="news-card-image" src="' + escape(item["image"]) + '" alt="' + escape(item.get("alt", "")) + '" loading="lazy">') if item.get("image") else ""
         summary = '<p>' + escape(item["summary"]) + '</p>' if item.get("summary") else ""
-        output.append('<article class="news-card"><a class="news-card-link" href="/newsy/' + escape(item["slug"]) + '/">' + image + '<div class="news-card-date"><time datetime="' + escape(item["date"]) + '">' + escape(item["date"]) + '</time></div><h3>' + escape(item["title"]) + '</h3>' + summary + '<span class="news-read">Czytaj więcej →</span></a></article>')
+        output.append('<article class="news-card"><a class="news-card-link" href="/newsy/' + escape(item["slug"]) + '/">' + image + '<div class="news-card-date"><time datetime="' + escape(item["date"]) + '">' + escape(polish_date(item["date"])) + '</time></div><h3>' + escape(item["title"]) + '</h3>' + summary + '<span class="news-read">Czytaj więcej →</span></a></article>')
     return "".join(output)
 
 def main():
