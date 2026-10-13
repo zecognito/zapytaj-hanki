@@ -23,7 +23,8 @@ function loadMore(){if(loading)return;loading=true;const slice=items.slice(shown
 fetch('/newsy/articles.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('feed');return r.json()}).then(data=>{
 items=(Array.isArray(data.articles)?data.articles:[]).filter(x=>x&&safePath(x.slug)&&typeof x.title==='string'&&x.title.trim()&&/^\d{4}-\d{2}-\d{2}$/.test(x.date)&&(!x.image||safeImage(x.image))).sort((a,b)=>b.date.localeCompare(a.date)||a.slug.localeCompare(b.slug));
 if(!items.length){setStatus('Pierwsze wiadomości już wkrótce.');return}
-setStatus('');loadMore();
+shown=stream.querySelectorAll(':scope > .news-card').length;
+setStatus('');if(shown<items.length)loadMore();else more.hidden=true;
 if('IntersectionObserver'in window){const observer=new IntersectionObserver(entries=>{if(entries.some(e=>e.isIntersecting)&&!more.hidden)loadMore()},{rootMargin:'500px'});observer.observe(more)}
 }).catch(()=>setStatus('Nie udało się załadować wiadomości. Spróbuj ponownie później.'));
 more.addEventListener('click',loadMore);
