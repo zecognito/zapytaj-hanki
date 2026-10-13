@@ -4,31 +4,41 @@
       "slug": "huragany-pazdziernik-2026-floryda-poludnie",
       "title": "Huragany uderzyły w południe USA. Co robić, gdy znika prąd?",
       "date": "2026-10-13",
-      "summary": "Huragany, zalane drogi i setki tysięcy domów bez prądu. Sprawdzamy, co naprawdę warto zrobić po przejściu burzy."
+      "summary": "Huragany, zalane drogi i setki tysięcy domów bez prądu. Sprawdzamy, co naprawdę warto zrobić po przejściu burzy.",
+      "image": "/newsy/images/huragany-pazdziernik-2026-floryda-poludnie.jpg",
+      "alt": "Ilustracja redakcyjna: silny sztorm u wybrzeży Florydy"
     },
     {
       "slug": "ropa-powyzej-100-dolarow-ceny-paliwa-usa",
       "title": "Ropa droga, a na stacji znowu nerwy. Dlaczego ceny paliwa nie chcą odpuścić?",
       "date": "2026-10-13",
-      "summary": "Ropa utrzymuje się powyżej 100 dolarów. Wyjaśniamy, dlaczego nie oznacza to jednej ceny benzyny w całych USA."
+      "summary": "Ropa utrzymuje się powyżej 100 dolarów. Wyjaśniamy, dlaczego nie oznacza to jednej ceny benzyny w całych USA.",
+      "image": "/newsy/images/ropa-powyzej-100-dolarow-ceny-paliwa-usa.jpg",
+      "alt": "Ilustracja redakcyjna: tankowanie samochodu na amerykańskiej stacji paliw"
     },
     {
       "slug": "ai-gospodarka-imf-pazdziernik-2026",
       "title": "Sztuczna inteligencja ciągnie gospodarkę. MFW ostrzega jednak przed rachunkiem",
       "date": "2026-10-13",
-      "summary": "MFW wskazuje AI jako ważny motor wzrostu, ale ostrzega przed drogą ropą, długiem i rozczarowaniem inwestorów."
+      "summary": "MFW wskazuje AI jako ważny motor wzrostu, ale ostrzega przed drogą ropą, długiem i rozczarowaniem inwestorów.",
+      "image": "/newsy/images/ai-gospodarka-imf-pazdziernik-2026.jpg",
+      "alt": "Ilustracja redakcyjna: technicy montujący sprzęt serwerowy w fabryce"
     },
     {
       "slug": "centra-danych-ai-rachunki-za-prad",
       "title": "Centrum danych za płotem? Boom na AI może dotknąć twojego rachunku za prąd",
       "date": "2026-10-13",
-      "summary": "Centra danych przyciągają miliardy dolarów, ale mieszkańcy pytają o ceny energii i wpływ na okolicę."
+      "summary": "Centra danych przyciągają miliardy dolarów, ale mieszkańcy pytają o ceny energii i wpływ na okolicę.",
+      "image": "/newsy/images/centra-danych-ai-rachunki-za-prad.jpg",
+      "alt": "Ilustracja redakcyjna: centrum danych i linie energetyczne"
     },
     {
       "slug": "dzieci-chatboty-ai-bezpieczenstwo-2026",
       "title": "Dziecko rozmawia z chatbotem jak z przyjacielem? Eksperci biją na alarm",
       "date": "2026-10-13",
-      "summary": "AI staje się codziennym rozmówcą dzieci. Co rodzice powinni wiedzieć o prywatności, błędach i emocjonalnym przywiązaniu?"
+      "summary": "AI staje się codziennym rozmówcą dzieci. Co rodzice powinni wiedzieć o prywatności, błędach i emocjonalnym przywiązaniu?",
+      "image": "/newsy/images/dzieci-chatboty-ai-bezpieczenstwo-2026.jpg",
+      "alt": "Ilustracja redakcyjna: nastolatka korzystająca z laptopa w domu"
     }
   ]
 }
