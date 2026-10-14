@@ -43,3 +43,6 @@ Do not edit future sections ahead of schedule. Preserve current approved layout,
 
 - `a176013`: homepage original language control, search, card, and pill rules now use canonical dark variables rather than hardcoded white/gray.
 - `7987a44`: replaced an obsolete green `:root` palette in the homepage inline CSS with the approved charcoal values. Kept all later styles and layout untouched; homepage consolidation and visual verification remain pending.
+
+- `908f5a0`: replaced six old white first-block homepage surfaces (including body, guides, states, menu, mobile dropdown) in original selectors.
+- `cd7a5eb`: replaced six more original white/green homepage rules (legacy body/header, topic rail, answer card, hero note and bubble) in place. No additional stylesheet, no new selectors. Homepage still has 61 inline style blocks; do not mark complete before cascade consolidation and visual testing.
