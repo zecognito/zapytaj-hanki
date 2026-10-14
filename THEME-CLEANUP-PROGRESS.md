@@ -54,3 +54,5 @@ Do not edit future sections ahead of schedule. Preserve current approved layout,
 - `37735d3`: updated original homepage icon and input surfaces from hardcoded white to existing dark tokens. No new overrides. Homepage still pending consolidation of redundant style blocks and visual verification of latest commits.
 
 - `a62db1a` and `5cf36fe`: removed duplicate homepage `:root` declarations from legacy inline CSS while preserving component-specific variables and cascade order. The initial canonical root remains. No visual/layout selector modifications in this pass. Do not move to hubs until homepage cleanup verified.
+
+- `eb06f34`, `7d66da8`, `cdc595b`: removed repeated homepage `:root` palette values from later CSS blocks, retaining the two intentional border-color changes in their original cascade positions. No selector, markup, logo or image changes. Remaining work: safely simplify legacy selectors/style layers, then verify appearance before hubs.
