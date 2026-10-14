@@ -40,3 +40,6 @@ Do not edit future sections ahead of schedule. Preserve current approved layout,
 - `f70d602`: converted the ORIGINAL first homepage palette and header rules to charcoal so first paint does not start with the old white/cream palette. This is a first step, NOT completed homepage verification.
 - Current homepage references `/hanka-favicon-usa.png`, `/assets/a_clean_high_resolution_vector_cartoon_style_logo.png` (active header logo despite old filename), `/assets/hanka-hero.webp` and mobile variant (approved hero), and older `assets/zapytaj-hanki-hero.jpg` in CSS. Do NOT delete active logo/hero assets based on filename.
 - Still to do: consolidate remaining 61 style blocks, remove obsolete home-only white/green declarations safely, verify responsive appearance, header/footer/social icons, and ensure no regressions. Do not move to hubs until homepage completed.
+
+- `a176013`: homepage original language control, search, card, and pill rules now use canonical dark variables rather than hardcoded white/gray.
+- `7987a44`: replaced an obsolete green `:root` palette in the homepage inline CSS with the approved charcoal values. Kept all later styles and layout untouched; homepage consolidation and visual verification remain pending.
