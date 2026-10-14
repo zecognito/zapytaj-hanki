@@ -49,3 +49,6 @@ Do not edit future sections ahead of schedule. Preserve current approved layout,
 
 - `dc316a9`: normalized three additional obsolete light/green homepage `:root` palette declarations to approved charcoal values in place, preserving other named accent variables.
 - `13fd58e`: removed unnecessary `!important` flags from the late canonical homepage root colors. No new CSS rules added. User visually approved homepage appearance before this pass; these latest commits still require visual recheck.
+
+- `04e14fa`: updated original homepage language selector, pill hover, and card backgrounds to existing dark tokens.
+- `37735d3`: updated original homepage icon and input surfaces from hardcoded white to existing dark tokens. No new overrides. Homepage still pending consolidation of redundant style blocks and visual verification of latest commits.
