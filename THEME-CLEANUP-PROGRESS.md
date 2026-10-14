@@ -34,3 +34,9 @@ These first commits only correct some white-first surfaces. **They do not yet co
 4. Citizenship tests and result screens.
 5. State hubs and state articles LAST.
 Do not edit future sections ahead of schedule. Preserve current approved layout, logo, favicon, Hanka mascot, banners, and mobile behavior. Audit old logos/banners/assets and their live references before deleting anything; remove only confirmed unused legacy assets. Replace legacy white styling within each scheduled section without adding CSS override layers. Verify before advancing.
+
+## Homepage pass — started 2026-10-14
+- Homepage `index.html` has 61 inline `<style>` blocks, including obsolete light and green rules, plus a later approved charcoal layer. Do not blindly delete blocks: inspect dependencies and consolidate into original rules.
+- `f70d602`: converted the ORIGINAL first homepage palette and header rules to charcoal so first paint does not start with the old white/cream palette. This is a first step, NOT completed homepage verification.
+- Current homepage references `/hanka-favicon-usa.png`, `/assets/a_clean_high_resolution_vector_cartoon_style_logo.png` (active header logo despite old filename), `/assets/hanka-hero.webp` and mobile variant (approved hero), and older `assets/zapytaj-hanki-hero.jpg` in CSS. Do NOT delete active logo/hero assets based on filename.
+- Still to do: consolidate remaining 61 style blocks, remove obsolete home-only white/green declarations safely, verify responsive appearance, header/footer/social icons, and ensure no regressions. Do not move to hubs until homepage completed.
