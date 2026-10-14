@@ -56,3 +56,5 @@ Do not edit future sections ahead of schedule. Preserve current approved layout,
 - `a62db1a` and `5cf36fe`: removed duplicate homepage `:root` declarations from legacy inline CSS while preserving component-specific variables and cascade order. The initial canonical root remains. No visual/layout selector modifications in this pass. Do not move to hubs until homepage cleanup verified.
 
 - `eb06f34`, `7d66da8`, `cdc595b`: removed repeated homepage `:root` palette values from later CSS blocks, retaining the two intentional border-color changes in their original cascade positions. No selector, markup, logo or image changes. Remaining work: safely simplify legacy selectors/style layers, then verify appearance before hubs.
+
+- `5c16978`: deleted the entire obsolete `hanka-search-compact-v5` CSS block (all its mobile search properties are superseded by the adjacent v6 block with matching selectors, specificity, and breakpoint). Homepage inline style blocks reduced 61 → 60 without adding overrides. Visual recheck still needed.
