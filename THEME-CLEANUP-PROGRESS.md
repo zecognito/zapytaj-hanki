@@ -26,3 +26,11 @@
 
 ## Important
 These first commits only correct some white-first surfaces. **They do not yet complete the consolidation or remove the JS-injected theme.** Continue from this checkpoint, do not claim the job is finished.
+
+## LOCKED WORKFLOW — 2026-10-14
+1. Homepage and hubs first (including landing pages and directories).
+2. Topic-by-topic article cleanup, complete and verify each topic before the next.
+3. Calculators hub and tools.
+4. Citizenship tests and result screens.
+5. State hubs and state articles LAST.
+Do not edit future sections ahead of schedule. Preserve current approved layout, logo, favicon, Hanka mascot, banners, and mobile behavior. Audit old logos/banners/assets and their live references before deleting anything; remove only confirmed unused legacy assets. Replace legacy white styling within each scheduled section without adding CSS override layers. Verify before advancing.
