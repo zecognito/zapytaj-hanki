@@ -17,7 +17,7 @@
 - `f2170ab`: changed the existing `html` and `body` background rules in `assets/site.css` to #151719 (no new selectors).
 - `9e0690d`: changed the existing header, hero and canonical footer background rules in `assets/site.css` to charcoal (no new selectors).
 
-## Remaining — NOT DONE
+- `5f23a9f`: replaced the original shared root color variables and menu/search/card/guide light backgrounds directly in `assets/site.css`; no new CSS selectors or overrides.\n\n## Remaining — NOT DONE
 - Check shared stylesheet variables and component backgrounds; edit original rules in place rather than adding overrides.
 - Convert Michigan article master and other templates from white-first to charcoal-first while preserving their final computed appearance.
 - Move dark theme rules into canonical stylesheets by template, then remove the JavaScript stylesheet injection only when no template depends on it.
