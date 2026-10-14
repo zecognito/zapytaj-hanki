@@ -52,3 +52,5 @@ Do not edit future sections ahead of schedule. Preserve current approved layout,
 
 - `04e14fa`: updated original homepage language selector, pill hover, and card backgrounds to existing dark tokens.
 - `37735d3`: updated original homepage icon and input surfaces from hardcoded white to existing dark tokens. No new overrides. Homepage still pending consolidation of redundant style blocks and visual verification of latest commits.
+
+- `a62db1a` and `5cf36fe`: removed duplicate homepage `:root` declarations from legacy inline CSS while preserving component-specific variables and cascade order. The initial canonical root remains. No visual/layout selector modifications in this pass. Do not move to hubs until homepage cleanup verified.
