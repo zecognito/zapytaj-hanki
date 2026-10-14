@@ -46,3 +46,6 @@ Do not edit future sections ahead of schedule. Preserve current approved layout,
 
 - `908f5a0`: replaced six old white first-block homepage surfaces (including body, guides, states, menu, mobile dropdown) in original selectors.
 - `cd7a5eb`: replaced six more original white/green homepage rules (legacy body/header, topic rail, answer card, hero note and bubble) in place. No additional stylesheet, no new selectors. Homepage still has 61 inline style blocks; do not mark complete before cascade consolidation and visual testing.
+
+- `dc316a9`: normalized three additional obsolete light/green homepage `:root` palette declarations to approved charcoal values in place, preserving other named accent variables.
+- `13fd58e`: removed unnecessary `!important` flags from the late canonical homepage root colors. No new CSS rules added. User visually approved homepage appearance before this pass; these latest commits still require visual recheck.
