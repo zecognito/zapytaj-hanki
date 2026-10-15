@@ -116,6 +116,18 @@
   footer.innerHTML = '<div class="hx-shell"><div class="hbf-main"><div class="hbf-brand"><img src="/favicon.png" alt="" width="38" height="38"><div><strong>Zapytaj Hanki</strong><span>Ameryka po polsku.</span></div></div><nav aria-label="Stopka">' + nav + '</nav></div><div class="hbf-copy">© 2026 Zapytaj Hanki</div></div>';
 })();
 
+// Keep the ZH brand mark square in every footer; leave the Hanka chat avatar round.
+(() => {
+  const apply = () => {
+    document.querySelectorAll('footer .hbf-brand img, footer .zh-footer-brand img, footer .zh-footer-brand-text img').forEach(img => {
+      img.style.setProperty('border-radius', '0', 'important');
+      img.style.setProperty('clip-path', 'none', 'important');
+    });
+  };
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', apply, { once: true });
+  else apply();
+})();
+
 // Zapytaj Hanki favicon — use a new URL to bypass stale browser favicon caches.
 (() => {
   const href = '/favicon.png?v=zh-20261014';
