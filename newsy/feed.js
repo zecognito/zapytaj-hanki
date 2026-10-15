@@ -21,7 +21,7 @@ const read=document.createElement('span');read.className='news-read';read.textCo
 }
 function loadMore(){if(loading)return;loading=true;const slice=items.slice(shown,shown+pageSize);const frag=document.createDocumentFragment();slice.forEach(x=>frag.append(card(x)));stream.append(frag);shown+=slice.length;more.hidden=shown>=items.length;loading=false}
 fetch('/newsy/articles.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('feed');return r.json()}).then(data=>{
-items=(Array.isArray(data.articles)?data.articles:[]).filter(x=>x&&safePath(x.slug)&&typeof x.title==='string'&&x.title.trim()&&/^\d{4}-\d{2}-\d{2}$/.test(x.date)&&(!x.image||safeImage(x.image))).sort((a,b)=>b.date.localeCompare(a.date)||a.slug.localeCompare(b.slug));
+items=(Array.isArray(data.articles)?data.articles:[]).filter(x=>x&&safePath(x.slug)&&typeof x.title==='string'&&x.title.trim()&&/^\d{4}-\d{2}-\d{2}$/.test(x.date)&&(!x.image||safeImage(x.image))).sort((a,b)=>b.date.localeCompare(a.date));
 if(!items.length){setStatus('Pierwsze wiadomości już wkrótce.');return}
 shown=stream.querySelectorAll(':scope > .news-card').length;
 setStatus('');if(shown<items.length)loadMore();else more.hidden=true;
