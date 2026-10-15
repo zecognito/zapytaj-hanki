@@ -113,7 +113,7 @@
   if (!footer) return;
   const nav = '<a href="/o-nas/">O nas</a><a href="/kontakt/">Kontakt</a><a href="/zrodla/">Źródła</a><a href="/prywatnosc/">Prywatność</a><a href="/regulamin/">Regulamin</a>';
   footer.className = 'hb-footer';
-  footer.innerHTML = '<div class="hx-shell"><div class="hbf-main"><div class="hbf-brand"><img src="/hanka-favicon-usa.png" alt="" width="38" height="38"><div><strong>Zapytaj Hanki</strong><span>Ameryka po polsku.</span></div></div><nav aria-label="Stopka">' + nav + '</nav></div><div class="hbf-copy">© 2026 Zapytaj Hanki</div></div>';
+  footer.innerHTML = '<div class="hx-shell"><div class="hbf-main"><div class="hbf-brand"><img src="/favicon.png" alt="" width="38" height="38"><div><strong>Zapytaj Hanki</strong><span>Ameryka po polsku.</span></div></div><nav aria-label="Stopka">' + nav + '</nav></div><div class="hbf-copy">© 2026 Zapytaj Hanki</div></div>';
 })();
 
 // Zapytaj Hanki favicon — use a new URL to bypass stale browser favicon caches.
