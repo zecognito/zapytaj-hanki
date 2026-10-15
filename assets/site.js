@@ -118,7 +118,7 @@
 
 // Zapytaj Hanki favicon — use a new URL to bypass stale browser favicon caches.
 (() => {
-  const href = '/hanka-favicon.png';
+  const href = '/favicon.png?v=zh-20261014';
   let icon = document.querySelector('link[rel~="icon"]');
   if (!icon) {
     icon = document.createElement('link');
