@@ -222,7 +222,7 @@ footer.hb-footer{margin:0!important;padding:34px 0 24px!important;background:#20
 footer.hb-footer .hx-shell{width:min(100% - 48px,1160px);margin-inline:auto}
 footer.hb-footer .hbf-main{display:flex;justify-content:space-between;align-items:center;gap:24px}
 footer.hb-footer .hbf-brand{display:flex;align-items:center;gap:11px}
-footer.hb-footer .hbf-brand img{border-radius:50%;width:38px;height:38px}
+footer.hb-footer .hbf-brand img{border-radius:0;width:38px;height:38px}
 footer.hb-footer .hbf-brand div{display:flex;flex-direction:column}
 footer.hb-footer .hbf-brand strong{color:#ec5a8e;font-size:17px;line-height:1.4;font-weight:700}
 footer.hb-footer .hbf-brand span{color:#49685c;font-size:13px;font-weight:700}
