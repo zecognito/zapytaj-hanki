@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "ice-kamery-automatyczne-nagrywanie-interwencji",
+      "title": "ICE nie chce automatycznie włączać kamer podczas interwencji. Bo przecież po co nagrywać wszystko?",
+      "date": "2026-10-15",
+      "summary": "DHS odrzucił zalecenie automatycznego uruchamiania kamer ICE. Kontrolerzy chcieli nagrywania m.in. po wyciągnięciu broni.",
+      "image": "",
+      "alt": ""
+    },
+    {
       "slug": "medicare-2027-zapisy-koszty-lekow",
       "title": "Medicare 2027: zapisy ruszyły, a leki mogą kosztować więcej. No pięknie!",
       "date": "2026-10-15",
