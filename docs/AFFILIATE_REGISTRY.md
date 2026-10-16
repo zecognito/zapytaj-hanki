@@ -60,3 +60,7 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 - LIVE — link opublikowany i sprawdzony
 - PAUSE — tymczasowo wyłączony
 - REMOVE — usunąć / zastąpić
+
+| LIVE | /przepisy/buffalo-wings/ | oven-safe baking rack | User-selected Amazon product — ASIN not recorded | https://amzn.to/3We7WU1 | zapytajhanki-20 (user-provided Associates short link; destination tag not independently verified) | Przydatne akcesoria: Kratka do pieczenia | 2026-10-16 | Link supplied directly by site owner; published on main |
+| LIVE | /przepisy/buffalo-wings/ | instant-read meat thermometer | User-selected Amazon product — ASIN not recorded | https://amzn.to/4BqVdh8 | zapytajhanki-20 (user-provided Associates short link; destination tag not independently verified) | Przydatne akcesoria: Termometr kuchenny | 2026-10-16 | Link supplied directly by site owner; published on main |
+| LIVE | /przepisy/buffalo-wings/ | kitchen tongs | User-selected Amazon product — ASIN not recorded | https://amzn.to/4hRgNDK | zapytajhanki-20 (user-provided Associates short link; destination tag not independently verified) | Przydatne akcesoria: Szczypce kuchenne | 2026-10-16 | Link supplied directly by site owner; published on main |
