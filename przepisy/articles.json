@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "slug": "deep-fried-turkey",
+      "title": "Deep-Fried Turkey – indyk smażony w oleju na Thanksgiving",
+      "date": "2026-10-16",
+      "summary": "Chrupiący amerykański indyk krok po kroku. Temperatury, przyprawy i najważniejsze zasady bezpieczeństwa.",
+      "image": "/przepisy/images/deep-fried-turkey-thanksgiving.jpg",
+      "alt": "Deep-Fried Turkey na Thanksgiving",
+      "servings": "8–10 PORCJI"
+    },
+    {
+      "slug": "buffalo-wings",
+      "title": "Buffalo Wings — chrupiące skrzydełka po amerykańsku",
+      "date": "2026-10-16",
+      "summary": "Oryginalny smak amerykańskich barów w twojej kuchni. Pieczone skrzydełka i pikantny sos Buffalo.",
+      "image": "/przepisy/images/buffalo-wings-corrected.jpg",
+      "alt": "Chrupiące skrzydełka Buffalo Wings z sosem i warzywami",
+      "servings": "4 PORCJE"
+    }
+  ]
+}
