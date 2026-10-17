@@ -33,6 +33,12 @@
         .topbar .zh-guide-group[open]>summary::after{transform:rotate(180deg)}
         .topbar .zh-guide-links{display:grid;gap:2px;background:#292c30;border:1px solid #45484d;padding:8px;z-index:600}
         .topbar .zh-guide-links>a{display:block;color:#f5f5f6;text-decoration:none;padding:10px 12px;font-size:14px;font-weight:650}
+        /* Article pages have a legacy nav grid: force the guide links into a vertical submenu. */
+        body .topbar nav.zh-unified-nav .zh-guide-links{display:flex!important;flex-direction:column!important;flex-wrap:nowrap!important;align-items:stretch!important;justify-content:flex-start!important;gap:0!important}
+        body .topbar nav.zh-unified-nav .zh-guide-links>a{display:block!important;position:static!important;float:none!important;flex:0 0 auto!important;width:100%!important;max-width:100%!important;box-sizing:border-box!important;white-space:normal!important;line-height:1.35!important;margin:0!important;text-align:left!important}
+        body .topbar nav.zh-unified-nav .zh-guide-links>a::before,body .topbar nav.zh-unified-nav .zh-guide-links>a::after{content:none!important;display:none!important}
+        body .topbar nav.zh-unified-nav .zh-guide-group>summary{white-space:normal!important}
+
         .topbar .zh-guide-links>a:hover,.topbar .zh-guide-links>a:focus-visible{background:#393d42;color:#f078a8}
         @media(min-width:821px){.topbar .zh-guide-links{position:absolute;top:100%;left:0;min-width:240px;max-height:65vh;overflow-y:auto;box-shadow:0 16px 35px #0005}}
         @media(max-width:820px){
