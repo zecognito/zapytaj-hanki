@@ -12,7 +12,7 @@
   const excluded = new Set(['szukaj', 'kalkulatory']);
   if (excluded.has(path[0])) return;
   const isHub = path.length === 1;
-  const isArticle = path.length >= 2 && !!document.querySelector('main.article');
+  const isArticle = path.length >= 2 && (!!document.querySelector('main.article') || ['narzedzia', 'palcem-po-mapie', 'testy'].includes(path[0]));
   if (!isHub && !isArticle) return;
   const parent = '/' + path[0] + '/';
   const names = {
@@ -22,7 +22,7 @@
     'california':'Kalifornia','new-york':'Nowy Jork','pennsylvania':'Pensylwania',
     'wisconsin':'Wisconsin','indiana':'Indiana','michigan':'Michigan',
     'ohio':'Ohio','florida':'Floryda','texas':'Teksas',
-    'palcem-po-mapie':'Palcem po mapie'
+    'palcem-po-mapie':'Palcem po mapie','narzedzia':'Narzędzi Hanki','testy':'Testów obywatelskich'
   };
   const back = document.createElement('a');
   back.className = 'zh-hierarchy-back';
