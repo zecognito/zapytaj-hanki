@@ -9,7 +9,7 @@
   const nav = header?.querySelector('nav#siteNav');
   const button = header?.querySelector('button.menu');
   if (!header || !nav || !button) return;
-  const excluded = new Set(['szukaj', 'testy', 'narzedzia', 'kalkulatory']);
+  const excluded = new Set(['szukaj', 'kalkulatory']);
   if (excluded.has(path[0])) return;
   const isHub = path.length === 1;
   const isArticle = path.length >= 2 && !!document.querySelector('main.article');
