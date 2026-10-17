@@ -1,4 +1,30 @@
 
+// Match the existing directory notices to the dark theme without CSS overrides.
+(() => {
+  if (!location.pathname.startsWith('/palcem-po-mapie/')) return;
+  const updateNotices = () => {
+    document.querySelectorAll('div[style*="background:#fffaf8"]').forEach(notice => {
+      if (!notice.textContent.trim().startsWith('Ważne:')) return;
+      notice.style.background = '#292b30';
+      notice.style.borderColor = '#44464d';
+      notice.style.color = '#c9cbd1';
+      notice.style.borderRadius = '12px';
+      const heading = notice.querySelector('strong');
+      if (heading) heading.style.color = '#f078a8';
+      if (location.pathname.includes('/polskie-parafie/')) {
+        const outdated = 'adres, godziny otwarcia i oferta mogą się zmieniać. Przed wizytą sprawdź aktualne informacje bezpośrednio na stronie sklepu lub w jego bieżących kanałach informacyjnych.';
+        if (notice.textContent.includes(outdated)) {
+          const textNode = [...notice.childNodes].find(n => n.nodeType === 3 && n.textContent.includes(outdated));
+          if (textNode) textNode.textContent = textNode.textContent.replace(outdated, 'godziny Mszy Świętych i informacje parafialne mogą się zmieniać. Przed wizytą sprawdź aktualny porządek nabożeństw na oficjalnej stronie parafii.');
+        }
+      }
+    });
+  };
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', updateNotices, {once:true});
+  else updateNotices();
+})();
+
+
 // Simple hierarchy navigation: homepage keeps the full menu; hubs go home;
 // guides return to their parent hub. News and recipe article templates
 // already provide their own back links and do not load this script.
