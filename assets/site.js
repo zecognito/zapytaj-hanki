@@ -1,3 +1,43 @@
+
+// Simple hierarchy navigation: homepage keeps the full menu; hubs go home;
+// guides return to their parent hub. News and recipe article templates
+// already provide their own back links and do not load this script.
+(() => {
+  const path = location.pathname.split('/').filter(Boolean);
+  if (path.length === 0) return;
+  const header = document.querySelector('body > header.topbar');
+  const nav = header?.querySelector('nav#siteNav');
+  const button = header?.querySelector('button.menu');
+  if (!header || !nav || !button) return;
+  const excluded = new Set(['szukaj', 'testy', 'narzedzia', 'kalkulatory']);
+  if (excluded.has(path[0])) return;
+  const isHub = path.length === 1;
+  const isArticle = path.length >= 2 && !!document.querySelector('main.article');
+  if (!isHub && !isArticle) return;
+  const parent = '/' + path[0] + '/';
+  const names = {
+    'pieniadze':'Pieniądze','dom':'Dom','samochod':'Samochód',
+    'praca':'Praca','zdrowie':'Zdrowie','dzieci-i-rodzina':'Dzieci i rodzina',
+    'emerytura':'Emerytura','podatki':'Podatki','illinois':'Illinois',
+    'california':'Kalifornia','new-york':'Nowy Jork','pennsylvania':'Pensylwania',
+    'wisconsin':'Wisconsin','indiana':'Indiana','michigan':'Michigan',
+    'ohio':'Ohio','florida':'Floryda','texas':'Teksas',
+    'palcem-po-mapie':'Palcem po mapie'
+  };
+  const back = document.createElement('a');
+  back.className = 'zh-hierarchy-back';
+  back.href = isHub ? '/' : parent;
+  back.textContent = isHub ? '← Wróć do strony głównej' : '← Wróć do ' + (names[path[0]] || path[0].replace(/-/g, ' '));
+  back.setAttribute('aria-label', back.textContent);
+  const css = document.createElement('style');
+  css.textContent = '.topbar .zh-hierarchy-back{display:inline-flex!important;align-items:center!important;margin-left:auto!important;padding:9px 0!important;color:#f078a8!important;text-decoration:none!important;font-size:14px!important;font-weight:650!important;line-height:1.3!important;white-space:nowrap!important;background:none!important;border:0!important}.topbar .zh-hierarchy-back:hover,.topbar .zh-hierarchy-back:focus-visible{text-decoration:underline!important}@media(max-width:640px){.topbar .zh-hierarchy-back{font-size:12px!important;white-space:normal!important;text-align:right!important;max-width:45%!important}}';
+  document.head.appendChild(css);
+  nav.remove();
+  button.remove();
+  const bar = header.querySelector('.shell.nav');
+  if (bar) bar.appendChild(back);
+})();
+
 (() => {
   const button = document.querySelector('.menu');
   const nav = document.querySelector('.links');
