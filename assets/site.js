@@ -3,59 +3,8 @@
   const nav = document.querySelector('.links');
   if (!button || !nav) return;
 
-  // Group existing topic links without replacing the proven hamburger/menu system.
-  if (!nav.querySelector('.zh-guide-group')) {
-    const links = Array.from(nav.children).filter(el => el.tagName === 'A');
-    if (links.length) {
-      const group = document.createElement('details');
-      group.className = 'zh-guide-group';
-      const summary = document.createElement('summary');
-      summary.textContent = 'Poradniki';
-      summary.setAttribute('aria-label', 'Rozwiń poradniki');
-      const inner = document.createElement('div');
-      inner.className = 'zh-guide-links';
-      links.forEach(link => inner.appendChild(link));
-      group.append(summary, inner);
-      nav.append(group);
-      for (const [label, href] of [['Przepisy', '/przepisy/'], ['Newsy', '/newsy/']]) {
-        const a = document.createElement('a');
-        a.href = href;
-        a.textContent = label;
-        nav.appendChild(a);
-      }
-      const style = document.createElement('style');
-      style.id = 'zh-guide-nav-style';
-      style.textContent = `
-        .topbar .zh-guide-group{position:relative;min-width:0}
-        .topbar .zh-guide-group>summary{display:flex;align-items:center;justify-content:space-between;gap:14px;cursor:pointer;list-style:none;color:inherit;font:inherit;font-weight:inherit;padding:inherit}
-        .topbar .zh-guide-group>summary::-webkit-details-marker{display:none}
-        .topbar .zh-guide-group>summary::after{content:'⌄';font-size:18px;line-height:1}
-        .topbar .zh-guide-group[open]>summary::after{transform:rotate(180deg)}
-        .topbar .zh-guide-links{display:grid;gap:2px;background:#292c30;border:1px solid #45484d;padding:8px;z-index:600}
-        .topbar .zh-guide-links>a{display:block;color:#f5f5f6;text-decoration:none;padding:10px 12px;font-size:14px;font-weight:650}
-        /* Article pages have a legacy nav grid: force the guide links into a vertical submenu. */
-        body .topbar nav.zh-unified-nav .zh-guide-links{display:flex!important;flex-direction:column!important;flex-wrap:nowrap!important;align-items:stretch!important;justify-content:flex-start!important;gap:0!important}
-        body .topbar nav.zh-unified-nav .zh-guide-links>a{display:block!important;position:static!important;float:none!important;flex:0 0 auto!important;width:100%!important;max-width:100%!important;box-sizing:border-box!important;white-space:normal!important;line-height:1.35!important;margin:0!important;text-align:left!important}
-        body .topbar nav.zh-unified-nav .zh-guide-links>a::before,body .topbar nav.zh-unified-nav .zh-guide-links>a::after{content:none!important;display:none!important}
-        body .topbar nav.zh-unified-nav .zh-guide-group>summary{white-space:normal!important}
-
-        .topbar .zh-guide-links>a:hover,.topbar .zh-guide-links>a:focus-visible{background:#393d42;color:#f078a8}
-        @media(min-width:821px){.topbar .zh-guide-links{position:absolute;top:100%;left:0;min-width:240px;max-height:65vh;overflow-y:auto;box-shadow:0 16px 35px #0005}}
-        @media(max-width:820px){
-          .topbar .links.is-open .zh-guide-group{grid-column:1/-1;display:block;width:100%}
-          .topbar .links.is-open .zh-guide-group>summary{display:flex!important;align-items:center!important;min-height:52px!important;padding:10px 13px!important;background:#303338!important;color:#fff!important;border:1px solid #45484d!important;font-size:15px!important;font-weight:800!important}
-          .topbar .links.is-open .zh-guide-links{position:static;box-shadow:none;max-height:none;overflow:visible;margin-top:4px;padding:5px}
-          .topbar .links.is-open .zh-guide-links>a{display:block!important;min-height:42px!important;padding:10px 12px!important;background:transparent!important;border:0!important;color:#f5f5f6!important;font-size:14px!important}
-        }
-      `;
-      document.head.appendChild(style);
-    }
-  }
-
   const close = () => {
     nav.classList.remove('is-open');
-    const guideGroup = nav.querySelector('.zh-guide-group');
-    if (guideGroup) guideGroup.open = false;
     button.setAttribute('aria-expanded', 'false');
     button.textContent = 'Menu';
   };
