@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "slug": "pumpkin-cheesecake-sernik-dyniowy",
+      "title": "Pumpkin Cheesecake – amerykański sernik dyniowy z Philadelphia",
+      "date": "2026-10-19",
+      "summary": "Kremowy deser na Thanksgiving: kompletna lista zakupów i 15 kroków z wyjaśnieniami.",
+      "image": "/przepisy/images/pumpkin-cheesecake-sernik-dyniowy.jpg",
+      "alt": "Pumpkin Cheesecake – amerykański sernik dyniowy z Philadelphia",
+      "servings": "12 KAWAŁKÓW"
+    },
+    {
       "slug": "deep-fried-turkey",
       "title": "Deep-Fried Turkey – indyk smażony w głębokim oleju na Thanksgiving",
       "date": "2026-10-16",
