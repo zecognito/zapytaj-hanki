@@ -14,6 +14,7 @@ Centralny rejestr linków afiliacyjnych. Nie zastępuje raportów Amazon Associa
 ## Rejestr
 | Status | Strona | Cel produktu | Produkt / ASIN | Docelowy URL Amazon | Tag | Umiejscowienie | Data sprawdzenia | Uwagi |
 |---|---|---|---|---|---|---|---|---|
+| LIVE | /poradniki/co-warto-miec-w-samochodzie-usa/ | portable jump starter | ASIN B0a6BWJRK (from provided URL; product unverified) | https://link.amazon/B0a6BWJRK | zapytajhanki-20 (user-confirmed source) | Sekcja 1: jump starter, naturalny link w akapicie | 2026-10-22 | Link dostarczony przez użytkownika z konta Associates; przekierowanie i końcowy tag niezweryfikowane |
 | LIVE | /halloween/pumpkin-carving/ | pumpkin carving kit | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4e0qqgN | zapytajhanki-20 | Sekcja 3: „Co przygotować przed rozpoczęciem?” | 2026-09-27 | Pierwszy link afiliacyjny Hanki; wygenerowany przez Amazon Mobile GetLink |
 | LIVE | /samochod/roadside-assistance/ | portable jump starter | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4iRVaUO | zapytajhanki-20 | Po sekcji „Plan może obejmować” | 2026-09-27 | Link wygenerowany przez Amazon Mobile GetLink |
 | LIVE | /samochod/roadside-assistance/ | portable tire inflator | Mobile GetLink — ASIN do uzupełnienia | https://amzn.to/4xSak06 | zapytajhanki-20 | Sekcja „Flat tire” | 2026-09-27 | Drugi produkt na stronie; afiliacja oznaczona przy linku |
