@@ -9,5 +9,8 @@
       "database_name": "hanki-recipe-ratings",
       "database_id": "a630c62f-ce48-4230-a146-5e1e800e531c"
     }
-  ]
+  ],
+  "observability": {
+    "enabled": true
+  }
 }
