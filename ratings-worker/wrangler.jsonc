@@ -1,0 +1,13 @@
+{
+  "name": "hanki-recipe-ratings",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-24",
+  "workers_dev": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "hanki-recipe-ratings",
+      "database_id": "a630c62f-ce48-4230-a146-5e1e800e531c"
+    }
+  ]
+}
