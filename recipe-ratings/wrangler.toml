@@ -1,0 +1,9 @@
+name = "hanki-recipe-ratings"
+main = "worker.js"
+compatibility_date = "2026-10-24"
+
+# After creating D1, paste its database_id below and uncomment:
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "hanki-recipe-ratings"
+# database_id = "YOUR_D1_DATABASE_ID"
