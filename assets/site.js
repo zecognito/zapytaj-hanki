@@ -35,7 +35,7 @@
   const nav = header?.querySelector('nav#siteNav');
   const button = header?.querySelector('button.menu');
   if (!header || !nav || !button) return;
-  const excluded = new Set(['szukaj', 'kalkulatory']);
+  const excluded = new Set(['szukaj', 'kalkulatory', 'polska-po-amerykansku']);
   if (excluded.has(path[0])) return;
   const isHub = path.length === 1;
   const isArticle = path.length >= 2 && (!!document.querySelector('main.article') || ['narzedzia', 'palcem-po-mapie', 'testy'].includes(path[0]));
