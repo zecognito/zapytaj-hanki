@@ -1,4 +1,4 @@
-const ALLOWED = new Set(["buffalo-wings","deep-fried-turkey","pumpkin-cheesecake-sernik-dyniowy","halloween-mummy-hot-dogs","rice-krispies-treats","halloween-punch","apple-cider"]);
+const ALLOWED = new Set(["buffalo-wings","deep-fried-turkey","pumpkin-cheesecake-sernik-dyniowy","halloween-mummy-hot-dogs","rice-krispies-treats","halloween-punch","apple-cider","popcorn-balls"]);
 const ORIGIN = "https://zapytajhanki.com";
 function cors(origin) { return {"Access-Control-Allow-Origin":origin===ORIGIN?ORIGIN:"null","Access-Control-Allow-Methods":"GET,POST,OPTIONS","Access-Control-Allow-Headers":"Content-Type","Vary":"Origin"}; }
 function json(data,status=200,origin="") {return new Response(JSON.stringify(data),{status,headers:{"Content-Type":"application/json; charset=utf-8","Cache-Control":"no-store",...cors(origin)}});}
