@@ -1,6 +1,25 @@
 {
   "articles": [
     {
+      "slug": "rice-krispies-treats",
+      "url": "/halloween/rice-krispies-treats/",
+      "title": "Rice Krispies Treats na Halloween – chrupiące mumie z marshmallows",
+      "date": "2026-10-26",
+      "summary": "Amerykańskie batoniki z płatków ryżowych i marshmallows udekorowane jak halloweenowe mumie.",
+      "image": "/przepisy/images/rice-krispies-treats-halloween-2026-1.jpg",
+      "alt": "Halloweenowe Rice Krispies Treats ozdobione jak mumie",
+      "servings": "12–16 KAWAŁKÓW"
+    },
+    {
+      "slug": "halloween-mummy-hot-dogs",
+      "title": "Halloween Mummy Hot Dogs – parówki mumie na Halloween",
+      "date": "2026-10-25",
+      "summary": "Prosta halloweenowa przekąska z parówek i ciasta, gotowa w około 25 minut.",
+      "image": "/przepisy/images/halloween-mummy-hot-dogs.jpg",
+      "alt": "Parówki mumie owinięte złocistym ciastem na halloweenowym półmisku",
+      "servings": "8 MUMII"
+    },
+    {
       "slug": "pumpkin-cheesecake-sernik-dyniowy",
       "title": "Pumpkin Cheesecake – amerykański sernik dyniowy z Philadelphia",
       "date": "2026-10-19",
