@@ -1,4 +1,3 @@
-const ALLOWED = new Set(["buffalo-wings","deep-fried-turkey","pumpkin-cheesecake-sernik-dyniowy","halloween-mummy-hot-dogs","rice-krispies-treats","halloween-punch","apple-cider","popcorn-balls","sugar-cookies","caramel-apples","roasted-pumpkin-seeds","pumpkin-pie"]);
 // Recipe allowlist includes the latest Halloween migrations, including pumpkin-pie.
 const ORIGIN = "https://zapytajhanki.com";
 function cors(origin) { return {"Access-Control-Allow-Origin":origin===ORIGIN?ORIGIN:"null","Access-Control-Allow-Methods":"GET,POST,OPTIONS","Access-Control-Allow-Headers":"Content-Type","Vary":"Origin"}; }
@@ -20,7 +19,9 @@ export default {async fetch(request,env){
    try {payload=await request.json();}catch{return json({error:"Invalid JSON"},400,origin);}
    slug=payload?.slug;
  }
- if(!ALLOWED.has(slug))return json({error:"Unknown recipe"},400,origin);
+ if(typeof slug!=="string" || !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug) || slug.length>100)return json({error:"Invalid recipe slug"},400,origin);
+ // Recipe slugs are validated by format rather than a manually maintained allowlist.
+ // New published recipes can receive ratings without a Worker code change.
  try{
    if(request.method==="POST"){
      const rating=payload?.rating;
