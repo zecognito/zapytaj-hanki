@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "slug": "halloween-punch",
+      "title": "Halloween Punch – bezalkoholowy napój na Halloween party",
+      "date": "2026-10-26",
+      "summary": "Bezalkoholowy, pomarańczowy punch na Halloween party — prosty przepis z soków, lemon-lime soda i sherbet.",
+      "image": "/przepisy/images/halloween-punch-bezalkoholowy-2026-1.jpg",
+      "alt": "Halloween punch w szklanej misie z pomarańczami",
+      "servings": "12 PORCJI",
+      "url": "/halloween/halloween-punch/"
+    },
+    {
       "slug": "pumpkin-cheesecake-sernik-dyniowy",
       "title": "Pumpkin Cheesecake – amerykański sernik dyniowy z Philadelphia",
       "date": "2026-10-19",
