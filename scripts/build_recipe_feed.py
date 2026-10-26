@@ -9,7 +9,7 @@ from urllib.parse import urlparse
 
 root = Path(__file__).resolve().parents[1]
 recipes = []
-for page in sorted((root / "przepisy").glob("*/index.html")):
+for page in sorted([*(root / "przepisy").glob("*/index.html"), *(root / "halloween").glob("*/index.html")]):
     html = page.read_text(encoding="utf-8")
     slug = page.parent.name
     if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", slug):
@@ -39,7 +39,7 @@ for page in sorted((root / "przepisy").glob("*/index.html")):
     dates = subprocess.run(["git", "log", "--diff-filter=A", "--format=%cs", "--", str(page.relative_to(root))], cwd=root, capture_output=True, text=True, check=True).stdout.splitlines()
     date = dates[-1] if dates else "2026-10-16"
     servings = str(data.get("recipeYield", "")).upper()
-    recipes.append({"slug": slug, "title": title, "date": date, "summary": summary, "image": image, "alt": title, "servings": servings})
+    recipes.append({"slug": slug, "url": "/" + str(page.parent.relative_to(root)).replace("\\", "/") + "/", "title": title, "date": date, "summary": summary, "image": image, "alt": title, "servings": servings})
 recipes.sort(key=lambda r: (r["date"], r["slug"]), reverse=True)
 (root / "przepisy" / "articles.json").write_text(json.dumps({"articles": recipes}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 print(f"Generated {len(recipes)} recipes")
