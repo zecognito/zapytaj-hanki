@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "slug": "halloween-party",
+      "url": "/halloween/halloween-party/",
+      "title": "Halloween Party w USA – jak zorganizować imprezę krok po kroku?",
+      "date": "2026-10-26",
+      "summary": "Zaproszenia, dekoracje, gry, menu, kostiumy i plan imprezy dla dzieci lub dorosłych bez zbędnych wydatków.",
+      "image": "/poradniki/images/halloween-party-w-usa-poradnik-2026.jpg",
+      "alt": "Halloweenowa impreza z dekoracjami, przekąskami i gośćmi w kostiumach"
+    },
+    {
       "slug": "halloween-w-usa",
       "url": "/halloween/",
       "title": "Halloween w USA – jak wygląda i co warto wiedzieć?",
