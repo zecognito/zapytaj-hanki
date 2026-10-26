@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "slug": "caramel-apples",
+      "title": "Caramel Apples – amerykańskie jabłka w karmelu na Halloween",
+      "date": "2026-10-26",
+      "summary": "Amerykańskie jabłka na patyczkach w domowym karmelu, z orzechami i halloweenową posypką.",
+      "image": "/przepisy/images/halloween-caramel-apples-2026-1.jpg",
+      "alt": "Jabłka w karmelu na Halloween",
+      "servings": "6 JABŁEK",
+      "url": "/halloween/caramel-apples/"
+    },
+    {
+      "slug": "sugar-cookies",
+      "title": "Halloween Sugar Cookies – ciasteczka do wycinania i dekorowania",
+      "date": "2026-10-26",
+      "summary": "Maślane halloweenowe ciasteczka do wycinania w kształcie dyń, duchów i nietoperzy.",
+      "image": "/przepisy/images/halloween-sugar-cookies-2026-1.jpg",
+      "alt": "Halloween sugar cookies",
+      "servings": "24 CIASTECZKA",
+      "url": "/halloween/sugar-cookies/"
+    },
+    {
+      "slug": "popcorn-balls",
+      "title": "Popcorn Balls na Halloween – słodkie kulki z popcornu",
+      "date": "2026-10-26",
+      "summary": "Słodkie amerykańskie kulki z popcornu i syropu cukrowego.",
+      "image": "/przepisy/images/halloween-popcorn-balls-2026-1.jpg",
+      "alt": "Kulki popcornowe",
+      "servings": "10–12 KULEK",
+      "url": "/halloween/popcorn-balls/"
+    },
+    {
+      "slug": "apple-cider",
+      "title": "Hot Apple Cider – gorący napój jabłkowy po amerykańsku",
+      "date": "2026-10-26",
+      "summary": "Gorący bezalkoholowy napój jabłkowy z cynamonem, pomarańczą i goździkami.",
+      "image": "/przepisy/images/hot-apple-cider-halloween-2026-1.jpg",
+      "alt": "Hot Apple Cider",
+      "servings": "8 PORCJI",
+      "url": "/halloween/apple-cider/"
+    },
+    {
+      "slug": "halloween-punch",
+      "title": "Halloween Punch – bezalkoholowy napój na Halloween party",
+      "date": "2026-10-26",
+      "summary": "Bezalkoholowy pomarańczowy punch z soków i lemon-lime soda.",
+      "image": "/przepisy/images/halloween-punch-bezalkoholowy-2026-1.jpg",
+      "alt": "Halloween Punch",
+      "servings": "12 PORCJI",
+      "url": "/halloween/halloween-punch/"
+    },
+    {
       "slug": "pumpkin-cheesecake-sernik-dyniowy",
       "title": "Pumpkin Cheesecake – amerykański sernik dyniowy z Philadelphia",
       "date": "2026-10-19",
