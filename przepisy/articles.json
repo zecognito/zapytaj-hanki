@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "slug": "halloween-pumpkin-bread",
+      "url": "/przepisy/halloween-pumpkin-bread/",
+      "title": "Pumpkin Bread – wilgotny amerykański chlebek dyniowy",
+      "date": "2026-10-26",
+      "summary": "Miękki chlebek dyniowy z cynamonem, bez drożdży. Prosty amerykański przepis krok po kroku.",
+      "image": "/przepisy/images/halloween-pumpkin-bread-2026-1.jpg",
+      "alt": "Pokrojony amerykański pumpkin bread na jesiennym stole",
+      "servings": "10 KROMEK"
+    },
+    {
       "slug": "pumpkin-cheesecake-sernik-dyniowy",
       "title": "Pumpkin Cheesecake – amerykański sernik dyniowy z Philadelphia",
       "date": "2026-10-19",
