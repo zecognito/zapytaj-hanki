@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "slug": "apple-cider",
-      "title": "Hot Apple Cider – gorący napój jabłkowy po amerykańsku",
-      "date": "2026-10-26",
-      "summary": "Gorący bezalkoholowy napój jabłkowy z cynamonem, pomarańczą i goździkami — amerykański smak jesieni.",
-      "image": "/przepisy/images/hot-apple-cider-halloween-2026-1.jpg",
-      "alt": "Gorący apple cider w szklanych kubkach z cynamonem i jabłkami",
-      "servings": "8 PORCJI",
-      "url": "/halloween/apple-cider/"
-    },
-    {
-      "slug": "halloween-punch",
-      "title": "Halloween Punch – bezalkoholowy napój na Halloween party",
-      "date": "2026-10-26",
-      "summary": "Bezalkoholowy, pomarańczowy punch na Halloween party — prosty przepis z soków, lemon-lime soda i sherbet.",
-      "image": "/przepisy/images/halloween-punch-bezalkoholowy-2026-1.jpg",
-      "alt": "Halloween punch w szklanej misie z pomarańczami",
-      "servings": "12 PORCJI",
-      "url": "/halloween/halloween-punch/"
-    },
-    {
       "slug": "pumpkin-cheesecake-sernik-dyniowy",
       "title": "Pumpkin Cheesecake – amerykański sernik dyniowy z Philadelphia",
       "date": "2026-10-19",
