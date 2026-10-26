@@ -1,6 +1,76 @@
 {
   "articles": [
     {
+      "slug": "pumpkin-pie",
+      "title": "Pumpkin Pie – klasyczne amerykańskie ciasto dyniowe",
+      "date": "2026-10-26",
+      "summary": "Klasyczny amerykański placek dyniowy: 15 oz puree, 9-inch crust, przyprawy i dwustopniowe pieczenie.",
+      "image": "/przepisy/images/halloween-pumpkin-pie-2026-1.jpg",
+      "alt": "Pumpkin Pie – amerykańskie ciasto dyniowe",
+      "servings": "8 PORCJI",
+      "url": "/halloween/pumpkin-pie/"
+    },
+    {
+      "slug": "roasted-pumpkin-seeds",
+      "title": "Roasted Pumpkin Seeds – chrupiące pestki dyni z piekarnika",
+      "date": "2026-10-26",
+      "summary": "Prażone pestki z halloweenowej dyni.",
+      "image": "/przepisy/images/halloween-roasted-pumpkin-seeds-2026-1.jpg",
+      "alt": "Roasted Pumpkin Seeds",
+      "servings": "1–2 CUPS",
+      "url": "/halloween/roasted-pumpkin-seeds/"
+    },
+    {
+      "slug": "caramel-apples",
+      "title": "Caramel Apples – amerykańskie jabłka w karmelu na Halloween",
+      "date": "2026-10-26",
+      "summary": "Jabłka na patyczkach w domowym karmelu.",
+      "image": "/przepisy/images/halloween-caramel-apples-2026-1.jpg",
+      "alt": "Caramel Apples",
+      "servings": "6 JABŁEK",
+      "url": "/halloween/caramel-apples/"
+    },
+    {
+      "slug": "sugar-cookies",
+      "title": "Halloween Sugar Cookies – ciasteczka do dekorowania",
+      "date": "2026-10-26",
+      "summary": "Maślane ciasteczka na Halloween.",
+      "image": "/przepisy/images/halloween-sugar-cookies-2026-1.jpg",
+      "alt": "Halloween Sugar Cookies",
+      "servings": "24 CIASTECZKA",
+      "url": "/halloween/sugar-cookies/"
+    },
+    {
+      "slug": "popcorn-balls",
+      "title": "Popcorn Balls na Halloween",
+      "date": "2026-10-26",
+      "summary": "Słodkie kulki z popcornu.",
+      "image": "/przepisy/images/halloween-popcorn-balls-2026-1.jpg",
+      "alt": "Popcorn Balls",
+      "servings": "10–12 KULEK",
+      "url": "/halloween/popcorn-balls/"
+    },
+    {
+      "slug": "apple-cider",
+      "title": "Hot Apple Cider – gorący napój jabłkowy",
+      "date": "2026-10-26",
+      "summary": "Rozgrzewający napój jabłkowy z przyprawami.",
+      "image": "/przepisy/images/hot-apple-cider-halloween-2026-1.jpg",
+      "alt": "Hot Apple Cider",
+      "servings": "8 PORCJI",
+      "url": "/halloween/apple-cider/"
+    },
+    {
+      "slug": "halloween-punch",
+      "title": "Halloween Punch – bezalkoholowy napój",
+      "date": "2026-10-26",
+      "summary": "Owocowy punch na Halloween.",
+      "image": "/przepisy/images/halloween-punch-bezalkoholowy-2026-1.jpg",
+      "alt": "Halloween Punch",
+      "servings": "12 PORCJI",
+      "url": "/halloween/halloween-punch/"
+    },
+    {
       "slug": "pumpkin-cheesecake-sernik-dyniowy",
       "title": "Pumpkin Cheesecake – amerykański sernik dyniowy z Philadelphia",
       "date": "2026-10-19",
