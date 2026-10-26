@@ -8,11 +8,12 @@ const status=document.getElementById('guide-status');
 const more=document.getElementById('guide-more');
 const pageSize=8;let items=[],shown=0,loading=false;
 const safePath=s=>typeof s==='string'&&/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(s);
+const safeArticleUrl=s=>typeof s==='string'&&/^\/(?:poradniki|halloween)\/[a-z0-9]+(?:-[a-z0-9]+)*\/$/.test(s);
 const safeImage=s=>typeof s==='string'&&s.startsWith('/')&&!s.startsWith('//')&&!/[?#\\]/.test(s);
 const setStatus=s=>{if(status)status.textContent=s};
 function card(item){
 const article=document.createElement('article');article.className='news-card';
-const link=document.createElement('a');link.className='news-card-link';link.href='/poradniki/'+item.slug+'/';
+const link=document.createElement('a');link.className='news-card-link';link.href=safeArticleUrl(item.url)?item.url:'/poradniki/'+item.slug+'/';
 if(item.image){const img=document.createElement('img');img.className='news-card-image';img.src=item.image;img.alt=item.alt||'';img.loading='lazy';img.decoding='async';link.append(img)}
 const meta=document.createElement('div');meta.className='news-card-date';const date=document.createElement('time');date.dateTime=item.date;date.textContent=new Intl.DateTimeFormat('pl-PL',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'}).format(new Date(item.date+'T12:00:00Z'));meta.append(date);link.append(meta);
 const h=document.createElement('h3');h.textContent=item.title;link.append(h);
