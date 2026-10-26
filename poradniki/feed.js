@@ -8,7 +8,7 @@ const status=document.getElementById('guide-status');
 const more=document.getElementById('guide-more');
 const pageSize=8;let items=[],shown=0,loading=false;
 const safePath=s=>typeof s==='string'&&/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(s);
-const safeArticleUrl=s=>typeof s==='string'&&/^\/(?:poradniki|halloween)\/[a-z0-9]+(?:-[a-z0-9]+)*\/$/.test(s);
+const safeArticleUrl=s=>typeof s==='string'&&/^\/(?:halloween\/|(?:poradniki|halloween)\/[a-z0-9]+(?:-[a-z0-9]+)*\/)$/.test(s);
 const safeImage=s=>typeof s==='string'&&s.startsWith('/')&&!s.startsWith('//')&&!/[?#\\]/.test(s);
 const setStatus=s=>{if(status)status.textContent=s};
 function card(item){
