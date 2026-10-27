@@ -1,17 +1,18 @@
 {
   "articles": [
     {
-      "slug": "pumpkin-bread",
-      "url": "/halloween/pumpkin-bread/",
-      "title": "Pumpkin Bread – wilgotny amerykański chlebek dyniowy",
-      "date": "2026-10-26",
-      "summary": "Miękki chlebek dyniowy z cynamonem, bez drożdży. Prosty amerykański przepis krok po kroku.",
-      "image": "/przepisy/images/halloween-pumpkin-bread-2026-1.jpg",
-      "alt": "Pokrojony amerykański pumpkin bread na jesiennym stole",
-      "servings": "10 KROMEK"
+      "slug": "halloween-mummy-hot-dogs",
+      "url": "/przepisy/halloween-mummy-hot-dogs/",
+      "title": "Halloween Mummy Hot Dogs – parówki mumie na Halloween",
+      "date": "2026-10-25",
+      "summary": "Strasznie prosta przekąska z parówek i ciasta, gotowa w około 25 minut.",
+      "image": "/przepisy/images/halloween-mummy-hot-dogs.jpg",
+      "alt": "Halloween Mummy Hot Dogs – parówki mumie na Halloween",
+      "servings": "['8 SZTUK', '8 PORCJI']"
     },
     {
       "slug": "pumpkin-cheesecake-sernik-dyniowy",
+      "url": "/przepisy/pumpkin-cheesecake-sernik-dyniowy/",
       "title": "Pumpkin Cheesecake – amerykański sernik dyniowy z Philadelphia",
       "date": "2026-10-19",
       "summary": "Kremowy deser na Thanksgiving: kompletna lista zakupów i 15 kroków z wyjaśnieniami.",
@@ -21,6 +22,7 @@
     },
     {
       "slug": "deep-fried-turkey",
+      "url": "/przepisy/deep-fried-turkey/",
       "title": "Deep-Fried Turkey – indyk smażony w głębokim oleju na Thanksgiving",
       "date": "2026-10-16",
       "summary": "Chrupiąca skórka, soczyste mięso i amerykańska tradycja — z instrukcją bezpieczeństwa, której nie wolno pominąć.",
@@ -30,12 +32,93 @@
     },
     {
       "slug": "buffalo-wings",
+      "url": "/przepisy/buffalo-wings/",
       "title": "Buffalo Wings — chrupiące skrzydełka po amerykańsku",
       "date": "2026-10-16",
       "summary": "Klasyczne amerykańskie skrzydełka z piekarnika, w pikantnym sosie Buffalo.",
       "image": "/przepisy/images/buffalo-wings-corrected.jpg",
       "alt": "Buffalo Wings — chrupiące skrzydełka po amerykańsku",
       "servings": "4 PORCJE"
+    },
+    {
+      "slug": "sugar-cookies",
+      "url": "/halloween/sugar-cookies/",
+      "title": "Halloween Sugar Cookies – ciasteczka do wycinania i dekorowania",
+      "date": "2026-09-27",
+      "summary": "Maślane ciasteczka w kształcie dyń, duchów i nietoperzy. Nie rozpływają się łatwo podczas pieczenia, a dekorowanie to połowa halloweenowej zabawy.",
+      "image": "/przepisy/images/halloween-sugar-cookies-2026-1.jpg",
+      "alt": "Halloween Sugar Cookies – ciasteczka do wycinania i dekorowania",
+      "servings": "['OKOŁO 24 CIASTECZKA (ZALEŻNIE OD WIELKOŚCI FOREMEK)']"
+    },
+    {
+      "slug": "roasted-pumpkin-seeds",
+      "url": "/halloween/roasted-pumpkin-seeds/",
+      "title": "Roasted Pumpkin Seeds – chrupiące pestki dyni z piekarnika",
+      "date": "2026-09-27",
+      "summary": "Nie wyrzucam pestek po wycinaniu halloweenowej dyni. Kilka przypraw, gorący piekarnik i mam chrupiącą przekąskę zamiast kolejnej garści cukierków.",
+      "image": "/przepisy/images/halloween-roasted-pumpkin-seeds-2026-1.jpg",
+      "alt": "Roasted Pumpkin Seeds – chrupiące pestki dyni z piekarnika",
+      "servings": "['1–2 CUPS']"
+    },
+    {
+      "slug": "rice-krispies-treats",
+      "url": "/halloween/rice-krispies-treats/",
+      "title": "Rice Krispies Treats na Halloween – chrupiące mumie z marshmallows",
+      "date": "2026-09-27",
+      "summary": "Chrupiące, ciągnące i przebrane za mumie. Amerykański klasyk bez piekarnika — na Halloween i nie tylko.",
+      "image": "/przepisy/images/rice-krispies-treats-halloween-2026-1.jpg",
+      "alt": "Rice Krispies Treats na Halloween – chrupiące mumie z marshmallows",
+      "servings": "['12–16 KAWAŁKÓW']"
+    },
+    {
+      "slug": "pumpkin-pie",
+      "url": "/halloween/pumpkin-pie/",
+      "title": "Pumpkin Pie – klasyczne amerykańskie ciasto dyniowe",
+      "date": "2026-09-27",
+      "summary": "Kruche ciasto, jedwabiste nadzienie z dyni i zapach cynamonu. Tak smakuje amerykańska jesień — i wcale nie potrzebuję do tego gotowej mieszanki pumpkin pie filling.",
+      "image": "/przepisy/images/halloween-pumpkin-pie-2026-1.jpg",
+      "alt": "Pumpkin Pie – klasyczne amerykańskie ciasto dyniowe",
+      "servings": "['8 PORCJI']"
+    },
+    {
+      "slug": "pumpkin-bread",
+      "url": "/halloween/pumpkin-bread/",
+      "title": "Pumpkin Bread – wilgotny amerykański chlebek dyniowy",
+      "date": "2026-09-27",
+      "summary": "Miękki, pachnący cynamonem, bez drożdży i bez wyrabiania. Wystarczy miska, forma i puszka prawdziwej dyni.",
+      "image": "/przepisy/images/halloween-pumpkin-bread-2026-1.jpg",
+      "alt": "Pumpkin Bread – wilgotny amerykański chlebek dyniowy",
+      "servings": "['10 KROMEK']"
+    },
+    {
+      "slug": "popcorn-balls",
+      "url": "/halloween/popcorn-balls/",
+      "title": "Popcorn Balls na Halloween – słodkie kulki z popcornu",
+      "date": "2026-09-27",
+      "summary": "Chrupiące, słodkie i przebrane na Halloween. Amerykańskie popcorn balls z domowym syropem i kolorową posypką.",
+      "image": "/przepisy/images/halloween-popcorn-balls-2026-1.jpg",
+      "alt": "Popcorn Balls na Halloween – słodkie kulki z popcornu",
+      "servings": "['10–12 KULEK']"
+    },
+    {
+      "slug": "halloween-punch",
+      "url": "/halloween/halloween-punch/",
+      "title": "Halloween Punch – bezalkoholowy napój na Halloween party",
+      "date": "2026-09-27",
+      "summary": "Pomarańczowy, musujący i gotowy w 10 minut. Mój prosty sposób na napój, który robi wrażenie bez całego dnia w kuchni.",
+      "image": "/przepisy/images/halloween-punch-bezalkoholowy-2026-1.jpg",
+      "alt": "Halloween Punch – bezalkoholowy napój na Halloween party",
+      "servings": "['OKOŁO 12 PORCJI']"
+    },
+    {
+      "slug": "apple-cider",
+      "url": "/halloween/apple-cider/",
+      "title": "Hot Apple Cider – gorący napój jabłkowy po amerykańsku",
+      "date": "2026-09-27",
+      "summary": "Cynamon, jabłka i pomarańcza. Ten bezalkoholowy amerykański klasyk pachnie jak jesień i rozgrzewa po wieczornym zbieraniu cukierków.",
+      "image": "/przepisy/images/hot-apple-cider-halloween-2026-1.jpg",
+      "alt": "Hot Apple Cider – gorący napój jabłkowy po amerykańsku",
+      "servings": "['OKOŁO 8 PORCJI']"
     }
   ]
 }
