@@ -443,6 +443,3 @@ html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-guides .zh-c
 html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .zh-guides .zh-card:hover{border-color:#ed5f91!important}
 html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body .hanka-footer,html:has(link[rel="canonical"][href*="/palcem-po-mapie/"]) body footer.footer{background:#202124!important;color:#c4c6ca!important;border-top:1px solid #45484e!important}
 
-/* Hanka floating chat launcher v1 */
-.zh-chat-float{position:fixed;right:18px;bottom:calc(20px + env(safe-area-inset-bottom,0px));z-index:10000;display:flex;width:66px;height:66px;border:3px solid #ee5c98;border-radius:50%;background:#25272b;box-shadow:0 7px 24px #0008,0 0 0 4px #ee5c9824;transition:transform .2s;overflow:visible}.zh-chat-float:hover,.zh-chat-float:focus-visible{transform:translateY(-3px)}.zh-chat-float img{display:block;width:100%;height:100%;object-fit:cover;border-radius:50%}.zh-chat-float:after{content:'';position:absolute;right:0;bottom:1px;width:11px;height:11px;border:0;border-radius:50%;background:#37d98a;box-shadow:none}
-@media(max-width:600px){.zh-chat-float{width:58px;height:58px;right:16px;bottom:calc(16px + env(safe-area-inset-bottom,0px))}}@media print{.zh-chat-float{display:none!important}}
